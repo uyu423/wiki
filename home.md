@@ -2,7 +2,7 @@
 title: Hello Yowu Wiki
 description: 
 published: true
-date: 2022-11-23T23:50:02.964Z
+date: 2022-11-23T23:57:52.235Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-22T04:05:30.442Z
