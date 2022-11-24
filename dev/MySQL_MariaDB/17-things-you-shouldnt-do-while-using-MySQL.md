@@ -1,10 +1,17 @@
-# MySQL 쓰면서 하지 말아야 할 것 17가지
+---
+title: MySQL 쓰면서 하지 말아야 할 것 17가지
+description: 
+published: true
+date: 2022-11-24T08:15:08.475Z
+tags: mysql, mariadb, database
+editor: markdown
+dateCreated: 2022-11-24T04:40:40.743Z
+---
 
 권장사항이다. 이것을 이해하면 당신의 어플리케이션이 더 나은 성능을 발휘할 것이다.
-
 다만 이것이 사람의 실력을 판단하는 척도로 사용되서는 안 될 것이다.
 
-Original Post : https://blog.lael.be/post/370
+> Original Post : https://blog.lael.be/post/370
 
 ## 작게 생각하기
 - 조만간 규모가 커질거라면 MySQL ecosystem을 봐야된다.
