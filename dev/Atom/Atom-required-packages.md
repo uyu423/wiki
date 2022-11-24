@@ -1,3 +1,13 @@
+---
+title: Atom Editor 초보자의 필수 패키지 정리
+description: 
+published: true
+date: 2022-11-24T08:06:13.187Z
+tags: atom
+editor: markdown
+dateCreated: 2022-11-24T04:40:28.290Z
+---
+
 # Atom Editor 초보자의 필수 패키지 정리
 - 전제 조건
   - 나는 Node.js 개발 환경을 목표로 패키지를 설치했다.
