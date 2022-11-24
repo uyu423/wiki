@@ -2,13 +2,11 @@
 title: AWS S3 버킷 업로드시 자동으로 Make Public 적용하기
 description: 
 published: true
-date: 2022-11-24T08:09:53.872Z
+date: 2022-11-24T08:09:57.852Z
 tags: aws, s3
 editor: markdown
 dateCreated: 2022-11-24T04:40:10.185Z
 ---
-
-# AWS S3 버킷 업로드시 자동으로 'Make Public'을 적용해보자
 
 ## 이 TIL을 왜 쓰게 되었나?
 - 현재 Static Web Hosting (React.js), CDN Origin 등으로 `AWS S3`를 사용하고 있다.
