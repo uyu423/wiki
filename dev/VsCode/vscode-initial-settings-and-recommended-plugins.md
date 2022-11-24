@@ -1,3 +1,13 @@
+---
+title: Visual Studio Code 초기 세팅 및 추천 플러그인
+description: 
+published: true
+date: 2022-11-24T08:52:12.959Z
+tags: vscode
+editor: markdown
+dateCreated: 2022-11-24T04:41:28.192Z
+---
+
 # Visual Studio Code
 
 - Atom 은 아무래도 TypeScript 에서는 영 구린것 같다.
