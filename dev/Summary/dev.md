@@ -1,4 +1,13 @@
-# RT:FM 2016 : 리액트와 함께하는 서버리스 소셜 미디어 개발기
+---
+title: React와 함께하는 서버리스 소셜 미디어 개발기 - RT:FM 2016
+description: 
+published: true
+date: 2022-11-24T08:40:57.778Z
+tags: serverless, react
+editor: markdown
+dateCreated: 2022-11-24T04:40:12.239Z
+---
+
 - 도경태, 양선흠
 - 삼성 SDS 애자일 코어팀 : 어두운 삼성의 개발 문화에 애자일을 퍼트리는 일.
 - 삼성 SDS에서 애자일 코어팀이 일하는 방식 :
