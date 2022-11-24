@@ -1,4 +1,14 @@
-# 안정적인 Serverless 서비스하기
+---
+title: 안정적인 AWS Serverless 서비스하기
+description: 
+published: true
+date: 2022-11-24T08:11:30.843Z
+tags: aws, serverless
+editor: markdown
+dateCreated: 2022-11-24T04:40:14.227Z
+---
+
+
 - 경주 지진시 국민안전처 사이트 7시간 동안 다운되었음
 - 갑자기 몰린 서비스. 스케일 업 불가능.
   - 사이트 102 request, 820KB.
