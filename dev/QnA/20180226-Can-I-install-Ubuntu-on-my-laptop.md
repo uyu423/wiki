@@ -1,3 +1,13 @@
+---
+title: 노트북에 우분투 깔아써도 될까요?
+description: 2018-02-26
+published: true
+date: 2022-11-24T08:31:52.245Z
+tags: qna, ubuntu
+editor: markdown
+dateCreated: 2022-11-24T07:57:11.581Z
+---
+
 |댓글 작성 일시|작성 방법|커뮤니티|질문자|원문 링크|
 |---|---|---|---|---|
 |2018-02-26 02시쯤?|Mobile App|생활코딩 페이스북|권*|[link](https://www.facebook.com/groups/codingeverybody/permalink/2044109485629577/)|
