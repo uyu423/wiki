@@ -1,4 +1,13 @@
-# DDD : 효과적인 모델링의 요소
+---
+title: DDD : 효과적인 모델링의 요소
+description: 
+published: true
+date: 2022-11-24T08:12:09.431Z
+tags: ddd
+editor: markdown
+dateCreated: 2022-11-24T04:40:30.286Z
+---
+
 - 참고 도서 : Domain Design Driven (Eric Evans / Wikibooks / 2011)
 - 다음과 같은 사항들을 통해 성공적인 모델링을 이끌어 낼 수 있다.
 
