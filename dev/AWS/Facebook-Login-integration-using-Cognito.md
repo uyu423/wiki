@@ -1,4 +1,13 @@
-# AWS Cognito를 사용한 Facebook Login 연동
+---
+title: AWS Cognito를 사용한 Facebook Login 연동
+description: 
+published: true
+date: 2022-11-24T08:08:39.086Z
+tags: aws, cognito, facebook
+editor: markdown
+dateCreated: 2022-11-24T04:40:06.105Z
+---
+
 - [AWS Cognito](https://aws.amazon.com/ko/cognito/)는 Facebook이나 Twitter와 같은 소셜 로그인 기능을 추상화하여 통합적으로 쉽게 관리해주는 서비스다.
   - npm에 있는 passport와 비슷한 친구다.
 - Facebook Login은 [Facebook Developer](https://developers.facebook.com/)에서 App을 생성한 뒤 사용하여 Facebok Login 앱을 사용 설정하면 사용할 수 있다.
