@@ -2,8 +2,8 @@
 title: 요우의 스터디
 description: 
 published: true
-date: 2022-11-24T01:17:40.521Z
-tags: study, 스터디
+date: 2022-11-24T01:23:59.205Z
+tags: study
 editor: markdown
 dateCreated: 2022-11-24T01:14:45.726Z
 ---
