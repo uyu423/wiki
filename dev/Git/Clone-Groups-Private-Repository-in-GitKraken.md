@@ -1,4 +1,12 @@
-# GitKraken에서 Group의 Private Repository Clone하기
+---
+title: GitKraken에서 Group의 Private Repository Clone하기
+description: 
+published: true
+date: 2022-11-24T08:59:46.447Z
+tags: git, gitkraken, ssh
+editor: markdown
+dateCreated: 2022-11-24T08:58:10.503Z
+---
 
 - GitKraken을 만든 axosoft에서 GitHub Enterprise 활성화(유료)를 팔아먹기 위해서인지 GitKraken에서 생성하고 자동으로 등록되는 SSH Key로는 절대 Group의 Private Repository를 가져올 수 없다.
 - 아무리 생각해도 안되는게 이상해서 몇 가지 테스트 해보니 방법을 찾아냈다.
