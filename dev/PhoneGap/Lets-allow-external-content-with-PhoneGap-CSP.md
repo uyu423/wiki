@@ -1,4 +1,12 @@
-# PhoneGap : Content-Security-Policy 메타 태그를 사용하여 외부 컨텐츠를 허용해보자
+---
+title: PhoneGap : Content-Security-Policy 메타 태그를 사용하여 외부 컨텐츠 허용하기
+description: 
+published: true
+date: 2022-11-24T08:30:21.749Z
+tags: phonegap
+editor: markdown
+dateCreated: 2022-11-24T04:40:55.137Z
+---
 
 ## 도대체 왜 이런 TIL을 작성하나?
 - 이왕에 폰갭으로 Hello World를 찍은 김에 **기존 React Project 중 하나를 폰갭으로 이식해보자!** 라는 원대한 꿈을 가짐.
