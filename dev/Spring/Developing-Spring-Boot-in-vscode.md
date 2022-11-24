@@ -1,4 +1,14 @@
-# Visual Studio Code에서 Spring Boot 개발하기
+---
+title: Visual Studio Code에서 Spring Boot 개발하기
+description: 
+published: true
+date: 2022-11-24T08:35:23.143Z
+tags: vscode, springboot
+editor: markdown
+dateCreated: 2022-11-24T04:40:59.243Z
+---
+
+> 사실 이젠 헛짓거리 안하고 얌전히 `intelliJ IDEA` 사용한다. ^20221124^
 
 - 최근 이직한 회사에서는 Java + Spring Boot 기술 스택으로 개발을 하게 되었다.
 - 회사에서 IntelliJ 를 사주기는 하지만, 너무 복잡하다. (내가 기능을 다 쓰기는 할까..?) 나는 아직 텍스트 기반 에디터 + 터미널 질로 개발하는 것을 좋아한다.
