@@ -1,3 +1,13 @@
+---
+title: 우분투에서 윈도우 원격데스크톱 사용
+description: 
+published: true
+date: 2022-11-24T08:50:18.473Z
+tags: ubuntu, windows, rdesktop
+editor: markdown
+dateCreated: 2022-11-24T04:41:22.118Z
+---
+
 ## Installation
 ```bash
 sudo apt install rdesktop
