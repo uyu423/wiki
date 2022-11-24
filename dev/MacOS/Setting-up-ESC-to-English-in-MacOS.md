@@ -1,3 +1,13 @@
+---
+title: MacOS 에서 ESC to English 설정하기
+description: 
+published: true
+date: 2022-11-24T08:13:33.431Z
+tags: macos
+editor: markdown
+dateCreated: 2022-11-24T04:40:36.716Z
+---
+
 # ESC to English
 
 vim 애용하는 입장에서 `esc` 키 눌렀을 때 영문 변환 되면 굉장히 편함
