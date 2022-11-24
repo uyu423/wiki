@@ -2,7 +2,7 @@
 title: About Yowu
 description: 
 published: true
-date: 2022-11-24T03:50:46.417Z
+date: 2022-11-24T06:48:24.371Z
 tags: yowu
 editor: markdown
 dateCreated: 2022-11-24T03:16:08.881Z
@@ -15,8 +15,9 @@ dateCreated: 2022-11-24T03:16:08.881Z
 
 > **NAVER** Forest CIC 쇼핑라이브 플랫폼팀 백엔드 개발자
 > <span style="color:silver;">**야놀자** R&D 그룹 CX 개발실 백엔드 개발자
-> <span style="color:silver;">**PLATING Inc.** 소프트웨어 엔지니어
-> <span style="color:silver;">**Ecube Labs Co.,** Ltd. 서버 개발자
+> <span style="color:silver;">**PLATING** 소프트웨어 엔지니어
+> <span style="color:silver;">**Ecube Labs** 서버 개발자
+> <span style="color:silver;">**KYNY** PHP 개발자
 
 - [RESUME](https://resume.yowu.dev)
 - [Github*uyu423*](https://github.com/uyu423)
