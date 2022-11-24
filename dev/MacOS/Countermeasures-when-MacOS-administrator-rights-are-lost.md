@@ -1,4 +1,12 @@
-# MacOS 관리자 권한 분실 시 대처 방안
+---
+title: MacOS 관리자 권한 분실 시 대처 방안
+description: 
+published: true
+date: 2022-11-24T08:12:36.396Z
+tags: macos
+editor: markdown
+dateCreated: 2022-11-24T04:40:32.309Z
+---
 
 ## Background
 - 회사에서 지급 받은 맥북 프로의 사용자 이름을 변경하려고 함.
