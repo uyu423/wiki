@@ -1,3 +1,13 @@
+---
+title: adb로 stderr 리다이렉션 설정하기
+description: 
+published: true
+date: 2022-11-24T08:03:47.517Z
+tags: android, adb
+editor: markdown
+dateCreated: 2022-11-24T04:40:18.327Z
+---
+
 ```bash
 adb shell stop                           
 adb shell setprop log.redirect-stdio true
