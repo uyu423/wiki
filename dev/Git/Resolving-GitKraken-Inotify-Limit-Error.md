@@ -1,4 +1,12 @@
-# GitKraken Inotify Limit Error 해결
+---
+title: GitKraken Inotify Limit Error 해결
+description: 
+published: true
+date: 2022-11-24T09:00:44.011Z
+tags: gitkraken
+editor: markdown
+dateCreated: 2022-11-24T08:58:14.603Z
+---
 
 - 리눅스 커널 기반 운영체제에서 `GitKraken` 을 사용하다보면 `Inotify Limit Erorr` 를 만나게될 확률이 굉장히 높다.
 - `GitKraken` 은 파일 시스템의 변경 사항을 실시간으로 추적하는데 우부투 커널 내의 `Inotify` 서브 서비스를 사용한다.
