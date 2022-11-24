@@ -1,4 +1,13 @@
-# MeltingPot Young community 세미나 - 영롱한 개발자 되기 (20170826)
+---
+title: 영롱한 개발자 되기 - MeltingPot Young community 세미나
+description: 2017-08-26
+published: true
+date: 2022-11-24T08:36:19.092Z
+tags: seminar, summary
+editor: markdown
+dateCreated: 2022-11-24T07:57:15.607Z
+---
+
 
 ## 참여 커뮤니티 소개
 
