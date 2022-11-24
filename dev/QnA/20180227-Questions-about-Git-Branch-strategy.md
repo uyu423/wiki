@@ -1,3 +1,13 @@
+---
+title: Git Branch 전략에 대한 질문
+description: 20180227
+published: true
+date: 2022-11-24T08:32:27.267Z
+tags: qna, git
+editor: markdown
+dateCreated: 2022-11-24T07:57:13.614Z
+---
+
 |댓글 작성 일시|작성 방법|커뮤니티|질문자|원문 링크|
 |---|---|---|---|---|
 |2018-02-27 01:37|PC Web + Notepad|생활코딩 페이스북|강*|[link](https://www.facebook.com/groups/codingeverybody/permalink/2045772165463309/)|
