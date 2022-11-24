@@ -1,16 +1,12 @@
 ---
 title: Study
-description: 
+description: 요우의 스터디 모음
 published: true
-date: 2022-11-24T03:28:59.916Z
+date: 2022-11-24T03:59:15.510Z
 tags: study
 editor: markdown
 dateCreated: 2022-11-24T01:14:45.726Z
 ---
-
-
-> 요우의 스터디 모음 :pencil2:
-
 
 #  코틀린 스터디 (Kotlin in Action)
 
