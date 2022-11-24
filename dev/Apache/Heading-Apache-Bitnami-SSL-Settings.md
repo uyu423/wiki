@@ -1,4 +1,12 @@
-# Bitnami Apache2 SSL 설정 삽질기
+---
+title: Bitnami Apache2 SSL 설정 삽질기
+description: 
+published: true
+date: 2022-11-24T08:04:35.619Z
+tags: apache, ssl, bitnami
+editor: markdown
+dateCreated: 2022-11-24T04:40:20.350Z
+---
 
 ## Trouble Shooting 부들부들..
 - 회사 랜딩 페이지(공식 홈페이지)가 특정 기기(이라 쓰고 모바일이라 읽는다)에서만 SSL 인증 문제가 발생했다.(CA 인증 실패) 설정파일에서 Certificate파일과 Private Key파일, Chain 파일까지 모두 제대로 잡았다고 생각했는데, 적용이 안되는 상황. 원인부터 밝히자면 내가 SSL 설정을 잡았던 그 `conf` 파일이 사실은 `YOU JUST ACTIVATED MY TRAP CARD` 였던 상황
