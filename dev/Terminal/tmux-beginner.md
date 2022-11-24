@@ -1,4 +1,13 @@
-# tmux 완전 기초
+---
+title: tmux 완전 기초
+description: 
+published: true
+date: 2022-11-24T08:43:45.011Z
+tags: terminal, tmux
+editor: markdown
+dateCreated: 2022-11-24T04:41:11.799Z
+---
+
 ![image](https://cloud.githubusercontent.com/assets/8033320/21155711/89a95990-c1b6-11e6-9cc1-4e7dd58a0160.png)
 - 이젠 tmux도 적절하게 써야할 때..! 모니터가 한 4대 정도 되면 안써도 될 것 같다.
 
