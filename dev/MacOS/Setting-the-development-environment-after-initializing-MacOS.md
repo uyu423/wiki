@@ -1,4 +1,12 @@
-# MacOS 초기화 후 개발 환경 세팅
+---
+title: MacOS 초기화 후 개발 환경 세팅
+description: 
+published: true
+date: 2022-11-24T08:12:58.953Z
+tags: macos
+editor: markdown
+dateCreated: 2022-11-24T04:40:34.287Z
+---
 
 > 2018.03.10 회사에서 지급받은 맥북프로 초기화 진행 하면서 기록
 > 2020.04.02 에 17년형 MacBook Pro 에서 19년형 MacBook Pro 로 교체하면서 업데이트 함
