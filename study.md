@@ -1,8 +1,8 @@
 ---
-title: 요우의 스터디
+title: Study
 description: 
 published: true
-date: 2022-11-24T01:23:59.205Z
+date: 2022-11-24T01:47:12.001Z
 tags: study
 editor: markdown
 dateCreated: 2022-11-24T01:14:45.726Z
