@@ -1,4 +1,12 @@
-# 함수형 프로그래밍과 스타트업 1인 개발 도전기 - 박미정
+---
+title: 함수형 프로그래밍과 스타트업 1인 개발 도전기 - 박미정
+description: 
+published: true
+date: 2022-11-24T08:38:38.444Z
+tags: seminar, summary
+editor: markdown
+dateCreated: 2022-11-24T04:41:03.515Z
+---
 
 ## 어떻게 팀에 도입을?
 - 작은 스타트업 팀이지만 어떻게 도입할거임?
