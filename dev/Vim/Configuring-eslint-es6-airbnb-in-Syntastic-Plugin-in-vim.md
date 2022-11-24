@@ -1,4 +1,12 @@
-# vim Syntastic Plugin에 eslint-es6-airbnb 설정하기
+---
+title: vim Syntastic Plugin에 eslint-es6-airbnb 설정하기
+description: 
+published: true
+date: 2022-11-24T08:51:17.316Z
+tags: nodejs, vim, eslint
+editor: markdown
+dateCreated: 2022-11-24T04:41:26.177Z
+---
 
 ## npm 패키지 설치
 - 우분투 전역(sudo) 설치 기준
