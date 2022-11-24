@@ -1,4 +1,12 @@
-# Atom Editor Python 패키지 모음
+---
+title: Atom Editor Python
+description: 
+published: true
+date: 2022-11-24T08:05:20.713Z
+tags: atom, python
+editor: markdown
+dateCreated: 2022-11-24T04:40:22.407Z
+---
 
 ## autocomplete-python
 - 파이썬 관련 autocomplete 제공
