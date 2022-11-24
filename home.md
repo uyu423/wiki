@@ -1,15 +1,16 @@
 ---
-title: YOWU DEV WIKI
+title: Home
 description: 요우의 사설 개발 위키 입니다. 온갖 잡다한 문서들이 생성됩니다.
 published: true
-date: 2022-11-24T09:30:41.384Z
+date: 2022-11-24T09:37:07.524Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-22T04:05:30.442Z
 ---
 
-![yowu-white-trans.png](/yowu-white-trans.png){.align-center}
+## About Yowu
 
+![yowu-white-trans.png](/yowu-white-trans.png){.align-center}
 
 ![github_stats](https://github-readme-stats.vercel.app/api?username=uyu423&show_icons=true&count_private=true){.align-center}
 
