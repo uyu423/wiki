@@ -1,4 +1,13 @@
-# Elastic Beanstalk .ebextensions 로 nginx.conf 설정 갈아끼우기
+---
+title: Elastic Beanstalk .ebextensions 로 nginx.conf 설정 갈아끼우기
+description: 
+published: true
+date: 2022-11-24T08:09:17.546Z
+tags: aws, elasticbeanstalk, ebextensions, nginx
+editor: markdown
+dateCreated: 2022-11-24T04:40:08.206Z
+---
+
 
 - beanstalk 로 배포되는 서비스의 nginx 설정을 변경해야하는 일이 생겼다.
 - 일반적인 방법은 `.ebextensions` 에 `nginx/conf.d/*` 를 생성하거나 `*.config` 파일을 생성하는 방법을 쓰면된다.
