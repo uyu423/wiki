@@ -2,8 +2,8 @@
 title: 터미널에서 Chrome 으로 JIRA 이슈 바로 띄우기
 description: 터미널 성애자가 아니면 쓸 일이 없다.
 published: true
-date: 2022-11-24T04:08:59.047Z
-tags: 
+date: 2022-11-24T04:10:04.452Z
+tags: jira, chrome, terminal
 editor: markdown
 dateCreated: 2022-11-24T04:01:33.704Z
 ---
