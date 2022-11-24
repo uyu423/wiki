@@ -1,3 +1,13 @@
+---
+title: zsh 설치 후 유용한 플러그인
+description: 
+published: true
+date: 2022-11-24T04:06:40.411Z
+tags: dev, zsh
+editor: markdown
+dateCreated: 2022-11-24T04:01:35.651Z
+---
+
 # Zsh
 ```bash
 sudo apt install zsh
