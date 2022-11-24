@@ -1,8 +1,8 @@
 ---
 title: Git Branch 전략에 대한 질문
-description: 20180227
+description: 2018-02-27
 published: true
-date: 2022-11-24T08:32:58.556Z
+date: 2022-11-24T08:33:51.028Z
 tags: git, qna
 editor: markdown
 dateCreated: 2022-11-24T07:57:13.614Z
