@@ -1,4 +1,12 @@
-# Atom Editor 괜찮은 테마와 에디터
+---
+title: Atom Editor 괜찮은 테마와 에디터
+description: 
+published: true
+date: 2022-11-24T08:07:09.367Z
+tags: atom
+editor: markdown
+dateCreated: 2022-11-24T04:40:24.359Z
+---
 
 ## file-type-icons
 - 네비게이터의 아이콘을 확장자에 따라 다르게 표현해준다.
