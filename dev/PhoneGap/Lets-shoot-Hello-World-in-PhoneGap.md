@@ -1,4 +1,13 @@
-# PhoneGap으로 Hello World를 내 폰에 찍어보자
+---
+title: PhoneGap으로 Hello World를 내 폰에 찍어보자
+description: 
+published: true
+date: 2022-11-24T08:30:50.074Z
+tags: phonegap
+editor: markdown
+dateCreated: 2022-11-24T04:40:57.243Z
+---
+
 - 나는 CLI 성애자이니 `phonegap-cli`를 사용하여 내 폰에 Hello World를 찍어내겠다..!
 - PhoneGap official site : http://phonegap.com/
 
