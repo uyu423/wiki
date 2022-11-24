@@ -2,8 +2,8 @@
 title: Git Branch 전략에 대한 질문
 description: 20180227
 published: true
-date: 2022-11-24T08:32:27.267Z
-tags: qna, git
+date: 2022-11-24T08:32:58.556Z
+tags: git, qna
 editor: markdown
 dateCreated: 2022-11-24T07:57:13.614Z
 ---
@@ -22,14 +22,14 @@ git branch 전략은 회사마다, 개발자마다 다를 경우가 많은데 �
 
 하나의 서비스가 있으면 그 서비스는 '실제 사용 단계 (master)', '개발 단계 (develop)', '기능별 개발 단계 (feature/*)' 와 같은 단계를 가질 수 있습니다.
 
-1. 특정 소프트웨어 개발 요구 사항-1이 발생한다.
-2. A 개발자가 요구 사항-1 을 해결하기 위해 develop 브랜치에서 새로운 feature/function-1 을 만들고 개발을 진행한다.
-3. 새로운 요구사항-2 가 발생했다.
-4. B 개발자가 요구 사항-2 를 해결하기 위해 develop 브랜치에서 새로운 feature/function-2 를 만들고 개발을 진행한다.
-5. B 개발자가 A 개발자 보다 먼저 일을 마쳤다. B 개발자는 자신이 개발한 부분을 검토 받고 feature/function-2 브랜치를 develop 브랜치로 merge 했다.
-6. A 개발자도 개발이 끝났다. A 역시 feature/function-1을 develop 브랜치로 merge 시켰다.
-7. develop 브랜치를 개발 서버에 배포하고 테스트를 거친다.
-8. 테스트가 성공적으로 되었다면 develop 브랜치를 master 브랜치와 merge 하고 master 브랜치를 production 서버에 배포한다.
+> 1. 특정 소프트웨어 개발 요구 사항-1이 발생한다.
+> 2. A 개발자가 요구 사항-1 을 해결하기 위해 develop 브랜치에서 새로운 feature/function-1 을 만들고 개발을 진행한다.
+> 3. 새로운 요구사항-2 가 발생했다.
+> 4. B 개발자가 요구 사항-2 를 해결하기 위해 develop 브랜치에서 새로운 feature/function-2 를 만들고 개발을 진행한다.
+> 5. B 개발자가 A 개발자 보다 먼저 일을 마쳤다. B 개발자는 자신이 개발한 부분을 검토 받고 feature/function-2 브랜치를 develop 브랜치로 merge 했다.
+> 6. A 개발자도 개발이 끝났다. A 역시 feature/function-1을 develop 브랜치로 merge 시켰다.
+> 7. develop 브랜치를 개발 서버에 배포하고 테스트를 거친다.
+> 8. 테스트가 성공적으로 되었다면 develop 브랜치를 master 브랜치와 merge 하고 master 브랜치를 production 서버에 배포한다.
 
 간단하게 생각해본 git branch 시나리오입니다. 사실 모든 상황이 저렇게 깔끔하게 떨어지지는 않고, git commit들이 꼬이거나 꼬이거나 꼬이는 별의 별 상황이 다 있을 수 있습니다. 그냥 몇 번 꼬이고 그걸 풀고 하다보면 git은 늡니다. 어느정도 익숙해지시고 우아한형제들 기술 블로그 포스트를 다시보시면 느낌이 다르실 겁니다.
 
