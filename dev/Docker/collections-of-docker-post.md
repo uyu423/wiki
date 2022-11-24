@@ -2,8 +2,8 @@
 title: Docker 관련 좋은 기술 포스트 모음집
 description: 
 published: true
-date: 2022-11-24T15:12:35.325Z
-tags: docker
+date: 2022-11-24T15:12:46.741Z
+tags: docker, collections
 editor: markdown
 dateCreated: 2022-11-24T15:10:23.365Z
 ---
