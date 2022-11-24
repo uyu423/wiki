@@ -1,8 +1,8 @@
 ---
-title: nginx 개인키 생성부터 ssl 적용까지
+title: nginx 개인키 생성부터 SSL 적용까지
 description: 
 published: true
-date: 2022-11-24T08:16:15.829Z
+date: 2022-11-24T08:16:23.513Z
 tags: nginx, ssl
 editor: markdown
 dateCreated: 2022-11-24T04:40:42.908Z
