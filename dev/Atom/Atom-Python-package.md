@@ -1,8 +1,8 @@
 ---
-title: Atom Editor Python
+title: Atom Editor Python 패키지
 description: 
 published: true
-date: 2022-11-24T08:05:20.713Z
+date: 2022-11-24T08:05:49.995Z
 tags: atom, python
 editor: markdown
 dateCreated: 2022-11-24T04:40:22.407Z
