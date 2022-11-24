@@ -1,4 +1,12 @@
-# 실행 파일을 우분투 Application으로 등록하기
+---
+title: 실행 파일을 Ubuntu Application으로 등록하기
+description: 
+published: true
+date: 2022-11-24T08:45:25.289Z
+tags: ubuntu
+editor: markdown
+dateCreated: 2022-11-24T04:41:17.822Z
+---
 
 ## 도대체 무슨 말이냐?
 - 이렇게 생겨먹은 ELF 파일을
