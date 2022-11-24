@@ -1,8 +1,8 @@
 ---
-title: About
+title: YOWU DEV WIKI
 description: 요우의 사설 개발 위키 입니다. 온갖 잡다한 문서들이 생성됩니다.
 published: true
-date: 2022-11-24T09:29:26.680Z
+date: 2022-11-24T09:30:41.384Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-22T04:05:30.442Z
