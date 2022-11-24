@@ -2,7 +2,7 @@
 title:  IT 유목민의 보상과 이직에 대하여
 description: 
 published: true
-date: 2022-11-24T03:43:28.555Z
+date: 2022-11-24T03:43:29.861Z
 tags: articles
 editor: markdown
 dateCreated: 2022-11-24T03:37:31.174Z
