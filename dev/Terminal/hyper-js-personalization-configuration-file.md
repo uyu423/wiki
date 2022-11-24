@@ -1,4 +1,12 @@
-# `.hyper.js` 개인화 설정
+---
+title: hyper.js 개인화 설정
+description: 
+published: true
+date: 2022-11-24T08:43:20.087Z
+tags: terminal
+editor: markdown
+dateCreated: 2022-11-24T04:41:09.487Z
+---
 
 - 개인화 설정 파일은 `~/.hyper.js` 에 위치해도 동작한다.
 
