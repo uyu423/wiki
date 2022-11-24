@@ -2,13 +2,11 @@
 title: Atom Typescript 패키지
 description: 
 published: true
-date: 2022-11-24T08:07:34.182Z
+date: 2022-11-24T08:07:45.333Z
 tags: atom, typescript
 editor: markdown
 dateCreated: 2022-11-24T04:40:26.330Z
 ---
-
-# Atom Typescript 패키지
 
 ## One Shot
 ```bash
