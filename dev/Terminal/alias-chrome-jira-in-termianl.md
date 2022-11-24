@@ -1,6 +1,15 @@
-# JIRA와 Chrome을 사용한다면 터미널에서 JIRA 이슈를 바로 띄워보자
+---
+title: 터미널에서 Chrome 으로 JIRA 이슈 바로 띄우기
+description: 터미널 성애자가 아니면 쓸 일이 없다.
+published: true
+date: 2022-11-24T04:08:59.047Z
+tags: 
+editor: markdown
+dateCreated: 2022-11-24T04:01:33.704Z
+---
 
-- 사실 알프레도? 알프레드? 그 친구를 쓰면 된다는데 나는 영 맥이랑 안친해서..
+
+- 사실 Mac에서 알프레도? 알프레드? 그 친구를 쓰면 된다는데 나는 영 맥이랑 안친해서..
 - `.zshrc` or `.bashrc` 에 추가
   ```bash
   j() { open -n -a "Google Chrome" --args "--new-tab" "http://jira.yanolja.in/browse/$1" }
