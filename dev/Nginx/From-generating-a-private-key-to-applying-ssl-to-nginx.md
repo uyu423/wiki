@@ -1,3 +1,13 @@
+---
+title: nginx 개인키 생성부터 ssl 적용까지
+description: 
+published: true
+date: 2022-11-24T08:16:15.829Z
+tags: nginx, ssl
+editor: markdown
+dateCreated: 2022-11-24T04:40:42.908Z
+---
+
 이번에 회사 SSL 계정이 만료됨에 따라 새로운 SSL 인증서를 발급하는 작업을 했다. 그리고 때 맞춰 회사의 랜딩 페이지가 새로 만들어졌기에 nginx에 SSL을 붙이는 작업도 병행했다.
 
 ## 1. openssl 로 개인키(Private Key) 생성
