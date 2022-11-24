@@ -1,4 +1,13 @@
-# AWS CodeBuild 간단 사용기
+---
+title: AWS CodeBuild 간단 사용기
+description: 
+published: true
+date: 2022-11-24T08:08:12.002Z
+tags: aws, codebuild
+editor: markdown
+dateCreated: 2022-11-24T04:40:04.024Z
+---
+
 - [AWS re:invent 2016](https://aws.amazon.com/ko/blogs/korea/2016-12-aws-webinars-for-developers/?adbsc=social_20161205_68501326&adbid=1803719293218097&adbpl=fb&adbpr=1563378127252216)에서 소개된 새로운 서비스 가운데 내 눈길을 끌었던 것 하나는 [AWS CodeBuild](https://aws.amazon.com/ko/codebuild/) 였습니다. CodeBuild는 기존의 Jenkins CI나 Travis CI를 대체할 수 있지 않을까? 라고 기대하고 있는 서비스 입니다.
 - 개인적으로 CI 툴을 포함한 배포 자동화에 굉장히 약한 편입니다. (그냥 서버 들어가서 작업하는게 편해..) 그래서 이번 CodeBuild에 관심을 관심을 더 가졌고, 간단하게 나마 사용해봤습니다.
 - CodeBuild는 현재 Virginia, Oregon, Ireland 에서만 사용할 수 있습니다.
