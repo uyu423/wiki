@@ -1,8 +1,8 @@
 ---
-title: Apache2 / nginx 에서 https 사용을 위한 certbot SSL 인증서 초간단 설정
-description: 
+title: Apache2 / nginx 에서 certbot 으로 https 초간단 설정
+description: certbot 으로 SSL 인증서 설정하기
 published: true
-date: 2022-11-25T08:57:40.016Z
+date: 2022-11-25T09:04:10.906Z
 tags: apache, certbot, nginx, ssl
 editor: markdown
 dateCreated: 2022-11-24T11:10:15.837Z
