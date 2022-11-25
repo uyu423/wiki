@@ -2,7 +2,7 @@
 title: Apache2 / nginx 에서 https 사용을 위한 certbot SSL 인증서 초간단 설정
 description: 
 published: true
-date: 2022-11-25T08:56:51.644Z
+date: 2022-11-25T08:57:40.016Z
 tags: apache, certbot, nginx, ssl
 editor: markdown
 dateCreated: 2022-11-24T11:10:15.837Z
@@ -110,9 +110,7 @@ blank to select all options shown (Enter 'c' to cancel):
 > sudo add-apt-repository ppa:certbot/certbot
 > sudo apt install python-certbot-nginx -y # or python3-certbot-nginx
 > ```
-{.is-warning}
-
-
+>
 
 ## SSL 인증서 자동 갱신 테스트
 
