@@ -1,9 +1,9 @@
 ---
-title: Apache2 에서 https 사용을 위한 certbot SSL 인증서 초간단 설정
+title: Apache2 / nginx 에서 https 사용을 위한 certbot SSL 인증서 초간단 설정
 description: 
 published: true
-date: 2022-11-24T11:10:15.837Z
-tags: apache, ssl, certbot
+date: 2022-11-25T08:56:51.644Z
+tags: apache, certbot, nginx, ssl
 editor: markdown
 dateCreated: 2022-11-24T11:10:15.837Z
 ---
@@ -22,7 +22,9 @@ sudo snap install --classic certbot
 > sudo ln -s /snap/bin/certbot /usr/bin/certbot
 > ```
 
-## Prepare apache2 conf
+## Prepare
+
+### apache2 conf
 
 - SSL 등록하려는 http 정보가 아파치 설정에 포함되어 있어야한다. `/etc/apache2/sites-enabled`
 - 일반적으로 `sites-available` 디렉토리에 설정을 만들고, `sites-enables` 로 심볼릭 링크를 생성함
@@ -49,10 +51,38 @@ sudo snap install --classic certbot
 > </VirtualHost>
 > ```
 
+### nginx conf
+
+- apache와 마찬가지로 http 정보가 nginx 설정에 포함되어 있어야 한다. `/etc/nginx/sites-enabled/`
+
+> - 아래는 proxy 설정으로 사용하는 nginx http virtual host 설정 샘플
+> - `001-wiki.conf`
+> ```bash
+> server {
+>     listen 80;
+>     server_name wiki.d8.company;
+> 
+>     location / {
+> 			root /var/www/html;
+> 
+> 			proxy_pass  http://127.0.0.1:3000;
+> 			proxy_set_header   Connection "";
+> 			proxy_http_version 1.1;
+> 			proxy_set_header        Host            $host;
+> 			proxy_set_header        X-Real-IP       $remote_addr;
+> 			proxy_set_header        X-Forwarded-For $proxy_add_x_forwarded_for;
+>     }
+> 
+>     gzip on;
+>     gzip_comp_level 4;
+>     gzip_types text/plain text/css application/json application/javascript application/x-javascript text/xml application/xml application/xml+rss text/javascript;
+> }
+> ```
+
 ## Run certbot
 
 ```bash
-$ sudo certbot --apache
+$ sudo certbot --apache # or --nginx
 
 Saving debug log to /var/log/letsencrypt/letsencrypt.log
 Plugins selected: Authenticator apache, Installer apache
@@ -65,13 +95,29 @@ Select the appropriate numbers separated by commas and/or spaces, or leave input
 blank to select all options shown (Enter 'c' to cancel):
 ```
 
-- 이후에는 `http` -> `https` rewrite 라던지 기타 등등 선택 옵션이 나오는데 알잘딱으로 선택
-- `/etc/apache2/sites-enables` 하위에 `*-le-ssl.conf` 가 심볼릭 링크로 생성되고, SSL 설정이 마무리됨
-- 아마 자동으로 apache2 데몬이 재시작 됥텐데 안된 것 같다면 `sudo service apache2 reload`
+- 최초 실행이라면 이메일을 입력받고, 이것저것 약관 동의가 진행된다. 적당히 <kbd>Y</kbd> 를 눌러주면 된다.
+###  apache 의 경우
+  - `http` -> `https` rewrite 라던지 기타 등등 선택 옵션이 나오는데 알잘딱으로 선택
+  - `/etc/apache2/sites-enables` 하위에 `*-le-ssl.conf` 가 심볼릭 링크로 생성되고, SSL 설정이 마무리됨
+  - 아마 자동으로 apache2 데몬이 재시작 됥텐데 안된 것 같다면 `sudo service apache2 reload`
+### nginx 의 경우
+  - 기존 conf 설정을 뒤집어쓰고, redirect 까지 함께 설정된다.
 
-## SSL 인증서 자동 갱신 등록
+> - nginx 의 경우 아래와 같은 메시지가 뜬다면 추가 모듈이 필요하다.
+>   - `The requested nginx plugin does not appear to be installed`
+> 
+> ```bash
+> sudo add-apt-repository ppa:certbot/certbot
+> sudo apt install python-certbot-nginx -y # or python3-certbot-nginx
+> ```
+{.is-warning}
 
-- 아래 커맨드를 한번 걸어두면 SSL 인증서 기한이 다가왔을 때 자동으로 갱신해준다.
+
+
+## SSL 인증서 자동 갱신 테스트
+
+- 기본적으로 certbot은 systemd 에 등록이 되어서 기간이 다가올 경우 SSL 인증서를 
+- 아래 커맨드로 SSL 자동 갱신을 테스트해볼 수 있다.
 
 ```bash
 $ sudo certbot renew --dry-run
