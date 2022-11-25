@@ -1,13 +1,12 @@
 ---
 title: 안정적인 AWS Serverless 서비스하기
-description: 
+description: 언제가의 AWS 관련 세미나 요약
 published: true
-date: 2022-11-24T08:11:30.843Z
-tags: aws, serverless
+date: 2022-11-25T22:05:11.950Z
+tags: aws, seminar, serverless
 editor: markdown
 dateCreated: 2022-11-24T04:40:14.227Z
 ---
-
 
 - 경주 지진시 국민안전처 사이트 7시간 동안 다운되었음
 - 갑자기 몰린 서비스. 스케일 업 불가능.
