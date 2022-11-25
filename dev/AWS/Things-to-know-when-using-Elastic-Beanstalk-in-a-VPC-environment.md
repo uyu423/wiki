@@ -1,8 +1,8 @@
 ---
 title: VPC 환경에서 Elastic Beanstalk 을 사용해야할 때 알아둬야할 것들
-description: 
+description: Public Subnet 이라고 해서 무조건 외부 인터넷과 통신이 가능한 것이 아니다.
 published: true
-date: 2022-11-25T21:58:50.756Z
+date: 2022-11-25T22:02:21.645Z
 tags: aws, elasticbeanstalk, elasticip, vpc
 editor: markdown
 dateCreated: 2022-11-25T20:37:51.253Z
@@ -48,7 +48,9 @@ dateCreated: 2022-11-25T20:37:51.253Z
 
 ## Private Subnet의 경우
 
-> Private Subnet은 외부 인터넷에 연결하지 않고 오직 Public Subnet과 통신한다.{.is-info}
+> Private Subnet은 외부 인터넷에 연결하지 않고 오직 Public Subnet과 통신한다.
+> NAT을 설정하면 필요한 경우 Private Subnet 의 리소스가 외부에 접근이 가능한데, 여기서는 설정하지 않는다. (그리고 NAT은 매우 비싸다)
+{.is-info}
 
 - **라우팅 테이블** (Routing Table)
   - 서브넷 상위 VPC 의 CIDR 이 등록되어 있는지 확인
