@@ -2,8 +2,8 @@
 title: VPC 환경에서 Elastic Beanstalk 을 사용해야할 때 알아둬야할 것들
 description: 
 published: true
-date: 2022-11-25T20:37:51.253Z
-tags: aws, elasticbeanstalk, vpc, elasticip
+date: 2022-11-25T20:38:13.079Z
+tags: aws, elasticbeanstalk, elasticip, vpc
 editor: markdown
 dateCreated: 2022-11-25T20:37:51.253Z
 ---
@@ -41,7 +41,7 @@ dateCreated: 2022-11-25T20:37:51.253Z
 > ```
 > The EC2 instances failed to communicate with AWS Elastic Beanstalk, either because of configuration problems with the VPC or a failed EC2 instance. Check your VPC configuration and try launching the environment again.
 > ```
-
+> .
 {.is-warning}
 
 - 자동 할당 IP 설정
