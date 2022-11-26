@@ -2,7 +2,7 @@
 title: VPC 환경에서 Elastic Beanstalk 을 사용해야할 때 알아둬야할 것들
 description: Public Subnet 이라고 해서 무조건 외부 인터넷과 통신이 가능한 것이 아니다.
 published: true
-date: 2022-11-26T13:10:34.581Z
+date: 2022-11-26T15:33:44.202Z
 tags: aws, elasticbeanstalk, elasticip, vpc
 editor: markdown
 dateCreated: 2022-11-25T20:37:51.253Z
@@ -62,8 +62,11 @@ dateCreated: 2022-11-25T20:37:51.253Z
 
 > Private Subnet은 외부 인터넷에 연결하지 않고 오직 Public Subnet과 통신한다.
 > NAT을 설정하면 필요한 경우 Private Subnet 의 리소스가 외부에 접근이 가능한데, 여기서는 설정하지 않는다. (그리고 NAT은 매우 비싸다)
-> EC2를 프라이빗 생성하는 경우 VPC 의 엔드포인트 기능을 사용해서 특정 AWS 서비스 접근이 가능하게 할 수 있다고 한다. 근데 나는 구성에 실패해서 사용하지 않음. 도전해보실 분은 [CloudFormation](https://docs.aws.amazon.com/cloudformation/index.html) 설정이 어떻게 되어있나 살펴보시는 것도..?
+> > EC2를 Private Subnet에 생성하는 경우 VPC 의 엔드포인트 기능을 사용해서 특정 AWS 서비스 접근이 가능하게 할 수 있다고 한다. [여기](https://wiki.yowu.dev/ko/dev/AWS/VPC-endpoint-settings-when-running-ElasticBeanstalk-EC2-instances-in-a-private-subnet)를 참고
 {.is-info}
+
+
+
 
 - **라우팅 테이블** (Routing Table)
   - 서브넷 상위 VPC 의 CIDR 이 등록되어 있는지 확인
