@@ -2,7 +2,7 @@
 title: VPC 환경에서 Elastic Beanstalk 을 사용해야할 때 알아둬야할 것들
 description: Public Subnet 이라고 해서 무조건 외부 인터넷과 통신이 가능한 것이 아니다.
 published: true
-date: 2022-11-26T15:49:50.772Z
+date: 2022-11-26T16:00:17.716Z
 tags: aws, elasticbeanstalk, elasticip, vpc
 editor: markdown
 dateCreated: 2022-11-25T20:37:51.253Z
@@ -12,6 +12,8 @@ dateCreated: 2022-11-25T20:37:51.253Z
 > AWS 에서 프로젝트를 빌드하면서 Custom VPC 를 생성
 > 하지만 VPC 에서 ElasticBeanstalk 환경을 구축하는데 외부 인터넷 연결 문제로 고생을 했다.
 > 관련되어 체크해야할 VPC 설정들을 정리함
+> (아래 케이스들은 Load Balancer 없이 EC2가 Public subnet 에 있는 경우를 가정함)
+{.is-info}
 
 
 # ElasticBeanstalk
@@ -61,8 +63,8 @@ dateCreated: 2022-11-25T20:37:51.253Z
 ### Private Subnet의 경우
 
 > Private Subnet은 외부 인터넷에 연결하지 않고 오직 Public Subnet과 통신한다.
-> NAT을 설정하면 필요한 경우 Private Subnet 의 리소스가 외부에 접근이 가능한데, 여기서는 설정하지 않는다. (그리고 NAT은 매우 비싸다)
-> > EC2를 Private Subnet에 생성하는 경우 VPC 의 엔드포인트 기능을 사용해서 특정 AWS 서비스 접근이 가능하게 할 수 있다고 한다. [여기](https://wiki.yowu.dev/ko/dev/AWS/VPC-endpoint-settings-when-running-ElasticBeanstalk-EC2-instances-in-a-private-subnet)를 참고
+> NAT을 설정하면 필요한 경우 Private Subnet 의 리소스가 외부에 접근이 가능한데, 여기서는 설정하지 않는다. (NAT은 매우 비싸다)
+> > Load Balancer를 Public Subnet에 생성하고 EC2를 Private Subnet에 생성하는 경우 VPC의 엔드포인트 기능을 사용해서 EC2가 AWS 서비스 접근이 가능하게 할 수 있다고 한다. [여기](https://wiki.yowu.dev/ko/dev/AWS/VPC-endpoint-settings-when-running-ElasticBeanstalk-EC2-instances-in-a-private-subnet)를 참고
 {.is-info}
 
 
