@@ -2,7 +2,7 @@
 title: VPC 환경에서 Elastic Beanstalk 을 사용해야할 때 알아둬야할 것들
 description: Public Subnet 이라고 해서 무조건 외부 인터넷과 통신이 가능한 것이 아니다.
 published: true
-date: 2022-11-25T22:11:08.924Z
+date: 2022-11-26T13:09:46.438Z
 tags: aws, elasticbeanstalk, elasticip, vpc
 editor: markdown
 dateCreated: 2022-11-25T20:37:51.253Z
@@ -13,20 +13,22 @@ dateCreated: 2022-11-25T20:37:51.253Z
 > 하지만 VPC 에서 ElasticBeanstalk 환경을 구축하는데 외부 인터넷 연결 문제로 고생을 했다.
 > 관련되어 체크해야할 VPC 설정들을 정리함
 
-# VPC 설정
+# VPC
 
-## DNS 설정
+## VPC 설정
+
+### DNS 설정
 
 - DNS 확인 활성화 :white_check_mark:
 - DNS 호스트 이름 활성화 :white_check_mark:
 
-# Subnet 설정
+## Subnet 설정
 
 > 아래의 구성은 모든 케이스가 Internet <-> Public Subnet <-> Private Subnet 로만 통신되는 설정을 얘기한다.{.is-info}
 
 ![1_ife_uuqvwijo-oiplrcfba.png](/1_ife_uuqvwijo-oiplrcfba.png =60%x){.align-center}
 
-## Public Subnet의 경우
+### Public Subnet의 경우
 
 - **라우팅 테이블** (Routing Table)
   - 서브넷 상위 VPC 의 CIDR 이 등록되어 있는지 확인
@@ -34,7 +36,7 @@ dateCreated: 2022-11-25T20:37:51.253Z
 - **네트워크 ACL** (Network ACL)
   - 모든 트래픽(유형)이 `0.0.0.0/0`(소스) `Allow` 로 등록되어 있는지 확인
   
-### Public Subnet 추가 설정 :fire::fire:
+#### Public Subnet 추가 설정 :fire::fire:
 
 > VPC 생성할 때 Public Subnet 으로 생성하더라도 아래 설정이 기본 값으로 설정되지 않는다.
 > 그로 인해 ElasticBeanstalk 에서 신규 EC2 인스턴스를 생성할 때 Public IP 할당이 일어나지 않아서, EC2가 ElasticBeanstalk 와 통신이 실패하는 문제가 발생한다.
@@ -48,10 +50,11 @@ dateCreated: 2022-11-25T20:37:51.253Z
 - 자동 할당 IP 설정
   - 퍼블릭 IPv4 주소 자동 할당 활성화 :white_check_mark:
 
-## Private Subnet의 경우
+### Private Subnet의 경우
 
 > Private Subnet은 외부 인터넷에 연결하지 않고 오직 Public Subnet과 통신한다.
 > NAT을 설정하면 필요한 경우 Private Subnet 의 리소스가 외부에 접근이 가능한데, 여기서는 설정하지 않는다. (그리고 NAT은 매우 비싸다)
+> EC2를 프라이빗 생성하는 경우 VPC 의 엔드포인트 기능을 사용해서 특정 AWS 서비스 접근이 가능하게 할 수 있다고 한다. 근데 나는 구성에 실패해서 사용하지 않음. 도전해보실 분은 [CloudFormation](https://docs.aws.amazon.com/cloudformation/index.html) 설정이 어떻게 되어있나 살펴보시는 것도..?
 {.is-info}
 
 - **라우팅 테이블** (Routing Table)
@@ -64,7 +67,7 @@ dateCreated: 2022-11-25T20:37:51.253Z
 - **네트워크 ACL** (Network ACL)
   - 모든 트래픽(유형)이 `0.0.0.0/0`(소스) `Allow` 로 등록되어 있는지 확인
 
-# Security Group 설정
+## Security Group 설정
 
 > 사용하는 AWS 리소스에 따라 적절하게 구성한다. 나는 EC2, RDS 전용 Security Group을 구성했다.
 > 인바운드 규칙은 AWS 리소스가 사용하는 포트에 따라 다르게 구성하고, 아웃바운드 규칙은 모두 `0.0.0.0/0` 전체 TCP 트래픽 허용으로 동일하다.
@@ -79,9 +82,16 @@ dateCreated: 2022-11-25T20:37:51.253Z
 > **유지보수 꼼수**
 > - 라우팅 테이블 때와 마찬가지로, 특정 IP로만 subnetmask 32로 전체 트래픽 허용하게 설정할 수 있다.
 
+# ElasticBeanstalk
+
+## 구성 - 네트워크
+
+- 인스턴스 - 퍼블릭 IP 주소 할당 :white_check_mark:
+
 ---
 
 - [Elastic Beanstalk – In a VPC](https://notes.webutvikling.org/elastic-beanstalk-in-a-vpc/)
 - [The EC2 instances failed to communicate with AWS Elastic Beanstalk, either because of configuration problems with the VPC or a failed EC2 instance. Check your VPC configuration and try launching the environment again.](https://www.reddit.com/r/aws/comments/3edgsp/the_ec2_instances_failed_to_communicate_with_aws/)
-- [Amazon EC2 인스턴스가 Elastic Beanstalk와 통신하지 못할 때 발생하는 오류를 해결하려면 어떻게 해야 합니까?](https://aws.amazon.com/ko/premiumsupport/knowledge-center/elastic-beanstalk-instance-failure/)
+- [Amazon EC2 인스턴스가 Elastic Beanstalk와 통신하지 못할 때 발생하는 오류를 해결하려면 어떻게 해야 합니까?*AWS Documetation*](https://aws.amazon.com/ko/premiumsupport/knowledge-center/elastic-beanstalk-instance-failure/)
+- [NAT gateways are too expensive*Reddit*](https://www.reddit.com/r/aws/comments/w3zrwz/nat_gateways_are_too_expensive/)
 {.links-list}
