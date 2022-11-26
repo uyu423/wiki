@@ -2,7 +2,7 @@
 title: ElasticBeanstalk EC2 인스턴스를 private subnet 에서 실행시 VPC endpoint 설정
 description: EC2 인스턴스를 prviate subnet 에 띄울 경우에 VPC endpoint 를 몇가지 생성해줘야 인스턴스가 정상적으로 프로비저닝 된다.
 published: true
-date: 2022-11-26T15:36:35.459Z
+date: 2022-11-26T15:36:45.983Z
 tags: aws, ec2, elasticbeanstalk, vpc
 editor: markdown
 dateCreated: 2022-11-26T15:31:40.385Z
@@ -37,6 +37,6 @@ dateCreated: 2022-11-26T15:31:40.385Z
 
 # References
 
-- [VPC 환경에서 Elastic Beanstalk 을 사용해야할 때 알아둬야할 것들*wiki.yowu.dev*](https://wiki.yowu.dev/ko/dev/AWS/Things-to-know-when-using-Elastic-Beanstalk-in-a-VPC-environment)
+- [VPC 환경에서 Elastic Beanstalk 을 사용해야할 때 알아둬야할 것들*YOWU DEV WIKI*](https://wiki.yowu.dev/ko/dev/AWS/Things-to-know-when-using-Elastic-Beanstalk-in-a-VPC-environment)
 - [Using Elastic Beanstalk with Amazon VPC*AWS Documents*](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/vpc.html#services-vpc-private-beanstalk)
 {.links-list}
