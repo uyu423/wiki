@@ -2,7 +2,7 @@
 title: VPC 환경에서 Elastic Beanstalk 을 사용해야할 때 알아둬야할 것들
 description: Public Subnet 이라고 해서 무조건 외부 인터넷과 통신이 가능한 것이 아니다.
 published: true
-date: 2022-11-26T13:09:46.438Z
+date: 2022-11-26T13:10:34.581Z
 tags: aws, elasticbeanstalk, elasticip, vpc
 editor: markdown
 dateCreated: 2022-11-25T20:37:51.253Z
@@ -12,6 +12,14 @@ dateCreated: 2022-11-25T20:37:51.253Z
 > AWS 에서 프로젝트를 빌드하면서 Custom VPC 를 생성
 > 하지만 VPC 에서 ElasticBeanstalk 환경을 구축하는데 외부 인터넷 연결 문제로 고생을 했다.
 > 관련되어 체크해야할 VPC 설정들을 정리함
+
+
+# ElasticBeanstalk
+
+## 구성 - 네트워크
+
+- 인스턴스 - 퍼블릭 IP 주소 할당 :white_check_mark:
+
 
 # VPC
 
@@ -82,13 +90,9 @@ dateCreated: 2022-11-25T20:37:51.253Z
 > **유지보수 꼼수**
 > - 라우팅 테이블 때와 마찬가지로, 특정 IP로만 subnetmask 32로 전체 트래픽 허용하게 설정할 수 있다.
 
-# ElasticBeanstalk
-
-## 구성 - 네트워크
-
-- 인스턴스 - 퍼블릭 IP 주소 할당 :white_check_mark:
-
 ---
+
+# References
 
 - [Elastic Beanstalk – In a VPC](https://notes.webutvikling.org/elastic-beanstalk-in-a-vpc/)
 - [The EC2 instances failed to communicate with AWS Elastic Beanstalk, either because of configuration problems with the VPC or a failed EC2 instance. Check your VPC configuration and try launching the environment again.](https://www.reddit.com/r/aws/comments/3edgsp/the_ec2_instances_failed_to_communicate_with_aws/)
