@@ -2,13 +2,14 @@
 title: Dev
 description: 
 published: true
-date: 2022-11-28T03:14:05.097Z
+date: 2022-11-28T11:35:14.401Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
 ---
 
-> for SEO
+> - for robots (SEO)
+> - 일반 사용자는 좌측 메뉴를 사용
 
 ### Andorid
 - [Setting-up-stderr-redirection-with-adb](/dev/Android/Setting-up-stderr-redirection-with-adb)
