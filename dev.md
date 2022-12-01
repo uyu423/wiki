@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2022-11-28T11:35:14.401Z
+date: 2022-12-01T13:47:04.597Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -104,3 +104,7 @@ dateCreated: 2022-11-24T03:26:46.738Z
 - [Configuring-nginx-VirtualHost-and-Proxy](/dev/WAS/Configuring-nginx-VirtualHost-and-Proxy)
 - [setting-certbot-ssl-on-apache2-nginx](/dev/WAS/setting-certbot-ssl-on-apache2-nginx)
 - [From-generating-a-private-key-to-applying-ssl-to-nginx](/dev/WAS/From-generating-a-private-key-to-applying-ssl-to-nginx)
+
+### Wiki.js
+- [Using-Save-Storage-for-Wiki](/dev/Wiki-js/Using-Save-Storage-for-Wiki)
+- [How-to-add-temporary-sitemap-xml-to-Wiki-js](/dev/Wiki-js/How-to-add-temporary-sitemap-xml-to-Wiki-js)
