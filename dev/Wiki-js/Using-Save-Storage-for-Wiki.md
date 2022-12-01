@@ -2,7 +2,7 @@
 title: Wiki.js 2.x 에서 AWS S3 를 저장 스토리지로 사용하기
 description: 
 published: true
-date: 2022-12-01T13:45:14.526Z
+date: 2022-12-01T13:46:20.473Z
 tags: aws, wikijs
 editor: markdown
 dateCreated: 2022-12-01T13:45:14.526Z
@@ -14,6 +14,7 @@ dateCreated: 2022-12-01T13:45:14.526Z
 
 - https://s3.console.aws.amazon.com/s3/home 에서 적당한 이름으로 S3 Bucket 을 생성한다.
 - 생성시 ACL 설정을 off 한다.
+- 별도의 `버킷 정책` 으로 public 버킷을 만들 필요는 없다.
 
 ![스크린샷_2022-12-01_오후_10.35.34.png](/스크린샷_2022-12-01_오후_10.35.34.png =70%x)
 
