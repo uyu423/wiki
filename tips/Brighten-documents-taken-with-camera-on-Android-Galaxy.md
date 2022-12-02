@@ -2,7 +2,7 @@
 title: 안드로이드 갤럭시 카메라로 찍은 문서를 밝게 보정하기
 description: 카메라로 찍은 문서를 팩스 전송이 가능할 정도로 선명하고 밝게 만들기
 published: true
-date: 2022-12-02T08:16:41.626Z
+date: 2022-12-02T08:20:18.360Z
 tags: android, tips
 editor: markdown
 dateCreated: 2022-12-02T08:16:41.626Z
@@ -31,6 +31,10 @@ dateCreated: 2022-12-02T08:16:41.626Z
 ---
 
 - 미리보기로 결과물을 확인하고, 충분히 밝아졌다면 편집된 사진을 저장하고 마무리합니다.
+
+> **Tips.** 충분히 밝아지지 않았다고 생각된다면 다시 '사진 편집'으로 돌아가 '노출' 값을 조정해봅니다.
+{.is-warning}
+
 - 이제 필요한 곳에 사진을 전송하면 됩니다.
 
 ![screenshot_20221202_170150_photo_editor.png](/screenshot_20221202_170150_photo_editor.png =400x)
