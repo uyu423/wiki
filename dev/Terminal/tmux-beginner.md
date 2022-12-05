@@ -2,7 +2,7 @@
 title: tmux 완전 기초
 description: 
 published: true
-date: 2022-11-24T08:43:45.011Z
+date: 2022-11-24T08:58:50.655Z
 tags: terminal, tmux
 editor: markdown
 dateCreated: 2022-11-24T04:41:11.799Z

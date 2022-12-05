@@ -2,7 +2,7 @@
 title: Tips
 description: 요우의 생활 꿀팁 위키
 published: true
-date: 2022-12-02T08:17:30.057Z
+date: 2022-12-02T08:17:31.264Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T07:45:45.574Z

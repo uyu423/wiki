@@ -2,7 +2,7 @@
 title: Atom Editor 괜찮은 테마와 에디터
 description: 
 published: true
-date: 2022-11-24T08:07:09.367Z
+date: 2022-11-24T08:58:05.331Z
 tags: atom
 editor: markdown
 dateCreated: 2022-11-24T04:40:24.359Z

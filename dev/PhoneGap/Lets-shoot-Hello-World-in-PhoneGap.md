@@ -2,7 +2,7 @@
 title: PhoneGap으로 Hello World를 내 폰에 찍어보자
 description: 
 published: true
-date: 2022-11-24T08:30:50.074Z
+date: 2022-11-24T08:58:39.264Z
 tags: phonegap
 editor: markdown
 dateCreated: 2022-11-24T04:40:57.243Z

@@ -2,7 +2,7 @@
 title: AWS CodeBuild 간단 사용기
 description: 
 published: true
-date: 2022-11-24T08:08:12.002Z
+date: 2022-11-24T08:57:54.073Z
 tags: aws, codebuild
 editor: markdown
 dateCreated: 2022-11-24T04:40:04.024Z

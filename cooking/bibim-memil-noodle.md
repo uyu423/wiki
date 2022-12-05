@@ -2,7 +2,7 @@
 title: 비빔 메밀 국수
 description: 여름의 야식은 역시 비빔국수
 published: true
-date: 2022-11-24T09:51:25.105Z
+date: 2022-11-24T09:51:26.328Z
 tags: cooking
 editor: markdown
 dateCreated: 2022-11-24T09:51:04.050Z

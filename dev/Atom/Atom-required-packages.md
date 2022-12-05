@@ -2,7 +2,7 @@
 title: Atom Editor 초보자의 필수 패키지 정리
 description: 
 published: true
-date: 2022-11-24T08:06:18.835Z
+date: 2022-11-24T08:58:07.838Z
 tags: atom
 editor: markdown
 dateCreated: 2022-11-24T04:40:28.290Z

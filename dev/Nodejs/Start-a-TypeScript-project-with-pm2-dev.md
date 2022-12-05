@@ -2,7 +2,7 @@
 title: pm2-dev 로 TypeScript 프로젝트 띄우기
 description: 
 published: true
-date: 2022-11-24T08:27:56.058Z
+date: 2022-11-24T08:58:36.692Z
 tags: nodejs, typescript, pm2
 editor: markdown
 dateCreated: 2022-11-24T04:40:53.123Z

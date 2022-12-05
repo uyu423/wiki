@@ -2,7 +2,7 @@
 title: MacOS 에서 ESC to English 설정하기
 description: 
 published: true
-date: 2022-11-24T08:13:33.431Z
+date: 2022-11-24T08:58:20.445Z
 tags: macos
 editor: markdown
 dateCreated: 2022-11-24T04:40:36.716Z

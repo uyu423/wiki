@@ -2,7 +2,7 @@
 title: 영롱한 개발자 되기 - MeltingPot Young community 세미나
 description: 2017-08-26
 published: true
-date: 2022-11-24T08:36:19.092Z
+date: 2022-11-24T08:36:20.537Z
 tags: seminar, summary
 editor: markdown
 dateCreated: 2022-11-24T07:57:15.607Z

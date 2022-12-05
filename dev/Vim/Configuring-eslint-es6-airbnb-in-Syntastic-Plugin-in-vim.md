@@ -2,7 +2,7 @@
 title: vim Syntastic Plugin에 eslint-es6-airbnb 설정하기
 description: 
 published: true
-date: 2022-11-24T08:51:17.316Z
+date: 2022-11-24T08:59:03.218Z
 tags: nodejs, vim, eslint
 editor: markdown
 dateCreated: 2022-11-24T04:41:26.177Z

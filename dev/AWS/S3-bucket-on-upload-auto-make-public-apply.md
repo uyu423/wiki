@@ -2,7 +2,7 @@
 title: AWS S3 버킷 업로드시 자동으로 Make Public 적용하기
 description: 
 published: true
-date: 2022-11-24T08:09:57.852Z
+date: 2022-11-24T08:57:57.904Z
 tags: aws, s3
 editor: markdown
 dateCreated: 2022-11-24T04:40:10.185Z

@@ -2,7 +2,7 @@
 title: 지적 프로그래밍을 위한 넓고 얇은 습관 - 카카오 서지연
 description: 
 published: true
-date: 2022-11-24T08:41:26.851Z
+date: 2022-11-24T08:58:45.798Z
 tags: seminar
 editor: markdown
 dateCreated: 2022-11-24T04:41:05.585Z

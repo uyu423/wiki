@@ -2,7 +2,7 @@
 title: 안드로이드 9.0 (파이) 화면 회전 제안 버튼 비활성화 하기
 description: 
 published: true
-date: 2022-11-24T08:02:13.121Z
+date: 2022-11-24T08:58:00.414Z
 tags: android
 editor: markdown
 dateCreated: 2022-11-24T04:40:16.237Z

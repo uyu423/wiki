@@ -2,12 +2,11 @@
 title: 해피해킹 프로2 (HHKB2) MacOS 설정
 description: 
 published: true
-date: 2022-11-24T08:14:03.559Z
+date: 2022-11-24T08:58:21.657Z
 tags: macos, hhkb
 editor: markdown
 dateCreated: 2022-11-24T04:40:38.792Z
 ---
-
 
 ## 딥 스위치 설정
 - 2번, 5번 ON, 나머지 OFF

@@ -2,7 +2,7 @@
 title: React와 함께하는 서버리스 소셜 미디어 개발기 - RT:FM 2016
 description: 
 published: true
-date: 2022-11-24T08:40:57.778Z
+date: 2022-11-24T08:58:44.575Z
 tags: serverless, react
 editor: markdown
 dateCreated: 2022-11-24T04:40:12.239Z

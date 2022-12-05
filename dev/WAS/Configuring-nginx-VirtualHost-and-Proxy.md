@@ -2,8 +2,8 @@
 title: Nginx에서 VirtualHost/Proxy 설정하기
 description: 
 published: true
-date: 2022-11-25T09:02:24.015Z
-tags: nginx, proxy, virtualhost
+date: 2022-11-25T09:02:25.257Z
+tags: nginx, virtualhost, proxy
 editor: markdown
 dateCreated: 2022-11-24T08:20:30.225Z
 ---

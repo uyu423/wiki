@@ -2,7 +2,7 @@
 title: 함수형 프로그래밍과 스타트업 1인 개발 도전기 - 박미정
 description: 
 published: true
-date: 2022-11-24T08:38:38.444Z
+date: 2022-11-24T08:58:43.209Z
 tags: seminar, summary
 editor: markdown
 dateCreated: 2022-11-24T04:41:03.515Z

@@ -2,7 +2,7 @@
 title: adb로 stderr 리다이렉션 설정하기
 description: 
 published: true
-date: 2022-11-24T08:03:47.517Z
+date: 2022-11-24T08:58:01.616Z
 tags: android, adb
 editor: markdown
 dateCreated: 2022-11-24T04:40:18.327Z

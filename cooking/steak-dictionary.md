@@ -2,7 +2,7 @@
 title: 스테이크 (Steak)
 description: 스테이크를 잘 굽기 위한 정보 모음
 published: true
-date: 2022-11-24T07:50:34.913Z
+date: 2022-11-24T08:57:52.751Z
 tags: cooking
 editor: markdown
 dateCreated: 2022-11-24T07:50:34.913Z

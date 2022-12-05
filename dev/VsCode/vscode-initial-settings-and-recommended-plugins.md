@@ -2,7 +2,7 @@
 title: Visual Studio Code 초기 세팅 및 추천 플러그인
 description: 
 published: true
-date: 2022-11-24T08:52:12.959Z
+date: 2022-11-24T08:59:04.500Z
 tags: vscode
 editor: markdown
 dateCreated: 2022-11-24T04:41:28.192Z

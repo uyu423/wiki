@@ -2,7 +2,7 @@
 title: GitKraken Inotify Limit Error 해결
 description: 
 published: true
-date: 2022-11-24T09:00:44.011Z
+date: 2022-11-24T09:00:45.235Z
 tags: gitkraken
 editor: markdown
 dateCreated: 2022-11-24T08:58:14.603Z

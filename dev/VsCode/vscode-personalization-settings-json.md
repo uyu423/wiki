@@ -2,7 +2,7 @@
 title: 요우의 Visual Studio 개인화 설정 JSON
 description: 
 published: true
-date: 2022-11-24T08:52:54.493Z
+date: 2022-11-24T08:59:05.755Z
 tags: vscode
 editor: markdown
 dateCreated: 2022-11-24T04:41:30.250Z

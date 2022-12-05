@@ -2,7 +2,7 @@
 title: 우분투 개인 초기 설정 (17.10, 18.04 기준)
 description: 
 published: true
-date: 2022-11-24T08:48:31.329Z
+date: 2022-11-24T08:58:58.092Z
 tags: ubuntu
 editor: markdown
 dateCreated: 2022-11-24T04:41:19.854Z

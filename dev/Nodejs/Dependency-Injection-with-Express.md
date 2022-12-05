@@ -2,7 +2,7 @@
 title: Dependency Injection with Express.js
 description: 
 published: true
-date: 2022-11-24T08:25:24.198Z
+date: 2022-11-24T08:58:33.013Z
 tags: nodejs, expressjs
 editor: markdown
 dateCreated: 2022-11-24T04:40:47.064Z

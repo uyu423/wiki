@@ -2,7 +2,7 @@
 title: MacOS 초기화 후 개발 환경 세팅
 description: 
 published: true
-date: 2022-11-24T08:12:58.953Z
+date: 2022-11-24T08:58:19.160Z
 tags: macos
 editor: markdown
 dateCreated: 2022-11-24T04:40:34.287Z

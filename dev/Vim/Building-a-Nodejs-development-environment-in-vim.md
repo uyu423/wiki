@@ -2,7 +2,7 @@
 title: Vim에 Node.js 개발 환경 구축하기
 description: 
 published: true
-date: 2022-11-24T08:50:52.677Z
+date: 2022-11-24T08:59:01.954Z
 tags: nodejs, vim
 editor: markdown
 dateCreated: 2022-11-24T04:41:24.063Z

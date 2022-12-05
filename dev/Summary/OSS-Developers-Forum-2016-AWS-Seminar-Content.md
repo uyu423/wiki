@@ -2,7 +2,7 @@
 title: 2016 OSS 개발자 포럼 AWS 입문 세미나
 description: 
 published: true
-date: 2022-11-24T08:39:11.042Z
+date: 2022-11-24T08:58:41.964Z
 tags: aws, seminar
 editor: markdown
 dateCreated: 2022-11-24T04:41:01.386Z

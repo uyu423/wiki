@@ -2,7 +2,7 @@
 title: Windows PowerShell에 ./node_modules/.bin PATH 추가
 description: 
 published: true
-date: 2022-11-24T08:23:51.778Z
+date: 2022-11-24T08:58:31.724Z
 tags: windows, powershell, nodejs
 editor: markdown
 dateCreated: 2022-11-24T04:40:44.963Z

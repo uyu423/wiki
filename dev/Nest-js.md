@@ -2,7 +2,7 @@
 title: Nest.js
 description: 
 published: true
-date: 2022-12-05T08:21:39.626Z
+date: 2022-12-05T08:21:40.841Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-05T08:21:39.626Z

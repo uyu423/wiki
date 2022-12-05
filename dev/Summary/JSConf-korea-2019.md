@@ -2,7 +2,7 @@
 title: JSConf Korea 2019 참여 세션 내용 정리
 description: 2019-09-03
 published: true
-date: 2022-11-24T08:37:10.983Z
+date: 2022-11-24T08:37:12.325Z
 tags: seminar, summary, jsconf
 editor: markdown
 dateCreated: 2022-11-24T07:57:17.796Z

@@ -2,7 +2,7 @@
 title: 노트북에 우분투 깔아써도 될까요?
 description: 2018-02-26
 published: true
-date: 2022-11-24T08:31:52.245Z
+date: 2022-11-24T08:31:53.519Z
 tags: qna, ubuntu
 editor: markdown
 dateCreated: 2022-11-24T07:57:11.581Z

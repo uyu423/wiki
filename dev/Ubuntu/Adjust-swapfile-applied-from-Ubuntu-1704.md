@@ -2,7 +2,7 @@
 title: Ubuntu 17.04 부터 적용된 swapfile 조절하기
 description: 
 published: true
-date: 2022-11-24T08:44:32.562Z
+date: 2022-11-24T08:58:54.271Z
 tags: ubuntu, swapfile
 editor: markdown
 dateCreated: 2022-11-24T04:41:13.830Z

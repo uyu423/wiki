@@ -2,8 +2,8 @@
 title: 안정적인 AWS Serverless 서비스하기
 description: 언제가의 AWS 관련 세미나 요약
 published: true
-date: 2022-11-25T22:05:11.950Z
-tags: aws, seminar, serverless
+date: 2022-11-25T22:05:13.248Z
+tags: aws, serverless, seminar
 editor: markdown
 dateCreated: 2022-11-24T04:40:14.227Z
 ---

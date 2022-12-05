@@ -2,7 +2,7 @@
 title: MySQL 쓰면서 하지 말아야 할 것 17가지
 description: 
 published: true
-date: 2022-11-24T08:15:08.475Z
+date: 2022-11-24T08:58:10.470Z
 tags: mysql, mariadb, database
 editor: markdown
 dateCreated: 2022-11-24T04:40:40.743Z

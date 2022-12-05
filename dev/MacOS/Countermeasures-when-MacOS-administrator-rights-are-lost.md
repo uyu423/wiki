@@ -2,7 +2,7 @@
 title: MacOS 관리자 권한 분실 시 대처 방안
 description: 
 published: true
-date: 2022-11-24T08:12:36.396Z
+date: 2022-11-24T08:58:17.800Z
 tags: macos
 editor: markdown
 dateCreated: 2022-11-24T04:40:32.309Z

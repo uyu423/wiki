@@ -2,7 +2,7 @@
 title: 실행 파일을 Ubuntu Application으로 등록하기
 description: 
 published: true
-date: 2022-11-24T08:45:25.289Z
+date: 2022-11-24T08:58:56.836Z
 tags: ubuntu
 editor: markdown
 dateCreated: 2022-11-24T04:41:17.822Z

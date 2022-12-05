@@ -2,7 +2,7 @@
 title: ES6 clsss로 싱글톤 패턴을 구현해보자
 description: 
 published: true
-date: 2022-11-24T08:26:59.036Z
+date: 2022-11-24T08:58:35.443Z
 tags: nodejs, singleton
 editor: markdown
 dateCreated: 2022-11-24T04:40:51.154Z

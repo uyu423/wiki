@@ -2,12 +2,11 @@
 title: Dell 노트북에 우분투를 설치하고 추가로 해야하는 일들
 description: 
 published: true
-date: 2022-11-24T08:44:56.432Z
+date: 2022-11-24T08:58:55.535Z
 tags: ubuntu, dell
 editor: markdown
 dateCreated: 2022-11-24T04:41:15.794Z
 ---
-
 
 ![Ubuntu 18.04 in Dell XPS 13](https://user-images.githubusercontent.com/8033320/63880270-62f0ad00-ca08-11e9-8eef-688c4584d10a.png)
 

@@ -2,7 +2,7 @@
 title: AWS Cognito를 사용한 Facebook Login 연동
 description: 
 published: true
-date: 2022-11-24T08:08:39.086Z
+date: 2022-11-24T08:57:55.387Z
 tags: aws, cognito, facebook
 editor: markdown
 dateCreated: 2022-11-24T04:40:06.105Z

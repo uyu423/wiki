@@ -2,7 +2,7 @@
 title: hyper.js 개인화 설정
 description: 
 published: true
-date: 2022-11-24T08:43:20.087Z
+date: 2022-11-24T08:58:49.404Z
 tags: terminal
 editor: markdown
 dateCreated: 2022-11-24T04:41:09.487Z

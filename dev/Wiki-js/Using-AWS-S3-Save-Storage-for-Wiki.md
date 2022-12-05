@@ -2,7 +2,7 @@
 title: Wiki.js 2.x 에서 AWS S3 를 저장 스토리지로 사용하기
 description: 
 published: true
-date: 2022-12-01T13:47:24.336Z
+date: 2022-12-01T13:47:25.732Z
 tags: aws, wikijs
 editor: markdown
 dateCreated: 2022-12-01T13:45:14.526Z
