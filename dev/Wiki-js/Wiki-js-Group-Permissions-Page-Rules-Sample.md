@@ -2,7 +2,7 @@
 title: Wiki.js Group Permission (Page Rules) Sample
 description: Wiki.js 그룹 사용자 권한 (Page Rules) 샘플
 published: true
-date: 2022-12-07T09:36:53.363Z
+date: 2022-12-07T09:37:54.978Z
 tags: wikijs
 editor: markdown
 dateCreated: 2022-12-07T09:36:53.363Z
@@ -13,7 +13,7 @@ dateCreated: 2022-12-07T09:36:53.363Z
 ![스크린샷_2022-12-07_오후_6.21.00.png](/스크린샷_2022-12-07_오후_6.21.00.png)
 
 - 위와 같이 설정 시, 해당 그룹은
-  - `/` 페이지 접근 가능
+  - `/` 페이지 접근 가능 (Page, Assets Readonly)
   - `/secret-dir`, `/banned-dir` 접근 불가능 (리스트에 보이지 않음)
   - `/multi-dir/inner-dir-A` CRUD 가능
   - `/multi-dir/` 하위의 다른 디렉토리는 접근 불가능 (리스트에서 보이지 않음)
