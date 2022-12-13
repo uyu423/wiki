@@ -2,11 +2,13 @@
 title: Nginx에서 VirtualHost/Proxy 설정하기
 description: 
 published: true
-date: 2022-11-25T09:02:25.257Z
-tags: nginx, virtualhost, proxy
+date: 2022-12-13T16:47:24.039Z
+tags: nginx, proxy, virtualhost
 editor: markdown
 dateCreated: 2022-11-24T08:20:30.225Z
 ---
+
+![nginx-logo.png](/nginx-logo.png){.align-abstopright}
 
 - 아파치에서는 한번씩 했지만 Nginx는 방법을 몰랐다. 하지만 아파치와 비슷하더라.
 - 우분투 기준
