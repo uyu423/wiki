@@ -2,13 +2,13 @@
 title: certbot 으로 SSL 인증서 설정하기
 description: Apache2 / nginx 에서 certbot 으로 https 초간단 설정
 published: true
-date: 2022-11-25T09:06:58.086Z
-tags: apache, ssl, certbot, nginx
+date: 2022-12-13T16:42:11.865Z
+tags: apache, certbot, nginx, ssl
 editor: markdown
 dateCreated: 2022-11-24T11:10:15.837Z
 ---
 
-![certbot-solid-c4e500f9953fc8ee1d38cb0b22778163602a82cb2b39a5bc89211315c5c877c9.svg](/certbot-solid-c4e500f9953fc8ee1d38cb0b22778163602a82cb2b39a5bc89211315c5c877c9.svg){.align-center}
+![certbot-logo.png](/certbot-logo.png){.align-center}
 
 ## Install certbot
 
