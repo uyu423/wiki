@@ -2,7 +2,7 @@
 title: Nginx에서 VirtualHost/Proxy 설정하기
 description: 
 published: true
-date: 2022-12-14T09:26:57.688Z
+date: 2022-12-14T09:27:19.884Z
 tags: nginx, proxy, virtualhost
 editor: markdown
 dateCreated: 2022-11-24T08:20:30.225Z
@@ -43,12 +43,12 @@ server {
 > - 설정이 더 추가 된다면 `/etc/nginx/sites-*/` 디렉토리 내에서 별도 conf 파일로 관리하는 것이 수월하다.
 > - `/etc/nginx/sites-available/wiki.conf` 를 생성했다면, 아래와 같이 심볼릭 링크를 걸어서 관리할 수 있다.
 > ```bash
-> `sudo ln -s /etc/nginx/sites-available/wiki.conf /etc/nginx/sites-enabled/`
+> sudo ln -s /etc/nginx/sites-available/wiki.conf /etc/nginx/sites-enabled/
 > ```
 > - 별도의 sites enabled 시키는 명령어가 있다고는 들었는데, 귀찮아서 잘 안쓴다.
 
 > nginx virtual host + ssl 로 https 를 구현했다면 `location /` 블럭 하위에 아래 구문을 추가한다.
-> ```
+> ```bash
 > proxy_set_header        X-Forwarded-Proto	https;
 > ```
 > 일부 환경에서 https -> http reverse proxy 로 인한 다양한 문제가 해결 될 수도 있다. (wp-admin 이라던지..)
