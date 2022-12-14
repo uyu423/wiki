@@ -2,7 +2,7 @@
 title: Nginx에서 VirtualHost/Proxy 설정하기
 description: 
 published: true
-date: 2022-12-13T16:47:54.157Z
+date: 2022-12-14T09:24:58.260Z
 tags: nginx, proxy, virtualhost
 editor: markdown
 dateCreated: 2022-11-24T08:20:30.225Z
@@ -30,6 +30,12 @@ server {
 
     location / {
         proxy_pass http://localhost:9000;
+        proxy_set_header   Connection ""; # optional
+        proxy_http_version 1.1; # optional
+        proxy_set_header        Host            	$host; # optional
+        proxy_set_header        X-Real-IP      		$remote_addr; #optional
+        proxy_set_header        X-Forwarded-For		$proxy_add_x_forwarded_for; # optional
+        proxy_set_header        X-Forwarded-Proto	https; # optional
     }
 }
 ```
