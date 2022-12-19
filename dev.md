@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2022-12-13T15:43:37.692Z
+date: 2022-12-19T14:51:16.584Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -49,6 +49,7 @@ dateCreated: 2022-11-24T03:26:46.738Z
 - [Setting-up-ESC-to-English-in-MacOS](/dev/MacOS/Setting-up-ESC-to-English-in-MacOS)
 - [Setting-the-development-environment-after-initializing-MacOS](/dev/MacOS/Setting-the-development-environment-after-initializing-MacOS)
 - [Using-Happy-Hacking-Pro2-on-MacOS](/dev/MacOS/Using-Happy-Hacking-Pro2-on-MacOS)
+- [Resolving-git-xcrun-error-after-macos-update](/dev/MacOS/Resolving-git-xcrun-error-after-macos-update)
 
 ### Node.js
 - [Dependency-Injection-with-Express](/dev/Nodejs/Dependency-Injection-with-Express)
