@@ -2,14 +2,14 @@
 title: MacOS 업데이트 이후 xcrun: error 이슈 해결
 description: 이 에러는 뭔데 MacOS 업데이트 할 때마다 높은 확률로 발생하냐...
 published: true
-date: 2022-12-19T14:50:03.519Z
+date: 2022-12-19T14:50:19.968Z
 tags: git, macos
 editor: markdown
 dateCreated: 2022-12-19T14:50:03.519Z
 ---
 
 
-## 상황
+## 이슈
 
 - MacOS 업데이트 이후 `git` CLI 명령어 실행시 아래와 같은 에러가 발생한다.
 
