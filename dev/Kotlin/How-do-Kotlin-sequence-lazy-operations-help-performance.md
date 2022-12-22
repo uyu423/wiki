@@ -2,7 +2,7 @@
 title: 코틀린의 지연 계산(lazy) 컬렉션 연산은 성능에 어떻게 도움을 주는가?
 description: 
 published: true
-date: 2022-12-22T10:51:04.290Z
+date: 2022-12-22T19:07:20.240Z
 tags: kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-22T09:58:59.616Z
@@ -49,9 +49,10 @@ for (n in evenNumbers) {
 > ***요우의 사담 2*** 😎
 > Java의 `Stream API`도 lazily evaluated collection 을 지원한다.
 >
-> - `Stream` class in Java is a lazily evaluated collection of elements that can be transformed and filtered using various operations. Like Kotlin's `Sequence` class, the `Stream` class allows you to perform operations on the elements of a collection lazily, which can improve performance in certain cases.
-> 
-> - When you perform an operation on a `Stream`, the operation is not actually executed until you start consuming the elements of the `Stream`, either by iterating over the elements or by using a terminal operation such as `count`, `collect`, or `reduce`. This means that the operation is only performed on the elements that are actually needed, which can be more efficient than performing the operation on the entire collection at once.
+> - Java의 `Stream` 클래스는 다양한 작업을 사용하여 변환 및 필터링할 수 있는 느리게 평가되는 요소 모음입니다. Kotlin의 `Sequence` 클래스와 마찬가지로 `Stream` 클래스를 사용하면 컬렉션의 요소에 대한 작업을 느리게 수행할 수 있으므로 경우에 따라 성능이 향상될 수 있습니다.
+>   - <small>Stream class in Java is a lazily evaluated collection of elements that can be transformed and filtered using various operations. Like Kotlin's Sequence class, the Stream class allows you to perform operations on the elements of a collection lazily, which can improve performance in certain cases.</small>
+> - `Stream`에서 작업을 수행할 때 요소를 반복하거나 `count`, `collect` 또는 `reduce`와 같은 터미널 작업을 사용하여 `Stream`의 요소를 사용하기 시작할 때까지 작업이 실제로 실행되지 않습니다. 즉, 실제로 필요한 요소에 대해서만 작업이 수행되므로 전체 컬렉션에 대한 작업을 한 번에 수행하는 것보다 효율적일 수 있습니다.
+>   - <small>When you perform an operation on a Stream, the operation is not actually executed until you start consuming the elements of the Stream, either by iterating over the elements or by using a terminal operation such as count, collect, or reduce. This means that the operation is only performed on the elements that are actually needed, which can be more efficient than performing the operation on the entire collection at once.</small>
 
 ## English
 
