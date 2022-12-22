@@ -2,7 +2,7 @@
 title: 코틀린의 지연 계산(lazy) 컬렉션 연산은 성능에 어떻게 도움을 주는가?
 description: 
 published: true
-date: 2022-12-22T09:58:59.616Z
+date: 2022-12-22T10:01:10.888Z
 tags: kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-22T09:58:59.616Z
@@ -66,3 +66,5 @@ for (n in evenNumbers) {
 - In this case, the filter operation is only performed on the elements of the `Sequence` that are actually needed, which are the even numbers that are printed to the console. If you were to perform the filter operation on the entire collection of 10,000 elements at once, it would be less efficient because you would be performing the operation on many elements that are not needed.
 
 - Overall, the `Sequence` class and its lazy operations can help improve performance by allowing you to perform operations on collections lazily and only on the elements that are actually needed. This can be particularly useful when working with large collections or when performing expensive operations on the elements of a collection.
+
+![kotlin_logo_wordmark.png](/kotlin_logo_wordmark.png){.align-center}
