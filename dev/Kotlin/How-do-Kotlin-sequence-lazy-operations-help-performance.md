@@ -2,7 +2,7 @@
 title: 코틀린의 지연 계산(lazy) 컬렉션 연산은 성능에 어떻게 도움을 주는가?
 description: 
 published: true
-date: 2022-12-22T10:42:44.159Z
+date: 2022-12-22T10:51:04.290Z
 tags: kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-22T09:58:59.616Z
@@ -45,6 +45,13 @@ for (n in evenNumbers) {
 > ```
 > 위와 같은 경우에 `Collection` 의 경우 1\*1, 2\*2, 3\*3, 4\*4 을 모두 연산한 다음에 3을 넘는 요소 4 를 탐색하지만,
 > `Sequence` 의 경우 한번에 하나의 요소씩 처리하기 때문에 3\*3, 4\*4 가 연산되지 않아 성능에 도움을 준다는 얘기처럼 보인다.
+
+> ***요우의 사담 2*** 😎
+> Java의 `Stream API`도 lazily evaluated collection 을 지원한다.
+>
+> - `Stream` class in Java is a lazily evaluated collection of elements that can be transformed and filtered using various operations. Like Kotlin's `Sequence` class, the `Stream` class allows you to perform operations on the elements of a collection lazily, which can improve performance in certain cases.
+> 
+> - When you perform an operation on a `Stream`, the operation is not actually executed until you start consuming the elements of the `Stream`, either by iterating over the elements or by using a terminal operation such as `count`, `collect`, or `reduce`. This means that the operation is only performed on the elements that are actually needed, which can be more efficient than performing the operation on the entire collection at once.
 
 ## English
 
