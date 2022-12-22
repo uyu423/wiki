@@ -2,17 +2,7 @@
 title: 코틀린 인 액션: 5장. 람다로 프로그래밍
 description: 
 published: true
-date: 2022-12-22T18:38:46.475Z
-tags: kotlin, study
-editor: markdown
-dateCreated: 2022-11-23T23:27:11.789Z
----
-
----
-title: 코틀린 인 액션: 5장. 람다로 프로그래밍
-description: 
-published: true
-date: 2022-12-22T18:28:36.367Z
+date: 2022-12-22T18:39:01.219Z
 tags: kotlin, study
 editor: markdown
 dateCreated: 2022-11-23T23:27:11.789Z
