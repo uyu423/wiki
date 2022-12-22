@@ -2,7 +2,7 @@
 title: 코틀린 인 액션: 5장. 람다로 프로그래밍
 description: 
 published: true
-date: 2022-12-22T18:13:34.516Z
+date: 2022-12-22T18:25:06.651Z
 tags: kotlin, study
 editor: markdown
 dateCreated: 2022-11-23T23:27:11.789Z
@@ -570,9 +570,44 @@ println(alphabet());
 // Now I know the alphabet!
 ```
 
-> 
-
+> `alphabet` 함수가 `OuterClass` 의 멤버 함수일 경우 `StringBuiler` 가 아닌 `OuterClass` 의 멤버를 호출 하고 싶을 수 있다. 그럴 땐 다음과 같이 사용한다.
+> ```kt
+> this@OuterClass.toString()
+> ```
 
 ## 5.5.2 apply함수
+
+- 거의 `with`와 같다. 차이점은 `apply`는 항상 자신에게 전달된 객체를 반환한다는 점이다. (수신 객체를 반환) `alphabet`을 리팩터한 다음 코드를 보면 된다.
+
+```kt
+fun alphabet() = StringBuilder().apply {
+    for (letter in 'A'..'Z') {
+      append(letter);
+    }
+    append("\nNow I know the alphabet!")  
+}.toString()
+// StringBuilder 에 apply 로 넘어간 람다를 바로 한번 먹인 느낌이다.
+// apply는 확장 함수로 정의되어 있다.
+
+println(alphabet());
+// ABCDEFGHIJKLMNOPQRSTUVWXYZ
+// Now I know the alphabet!
+```
+
 # 5.6 요약
+
+- 람다를 사용하면 코드 조각을 다른 합수에게 인자로 님길 수 있다
+- 코틀린에서는 람다가 함수 인자인 경우 괄호 밖으로 람다를 빼낼 수 있고, 람다의 인자가 단 하나뿐인 경우 인자 이름을 지정하지 않고 `it`이라는 디폴트 이름 으로 부를 수 있다.
+- 람다 안에 있는 코드는 그 람다가 들어있는 바깥 함수의 변수를 읽거나 쓸 수 있다.
+- 메서드, 생성자, 프로퍼티의 이름 앞에 `::`을 붙이면 각각에 대한 참조를 만들 수 있다. 그런 참조를 람다 대신 다른 함수에게 넘길 수 있다.
+- `filter`, `map`, `all`, `any` 등의 함수를 활용하면 컬렉션에 대한 대부분의 연산을 직접 원소를 이터레이션하지 않고 수행할 수 있다.
+- 시퀀스를 사용하면 중간 결과를 담는 컬렉션을 생성하지 않고도 컬렉션에 대한 연산을 여리 조합할 있다. 
+- 합수형 인터페이스(추상 메서드가 단 하나뿐인 SAM 인터페이스)를 인자로 받는 자바 함수를 호출할 경우 람다를 함수형 인터페이스 인자 대신 넘길 수 있다.
+- 수신 객체 지정 람다를 사용하면 람다 안에서 미리 정해둔 수신 객체의 메서드를 직접 호출할 수 있다.
+직접 호출할 수 있다
+- 표준 라이브러리의 with 합수를 사용하면 어떤 객체에 대한 참조를 반복해서
+언급하지 않으면서 그 객체의 메서드를 호출할 수 있다. app1y를
+객체라도 빌터 스타일의 시를 사용해 생성하고 초기화할 수 있다..
+사용하면 어떤
+
 # 기타 참고
