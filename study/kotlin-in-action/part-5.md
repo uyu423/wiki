@@ -2,7 +2,7 @@
 title: 코틀린 인 액션: 5장. 람다로 프로그래밍
 description: 
 published: true
-date: 2022-12-22T18:58:27.044Z
+date: 2022-12-22T18:58:59.294Z
 tags: kotlin, study
 editor: markdown
 dateCreated: 2022-11-23T23:27:11.789Z
@@ -13,8 +13,6 @@ dateCreated: 2022-11-23T23:27:11.789Z
 > - 컬렉션을 처리하는 여러 람다 예제를 살펴본다.
 > - 표준 자바 라이브러리와 코틀린 람다를 함께 사용하는 방법도 살펴본다.
 > - 수신 객체 지정 람다에 대해 살펴본다.
-
----
 
 # 5.1 람다 식과 멤버 참조
 
@@ -623,3 +621,5 @@ println(alphabet());
 - [코틀린 람다 표현식으로 살펴보는 함수형 프로그래밍의 클로져(Closure)*WIKI.YOWU.DEV*](/dev/Kotlin/Kotlin-labmda-functional-programming-closures)
 - [코틀린의 지연 계산(lazy) 컬렉션 연산은 성능에 어떻게 도움을 주는가?*WIKI.YOWU.DEV*](/dev/Kotlin/How-do-Kotlin-sequence-lazy-operations-help-performance)
 {.links-list}
+
+![kotlin.jpeg](/kotlin.jpeg =500x){.align-center}
