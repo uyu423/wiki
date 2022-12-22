@@ -2,7 +2,7 @@
 title: 코틀린 인 액션: 5장. 람다로 프로그래밍
 description: 
 published: true
-date: 2022-12-22T17:12:15.378Z
+date: 2022-12-22T18:13:34.516Z
 tags: kotlin, study
 editor: markdown
 dateCreated: 2022-11-23T23:27:11.789Z
@@ -16,6 +16,10 @@ dateCreated: 2022-11-23T23:27:11.789Z
 
 - 람다는 기본적으로 다른 함수에 넘길 수 있는 작은 코드 조각을 뜻한다.
 - 코틀린에서의 람다식 역시 자바와 마찬가지로 1급 객체다. 다만 Java에서는 `@FunctionalInterface` 라던지 SAM Interface 라던지 좀 더 장황하고 불편하게 사용했어야했는데, 코틀린은 그런거 없다.
+
+> 1급 객체(first-class object)는 함수형 언어에서 사용되는 객체 중에서 가장 중요한 개념입니다. 1급 객체는 일반 객체와 달리 함수의 인자로 전달할 수 있고, 함수의 결과값으로 반환할 수 있으며, 변수에 할당할 수 있습니다.
+> 
+> 1급 객체는 함수형 프로그래밍에서 함수와 마찬가지로 전달, 반환, 할당이 가능한 객체를 의미합니다. 일반적으로 객체지향 프로그래밍에서는 함수를 객체의 속성으로 저장할 수 있지만, 함수형 프로그래밍에서는 함수 자체가 1급 객체이기 때문에 함수를 객체의 속성으로 저장할 필요가 없습니다.
 
 > Kotlin과 Java는 모두 익명 함수를 만드는 방법으로 람다 식을 지원하며 두 언어 모두에서 람다 식은 일급 객체로 취급됩니다. 그러나 람다 표현식이 Kotlin과 Java에서 구현되는 방식에는 몇 가지 주요 차이점이 있습니다.
 > <small>Kotlin and Java both support lambda expressions as a way to create anonymous functions, and in both languages, lambda expressions are treated as first-class objects. However, there are some key differences between the way lambda expressions are implemented in Kotlin and Java:</small>
@@ -360,15 +364,215 @@ println("flatten: ${nestedNumbers.flatten()}");
 
 # 5.3 지연 계산 lazy 컬렉션 연산
 
-- d
+- 앞에서 살펴본 `Collection`, `Map` 에서 사용가능한 람다식들은 모두 중간 컬렉션을 생성한다.
+- 이는 일부 대규모 데이터를 처리할 때 성능에 불이익을 가져올 수 있는데, `Sequence`를 사용하면 중간 임시 컬렉션 없이 연산을 체이닝 할 수 있다.
+```kt
+people
+  .map(Person::name) // <-- 중간 컬렉션이 생성된다.
+  .filter { it.startsWith("A") }
+```
+
+- 수백만 개 이상의 대용량 컬렉션에서 효율적인 처리를 고려할 때 lazy operation을 지원하는 `Sequence` 를 사용할 수 있다.
+
+```kt
+people.asSequence() // 컬렉션을 시퀀스로 변경
+  .map(Person::name) /
+  .filter { it.startsWith("A") }
+  .toList(); // 다시 리스트로 변환
+```
+
+- 이거 완전 Stream API 와 동일하다.
 
 ## 5.3.1 시퀀스 연산 실행: 중간 연산과 최종 연산
+
+```kt
+val seq = listOf(1,2,3,4).asSequence()
+    .map { print("map $it "); it * it }
+    .filter{ print("filter $it "); it % 2 == 0}
+```
+- 시퀀스 형태로 체이닝 되는 모든 중간 연산은 지연 계산된다. (lazy operation) 따라서 위 코드를 실행해도 아무것도 출력되지 않는다.
+- 결과 값을 얻을 필요가 있을 때 (리스트로 반환할 때?) 연산이 적용된다.
+
+```kt
+println("seq list: ${seq.toList()}");
+// map 1 filter 1 map 2 filter 4 map 3 filter 9 map 4 filter 16 seq list: [4, 16]
+```
+
+- 여기서 중요한 점은 일반적인 컬렉션에서의 연산의 순서와 다르다는 점이다. 일반적인 컬렉션에서 동일한 로직을 돌리면 다음과 같이 출력된다.
+
+```kt
+val list = listOf(1,2,3,4)
+    .map { print("map $it "); it * it }
+    .filter { print("filter $it "); it % 2 == 0}
+
+println("list: $list");
+// map 1 map 2 map 3 map 4 filter 1 filter 4 filter 9 filter 16 list: [4, 16]
+```
+
+- 시퀀스를 사용하면 각 원소를 하나씩 체이닝 처리하기 때문에, 중간에 결과 값이 반환되면 이후 원소에 대한 연산이 처리되지 않는다.
+
+```kt
+println(listOf(1, 2, 3, 4).asSequence().map { it * it }.find { it > 3});
+// 1*1 -> 2*2 까지 처리된 뒤 2*2=4 > 3 이 되었으므로, 이후 3*3, 4*4 는 수행되지 않음
+```
+
 ## 5.3.2 시퀀스 만들기
+
+- 지금까지는 이미 존재하는 컬렉션에서 시퀀스를 만들어 사용하는 방식이었지만, 처음부터 시퀀스를 생성할 수도 있다.
+
+```kt
+val naturalNumbers = generateSequence(0) { it + 1};
+val numbersTo100 = naturalNumbers.takeWhile { it <= 100};
+println(numbersTo100.sum()); // 모든 연산은 sum 결과를 계산할 때 수행된다.
+// 5050
+```
+
+- 근데 어떨 때 써먹을 수 있는지는 잘 모르겠다.
+
+> 예제를 좀 더 찾아보았지만, `generateSequence` 로 시퀀스를 즉시 생성하는게 어떤 장점이 있는지는 잘 모르겠고, 아무튼 아래와 경우에 장점이 될 수 있다고 한다.
+> 
+> - 즉석에서 시퀀스를 생성하는 것이 큰 시퀀스를 미리 생성하는 것보다 더 효율적일 수 있습니다. 특히 시퀀스가 ​​무한하거나 매우 큰 경우에는 더욱 그렇습니다. generateSequence전체 시퀀스를 미리 생성하지 않고 필요할 때만 시퀀스의 다음 요소를 생성하기 때문 입니다. 이렇게 하면 특히 시퀀스의 요소를 계산하는 데 비용이 많이 드는 경우 메모리와 계산 리소스를 절약할 수 있습니다.
+>   - <small>Generating sequences on the fly can be more efficient than generating a large sequence upfront, especially when the sequence is infinite or very large. This is because generateSequence generates the next element in the sequence only when it is needed, rather than generating the entire sequence upfront. This can save memory and computational resources, especially when the elements of the sequence are expensive to compute.</small>
+> - 즉석에서 시퀀스를 생성하는 것은 대규모 시퀀스를 미리 생성하는 것보다 더 유연할 수 있습니다. 진행하면서 시퀀스를 수정할 수 있기 때문입니다. 예를 들어 함수를 사용 `filter`하여 시퀀스의 요소를 필터링하거나 함수를 사용하여 시퀀스 `map`의 요소를 변환할 수 있습니다.
+>   - <small>Generating sequences on the fly can be more flexible than generating a large sequence upfront, because it allows you to modify the sequence as you go. For example, you can use the filter function to filter the elements of the sequence, or the map function to transform the elements of the sequence.</small>
+> - 즉석에서 시퀀스를 생성하는 것은 명령형 루프를 사용하는 대신 선언적 방식으로 시퀀스를 표현할 수 있기 때문에 큰 시퀀스를 미리 생성하는 것보다 표현력이 더 뛰어납니다. 이렇게 하면 코드를 더 읽기 쉽고 이해하기 쉽게 만들 수 있습니다.
+>  - <small>Generating sequences on the fly can be more expressive than generating a large sequence upfront, because it allows you to express the sequence in a declarative way, rather than using imperative loops. This can make your code more readable and easier to understand.</small>
+
+
 # 5.4 자바 함수형 인터페이스 활용
+
+- 자바에서는 메서드에 람다를 넘기려면 경우에 따라 아래와 같이 구현해야 했다.
+
+```java
+public class Button {
+  public void setOnCickListener(OnClickListener l) { ... }
+}
+
+public interface OnClickListener {
+  void onClick(View v);
+}
+
+button.setOnClickListener(new OnClickListener() {
+  @Override
+  public void onClick(View v) {
+    ...
+  }
+}
+```
+
+- 코틀린에서는 무명 클래스 인스턴스 대신 람다를 넘길 수 있다. (코틀린의 람다는 익명 클래스를 통해 구현되지 않아도 되는 1급 객체이기 때문)
+
+```kt
+button.setOnClickListener { view -> ... }
+```
+
+- 이게 가능한 이유는 `OnClickListener` 가 함수형 인터페이스, SAM 인터페이스이기 때문이다. (인터페이스 내 단 하나의 추상 메서드만 존재하는)
+  - Java의 `Runnable`, `Callable` 등
+
 ## 5.4.1 자바 메소드에 람다를 인자로 전달
+
+- 다음과 같은 자바 메서드는 `Runnable` 파라미터를 받는다. 코틀린에서 이 메서드를 사용할 때 Runnable 명시 없이 람다 파라미터를 전달 할 수 있다.
+
+```kt
+// Java
+void postponeComputation(int delay, Runnable computation);
+
+// Kotlin
+postponeComputation(1000) { println(42) }; // 컴파일러가 자동으로 Runnable 무명 클레스와 인스턴스를 만들어준다.
+```
+
+- Runnable을 구현하는 무명 객체를 명시적으로 만들어 사용할 수도 있다.
+
+```kt
+postponeComputation(1000, object: Runnable {
+  override fun run() {
+    println(42);
+  }
+});
+```
+
+- 하지만 이 경우에는 메서드를 호출할 때마다 새로운 객체가 생성된다.
+  - 그냥 람다로 넘기면 람다에 대응하는 무명 객체를 메서드 호출 할 때 마다 다시 사용한다.
+  
+> 코틀린 `inline` 으로 표시된 코틀린 함수에 람다를 넘기면 아무런 무명 클래스가 만들어지지 않는다. 대부분의 코틀린 확장 함수는 `inline` 으로 구현되어 있고, 자세한 내용은 8.2 장에서 설명한다.
+
+
 ## 5.4.2 SAM 생성자: 람다를 함수형 인터페이스로 명시적으로 변경
+
+- 대부분 케이스에서는 컴파일러가 람다를 자동으로 변환시켜주는데, 어쩔 수 없이 수도으로 변환해야하는 경우도 있다.
+  - 오버로드한 메서드 중에서 어떤 타입의 메서드를 선택해서 람다를 변환할지 모호한 경우가 있다. 이런 케이스에 명시적으로 SAM 생성자를 적용한다.
+- SAM 생성자는 람다를 함수형 인터페이스의 인스턴스로 변환할 수 있게 컴파일러가 자동으로 생성한 함수다.
+
+```kt
+// Create a Callable instance using a SAM constructor
+val callable: Callable<Int> = Callable { 42 }
+
+// Use the Callable instance in a Java library
+val executor = Executors.newSingleThreadExecutor()
+val future = executor.submit(callable) // submit 은 Runnable, Callable<T> 두 타입으로 오버로드 된다.
+println(future.get())  // prints 42
+```
+
 # 5.5 수신 객체 지정 람다: with와 apply
+
+- `with`와 `apply`를 사용해서 수신 객체 지정 명시 없이 람다의 본문 안에서 다른 객체의 메서드를 호출 할 수 있게 한다.
+- 수신 객체 지정 람다(lambda with receiver) 라고 한다.
+
 ## 5.5.1 with함수
+
+```kt
+fun alphabet(): String {
+  val result = StringBuilder()
+  for (letter in 'A'..'Z') {
+    result.append(letter);
+  }
+  result.append("\nNow I know the alphabet!")
+  return result.toString();
+}
+
+println(alphabet());
+// ABCDEFGHIJKLMNOPQRSTUVWXYZ
+// Now I know the alphabet!
+```
+
+- 코드가 더 길거나 `result.*` 에 더 자주 접근해야한다면 코드가 장황해진다. `with`를 사용해본다.
+
+```kt
+fun alphabet(): String {
+  val sb = StringBuilder()
+  return with(sb) {
+    for (letter in 'A'..'Z') {
+      append(letter);
+    }
+    append("\nNow I know the alphabet!")
+    toString()
+  }
+}
+
+println(alphabet());
+// ABCDEFGHIJKLMNOPQRSTUVWXYZ
+// Now I know the alphabet!
+```
+
+- 최종적으로 아래와 같은 람다 표현식으로 구현될 수 있다.
+
+```kt
+fun alphabet() = with(StringBuilder()) {
+    for (letter in 'A'..'Z') {
+      append(letter);
+    }
+    append("\nNow I know the alphabet!")
+    toString()
+}
+
+println(alphabet());
+// ABCDEFGHIJKLMNOPQRSTUVWXYZ
+// Now I know the alphabet!
+```
+
+> 
+
+
 ## 5.5.2 apply함수
 # 5.6 요약
 # 기타 참고
