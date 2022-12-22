@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2022-12-19T14:51:16.584Z
+date: 2022-12-22T10:12:03.297Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -43,6 +43,9 @@ dateCreated: 2022-11-24T03:26:46.738Z
 - [Resolving-GitKraken-Inotify-Limit-Error](/dev/Git/Resolving-GitKraken-Inotify-Limit-Error)
 - [Clone-Groups-Private-Repository-in-GitKraken](/dev/Git/Clone-Groups-Private-Repository-in-GitKraken)
 - [Git-Merge-different-repositories-into-one-repository](/dev/Git/Git-Merge-different-repositories-into-one-repository)
+
+### Kotlin
+- [How-do-Kotlin-sequence-lazy-operations-help-performance](/dev/Kotlin/How-do-Kotlin-sequence-lazy-operations-help-performance)
 
 ### MacOS
 - [Countermeasures-when-MacOS-administrator-rights-are-lost](/dev/MacOS/Countermeasures-when-MacOS-administrator-rights-are-lost)
