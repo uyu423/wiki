@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2022-12-22T10:35:24.326Z
+date: 2022-12-22T14:20:45.362Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -47,6 +47,7 @@ dateCreated: 2022-11-24T03:26:46.738Z
 ### Kotlin
 - [How-do-Kotlin-sequence-lazy-operations-help-performance](/dev/Kotlin/How-do-Kotlin-sequence-lazy-operations-help-performance)
 - [About-first-class-and-higher-order-functions-in-Kotlin-lambdas](/dev/Kotlin/About-first-class-and-higher-order-functions-in-Kotlin-lambdas)
+- [Kotlin-labmda-functional-programming-closures](/dev/Kotlin/Kotlin-labmda-functional-programming-closures)
 
 ### MacOS
 - [Countermeasures-when-MacOS-administrator-rights-are-lost](/dev/MacOS/Countermeasures-when-MacOS-administrator-rights-are-lost)
