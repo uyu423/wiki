@@ -2,7 +2,7 @@
 title: 코틀린 인 액션: 5장. 람다로 프로그래밍
 description: 
 published: true
-date: 2022-12-22T15:59:30.326Z
+date: 2022-12-22T16:39:27.610Z
 tags: kotlin, study
 editor: markdown
 dateCreated: 2022-11-23T23:27:11.789Z
@@ -115,12 +115,124 @@ val sum = { x: Int, y: Int ->
 
 ## 5.1.4 현재 영역에 있는 변수에 접근
 
-- ㅂ
+- 람다를 함수 안에서 정의하면 함수의 파라미터 뿐 아니라 람다 정의의 앞에 선언된 로컬 변수까지 람다에서 모두 사용할 수 있다.
+
+```kt
+val errors = listOf("403 Forbidden", "404 Not Found");
+
+fun printMessagesWithPrefix(messages: Collection<String>, prefix: String) {
+    messages.forEach {  // 각 원소에 대해 수행할 작업을 람다로 받는다
+      println("$prefix $it")  // 람다 안에서 함수의 "prefix" 파라미터를 사용한다.
+    }
+}
+
+printMessagesWithPrefix(errors, "Error:");
+// Error: 403 Forbidden
+// Error: 404 Not Found
+```
+
+- 중요한 점은 코틀린 람다 안에서는 파이널 변수가 아닌 외부 변수에도 접근할 수 있교, 변경까지 할 수 있다 (포획).
+  - 자바의 람다에서는 파이널 변수에만 접근이 가능했다.
+  - 어떤 함수의 자신의 로컬 변수를 포함한 람다를 반환하거나 다른 변수에 저장할 경우 로컬 변수의 생명주기와 함수의 생명주기가 달라질 수 있다.
+  
+```kt
+// closure
+val makeCounter = {
+    var count = 0; // 람다 외부의 변수 (람다에게 포획 capture 된 변수)
+    {
+        count += 1; // 람다 외부의 변수를 변경
+        count;
+    }
+}
+
+val counter1 = makeCounter();
+println(counter1());
+println(counter1());
+println(counter1());
+
+val counter2 = makeCounter();
+println(counter2());
+println(counter2());
+
+// 1
+// 2
+// 3
+// 1
+// 2
+```
 
 
 ## 5.1.5 멤버 참조
+
+- 위의 일부 예제에서 표현했지만 멤버 참조로 람다를 사용할 수 있다.
+
+```kt
+val getAge = Person::age
+val getAge2 = { person: Person -> person.age } // 같은 동작을 한다다
+```
+
+- 아래 역시 같은 동작을 하는 코드다.
+
+```kt
+val people = listOf(Person(...), Person(...));
+people.maxBy(Person::age);
+people.maxBy { p -> p.age };
+people.maxBy { it.age };
+```
+
+- 특이한 점은 최상위에 선언된 함수나 프로퍼티를 참조할 수도 있다.
+  - 그러나 212p 를 참고하면 안되는 케이스들이 있고, 사용을 지양해야할 패턴처럼 보인다.
+
+```kt
+val maxAge4 = people.maxBy(Person::age).age;
+fun salute() = println("Salute!");
+run(::salute);
+```
+
+- 위 케이스외에 생성자 참조로 사용할 수 있다. 그러냐 역시 어디에 써먹어야할지는 감이 잘 안온다. (factory?)
+ 
+```kt
+val createPserson = ::Person;
+val p = createPerson("Alice", 29);
+println(p)
+// Person(name=Alice, age=29)
+```
+
+- 확장 함수도 멤버 함수와 같은 방식으로 참조할 수 있다.
+
+```kt
+fun Person.isAdult() = age > 19;
+val p = Person("foo", 21);
+val predicate = Person::isAdult; // 확장 함수도 됨
+
+println(predicate(p));
+println(run (p::isAdult)); // 이렇게 써두 되긴 함
+println(p.isAdult()); // 근데 차라리 이렇게 쓰고 말지
+```
+
+
 # 5.2 컬렉션 함수형 API
+
+- 우리가 Stream API 혹은 seq 를 사용해서 줄창 사용했던 바로 그것
+
 ## 5.2.1 필수적인 함수: filter와 map
+
+- `Collection` 에서 바로 사용 가능한 filter 와 map 이 생겼다.
+
+```kt
+// filter, map list
+val numList = listOf(1,2,3,4,5,6,7,8,9,10);
+
+println(numList.filter { it > 5 });
+println(numList.map { n -> n + 100 });
+println(numList
+    .map { n -> n * n}
+    .filter { it > 50 }
+);
+```
+
+- Map 
+
 ## 5.2.2 all, any, count, find: 컬렉션에 술어 적용
 ## 5.2.3 groupBy: 리스트를 여러 그룹으로 이뤄진 맵으로 변경
 ## 5.2.4 flatMap과 flatten: 중첩된 컬렉션 안의 원소 처리
@@ -134,3 +246,4 @@ val sum = { x: Int, y: Int ->
 ## 5.5.1 with함수
 ## 5.5.2 apply함수
 # 5.6 요약
+# 기타 참고
