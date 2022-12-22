@@ -2,7 +2,7 @@
 title: 코틀린의 지연 계산(lazy) 컬렉션 연산은 성능에 어떻게 도움을 주는가?
 description: 
 published: true
-date: 2022-12-22T10:09:33.194Z
+date: 2022-12-22T10:10:06.876Z
 tags: kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-22T09:58:59.616Z
@@ -39,7 +39,7 @@ for (n in evenNumbers) {
 
 - 전반적으로 `Sequence` 클래스와 그 지연 작업(lazy operations)은 실제로 필요한 요소에 대해서만 컬렉션에 대해 지연된 작업을 수행할 수 있도록 하여 성능을 향상시키는 데 도움이 될 수 있습니다. 이는 **대규모 컬렉션으로 작업하거나 컬렉션 요소에 대해 비용이 많이 드는 작업을 수행할 때 특히 유용할 수 있습니다.**
 
-> 사담: `find` 같은 상황에서 더 효과적일 듯
+> 요우의 사담: `find` 같은 상황에서 더 효과적일 듯
 > ```kotlin
 > println(listOf(1, 2, 3, 4).asSequence().map { it * it }.find { it > 3});
 > // [1,2,3,4]의 제곱 [1,4,9,16] 에서 3을 넘는 요소를 찾는다.
