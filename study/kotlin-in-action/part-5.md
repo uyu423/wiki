@@ -2,7 +2,7 @@
 title: 코틀린 인 액션: 5장. 람다로 프로그래밍
 description: 
 published: true
-date: 2022-12-22T18:25:06.651Z
+date: 2022-12-22T18:27:33.959Z
 tags: kotlin, study
 editor: markdown
 dateCreated: 2022-11-23T23:27:11.789Z
@@ -33,6 +33,9 @@ dateCreated: 2022-11-23T23:27:11.789Z
 >   - <small>Kotlin's lambda expressions support function types, which allows them to be passed around as values and used in a variety of ways. This enables programming patterns such as higher-order functions and partial application, which are not as easily expressed in Java.</small>
 > - 전반적으로 Kotlin의 람다 표현식은 더 간결하고 표현력이 풍부한 구문, 더 나은 함수 유형 지원, 더 적은 상용구 코드 등 Java보다 많은 이점을 제공합니다.
 >   - <small>Overall, Kotlin's lambda expressions offer a number of advantages over Java's, including a more concise and expressive syntax, better support for function types, and less boilerplate code.</small>
+
+- [코틀린 람다의 일급 함수 / 고차 함수에 대해*WIKI.YOWU.DEV*](/dev/Kotlin/About-first-class-and-higher-order-functions-in-Kotlin-lambdas)
+{.links-list}
 
 ## 5.1.1 람다 소개: 코드 블록을 함수 인자로 넘기기
 
@@ -604,10 +607,11 @@ println(alphabet());
 - 시퀀스를 사용하면 중간 결과를 담는 컬렉션을 생성하지 않고도 컬렉션에 대한 연산을 여리 조합할 있다. 
 - 합수형 인터페이스(추상 메서드가 단 하나뿐인 SAM 인터페이스)를 인자로 받는 자바 함수를 호출할 경우 람다를 함수형 인터페이스 인자 대신 넘길 수 있다.
 - 수신 객체 지정 람다를 사용하면 람다 안에서 미리 정해둔 수신 객체의 메서드를 직접 호출할 수 있다.
-직접 호출할 수 있다
-- 표준 라이브러리의 with 합수를 사용하면 어떤 객체에 대한 참조를 반복해서
-언급하지 않으면서 그 객체의 메서드를 호출할 수 있다. app1y를
-객체라도 빌터 스타일의 시를 사용해 생성하고 초기화할 수 있다..
-사용하면 어떤
+- 표준 라이브러리의 `with` 함수를 사용하면 어떤 객체에 대한 참조를 반복해서 언급하지 않으면서 그 객체의 메서드를 호출할 수 있다. `apply`를 사용하면 어떤 객체라도 빌터 스타일의 API를 사용해 생성하고 초기화할 수 있다.
 
 # 기타 참고
+
+- [코틀린 람다의 일급 함수 / 고차 함수에 대해*WIKI.YOWU.DEV*](/dev/Kotlin/About-first-class-and-higher-order-functions-in-Kotlin-lambdas)
+- [코틀린 람다 표현식으로 살펴보는 함수형 프로그래밍의 클로져(Closure)*WIKI.YOWU.DEV*](/dev/Kotlin/Kotlin-labmda-functional-programming-closures)
+{.links-list}
+- [코틀린의 지연 계산(lazy) 컬렉션 연산은 성능에 어떻게 도움을 주는가?*WIKI.YOWU.DEV*](/dev/Kotlin/How-do-Kotlin-sequence-lazy-operations-help-performance)
