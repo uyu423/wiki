@@ -2,7 +2,7 @@
 title: 코틀린 인 액션: 5장. 람다로 프로그래밍
 description: 
 published: true
-date: 2022-12-22T16:39:27.610Z
+date: 2022-12-22T17:04:26.274Z
 tags: kotlin, study
 editor: markdown
 dateCreated: 2022-11-23T23:27:11.789Z
@@ -161,6 +161,11 @@ println(counter2());
 // 2
 ```
 
+추가로 정리한 것
+
+- [코틀린 람다 표현식으로 살펴보는 함수형 프로그래밍의 클로져(Closure)*WIKI.YOWU.DEV*](/dev/Kotlin/Kotlin-labmda-functional-programming-closures)
+{.links-list}
+
 
 ## 5.1.5 멤버 참조
 
@@ -220,23 +225,129 @@ println(p.isAdult()); // 근데 차라리 이렇게 쓰고 말지
 - `Collection` 에서 바로 사용 가능한 filter 와 map 이 생겼다.
 
 ```kt
-// filter, map list
 val numList = listOf(1,2,3,4,5,6,7,8,9,10);
 
 println(numList.filter { it > 5 });
+// [6, 7, 8, 9, 10]
+
 println(numList.map { n -> n + 100 });
+// [101, 102, 103, 104, 105, 106, 107, 108, 109, 110]
+
 println(numList
     .map { n -> n * n}
     .filter { it > 50 }
 );
+// [64, 81, 100]
+
 ```
 
-- Map 
+- `Map` 에서도 된다.
+  - `mapValues`, `mapKeys`, `filterValues`, `filterKeys` 등
+
+```kt
+val strmap = mapOf("hello" to "world", "foo" to "bar");
+
+println(strmap.mapValues { it.value.uppercase(Locale.getDefault()) });
+// {hello=WORLD, foo=BAR}
+```
+
+- 코틀린에서는 체이닝을 걸면 아래와 같은 코드가 된다. 표현이 낯설긴한데, 빨리 익숙해지라고 한다.
+
+```kt
+people.filter { it.age > 30 }.map(Person::name);
+```
 
 ## 5.2.2 all, any, count, find: 컬렉션에 술어 적용
+
+```kt
+// 모든 원소가 특정 식을 만족하는지 확인하려면 all 을 사용한다.
+println(people.all { it.age > 1 }); 
+
+// 특정 식을 만족하는 원소가 하나라도 있는지 확인하려면 any 를 사용한다.
+println(people.any { it.age > 40 }); 
+
+// 특정 식을 만족하는 원소의 갯수를 구하려면 count 를 사용한다.
+println(people.count { it.age > 20 });
+
+// 특정식을 만족하는 원소를 하나 찾고 싶으면 find 를 사용한다. (가장 먼저 찾은 원소를 반환)
+// find 는 firstOrNull 과 같다.
+println(people.find { it.age > 20 });
+```
+
+> `!all` 을 수행한 결과와 그 조건의 부정에 대해 `any` 를 수행한 결과는 같다. (드 모르강의 법칙)
+> 또한 어떤 조건에 대해 `!any` 를 수행한 결과와 그 조건의 부정에 대해 `all`을 수행한 결과도 같다.
+> 그러므로 코드의 가독성을 높이려면 `any` 와 `all` 앞에 `!` 를 붙이지 않는 편이 낫다. (p.218)
+> ```kt
+> val list = listOf(1, 2, 3);
+> println(!list.all { it == 3 });
+> // true
+> println(list.any { it != 3 });
+> // true
+> ```
+
+> Java 에서의 경험을 통해 코틀린에 count가 있다는 사실을 망각하고 size를 사용할 수 있다.
+> ```kt
+> println(people.filter { it.age > 20 }.size);
+> ```
+> 이런 경우에는 filter 의 결과 값을 결과 값을 가지는 중간 컬렉션이 생성된다.
+> count 는 조건을 만족하는 원소 갯수만을 추적하고, 중간 컬렉션을 따로 생성하지 않으므로 count 가 더 효율적이다. (p.219)
+
 ## 5.2.3 groupBy: 리스트를 여러 그룹으로 이뤄진 맵으로 변경
+
+```kt
+val people = listOf(
+    Person("hello", 10),
+    Person("world", 20),
+    Person("foo", 30),
+    Person("bar", 40),
+    Person("yu", 32),
+    Person("ryu", 30),
+    Person("kim", 30),
+    Person("lee", 29),
+    Person("hwang", 36),
+    Person("kim", 36),
+);
+
+println(people.groupBy { it.age });
+// {10=[Person(name=hello, age=10)], 
+//  20=[Person(name=world, age=20)], 
+//  30=[Person(name=foo, age=30), Person(name=ryu, age=30), Person(name=kim, age=30)], 
+//  40=[Person(name=bar, age=40)],
+//  32=[Person(name=yu, age=32)],
+//  29=[Person(name=lee, age=29)], 
+//  36=[Person(name=kim, age=36)]}, Person(name=hwang, age=38)]
+```
+
+- 위 예제의 `groupBy`의 결과 타입은 `Map<Int, List<Person>>` 이다.
+- 필요에 따라 `mapKeys`, `mapValues` 를 사용해서 반환 타입을 변경할 수 있다.
+
 ## 5.2.4 flatMap과 flatten: 중첩된 컬렉션 안의 원소 처리
+
+```kt
+val books = listOf(
+    Book("네이버 쇼핑라이브의 이해", listOf("kim")),
+    Book("Shortclip 의 모든 것", listOf("yu")),
+    Book("Spring Boot 초기 구성 가이드북", listOf("ryu", "lee")),
+    Book("Notification 그 너머로", listOf("eom", "kim")),
+    Book("Linux Mint 활용하기", listOf("hwang")),
+);
+println("authors: ${books.flatMap { it.authors }}");
+// authors: [kim, yu, ryu, lee, eom, kim, hwang]
+```
+
+- flatten 은 단순 이중 컬렉션 처리에 사용하기 좋아보인다.
+
+```kt
+val nestedNumbers = listOf(listOf(1, 2), listOf(3, 4));
+println("flatten: ${nestedNumbers.flatten()}");
+// flatten: [1, 2, 3, 4]
+```
+
+
 # 5.3 지연 계산 lazy 컬렉션 연산
+
+- d
+
 ## 5.3.1 시퀀스 연산 실행: 중간 연산과 최종 연산
 ## 5.3.2 시퀀스 만들기
 # 5.4 자바 함수형 인터페이스 활용
