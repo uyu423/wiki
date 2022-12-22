@@ -2,7 +2,7 @@
 title: 코틀린 람다 표현식으로 살펴보는 함수형 프로그래밍의 클로져(Closure)
 description: 
 published: true
-date: 2022-12-22T14:28:27.310Z
+date: 2022-12-22T14:29:35.594Z
 tags: closure, kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-22T14:18:13.961Z
@@ -97,7 +97,7 @@ Iteration 5
 > ```
 > 이 예제에서 함수 `add`는 Int 파라미터 x를 사용하고 Int 파라미터 y를 사용하는 새로운 함수를 반환합니다. 이 새로운 함수는 Int 파라미터 z를 사용하는 또 다른 함수를 반환합니다. 가장 안쪽의 함수가 파라미터 z와 함께 호출되면 x, y 및 z를 더하고 결과를 반환합니다.
 > 
-> `addThreeNumbers` 는 첫 번째 인수를 1로, 두 번째 인수를 2로, 세 번째 인수를 3으로 고정하는 부분 적용 함수입니다. addThreeNumbers가 호출되면 1, 2, 3을 더한 6을 반환합니다. 매 번 파라미터를 1개씩 고정하는 연속적인 Partial Application으로 볼 수도 있습니다.
+> `addThreeNumbers` 람다 표현식은 첫 번째 파라미터를 1로, 두 번째 파라미터를 2로, 세 번째 파라미터를 3으로 고정하는 부분 적용 함수입니다. `addThreeNumbers`가 호출되면 1, 2, 3을 더한 6을 반환합니다. 매 번 파라미터를 1개씩 고정하는 연속적인 `Partial Application`으로 볼 수도 있습니다.
 
 ## English
 
@@ -190,6 +190,6 @@ In this example, the lambda { i -> println("Iteration $i") } captures no free va
 > ```
 > In this example, the function add takes a single integer argument x and returns a new function that takes a single integer argument y. This new function returns yet another function that takes a single integer argument z. When the innermost function is called with an argument z, it adds x, y, and z and returns the result.
 > 
-> The lambda addThreeNumbers is a partially applied function that fixes the first argument to 1, the second argument to 2, and the third argument to 3. When addThreeNumbers is called, it returns the result of adding 1, 2, and 3, which is 6.
+> The lambda addThreeNumbers is a partially applied function that fixes the first argument to 1, the second argument to 2, and the third argument to 3. When addThreeNumbers is called, it returns the result of adding 1, 2, and 3, which is 6. It can also be seen as a continuous 'Partial Application' where one parameter is fixed each time.
 
 ![kotlin.jpeg](/kotlin.jpeg =500x){.align-center}
