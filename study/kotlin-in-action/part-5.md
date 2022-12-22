@@ -2,7 +2,7 @@
 title: 코틀린 인 액션: 5장. 람다로 프로그래밍
 description: 
 published: true
-date: 2022-12-22T17:04:26.274Z
+date: 2022-12-22T17:12:15.378Z
 tags: kotlin, study
 editor: markdown
 dateCreated: 2022-11-23T23:27:11.789Z
@@ -15,6 +15,20 @@ dateCreated: 2022-11-23T23:27:11.789Z
 # 5.1 람다 식과 멤버 참조
 
 - 람다는 기본적으로 다른 함수에 넘길 수 있는 작은 코드 조각을 뜻한다.
+- 코틀린에서의 람다식 역시 자바와 마찬가지로 1급 객체다. 다만 Java에서는 `@FunctionalInterface` 라던지 SAM Interface 라던지 좀 더 장황하고 불편하게 사용했어야했는데, 코틀린은 그런거 없다.
+
+> Kotlin과 Java는 모두 익명 함수를 만드는 방법으로 람다 식을 지원하며 두 언어 모두에서 람다 식은 일급 객체로 취급됩니다. 그러나 람다 표현식이 Kotlin과 Java에서 구현되는 방식에는 몇 가지 주요 차이점이 있습니다.
+> <small>Kotlin and Java both support lambda expressions as a way to create anonymous functions, and in both languages, lambda expressions are treated as first-class objects. However, there are some key differences between the way lambda expressions are implemented in Kotlin and Java:</small>
+> - Kotlin에서 람다 표현식은 함수 유형의 인스턴스로 표현되는 일급 객체입니다. 즉, 다른 개체와 마찬가지로 변수에 저장하고, 함수에 인수로 전달하고, 함수에서 값으로 반환할 수 있습니다.
+>   - <small>In Kotlin, lambda expressions are first-class objects that are represented as instances of function types. This means that they can be stored in variables, passed as arguments to functions, and returned as values from functions, just like any other object.</small>
+> - Java에서 람다 식은 익명의 내부 클래스를 사용하여 구현됩니다. 즉, 함수 인터페이스를 확장하는 클래스의 인스턴스로 표현됩니다. 즉, 객체로 취급되지만 내부 클래스로 구현되기 때문에 일반 객체에 비해 약간의 추가 오버헤드가 있습니다.
+>   - <small>In Java, lambda expressions are implemented using anonymous inner classes, which means that they are represented as instances of a class that extends a functional interface. This means that they are treated as objects, but they have some additional overhead compared to regular objects due to the fact that they are implemented as inner classes.</small>
+> - Kotlin의 람다 표현식은 더 간결한 구문을 사용하고 유형 추론 및 단순화된 반환 구문과 같은 기능을 지원하기 때문에 Java보다 더 간결하고 표현력이 뛰어납니다. 이렇게 하면 더 쉽게 읽고 쓸 수 있으며 필요한 상용구 코드의 양이 줄어듭니다.
+>   - <small>Kotlin's lambda expressions are more concise and expressive than Java's because they use a more concise syntax and support features such as type inference and simplified return syntax. This makes them easier to read and write, and it reduces the amount of boilerplate code that is required.</small>
+> - Kotlin의 람다 표현식은 함수 유형을 지원하므로 함수 유형을 값으로 전달하고 다양한 방식으로 사용할 수 있습니다. 이를 통해 Java에서 쉽게 표현되지 않는 고차 함수 및 부분 응용 프로그램과 같은 프로그래밍 패턴을 사용할 수 있습니다.
+>   - <small>Kotlin's lambda expressions support function types, which allows them to be passed around as values and used in a variety of ways. This enables programming patterns such as higher-order functions and partial application, which are not as easily expressed in Java.</small>
+> - 전반적으로 Kotlin의 람다 표현식은 더 간결하고 표현력이 풍부한 구문, 더 나은 함수 유형 지원, 더 적은 상용구 코드 등 Java보다 많은 이점을 제공합니다.
+>   - <small>Overall, Kotlin's lambda expressions offer a number of advantages over Java's, including a more concise and expressive syntax, better support for function types, and less boilerplate code.</small>
 
 ## 5.1.1 람다 소개: 코드 블록을 함수 인자로 넘기기
 
