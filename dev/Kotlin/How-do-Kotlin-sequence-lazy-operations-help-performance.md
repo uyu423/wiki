@@ -2,7 +2,7 @@
 title: 코틀린의 지연 계산(lazy) 컬렉션 연산은 성능에 어떻게 도움을 주는가?
 description: 
 published: true
-date: 2022-12-22T10:12:59.233Z
+date: 2022-12-22T10:37:06.020Z
 tags: kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-22T09:58:59.616Z
@@ -74,4 +74,4 @@ for (n in evenNumbers) {
 
 - Overall, the `Sequence` class and its lazy operations can help improve performance by allowing you to perform operations on collections lazily and only on the elements that are actually needed. This can be particularly useful when working with large collections or when performing expensive operations on the elements of a collection.
 
-![kotlin_logo_wordmark.png](/kotlin_logo_wordmark.png =600x){.align-center}
+![kotlin.jpeg](/kotlin.jpeg =500x){.align-center}
