@@ -2,6 +2,16 @@
 title: 코틀린 인 액션: 5장. 람다로 프로그래밍
 description: 
 published: true
+date: 2022-12-22T18:38:46.475Z
+tags: kotlin, study
+editor: markdown
+dateCreated: 2022-11-23T23:27:11.789Z
+---
+
+---
+title: 코틀린 인 액션: 5장. 람다로 프로그래밍
+description: 
+published: true
 date: 2022-12-22T18:28:36.367Z
 tags: kotlin, study
 editor: markdown
@@ -195,7 +205,7 @@ println(counter2());
 
 ```kt
 val getAge = Person::age
-val getAge2 = { person: Person -> person.age } // 같은 동작을 한다다
+val getAge2 = { person: Person -> person.age } // 같은 동작을 한다
 ```
 
 - 아래 역시 같은 동작을 하는 코드다.
@@ -211,7 +221,6 @@ people.maxBy { it.age };
   - 그러나 212p 를 참고하면 안되는 케이스들이 있고, 사용을 지양해야할 패턴처럼 보인다.
 
 ```kt
-val maxAge4 = people.maxBy(Person::age).age;
 fun salute() = println("Salute!");
 run(::salute);
 ```
