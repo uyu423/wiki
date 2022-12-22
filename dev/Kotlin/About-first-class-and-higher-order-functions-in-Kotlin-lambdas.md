@@ -2,7 +2,7 @@
 title: 코틀린 람다의 일급 함수 / 고차 함수에 대해
 description: About first-class and higher-order functions in Kotlin lambdas
 published: true
-date: 2022-12-22T10:34:16.985Z
+date: 2022-12-22T10:35:00.383Z
 tags: kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-22T10:17:44.669Z
@@ -118,3 +118,5 @@ HigherOrderFunction<Integer, Integer> makeAdder = (x) -> (y) -> x + y;
 - In this example, the lambda expression (y) -> x + y represents a function that takes an Integer argument y and returns the result of adding x to y. The outer lambda expression (x) -> (y) -> x + y represents a higher-order function that takes an Integer argument x and returns the inner lambda expression as a Function object.
 
 - Overall, it is possible to implement higher-order functions in Java using lambda expressions and functional interfaces. However, the syntax for creating and using higher-order functions in Java can be more verbose and cumbersome than in languages with better support for functional programming, such as Kotlin.
+
+![kotlin_logo_wordmark.png](/kotlin_logo_wordmark.png =500x){.align-center}
