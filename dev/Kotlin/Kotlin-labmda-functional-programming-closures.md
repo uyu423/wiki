@@ -2,7 +2,7 @@
 title: 코틀린 람다 표현식으로 살펴보는 함수형 프로그래밍의 클로져(Closure)
 description: 
 published: true
-date: 2022-12-22T14:20:01.577Z
+date: 2022-12-22T14:28:27.310Z
 tags: closure, kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-22T14:18:13.961Z
@@ -89,16 +89,15 @@ Iteration 5
 >
 > *커링 예시:*
 > ```kt
-> fun add(x: Int): (Int) -> Int {
->     return { y: Int -> x + y }
+> fun add(x: Int): (Int) -> (Int) -> Int {
+>    return { y: Int -> { z: Int -> x + y + z } }
 > }
-> 
-> val addFive = add(5)
 >
-> println(addFive(3))  // prints 8
-> println(addFive(10))  // prints 15
+> val addThreeNumbers = add(1)(2)(3)  // addThreeNumbers is 6
 > ```
-> 이 예제에서 함수 `add`는 Int 파라미터 x와 y를 사용하는 새로운 함수를 반환합니다. 함수 `add`가 파라미터 x와 함께 호출되면 호출될 때 파라미터 y에 x를 추가하는 새로운 함수를 반환합니다. `addFive` 람다 표현식은 첫 번째 파라미터를 5로 고정하고 두 번째 파라미터를 외부에서 전달되는 파라미터를 사용하는 부분 적용 함수입니다. 매 번 파라미터를 1개씩 고정하는 연속적인 Partial Application으로 볼 수도 있습니다.
+> 이 예제에서 함수 `add`는 Int 파라미터 x를 사용하고 Int 파라미터 y를 사용하는 새로운 함수를 반환합니다. 이 새로운 함수는 Int 파라미터 z를 사용하는 또 다른 함수를 반환합니다. 가장 안쪽의 함수가 파라미터 z와 함께 호출되면 x, y 및 z를 더하고 결과를 반환합니다.
+> 
+> `addThreeNumbers` 는 첫 번째 인수를 1로, 두 번째 인수를 2로, 세 번째 인수를 3으로 고정하는 부분 적용 함수입니다. addThreeNumbers가 호출되면 1, 2, 3을 더한 6을 반환합니다. 매 번 파라미터를 1개씩 고정하는 연속적인 Partial Application으로 볼 수도 있습니다.
 
 ## English
 
@@ -183,15 +182,14 @@ In this example, the lambda { i -> println("Iteration $i") } captures no free va
 > 
 > *Example of currying:*
 > ```kt
-> fun add(x: Int): (Int) -> Int {
->     return { y: Int -> x + y }
+> fun add(x: Int): (Int) -> (Int) -> Int {
+>    return { y: Int -> { z: Int -> x + y + z } }
 > }
-> 
-> val addFive = add(5)
 >
-> println(addFive(3))  // prints 8
-> println(addFive(10))  // prints 15
+> val addThreeNumbers = add(1)(2)(3)  // addThreeNumbers is 6
 > ```
-> In this example, the function add takes a single integer argument x and returns a new function that takes a single integer argument y. When the function add is called with an argument x, it returns a new function that adds x to its argument y when it is called. The lambda addFive is a partially applied function that fixes the first argument to 5 and takes the second argument as a parameter.
+> In this example, the function add takes a single integer argument x and returns a new function that takes a single integer argument y. This new function returns yet another function that takes a single integer argument z. When the innermost function is called with an argument z, it adds x, y, and z and returns the result.
+> 
+> The lambda addThreeNumbers is a partially applied function that fixes the first argument to 1, the second argument to 2, and the third argument to 3. When addThreeNumbers is called, it returns the result of adding 1, 2, and 3, which is 6.
 
 ![kotlin.jpeg](/kotlin.jpeg =500x){.align-center}
