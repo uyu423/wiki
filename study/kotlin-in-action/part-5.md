@@ -2,7 +2,7 @@
 title: 코틀린 인 액션: 5장. 람다로 프로그래밍
 description: 
 published: true
-date: 2022-12-22T18:27:33.959Z
+date: 2022-12-22T18:28:36.367Z
 tags: kotlin, study
 editor: markdown
 dateCreated: 2022-11-23T23:27:11.789Z
@@ -34,6 +34,7 @@ dateCreated: 2022-11-23T23:27:11.789Z
 > - 전반적으로 Kotlin의 람다 표현식은 더 간결하고 표현력이 풍부한 구문, 더 나은 함수 유형 지원, 더 적은 상용구 코드 등 Java보다 많은 이점을 제공합니다.
 >   - <small>Overall, Kotlin's lambda expressions offer a number of advantages over Java's, including a more concise and expressive syntax, better support for function types, and less boilerplate code.</small>
 
+참고.
 - [코틀린 람다의 일급 함수 / 고차 함수에 대해*WIKI.YOWU.DEV*](/dev/Kotlin/About-first-class-and-higher-order-functions-in-Kotlin-lambdas)
 {.links-list}
 
@@ -441,6 +442,10 @@ println(numbersTo100.sum()); // 모든 연산은 sum 결과를 계산할 때 수
 > - 즉석에서 시퀀스를 생성하는 것은 명령형 루프를 사용하는 대신 선언적 방식으로 시퀀스를 표현할 수 있기 때문에 큰 시퀀스를 미리 생성하는 것보다 표현력이 더 뛰어납니다. 이렇게 하면 코드를 더 읽기 쉽고 이해하기 쉽게 만들 수 있습니다.
 >  - <small>Generating sequences on the fly can be more expressive than generating a large sequence upfront, because it allows you to express the sequence in a declarative way, rather than using imperative loops. This can make your code more readable and easier to understand.</small>
 
+참고
+- [코틀린의 지연 계산(lazy) 컬렉션 연산은 성능에 어떻게 도움을 주는가?*WIKI.YOWU.DEV*](/dev/Kotlin/How-do-Kotlin-sequence-lazy-operations-help-performance)
+{.links-list}
+
 
 # 5.4 자바 함수형 인터페이스 활용
 
@@ -613,5 +618,5 @@ println(alphabet());
 
 - [코틀린 람다의 일급 함수 / 고차 함수에 대해*WIKI.YOWU.DEV*](/dev/Kotlin/About-first-class-and-higher-order-functions-in-Kotlin-lambdas)
 - [코틀린 람다 표현식으로 살펴보는 함수형 프로그래밍의 클로져(Closure)*WIKI.YOWU.DEV*](/dev/Kotlin/Kotlin-labmda-functional-programming-closures)
-{.links-list}
 - [코틀린의 지연 계산(lazy) 컬렉션 연산은 성능에 어떻게 도움을 주는가?*WIKI.YOWU.DEV*](/dev/Kotlin/How-do-Kotlin-sequence-lazy-operations-help-performance)
+{.links-list}
