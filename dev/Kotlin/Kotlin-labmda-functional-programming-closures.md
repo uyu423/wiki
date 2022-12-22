@@ -2,7 +2,7 @@
 title: 코틀린 람다 표현식으로 살펴보는 함수형 프로그래밍의 클로져(Closure)
 description: 
 published: true
-date: 2022-12-22T14:19:54.134Z
+date: 2022-12-22T14:20:01.577Z
 tags: closure, kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-22T14:18:13.961Z
@@ -98,7 +98,7 @@ Iteration 5
 > println(addFive(3))  // prints 8
 > println(addFive(10))  // prints 15
 > ```
-> 이 예제에서 함수 `add`는 Int 파라미터 x와 y를 사용하는 새로운 함수를 반환합니다. 함수 `add`가 파라미터 x와 함께 호출되면 호출될 때 파라미터 y에 x를 추가하는 새로운 함수를 반환합니다. `addFive` 람다 표현식은 첫 번째 파라미터를 5로 고정하고 두 번째 파라미터를 외부에서 전달되는 파라미터를 사용하는 부분 적용 함수입니다. 매 번 인자를 1개씩 고정하는 연속적인 Partial Application으로 볼 수도 있습니다.
+> 이 예제에서 함수 `add`는 Int 파라미터 x와 y를 사용하는 새로운 함수를 반환합니다. 함수 `add`가 파라미터 x와 함께 호출되면 호출될 때 파라미터 y에 x를 추가하는 새로운 함수를 반환합니다. `addFive` 람다 표현식은 첫 번째 파라미터를 5로 고정하고 두 번째 파라미터를 외부에서 전달되는 파라미터를 사용하는 부분 적용 함수입니다. 매 번 파라미터를 1개씩 고정하는 연속적인 Partial Application으로 볼 수도 있습니다.
 
 ## English
 
