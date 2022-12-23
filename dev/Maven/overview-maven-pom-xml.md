@@ -2,67 +2,46 @@
 title: Maven pom.xml 개요
 description: 
 published: true
-date: 2022-12-23T09:58:37.260Z
+date: 2022-12-23T10:02:24.388Z
 tags: java, maven, springboot
 editor: markdown
 dateCreated: 2022-12-23T09:49:18.780Z
 ---
 
+# Korean
+
+
+# English
+
 ## Detail about the structure of maven pom.xml
 
 - Maven is a build automation tool used primarily for Java projects. It helps manage the build process, dependencies, and documentation of a project.
-
 - The `pom.xml` file is the core of a project's configuration in Maven. It is a XML file that contains information about the project and configuration details used by Maven to build the project.
-
 - Here is a summary of the main elements that can be included in a `pom.xml` file:
-
-- `project` element: This element is the root element of the `pom.xml` file. It contains information about the project, such as the group id, artifact id, and version.
-
-- `modelVersion` element: This element specifies the version of the POM model being used.
-
-- `groupId` element: This element specifies the unique identifier of the group that the project belongs to.
-
-- `artifactId` element: This element specifies the unique identifier of the project.
-
-- `version` element: This element specifies the version of the project.
-
-- `packaging` element: This element specifies the package type of the project, such as `jar`, `war`, or `ear`.
-
-- `name` element: This element specifies the name of the project.
-
-- `description` element: This element provides a description of the project.
-
-- `url` element: This element specifies the URL of the project's homepage.
-
-- `prerequisites` element: This element specifies any required prerequisites for building the project.
-
-- `issueManagement` element: This element specifies the URL and system used for managing issues for the project.
-
-- `ciManagement` element: This element specifies the URL and system used for continuous integration for the project.
-
-- `inceptionYear` element: This element specifies the year the project was created.
-
-- `licenses` element: This element specifies the licenses under which the project is distributed.
-
-- `developers` element: This element specifies the developers who have contributed to the project.
-
-- `contributors` element: This element specifies the contributors to the project.
-
-- `mailingLists` element: This element specifies the mailing lists for the project.
-
-- `scm` element: This element specifies the source control management system and connection information for the project.
-
-- `organization` element: This element specifies the organization responsible for the project.
-
-- `build` element: This element specifies the build settings for the project, such as the final name of the built artifact, the directory for compiled source code, and the plugins to use.
-
-- `profiles` element: This element specifies different build profiles that can be activated to customize the build for different environments.
-
-- `dependencies` element: This element specifies the dependencies that the project has on external libraries.
-
-- `repositories` element: This element specifies the locations of the remote repositories that the project depends on.
-
-- `pluginRepositories` element: This element specifies the locations of the remote plugin repositories that the project depends on.
+  - `project` element: This element is the root element of the `pom.xml` file. It contains information about the project, such as the group id, artifact id, and version.
+  - `modelVersion` element: This element specifies the version of the POM model being used.
+  - `groupId` element: This element specifies the unique identifier of the group that the project belongs to.
+  - `artifactId` element: This element specifies the unique identifier of the project.
+  - `version` element: This element specifies the version of the project.
+  - `packaging` element: This element specifies the package type of the project, such as `jar`, `war`, or `ear`.
+  - `name` element: This element specifies the name of the project.
+  - `description` element: This element provides a description of the project.
+  - `url` element: This element specifies the URL of the project's homepage.
+  - `prerequisites` element: This element specifies any required prerequisites for building the project.
+  - `issueManagement` element: This element specifies the URL and system used for managing issues for the project.
+  - `ciManagement` element: This element specifies the URL and system used for continuous integration for the project.
+  - `inceptionYear` element: This element specifies the year the project was created.
+  - `licenses` element: This element specifies the licenses under which the project is distributed.
+  - `developers` element: This element specifies the developers who have contributed to the project.
+  - `contributors` element: This element specifies the contributors to the project.
+  - `mailingLists` element: This element specifies the mailing lists for the project.
+  - `scm` element: This element specifies the source control management system and connection information for the project.
+  - `organization` element: This element specifies the organization responsible for the project.
+  - `build` element: This element specifies the build settings for the project, such as the final name of the built artifact, the directory for compiled source code, and the plugins to use.
+  - `profiles` element: This element specifies different build profiles that can be activated to customize the build for different environments.
+  - `dependencies` element: This element specifies the dependencies that the project has on external libraries.
+  - `repositories` element: This element specifies the locations of the remote repositories that the project depends on.
+  - `pluginRepositories` element: This element specifies the locations of the remote plugin repositories that the project depends on.
 
 > ### Appendix: About \<dependencies> and \<dependencyManagement> Elements
 > 
@@ -100,7 +79,7 @@ dateCreated: 2022-12-23T09:49:18.780Z
 > 
 > By specifying the dependencies in the `<dependencyManagement>` element, you can ensure that all the modules of the project use the same version of the dependency, even if the modules do not explicitly specify the dependency. This can be useful for enforcing consistency across the modules of the project.
 
-> ### Appendix: About \<repository> Element
+> ### Appendix: About \<repositories> Element
 > 
 > In Maven, the `<repository>` element is used to specify the location of a remote repository that contains the dependencies needed by a project. Maven uses a repository to manage the libraries and artifacts needed by a project, such as dependencies and plugins.
 > 
