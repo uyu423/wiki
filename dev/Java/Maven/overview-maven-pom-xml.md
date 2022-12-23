@@ -2,7 +2,7 @@
 title: Maven pom.xml 개요
 description: 
 published: true
-date: 2022-12-23T09:52:43.573Z
+date: 2022-12-23T09:53:23.108Z
 tags: java, maven, springboot
 editor: markdown
 dateCreated: 2022-12-23T09:49:18.780Z
@@ -64,7 +64,7 @@ dateCreated: 2022-12-23T09:49:18.780Z
 
 - `pluginRepositories` element: This element specifies the locations of the remote plugin repositories that the project depends on.
 
-> ### Appendix: About \<dependencies> and \<dependencyManagement>
+> ### Appendix: About \<dependencies> and \<dependencyManagement> Elements
 > 
 > In Maven, the `<dependencies>` element is used to specify the dependencies of a project on external libraries. A dependency is a library that a project needs in order to compile and run. The `<dependencies>` element is typically used in the pom.xml file of a project to specify the dependencies that the project has on other libraries.
 > 
@@ -100,7 +100,7 @@ dateCreated: 2022-12-23T09:49:18.780Z
 > 
 > By specifying the dependencies in the `<dependencyManagement>` element, you can ensure that all the modules of the project use the same version of the dependency, even if the modules do not explicitly specify the dependency. This can be useful for enforcing consistency across the modules of the project.
 
-> ### Appendix: About \<repository>
+> ### Appendix: About \<repository> Element
 > 
 > In Maven, the `<repository>` element is used to specify the location of a remote repository that contains the dependencies needed by a project. Maven uses a repository to manage the libraries and artifacts needed by a project, such as dependencies and plugins.
 > 
@@ -123,7 +123,7 @@ dateCreated: 2022-12-23T09:49:18.780Z
 > 
 > By default, Maven uses the Central Repository, which is a public repository maintained by the Apache Maven project, as a source for dependencies. However, you can specify additional repositories in the pom.xml file if you need to use dependencies that are not available in the Central Repository.
 
-> ### Appendix: About \<build>
+> ### Appendix: About \<build> Element
 > 
 > In Maven, the `<build>` element is used to specify the build settings for a project. It is typically used in the pom.xml file of a project to specify the configuration for building the project, such as the final name of the built artifact, the directory for compiled source code, and the plugins to use.
 > 
