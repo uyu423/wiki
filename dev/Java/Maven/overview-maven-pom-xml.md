@@ -2,7 +2,7 @@
 title: Maven pom.xml 개요
 description: 
 published: true
-date: 2022-12-23T09:53:23.108Z
+date: 2022-12-23T09:55:34.723Z
 tags: java, maven, springboot
 editor: markdown
 dateCreated: 2022-12-23T09:49:18.780Z
@@ -12,11 +12,11 @@ dateCreated: 2022-12-23T09:49:18.780Z
 
 - Maven is a build automation tool used primarily for Java projects. It helps manage the build process, dependencies, and documentation of a project.
 
-- The pom.xml file is the core of a project's configuration in Maven. It is a XML file that contains information about the project and configuration details used by Maven to build the project.
+- The `pom.xml` file is the core of a project's configuration in Maven. It is a XML file that contains information about the project and configuration details used by Maven to build the project.
 
-- Here is a summary of the main elements that can be included in a pom.xml file:
+- Here is a summary of the main elements that can be included in a `pom.xml` file:
 
-- `project` element: This element is the root element of the pom.xml file. It contains information about the project, such as the group id, artifact id, and version.
+- `project` element: This element is the root element of the `pom.xml` file. It contains information about the project, such as the group id, artifact id, and version.
 
 - `modelVersion` element: This element specifies the version of the POM model being used.
 
@@ -66,9 +66,9 @@ dateCreated: 2022-12-23T09:49:18.780Z
 
 > ### Appendix: About \<dependencies> and \<dependencyManagement> Elements
 > 
-> In Maven, the `<dependencies>` element is used to specify the dependencies of a project on external libraries. A dependency is a library that a project needs in order to compile and run. The `<dependencies>` element is typically used in the pom.xml file of a project to specify the dependencies that the project has on other libraries.
+> In Maven, the `<dependencies>` element is used to specify the dependencies of a project on external libraries. A dependency is a library that a project needs in order to compile and run. The `<dependencies>` element is typically used in the `pom.xml` file of a project to specify the dependencies that the project has on other libraries.
 > 
-> Here is an example of how to specify a dependency in the pom.xml file:
+> Here is an example of how to specify a dependency in the `pom.xml` file:
 > 
 > ```xml
 > <dependencies>
@@ -82,7 +82,7 @@ dateCreated: 2022-12-23T09:49:18.780Z
 > 
 > The `<groupId>` element specifies the group or organization that the dependency belongs to, the `<artifactId>` element specifies the name of the dependency, and the `<version>` element specifies the version of the dependency.
 > 
-> The `<dependencyManagement>` element is used to manage the dependencies of a project and its modules. It is typically used in the parent pom.xml file of a multi-module project to specify the versions of the dependencies that are used across all the modules.
+> The `<dependencyManagement>` element is used to manage the dependencies of a project and its modules. It is typically used in the parent `pom.xml` file of a multi-module project to specify the versions of the dependencies that are used across all the modules.
 > 
 > Here is an example of how to specify a dependency in the `<dependencyManagement>` element:
 > 
@@ -104,9 +104,9 @@ dateCreated: 2022-12-23T09:49:18.780Z
 > 
 > In Maven, the `<repository>` element is used to specify the location of a remote repository that contains the dependencies needed by a project. Maven uses a repository to manage the libraries and artifacts needed by a project, such as dependencies and plugins.
 > 
-> The `<repository>` element is typically used in the pom.xml file of a project to specify the location of a remote repository that contains the dependencies needed by the project. It can be used under the `<repositories>` element to specify a single repository, or under the `<pluginRepositories>` element to specify a repository for plugins.
+> The `<repository>` element is typically used in the `pom.xml` file of a project to specify the location of a remote repository that contains the dependencies needed by the project. It can be used under the `<repositories>` element to specify a single repository, or under the `<pluginRepositories>` element to specify a repository for plugins.
 > 
-> Here is an example of how to specify a repository in the pom.xml file:
+> Here is an example of how to specify a repository in the `pom.xml` file:
 > 
 > ```xml
 > <repositories>
@@ -121,13 +121,13 @@ dateCreated: 2022-12-23T09:49:18.780Z
 >   
 > The `<id>` element specifies a unique identifier for the repository, the `<name>` element specifies a human-readable name for the repository, the `<url>` element specifies the URL of the repository, and the `<layout>` element specifies the layout of the repository.
 > 
-> By default, Maven uses the Central Repository, which is a public repository maintained by the Apache Maven project, as a source for dependencies. However, you can specify additional repositories in the pom.xml file if you need to use dependencies that are not available in the Central Repository.
+> By default, Maven uses the Central Repository, which is a public repository maintained by the Apache Maven project, as a source for dependencies. However, you can specify additional repositories in the `pom.xml` file if you need to use dependencies that are not available in the Central Repository.
 
 > ### Appendix: About \<build> Element
 > 
-> In Maven, the `<build>` element is used to specify the build settings for a project. It is typically used in the pom.xml file of a project to specify the configuration for building the project, such as the final name of the built artifact, the directory for compiled source code, and the plugins to use.
+> In Maven, the `<build>` element is used to specify the build settings for a project. It is typically used in the `pom.xml` file of a project to specify the configuration for building the project, such as the final name of the built artifact, the directory for compiled source code, and the plugins to use.
 > 
-> Here is an example of the structure of the `<build>` element in the pom.xml file:
+> Here is an example of the structure of the `<build>` element in the `pom.xml` file:
 > 
 > ```xml
 > <build>
@@ -161,11 +161,11 @@ dateCreated: 2022-12-23T09:49:18.780Z
 > 
 > The `<plugins>` element is used to specify the plugins that are used in the build process. A plugin is a piece of code that provides additional functionality to Maven. In the example above, the maven-compiler-plugin is used to compile the source code of the project.
 
-> ### Appendix: About the inheritance structure of pom.xml of multi-module project
+> ### Appendix: About the inheritance structure of `pom.xml` of multi-module project
 > 
-> In a Maven multi-module project, a parent pom.xml file is used to define common configuration and manage the modules of the project. The parent pom.xml file is located in the root directory of the project and defines the common properties, dependencies, and build plugins that are shared by all the modules.
+> In a Maven multi-module project, a parent `pom.xml` file is used to define common configuration and manage the modules of the project. The parent `pom.xml` file is located in the root directory of the project and defines the common properties, dependencies, and build plugins that are shared by all the modules.
 > 
-> Each module in the project has its own pom.xml file that specifies the configuration specific to that module. The child pom.xml files inherit the configuration from the parent pom.xml file unless they explicitly override it.
+> Each module in the project has its own `pom.xml` file that specifies the configuration specific to that module. The child `pom.xml` files inherit the configuration from the parent `pom.xml` file unless they explicitly override it.
 > 
 > Here is an example of the structure of a Maven multi-module project:
 > 
