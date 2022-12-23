@@ -2,7 +2,7 @@
 title: 코틀린 특징
 description: 
 published: true
-date: 2022-12-23T05:01:52.951Z
+date: 2022-12-23T05:02:19.204Z
 tags: kotlin
 editor: markdown
 dateCreated: 2022-12-23T04:35:18.925Z
@@ -72,7 +72,7 @@ data class User(val name: String, val age: Int)
 
 - Java에서는 동일한 효과를 얻기 위해 훨씬 더 많은 코드를 작성해야 합니다. `Class`, `Field`, `getter` 및 `setter`를 정의하고 `equals()`, `hashCode()` 및 `toString()` 메서드를 재정의(Override)해야 합니다.
 
-## 확장 함수
+### 확장 함수
 
 - Kotlin을 사용하면 기존 클래스에서 상속하거나 데코레이터와 같은 디자인 패턴을 사용하지 않고도 기존 클래스에 새로운 함수을 추가할 수 있습니다. 이것은 확장 함수을 사용하여 수행됩니다. 다음은 Kotlin에서 확장 함수를 정의하는 방법의 예입니다.
 
@@ -202,7 +202,7 @@ data class User(val name: String, val age: Int)
 
 - In Java, you would need to write a lot more code to achieve the same effect. You would need to define the class, the fields, the getters and setters, and override the equals(), hashCode(), and toString() methods.
 
-## Extension Functions
+### Extension Functions
 
 - Kotlin allows you to add new functions to existing classes without having to inherit from them or use design patterns like decorators. This is done using extension functions. Here's an example of how you can define an extension function in Kotlin:
 
