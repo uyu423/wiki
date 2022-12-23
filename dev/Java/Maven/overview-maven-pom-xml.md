@@ -2,7 +2,7 @@
 title: Maven pom.xml 개요
 description: 
 published: true
-date: 2022-12-23T09:49:49.642Z
+date: 2022-12-23T09:52:43.573Z
 tags: java, maven, springboot
 editor: markdown
 dateCreated: 2022-12-23T09:49:18.780Z
@@ -122,6 +122,44 @@ dateCreated: 2022-12-23T09:49:18.780Z
 > The `<id>` element specifies a unique identifier for the repository, the `<name>` element specifies a human-readable name for the repository, the `<url>` element specifies the URL of the repository, and the `<layout>` element specifies the layout of the repository.
 > 
 > By default, Maven uses the Central Repository, which is a public repository maintained by the Apache Maven project, as a source for dependencies. However, you can specify additional repositories in the pom.xml file if you need to use dependencies that are not available in the Central Repository.
+
+> ### Appendix: About \<build>
+> 
+> In Maven, the `<build>` element is used to specify the build settings for a project. It is typically used in the pom.xml file of a project to specify the configuration for building the project, such as the final name of the built artifact, the directory for compiled source code, and the plugins to use.
+> 
+> Here is an example of the structure of the `<build>` element in the pom.xml file:
+> 
+> ```xml
+> <build>
+>   <finalName>${project.artifactId}-${project.version}</finalName>
+>   <sourceDirectory>src/main/java</sourceDirectory>
+>   <testSourceDirectory>src/test/java</testSourceDirectory>
+>   <resources>
+>     <resource>
+>       <directory>src/main/resources</directory>
+>     </resource>
+>   </resources>
+>   <testResources>
+>     <testResource>
+>       <directory>src/test/resources</directory>
+>     </testResource>
+>   </testResources>
+>   <plugins>
+>     <plugin>
+>       <groupId>org.apache.maven.plugins</groupId>
+>       <artifactId>maven-compiler-plugin</artifactId>
+>       <version>3.8.0</version>
+>       <configuration>
+>         <source>1.8</source>
+>         <target>1.8</target>
+>       </configuration>
+>     </plugin>
+>   </plugins>
+> </build>
+> ```
+> The `<finalName>` element specifies the final name of the built artifact, the `<sourceDirectory>` element specifies the directory where the source code is located, the `<testSourceDirectory>` element specifies the directory where the test source code is located, and the `<resources>` and `<testResources>` elements specify the locations of the resource files for the project and tests, respectively.
+> 
+> The `<plugins>` element is used to specify the plugins that are used in the build process. A plugin is a piece of code that provides additional functionality to Maven. In the example above, the maven-compiler-plugin is used to compile the source code of the project.
 
 > ### Appendix: About the inheritance structure of pom.xml of multi-module project
 > 
