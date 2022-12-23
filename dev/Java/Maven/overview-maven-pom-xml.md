@@ -2,7 +2,7 @@
 title: Maven pom.xml 개요
 description: 
 published: true
-date: 2022-12-23T09:55:57.432Z
+date: 2022-12-23T09:57:11.401Z
 tags: java, maven, springboot
 editor: markdown
 dateCreated: 2022-12-23T09:49:18.780Z
@@ -26,7 +26,7 @@ dateCreated: 2022-12-23T09:49:18.780Z
 
 - `version` element: This element specifies the version of the project.
 
-- `packaging` element: This element specifies the package type of the project, such as jar, war, or ear.
+- `packaging` element: This element specifies the package type of the project, such as `jar`, `war`, or `ear`.
 
 - `name` element: This element specifies the name of the project.
 
@@ -159,7 +159,7 @@ dateCreated: 2022-12-23T09:49:18.780Z
 > ```
 > The `<finalName>` element specifies the final name of the built artifact, the `<sourceDirectory>` element specifies the directory where the source code is located, the `<testSourceDirectory>` element specifies the directory where the test source code is located, and the `<resources>` and `<testResources>` elements specify the locations of the resource files for the project and tests, respectively.
 > 
-> The `<plugins>` element is used to specify the plugins that are used in the build process. A plugin is a piece of code that provides additional functionality to Maven. In the example above, the maven-compiler-plugin is used to compile the source code of the project.
+> The `<plugins>` element is used to specify the plugins that are used in the build process. A plugin is a piece of code that provides additional functionality to Maven. In the example above, the `maven-compiler-plugin` is used to compile the source code of the project.
 
 > ### Appendix: About the inheritance structure of pom.xml of multi-module project
 > 
