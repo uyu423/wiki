@@ -2,7 +2,7 @@
 title: 코틀린 특징
 description: 
 published: true
-date: 2022-12-23T05:02:19.204Z
+date: 2022-12-23T05:10:23.195Z
 tags: kotlin
 editor: markdown
 dateCreated: 2022-12-23T04:35:18.925Z
@@ -70,7 +70,7 @@ val name: String? = null
 data class User(val name: String, val age: Int)
 ```
 
-- Java에서는 동일한 효과를 얻기 위해 훨씬 더 많은 코드를 작성해야 합니다. `Class`, `Field`, `getter` 및 `setter`를 정의하고 `equals()`, `hashCode()` 및 `toString()` 메서드를 재정의(Override)해야 합니다.
+- Java에서는 동일한 효과를 얻기 위해 훨씬 더 많은 코드를 작성해야 합니다. 클래스와 필드를 정의 한 후, `getter` 및 `setter`를 추가하고 `equals()`, `hashCode()` 및 `toString()` 메서드를 재정의(Override)해야 합니다.
 
 ### 확장 함수
 
@@ -145,11 +145,11 @@ val data = deferredData.await()
 
 - Kotlin has a more concise and expressive syntax than Java, which makes it easier to read and write. Kotlin has features such as type inference, simplified return syntax, and support for data classes, which reduce the amount of boilerplate code that is required.
 
-- Kotlin does not have the public, private, and protected keywords for modifying the visibility of class members. Instead, it uses the internal, private, and protected keywords, and the default visibility is public.
+- Kotlin does not have the `public`, `private`, and `protected` keywords for modifying the visibility of class members. Instead, it uses the `internal`, `private`, and `protected` keywords, and the default visibility is `public`.
 
-- Kotlin does not have the void keyword for indicating that a function does not return a value. Instead, you can use the Unit type or omit the return type entirely if the function does not return a value.
+- Kotlin does not have the `void` keyword for indicating that a function does not return a value. Instead, you can use the Unit type or omit the return type entirely if the function does not return a value.
 
-- Kotlin does not have the new keyword for creating objects. Instead, you can use the object keyword or the constructor keyword to create an instance of a class.
+- Kotlin does not have the `new` keyword for creating objects. Instead, you can use the object keyword or the constructor keyword to create an instance of a class.
 
 - Kotlin has a more concise syntax for defining classes, functions, and variables. For example, you can define a class with a primary constructor and field declarations in a single line of code, like this:
 
@@ -157,7 +157,7 @@ val data = deferredData.await()
 class User(val name: String, val age: Int)
 ```
 
-- Kotlin has a more expressive syntax for loops and control flow. For example, you can use the when expression as a concise alternative to the switch statement, and you can use the for loop to iterate over ranges and collections.
+- Kotlin has a more expressive syntax for loops and control flow. For example, you can use the `when` expression as a concise alternative to the `switch` statement, and you can use the `for-loop` to iterate over ranges and collections.
 
 
 ```kt
@@ -180,17 +180,17 @@ for (name in names) {
 }
 ```
 
-- Kotlin has a more concise syntax for creating anonymous inner classes. Instead of using the new keyword and the implements or extends keywords, you can use a lambda expression or a function reference to create an instance of an interface or a class.
+- Kotlin has a more concise syntax for creating anonymous inner classes. Instead of using the `new` keyword and the `implements` or `extends` keywords, you can use a lambda expression or a function reference to create an instance of an interface or a class.
 
 ### Null safety
 
-- Kotlin has built-in support for null safety, which means it can distinguish between nullable and non-nullable types. This helps prevent null reference exceptions, which are common in Java. Here's an example of how you can declare a nullable variable in Kotlin:
+- Kotlin has built-in support for null safety, which means it can distinguish between nullable and non-nullable types. This helps prevent null reference exceptions, which are common in Java. Here's an example of how you can declare a `nullable` variable in Kotlin:
 
 ```kt
 val name: String? = null
 ```
 
-- In Java, you can use the @Nullable and @NotNull annotations from the javax.annotation package to achieve a similar effect, but it is not built into the language.
+- In Java, you can use the `@Nullable` and `@NotNull` annotations from the `javax.annotation` package to achieve a similar effect, but it is not built into the language.
 
 ### Data Classes
 
@@ -200,7 +200,7 @@ val name: String? = null
 data class User(val name: String, val age: Int)
 ```
 
-- In Java, you would need to write a lot more code to achieve the same effect. You would need to define the class, the fields, the getters and setters, and override the equals(), hashCode(), and toString() methods.
+- In Java, you would need to write a lot more code to achieve the same effect. You would need to define the class, the fields, the `getters` and `setters`, and override the `equals()`, `hashCode()`, and `toString()` methods.
 
 ### Extension Functions
 
@@ -222,7 +222,7 @@ fun String.isPalindrome(): Boolean {
 val name = "John"
 ```
 
-- The type of the name variable is inferred to be String, so you don't have to specify it explicitly. In Java, you would need to write String name = "John"; to achieve the same effect.
+- The type of the `name` variable is inferred to be `String`, so you don't have to specify it explicitly. In Java, you would need to write `String name = "John";` to achieve the same effect.
 
 ### Functional programming
 
@@ -236,9 +236,9 @@ fun processData(data: List<Int>, processor: (Int) -> Int): List<Int> {
 
 - This is a function that takes a list of integers and a processor function as arguments, and applies the processor function to each element of the list. The processor function is a lambda that takes an integer and returns an integer.
 
-### Concurrency
+### Concurrency (Coroutines)
 
-- Kotlin has built-in support for concurrency through the kotlinx.coroutines library. Coroutines allow you to write asynchronous, non-blocking code in a sequential style, which can make it easier to write code that performs tasks in the background without blocking the main thread. Here's an example of how you can use coroutines in Kotlin:
+- Kotlin has built-in support for concurrency through the `kotlinx.coroutines` library. Coroutines allow you to write asynchronous, non-blocking code in a sequential style, which can make it easier to write code that performs tasks in the background without blocking the main thread. Here's an example of how you can use coroutines in Kotlin:
 
 ```kt
 suspend fun loadData(): Data {
@@ -246,16 +246,16 @@ suspend fun loadData(): Data {
 }
 ```
 
-- The suspend keyword indicates that this function is a coroutine, and the code inside the function can be suspended and resumed later. You can use the async function to launch a coroutine and get a Deferred object, which you can use to access the result of the coroutine when it is complete.
-
-- In Java, you would need to use a library or framework like RxJava or CompletableFuture to achieve the same effect.
+- The `suspend` keyword indicates that this function is a coroutine, and the code inside the function can be suspended and resumed later. You can use the `async` function to launch a coroutine and get a `Deferred` object, which you can use to access the result of the coroutine when it is complete.
 
 ```kt
 val deferredData = async { loadData() }
 val data = deferredData.await()
 ```
 
-- In this example, the async function launches a coroutine that calls the loadData() function, and the await() function waits for the coroutine to complete and returns the result.
+- In this example, the `async` function launches a coroutine that calls the `loadData()` function, and the `await()` function waits for the coroutine to complete and returns the result.
+
+- In Java, you would need to use a library or framework like `RxJava` or `CompletableFuture` to achieve the same effect.
 
 ### Interoperability with Java
 
