@@ -2,7 +2,7 @@
 title: 코틀린 인 액션: 5장. 람다로 프로그래밍
 description: 
 published: true
-date: 2022-12-22T18:58:59.294Z
+date: 2022-12-23T05:45:39.661Z
 tags: kotlin, study
 editor: markdown
 dateCreated: 2022-11-23T23:27:11.789Z
@@ -617,6 +617,7 @@ println(alphabet());
 
 # 기타 참고
 
+- [코틀린 특징*WIKI.YOWU.DEV*](/dev/Kotlin/feature-of-kotlin)
 - [코틀린 람다의 일급 함수 / 고차 함수에 대해*WIKI.YOWU.DEV*](/dev/Kotlin/About-first-class-and-higher-order-functions-in-Kotlin-lambdas)
 - [코틀린 람다 표현식으로 살펴보는 함수형 프로그래밍의 클로져(Closure)*WIKI.YOWU.DEV*](/dev/Kotlin/Kotlin-labmda-functional-programming-closures)
 - [코틀린의 지연 계산(lazy) 컬렉션 연산은 성능에 어떻게 도움을 주는가?*WIKI.YOWU.DEV*](/dev/Kotlin/How-do-Kotlin-sequence-lazy-operations-help-performance)
