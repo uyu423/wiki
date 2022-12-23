@@ -2,7 +2,7 @@
 title: 코틀린 특징
 description: 
 published: true
-date: 2022-12-23T05:10:23.195Z
+date: 2022-12-23T05:12:27.721Z
 tags: kotlin
 editor: markdown
 dateCreated: 2022-12-23T04:35:18.925Z
@@ -131,9 +131,7 @@ val data = deferredData.await()
 
 - Kotlin은 Java와 완벽하게 상호 운용 가능하므로 동일한 프로젝트에서 Kotlin과 Java 코드를 함께 사용할 수 있습니다. Java에서 Kotlin 코드를 호출하거나 그 반대로도 호출할 수 있습니다. 따라서 Kotlin을 기존 Java 프로젝트에 쉽게 통합하거나 Java 코드베이스를 Kotlin으로 점진적으로 마이그레이션할 수 있습니다.
 
----
-
-전반적으로 Kotlin은 Java의 강점을 기반으로 하면서 일부 약점을 해결하는 최신 프로그래밍 언어입니다. Kotlin은 더 간결하고 표현력이 풍부한 구문, null safety 및 함수형 프로그래밍에 대한 더 나은 지원, Java와의 우수한 상호 운용성을 제공하며, 동시성 및 고급 프로그래밍을 위한 추가적인 기능을 제공합니다.
+> 전반적으로 Kotlin은 Java의 강점을 기반으로 하면서 일부 약점을 해결하는 최신 프로그래밍 언어입니다. Kotlin은 더 간결하고 표현력이 풍부한 구문, null safety 및 함수형 프로그래밍에 대한 더 나은 지원, Java와의 우수한 상호 운용성을 제공하며, 동시성 및 고급 프로그래밍을 위한 추가적인 기능을 제공합니다.
 
 ![kotlin.jpeg](/kotlin.jpeg =500x){.align-center}
 
@@ -261,6 +259,4 @@ val data = deferredData.await()
 
 - Kotlin is fully interoperable with Java, which means you can use Kotlin and Java code together in the same project. You can even call Kotlin code from Java and vice versa. This makes it easy to incorporate Kotlin into existing Java projects, or to gradually migrate a Java codebase to Kotlin.
 
----
-
-Overall, Kotlin is a modern programming language that builds on the strengths of Java, while addressing some of its weaknesses. Kotlin has a more concise and expressive syntax, better support for null safety and functional programming, and good interoperability with Java. It also has additional features for concurrency and other advanced programming scenarios.
+> Overall, Kotlin is a modern programming language that builds on the strengths of Java, while addressing some of its weaknesses. Kotlin has a more concise and expressive syntax, better support for null safety and functional programming, and good interoperability with Java. It also has additional features for concurrency and other advanced programming scenarios.
