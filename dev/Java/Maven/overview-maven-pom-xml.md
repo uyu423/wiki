@@ -2,7 +2,7 @@
 title: Maven pom.xml 개요
 description: 
 published: true
-date: 2022-12-23T09:55:34.723Z
+date: 2022-12-23T09:55:57.432Z
 tags: java, maven, springboot
 editor: markdown
 dateCreated: 2022-12-23T09:49:18.780Z
@@ -161,7 +161,7 @@ dateCreated: 2022-12-23T09:49:18.780Z
 > 
 > The `<plugins>` element is used to specify the plugins that are used in the build process. A plugin is a piece of code that provides additional functionality to Maven. In the example above, the maven-compiler-plugin is used to compile the source code of the project.
 
-> ### Appendix: About the inheritance structure of `pom.xml` of multi-module project
+> ### Appendix: About the inheritance structure of pom.xml of multi-module project
 > 
 > In a Maven multi-module project, a parent `pom.xml` file is used to define common configuration and manage the modules of the project. The parent `pom.xml` file is located in the root directory of the project and defines the common properties, dependencies, and build plugins that are shared by all the modules.
 > 
