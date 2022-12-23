@@ -2,7 +2,7 @@
 title: Maven pom.xml 개요
 description: 
 published: true
-date: 2022-12-23T10:02:24.388Z
+date: 2022-12-23T10:10:54.138Z
 tags: java, maven, springboot
 editor: markdown
 dateCreated: 2022-12-23T09:49:18.780Z
@@ -10,6 +10,42 @@ dateCreated: 2022-12-23T09:49:18.780Z
 
 # Korean
 
+## maven pom.xml 의 구조에 대한 세부 정보
+
+- Maven은 주로 Java 프로젝트에 사용되는 빌드 자동화 도구입니다. 프로젝트의 빌드 프로세스, 종속성 및 문서를 관리하는 데 도움이 됩니다.
+- `pom.xml` 파일은 Maven에서 프로젝트 구성의 핵심입니다. Maven에서 프로젝트를 빌드하는 데 사용하는 프로젝트 및 구성 세부 정보에 대한 정보가 포함된 XML 파일입니다.
+- 다음은 `pom.xml` 파일에 포함될 수 있는 주요 요소에 대한 요약입니다.
+   - `project`: 이 요소는 `pom.xml` 파일의 루트 요소입니다. 여기에는 그룹 ID, 아티팩트 ID 및 버전과 같은 프로젝트에 대한 정보가 포함됩니다.
+   - `modelVersion`: 이 요소는 사용 중인 POM 모델의 버전을 지정합니다.
+   - `groupId`: 이 요소는 프로젝트가 속한 그룹의 고유 식별자를 지정합니다.
+   - `artifactId`: 이 요소는 프로젝트의 고유 식별자를 지정합니다.
+   - `version`: 이 요소는 프로젝트의 버전을 지정합니다.
+   - `packaging`: 이 요소는 `jar`, `war` 또는 `ear`와 같은 프로젝트의 패키지 유형을 지정합니다.
+   - `name`: 이 요소는 프로젝트의 이름을 지정합니다.
+   - `설명`: 이 요소는 프로젝트에 대한 설명을 제공합니다.
+   - `url`: 이 요소는 프로젝트 홈페이지의 URL을 지정합니다.
+   - `prerequisites`: 이 요소는 프로젝트를 빌드하는 데 필요한 전제 조건을 지정합니다.
+   - `issueManagement`: 이 요소는 프로젝트의 이슈를 관리하는 데 사용되는 URL 및 시스템을 지정합니다.
+   - `ciManagement`: 이 요소는 프로젝트의 지속적인 통합에 사용되는 URL 및 시스템을 지정합니다.
+   - `inceptionYear`: 이 요소는 프로젝트가 생성된 연도를 지정합니다.
+   - `licenses`: 이 요소는 프로젝트가 배포되는 라이선스를 지정합니다.
+   - `developers`: 이 요소는 프로젝트에 기여한 개발자를 지정합니다.
+   - `contributors`: 이 요소는 프로젝트 기여자를 지정합니다.
+   - `mailingLists`: 이 요소는 프로젝트의 메일링 리스트를 지정합니다.
+   - `scm`: 이 요소는 프로젝트에 대한 소스 제어 관리 시스템 및 연결 정보를 지정합니다.
+   - `organization`: 이 요소는 프로젝트를 담당하는 조직을 지정합니다.
+   - `build`: 이 요소는 빌드된 아티팩트의 최종 이름, 컴파일된 소스 코드의 디렉토리 및 사용할 플러그인과 같은 프로젝트에 대한 빌드 설정을 지정합니다.
+   - `profiles`: 이 요소는 다양한 환경에 대한 빌드를 사용자 지정하기 위해 활성화할 수 있는 다양한 빌드 프로필을 지정합니다.
+   - `dependencies`: 이 요소는 프로젝트가 외부 라이브러리에 갖는 종속성을 지정합니다.
+   - `repositories`: 이 요소는 프로젝트가 의존하는 원격 저장소의 위치를 지정합니다.
+   - `pluginRepositories`: 이 요소는 프로젝트가 의존하는 원격 플러그인 저장소의 위치를 지정합니다.
+
+More
+
+- [좀 더 복잡한 케이스의 pom.xml 예제*WIKI.YOWU.DEV*]()
+{.links-list}
+
+---
 
 # English
 
@@ -42,6 +78,12 @@ dateCreated: 2022-12-23T09:49:18.780Z
   - `dependencies` element: This element specifies the dependencies that the project has on external libraries.
   - `repositories` element: This element specifies the locations of the remote repositories that the project depends on.
   - `pluginRepositories` element: This element specifies the locations of the remote plugin repositories that the project depends on.
+  
+More 
+- [Complex example of a maven pom.xml*WIKI.YOWU.DEV*]()
+{.links-list}
+
+---
 
 > ### Appendix: About \<dependencies> and \<dependencyManagement> Elements
 > 
@@ -177,91 +219,4 @@ dateCreated: 2022-12-23T09:49:18.780Z
 >   <artifactId>root</artifactId>
 >   <version>1.0</version>
 > </parent>
-> ```
-
-
-> ### Appendix: pom.xml Sample
-> 
-> ```xml
-> <project>
->   <modelVersion>4.0.0</modelVersion>
->   <groupId>com.example</groupId>
->   <artifactId>my-project</artifactId>
->   <version>1.0.0</version>
->   <packaging>jar</packaging>
-> 
->   <name>My Project</name>
->   <description>A simple Maven project</description>
->   <url>http://example.com/my-project</url>
-> 
->   <prerequisites>
->     <maven>3.0</maven>
->   </prerequisites>
-> 
->   <issueManagement>
->     <system>JIRA</system>
->     <url>http://example.com/jira</url>
->   </issueManagement>
-> 
->   <ciManagement>
->     <system>Jenkins</system>
->     <url>http://example.com/jenkins</url>
->   </ciManagement>
-> 
->   <inceptionYear>2022</inceptionYear>
-> 
->   <licenses>
->     <license>
->       <name>MIT License</name>
->       <url>http://opensource.org/licenses/MIT</url>
->       <distribution>repo</distribution>
->     </license>
->   </licenses>
-> 
->   <developers>
->     <developer>
->       <id>developer1</id>
->       <name>John Doe</name>
->       <email>jdoe@example.com</email>
->       <organization>Example Inc.</organization>
->       <organizationUrl>http://example.com</organizationUrl>
->       <roles>
->         <role>Developer</role>
->       </roles>
->       <timezone>-8</timezone>
->     </developer>
->   </developers>
-> 
->   <contributors>
->     <contributor>
->       <name>Jane Smith</name>
->       <email>jane@example.com</email>
->       <organization>Example Inc.</organization>
->       <organizationUrl>http://example.com</organizationUrl>
->       <roles>
->         <role>Tester</role>
->       </roles>
->       <timezone>-5</timezone>
->     </contributor>
->   </contributors>
-> 
->   <mailingLists>
->     <mailingList>
->       <name>Developers</name>
->       <subscribe>developers@example.com</subscribe>
->       <unsubscribe>developers-unsubscribe@example.com</unsubscribe>
->       <post>developers@example.com</post>
->       <archive>http://example.com/developers</archive>
->     </mailingList>
->   </mailingLists>
-> 
->   <scm>
->     <connection>scm:git:git://example.com/my-project.git</connection>
->     <developerConnection>scm:git:ssh://example.com/my-project.git</developerConnection>
->     <url>http://example.com/my-project</url>
->   </scm>
-> 
->   <organization>
->     <name>Example Inc.</name>
->     <url>http://example.com
 > ```
