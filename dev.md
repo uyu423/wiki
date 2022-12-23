@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2022-12-23T05:44:00.287Z
+date: 2022-12-23T10:00:08.883Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -57,6 +57,9 @@ dateCreated: 2022-11-24T03:26:46.738Z
 - [Using-Happy-Hacking-Pro2-on-MacOS](/dev/MacOS/Using-Happy-Hacking-Pro2-on-MacOS)
 - [Resolving-git-xcrun-error-after-macos-update](/dev/MacOS/Resolving-git-xcrun-error-after-macos-update)
 
+### Maven
+- [overview-maven-pom-xml](/dev/Maven/overview-maven-pom-xml)
+
 ### Node.js
 - [Dependency-Injection-with-Express](/dev/Nodejs/Dependency-Injection-with-Express)
 - [Lets-do-a-singleton-pattern-with-es6-clsss](/dev/Nodejs/Lets-do-a-singleton-pattern-with-es6-clsss)
@@ -72,9 +75,11 @@ dateCreated: 2022-11-24T03:26:46.738Z
 - [20180227-Questions-about-Git-Branch-strategy](/dev/QnA/20180227-Questions-about-Git-Branch-strategy)
 - [20180226-Can-I-install-Ubuntu-on-my-laptop](/dev/QnA/20180226-Can-I-install-Ubuntu-on-my-laptop)
 
-### Spring
-- [Developing-Spring-Boot-in-vscode](/dev/Spring/Developing-Spring-Boot-in-vscode)
-- [Get-LocalDateTime-from-spring-boot-RequestParam](/dev/Spring/Get-LocalDateTime-from-spring-boot-RequestParam)
+### Java
+
+#### Spring
+- [Developing-Spring-Boot-in-vscode](/dev/Java/Spring/Developing-Spring-Boot-in-vscode)
+- [Get-LocalDateTime-from-spring-boot-RequestParam](/dev/Java/Spring/Get-LocalDateTime-from-spring-boot-RequestParam)
 
 ### Summary
 - [OSS-Developers-Forum-2016-AWS-Seminar-Content](/dev/Summary/OSS-Developers-Forum-2016-AWS-Seminar-Content)
