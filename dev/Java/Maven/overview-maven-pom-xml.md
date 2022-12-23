@@ -2,8 +2,8 @@
 title: Maven pom.xml 개요
 description: 
 published: true
-date: 2022-12-23T09:49:18.780Z
-tags: springboot, maven, java
+date: 2022-12-23T09:49:49.642Z
+tags: java, maven, springboot
 editor: markdown
 dateCreated: 2022-12-23T09:49:18.780Z
 ---
@@ -64,7 +64,7 @@ dateCreated: 2022-12-23T09:49:18.780Z
 
 - `pluginRepositories` element: This element specifies the locations of the remote plugin repositories that the project depends on.
 
-> Appendix: About \<dependencies> and \<dependencyManagement>
+> ### Appendix: About \<dependencies> and \<dependencyManagement>
 > 
 > In Maven, the `<dependencies>` element is used to specify the dependencies of a project on external libraries. A dependency is a library that a project needs in order to compile and run. The `<dependencies>` element is typically used in the pom.xml file of a project to specify the dependencies that the project has on other libraries.
 > 
