@@ -2,13 +2,13 @@
 title: 코틀린 람다의 일급 함수 / 고차 함수에 대해
 description: About first-class and higher-order functions in Kotlin lambdas
 published: true
-date: 2022-12-24T19:25:59.209Z
+date: 2022-12-24T19:33:48.821Z
 tags: kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-22T10:17:44.669Z
 ---
 
-- [About first-class/higher-order functions in Kotlin lambdas***English** version of this document is available*](/ko/dev/Kotlin/About-first-class-and-higher-order-functions-in-Kotlin-lambdas)
+- [About first-class/higher-order functions in Kotlin lambdas***English** version of this document is available*](/en/dev/Kotlin/About-first-class-and-higher-order-functions-in-Kotlin-lambdas)
 {.links-list}
 
 ---
