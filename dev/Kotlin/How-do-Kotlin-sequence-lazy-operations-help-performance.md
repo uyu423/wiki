@@ -2,10 +2,15 @@
 title: 코틀린의 지연 계산(lazy) 컬렉션 연산은 성능에 어떻게 도움을 주는가?
 description: 
 published: true
-date: 2022-12-24T19:27:55.491Z
+date: 2022-12-24T19:28:55.306Z
 tags: kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-22T09:58:59.616Z
+---
+
+- [How do Kotlin's lazy collection operations help performance?***English** version of this document is available*](/en/dev/Kotlin/How-do-Kotlin-sequence-lazy-operations-help-performance)
+{.links-list}
+
 ---
 
 - Kotlin에서 `Sequence` 클래스는 다양한 동작을 지원하여 변환 및 필터링할 수 있습니다. 또한 평가가 지연(lazily evaluated)됩니다. `Sequence` 클래스는 Java의 `Stream` 클래스와 비슷하지만 더 가볍고 함수형 프로그래밍 개념을 더 잘 지원합니다.
