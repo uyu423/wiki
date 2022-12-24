@@ -2,13 +2,13 @@
 title: Wiki.js에 sitemap.xml 을 추가하는 임시단편적인 방법
 description: 
 published: true
-date: 2022-12-24T21:15:48.323Z
+date: 2022-12-24T21:16:58.870Z
 tags: cron, sitemap, wikijs
 editor: markdown
 dateCreated: 2022-12-01T13:20:12.695Z
 ---
 
-- [Ad-hoc way to add sitemap.xml to Wiki.js***English** version of this document is available*](/en/dev/Wiki-js/How-to-add-temporary-sitemap-xml-to-Wiki-js)
+- [Ad-hoc way to add sitemap.xml to Wiki.js 2.x***English** version of this document is available*](/en/dev/Wiki-js/How-to-add-temporary-sitemap-xml-to-Wiki-js)
 {.links-list}
 
 > Wiki.js 3.0 에서 sitemap 기능을 공식적으로 지원할 예정이라 임시로 사용하는 방법이다.
