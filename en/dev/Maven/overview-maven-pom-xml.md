@@ -2,7 +2,7 @@
 title: Maven pom.xml overview
 description: 
 published: true
-date: 2022-12-24T19:33:00.421Z
+date: 2022-12-24T20:44:59.356Z
 tags: english, java, maven, springboot
 editor: markdown
 dateCreated: 2022-12-24T19:31:23.956Z
@@ -183,3 +183,5 @@ dateCreated: 2022-12-24T19:31:23.956Z
 >   <version>1.0</version>
 > </parent>
 > ```
+
+![maven.png](/maven.png){.align-center}
