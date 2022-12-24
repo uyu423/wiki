@@ -2,13 +2,13 @@
 title: 코틀린 람다 표현식으로 살펴보는 함수형 프로그래밍의 클로져(Closure)
 description: 
 published: true
-date: 2022-12-24T19:17:34.418Z
+date: 2022-12-24T19:18:25.119Z
 tags: closure, kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-22T14:18:13.961Z
 ---
 
-- [Closures in Functional Programming with Kotlin Lambda Expressions*This document is also written in English*](/en/dev/Kotlin/Kotlin-labmda-functional-programming-closures)
+- [Closures in Functional Programming with Kotlin Lambda Expressions*This document is also written in **English***](/en/dev/Kotlin/Kotlin-labmda-functional-programming-closures)
 {.links-list}
 
 ---
