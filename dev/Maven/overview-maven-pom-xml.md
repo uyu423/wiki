@@ -2,8 +2,8 @@
 title: Maven pom.xml 개요
 description: 
 published: true
-date: 2022-12-24T19:33:06.258Z
-tags: springboot, maven, java
+date: 2022-12-24T20:04:18.037Z
+tags: java, maven, springboot
 editor: markdown
 dateCreated: 2022-12-23T09:49:18.780Z
 ---
@@ -83,6 +83,29 @@ dateCreated: 2022-12-23T09:49:18.780Z
 > ```
 >
 > `<dependencyManagement>` 요소에 종속성을 지정하면 모듈이 명시적으로 종속성을 지정하지 않더라도 프로젝트의 모든 모듈이 동일한 버전의 종속성을 사용하도록 할 수 있습니다. 이는 프로젝트의 모듈 간에 일관성을 유지하는 데 유용할 수 있습니다.
+
+> ### 부록: \<repositories> 요소 정보
+>
+> Maven에서 `<repository>` 요소는 프로젝트에 필요한 종속성을 포함하는 원격 저장소의 위치를 지정하는 데 사용됩니다. Maven은 리포지토리를 사용하여 종속성 및 플러그인과 같이 프로젝트에 필요한 라이브러리 및 아티팩트를 관리합니다.
+>
+> `<repository>` 요소는 일반적으로 프로젝트의 `pom.xml` 파일에서 프로젝트에 필요한 종속성을 포함하는 원격 저장소의 위치를 지정하는 데 사용됩니다. `<repositories>` 요소 아래에서 단일 저장소를 지정하거나 `<pluginRepositories>` 요소 아래에서 플러그인 저장소를 지정할 수 있습니다.
+>
+> 다음은 `pom.xml` 파일에서 리포지토리를 지정하는 방법의 예입니다.
+>
+> ```xml
+> <repositories>
+>   <repository>
+>     <id>central</id>
+>     <name>Central Repository</name>
+>     <url>https://repo.maven.apache.org/maven2</url>
+>     <layout>default</layout>
+>   </repository>
+> </repositories>
+> ```
+>
+> `<id>` 요소는 저장소의 고유 식별자를 지정하고 `<name>` 요소는 사람이 읽을 수 있는 저장소 이름을 지정하며 `<url>` 요소는 저장소의 URL을 지정하고 ` <layout>` 요소는 저장소의 레이아웃을 지정합니다.
+>
+> 기본적으로 Maven은 Apache Maven 프로젝트에서 유지 관리하는 공용 저장소인 Central Repository를 종속 항목의 소스로 사용합니다. 그러나 중앙 저장소에서 사용할 수 없는 종속성을 사용해야 하는 경우 `pom.xml` 파일에서 추가 저장소를 지정할 수 있습니다.
 
 > ### 부록: \<build> 요소 정보
 >
