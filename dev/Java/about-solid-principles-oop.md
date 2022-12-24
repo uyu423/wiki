@@ -2,7 +2,7 @@
 title: 객체지향 프로그래밍의 SOLID 원칙에 대해
 description: 
 published: true
-date: 2022-12-24T22:39:17.183Z
+date: 2022-12-24T22:51:12.969Z
 tags: java, oop
 editor: markdown
 dateCreated: 2022-12-24T22:39:17.183Z
@@ -10,32 +10,33 @@ dateCreated: 2022-12-24T22:39:17.183Z
 
 # TBU (To Be Updated)
 
-## What is SOLID principles?
+## SOLID 원칙?
 
-- SOLID is a set of five principles for object-oriented programming and design that was introduced by **Robert C. Martin.**
+- SOLID는 **Robert C. Martin**이 소개한 객체 지향 프로그래밍 및 설계를 위한 5가지 원칙입니다.
 
-> **About Robert C. Martin.**
-> 
-> a.k.a "Uncle Bob," is a software engineer, author, and speaker who is well known for his work on software design and development. He is the author of numerous books and articles on software development, including the popular book "Clean Code: A Handbook of Agile Software Craftsmanship," which is a guide to writing clean and maintainable code. **He is also the creator of the SOLID principles**, which are a set of principles for designing maintainable and scalable software systems.
-> 
-> Martin is a strong advocate for agile software development practices, and he is a co-author of the Agile Manifesto. He has spoken at numerous conferences and workshops around the world, and he has also served as a mentor and coach to many software developers. Martin is highly respected in the software development community, and his work has had a significant impact on the way that software is developed and maintained.
-> 
+> **Robert C. Martin ?**
+>
+> a.k.a "Uncle Bob" 소프트웨어 설계 및 개발로 잘 알려진 소프트웨어 엔지니어, 저자 및 연사입니다. 그는 깨끗하고 유지 보수 가능한 코드를 작성하는 방법을 안내하는 "Clean Code: A Handbook of Agile Software Craftsmanship"을 포함하여 소프트웨어 개발에 관한 수많은 책과 아티클의 저자입니다. 그는 **유지 관리 및 확장 가능한 소프트웨어 시스템을 설계하기 위한 일련의 원칙인 SOLID 원칙의 창시자**이기도 합니다.
+>
+> Martin은 애자일 소프트웨어 개발 방법론을 강력하게 옹호하며 Agile Manifesto의 공동 저자입니다. 그는 전 세계의 수많은 컨퍼런스와 워크숍에서 연설했으며 많은 소프트웨어 개발자의 멘토이자 코치로도 활동했습니다. Martin은 소프트웨어 개발 커뮤니티에서 높은 평가를 받고 있으며 그의 작업은 소프트웨어 개발 및 유지 관리 방법에 상당한 영향을 미쳤습니다.
+>
 
-- The acronym **SOLID** stands for the following five principles:
-  1. **Single Responsibility Principle (SRP)**: A class should have only one reason to change.
-  1. **Open-Closed Principle (OCP)**: Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification.
-  1. **Liskov Substitution Principle (LSP)**: Subtypes must be substitutable for their base types.
-  1. **Interface Segregation Principle (ISP)**: Clients should not be forced to depend on interfaces they do not use.
-  1. **Dependency Inversion Principle (DIP)**: High-level modules should not depend on low-level modules. Both should depend on abstractions.
+- **SOLID**라는 약어는 다음 다섯 가지 원칙을 나타냅니다.
+   1. **단일 책임 원칙(SRP)**: 하나의 클래스는 하나의 책임만을 가져야 한다.
+   1. **개방-폐쇄 원칙(OCP)**: 소프트웨어 요소는 확장에는 열려 있지만 수정에는 닫혀 있어야한 다.
+   1. **리스코프 치환 원칙(LSP)**: 상위 타입의 인스턴스는 정확성을 깨뜨리지 않으면서 하위 타입의 인스턴스로 바꿀 수 있어야한다.
+   1. **인터페이스 분리 원칙(ISP)**: 클라이언트가 사용하지 않는 인터페이스에 의존하도록 강요해서는 안된다. 특정 클라이언트를 위한 여러 개의 인터페이스가 한 개의 범용 인터페이스 보다 낫다.
+   1. **의존관계 역전 원칙(DIP)**: 고수준 모듈은 저수준 모듈에 의존해서는 안된다.구체화에 의존하지 않고, 추상화에 의존해야 한다.
 
-- Let's take a closer look at each principle.
+- 각 원칙에 대해 자세히 살펴보겠습니다.
 
-### Single Responsibility Principle (SRP)
-- The Single Responsibility Principle states that a class should have only one reason to change. This means that a class should have a single, well-defined responsibility and should not be responsible for multiple things.
+### 단일 책임 원칙 (SRP)
 
-- Adhering to the Single Responsibility Principle can help you write code that is easier to maintain and test, because changes to the class are isolated to a single responsibility. It can also help you avoid code duplication and improve the modularity of your software.
+- 단일 책임 원칙(Single Responsibility Principle)에 따르면 하나의 클래스는 변경해야 할 이유가 하나만 있어야 합니다. 이것은 클래스가 하나의 잘 정의된 책임만을 가져야 하며 여러 가지를 책임지지 않아야 함을 의미합니다.
 
-- here is a simple Java code example that violates the SRP:
+- 단일 책임 원칙을 준수하면 클래스에 대한 변경 사항이 단일 책임으로 격리되기 때문에 유지 관리 및 테스트가 더 쉬운 코드를 작성하는 데 도움이 될 수 있습니다. 또한 코드 중복을 방지하고 소프트웨어의 모듈성을 개선하는 데 도움이 될 수 있습니다.
+
+- 다음은 SRP를 위반하는 간단한 Java 코드 예제입니다.
 
 ```java
 public class Employee {
@@ -93,9 +94,9 @@ public class Employee {
 }
 ```
 
-- In this example, the `Employee` class violates the SRP because it has multiple responsibilities: it holds employee information (`name`, `age`, `salary`, and `address`) and it also calculates taxes and sends emails. A class should have only one responsibility, so this class should be split into two separate classes: one for holding employee information and another for calculating taxes and sending emails.
+- 이 예에서 `Employee` 클래스는 직원 정보(`name`, `age`, `salary` 및 `address`)를 보유하고 세금을 계산하거나 이메일을 보내는 등 여러 가지 책임이 있기 때문에 SRP를 위반합니다. 클래스는 하나의 책임만 가져야 하므로 이 클래스는 두 개의 별도 클래스로 분리되어야 합니다. 하나는 직원 정보를 보관하고 다른 하나는 세금을 계산하고 이메일을 보내는 것입니다.
 
-- Here is a simple Java code example that adheres to the SRP:
+- 다음은 SRP를 준수하는 간단한 Java 코드 예제입니다.
 
 ```java
 public class Employee {
@@ -157,7 +158,7 @@ public class EmailSender {
 }
 ```
 
-- In this example, each class has a single responsibility. The `Employee` class is responsible for holding employee information, the `TaxCalculator` class is responsible for calculating taxes, and the `EmailSender` class is responsible for sending emails. This adheres to the SRP because each class has only one responsibility, and therefore only one reason to change. If we need to make a change to the way taxes are calculated, we can do so in the `TaxCalculator` class without affecting the other classes. Similarly, if we need to change the way emails are sent, we can do so in the `EmailSender` class without affecting the other classes.
+- 이 예에서 각 클래스는 단일 책임만을 가집니다. `Employee` 클래스는 직원 정보를 가지고 있고 `TaxCalculator` 클래스는 세금 계산을 담당하며 `EmailSender` 클래스는 이메일 전송을 담당합니다. 이것은 각 클래스가 하나의 책임만 가지고 있으므로 변경해야 할 이유가 하나이기 때문에 SRP를 준수합니다. 세금 계산 방식을 변경해야 하는 경우 다른 클래스에 영향을 주지 않고 `TaxCalculator` 클래스를 변경하면 됩니다. 마찬가지로 이메일 전송 방식을 변경해야 하는 경우 다른 클래스에 영향을 주지 않고 `EmailSender` 클래스를 변경하면 됩니다.
 
 
 ### Open-Closed Principle (OCP)
