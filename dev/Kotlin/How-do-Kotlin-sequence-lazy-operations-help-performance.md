@@ -2,13 +2,11 @@
 title: 코틀린의 지연 계산(lazy) 컬렉션 연산은 성능에 어떻게 도움을 주는가?
 description: 
 published: true
-date: 2022-12-22T19:07:20.240Z
+date: 2022-12-24T19:27:55.491Z
 tags: kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-22T09:58:59.616Z
 ---
-
-## Korean
 
 - Kotlin에서 `Sequence` 클래스는 다양한 동작을 지원하여 변환 및 필터링할 수 있습니다. 또한 평가가 지연(lazily evaluated)됩니다. `Sequence` 클래스는 Java의 `Stream` 클래스와 비슷하지만 더 가볍고 함수형 프로그래밍 개념을 더 잘 지원합니다.
 
@@ -53,34 +51,5 @@ for (n in evenNumbers) {
 >   - <small>Stream class in Java is a lazily evaluated collection of elements that can be transformed and filtered using various operations. Like Kotlin's Sequence class, the Stream class allows you to perform operations on the elements of a collection lazily, which can improve performance in certain cases.</small>
 > - `Stream`에서 작업을 수행할 때 요소를 반복하거나 `count`, `collect` 또는 `reduce`와 같은 터미널 작업을 사용하여 `Stream`의 요소를 사용하기 시작할 때까지 작업이 실제로 실행되지 않습니다. 즉, 실제로 필요한 요소에 대해서만 작업이 수행되므로 전체 컬렉션에 대한 작업을 한 번에 수행하는 것보다 효율적일 수 있습니다.
 >   - <small>When you perform an operation on a Stream, the operation is not actually executed until you start consuming the elements of the Stream, either by iterating over the elements or by using a terminal operation such as count, collect, or reduce. This means that the operation is only performed on the elements that are actually needed, which can be more efficient than performing the operation on the entire collection at once.</small>
-
-## English
-
-- In Kotlin, the `Sequence` class is a lazily evaluated collection of elements that can be transformed and filtered using various operations. The `Sequence` class is similar to the `Stream` class in Java, but it is more lightweight and has better support for functional programming concepts.
-
-- One of the main advantages of the `Sequence` class is that it allows you to perform operations on the elements of a collection lazily, which can improve performance in certain cases. When you perform an operation on a `Sequence`, the operation is not actually executed until you start iterating over the elements of the `Sequence`. This means that the operation is only performed on the elements that are actually needed, which can be more efficient than performing the operation on the entire collection at once.
-
-- Lazily evaluated collections, such as Kotlin's `Sequence` class, can improve performance by avoiding unnecessary work. When you perform an operation on a lazily evaluated collection, the operation is not actually executed until you start iterating over the elements of the collection. This means that the operation is only performed on the elements that are actually needed, which can be more efficient than performing the operation on the entire collection at once.
-
-- For example, consider the following Kotlin code that generates a `Sequence` of the first 10,000 integers and filters out the even numbers:
-
-```kotlin
-val numbers = generateSequence(1) { it + 1 }.take(10000)
-val evenNumbers = numbers.filter { it % 2 == 0 }
-```
-
-- In this example, the `generateSequence` function creates a `Sequence` that generates the integers from 1 to 10,000 lazily, one at a time. The `take` function is used to limit the Sequence to the first 10,000 elements. The filter function is used to filter out the even numbers from the `Sequence`.
-
-- Because the Sequence is lazily evaluated, the filter operation is not actually performed until you start iterating over the Sequence. For example, you could iterate over the `Sequence` and print the even numbers using a for-loop:
-
-```kotlin
-for (n in evenNumbers) {
-    println(n)
-}
-```
-
-- In this case, the filter operation is only performed on the elements of the `Sequence` that are actually needed, which are the even numbers that are printed to the console. If you were to perform the filter operation on the entire collection of 10,000 elements at once, it would be less efficient because you would be performing the operation on many elements that are not needed.
-
-- Overall, the `Sequence` class and its lazy operations can help improve performance by allowing you to perform operations on collections lazily and only on the elements that are actually needed. This can be particularly useful when working with large collections or when performing expensive operations on the elements of a collection.
 
 ![kotlin.jpeg](/kotlin.jpeg =500x){.align-center}
