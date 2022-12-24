@@ -2,7 +2,7 @@
 title: About first-class/higher-order functions in Kotlin lambdas
 description: 
 published: true
-date: 2022-12-24T19:26:01.995Z
+date: 2022-12-24T19:42:43.368Z
 tags: english, kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-24T19:24:06.482Z
@@ -67,5 +67,10 @@ HigherOrderFunction<Integer, Integer> makeAdder = (x) -> (y) -> x + y;
 - In this example, the lambda expression (y) -> x + y represents a function that takes an Integer argument y and returns the result of adding x to y. The outer lambda expression (x) -> (y) -> x + y represents a higher-order function that takes an Integer argument x and returns the inner lambda expression as a Function object.
 
 - Overall, it is possible to implement higher-order functions in Java using lambda expressions and functional interfaces. However, the syntax for creating and using higher-order functions in Java can be more verbose and cumbersome than in languages with better support for functional programming, such as Kotlin.
+
+> ***Yowu's Notes*** 😎
+> Looking back at my little Java development experience so far, it doesn't seem impossible to implement first-class and higher-order functions in Java code.
+> However, based on my experience so far, I didn't have to implement first-class/higher-order functions in production code that much, and in most cases, if I tried to implement them similarly to javascript, the complexity of the code unnecessarily increased, such as the body.
+> So, if you want to use lambda as a first-class/higher-order function in earnest, using Kotlin seems to be beneficial to your mental health.
 
 ![kotlin.jpeg](/kotlin.jpeg =500x){.align-center}
