@@ -2,13 +2,13 @@
 title: PHP에서 웹 브라우저를 다른 페이지로 이동시키기
 description: 
 published: true
-date: 2022-12-24T16:29:12.043Z
+date: 2022-12-24T19:36:10.438Z
 tags: php
 editor: markdown
 dateCreated: 2022-12-24T16:29:12.043Z
 ---
 
-## header 사용
+## header() 함수 사용
 
 - php의 `header()` 를 사용해서 웹 브라우져를 특정 페이지로 이동 시킬 수 있다.
 - `header()` 는 클라이언트에 전송되는 HTTP Response Header 를 통해 동작한다.
