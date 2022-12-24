@@ -2,11 +2,14 @@
 title: Navigate web browser to another page in PHP
 description: 
 published: true
-date: 2022-12-24T19:36:00.874Z
+date: 2022-12-24T19:36:39.106Z
 tags: english, php
 editor: markdown
 dateCreated: 2022-12-24T19:35:29.187Z
 ---
+
+- [PHP에서 웹 브라우저를 다른 페이지로 이동시키기***Korean** version of this document is available*](/ko/dev/PHP/php-makes-the-function-go-to-another-page)
+{.links-list}
 
 ## Using headers() function
 
