@@ -2,13 +2,13 @@
 title: Setting up Load Balancer http to https redirection in ElasticBeanstalk
 description: Surprisingly, the http(80) -> https(443) redirect cannot be set in the EB configuration...;
 published: true
-date: 2022-12-24T21:04:21.403Z
+date: 2022-12-24T21:04:55.398Z
 tags: aws, ec2, elasticbeanstalk
 editor: markdown
 dateCreated: 2022-12-24T21:04:21.403Z
 ---
 
-- [ElasticBeanstalk에서 Load Balancer http to https 리다이렉션 설정하기***Korean** version of this document is available*](/en/dev/AWS/Setting-up-Load-Balancer-http-to-https-redirection-in-ElasticBeanstalk)
+- [ElasticBeanstalk에서 Load Balancer http to https 리다이렉션 설정하기***Korean** version of this document is available*](/ko/dev/AWS/Setting-up-Load-Balancer-http-to-https-redirection-in-ElasticBeanstalk)
 {.links-list}
 
 > Assume that you are using an Application Load Balancer.
