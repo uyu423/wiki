@@ -2,7 +2,7 @@
 title: VPC endpoint settings when running ElasticBeanstalk EC2 instances in a private subnet
 description: 
 published: true
-date: 2022-12-24T20:55:34.764Z
+date: 2022-12-24T20:56:22.995Z
 tags: aws, ec2, elasticbeanstalk, english, vpc
 editor: markdown
 dateCreated: 2022-12-24T20:55:11.583Z
@@ -37,6 +37,6 @@ dateCreated: 2022-12-24T20:55:11.583Z
 
 # References
 
-- [Things to know when using Elastic Beanstalk in a VPC environment*YOWU DEV WIKI*](https://wiki.yowu.dev/en/dev/AWS/Things-to-know-when-using-Elastic-Beanstalk -in-a-VPC-environment)
+- [Things to know when using Elastic Beanstalk in a VPC environment*YOWU DEV WIKI*](/en/dev/AWS/Things-to-know-when-using-Elastic-Beanstalk-in-a-VPC-environment)
 - [Using Elastic Beanstalk with Amazon VPC*AWS Documents*](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/vpc.html#services-vpc-private-beanstalk)
 {.links-list}
