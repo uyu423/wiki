@@ -2,7 +2,7 @@
 title: About the SOLID Principles for Object-Oriented Programming
 description: 
 published: true
-date: 2022-12-24T21:41:54.164Z
+date: 2022-12-24T22:19:15.716Z
 tags: java, oop
 editor: markdown
 dateCreated: 2022-12-24T21:41:54.164Z
@@ -10,135 +10,153 @@ dateCreated: 2022-12-24T21:41:54.164Z
 
 ## What is SOLID principles?
 
-SOLID is a set of five principles for object-oriented programming and design that was introduced by Robert C. Martin. The acronym SOLID stands for the following five principles:
+- SOLID is a set of five principles for object-oriented programming and design that was introduced by **Robert C. Martin.**
+
+> **About Robert C. Martin.**
+> 
+> a.k.a "Uncle Bob," is a software engineer, author, and speaker who is well known for his work on software design and development. He is the author of numerous books and articles on software development, including the popular book "Clean Code: A Handbook of Agile Software Craftsmanship," which is a guide to writing clean and maintainable code. **He is also the creator of the SOLID principles**, which are a set of principles for designing maintainable and scalable software systems.
+> 
+> Martin is a strong advocate for agile software development practices, and he is a co-author of the Agile Manifesto. He has spoken at numerous conferences and workshops around the world, and he has also served as a mentor and coach to many software developers. Martin is highly respected in the software development community, and his work has had a significant impact on the way that software is developed and maintained.
+> 
+
+- The acronym **SOLID** stands for the following five principles:
+  1. **Single Responsibility Principle (SRP)**: A class should have only one reason to change.
+  1. **Open-Closed Principle (OCP)**: Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification.
+  1. **Liskov Substitution Principle (LSP)**: Subtypes must be substitutable for their base types.
+  1. **Interface Segregation Principle (ISP)**: Clients should not be forced to depend on interfaces they do not use.
+  1. **Dependency Inversion Principle (DIP)**: High-level modules should not depend on low-level modules. Both should depend on abstractions.
+
+- Let's take a closer look at each principle.
 
 ### Single Responsibility Principle (SRP)
 - The Single Responsibility Principle states that a class should have only one reason to change. This means that a class should have a single, well-defined responsibility and should not be responsible for multiple things.
 
 - Adhering to the Single Responsibility Principle can help you write code that is easier to maintain and test, because changes to the class are isolated to a single responsibility. It can also help you avoid code duplication and improve the modularity of your software.
 
-- Here is an example of a class that violates the Single Responsibility Principle, because it has multiple responsibilities:
+- here is a simple Java code example that violates the SRP:
 
 ```java
 public class Employee {
   private String name;
-  private String address;
-  private String phone;
+  private int age;
   private double salary;
+  private String address;
 
-  public Employee(String name, String address, String phone, double salary) {
+  public Employee(String name, int age, double salary, String address) {
     this.name = name;
-    this.address = address;
-    this.phone = phone;
+    this.age = age;
     this.salary = salary;
-  }
-
-  public void setName(String name) {
-    this.name = name;
+    this.address = address;
   }
 
   public String getName() {
     return name;
   }
 
-  public void setAddress(String address) {
-    this.address = address;
+  public void setName(String name) {
+    this.name = name;
   }
 
-  public String getAddress() {
-    return address;
+  public int getAge() {
+    return age;
   }
 
-  public void setPhone(String phone) {
-    this.phone = phone;
-  }
-
-  public String getPhone() {
-    return phone;
-  }
-
-  public void setSalary(double salary) {
-    this.salary = salary;
+  public void setAge(int age) {
+    this.age = age;
   }
 
   public double getSalary() {
     return salary;
   }
 
-  public void saveEmployee() {
-    // code to save employee to database
+  public void setSalary(double salary) {
+    this.salary = salary;
+  }
+
+  public String getAddress() {
+    return address;
+  }
+
+  public void setAddress(String address) {
+    this.address = address;
+  }
+
+  public void calculateTax() {
+    // calculate tax based on salary and age
   }
 
   public void sendEmail() {
-    // code to send email to employee
+    // send email to employee's address
   }
 }
 ```
 
-- This class has responsibilities related to managing employee information (e.g., setting and getting name, address, phone, and salary) as well as saving employee information to a database and sending email to employees.
+- In this example, the `Employee` class violates the SRP because it has multiple responsibilities: it holds employee information (`name`, `age`, `salary`, and `address`) and it also calculates taxes and sends emails. A class should have only one responsibility, so this class should be split into two separate classes: one for holding employee information and another for calculating taxes and sending emails.
 
-- Here is an example of how we could refactor this class to adhere to the Single Responsibility Principle:
+- Here is a simple Java code example that adheres to the SRP:
 
 ```java
 public class Employee {
   private String name;
-  private String address;
-  private String phone;
+  private int age;
   private double salary;
+  private String address;
 
-  public Employee(String name, String address, String phone, double salary) {
+  public Employee(String name, int age, double salary, String address) {
     this.name = name;
-    this.address = address;
-    this.phone = phone;
+    this.age = age;
     this.salary = salary;
-  }
-
-  public void setName(String name) {
-    this.name = name;
+    this.address = address;
   }
 
   public String getName() {
     return name;
   }
 
-  public void setAddress(String address) {
-    this.address = address;
+  public void setName(String name) {
+    this.name = name;
   }
 
-  public String getAddress() {
-    return address;
+  public int getAge() {
+    return age;
   }
 
-  public void setPhone(String phone) {
-    this.phone = phone;
+  public void setAge(int age) {
+    this.age = age;
   }
 
-  public String getPhone() {
-    return phone;
+  public double getSalary() {
+    return salary;
   }
 
   public void setSalary(double salary) {
     this.salary = salary;
   }
 
-  public double getSalary() {
-    return salary;
+  public String getAddress() {
+    return address;
+  }
+
+  public void setAddress(String address) {
+    this.address = address;
   }
 }
 
-public class EmployeeRepository {
-  public void saveEmployee(Employee employee) {
-    // code to save employee to database
+public class TaxCalculator {
+  public double calculateTax(Employee e) {
+    // calculate tax based on salary and age
   }
 }
 
-public class EmailService {
-  public void sendEmail(Employee employee) {
-    // code to send email to employee
+public class EmailSender {
+  public void sendEmail(Employee e) {
+    // send email to employee's address
   }
 }
-
 ```
+
+- In this example, each class has a single responsibility. The `Employee` class is responsible for holding employee information, the `TaxCalculator` class is responsible for calculating taxes, and the `EmailSender` class is responsible for sending emails. This adheres to the SRP because each class has only one responsibility, and therefore only one reason to change. If we need to make a change to the way taxes are calculated, we can do so in the `TaxCalculator` class without affecting the other classes. Similarly, if we need to change the way emails are sent, we can do so in the `EmailSender` class without affecting the other classes.
+
 
 ### Open-Closed Principle (OCP)
 
@@ -146,37 +164,87 @@ public class EmailService {
 
 - Adhering to the Open-Closed Principle can help you write code that is more flexible and easier to maintain, because you can add new features without breaking existing functionality. It can also help you reduce the risk of introducing bugs when modifying existing code.
 
-- here is a simple Java code example illustrating the Open-Closed Principle (OCP):
+- here is a simple Java code example that violates the OCP:
 
 ```java
-public abstract class Animal {
-  public abstract void makeSound();
-}
+public class Rectangle {
+  private int width;
+  private int height;
 
-public class Cat extends Animal {
-  @Override
-  public void makeSound() {
-    System.out.println("Meow");
+  public Rectangle(int width, int height) {
+    this.width = width;
+    this.height = height;
+  }
+
+  public int getArea() {
+    return width * height;
   }
 }
 
-public class Dog extends Animal {
-  @Override
-  public void makeSound() {
-    System.out.println("Woof");
+public class Square extends Rectangle {
+  public Square(int side) {
+    super(side, side);
   }
 }
 
-public class AnimalSoundPrinter {
-  public void printSounds(List<Animal> animals) {
-    for (Animal animal : animals) {
-      animal.makeSound();
+public class AreaCalculator {
+  public int calculateArea(Rectangle r) {
+    if (r instanceof Square) {
+      Square s = (Square) r;
+      return s.getSideLength() * s.getSideLength();
+    } else {
+      return r.getWidth() * r.getHeight();
     }
   }
 }
 ```
 
-- In this example, the AnimalSoundPrinter class is able to print the sounds made by different types of animals without having to know the specific implementation details of each animal. This is an example of how the AnimalSoundPrinter class is open for extension (we can add new types of animals without modifying the AnimalSoundPrinter class) but closed for modification (we don't need to change the AnimalSoundPrinter class to add new types of animals).
+- In this example, the `AreaCalculator` class violates the OCP because it has been modified to handle a new type of shape (squares). If we want to add a new type of shape, we would need to modify the `AreaCalculator` class again, which goes against the OCP.
+
+- Here is a simple Java code example that adheres to the OCP:
+
+```java
+public interface Shape {
+  int getArea();
+}
+
+public class Rectangle implements Shape {
+  private int width;
+  private int height;
+
+  public Rectangle(int width, int height) {
+    this.width = width;
+    this.height = height;
+  }
+
+  @Override
+  public int getArea() {
+    return width * height;
+  }
+}
+
+public class Square implements Shape {
+  private int sideLength;
+
+  public Square(int sideLength) {
+    this.sideLength = sideLength;
+  }
+
+  @Override
+  public int getArea() {
+    return sideLength * sideLength;
+  }
+}
+
+public class AreaCalculator {
+  public int calculateArea(Shape s) {
+    return s.getArea();
+  }
+}
+```
+
+- In this example, the `AreaCalculator` class adheres to the OCP because it does not need to be modified to handle new types of shapes. We can simply create a new class that implements the `Shape` interface and pass it to the `calculateArea` method. The `calculateArea` method will work for any shape that implements the `Shape` interface, without the need to modify the method itself.
+
 
 ### Liskov Substitution Principle (LSP)
 
@@ -184,53 +252,153 @@ public class AnimalSoundPrinter {
 
 - Adhering to the Liskov Substitution Principle can help you write code that is more flexible and easier to maintain, because you can use subtypes in the same way as the base type without worrying about unintended side effects. It can also help you write code that is easier to understand, because you know that subtypes can be used in the same way as the base type.
 
-- here is a simple Java code example illustrating the Liskov Substitution Principle (LSP):
+- here is a simple Java code example that violates the LSP:
 
 ```java
-public abstract class Shape {
-  public abstract double getArea();
+public class Rectangle {
+  protected int width;
+  protected int height;
+
+  public Rectangle(int width, int height) {
+    this.width = width;
+    this.height = height;
+  }
+
+  public int getWidth() {
+    return width;
+  }
+
+  public void setWidth(int width) {
+    this.width = width;
+  }
+
+  public int getHeight() {
+    return height;
+  }
+
+  public void setHeight(int height) {
+    this.height = height;
+  }
+
+  public int getArea() {
+    return width * height;
+  }
 }
 
-public class Rectangle extends Shape {
-  private double width;
-  private double height;
+public class Square extends Rectangle {
+  public Square(int sideLength) {
+    super(sideLength, sideLength);
+  }
 
-  public Rectangle(double width, double height) {
+  @Override
+  public void setWidth(int width) {
+    super.setWidth(width);
+    super.setHeight(width);
+  }
+
+  @Override
+  public void setHeight(int height) {
+    super.setHeight(height);
+    super.setWidth(height);
+  }
+}
+
+public class AreaCalculator {
+  public int calculateArea(Rectangle r) {
+    return r.getWidth() * r.getHeight();
+  }
+}
+```
+
+- In this example, the `Square` class violates the LSP because it does not behave in the same way as a `Rectangle`. The `AreaCalculator` class expects a `Rectangle` object to have a `setWidth` and `setHeight` method that allows the width and height to be set independently, but the `Square` class does not allow this. Instead, setting the width or height of a `Square` object also sets the other dimension, which goes against the behavior of a `Rectangle`. This means that a `Square` object is not a valid substitute for a `Rectangle` object, which violates the LSP.
+
+- Here is a simple Java code example that adheres to the LSP:
+
+```java
+public interface Shape {
+  int getArea();
+  int getWidth();
+  void setWidth(int width);
+  int getHeight();
+  void setHeight(int height);
+}
+
+public class Rectangle implements Shape {
+  private int width;
+  private int height;
+
+  public Rectangle(int width, int height) {
     this.width = width;
     this.height = height;
   }
 
   @Override
-  public double getArea() {
+  public int getWidth() {
+    return width;
+  }
+
+  @Override
+  public void setWidth(int width) {
+    this.width = width;
+  }
+
+  @Override
+  public int getHeight() {
+    return height;
+  }
+
+  @Override
+  public void setHeight(int height) {
+    this.height = height;
+  }
+
+  @Override
+  public int getArea() {
     return width * height;
   }
 }
 
-public class Square extends Shape {
-  private double sideLength;
+public class Square implements Shape {
+  private int sideLength;
 
-  public Square(double sideLength) {
+  public Square(int sideLength) {
     this.sideLength = sideLength;
   }
 
   @Override
-  public double getArea() {
+  public int getWidth() {
+    return sideLength;
+  }
+
+  @Override
+  public void setWidth(int width) {
+    this.sideLength = width;
+  }
+
+  @Override
+  public int getHeight() {
+    return sideLength;
+  }
+
+  @Override
+  public void setHeight(int height) {
+    this.sideLength = height;
+  }
+
+  @Override
+  public int getArea() {
     return sideLength * sideLength;
   }
 }
 
-public class ShapeCalculator {
-  public double calculateTotalArea(List<Shape> shapes) {
-    double totalArea = 0;
-    for (Shape shape : shapes) {
-      totalArea += shape.getArea();
-    }
-    return totalArea;
+public class AreaCalculator {
+  public int calculateArea(Shape s) {
+    return s.getWidth() * s.getHeight();
   }
 }
 ```
 
-- In this example, the Square class is a subclass of the Shape class and adheres to the Liskov Substitution Principle because it can be used in the same way as the Rectangle class without affecting the correctness of the program. Both classes have the same getArea() method and can be used interchangeably in the ShapeCalculator class.
+- In this example, the `Square` class adheres to the LSP because it behaves in the same way as a `Rectangle`. Both classes implement the `Shape` interface, which defines the behavior that is expected of a shape. The `Square` class correctly implements all of the methods defined in the `Shape` interface, so it can be used as a substitute for a `Rectangle` object. The `AreaCalculator` class can use either a `Rectangle` or a `Square` object without knowing the specific type, because both types adhere to the behavior defined in the `Shape` interface. This adheres to the LSP because a subclass should be able to be used in the same way as its superclass, without the need to modify the code that uses the superclass.
 
 ### Interface Segregation Principle (ISP)
 
@@ -238,58 +406,169 @@ public class ShapeCalculator {
 
 - Adhering to the Interface Segregation Principle can help you write code that is more flexible and easier to understand, because you can create specialized interfaces that are easier to implement and use. It can also help you avoid unnecessary dependencies and improve the modularity of your software.
 
-- here is a simple Java code example illustrating the Interface Segregation Principle (ISP):
+- Here is a simple Java code example that violates the ISP:
 
 ```java
-public interface Animal {
-  void makeSound();
-  void eat();
+public interface Shape {
+  int getArea();
+  int getWidth();
+  void setWidth(int width);
+  int getHeight();
+  void setHeight(int height);
+  String getColor();
+  void setColor(String color);
 }
 
-public interface Carnivore {
-  void eatMeat();
-}
+public class Rectangle implements Shape {
+  private int width;
+  private int height;
+  private String color;
 
-public interface Herbivore {
-  void eatPlants();
-}
-
-public class Lion implements Animal, Carnivore {
-  @Override
-  public void makeSound() {
-    System.out.println("Roar");
+  public Rectangle(int width, int height, String color) {
+    this.width = width;
+    this.height = height;
+    this.color = color;
   }
 
   @Override
-  public void eat() {
-    eatMeat();
+  public int getWidth() {
+    return width;
   }
 
   @Override
-  public void eatMeat() {
-    System.out.println("Eating a zebra");
-  }
-}
-
-public class Gazelle implements Animal, Herbivore {
-  @Override
-  public void makeSound() {
-    System.out.println("Bleat");
+  public void setWidth(int width) {
+    this.width = width;
   }
 
   @Override
-  public void eat() {
-    eatPlants();
+  public int getHeight() {
+    return height;
   }
 
   @Override
-  public void eatPlants() {
-    System.out.println("Eating grass");
+  public void setHeight(int height) {
+    this.height = height;
+  }
+
+  @Override
+  public String getColor() {
+    return color;
+  }
+
+  @Override
+  public void setColor(String color) {
+    this.color = color;
+  }
+
+  @Override
+  public int getArea() {
+    return width * height;
   }
 }
 ```
 
-- In this example, the Lion class implements the Animal and Carnivore interfaces, and the Gazelle class implements the Animal and Herbivore interfaces. This adheres to the Interface Segregation Principle because the Lion class only has to implement the methods it needs (makeSound() and eatMeat()) and the Gazelle class only has to implement the methods it needs (makeSound() and eatPlants()). This allows us to create more specialized interfaces that are easier to implement and use.
+- In this example, the `Rectangle` class implements the `Shape` interface, which defines the behavior that is expected of a shape. However, the `Shape` interface violates the ISP because it has methods that are not applicable to all types of shapes. The `getColor` and `setColor` methods, for example, do not make sense for a rectangle because it does not have a color in the same way that a circle does. This means that the `Rectangle` class is forced to implement methods that it does not need, which violates the ISP.
+
+- Here is a simple Java code example that adheres to the ISP:
+
+```java
+public interface Shape {
+  int getArea();
+  int getWidth();
+  void setWidth(int width);
+  int getHeight();
+  void setHeight(int height);
+}
+
+public interface ColoredShape extends Shape {
+  String getColor();
+  void setColor(String color);
+}
+
+public class Rectangle implements Shape {
+  private int width;
+  private int height;
+
+  public Rectangle(int width, int height) {
+    this.width = width;
+    this.height = height;
+  }
+
+  @Override
+  public int getWidth() {
+    return width;
+  }
+
+  @Override
+  public void setWidth(int width) {
+    this.width = width;
+  }
+
+  @Override
+  public int getHeight() {
+    return height;
+  }
+
+  @Override
+  public void setHeight(int height) {
+    this.height = height;
+  }
+
+  @Override
+  public int getArea() {
+    return width * height;
+  }
+}
+
+public class ColoredRectangle implements ColoredShape {
+  private int width;
+  private int height;
+  private String color;
+
+  public ColoredRectangle(int width, int height, String color) {
+    this.width = width;
+    this.height = height;
+    this.color = color;
+  }
+
+  @Override
+  public int getWidth() {
+    return width;
+  }
+
+  @Override
+  public void setWidth(int width) {
+    this.width = width;
+  }
+
+  @Override
+  public int getHeight() {
+    return height;
+  }
+
+  @Override
+  public void setHeight(int height) {
+    this.height = height;
+  }
+
+  @Override
+  public String getColor() {
+    return color;
+  }
+
+  @Override
+  public void setColor(String color) {
+    this.color = color;
+  }
+
+  @Override
+  public int getArea() {
+    return width * height;
+  }
+}
+```
+
+- In this example, the `Rectangle` class implements the `Shape` interface, which defines the behavior that is expected of a shape. The `ColoredRectangle` class extends the `Rectangle` class and also implements the `ColoredShape` interface, which adds the ability to set and get a color. This adheres to the ISP because each interface defines a specific set of behaviors, and a class only needs to implement the interfaces that are relevant to its specific needs. This allows us to create classes that have only the behaviors that they need, without being forced to implement unnecessary methods.
 
 ### Dependency Inversion Principle (DIP)
 
@@ -297,52 +576,113 @@ public class Gazelle implements Animal, Herbivore {
 
 - Adhering to the Dependency Inversion Principle can help you write code that is more flexible and easier to maintain, because you can change the concrete implementation of a dependency without affecting the code that depends on it. It can also help you improve the modularity of your software, because high-level modules are not tightly coupled to low-level ones.
 
-- here is a simple Java code example illustrating the Dependency Inversion Principle (DIP):
+- here is a simple Java code example that violates the DIP:
 
 ```java
-public interface Animal {
-  void makeSound();
-}
+public class User {
+  private String username;
+  private String password;
 
-public class Cat implements Animal {
-  @Override
-  public void makeSound() {
-    System.out.println("Meow");
+  public User(String username, String password) {
+    this.username = username;
+    this.password = password;
+  }
+
+  public String getUsername() {
+    return username;
+  }
+
+  public void setUsername(String username) {
+    this.username = username;
+  }
+
+  public String getPassword() {
+    return password;
+  }
+
+  public void setPassword(String password) {
+    this.password = password;
   }
 }
 
-public class Dog implements Animal {
-  @Override
-  public void makeSound() {
-    System.out.println("Woof");
+public class UserService {
+  public void authenticateUser(User user) {
+    // authenticate the user
   }
 }
 
-public class AnimalSoundMaker {
-  private Animal animal;
-
-  public AnimalSoundMaker(Animal animal) {
-    this.animal = animal;
-  }
-
-  public void makeSound() {
-    animal.makeSound();
-  }
-}
-
-public class Main {
+public class Application {
   public static void main(String[] args) {
-    Animal cat = new Cat();
-    Animal dog = new Dog();
-    AnimalSoundMaker catSoundMaker = new AnimalSoundMaker(cat);
-    AnimalSoundMaker dogSoundMaker = new AnimalSoundMaker(dog);
-    catSoundMaker.makeSound();
-    dogSoundMaker.makeSound();
+    UserService userService = new UserService();
+    User user = new User("john.doe", "password123");
+    userService.authenticateUser(user);
   }
 }
 ```
 
-- In this example, the AnimalSoundMaker class depends on the abstraction (Animal interface) rather than on concrete implementations (Cat and Dog classes). This adheres to the Dependency Inversion Principle because it allows us to change the concrete implementation of the Animal interface without affecting the AnimalSoundMaker class. For example, if we wanted to add a new type of animal, we could create a new class that implements the Animal interface and pass an instance of the new class to the AnimalSoundMaker constructor, without having to modify the AnimalSoundMaker class.
+- In this example, the `Application` class violates the DIP because it depends on the `UserService` class and the `User` class. This means that if either of these classes needs to be changed or replaced, the `Application` class will also need to be changed. This makes the `Application` class more difficult to maintain and test, because it is dependent on other classes.
+
+- Here is a simple Java code example that adheres to the DIP:
+
+```java
+public interface UserRepository {
+  User findByUsername(String username);
+  void saveUser(User user);
+}
+
+public class InMemoryUserRepository implements UserRepository {
+  private Map<String, User> users;
+
+  public InMemoryUserRepository() {
+    this.users = new HashMap<>();
+  }
+
+  @Override
+  public User findByUsername(String username) {
+    return users.get(username);
+  }
+
+  @Override
+  public void saveUser(User user) {
+    users.put(user.getUsername(), user);
+  }
+}
+
+public interface UserAuthenticationService {
+  boolean authenticate(String username, String password);
+}
+
+public class UserAuthenticationServiceImpl implements UserAuthenticationService {
+  private UserRepository userRepository;
+
+  public UserAuthenticationServiceImpl(UserRepository userRepository) {
+    this.userRepository = userRepository;
+  }
+
+  @Override
+  public boolean authenticate(String username, String password) {
+    User user = userRepository.findByUsername(username);
+    if (user == null) {
+      return false;
+    }
+    return user.getPassword().equals(password);
+  }
+}
+
+public class Application {
+  public static void main(String[] args) {
+    UserRepository userRepository = new InMemoryUserRepository();
+    UserAuthenticationService authenticationService = 
+        new UserAuthenticationServiceImpl(userRepository);
+    User user = new User("john.doe", "password123");
+    userRepository.saveUser(user);
+    boolean authenticated = authenticationService.authenticate("john.doe", "password123");
+    System.out.println(authenticated);
+  }
+}
+```
+
+- In this example, the `Application` class adheres to the DIP because it depends on abstractions (interfaces) rather than concrete implementations. The `Application` class depends on the `UserAuthenticationService` interface, which is implemented by the `UserAuthenticationServiceImpl` class. The `UserAuthenticationServiceImpl` class depends on the `UserRepository` interface, which is implemented by the `InMemoryUserRepository` class. This means that if the implementation of any of these classes needs to be changed, the `Application` class will not be affected, as long as the interface is maintained. This makes the `Application` class more flexible and easier to maintain because it is not tightly coupled to specific implementations.
 
 ## Advantages to following the SOLID principles
 
