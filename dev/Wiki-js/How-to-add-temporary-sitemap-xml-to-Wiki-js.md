@@ -2,7 +2,7 @@
 title: Wiki.js에 sitemap.xml 을 추가하는 임시단편적인 방법
 description: 
 published: true
-date: 2022-12-24T21:09:48.203Z
+date: 2022-12-24T21:13:06.449Z
 tags: cron, sitemap, wikijs
 editor: markdown
 dateCreated: 2022-12-01T13:20:12.695Z
@@ -77,3 +77,6 @@ crontab -e
 ## 마무리
 
 - 이제 본인이 필요한 검색 엔진에 `https://your.wiki.address/_assets/sitemap.xml` 주소로 사이트맵을 등록하면 된다.
+
+> 여기서는 굉장히 번거로운 방법으로 서버 로컬 환경에 `sitemap.xml` 을 추가한 예제를 공유했다. 
+> 가능하다면 본인 Wiki.js 가 구동되는 서버 환경에 맞게 커스터마이징하는 것이 좋을 것이다.
