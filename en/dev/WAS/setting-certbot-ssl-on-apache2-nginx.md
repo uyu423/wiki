@@ -2,7 +2,7 @@
 title: Setting up an SSL certificate with certbot
 description: 
 published: true
-date: 2022-12-24T19:52:40.683Z
+date: 2022-12-24T19:54:03.881Z
 tags: apache, certbot, english, nginx, ssl
 editor: markdown
 dateCreated: 2022-12-24T19:52:40.683Z
@@ -116,7 +116,7 @@ blank to select all options shown (Enter 'c' to cancel):
 
 ## SSL certificate auto-renewal test
 
-- By default, certbot is registered in systemd, so if the period approaches, the SSL certificate
+- By default, certbot is registered with systemd and automatically renews SSL certificates when they are nearing expiration.
 - You can test SSL auto-renewal with the command below.
 
 ```bash
