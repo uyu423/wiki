@@ -2,7 +2,7 @@
 title: VPC endpoint settings when running ElasticBeanstalk EC2 instances in a private subnet
 description: 
 published: true
-date: 2022-12-24T20:55:11.583Z
+date: 2022-12-24T20:55:34.764Z
 tags: aws, ec2, elasticbeanstalk, english, vpc
 editor: markdown
 dateCreated: 2022-12-24T20:55:11.583Z
@@ -15,7 +15,7 @@ dateCreated: 2022-12-24T20:55:11.583Z
 # Configuring ElasticBeanstalk
 
 - **Public subnet**
-   -Load Balancer
+   - Load Balancer
 - **Private subnet**
    - EC2 (Network - Public IP allocation off)
   
@@ -35,7 +35,7 @@ dateCreated: 2022-12-24T20:55:11.583Z
 - Services that are not actually used may have been added. It doesn't seem to matter anyway.
 - There is no need to set up a separate Routing Table.
 
-#References
+# References
 
 - [Things to know when using Elastic Beanstalk in a VPC environment*YOWU DEV WIKI*](https://wiki.yowu.dev/en/dev/AWS/Things-to-know-when-using-Elastic-Beanstalk -in-a-VPC-environment)
 - [Using Elastic Beanstalk with Amazon VPC*AWS Documents*](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/vpc.html#services-vpc-private-beanstalk)
