@@ -2,13 +2,13 @@
 title: Navigate web browser to another page in PHP
 description: 
 published: true
-date: 2022-12-24T19:35:29.187Z
+date: 2022-12-24T19:36:00.874Z
 tags: english, php
 editor: markdown
 dateCreated: 2022-12-24T19:35:29.187Z
 ---
 
-## Using headers
+## Using headers() function
 
 - You can use php's `header()` to direct the web browser to a specific page.
 - `header()` operates through the HTTP Response Header transmitted to the client.
