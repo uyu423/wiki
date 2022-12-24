@@ -2,7 +2,7 @@
 title: Maven pom.xml 개요
 description: 
 published: true
-date: 2022-12-24T19:03:19.831Z
+date: 2022-12-24T19:04:16.173Z
 tags: java, maven, springboot
 editor: markdown
 dateCreated: 2022-12-23T09:49:18.780Z
@@ -44,6 +44,8 @@ dateCreated: 2022-12-23T09:49:18.780Z
 
 - [POM Reference*maven.apache.org*](https://maven.apache.org/pom.html)
 {.links-list}
+
+---
 
 > ### 부록: \<dependencies> 및 \<dependencyManagement> 에 대하여
 >
@@ -157,8 +159,6 @@ dateCreated: 2022-12-23T09:49:18.780Z
 >   <version>1.0</version>
 > </parent>
 > ```
-
----
 
 # English
 
