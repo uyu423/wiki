@@ -2,13 +2,13 @@
 title: Maven pom.xml overview
 description: 
 published: true
-date: 2022-12-24T19:32:20.770Z
+date: 2022-12-24T19:32:59.021Z
 tags: english, java, maven, springboot
 editor: markdown
 dateCreated: 2022-12-24T19:31:23.956Z
 ---
 
-- [Maven pom.xml 개요***Korean** version of this document is available*](/ko/dev/Kotlin/overview-maven-pom-xml)
+- [Maven pom.xml 개요***Korean** version of this document is available*](/ko/dev/Maven/overview-maven-pom-xml)
 {.links-list}
 
 ## Detail about the structure of maven pom.xml
