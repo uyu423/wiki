@@ -2,13 +2,16 @@
 title: Features of Kotlin
 description: 
 published: true
-date: 2022-12-24T19:07:03.704Z
+date: 2022-12-24T19:19:13.970Z
 tags: kotlin
 editor: markdown
 dateCreated: 2022-12-24T19:07:03.704Z
 ---
 
-- Kotlin and Java are both popular programming languages that are used to build a wide variety of applications. They have many similarities, but there are also some key differences between the two languages. Here's a comparison of the main features of Kotlin and Java:
+- [코틀린 특징*This document is also written in **Korean***](/ko/dev/Kotlin/feature-of-kotlin)
+{.links-list}
+
+Kotlin and Java are both popular programming languages that are used to build a wide variety of applications. They have many similarities, but there are also some key differences between the two languages. Here's a comparison of the main features of Kotlin and Java:
 
 ### Syntax
 
