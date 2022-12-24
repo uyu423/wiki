@@ -2,20 +2,20 @@
 title: Closures in Functional Programming with Kotlin Lambda Expressions
 description: 
 published: true
-date: 2022-12-24T19:15:11.615Z
+date: 2022-12-24T19:16:32.371Z
 tags: kotlin
 editor: markdown
 dateCreated: 2022-12-24T19:15:11.615Z
 ---
 
 
-In functional programming, a closure is a function that refers to free variables (variables that are not bound in the current scope) in its body. A closure is a function that retains the ability to access and modify the variables that were in its lexical scope, even when the function is executed outside of that lexical scope.
+- In functional programming, a closure is a function that refers to free variables (variables that are not bound in the current scope) in its body. A closure is a function that retains the ability to access and modify the variables that were in its lexical scope, even when the function is executed outside of that lexical scope.
 
 
-In Kotlin, a lambda is an anonymous function that can be created and passed around like any other object. A lambda can capture variables from the surrounding scope, and these variables are known as the closure's free variables.
+- In Kotlin, a lambda is an anonymous function that can be created and passed around like any other object. A lambda can capture variables from the surrounding scope, and these variables are known as the closure's free variables.
 
 
-Here's an example of a Kotlin lambda that captures a free variable:
+- Here's an example of a Kotlin lambda that captures a free variable:
 
 ```kotlin
 val greeting = "Hello"
@@ -26,11 +26,11 @@ val sayHello = { name: String ->
 sayHello("John")  // prints "Hello, John!"
 ```
 
-In this example, the lambda sayHello captures the free variable greeting. The lambda can access and modify the value of greeting even though it is defined outside the lambda's lexical scope.
+- In this example, the lambda sayHello captures the free variable greeting. The lambda can access and modify the value of greeting even though it is defined outside the lambda's lexical scope.
 
-Closures are useful in functional programming because they allow functions to be created and passed around as values, just like any other object. This enables a wide range of programming patterns, such as higher-order functions (functions that take other functions as arguments) and partial application (creating a new function by fixing some of the arguments to a function).
+- Closures are useful in functional programming because they allow functions to be created and passed around as values, just like any other object. This enables a wide range of programming patterns, such as higher-order functions (functions that take other functions as arguments) and partial application (creating a new function by fixing some of the arguments to a function).
 
-For example, consider the following higher-order function in Kotlin:
+- For example, consider the following higher-order function in Kotlin:
 
 ```kotlin
 fun repeat(times: Int, action: (Int) -> Unit) {
@@ -40,9 +40,9 @@ fun repeat(times: Int, action: (Int) -> Unit) {
 }
 ```
 
-This function takes an integer times and a function action as arguments, and it calls the function times number of times, passing the current iteration number as an argument. The function action can be any function that takes an integer as an argument and returns nothing.
+- This function takes an integer times and a function action as arguments, and it calls the function times number of times, passing the current iteration number as an argument. The function action can be any function that takes an integer as an argument and returns nothing.
 
-Here's an example of how this higher-order function can be used with a lambda:
+- Here's an example of how this higher-order function can be used with a lambda:
 
 ```kotlin
 repeat(5) { i ->
@@ -60,7 +60,7 @@ Iteration 4
 Iteration 5
 ```
 
-In this example, the lambda { i -> println("Iteration $i") } captures no free variables, so it is a pure function. However, if the lambda captured a free variable, it would become a closure, and the value of the free variable could be accessed and modified within the lambda.
+- In this example, the lambda { i -> println("Iteration $i") } captures no free variables, so it is a pure function. However, if the lambda captured a free variable, it would become a closure, and the value of the free variable could be accessed and modified within the lambda.
 
 ### Summary
 
