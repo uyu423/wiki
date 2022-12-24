@@ -2,11 +2,14 @@
 title: VPC endpoint settings when running ElasticBeanstalk EC2 instances in a private subnet
 description: 
 published: true
-date: 2022-12-24T20:56:22.995Z
+date: 2022-12-24T20:57:39.684Z
 tags: aws, ec2, elasticbeanstalk, english, vpc
 editor: markdown
 dateCreated: 2022-12-24T20:55:11.583Z
 ---
+
+- [ElasticBeanstalk EC2 인스턴스를 private subnet 에서 실행시 VPC endpoint 설정***English** version of this document is available*](/ko/dev/AWS/VPC-endpoint-settings-when-running-ElasticBeanstalk-EC2-instances-in-a-private-subnet)
+{.links-list}
 
 > I did a lot of shoveling to create a custom VPC and run ElasticBeanstalk EC2 instances in a private subnet.
 > Make a note of it to avoid future mistakes.
