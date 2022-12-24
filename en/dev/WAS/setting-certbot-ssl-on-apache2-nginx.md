@@ -1,8 +1,8 @@
 ---
-title: Setting up an SSL certificate with certbot
+title: Setting up SSL certificates with certbot on Apache2 and Nginx
 description: 
 published: true
-date: 2022-12-24T19:58:39.523Z
+date: 2022-12-24T19:58:52.974Z
 tags: apache, certbot, english, nginx, ssl
 editor: markdown
 dateCreated: 2022-12-24T19:52:40.683Z
