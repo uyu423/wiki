@@ -2,13 +2,16 @@
 title: 코틀린 특징
 description: 
 published: true
-date: 2022-12-24T19:07:00.780Z
+date: 2022-12-24T19:12:13.470Z
 tags: kotlin
 editor: markdown
 dateCreated: 2022-12-23T04:35:18.925Z
 ---
 
-- Kotlin과 Java는 모두 다양한 애플리케이션을 구축하는 데 사용되는 널리 사용되는 프로그래밍 언어입니다. 각 언어는 유사점을 가지고 있지만 두 언어 사이에는 몇 가지 중요한 차이점도 있습니다. 다음은 Kotlin과 Java의 주요 기능을 비교한 것입니다.
+- [Features of Kotlin*This document is also written in English*](en/dev/Kotlin/feature-of-kotlin)
+{.links-list}
+
+Kotlin과 Java는 모두 다양한 애플리케이션을 구축하는 데 사용되는 널리 사용되는 프로그래밍 언어입니다. 각 언어는 유사점을 가지고 있지만 두 언어 사이에는 몇 가지 중요한 차이점도 있습니다. 다음은 Kotlin과 Java의 주요 기능을 비교한 것입니다.
 
 ### 구문 (Syntax)
 
