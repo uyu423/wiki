@@ -2,7 +2,7 @@
 title: Ad-hoc way to add sitemap.xml to Wiki.js
 description: 
 published: true
-date: 2022-12-24T21:09:21.809Z
+date: 2022-12-24T21:11:11.691Z
 tags: cron, english, sitemap, wikijs
 editor: markdown
 dateCreated: 2022-12-24T21:09:21.809Z
@@ -27,7 +27,7 @@ dateCreated: 2022-12-24T21:09:21.809Z
 
 ## sitemap.xml creation script
 
-### reset
+### initial setup
 
 ```bash
 cd /home/wiki/.scripts/wikijs-sitemap
@@ -44,7 +44,7 @@ npm install --save https://github.com/uyu423/sitemap-generator
 > 😎
 {.is-warning}
 
-### create script
+### create script (node.js)
 
 ```javascript
 const SitemapGenerator = require("sitemap-generator");
