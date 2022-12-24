@@ -2,7 +2,7 @@
 title: How do Kotlin's lazy collection operations help performance?
 description: 
 published: true
-date: 2022-12-24T19:47:39.475Z
+date: 2022-12-24T19:47:43.979Z
 tags: english, kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-24T19:27:57.210Z
@@ -48,7 +48,7 @@ for (n in evenNumbers) {
 > ```
 > In the above case, in the case of Collection, '1\*1', '2\*2', '3\*3', '4\*4' are all calculated, and then element 4 beyond 3 is searched, but in the case of Sequence, one at a time. It seems to be saying that '3\*3' and '4\*4' are not calculated because each element is processed, which helps performance.
 
-> ***Youu's Notes 2*** 😎
+> ***Yowu's Notes 2*** 😎
 > `Stream API` of Java also supports lazily evaluated collection.
 >
 > - Stream class in Java is a lazily evaluated collection of elements that can be transformed and filtered using various operations. Like Kotlin's Sequence class, the Stream class allows you to perform operations on the elements of a collection lazily, which can improve performance in certain cases.
