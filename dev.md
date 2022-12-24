@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2022-12-23T10:00:08.883Z
+date: 2022-12-24T16:36:36.742Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -70,6 +70,9 @@ dateCreated: 2022-11-24T03:26:46.738Z
 ### PhoneGap
 - [Lets-allow-external-content-with-PhoneGap-CSP](/dev/PhoneGap/Lets-allow-external-content-with-PhoneGap-CSP)
 - [Lets-shoot-Hello-World-in-PhoneGap](/dev/PhoneGap/Lets-shoot-Hello-World-in-PhoneGap)
+
+### PHP
+- [php-makes-the-function-go-to-another-page](/dev/PHP/php-makes-the-function-go-to-another-page)
 
 ### QnA
 - [20180227-Questions-about-Git-Branch-strategy](/dev/QnA/20180227-Questions-about-Git-Branch-strategy)
