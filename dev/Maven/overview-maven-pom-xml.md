@@ -2,7 +2,7 @@
 title: Maven pom.xml 개요
 description: 
 published: true
-date: 2022-12-24T13:54:24.959Z
+date: 2022-12-24T16:18:11.574Z
 tags: java, maven, springboot
 editor: markdown
 dateCreated: 2022-12-23T09:49:18.780Z
@@ -40,10 +40,46 @@ dateCreated: 2022-12-23T09:49:18.780Z
    - `repositories`: 이 요소는 프로젝트가 의존하는 원격 저장소의 위치를 지정합니다.
    - `pluginRepositories`: 이 요소는 프로젝트가 의존하는 원격 플러그인 저장소의 위치를 지정합니다.
 
-More
+**More**
 
 - [POM Reference*maven.apache.org*](https://maven.apache.org/pom.html)
 {.links-list}
+
+> ### 부록: \<dependencies> 및 \<dependencyManagement> 에 대하여
+>
+> Maven에서 `<dependencies>` 요소는 외부 라이브러리에 대한 프로젝트의 종속성을 지정하는 데 사용됩니다. 종속성은 프로젝트를 컴파일하고 실행하기 위해 필요한 라이브러리입니다. `<dependencies>` 요소는 일반적으로 프로젝트의 `pom.xml` 파일에서 프로젝트가 다른 라이브러리에 대해 가지는 종속성을 지정하는 데 사용됩니다.
+>
+> 다음은 `pom.xml` 파일에서 종속성을 지정하는 방법의 예입니다.
+>
+> ```xml
+> <dependencies>
+>   <dependency>
+>     <groupId>com.example</groupId>
+>     <artifactId>example-library</artifactId>
+>     <version>1.0</version>
+>   </dependency>
+> </dependencies>
+> ```
+>
+> `<groupId>` 요소는 종속성이 속한 그룹 또는 조직을 지정하고 `<artifactId>` 요소는 종속성의 이름을 지정하며 `<version>` 요소는 종속성의 버전을 지정합니다.
+>
+> `<dependencyManagement>` 요소는 프로젝트 및 해당 모듈의 종속성을 관리하는 데 사용됩니다. 일반적으로 모든 모듈에서 사용되는 종속성 버전을 지정하기 위해 다중 모듈 프로젝트의 상위 `pom.xml` 파일에서 사용됩니다.
+>
+> 다음은 `<dependencyManagement>` 요소에 종속성을 지정하는 방법의 예입니다.
+>
+> ```xml
+> <dependencyManagement>
+>   <dependencies>
+>     <dependency>
+>       <groupId>com.example</groupId>
+>       <artifactId>example-library</artifactId>
+>       <version>1.0</version>
+>     </dependency>
+>   </dependencies>
+> </dependencyManagement>
+> ```
+>
+> `<dependencyManagement>` 요소에 종속성을 지정하면 모듈이 명시적으로 종속성을 지정하지 않더라도 프로젝트의 모든 모듈이 동일한 버전의 종속성을 사용하도록 할 수 있습니다. 이는 프로젝트의 모듈 간에 일관성을 유지하는 데 유용할 수 있습니다.
 
 ---
 
@@ -79,11 +115,10 @@ More
   - `repositories` element: This element specifies the locations of the remote repositories that the project depends on.
   - `pluginRepositories` element: This element specifies the locations of the remote plugin repositories that the project depends on.
   
-More
+**More**
 
 - [POM Reference*maven.apache.org*](https://maven.apache.org/pom.html)
 {.links-list}
-
 
 ---
 
