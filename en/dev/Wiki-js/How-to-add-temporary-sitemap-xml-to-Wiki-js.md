@@ -2,7 +2,7 @@
 title: Ad-hoc way to add sitemap.xml to Wiki.js 2.x
 description: 
 published: true
-date: 2022-12-24T21:16:50.862Z
+date: 2022-12-24T21:18:10.476Z
 tags: cron, english, sitemap, wikijs
 editor: markdown
 dateCreated: 2022-12-24T21:09:21.809Z
@@ -12,7 +12,7 @@ dateCreated: 2022-12-24T21:09:21.809Z
 {.links-list}
 
 > Since Wiki.js 3.0 will officially support the sitemap function, this is a temporary method.
-> The method below assumes that access to assets in the OS project directory where Wiki.js is installed and use of crontab are possible.
+> The method below assumes that access to `assets` inside the project directory in the server environment where Wiki.js is installed and use of the `crontab` command is possible.
 
 ---
 
