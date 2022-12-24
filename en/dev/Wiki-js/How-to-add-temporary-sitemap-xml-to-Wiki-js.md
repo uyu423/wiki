@@ -2,7 +2,7 @@
 title: Ad-hoc way to add sitemap.xml to Wiki.js
 description: 
 published: true
-date: 2022-12-24T21:13:46.682Z
+date: 2022-12-24T21:16:16.052Z
 tags: cron, english, sitemap, wikijs
 editor: markdown
 dateCreated: 2022-12-24T21:09:21.809Z
@@ -59,6 +59,7 @@ service.start();
 ```
 
 - Change `filepath` and `priorityMap` according to your own wiki.js configuration.
+  - The file system subdirectory `app/assets/*` where Wiki.js exists is mapped to the URL `your.wiki.address/_assets/*`.
 - When `node index.js` is executed, the `sitemap-generator` crawler recursively finds the `<a href>` tag in the page body and creates it as sitemap.xml.
 - Check if sitemap.xml is normally created in the wiki.js assets directory.
 
