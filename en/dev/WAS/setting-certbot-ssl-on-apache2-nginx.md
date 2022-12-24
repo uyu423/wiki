@@ -2,13 +2,13 @@
 title: Setting up an SSL certificate with certbot
 description: 
 published: true
-date: 2022-12-24T19:58:27.739Z
+date: 2022-12-24T19:58:39.523Z
 tags: apache, certbot, english, nginx, ssl
 editor: markdown
 dateCreated: 2022-12-24T19:52:40.683Z
 ---
 
-- [Setting up SSL certificates with certbot on Apache2 and nginx***Korean** version of this document is available*](/ko/dev/WAS/setting-certbot-ssl-on-apache2-nginx)
+- [Setting up SSL certificates with certbot on Apache2 and Nginx***Korean** version of this document is available*](/ko/dev/WAS/setting-certbot-ssl-on-apache2-nginx)
 {.links-list}
 
 ## Install certbot
