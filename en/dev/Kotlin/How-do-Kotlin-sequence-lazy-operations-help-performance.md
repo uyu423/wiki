@@ -2,7 +2,7 @@
 title: How do Kotlin's lazy collection operations help performance?
 description: 
 published: true
-date: 2022-12-24T19:44:53.264Z
+date: 2022-12-24T19:45:33.518Z
 tags: english, kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-24T19:27:57.210Z
@@ -46,8 +46,7 @@ for (n in evenNumbers) {
 > println(listOf(1, 2, 3, 4).asSequence().map { it * it }. find { it > 3});
 > // find elements greater than 3 in [1,2,3,4] squared [1,4,9,16]
 > ```
-> In the case of `Collection` as above, 1\*1, 2\*2, 3\*3, 4\*4 are all calculated and then element 4 beyond 3 is searched.
-> In the case of `Sequence`, since it processes one element at a time, 3\*3 and 4\*4 are not calculated, which seems to help performance.
+> In the case above, in the case of Collection, 1*1, 2*2, 3*3, and 4*4 are all calculated and then element 4 over 3 is searched, but in the case of Sequence, since it processes one element at a time, It seems to be saying that 3, 4 * 4 is not calculated, so it helps performance.
 
 > ***Youu's Notes 2*** 😎
 > `Stream API` of Java also supports lazily evaluated collection.
