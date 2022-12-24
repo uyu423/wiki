@@ -2,7 +2,7 @@
 title: Wiki.js에 sitemap.xml 을 추가하는 임시단편적인 방법
 description: 
 published: true
-date: 2022-12-24T21:13:06.449Z
+date: 2022-12-24T21:15:48.323Z
 tags: cron, sitemap, wikijs
 editor: markdown
 dateCreated: 2022-12-01T13:20:12.695Z
@@ -59,6 +59,7 @@ service.start();
 ```
 
 - `filepath` 와 `priorityMap` 은 본인 wiki.js 구성에 맞게 변경한다.
+  - Wiki.js 가 존재하는 파일 시스템 하위 디렉토리 `app/assets/*` 는 `your.wiki.address/_assets/*` URL 로 맵핑된다.
 - `node index.js` 를 실행하면 `sitemap-generator` 크롤러가 페이지 본문의 `<a href>` 태그를 재귀적으로 찾아서 sitemap.xml 로 생성한다.
 - wiki.js assets 디렉토리에 sitemap.xml 이 정상적으로 생기는지 확인한다.
 
