@@ -2,7 +2,7 @@
 title: Maven pom.xml 개요
 description: 
 published: true
-date: 2022-12-23T10:10:54.138Z
+date: 2022-12-24T13:33:15.117Z
 tags: java, maven, springboot
 editor: markdown
 dateCreated: 2022-12-23T09:49:18.780Z
@@ -42,7 +42,7 @@ dateCreated: 2022-12-23T09:49:18.780Z
 
 More
 
-- [좀 더 복잡한 케이스의 pom.xml 예제*WIKI.YOWU.DEV*]()
+- [POM Reference*maven.apache.org*](https://maven.apache.org/pom.html)
 {.links-list}
 
 ---
@@ -220,3 +220,6 @@ More
 >   <version>1.0</version>
 > </parent>
 > ```
+
+- [POM Reference*maven.apache.org*](https://maven.apache.org/pom.html)
+{.links-list}
