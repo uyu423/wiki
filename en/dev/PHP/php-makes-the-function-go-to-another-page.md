@@ -2,7 +2,7 @@
 title: Navigate web browser to another page in PHP
 description: 
 published: true
-date: 2022-12-24T19:36:39.106Z
+date: 2022-12-24T19:36:40.430Z
 tags: english, php
 editor: markdown
 dateCreated: 2022-12-24T19:35:29.187Z

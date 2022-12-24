@@ -2,8 +2,8 @@
 title: Visual Studio Code에서 Spring Boot 개발하기
 description: 
 published: true
-date: 2022-12-23T09:57:45.829Z
-tags: springboot, vscode
+date: 2022-12-23T09:57:47.198Z
+tags: vscode, springboot
 editor: markdown
 dateCreated: 2022-11-24T04:40:59.243Z
 ---

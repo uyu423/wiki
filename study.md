@@ -2,7 +2,7 @@
 title: Study
 description: 요우의 스터디 모음
 published: true
-date: 2022-12-18T16:15:56.268Z
+date: 2022-12-18T16:15:57.527Z
 tags: study
 editor: markdown
 dateCreated: 2022-11-24T01:14:45.726Z

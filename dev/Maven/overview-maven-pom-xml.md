@@ -2,8 +2,8 @@
 title: Maven pom.xml 개요
 description: 
 published: true
-date: 2022-12-24T19:33:04.872Z
-tags: java, maven, springboot
+date: 2022-12-24T19:33:06.258Z
+tags: springboot, maven, java
 editor: markdown
 dateCreated: 2022-12-23T09:49:18.780Z
 ---

@@ -2,8 +2,8 @@
 title: 코틀린 람다 표현식으로 살펴보는 함수형 프로그래밍의 클로져(Closure)
 description: 
 published: true
-date: 2022-12-24T19:21:11.184Z
-tags: closure, kotlin, lambda
+date: 2022-12-24T19:21:12.485Z
+tags: kotlin, lambda, closure
 editor: markdown
 dateCreated: 2022-12-22T14:18:13.961Z
 ---

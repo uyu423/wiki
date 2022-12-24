@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2022-12-24T16:36:36.742Z
+date: 2022-12-24T16:36:38.202Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z

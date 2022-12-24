@@ -2,8 +2,8 @@
 title: About first-class/higher-order functions in Kotlin lambdas
 description: 
 published: true
-date: 2022-12-24T19:42:43.368Z
-tags: english, kotlin, lambda
+date: 2022-12-24T19:42:44.737Z
+tags: kotlin, lambda, english
 editor: markdown
 dateCreated: 2022-12-24T19:24:06.482Z
 ---

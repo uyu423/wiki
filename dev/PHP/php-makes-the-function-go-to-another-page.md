@@ -2,7 +2,7 @@
 title: PHP에서 웹 브라우저를 다른 페이지로 이동시키기
 description: 
 published: true
-date: 2022-12-24T19:36:51.523Z
+date: 2022-12-24T19:36:52.834Z
 tags: php
 editor: markdown
 dateCreated: 2022-12-24T16:29:12.043Z

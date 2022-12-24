@@ -2,7 +2,7 @@
 title: [Spring Boot] Getting LocalDateTime with @RequestParam
 description: 
 published: true
-date: 2022-12-24T19:39:41.600Z
+date: 2022-12-24T19:39:42.944Z
 tags: english, springboot
 editor: markdown
 dateCreated: 2022-12-24T19:39:41.600Z

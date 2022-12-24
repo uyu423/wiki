@@ -2,7 +2,7 @@
 title: Wiki.js Group Permission (Page Rules) Sample
 description: Wiki.js 그룹 사용자 권한 (Page Rules) 샘플
 published: true
-date: 2022-12-07T09:37:54.978Z
+date: 2022-12-07T09:37:56.252Z
 tags: wikijs
 editor: markdown
 dateCreated: 2022-12-07T09:36:53.363Z
