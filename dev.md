@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2022-12-24T16:36:38.202Z
+date: 2022-12-24T22:53:22.479Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -79,6 +79,7 @@ dateCreated: 2022-11-24T03:26:46.738Z
 - [20180226-Can-I-install-Ubuntu-on-my-laptop](/dev/QnA/20180226-Can-I-install-Ubuntu-on-my-laptop)
 
 ### Java
+- [about-solid-principles-oop](/ko/dev/Java/about-solid-principles-oop)
 
 #### Spring
 - [Developing-Spring-Boot-in-vscode](/dev/Java/Spring/Developing-Spring-Boot-in-vscode)
