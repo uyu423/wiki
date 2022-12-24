@@ -2,7 +2,7 @@
 title: 😎 Home (English)
 description: This is Yowu's private development wiki. All kinds of miscellaneous documents are created.
 published: true
-date: 2022-12-24T20:41:07.646Z
+date: 2022-12-24T20:42:11.186Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-24T20:26:20.930Z
@@ -23,7 +23,7 @@ dateCreated: 2022-12-24T20:26:20.930Z
 - **YOWU DEV WIKI** Most English documents were created using Google Translate or other tools. In fact, he doesn't speak English very well. 😭
 
 > **NAVER** Forest CIC, Shopping Live Platform Team, Backend Developer
-> <span style="color:silver;">**야놀자** R&D Group, CX Team, Backend Developer</span>
+> <span style="color:silver;">**Yanolja** R&D Group, CX Team, Backend Developer</span>
 > <span style="color:silver;">**PLATING** Software Engineer</span>
 > <span style="color:silver;">**Ecube Labs** Server Developer</span>
 > <span style="color:silver;">**KYNY** PHP Developer</span>
