@@ -2,7 +2,7 @@
 title: certbot 으로 SSL 인증서 설정하기
 description: Apache2 / nginx 에서 certbot 으로 https 초간단 설정
 published: true
-date: 2022-12-13T16:42:11.865Z
+date: 2022-12-24T19:53:42.896Z
 tags: apache, certbot, nginx, ssl
 editor: markdown
 dateCreated: 2022-11-24T11:10:15.837Z
@@ -116,7 +116,7 @@ blank to select all options shown (Enter 'c' to cancel):
 
 ## SSL 인증서 자동 갱신 테스트
 
-- 기본적으로 certbot은 systemd 에 등록이 되어서 기간이 다가올 경우 SSL 인증서를 
+- 기본적으로 certbot은 systemd 에 등록이 되어서 만료 기간이 다가올 경우 SSL 인증서를 자동으로 갱신해준다.
 - 아래 커맨드로 SSL 자동 갱신을 테스트해볼 수 있다.
 
 ```bash
