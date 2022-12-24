@@ -2,7 +2,7 @@
 title: Maven pom.xml 개요
 description: 
 published: true
-date: 2022-12-24T13:33:15.117Z
+date: 2022-12-24T13:54:24.959Z
 tags: java, maven, springboot
 editor: markdown
 dateCreated: 2022-12-23T09:49:18.780Z
@@ -79,9 +79,11 @@ More
   - `repositories` element: This element specifies the locations of the remote repositories that the project depends on.
   - `pluginRepositories` element: This element specifies the locations of the remote plugin repositories that the project depends on.
   
-More 
-- [Complex example of a maven pom.xml*WIKI.YOWU.DEV*]()
+More
+
+- [POM Reference*maven.apache.org*](https://maven.apache.org/pom.html)
 {.links-list}
+
 
 ---
 
