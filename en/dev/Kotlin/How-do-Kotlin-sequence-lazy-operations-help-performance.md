@@ -2,10 +2,15 @@
 title: How do Kotlin's lazy collection operations help performance?
 description: 
 published: true
-date: 2022-12-24T19:27:57.210Z
+date: 2022-12-24T19:28:29.773Z
 tags: english, kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-24T19:27:57.210Z
+---
+
+- [코틀린의 지연 계산(lazy) 컬렉션 연산은 성능에 어떻게 도움을 주는가?***Korean** version of this document is available*](/ko/dev/Kotlin/How-do-Kotlin-sequence-lazy-operations-help-performance)
+{.links-list}
+
 ---
 
 - In Kotlin, the `Sequence` class is a lazily evaluated collection of elements that can be transformed and filtered using various operations. The `Sequence` class is similar to the `Stream` class in Java, but it is more lightweight and has better support for functional programming concepts.
