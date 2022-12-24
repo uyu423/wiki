@@ -2,7 +2,7 @@
 title: 😎 Home (English)
 description: This is Yowu's private development wiki. All kinds of miscellaneous documents are created.
 published: true
-date: 2022-12-24T20:26:20.930Z
+date: 2022-12-24T20:26:58.319Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-24T20:26:20.930Z
@@ -14,7 +14,7 @@ dateCreated: 2022-12-24T20:26:20.930Z
 
 ![github_stats](https://github-readme-stats.vercel.app/api?username=uyu423&show_icons=true&count_private=true){.align-center}
 
-**Yowu** is a backend developer from South Korea. He is working on the video commerce platform [Shopping Live](https://shoppinglive.naver.com) team serviced by [NAVER](https://navercorp.com), a web search engine company (like Google) in Korea.
+**Yowu** is a backend developer from South Korea. He is working on the video commerce platform [Shopping Live](https://shoppinglive.naver.com) team serviced by [NAVER](https://navercorp.com/en), a web search engine company (like Google) in Korea.
 
 **Yowu** has various experiences in web/app service backend development and as a startup developer. He has experience in designing, developing, and operating production services using Node.js, PHP, MySQL, Redis, AWS, Git, Linux, etc., and is always thinking about back-end architectures and patterns that are highly scalable and maintainable.
 
