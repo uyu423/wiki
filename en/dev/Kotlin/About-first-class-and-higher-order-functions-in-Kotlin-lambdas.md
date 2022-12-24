@@ -2,12 +2,16 @@
 title: About first-class/higher-order functions in Kotlin lambdas
 description: 
 published: true
-date: 2022-12-24T19:24:06.482Z
-tags: kotlin, lambda
+date: 2022-12-24T19:26:01.995Z
+tags: english, kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-24T19:24:06.482Z
 ---
 
+- [코틀린 람다의 일급 함수 / 고차 함수에 대해***Korean** version of this document is available*](/ko/dev/Kotlin/About-first-class-and-higher-order-functions-in-Kotlin-lambdas)
+{.links-list}
+
+---
 
 - In Kotlin, functions are first-class citizens, which means that they can be treated like any other value. This includes the ability to store them in variables, pass them as arguments to other functions, and return them as results from functions.
 
