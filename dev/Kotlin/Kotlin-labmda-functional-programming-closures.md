@@ -2,10 +2,15 @@
 title: 코틀린 람다 표현식으로 살펴보는 함수형 프로그래밍의 클로져(Closure)
 description: 
 published: true
-date: 2022-12-24T19:16:27.007Z
+date: 2022-12-24T19:17:34.418Z
 tags: closure, kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-22T14:18:13.961Z
+---
+
+- [Closures in Functional Programming with Kotlin Lambda Expressions*This document is also written in English*](/en/dev/Kotlin/Kotlin-labmda-functional-programming-closures)
+{.links-list}
+
 ---
 
 - 함수형 프로그래밍에서 **클로저는 본문에서 자유 변수(현재 범위에 바인딩되지 않은 변수)를 참조하는 함수**입니다. 클로저는 함수가 실행되는 스코프 밖에서 실행되는 경우에도 실행된 스코프에 있던 변수에 액세스하고 수정할 수 있는 기능을 유지하는 함수입니다.
