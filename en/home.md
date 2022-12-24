@@ -2,7 +2,7 @@
 title: 😎 Home (English)
 description: This is Yowu's private development wiki. All kinds of miscellaneous documents are created.
 published: true
-date: 2022-12-24T20:42:11.186Z
+date: 2022-12-24T20:42:40.526Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-24T20:26:20.930Z
@@ -31,6 +31,6 @@ dateCreated: 2022-12-24T20:26:20.930Z
 - [RESUME ^(Korean)^](https://resume.yowu.dev)
 - [Github*uyu423*](https://github.com/uyu423)
 - [BLOG ^(Korean)^*Tistory*](https://luckyyowu.tistory.com)
-- [Facebook*LuckyYowu*](https://facebook.com/luckyyowu)
+- [Facebook ^(Korean)^*LuckyYowu*](https://facebook.com/luckyyowu)
 - [E-mail*me@yowu.dev*](mailto:me@yowu.dev)
 {.links-list}
