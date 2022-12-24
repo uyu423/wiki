@@ -2,7 +2,7 @@
 title: Things to know when using Elastic Beanstalk in a VPC environment
 description: 
 published: true
-date: 2022-12-24T20:52:21.105Z
+date: 2022-12-24T21:00:07.477Z
 tags: aws, elasticbeanstalk, elasticip, english, vpc
 editor: markdown
 dateCreated: 2022-12-24T20:49:42.720Z
@@ -99,11 +99,11 @@ dateCreated: 2022-12-24T20:49:42.720Z
 
 ---
 
-#References
+# References
 
-- [VPC endpoint setting when running ElasticBeanstalk EC2 instance in private subnet *YOWU DEV WIKI*](https://wiki.yowu.dev/en/dev/AWS/VPC-endpoint-settings-when-running-ElasticBeanstalk-EC2 -instances-in-a-private-subnet)
-- [Elastic Beanstalk – In a VPC](https://notes.webutvikling.org/elastic-beanstalk-in-a-vpc/)
-- [The EC2 instances failed to communicate with AWS Elastic Beanstalk, either because of configuration problems with the VPC or a failed EC2 instance. Check your VPC configuration and try launching the environment again.](https://www.reddit.com/r/aws/comments/3edgsp/the_ec2_instances_failed_to_communicate_with_aws/)
-- [How do I troubleshoot errors that occur when Amazon EC2 instances fail to communicate with Elastic Beanstalk?*AWS Documetation*](https://aws.amazon.com/en/premiumsupport/knowledge-center/elastic-beanstalk -instance-failure/)
+- [VPC-endpoint-settings-when-running-ElasticBeanstalk-EC2-instances-in-a-private-subnet*WIKI.YOWU.DEV*](/en/dev/AWS/VPC-endpoint-settings-when-running-ElasticBeanstalk-EC2-instances-in-a-private-subnet)
+- [Elastic Beanstalk – In a VPC*notes.webutvikling.org*](https://notes.webutvikling.org/elastic-beanstalk-in-a-vpc/)
+- [The EC2 instances failed to communicate with AWS Elastic Beanstalk, either because of configuration problems with the VPC or a failed EC2 instance. Check your VPC configuration and try launching the environment again.*reddit.com*](https://www.reddit.com/r/aws/comments/3edgsp/the_ec2_instances_failed_to_communicate_with_aws/)
+- [How do I troubleshoot errors that occur when Amazon EC2 instances fail to communicate with Elastic Beanstalk?*AWS Documetation*](https://aws.amazon.com/en/premiumsupport/knowledge-center/elastic-beanstalk-instance-failure/)
 - [NAT gateways are too expensive*Reddit*](https://www.reddit.com/r/aws/comments/w3zrwz/nat_gateways_are_too_expensive/)
 {.links-list}
