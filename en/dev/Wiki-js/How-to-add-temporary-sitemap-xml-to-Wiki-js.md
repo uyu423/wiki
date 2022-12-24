@@ -2,7 +2,7 @@
 title: Ad-hoc way to add sitemap.xml to Wiki.js
 description: 
 published: true
-date: 2022-12-24T21:11:11.691Z
+date: 2022-12-24T21:13:46.682Z
 tags: cron, english, sitemap, wikijs
 editor: markdown
 dateCreated: 2022-12-24T21:09:21.809Z
@@ -50,12 +50,12 @@ npm install --save https://github.com/uyu423/sitemap-generator
 const SitemapGenerator = require("sitemap-generator");
 
 const service = SitemapGenerator("https://your.wiki.address", {
-   filepath: "/home/wiki/app/assets/sitemap.xml",
-   stripQuerystring: true,
-   priorityMap: [0.5, 0.5, 1.0]
+  filepath: "/home/wiki/app/assets/sitemap.xml",
+  stripQuerystring: true,
+  priorityMap: [0.5, 0.5, 1.0]
 });
 
-service. start();
+service.start();
 ```
 
 - Change `filepath` and `priorityMap` according to your own wiki.js configuration.
@@ -74,6 +74,8 @@ crontab -e
 ```
 - Update `sitemap.xml` every day at 04:23 am
 
-## Wrap-up
+## It's over
 
 - Now, register your sitemap with the address `https://your.wiki.address/_assets/sitemap.xml` in the search engine you need.
+> Here, we shared an example of adding `sitemap.xml` to the server local environment in a very cumbersome way.
+> If possible, it would be good to customize according to the server environment where Wiki.js is running.
