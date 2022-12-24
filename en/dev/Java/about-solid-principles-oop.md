@@ -2,11 +2,14 @@
 title: About the SOLID Principles for Object-Oriented Programming
 description: 
 published: true
-date: 2022-12-24T22:19:15.716Z
+date: 2022-12-24T22:52:39.229Z
 tags: java, oop
 editor: markdown
 dateCreated: 2022-12-24T21:41:54.164Z
 ---
+
+- [객체지향 프로그래밍의 SOLID 원칙에 대해***Korean** version of this document is available*](/ko/dev/Java/about-solid-principles-oop)
+{.links-list}
 
 ## What is SOLID principles?
 
