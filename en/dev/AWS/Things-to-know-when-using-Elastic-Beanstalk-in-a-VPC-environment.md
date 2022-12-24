@@ -2,11 +2,14 @@
 title: Things to know when using Elastic Beanstalk in a VPC environment
 description: 
 published: true
-date: 2022-12-24T20:49:42.720Z
+date: 2022-12-24T20:52:21.105Z
 tags: aws, elasticbeanstalk, elasticip, english, vpc
 editor: markdown
 dateCreated: 2022-12-24T20:49:42.720Z
 ---
+
+- [VPC 환경에서 Elastic Beanstalk 을 사용해야할 때 알아둬야할 것들***Korean** version of this document is available*](/ko/dev/AWS/Things-to-know-when-using-Elastic-Beanstalk-in-a-VPC-environment)
+{.links-list}
 
 > Creating a Custom VPC while building a project in AWS
 > However, I had trouble connecting to the external Internet while building the ElasticBeanstalk environment in VPC.
