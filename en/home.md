@@ -2,7 +2,7 @@
 title: 😎 Home (English)
 description: This is Yowu's private development wiki. All kinds of miscellaneous documents are created.
 published: true
-date: 2022-12-24T20:36:08.099Z
+date: 2022-12-24T20:37:28.571Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-24T20:26:20.930Z
@@ -18,7 +18,7 @@ dateCreated: 2022-12-24T20:26:20.930Z
 
 - **Yowu** has various experiences in web/app service backend development and as a startup developer. He has experience in designing, developing, and operating production services using Node.js, PHP, MySQL, Redis, AWS, Git, Linux, etc., and is always thinking about back-end architectures and patterns that are highly scalable and maintainable.
 
-- When he was 9 years old, his mother bought him a Windows ME operating system PC with a Celeron CPU, and they became good friends. His first hack involved changing the in-memory hex code of the Westwood company's Nox game to use fraudulent wizard skills. The small experiences accumulated one by one led him to major in computer science at university, and after a few more years, he became an ordinary developer.
+- When he was 9 years old, his mother bought him a Windows ME operating system PC with a Celeron CPU, and they became good friends. His first hack was to use the hack mage skill by modifying the in-memory hex code of the Westwood company's Nox game. The small experiences accumulated one by one led him to major in computer science at university, and after a few more years, he became an ordinary developer.
 
 > **NAVER** Forest CIC, Shopping Live Platform Team, Backend Developer
 > <span style="color:silver;">**야놀자** R&D Group, CX Team, Backend Developer</span>
