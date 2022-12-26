@@ -2,7 +2,7 @@
 title: Event Loop
 description: 
 published: true
-date: 2022-12-26T12:37:35.766Z
+date: 2022-12-26T13:01:48.671Z
 tags: english, nodejs, v8
 editor: markdown
 dateCreated: 2022-12-26T12:34:04.672Z
@@ -20,6 +20,12 @@ The Node.js event loop is a fundamental part of the runtime that allows Node.js 
 - The event loop is designed to be non-blocking, which means that it can process events concurrently without waiting for each event to complete before moving on to the next one. This is achieved through the use of non-blocking I/O operations and asynchronous callback functions.
 - The event loop is implemented using a combination of JavaScript and native code. The JavaScript portion of the event loop is written in C++ and compiled to native code using the V8 JavaScript engine, while the native portion is implemented using platform-specific APIs.
 - The event loop has several phases, each of which is responsible for processing a specific type of event. The order in which the phases are executed can vary depending on the specific version of Node.js being used.
+
+> ### Appendix: About Non-Blocking I/O Operation
+> 
+> In Node.js, a non-blocking I/O operation is an operation that does not block the execution of the program while it is waiting for the operation to complete. This means that the program can continue to run and perform other tasks while the I/O operation is being performed in the background.
+> 
+> Node.js is built on top of the Chrome V8 JavaScript engine, which is designed to run JavaScript on the server side. One of the key features of Node.js is its use of non-blocking I/O, which allows it to efficiently handle many concurrent connections and perform tasks asynchronously.
 
 > ### Appendix: About V8 JavaScript Engine
 > 
