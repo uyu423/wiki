@@ -2,11 +2,14 @@
 title: Prometheus
 description: 
 published: true
-date: 2022-12-26T10:32:34.766Z
+date: 2022-12-26T10:34:02.325Z
 tags: prometheus
 editor: markdown
 dateCreated: 2022-12-26T07:30:09.774Z
 ---
+
+- [Prometheus***English** version of this document is available*](/en/dev/Prometheus)
+{.links-list}
 
 ![prometheus.png](/prometheus.png =500x){.align-center}
 
