@@ -2,7 +2,7 @@
 title: Prometheus
 description: 
 published: true
-date: 2022-12-26T07:45:30.718Z
+date: 2022-12-26T07:48:44.220Z
 tags: prometheus
 editor: markdown
 dateCreated: 2022-12-26T07:30:09.774Z
@@ -10,7 +10,19 @@ dateCreated: 2022-12-26T07:30:09.774Z
 
 ![prometheus.png](/prometheus.png =500x){.align-center}
 
-Prometheus is an open-source systems monitoring and alerting toolkit. One of the key features of Prometheus is its ability to collect metrics from various systems and sources.
+## Overview
+
+Prometheus is a popular open-source systems monitoring and alerting toolkit that is widely used in modern infrastructure. Here are some of the key features and advantages of Prometheus:
+
+- **Scalability**: Prometheus is designed to be scalable and efficient, and can handle millions of metrics and hundreds of thousands of samples per second. It uses a pull model, in which the Prometheus server periodically scrapes metrics from exporters that are exposed by the monitored systems, and stores the collected metrics in its internal time-series database. This allows Prometheus to collect and store large amounts of metrics data without overwhelming the monitored systems.
+
+- **Flexibility**: Prometheus supports a wide range of metric types and labels, and provides a rich query language and API for querying, analyzing, and visualizing the collected metrics. This allows users to monitor various systems and sources, and to understand the performance and behavior of their systems in great detail.
+
+- **Integration**: Prometheus integrates with a variety of tools and systems, such as Grafana for dashboarding, Alertmanager for alerting, or various exporters for collecting metrics from various systems and sources. This allows users to build a monitoring infrastructure that meets their specific needs and requirements.
+
+- **Community**: Prometheus is an open-source project with a large and active community, which provides a wealth of resources and support for users. This includes documentation, tutorials, best practices, and a range of integrations and exporters that can be used to monitor various systems and sources.
+
+Prometheus is a feature-rich and flexible monitoring tool that is well-suited for modern infrastructure. It provides a scalable and efficient way to collect, store, and query metrics data, and allows users to monitor and understand the performance and behavior of their systems in great detail.
 
 ## Collecting metrics
 
