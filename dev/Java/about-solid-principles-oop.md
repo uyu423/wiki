@@ -1,8 +1,8 @@
 ---
-title: 객체지향 프로그래밍의 SOLID 원칙에 대해
+title: 객체지향 프로그래밍의 SOLID 원칙
 description: 
 published: true
-date: 2022-12-26T11:30:02.127Z
+date: 2022-12-26T11:35:12.982Z
 tags: java, oop
 editor: markdown
 dateCreated: 2022-12-24T22:39:17.183Z
