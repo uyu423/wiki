@@ -2,7 +2,7 @@
 title: PromQL
 description: 
 published: true
-date: 2022-12-26T11:04:42.161Z
+date: 2022-12-26T11:07:07.839Z
 tags: prometheus, promql
 editor: markdown
 dateCreated: 2022-12-26T11:04:42.161Z
@@ -11,7 +11,9 @@ dateCreated: 2022-12-26T11:04:42.161Z
 - [PromQL***English** version of this document is available*](/en/dev/Prometheus/PromQL)
 {.links-list}
 
-## Overview
+![prometheus.png](/prometheus.png =500x){.align-center}
+
+## 개요
 
 PromQL(Prometheus Query Language)은 Prometheus 모니터링 시스템에서 데이터를 선택하고 집계하는 데 사용되는 쿼리 언어입니다. 필터링, 집계 및 수학 연산과 같은 메트릭 데이터에 대한 복잡한 쿼리를 수행할 수 있습니다.
 
