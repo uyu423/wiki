@@ -2,7 +2,7 @@
 title: 이벤트 루프 (Event Loop)
 description: 
 published: true
-date: 2022-12-26T14:08:49.839Z
+date: 2022-12-26T14:11:09.321Z
 tags: nodejs, v8
 editor: markdown
 dateCreated: 2022-12-26T12:35:42.101Z
@@ -25,11 +25,11 @@ Node.js 이벤트 루프는 Node.js가 비차단(Non-Blocking) I/O 작업을 효
 >
 > Node.js에서 비차단 I/O 작업은 작업이 완료되기를 기다리는 동안 프로그램 실행을 차단하지 않는 작업입니다. 이는 I/O 작업이 백그라운드에서 수행되는 동안 프로그램이 계속 실행되고 다른 작업을 수행할 수 있음을 의미합니다.
 >
-> Node.js는 서버 측에서 JavaScript를 실행하도록 설계된 Chrome V8 JavaScript 엔진 위에 구축됩니다. Node.js의 주요 기능 중 하나는 비차단 I/O를 사용하여 많은 동시 연결을 효율적으로 처리하고 작업을 비동기식(asynchronously)으로 수행할 수 있다는 것입니다.
+> Node.js는 서버 측에서 JavaScript를 실행하도록 설계된 Chrome V8 JavaScript 엔진 위에 Built 됩니다. Node.js의 주요 기능 중 하나는 비차단 I/O를 사용하여 많은 동시 연결을 효율적으로 처리하고 작업을 비동기식(asynchronously)으로 수행할 수 있다는 것입니다.
 
 > ### V8 JavaScript 엔진에 대하여
 >
-> Node.js는 Google에서 개발하는 V8 JavaScript 엔진 위에 구축됩니다. V8은 JavaScript 코드를 빠르고 효율적으로 실행하도록 설계된 고성능 오픈 소스 JavaScript 엔진입니다. C++로 작성되었으며 Google Chrome 웹 브라우저 및 기타 여러 프로젝트에서 사용됩니다.
+> 위에서 언급한 것과 같이 Node.js는 Google에서 개발하는 V8 JavaScript 엔진 위에 Built 됩니다. V8은 JavaScript 코드를 빠르고 효율적으로 실행하도록 설계된 고성능 오픈 소스 JavaScript 엔진입니다. C++로 작성되었으며 Google Chrome 웹 브라우저 및 기타 여러 프로젝트에서 사용됩니다.
 >
 > V8은 ECMAScript 버전 6 이상으로 작성된 코드를 포함하여 최신 JavaScript 코드를 실행하도록 설계되었습니다. 여기에는 Class, 화살표 함수(Arrow Function) 및 Promise 같은 기능과 JIT(Just-In-Time) 컴파일이 포함되어 런타임에 코드를 네이티브 머신 코드로 변환하여 코드를 더 빠르게 실행할 수 있습니다.
 >
