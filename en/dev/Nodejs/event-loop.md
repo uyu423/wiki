@@ -2,8 +2,8 @@
 title: Event Loop
 description: 
 published: true
-date: 2022-12-26T12:34:48.153Z
-tags: nodejs
+date: 2022-12-26T12:36:01.863Z
+tags: english, nodejs, v8
 editor: markdown
 dateCreated: 2022-12-26T12:34:04.672Z
 ---
