@@ -2,7 +2,7 @@
 title: Event Loop
 description: 
 published: true
-date: 2022-12-26T14:19:44.404Z
+date: 2022-12-26T14:32:04.333Z
 tags: english, nodejs, v8
 editor: markdown
 dateCreated: 2022-12-26T12:34:04.672Z
@@ -101,7 +101,13 @@ These are internal phases of the event loop that are used to perform various tas
 
 ### Poll
 
-This phase retrieves new I/O events and executes their callbacks. The event loop will block in this phase if there are no events to process, and it will wait for new events to arrive. The length of time that the event loop will block in this phase is determined by the `poll` phase timeout, which is a configurable value. When the event loop is unblocked, it will execute the callbacks for any new events that have arrived, and then return to the poll phase to check for more events.
+It waits for new events to arrive or for previously scheduled tasks to be ready for execution. The event loop uses an internal mechanism, such as `poll()`, `epoll()`, or `kqueue()`, to monitor the file descriptor sources that have been registered with it, and to receive notifications when events occur.
+
+If a new event or task is available, the event loop retrieves it from the event queue and adds it to the "Check" phase queue to be processed on the next iteration of the event loop.
+
+If the event queue is empty and there are no more events or tasks to process, the event loop goes into a "waiting" state, where it waits for new events or tasks to arrive.
+
+Once the event loop has finished processing all available events and tasks in the "Poll" phase, it moves on to the next phase, the "Check" phase, where it processes any tasks that have been scheduled for the current iteration of the event loop.
 
 ### Check
 
