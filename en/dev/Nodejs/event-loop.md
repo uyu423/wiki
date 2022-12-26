@@ -2,7 +2,7 @@
 title: Event Loop
 description: 
 published: true
-date: 2022-12-26T12:34:04.672Z
+date: 2022-12-26T12:34:48.153Z
 tags: nodejs
 editor: markdown
 dateCreated: 2022-12-26T12:34:04.672Z
@@ -49,7 +49,7 @@ In each iteration of the event loop, the event loop processes events in the orde
 
 The event loop is an important concept in Node.js because it allows the runtime to perform many tasks concurrently, instead of blocking and waiting for each task to complete before moving on to the next one. This makes it possible to build high-performance, scalable applications with Node.js.
 
-More detailed explanation of each phase of the Node.js event loop:
+## More detailed explanation of each phase
 
 
 ### Timers
