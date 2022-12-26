@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2022-12-26T10:35:14.935Z
+date: 2022-12-26T12:03:29.216Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -75,6 +75,7 @@ dateCreated: 2022-11-24T03:26:46.738Z
 - [php-makes-the-function-go-to-another-page](/dev/PHP/php-makes-the-function-go-to-another-page)
 
 ### [Prometheus](/ko/dev/Prometheus)
+- [PromQL](/ko/dev/Prometheus/PromQL)
 
 ### QnA
 - [20180227-Questions-about-Git-Branch-strategy](/dev/QnA/20180227-Questions-about-Git-Branch-strategy)
