@@ -2,8 +2,8 @@
 title: PromQL
 description: 
 published: true
-date: 2022-12-26T11:06:48.429Z
-tags: prometheus, promql
+date: 2022-12-26T12:36:44.349Z
+tags: english, prometheus, promql
 editor: markdown
 dateCreated: 2022-12-26T10:55:45.428Z
 ---
