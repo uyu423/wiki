@@ -2,7 +2,7 @@
 title: Prometheus
 description: 
 published: true
-date: 2022-12-26T11:05:36.670Z
+date: 2022-12-26T14:53:16.136Z
 tags: prometheus
 editor: markdown
 dateCreated: 2022-12-26T07:30:09.774Z
@@ -12,8 +12,6 @@ dateCreated: 2022-12-26T07:30:09.774Z
 {.links-list}
 
 ![prometheus.png](/prometheus.png =500x){.align-center}
-
-## 개요
 
 Prometheus는 최신 인프라스트럭쳐에서 널리 사용되는 인기 있는 오픈소스 시스템 모니터링 및 Alert Toolkit입니다. Prometheus의 주요 기능과 장점은 다음과 같습니다.
 
