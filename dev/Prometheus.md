@@ -2,7 +2,7 @@
 title: Prometheus
 description: 
 published: true
-date: 2022-12-26T14:53:16.136Z
+date: 2022-12-26T14:55:31.666Z
 tags: prometheus
 editor: markdown
 dateCreated: 2022-12-26T07:30:09.774Z
@@ -27,7 +27,7 @@ Prometheus는 최신 인프라에 적합한 기능이 풍부하고 유연한 모
 
 ## 메트릭 수집
 
-Prometheus가 메트릭을 수집하는 원리는 간단합니다. 풀(Pull) 모델을 사용합니다. 풀 모델에서는 Prometheus 서버가 주기적으로 HTTP 요청을 보내 모니터링되는 시스템에 의해 노출되는 Exporter라고 하는 다양한 엔드포인트에서 메트릭을 긁어냅니다. 내보내기는 Prometheus 서버에서 쉽게 구문 분석할 수 있는 텍스트 파일과 같은 특정 형식으로 메트릭 데이터를 제공하는 역할을 합니다.
+Prometheus가 메트릭을 수집하는 원리는 간단합니다. 풀(Pull) 모델을 사용합니다. 풀 모델에서는 Prometheus 서버가 서비스에 노출된 Exporter에 주기적으로 HTTP 요청을 보내 다양한 엔드포인트의 메트릭을 스크랩핑합니다. Exporter는 Prometheus 서버에서 쉽게 구문 분석할 수 있는 텍스트 파일과 같은 특정 형식으로 메트릭 데이터를 제공하는 역할을 합니다.
 
 > **풀(Pull) 모델에 대하여**
 >
