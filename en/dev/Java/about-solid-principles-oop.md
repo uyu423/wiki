@@ -2,13 +2,13 @@
 title: SOLID Principles for Object-Oriented Programming
 description: 
 published: true
-date: 2022-12-26T11:35:31.800Z
+date: 2022-12-26T11:35:46.085Z
 tags: java, oop
 editor: markdown
 dateCreated: 2022-12-24T21:41:54.164Z
 ---
 
-- [객체지향 프로그래밍의 SOLID***Korean** version of this document is available*](/ko/dev/Java/about-solid-principles-oop)
+- [객체지향 프로그래밍의 SOLID 원칙***Korean** version of this document is available*](/ko/dev/Java/about-solid-principles-oop)
 {.links-list}
 
 ![solid-logo.png](/solid-logo.png =700x){.align-center}
