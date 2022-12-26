@@ -2,11 +2,17 @@
 title: 이벤트 루프 (Event Loop)
 description: 
 published: true
-date: 2022-12-26T12:35:42.101Z
+date: 2022-12-26T12:38:02.509Z
 tags: nodejs, v8
 editor: markdown
 dateCreated: 2022-12-26T12:35:42.101Z
 ---
+
+- [이벤트 루프 (Event Loop)***English** version of this document is available*](/ko/dev/Nodejs/event-loop)
+{.links-list}
+
+> 이 문서는 번역 예정입니다.
+{.is-danger}
 
 ## Overview
 
