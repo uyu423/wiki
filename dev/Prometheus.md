@@ -2,7 +2,7 @@
 title: Prometheus
 description: 
 published: true
-date: 2022-12-26T10:37:19.411Z
+date: 2022-12-26T10:37:32.428Z
 tags: prometheus
 editor: markdown
 dateCreated: 2022-12-26T07:30:09.774Z
@@ -142,7 +142,7 @@ http_request_duration_seconds_count 133988
 이 예에서 메트릭의 이름은 'http_request_duration_seconds'이고 타입은 'histogram'입니다. 각 버킷에 대해 다른 값(예: "0.1", "0.2" 등)을 갖는 단일 레이블 `le`이 있습니다. 메트릭 값은 각 버킷에 속하는 요청 수의 누적 개수입니다. 메트릭에는 평균 대기 시간을 계산하는 데 사용할 수 있는 요청 대기 시간의 합계와 개수도 포함됩니다.
 
 
-> ### 부록: 인프라스트럭쳐
+> ## 부록: 인프라스트럭쳐
 >
 > Prometheus 기반 인프라의 구조는 일반적으로 다음 구성 요소로 구성됩니다.
 >
