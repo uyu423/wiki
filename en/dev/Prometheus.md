@@ -2,7 +2,7 @@
 title: Prometheus
 description: 
 published: true
-date: 2022-12-26T07:46:07.887Z
+date: 2022-12-26T10:32:55.817Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-26T07:46:07.887Z
@@ -15,6 +15,28 @@ Prometheus is an open-source systems monitoring and alerting toolkit. One of the
 ## Collecting metrics
 
 The principle behind Prometheus collecting metrics is simple: it uses a pull model, in which the Prometheus server periodically sends HTTP requests to scrape metrics from various endpoints, called "exporters", that are exposed by the monitored systems. The exporters are responsible for providing the metrics data in a specific format, such as a text file, that can be easily parsed by the Prometheus server.
+
+> **About "Pull Model"**
+> 
+> Prometheus uses a pull model for collecting metrics from various systems and sources. In a pull model, the Prometheus server periodically sends HTTP requests, called "scrapes", to exporters that are exposed by the monitored systems. The exporters are responsible for providing the metrics data in a specific format, such as a text file, that can be easily parsed by the Prometheus server.
+> 
+> The pull model has several advantages over a push model, in which the monitored systems send the metrics data directly to the Prometheus server. For example:
+> 
+> - The pull model allows the Prometheus server to control the rate at which it collects metrics, and to adjust the rate based on the workload and resources of the server. This can help prevent the server from being overwhelmed by a large volume of metrics data.
+> 
+> - The pull model decouples the Prometheus server from the monitored systems, and allows the server to collect metrics from any system that exposes an exporter. This makes the monitoring infrastructure more flexible and scalable, as it can be easily extended to support new systems and sources.
+> 
+> - The pull model allows the Prometheus server to cache the metrics data and to perform transformations on the data before storing it in its internal time-series database. This can reduce the storage and processing requirements of the server, and allow users to store and query the metrics data more efficiently.
+> 
+> The pull model is an important aspect of the Prometheus monitoring system, and it enables the server to collect and store metrics data from various systems and sources in a scalable and efficient way.
+
+> **About "Time-series Database"**
+> 
+> A time-series database is a database that is specifically designed to store and analyze time-series data, which is data that is collected and stored over time. Time-series data is typically collected at regular intervals, and is often used to track the performance and behavior of systems, applications, or processes over time.
+> 
+> Time-series databases are optimized for storing and querying large amounts of time-series data, and provide features such as efficient data compression, fast writes, and support for complex queries and aggregations. They are often used in monitoring and analytics applications, where they can be used to track metrics such as system performance, resource usage, or business metrics.
+>
+> Some examples of time-series databases include Prometheus, InfluxDB, and Graphite. These databases provide various features and capabilities, and are designed to meet the specific needs and requirements of different use cases and workloads.
 
 The Prometheus server stores the collected metrics in its internal time-series database, and provides a rich query language and API for querying, analyzing, and visualizing the data. It also includes a alerting engine that can trigger notifications or take automated actions based on the collected metrics and user-defined rules.
 
@@ -32,7 +54,7 @@ Here is a more detailed explanation of the principle of Prometheus collecting me
 
 Overall, the principle of Prometheus collecting metrics is to provide a flexible and scalable way to monitor various systems and sources, and to enable users to easily query, analyze, and visualize the collected data. It allows users to understand the performance and behavior of their systems, and to identify and resolve issues before they become critical.
 
-## Sample of collecting metrics
+## Sample of Collecting Metrics
 
 1. First, you need to install and configure the Prometheus server, and decide which systems and sources you want to monitor. This can involve setting up exporters on the monitored systems, or using existing exporters that are compatible with Prometheus.
 
@@ -56,24 +78,55 @@ This configuration specifies that the Prometheus server should scrape the target
 
 ## Sample of metrics data
 
-The syntax of the metrics in the sample code you provided is based on the Prometheus text format, which is a human-readable format that is used to expose metrics data over HTTP. The text format consists of lines of text that represent metric names and corresponding values, along with optional labels that can be used to distinguish different instances or dimensions of the metrics.
+The syntax of the metrics is based on the Prometheus text format, which is a human-readable format that is used to expose metrics data over HTTP. The text format consists of lines of text that represent metric names and corresponding values, along with optional labels that can be used to distinguish different instances or dimensions of the metrics.
 
-- `# HELP` and `# TYPE`: These lines define the metric name and type, and provide a description of the metric. The metric name and type are followed by a space and the metric value. The metric type can be one of four types: `counter`, `gauge`, `histogram`, or `summary`.
+- **Metric names and types**: Each metric is identified by a name and a type, which are specified using the `HELP` and `TYPE` comments. The `HELP` comment provides a brief description of the metric, while the `TYPE` comment specifies the type of the metric, which can be one of the following: `counter`, `gauge`, `histogram`, `summary`, or `untyped`.
 
-- `{label_name="label_value"}`: These lines define the labels of the metric, which are key-value pairs that can be used to distinguish different instances or dimensions of the metric. Labels are enclosed in curly braces, and each label consists of a label name and a label value, separated by an equals sign.
+- **Labels**: Each metric can have one or more labels, which are used to distinguish different instances or dimensions of the metric. Labels are specified as key-value pairs, with the keys and values being strings.
 
-- `_bucket, _sum, _count`: These suffixes are used to define additional fields of a histogram or a summary metric. A histogram includes `_bucket` fields that define the buckets of the histogram, and a `_sum` and `_count` field that represent the sum and count of the metric values. A summary includes `_sum` and `_count` fields, but does not include `_bucket` fields.
+- **Metric values**: Each metric has one or more values, which are specified as floating-point numbers. The values can be either instant values, which represent the value of the metric at a specific point in time, or cumulative values, which represent the total amount of the metric since it was reset or started.
+
+> **About "Metric Types"**
+>
+> The TYPE comment in the Prometheus text format specifies the type of the metric, which can be one of the following:
+> 
+> - `counter`: A counter is a cumulative metric that represents a monotonically increasing value. It is typically used to track the number of events or the total amount of a metric over time. Counters are reset to zero when the process that exports the metric restarts.
+> 
+> - `gauge`: A gauge is a metric that represents a single numerical value that can arbitrarily go up and down. It is typically used to track the current value of a metric at a given point in time.
+> 
+> - `histogram`: A histogram is a metric that tracks the distribution of a metric over a set of buckets. It consists of a set of cumulative counters for the number of events that fall into each bucket, as well as a sum and a count of the events. Histograms can be used to track the distribution of latencies or other metric values.
+> 
+> - `summary`: A summary is a metric that tracks the distribution of a metric over a set of quantiles. It consists of a set of cumulative counters for the number of events and their sum, as well as a set of quantiles that can be used to estimate the distribution of the events. Summaries can be used to track the distribution of latencies or other metric values.
+> 
+> - `untyped`: An untyped metric is a metric that does not have a type specified. It is typically used when the type of the metric is not known or when the metric is being used as a placeholder.
+> 
+> The `TYPE` comment is optional, but it is recommended to include it in the metrics data to provide information about the type of the metric and how it should be interpreted. The type of the metric can affect how it is stored, queried, and visualized by the Prometheus server and other tools.
+
+Here is an example of a metric with a single label and an instant value:
+
+```
+# HELP my_metric A metric that represents the number of requests
+# TYPE my_metric counter
+my_metric{method="GET", status_code="200"} 10
+```
+
+In this example, the metric is named `my_metric` and has the type `counter`. It has two labels: `method`, which has the value "GET", and `status_code`, which has the value "200". The value of the metric is 10.
+
+Here is an example of a metric with multiple labels and cumulative values:
 
 ```
 # HELP http_request_duration_seconds The HTTP request latencies in seconds
 # TYPE http_request_duration_seconds histogram
-http_request_duration_seconds_bucket{le="0.1", method="GET", status_code="200"} 24054
-http_request_duration_seconds_bucket{le="0.2", method="GET", status_code="200"} 33444
-http_request_duration_seconds_sum{method="GET", status_code="200"} 53423
-http_request_duration_seconds_count{method="GET", status_code="200"} 133988
+http_request_duration_seconds_bucket{le="0.1"} 24054
+http_request_duration_seconds_bucket{le="0.2"} 33444
+http_request_duration_seconds_bucket{le="0.5"} 100392
+http_request_duration_seconds_bucket{le="1"} 129389
+http_request_duration_seconds_bucket{le="+Inf"} 133988
+http_request_duration_seconds_sum 53423
+http_request_duration_seconds_count 133988
 ```
 
-In this example, the metric is a histogram of HTTP request latencies, and it is labeled with the `method` and `status_code` labels. The metric includes `_bucket` fields that define the buckets of the histogram, and a `_sum` and `_count` field that represent the sum and count of the metric values.
+In this example, the metric is named `http_request_duration_seconds` and has the type `histogram`. It has a single label, `le`, which has different values for each bucket (e.g., "0.1", "0.2", etc.). The values of the metric are cumulative counts of the number of requests that fall within each bucket. The metric also includes a sum and a count of the request latencies, which can be used to calculate the average latency.
 
 
 > ### Appendix: Infrastructure
@@ -89,5 +142,7 @@ In this example, the metric is a histogram of HTTP request latencies, and it is 
 > - **Grafana**: A popular dashboard tool that can be used to visualize the collected metrics and create interactive dashboards. Grafana can be integrated with the Prometheus server or Alertmanager, and can display the metrics data in various charts and graphs.
 > 
 > - **Monitored systems and sources**: The systems and sources that are being monitored by the Prometheus server, and that expose metrics data through exporters. These can be servers, applications, databases, networks, or other types of systems and sources.
+>
+> ![prometheus_architecture.png](/prometheus_architecture.png =800x){.align-center}
 > 
 > The structure of a Prometheus-based infrastructure is centered around the Prometheus server, which collects metrics from various systems and sources, and provides a rich query language and API for querying, analyzing, and visualizing the data. The infrastructure can also include additional components such as exporters, Alertmanager, and Grafana, which can be used to extend the functionality and capabilities of the monitoring system.
