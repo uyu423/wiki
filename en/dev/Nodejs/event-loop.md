@@ -2,7 +2,7 @@
 title: Event Loop
 description: 
 published: true
-date: 2022-12-26T13:42:05.831Z
+date: 2022-12-26T14:15:26.439Z
 tags: english, nodejs, v8
 editor: markdown
 dateCreated: 2022-12-26T12:34:04.672Z
@@ -85,6 +85,17 @@ This phase executes callbacks that have completed a blocking operation, such as 
 
 These are internal phases of the event loop that are used to perform various tasks such as updating the list of watchers for file system events, and cleaning up internal data structures.
 
+> **Q. What happens in the "Idle, prepare" phase of the event loop?**
+> 
+> In the "Idle, prepare" phase of the Node.js event loop, the event loop performs several tasks to prepare for the next iteration.
+> 
+> During this phase, the event loop will first check if there are any timers (such as those created using `setTimeout()` or `setInterval()`) that have expired and need to be executed. If any expired timers are found, the event loop will add their callback functions to the task queue to be executed on the next iteration.
+> 
+> The event loop will also check for any tasks that have been scheduled using the `nextTick()` function, and will add them to the task queue to be executed on the next iteration.
+> 
+> Finally, the event loop will check for any low-priority tasks that have been scheduled using the `setImmediate()` function, and will add them to the task queue to be executed on the next iteration.
+> 
+> Once these tasks have been prepared, the event loop will move on to the "poll" phase, where it will check for new events and tasks to be processed.
 
 ### Poll
 
@@ -288,6 +299,8 @@ Finally, the `waitForEvents()` function is called to wait for new events to arri
 > `epoll` is often used in conjunction with the `select()` system call, which allows a program to monitor multiple file descriptors for events. `epoll` provides a more efficient way to monitor large numbers of file descriptors and is especially useful for high-concurrency servers.
 > 
 > `libuv`, the cross-platform library used by Node.js, provides a wrapper around `epoll` and other platform-specific APIs to provide a consistent interface for asynchronous I/O operations. This allows Node.js applications to take advantage of the scalability and efficiency of `epoll` on Linux without having to directly use the `epoll` system call.
+>
+> MacOS/BSD has a `kqueue()` that does the same thing as `epoll`, and Windows has `IOCP`(Input/Output Completion Ports).
 
 > ### About libuv
 > 
