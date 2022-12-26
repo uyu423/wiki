@@ -2,8 +2,8 @@
 title: Prometheus
 description: 
 published: true
-date: 2022-12-26T10:56:39.541Z
-tags: 
+date: 2022-12-26T12:36:26.789Z
+tags: english, prometheus
 editor: markdown
 dateCreated: 2022-12-26T07:46:07.887Z
 ---
