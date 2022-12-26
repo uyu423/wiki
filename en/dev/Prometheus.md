@@ -2,7 +2,7 @@
 title: Prometheus
 description: 
 published: true
-date: 2022-12-26T10:37:45.514Z
+date: 2022-12-26T10:56:39.541Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-26T07:46:07.887Z
@@ -149,3 +149,8 @@ In this example, the metric is named `http_request_duration_seconds` and has the
 > ![prometheus_architecture.png](/prometheus_architecture.png =800x){.align-center}
 > 
 > The structure of a Prometheus-based infrastructure is centered around the Prometheus server, which collects metrics from various systems and sources, and provides a rich query language and API for querying, analyzing, and visualizing the data. The infrastructure can also include additional components such as exporters, Alertmanager, and Grafana, which can be used to extend the functionality and capabilities of the monitoring system.
+
+## More
+
+- [PromQL*YOWU DEV WIKI*](/en/dev/Prometheus/PromQL)
+{.links-list}
