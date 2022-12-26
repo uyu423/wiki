@@ -2,7 +2,7 @@
 title: Prometheus
 description: 
 published: true
-date: 2022-12-26T10:34:02.325Z
+date: 2022-12-26T10:37:19.411Z
 tags: prometheus
 editor: markdown
 dateCreated: 2022-12-26T07:30:09.774Z
@@ -148,7 +148,7 @@ http_request_duration_seconds_count 133988
 >
 > - **Prometheus 서버**: 다양한 시스템 및 소스에서 메트릭을 수집하고 내부 시계열 데이터베이스에 수집된 메트릭을 저장하고 쿼리, 분석, 데이터를 시각화합니다.
 >
-> - **내보내기**: Prometheus 형식으로 메트릭 데이터를 노출하고 Prometheus 서버에서 스크랩할 수 있는 독립 실행형 프로세스 또는 라이브러리입니다. 내보내기는 데이터베이스, 네트워크, 응용 프로그램 또는 하드웨어 장치와 같은 다양한 시스템 및 소스에 대해 구현될 수 있습니다.
+> - **Exporter**: Prometheus 형식으로 메트릭 데이터를 노출하고 Prometheus 서버에서 스크랩할 수 있는 독립 실행형 프로세스 또는 라이브러리입니다. Exporter는 데이터베이스, 네트워크, 애플리케이션 또는 하드웨어 장치와 같은 다양한 시스템 및 소스에 대해 구현될 수 있습니다.
 >
 > - **Alertmanager**: Prometheus 서버와 함께 사용하여 알림을 트리거하거나 수집된 메트릭 및 사용자 정의 규칙에 따라 자동화된 작업을 수행할 수 있는 선택적 구성 요소입니다. Alertmanager는 Prometheus 서버에서 경고를 수신하여 그룹화하고 알림을 보내거나 구성된 정책에 따라 작업을 수행합니다.
 >
