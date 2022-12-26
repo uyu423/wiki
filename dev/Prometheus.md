@@ -2,7 +2,7 @@
 title: Prometheus
 description: 
 published: true
-date: 2022-12-26T10:37:32.428Z
+date: 2022-12-26T11:05:36.670Z
 tags: prometheus
 editor: markdown
 dateCreated: 2022-12-26T07:30:09.774Z
@@ -159,3 +159,8 @@ http_request_duration_seconds_count 133988
 > ![prometheus_architecture.png](/prometheus_architecture.png =800x){.align-center}
 >
 > Prometheus 기반 인프라의 구조는 다양한 시스템 및 소스에서 메트릭을 수집하고 데이터 쿼리, 분석 및 시각화를 위한 풍부한 쿼리 언어 및 API를 제공하는 Prometheus 서버를 중심으로 합니다. 인프라에는 모니터링 시스템의 기능과 기능을 확장하는 데 사용할 수 있는 내보내기, Alertmanager 및 Grafana와 같은 추가 구성 요소도 포함될 수 있습니다.
+
+## More
+
+- [PromQL*YOWU DEV WIKI*](/en/dev/Prometheus/PromQL)
+{.links-list}
