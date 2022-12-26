@@ -2,7 +2,7 @@
 title: 객체지향 프로그래밍의 SOLID 원칙에 대해
 description: 
 published: true
-date: 2022-12-24T22:52:16.086Z
+date: 2022-12-26T11:28:00.393Z
 tags: java, oop
 editor: markdown
 dateCreated: 2022-12-24T22:39:17.183Z
@@ -10,8 +10,6 @@ dateCreated: 2022-12-24T22:39:17.183Z
 
 - [About the SOLID Principles for Object-Oriented Programming***English** version of this document is available*](/en/dev/Java/about-solid-principles-oop)
 {.links-list}
-
-# TBU (To Be Updated)
 
 ## SOLID 원칙?
 
@@ -55,37 +53,7 @@ public class Employee {
     this.address = address;
   }
 
-  public String getName() {
-    return name;
-  }
-
-  public void setName(String name) {
-    this.name = name;
-  }
-
-  public int getAge() {
-    return age;
-  }
-
-  public void setAge(int age) {
-    this.age = age;
-  }
-
-  public double getSalary() {
-    return salary;
-  }
-
-  public void setSalary(double salary) {
-    this.salary = salary;
-  }
-
-  public String getAddress() {
-    return address;
-  }
-
-  public void setAddress(String address) {
-    this.address = address;
-  }
+  // getters and setters
 
   public void calculateTax() {
     // calculate tax based on salary and age
@@ -115,37 +83,7 @@ public class Employee {
     this.address = address;
   }
 
-  public String getName() {
-    return name;
-  }
-
-  public void setName(String name) {
-    this.name = name;
-  }
-
-  public int getAge() {
-    return age;
-  }
-
-  public void setAge(int age) {
-    this.age = age;
-  }
-
-  public double getSalary() {
-    return salary;
-  }
-
-  public void setSalary(double salary) {
-    this.salary = salary;
-  }
-
-  public String getAddress() {
-    return address;
-  }
-
-  public void setAddress(String address) {
-    this.address = address;
-  }
+  // getters and setters
 }
 
 public class TaxCalculator {
@@ -164,13 +102,13 @@ public class EmailSender {
 - 이 예에서 각 클래스는 단일 책임만을 가집니다. `Employee` 클래스는 직원 정보를 가지고 있고 `TaxCalculator` 클래스는 세금 계산을 담당하며 `EmailSender` 클래스는 이메일 전송을 담당합니다. 이것은 각 클래스가 하나의 책임만 가지고 있으므로 변경해야 할 이유가 하나이기 때문에 SRP를 준수합니다. 세금 계산 방식을 변경해야 하는 경우 다른 클래스에 영향을 주지 않고 `TaxCalculator` 클래스를 변경하면 됩니다. 마찬가지로 이메일 전송 방식을 변경해야 하는 경우 다른 클래스에 영향을 주지 않고 `EmailSender` 클래스를 변경하면 됩니다.
 
 
-### Open-Closed Principle (OCP)
+### 개방-폐쇄 원칙 (OCP)
 
-- The Open-Closed Principle states that a class should be open for extension but closed for modification. This means that you should be able to add new functionality to a class without changing its existing code.
+- 개방-폐쇄 원칙(Open-Closed Principle)이란 클래스는 확장에는 열려 있어야 하지만 수정에는 닫혀 있어야 한다는 것입니다. 즉, 기존 코드를 변경하지 않고도 클래스에 새 기능을 추가할 수 있어야 합니다.
 
-- Adhering to the Open-Closed Principle can help you write code that is more flexible and easier to maintain, because you can add new features without breaking existing functionality. It can also help you reduce the risk of introducing bugs when modifying existing code.
+- 개방-폐쇄 원칙을 준수하면 기존 기능을 중단하지 않고 새로운 기능을 추가할 수 있기 때문에 더 유연하고 유지 관리하기 쉬운 코드를 작성할 수 있습니다. 또한 기존 코드를 수정할 때 버그가 발생할 위험을 줄이는 데 도움이 될 수 있습니다.
 
-- here is a simple Java code example that violates the OCP:
+- 다음은 OCP를 위반하는 간단한 Java 코드 예제입니다.
 
 ```java
 public class Rectangle {
@@ -204,10 +142,9 @@ public class AreaCalculator {
   }
 }
 ```
+- 이 예에서 `AreaCalculator` 클래스는 새로운 유형의 모양(사각형)을 처리하도록 수정되었기 때문에 OCP를 위반합니다. 새로운 유형의 도형을 추가하려면 `AreaCalculator` 클래스를 다시 수정해야하고, 또 다시 OCP를 위반합니다.
 
-- In this example, the `AreaCalculator` class violates the OCP because it has been modified to handle a new type of shape (squares). If we want to add a new type of shape, we would need to modify the `AreaCalculator` class again, which goes against the OCP.
-
-- Here is a simple Java code example that adheres to the OCP:
+- 다음은 OCP를 준수하는 간단한 Java 코드 예제입니다.
 
 ```java
 public interface Shape {
@@ -249,16 +186,15 @@ public class AreaCalculator {
 }
 ```
 
-- In this example, the `AreaCalculator` class adheres to the OCP because it does not need to be modified to handle new types of shapes. We can simply create a new class that implements the `Shape` interface and pass it to the `calculateArea` method. The `calculateArea` method will work for any shape that implements the `Shape` interface, without the need to modify the method itself.
+- 새로운 유형의 도형을 처리하기 위해 `AreaCalculator` 클래스를 수정할 필요가 없기 때문에 OCP를 준수합니다. `Shape` 인터페이스를 구현하는 새 클래스를 만들고 `calculateArea` 메서드에 전달합니다. `calculateArea` 메서드는 메서드 자체를 수정할 필요 없이 `Shape` 인터페이스를 구현하는 모든 도형에 대해 작동합니다.
 
+### 리스코프 치환 원칙 (LSP)
 
-### Liskov Substitution Principle (LSP)
+- 리스코프 치환 원칙(Liskov Substitution Principle)에 따르면 하위 타입은 상위 타입을 대체할 수 있어야 합니다. 즉, 클래스가 다른 클래스의 하위 타입인 경우 프로그램의 정확성에 영향을 주지 않고 상위 클래스와 동일한 방식으로 사용할 수 있어야 합니다.
 
-- The Liskov Substitution Principle states that subtypes should be substitutable for their base types. This means that if a class is a subtype of another class, it should be able to be used in the same way as the base class without affecting the correctness of the program.
+- 리스코프 치환 원칙을 준수하면 의도하지 않은 사이드 이펙트에 대한 걱정 없이 상위 타입과 동일한 방식으로 하위 타입을 사용할 수 있으므로 더 유연하고 유지 관리하기 쉬운 코드를 작성할 수 있습니다. 또한 상위 타입과 동일한 방식으로 하위 타입을 사용할 수 있다는 것을 알고 있기 때문에 이해하기 쉬운 코드를 작성하는 데 도움이 될 수 있습니다.
 
-- Adhering to the Liskov Substitution Principle can help you write code that is more flexible and easier to maintain, because you can use subtypes in the same way as the base type without worrying about unintended side effects. It can also help you write code that is easier to understand, because you know that subtypes can be used in the same way as the base type.
-
-- here is a simple Java code example that violates the LSP:
+- 다음은 LSP를 위반하는 간단한 Java 코드 예제입니다.
 
 ```java
 public class Rectangle {
@@ -316,9 +252,9 @@ public class AreaCalculator {
 }
 ```
 
-- In this example, the `Square` class violates the LSP because it does not behave in the same way as a `Rectangle`. The `AreaCalculator` class expects a `Rectangle` object to have a `setWidth` and `setHeight` method that allows the width and height to be set independently, but the `Square` class does not allow this. Instead, setting the width or height of a `Square` object also sets the other dimension, which goes against the behavior of a `Rectangle`. This means that a `Square` object is not a valid substitute for a `Rectangle` object, which violates the LSP.
+- 이 예에서 `Square` 클래스는 `Rectangle`과 동일한 방식으로 동작하지 않기 때문에 LSP를 위반합니다. `AreaCalculator` 클래스는 `Rectangle` 객체가 너비와 높이를 독립적으로 설정할 수 있는 `setWidth` 및 `setHeight` 메서드를 가질 것으로 예상하지만 `Square` 클래스는 이를 허용하지 않습니다. 대신 `Square` 객체의 너비 또는 높이를 설정하면 `Rectangle`의 다른 값도 변경됩니다. 이것은 `Square` 객체가 `Rectangle` 객체의 유효한 대체 타입이 아님을 의미합니다.
 
-- Here is a simple Java code example that adheres to the LSP:
+- 다음은 LSP를 준수하는 간단한 Java 코드 예제입니다.
 
 ```java
 public interface Shape {
@@ -404,15 +340,16 @@ public class AreaCalculator {
 }
 ```
 
-- In this example, the `Square` class adheres to the LSP because it behaves in the same way as a `Rectangle`. Both classes implement the `Shape` interface, which defines the behavior that is expected of a shape. The `Square` class correctly implements all of the methods defined in the `Shape` interface, so it can be used as a substitute for a `Rectangle` object. The `AreaCalculator` class can use either a `Rectangle` or a `Square` object without knowing the specific type, because both types adhere to the behavior defined in the `Shape` interface. This adheres to the LSP because a subclass should be able to be used in the same way as its superclass, without the need to modify the code that uses the superclass.
+- 이 예에서 `Square` 클래스는 `Rectangle`과 동일한 방식으로 동작하기 때문에 LSP를 준수합니다. 두 클래스 모두 모양에 대해 예상되는 동작을 정의하는 `Shape` 인터페이스를 구현합니다. `Square` 클래스는 `Shape` 인터페이스에 정의된 모든 메서드를 올바르게 구현하므로 `Rectangle` 객체의 대체 타입으로 사용할 수 있습니다. `AreaCalculator` 클래스는 특정 타입을 몰라도 `Rectangle` 또는 `Square` 개체를 사용할 수 있습니다. 두 타입 모두 `Shape` 인터페이스에 정의된 동작을 준수하기 때문입니다. 하위 클래스는 상위 클래스를 사용하는 코드를 수정할 필요 없이 상위 클래스와 동일한 방식으로 사용할 수 있어야 하므로 LSP를 준수합니다.
 
-### Interface Segregation Principle (ISP)
+### 인터페이스 분리 원칙 (ISP)
 
-- The Interface Segregation Principle states that clients should not be forced to depend on interfaces they do not use. This means that you should create small, specific interfaces rather than large, general ones.
+- 인터페이스 분리 원칙(Interface Segregation Principle)에 따르면 클라이언트는 사용하지 않는 인터페이스에 강제로 의존해서는 안 됩니다. 즉, 크고 범용적인 인터페이스를 만드는 것이 아닌 작고 구체적인 인터페이스를 만들어야 함을 의미합니다.
 
-- Adhering to the Interface Segregation Principle can help you write code that is more flexible and easier to understand, because you can create specialized interfaces that are easier to implement and use. It can also help you avoid unnecessary dependencies and improve the modularity of your software.
+- 인터페이스 분리 원칙을 준수하면 더 쉽게 구현하고 사용할 수 있는 특수 인터페이스를 만들 수 있으므로 더 유연하고 이해하기 쉬운 코드를 작성할 수 있습니다. 또한 불필요한 종속성을 피하고 소프트웨어의 모듈성을 개선하는 데 도움이 될 수 있습니다.
 
-- Here is a simple Java code example that violates the ISP:
+- 다음은 ISP를 위반하는 간단한 Java 코드 예제입니다.
+
 
 ```java
 public interface Shape {
@@ -473,9 +410,10 @@ public class Rectangle implements Shape {
 }
 ```
 
-- In this example, the `Rectangle` class implements the `Shape` interface, which defines the behavior that is expected of a shape. However, the `Shape` interface violates the ISP because it has methods that are not applicable to all types of shapes. The `getColor` and `setColor` methods, for example, do not make sense for a rectangle because it does not have a color in the same way that a circle does. This means that the `Rectangle` class is forced to implement methods that it does not need, which violates the ISP.
+- 이 예에서 `Rectangle` 클래스는 모양에 대해 예상되는 동작을 정의하는 `Shape` 인터페이스를 구현합니다. 그러나 `Shape` 인터페이스는 모든 유형의 도형에 적용할 수 없는 메소드를 가지고 있기 때문에 ISP를 위반합니다. 예를 들어 `getColor` 및 `setColor` 메서드는 색상이 없는 사각형에 적합하지 않습니다. 이는 `Rectangle` 클래스가 필요하지 않은 메서드를 강제로 구현하도록 하여 ISP를 위반하는 것을 의미합니다.
 
-- Here is a simple Java code example that adheres to the ISP:
+- 다음은 ISP를 준수하는 간단한 Java 코드 예제입니다.
+
 
 ```java
 public interface Shape {
@@ -574,15 +512,16 @@ public class ColoredRectangle implements ColoredShape {
 }
 ```
 
-- In this example, the `Rectangle` class implements the `Shape` interface, which defines the behavior that is expected of a shape. The `ColoredRectangle` class extends the `Rectangle` class and also implements the `ColoredShape` interface, which adds the ability to set and get a color. This adheres to the ISP because each interface defines a specific set of behaviors, and a class only needs to implement the interfaces that are relevant to its specific needs. This allows us to create classes that have only the behaviors that they need, without being forced to implement unnecessary methods.
+- 이 예에서 `Rectangle` 클래스는 모양에 대해 예상되는 동작을 정의하는 `Shape` 인터페이스를 구현합니다. `ColoredRectangle` 클래스는 `Rectangle` 클래스를 확장하고 색상을 설정하고 가져오는 기능을 추가하는 `ColoredShape` 인터페이스도 구현합니다. 이는 각 인터페이스가 특정 동작 집합을 정의하고 클래스는 특정 요구 사항과 관련된 인터페이스만 구현하면 되므로 ISP를 준수합니다. 이를 통해 불필요한 메서드를 강제로 구현하지 않고 필요한 동작만 있는 클래스를 만들 수 있습니다.
 
-### Dependency Inversion Principle (DIP)
 
-- Dependency Inversion Principle (DIP) states that high-level modules should not depend on low-level modules, but rather both should depend on abstractions. This means that you should depend on abstractions (such as interfaces or abstract classes) rather than on concrete implementations when writing code.
+### 의존관계 역전 원칙 (DIP)
 
-- Adhering to the Dependency Inversion Principle can help you write code that is more flexible and easier to maintain, because you can change the concrete implementation of a dependency without affecting the code that depends on it. It can also help you improve the modularity of your software, because high-level modules are not tightly coupled to low-level ones.
+- 의존관계 역전 원칙(Dependency Inversion Principle)는 상위 수준 모듈이 하위 수준 모듈에 의존해서는 안 되며 둘 다 추상화에 의존해야 한다고 명시합니다. 즉, 코드를 작성할 때 구체적인 구현보다는 추상화(예: 인터페이스 또는 추상 클래스)에 의존해야 합니다.
 
-- here is a simple Java code example that violates the DIP:
+- 의존관계 역전 원칙 원칙을 준수하면 의존되는 코드에 영향을 주지 않고 의존성의 구체적인 구현을 변경할 수 있기 때문에 더 유연하고 유지 관리하기 쉬운 코드를 작성하는 데 도움이 될 수 있습니다. 또한 상위 수준 모듈이 하위 수준 모듈과 밀접하게 결합되지 않기 때문에 소프트웨어의 모듈성을 개선하는 데 도움이 될 수 있습니다.
+
+- 다음은 DIP를 위반하는 간단한 Java 코드 예제입니다.
 
 ```java
 public class User {
@@ -594,21 +533,7 @@ public class User {
     this.password = password;
   }
 
-  public String getUsername() {
-    return username;
-  }
-
-  public void setUsername(String username) {
-    this.username = username;
-  }
-
-  public String getPassword() {
-    return password;
-  }
-
-  public void setPassword(String password) {
-    this.password = password;
-  }
+  // getters and setters
 }
 
 public class UserService {
@@ -626,9 +551,9 @@ public class Application {
 }
 ```
 
-- In this example, the `Application` class violates the DIP because it depends on the `UserService` class and the `User` class. This means that if either of these classes needs to be changed or replaced, the `Application` class will also need to be changed. This makes the `Application` class more difficult to maintain and test, because it is dependent on other classes.
+- 이 예제에서 `Application` 클래스는 `UserService` 클래스와 `User` 클래스에 의존하므로 DIP를 위반합니다. 즉, 이러한 클래스 중 하나를 변경하거나 대체해야 하는 경우 `Application` 클래스도 변경해야 합니다. 이는 다른 클래스에 종속되기 때문에 `Application` 클래스를 유지 관리하고 테스트하기 더 어렵게 만듭니다.
 
-- Here is a simple Java code example that adheres to the DIP:
+- 다음은 DIP를 준수하는 간단한 Java 코드 예제입니다.
 
 ```java
 public interface UserRepository {
@@ -688,26 +613,26 @@ public class Application {
 }
 ```
 
-- In this example, the `Application` class adheres to the DIP because it depends on abstractions (interfaces) rather than concrete implementations. The `Application` class depends on the `UserAuthenticationService` interface, which is implemented by the `UserAuthenticationServiceImpl` class. The `UserAuthenticationServiceImpl` class depends on the `UserRepository` interface, which is implemented by the `InMemoryUserRepository` class. This means that if the implementation of any of these classes needs to be changed, the `Application` class will not be affected, as long as the interface is maintained. This makes the `Application` class more flexible and easier to maintain because it is not tightly coupled to specific implementations.
+- 이 예에서 'Application' 클래스는 구체적인 구현이 아닌 추상화(인터페이스)에 의존하기 때문에 DIP를 준수합니다. `Application` 클래스는 `UserAuthenticationServiceImpl` 클래스에 의해 구현되는 `UserAuthenticationService` 인터페이스에 의존합니다. `UserAuthenticationServiceImpl` 클래스는 `InMemoryUserRepository` 클래스에 의해 구현되는 `UserRepository` 인터페이스에 의존합니다. 즉, 이러한 클래스의 구현을 변경해야 하는 경우 인터페이스가 유지되는 한 `Application` 클래스는 영향을 받지 않습니다. 이는 특정 구현에 밀접하게 결합되지 않기 때문에 `Application` 클래스를 보다 유연하고 유지 관리하기 쉽게 만듭니다.
 
-## Advantages to following the SOLID principles
+## SOLID 원칙을 준수할 때의 장점
 
-There are several advantages to following the SOLID principles when programming:
+프로그래밍할 때 SOLID 원칙을 준수하면 몇 가지 장점이 있습니다.
 
-### Improved flexibility
+### 유연성 향상
 
-- Adhering to the SOLID principles can help you write code that is more flexible and easier to change, because you can add new features without breaking existing functionality, and you can use abstractions rather than concrete implementations to reduce the coupling between different parts of your code.
+- SOLID 원칙을 준수하면 기존 기능을 손상시키지 않고 새로운 기능을 추가할 수 있고 구체적인 구현 대신 추상화를 사용하여 코드의 다른 부분 간의 결합을 줄일 수 있으므로 더 유연하고 변경하기 쉬운 코드를 작성할 수 있습니다.
 
-### Increased reusability
+### 재사용성 증가
 
-- Adhering to the SOLID principles can help you write code that is more reusable, because you can design classes and interfaces that are focused on a single responsibility and can be easily used in different contexts.
+- SOLID 원칙을 준수하면 단일 책임에 초점을 맞추고 다양한 컨텍스트에서 쉽게 사용할 수 있는 클래스와 인터페이스를 설계할 수 있으므로 재사용 가능한 코드를 작성하는 데 도움이 될 수 있습니다.
 
-### Better code organization
+### 더 나은 코드 구성
 
-- Adhering to the SOLID principles can help you write code that is easier to understand and maintain, because you can organize your code into small, modular components that are easy to understand and test.
+- SOLID 원칙을 준수하면 이해하고 테스트하기 쉬운 작은 모듈식 구성 요소로 코드를 구성할 수 있으므로 이해하고 유지 관리하기 쉬운 코드를 작성하는 데 도움이 될 수 있습니다.
 
-### Reduced risk of introducing bugs
+### 버그 발생 위험 감소
 
-- Adhering to the SOLID principles can help you reduce the risk of introducing bugs when modifying your code, because you can add new features without modifying existing code and you can use abstractions rather than concrete implementations to reduce the coupling between different parts of your code.
+- SOLID 원칙을 준수하면 기존 코드를 수정하지 않고 새 기능을 추가할 수 있고 구체적인 구현 대신 추상화를 사용하여 코드의 다른 부분 간의 결합을 줄일 수 있기 때문에 코드를 수정할 때 버그가 발생할 위험을 줄이는 데 도움이 될 수 있습니다.
 
-Overall, following the SOLID principles can help you write code that is more flexible, reusable, and easy to understand, which can make it easier to maintain and extend over time.
+전반적으로 SOLID 원칙을 따르면 더 유연하고 재사용 가능하며 이해하기 쉬운 코드를 작성하여 시간이 지남에 따라 더 쉽게 유지 관리하고 확장할 수 있습니다.
