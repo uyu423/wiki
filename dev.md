@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2022-12-24T22:53:22.479Z
+date: 2022-12-26T10:35:14.935Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -21,7 +21,7 @@ dateCreated: 2022-11-24T03:26:46.738Z
 - [Atom-required-packages](/dev/Atom/Atom-required-packages)
 - [Atom-Typescript-package](/dev/Atom/Atom-Typescript-package)
 
- ### AWS
+### AWS
  - [CodeBuild-Quick-Start](/dev/AWS/CodeBuild-Quick-Start)
  - [Facebook-Login-integration-using-Cognito](/dev/AWS/Facebook-Login-integration-using-Cognito)
  - [S3-bucket-on-upload-auto-make-public-apply](/dev/AWS/S3-bucket-on-upload-auto-make-public-apply)
@@ -73,6 +73,8 @@ dateCreated: 2022-11-24T03:26:46.738Z
 
 ### PHP
 - [php-makes-the-function-go-to-another-page](/dev/PHP/php-makes-the-function-go-to-another-page)
+
+### [Prometheus](/ko/dev/Prometheus)
 
 ### QnA
 - [20180227-Questions-about-Git-Branch-strategy](/dev/QnA/20180227-Questions-about-Git-Branch-strategy)
