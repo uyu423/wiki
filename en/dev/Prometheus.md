@@ -2,7 +2,7 @@
 title: Prometheus
 description: 
 published: true
-date: 2022-12-26T10:34:24.609Z
+date: 2022-12-26T10:37:45.514Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-26T07:46:07.887Z
@@ -132,7 +132,7 @@ http_request_duration_seconds_count 133988
 In this example, the metric is named `http_request_duration_seconds` and has the type `histogram`. It has a single label, `le`, which has different values for each bucket (e.g., "0.1", "0.2", etc.). The values of the metric are cumulative counts of the number of requests that fall within each bucket. The metric also includes a sum and a count of the request latencies, which can be used to calculate the average latency.
 
 
-> ### Appendix: Infrastructure
+> ## Appendix: Infrastructure
 > 
 > The structure of a Prometheus-based infrastructure typically consists of the following components:
 > 
