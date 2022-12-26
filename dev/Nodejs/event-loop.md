@@ -2,7 +2,7 @@
 title: 이벤트 루프 (Event Loop)
 description: 
 published: true
-date: 2022-12-26T12:59:49.290Z
+date: 2022-12-26T13:10:10.275Z
 tags: nodejs, v8
 editor: markdown
 dateCreated: 2022-12-26T12:35:42.101Z
@@ -14,16 +14,37 @@ dateCreated: 2022-12-26T12:35:42.101Z
 > 이 문서는 번역 예정입니다.
 {.is-danger}
 
-## Overview
+## 개요
 
-The Node.js event loop is a fundamental part of the runtime that allows Node.js to perform non-blocking I/O operations efficiently. It works by continuously monitoring the event queue and executing any events that are ready to be processed.
+Node.js 이벤트 루프는 Node.js가 비차단(Non-Blocking) I/O 작업을 효율적으로 수행할 수 있도록 하는 런타임의 기본 부분입니다. 이벤트 대기열을 지속적으로 모니터링하고 처리할 준비가 된 이벤트를 실행하는 방식으로 작동합니다.
 
-- The event loop is a single-threaded event loop. This means that only one event can be processed at a time, and events are processed in the order in which they are received. However, Node.js can use multiple threads for certain types of operations, such as performing CPU-intensive tasks or making blocking system calls.
-- The event loop is responsible for executing most of the JavaScript code that runs in a Node.js application. This includes both user code and code provided by the Node.js runtime and its standard library.
-- The event loop is designed to be non-blocking, which means that it can process events concurrently without waiting for each event to complete before moving on to the next one. This is achieved through the use of non-blocking I/O operations and asynchronous callback functions.
-- The event loop is implemented using a combination of JavaScript and native code. The JavaScript portion of the event loop is written in C++ and compiled to native code using the V8 JavaScript engine, while the native portion is implemented using platform-specific APIs.
-- The event loop has several phases, each of which is responsible for processing a specific type of event. The order in which the phases are executed can vary depending on the specific version of Node.js being used.
+- 이벤트 루프는 싱글 스레드 이벤트 루프입니다. 즉, 한 번에 하나의 이벤트만 처리할 수 있으며 이벤트는 순서대로 처리됩니다. 그러나 Node.js는 CPU를 많이 사용하는 작업을 수행하거나 시스템 호출을 차단하는 것과 같은 특정 유형의 작업에 여러 스레드를 사용할 수도 있습니다.
+- 이벤트 루프는 Node.js 애플리케이션에서 실행되는 대부분의 JavaScript 코드 실행을 담당합니다. 여기에는 사용자 코드와 Node.js 런타임 및 해당 표준 라이브러리에서 제공하는 코드가 모두 포함됩니다.
+- 이벤트 루프는 비차단형으로 설계되어 각 이벤트가 완료될 때까지 기다리지 않고 다음 이벤트로 넘어갈 때까지 이벤트를 동시에 처리할 수 있습니다. 이는 비차단 I/O 작업 및 비동기 콜백 함수를 사용하여 달성됩니다.
+- 이벤트 루프는 JavaScript와 네이티브 코드의 조합을 사용하여 구현됩니다. 이벤트 루프의 JavaScript 부분은 C++로 작성되어 V8 JavaScript 엔진을 사용, 네이티브 코드로 컴파일되는 반면 네이티브 부분은 플랫폼별 API를 사용하여 구현됩니다.
+- 이벤트 루프에는 여러 단계가 있으며 각 단계는 특정 유형의 이벤트 처리를 담당합니다. 단계가 실행되는 순서는 사용 중인 Node.js의 특정 버전에 따라 다를 수 있습니다.
 
+> ### Non-Blocking I/O 작업에 대하여
+>
+> Node.js에서 비차단 I/O 작업은 작업이 완료되기를 기다리는 동안 프로그램 실행을 차단하지 않는 작업입니다. 이는 I/O 작업이 백그라운드에서 수행되는 동안 프로그램이 계속 실행되고 다른 작업을 수행할 수 있음을 의미합니다.
+>
+> Node.js는 서버 측에서 JavaScript를 실행하도록 설계된 Chrome V8 JavaScript 엔진 위에 구축됩니다. Node.js의 주요 기능 중 하나는 비차단 I/O를 사용하여 많은 동시 연결을 효율적으로 처리하고 작업을 비동기식(asynchronously)으로 수행할 수 있다는 것입니다.
+
+> ### V8 JsavaScript 엔진에 대하여
+>
+> Node.js는 Google에서 개발 및 유지 관리하는 V8 JavaScript 엔진 위에 구축됩니다. V8은 JavaScript 코드를 빠르고 효율적으로 실행하도록 설계된 고성능 오픈 소스 JavaScript 엔진입니다. C++로 작성되었으며 Google Chrome 웹 브라우저 및 기타 여러 프로젝트에 전원을 공급하는 데 사용됩니다.
+>
+> V8은 ECMAScript 버전 6 이상으로 작성된 코드를 포함하여 최신 JavaScript 코드를 실행하도록 설계되었습니다. 여기에는 클래스, 화살표 함수 및 Promise 지원과 같은 기능과 JIT(Just-In-Time) 컴파일이 포함되어 런타임에 코드를 네이티브 머신 코드로 컴파일하여 코드를 더 빠르게 실행할 수 있습니다.
+>
+> V8은 Node.js 애플리케이션에서 실행되는 JavaScript 코드 실행을 담당하므로 Node.js 런타임의 중요한 구성 요소입니다. 이는 Node.js 런타임과 긴밀하게 통합되며 Node.js를 확장 가능한 네트워크 애플리케이션 구축에 적합하게 만드는 많은 기능을 제공합니다.
+>
+> 다음은 V8 엔진의 작동 방식을 간략하게 나타낸 것입니다.
+>
+> 1. V8 엔진은 JavaScript 코드를 입력으로 받습니다.
+> 1. 코드가 구문 분석되고 V8 엔진이 이해하기 쉬운 중간 표현(IR)으로 변환됩니다.
+> 1. IR은 Constant Folding, Inlining 등 다양한 최적화 기법을 적용하여 빠른 실행이 가능하도록 최적화되어 있습니다.
+> 1. 최적화된 IR은 JIT 컴파일러를 사용하여 원시 기계 코드로 컴파일됩니다.
+> 1. 네이티브 머신 코드는 CPU에 의해 실행됩니다.
 
 > ### Appendix: About Non-Blocking I/O Operation
 > 
