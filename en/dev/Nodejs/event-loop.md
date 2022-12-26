@@ -2,7 +2,7 @@
 title: Event Loop
 description: 
 published: true
-date: 2022-12-26T14:15:26.439Z
+date: 2022-12-26T14:19:44.404Z
 tags: english, nodejs, v8
 editor: markdown
 dateCreated: 2022-12-26T12:34:04.672Z
@@ -87,15 +87,17 @@ These are internal phases of the event loop that are used to perform various tas
 
 > **Q. What happens in the "Idle, prepare" phase of the event loop?**
 > 
-> In the "Idle, prepare" phase of the Node.js event loop, the event loop performs several tasks to prepare for the next iteration.
+> In the "Idle, prepare" phase of the Node.js event loop, the event loop checks for any tasks that need to be scheduled for the next iteration of the loop.
 > 
-> During this phase, the event loop will first check if there are any timers (such as those created using `setTimeout()` or `setInterval()`) that have expired and need to be executed. If any expired timers are found, the event loop will add their callback functions to the task queue to be executed on the next iteration.
+> The event loop in Node.js consists of a series of phases, each of which processes a specific type of task. The "Idle, prepare" phase is the first phase in the event loop, and it is followed by the "Poll" phase, the "Check" phase, and the "Close callbacks" phase.
 > 
-> The event loop will also check for any tasks that have been scheduled using the `nextTick()` function, and will add them to the task queue to be executed on the next iteration.
+> During the "Idle, prepare" phase, the event loop performs the following tasks:
 > 
-> Finally, the event loop will check for any low-priority tasks that have been scheduled using the `setImmediate()` function, and will add them to the task queue to be executed on the next iteration.
+> - It checks for any tasks that have been scheduled using the `process.nextTick()` function, and adds them to the event queue to be executed on the next iteration of the event loop.
+> - It checks for any `Promise` objects that have been rejected and have no error handler, and schedules their rejection handling to be performed on the next iteration of the event loop.
+> - It checks for any timers that have expired (such as those set using `setTimeout()` or `setInterval()`), and adds their callback functions to the event queue to be executed on the next iteration of the event loop.
 > 
-> Once these tasks have been prepared, the event loop will move on to the "poll" phase, where it will check for new events and tasks to be processed.
+> Once these tasks have been completed, the event loop moves on to the next phase, the "Poll" phase, where it waits for new events to arrive or for previously scheduled tasks to be ready for execution.
 
 ### Poll
 
