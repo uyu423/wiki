@@ -2,7 +2,7 @@
 title: Event Loop
 description: 
 published: true
-date: 2022-12-26T13:01:48.671Z
+date: 2022-12-26T13:42:05.831Z
 tags: english, nodejs, v8
 editor: markdown
 dateCreated: 2022-12-26T12:34:04.672Z
@@ -64,6 +64,18 @@ The event loop is an important concept in Node.js because it allows the runtime 
 ### Timers
 
 This phase executes callback functions that have been scheduled using `setTimeout()` and `setInterval()`. When a timer is scheduled, it is added to the timer queue, and the event loop will execute its callback when the specified time has elapsed. If multiple timers are scheduled to expire at the same time, their callbacks will be executed in the order in which they were added to the queue.
+
+> **Q. Does the timer in the event loop guarantee an exact execution time?**
+> 
+> No, the event loop's `tick` in Node.js does not guarantee an exact execution time, just like the timer functions `setTimeout()` and `setInterval()`.
+> 
+> The `tick` in the Node.js event loop is a unit of time that represents the smallest possible delay between two successive iterations of the event loop. It is typically much shorter than the time units used by the timer functions, such as milliseconds or seconds.
+> 
+> However, the actual execution time of a callback function scheduled using the event loop's `tick` may vary due to factors such as system load and the presence of other tasks in the event queue. Therefore, it is not possible to guarantee an exact execution time for tasks scheduled using the event loop's `tick`.
+> 
+> In general, the error will be relatively small for most applications, and may not be noticeable in most cases. However, if you need to execute a task at a specific time or with a specific level of accuracy, it is important to be aware that the timer functions in the event loop and the event loop's `tick` function may not be suitable for your needs.
+> 
+> In these cases, you may need to use a different approach, such as using a hardware timer or implementing your own timing mechanism. It is also important to carefully consider the requirements of your application and the level of accuracy that is needed, and to choose an appropriate approach based on those requirements.
 
 ### Pending callbacks
 
