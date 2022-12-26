@@ -2,11 +2,14 @@
 title: PromQL
 description: 
 published: true
-date: 2022-12-26T10:55:45.428Z
+date: 2022-12-26T11:05:01.013Z
 tags: prometheus, promql
 editor: markdown
 dateCreated: 2022-12-26T10:55:45.428Z
 ---
+
+- [PromQL***Korean** version of this document is available*](/ko/dev/Prometheus/PromQL)
+{.links-list}
 
 ## Overview
 
