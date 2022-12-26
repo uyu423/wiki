@@ -2,7 +2,7 @@
 title: 이벤트 루프 (Event Loop)
 description: 
 published: true
-date: 2022-12-26T14:12:18.189Z
+date: 2022-12-26T14:24:07.052Z
 tags: nodejs, v8
 editor: markdown
 dateCreated: 2022-12-26T12:35:42.101Z
@@ -87,6 +87,20 @@ Node.js 이벤트 루프는 Node.js가 비차단(Non-Blocking) I/O 작업을 효
 ### 유휴 및 준비 (Idle, prepare)
 
 파일 시스템 이벤트에 대한 Watcher 리스트 업데이트 및 내부 데이터 구조 정리와 같은 다양한 작업을 수행하는 데 사용되는 이벤트 루프의 내부 단계입니다.
+
+> **Q. 이벤트 루프의 "유휴 및 준비 (Idle, prepare)" 단계에서는 어떤 일이 발생합니까?**
+>
+> Node.js 이벤트 루프의 "Idle, prepare" 단계에서 이벤트 루프는 다음 반복을 위해 예약해야 하는 모든 작업을 확인합니다.
+>
+> Node.js의 이벤트 루프는 각각 특정 유형의 작업을 처리하는 일련의 단계로 구성됩니다. "Idle, prepare" 단계는 이벤트 루프의 첫 번째 단계이며 "Poll" 단계, "Check" 단계 및 "Close callbacks" 단계가 뒤따릅니다.
+>
+> "Idle, prepare" 단계에서 이벤트 루프는 다음 작업을 수행합니다.
+>
+> - `process.nextTick()` 함수를 사용하여 예약된 모든 작업을 확인하고 이벤트 루프의 다음 반복에서 실행할 이벤트를 큐에 추가합니다.
+> - Rejected 되었거나 Error Handler가 없는 모든 `Promise` 개체를 확인하고 Rejection handling이 이벤트 루프의 다음 반복에서 수행되도록 예약합니다.
+> - 만료된 타이머(`setTimeout()` 또는 `setInterval()`를 사용하여 설정된 타이머)를 확인하고 이벤트 루프의 다음 반복에서 실행될 콜백 함수를 이벤트 큐에 추가합니다.
+>
+> 이러한 작업이 완료되면 이벤트 루프는 다음 단계인 "Poll" 단계로 이동하여 새 이벤트가 도착하거나 이전에 예약된 작업이 실행 준비가 될 때까지 기다립니다.
 
 ### 선출 (Poll)
 
