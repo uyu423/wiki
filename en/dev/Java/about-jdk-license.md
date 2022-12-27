@@ -2,11 +2,12 @@
 title: JDK LICENSE
 description: About Oracle JDK Licensing Issues and Open Source Alternatives
 published: true
-date: 2022-12-27T09:55:28.134Z
+date: 2022-12-27T09:59:17.974Z
 tags: english, java, jdk, lisence
 editor: markdown
 dateCreated: 2022-12-27T09:22:16.128Z
 ---
+
 
 ## Oracle JDK Lisence
 
@@ -61,7 +62,15 @@ There are several versions of the Java Development Kit (JDK) that are released u
 
 It's important to note that the above list is not exhaustive and there may be other versions of the JDK that are released under open source licenses.
 
-> **About AdoptOpenJDK**
+> **Appendix: Classpath Exception?**
+> 
+> The Classpath Exception is a clause that is often included in the GNU General Public License (GPL) v2 to allow users to link GPL-licensed software with other software that is not covered by the GPL.
+> 
+> The Classpath Exception allows users to distribute a combination of GPL-licensed software and other software as long as the GPL-licensed software is used solely for the purpose of running the other software. This means that users are allowed to use GPL-licensed software to run other software, but they are not allowed to modify the GPL-licensed software or distribute it as a standalone product.
+> 
+> The Classpath Exception is often included in open source software licenses in order to allow users to more easily use the software in conjunction with other software that may be licensed under different terms. It is commonly used in conjunction with the GPL v2 in open source Java projects, such as the OpenJDK and AdoptOpenJDK.
+
+> **Appendix: About AdoptOpenJDK**
 >
 > AdoptOpenJDK is a version of the Java Development Kit (JDK) that is developed and maintained by the AdoptOpenJDK community. AdoptOpenJDK is an open source implementation of the JDK, which means that it is freely available for anyone to use, modify, and distribute.
 >
@@ -81,7 +90,7 @@ It's important to note that the above list is not exhaustive and there may be ot
 > 
 > Both OpenJDK and AdoptOpenJDK are open source implementations of the JDK that can be used to develop, test, and deploy Java applications. The main difference between the two is the way in which they are developed, maintained, and supported.
 
-> **GPL v2 license and EPL license**
+> **Appendix: GPL v2 license and EPL license**
 > 
 > The GNU General Public License (GPL) v2 and the Eclipse Public License (EPL) are both open source licenses that are commonly used for software projects. Here is a brief overview of each license:
 > 
