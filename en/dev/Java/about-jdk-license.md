@@ -2,7 +2,7 @@
 title: JDK LICENSE
 description: About Oracle JDK Licensing Issues and Open Source Alternatives
 published: true
-date: 2022-12-27T16:43:10.863Z
+date: 2022-12-27T16:57:56.949Z
 tags: english, java, jdk, lisence
 editor: markdown
 dateCreated: 2022-12-27T09:22:16.128Z
@@ -94,6 +94,20 @@ Zulu Community JDK is an open source, binary distribution of the Java Developmen
 
 It's important to note that the above list is not exhaustive and there may be other versions of the JDK that are released under open source licenses.
 
+> **Appendix: Why are open source JDK projects released as separate projects from OpenJDK??**
+>
+> AdoptOpenJDK, Eclipse OpenJ9, Amazon Corretto, GraalVM, and Zulu Community JDK are all based on the OpenJDK project, which is an open source implementation of the Java Development Kit (JDK) that is developed and maintained by the OpenJDK community.
+> 
+> There are a number of reasons above JDK projects were released as separate projects, rather than being part of the OpenJDK project. Here are a few possible reasons:
+> 
+> - **Different target audiences**: Each of these projects may have a different target audience or focus, and they may be developed with specific goals or features in mind that are not shared by the OpenJDK project. For example, Eclipse OpenJ9 is optimized for use with the Eclipse IDE and other Eclipse tools, while Amazon Corretto is optimized for use with Amazon Web Services (AWS). GraalVM is designed to be used for building and deploying applications in cloud and container environments, while Zulu Community JDK is a binary distribution of the JDK that is released under the MIT License.
+> 
+> - **Different development models**: The OpenJDK project is developed and maintained by the OpenJDK community, which is an open source community that operates under a governance model that is designed to ensure that the project is developed in an open and transparent manner. The AdoptOpenJDK, Eclipse OpenJ9, Amazon Corretto, GraalVM, and Zulu Community JDK projects may have different development models, such as being developed by a single company or organization, or by a smaller group of developers.
+> 
+> - **Different licenses**: Each of these projects may be released under a different license than the OpenJDK project. For example, AdoptOpenJDK is released under the GNU General Public License (GPL) v2 with the Classpath Exception, Eclipse OpenJ9 is released under the Eclipse Public License (EPL), Amazon Corretto is released under the Amazon Software License, GraalVM is released under the Universal Permissive License (UPL), and Zulu Community JDK is released under the MIT License.
+> 
+> There are a number of reasons why the AdoptOpenJDK, Eclipse OpenJ9, Amazon Corretto, GraalVM, and Zulu Community JDK projects were released as separate projects, rather than being part of the OpenJDK project. These projects offer additional features and enhancements that may be useful for specific use cases or environments, and they may be developed and maintained in different ways than the OpenJDK project.
+
 > **Appendix: Classpath Exception?**
 > 
 > The Classpath Exception is a clause that is often included in the GNU General Public License (GPL) v2 to allow users to link GPL-licensed software with other software that is not covered by the GPL.
@@ -101,26 +115,6 @@ It's important to note that the above list is not exhaustive and there may be ot
 > The Classpath Exception allows users to distribute a combination of GPL-licensed software and other software as long as the GPL-licensed software is used solely for the purpose of running the other software. This means that users are allowed to use GPL-licensed software to run other software, but they are not allowed to modify the GPL-licensed software or distribute it as a standalone product.
 > 
 > The Classpath Exception is often included in open source software licenses in order to allow users to more easily use the software in conjunction with other software that may be licensed under different terms. It is commonly used in conjunction with the GPL v2 in open source Java projects, such as the OpenJDK and AdoptOpenJDK.
-
-> **Appendix: About AdoptOpenJDK**
->
-> AdoptOpenJDK is a version of the Java Development Kit (JDK) that is developed and maintained by the AdoptOpenJDK community. AdoptOpenJDK is an open source implementation of the JDK, which means that it is freely available for anyone to use, modify, and distribute.
->
-> AdoptOpenJDK provides pre-built, open source binary releases of the JDK for a variety of platforms, making it easy for users to download and install the JDK on their systems. AdoptOpenJDK also offers long-term support for its binaries through a subscription model, which can be helpful for users who need assistance with using the JDK or who want to ensure that their applications remain compatible with future versions of the JDK.
->
-> AdoptOpenJDK is available under the GNU General Public License (GPL) v2 with the Classpath Exception, which allows users to use, modify, and distribute the software as long as they follow the terms of the license.
-> 
-> AdoptOpenJDK is based on OpenJDK. However, there are a few key differences between the two:
-> 
-> - **Development and maintenance**: OpenJDK is developed and maintained by the OpenJDK community, while AdoptOpenJDK is developed and maintained by the AdoptOpenJDK community.
-> 
-> - **License**: Both OpenJDK and AdoptOpenJDK are available under the GNU General Public License (GPL) v2 with the Classpath Exception.
-> 
-> - **Binaries**: OpenJDK provides open source binary releases of the JDK, while AdoptOpenJDK provides pre-built, open source binaries of the JDK for a variety of platforms.
-> 
-> - **Support**: OpenJDK does not offer any official support for its binaries, while AdoptOpenJDK offers long-term support for its binaries through a subscription model.
-> 
-> Both OpenJDK and AdoptOpenJDK are open source implementations of the JDK that can be used to develop, test, and deploy Java applications. The main difference between the two is the way in which they are developed, maintained, and supported.
 
 > **Appendix: GPL v2 license and EPL license**
 > 
