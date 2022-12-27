@@ -2,7 +2,7 @@
 title: JDK LICENSE
 description: About Oracle JDK Licensing Issues and Open Source Alternatives
 published: true
-date: 2022-12-27T16:57:56.949Z
+date: 2022-12-27T17:07:41.151Z
 tags: english, java, jdk, lisence
 editor: markdown
 dateCreated: 2022-12-27T09:22:16.128Z
@@ -106,7 +106,7 @@ It's important to note that the above list is not exhaustive and there may be ot
 > 
 > - **Different licenses**: Each of these projects may be released under a different license than the OpenJDK project. For example, AdoptOpenJDK is released under the GNU General Public License (GPL) v2 with the Classpath Exception, Eclipse OpenJ9 is released under the Eclipse Public License (EPL), Amazon Corretto is released under the Amazon Software License, GraalVM is released under the Universal Permissive License (UPL), and Zulu Community JDK is released under the MIT License.
 > 
-> There are a number of reasons why the AdoptOpenJDK, Eclipse OpenJ9, Amazon Corretto, GraalVM, and Zulu Community JDK projects were released as separate projects, rather than being part of the OpenJDK project. These projects offer additional features and enhancements that may be useful for specific use cases or environments, and they may be developed and maintained in different ways than the OpenJDK project.
+> There are a number of reasons why above JDK projects were released as separate projects, rather than being part of the OpenJDK project. These projects offer additional features and enhancements that may be useful for specific use cases or environments, and they may be developed and maintained in different ways than the OpenJDK project.
 
 > **Appendix: Classpath Exception?**
 > 
@@ -116,15 +116,17 @@ It's important to note that the above list is not exhaustive and there may be ot
 > 
 > The Classpath Exception is often included in open source software licenses in order to allow users to more easily use the software in conjunction with other software that may be licensed under different terms. It is commonly used in conjunction with the GPL v2 in open source Java projects, such as the OpenJDK and AdoptOpenJDK.
 
-> **Appendix: GPL v2 license and EPL license**
+> **Appendix: About the licenses of the above open source JDK**
+>
+> - **GNU General Public License (GPL) v2**: The GNU General Public License (GPL) v2 is a widely used open source license that is released by the Free Software Foundation (FSF). It is a copyleft license, which means that any software that is distributed under the GPL v2 must also be released under the GPL v2 or a compatible license. The GPL v2 grants users the freedom to use, modify, and distribute the software, as long as they follow the terms of the license. The GPL v2 is designed to ensure that users have the freedom to access and modify the source code of the software, and to ensure that any modifications are also made available to the public under the terms of the GPL v2.
 > 
-> The GNU General Public License (GPL) v2 and the Eclipse Public License (EPL) are both open source licenses that are commonly used for software projects. Here is a brief overview of each license:
+> - **MIT License**: The MIT License is a widely used open source license that is released by the Massachusetts Institute of Technology (MIT). It is a permissive license that allows users to use, modify, and distribute the software without incurring any additional licensing fees. The MIT License is designed to be simple and easy to understand, and it is compatible with a variety of other open source licenses.
 > 
-> - **GNU General Public License (GPL) v2**: The GPL v2 is a widely-used open source license that allows users to freely use, modify, and distribute software as long as they follow the terms of the license. The GPL v2 requires users to distribute any modifications they make to the software under the same license, and it also requires users to make the source code of the software available to others.
+> - **Eclipse Public License (EPL)**: The Eclipse Public License (EPL) is an open source license that is released by the Eclipse Foundation. It is a permissive license that allows users to use, modify, and distribute the software without incurring any additional licensing fees. The EPL is designed to be used for software that is developed and maintained by the Eclipse Foundation and its contributors, and it is compatible with a variety of other open source licenses.
 > 
-> - **Eclipse Public License (EPL)**: The EPL is an open source license that is specifically designed for use with Eclipse-based software. Like the GPL v2, the EPL allows users to freely use, modify, and distribute software as long as they follow the terms of the license. The EPL requires users to distribute any modifications they make to the software under the same license, and it also requires users to make the source code of the software available to others.
+> - **Universal Permissive License (UPL)**: The Universal Permissive License (UPL) is an open source license that is released by Oracle. It is a permissive license that allows users to use, modify, and distribute the software without incurring any additional licensing fees. The UPL is designed to be used for software that is developed and maintained by Oracle and its contributors, and it is compatible with a variety of other open source licenses.
 > 
-> Both the GPL v2 and the EPL are designed to promote the sharing and collaboration of software, and they are commonly used in open source projects. However, there are some differences between the two licenses, and it's important to carefully review the terms of each license before using or distributing software under either of them.
+> - **Amazon Software License**: The Amazon Software License is an open source license that is released by Amazon Web Services (AWS). It is a permissive license that allows users to use, modify, and distribute the software without incurring any additional licensing fees. The Amazon Software License is designed to be used for software that is developed and maintained by AWS and its contributors, and it is compatible with a variety of other open source licenses.
 
 ## Additional information about JDKs
 
