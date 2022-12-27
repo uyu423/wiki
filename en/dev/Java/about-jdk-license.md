@@ -1,9 +1,9 @@
 ---
 title: JDK LICENSE
-description: About Oracle Java License Issues and Alternatives
+description: About Oracle JDK Licensing Issues and Open Source Alternatives
 published: true
-date: 2022-12-27T09:53:11.275Z
-tags: english, java, lisence, jdk
+date: 2022-12-27T09:55:28.134Z
+tags: english, java, jdk, lisence
 editor: markdown
 dateCreated: 2022-12-27T09:22:16.128Z
 ---
