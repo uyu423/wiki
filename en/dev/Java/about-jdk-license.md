@@ -2,7 +2,7 @@
 title: JDK LICENSE
 description: About Oracle JDK Licensing Issues and Open Source Alternatives
 published: true
-date: 2022-12-27T16:39:49.759Z
+date: 2022-12-27T16:43:10.863Z
 tags: english, java, jdk, lisence
 editor: markdown
 dateCreated: 2022-12-27T09:22:16.128Z
@@ -64,31 +64,31 @@ There are a few ways in which you can potentially circumvent commercial applicat
 
 ## Open source licensed JDKs
 
-There are several versions of the Java Development Kit (JDK) that are released under open source licenses:
+There are several versions of the Java Development Kit (JDK) that are released under open source licenses. Most of the open-source JDKs described below are available for a variety of platforms, including Windows, macOS, and Linux:
 
 ### OpenJDK
 
-OpenJDK is an open source implementation of the Java Development Kit (JDK) that is developed and maintained by the OpenJDK community. OpenJDK is available for a variety of platforms, including Windows, macOS, and Linux. OpenJDK is released under the GNU General Public License (GPL) v2 with the Classpath Exception, which allows users to use, modify, and distribute the software as long as they follow the terms of the license. OpenJDK does not offer any official support for its binaries, and users are responsible for obtaining support from the OpenJDK community or other third parties.
+OpenJDK is an open source implementation of the Java Development Kit (JDK) that is developed and maintained by the OpenJDK community. OpenJDK is released under the GNU General Public License (GPL) v2 with the Classpath Exception, which allows users to use, modify, and distribute the software as long as they follow the terms of the license. OpenJDK does not offer any official support for its binaries, and users are responsible for obtaining support from the OpenJDK community or other third parties.
 
 ### AdoptOpenJDK
 
-AdoptOpenJDK is an open source implementation of the JDK that is developed and maintained by the AdoptOpenJDK community. AdoptOpenJDK is available for a variety of platforms, including Windows, macOS, and Linux. AdoptOpenJDK is also released under the GPL v2 with the Classpath Exception. In addition to providing open source binaries of the JDK, AdoptOpenJDK also offers long-term support for its binaries through a subscription model.
+AdoptOpenJDK is an open source implementation of the JDK that is developed and maintained by the AdoptOpenJDK community. AdoptOpenJDK is also released under the GPL v2 with the Classpath Exception. In addition to providing open source binaries of the JDK, AdoptOpenJDK also offers long-term support for its binaries through a subscription model.
 
 ### Eclipse OpenJ9
 
-Eclipse OpenJ9 is an open source implementation of the JDK that is developed and maintained by the Eclipse Foundation. Eclipse OpenJ9 is available for a variety of platforms, including Windows, macOS, and Linux. Eclipse OpenJ9 is released under the Eclipse Public License (EPL), which allows users to use, modify, and distribute the software as long as they follow the terms of the license. Eclipse OpenJ9 is designed to be used in conjunction with the Eclipse IDE and other Eclipse tools, and it is optimized for use in cloud and enterprise environments.
+Eclipse OpenJ9 is an open source implementation of the JDK that is developed and maintained by the Eclipse Foundation. Eclipse OpenJ9 is released under the Eclipse Public License (EPL), which allows users to use, modify, and distribute the software as long as they follow the terms of the license. Eclipse OpenJ9 is designed to be used in conjunction with the Eclipse IDE and other Eclipse tools, and it is optimized for use in cloud and enterprise environments.
 
 ### Amazon Corretto
 
-Amazon Corretto is an open source implementation of the JDK that is developed and maintained by Amazon Web Services (AWS). Amazon Corretto is available for a variety of platforms, including Windows, macOS, and Linux. Amazon Corretto is released under the Amazon Software License, which allows users to use, modify, and distribute the software as long as they follow the terms of the license. Amazon Corretto is designed to be used in production environments and is optimized for use with AWS services.
+Amazon Corretto is an open source implementation of the JDK that is developed and maintained by Amazon Web Services (AWS). Amazon Corretto is released under the Amazon Software License, which allows users to use, modify, and distribute the software as long as they follow the terms of the license. Amazon Corretto is designed to be used in production environments and is optimized for use with AWS services.
 
 ### GraalVM
 
-GraalVM is a high-performance runtime environment for Java and other languages that is developed and maintained by Oracle. GraalVM is available for a variety of platforms, including Windows, macOS, and Linux. GraalVM is released under the Universal Permissive License (UPL), which allows users to use, modify, and distribute the software as long as they follow the terms of the license. GraalVM is designed to be used for building and deploying applications in cloud and container environments, and it includes tools for optimizing application performance and reducing resource usage.
+GraalVM is a high-performance runtime environment for Java and other languages that is developed and maintained by Oracle. GraalVM is released under the Universal Permissive License (UPL), which allows users to use, modify, and distribute the software as long as they follow the terms of the license. GraalVM is designed to be used for building and deploying applications in cloud and container environments, and it includes tools for optimizing application performance and reducing resource usage.
 
 ### Zulu Community JDK
 
-Zulu Community JDK is an open source, binary distribution of the Java Development Kit (JDK) that is developed and maintained by Azul Systems. Zulu Community JDK is available for a variety of platforms, including Windows, macOS, Linux, and Docker. Zulu Community JDK is released under the MIT License, which allows users to use, modify, and distribute the software without incurring any additional licensing fees. Zulu Community JDK is fully compatible with the OpenJDK, which is an open source implementation of the JDK developed and maintained by the OpenJDK community.
+Zulu Community JDK is an open source, binary distribution of the Java Development Kit (JDK) that is developed and maintained by Azul Systems. Zulu Community JDK is released under the MIT License, which allows users to use, modify, and distribute the software without incurring any additional licensing fees. Zulu Community JDK is fully compatible with the OpenJDK, which is an open source implementation of the JDK developed and maintained by the OpenJDK community.
 
 ---
 
