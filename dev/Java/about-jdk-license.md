@@ -1,8 +1,8 @@
 ---
 title: JDK 라이센스(LISENCE)
-description: 
+description: Oracle JDK 라이센스 이슈와 오픈 소스 대안에 대하여...
 published: true
-date: 2022-12-27T09:54:47.450Z
+date: 2022-12-27T09:55:53.318Z
 tags: java, jdk, lisence
 editor: markdown
 dateCreated: 2022-12-27T09:54:47.450Z
