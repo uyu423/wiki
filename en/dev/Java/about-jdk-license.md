@@ -2,7 +2,7 @@
 title: JDK LICENSE
 description: About Oracle JDK Licensing Issues and Open Source Alternatives
 published: true
-date: 2022-12-27T17:42:18.164Z
+date: 2022-12-27T17:42:34.014Z
 tags: english, java, jdk, lisence
 editor: markdown
 dateCreated: 2022-12-27T09:22:16.128Z
@@ -142,7 +142,7 @@ There are a few additional things to consider when it comes to JDK licensing:
 > 
 > Overall, these licenses allow users to use the software in commercial applications without incurring any additional licensing fees. However, they have different requirements for code disclosure and making the source code available to the public when distributing the software. **It is important to carefully review the terms of each license before using the software in a commercial application.**
 
-> ## Can I deploy the API service implemented with AdoptOpenJDK to my company's server?
+> ### Can I deploy the API service implemented with AdoptOpenJDK to my company's server?
 > 
 > Yes, you can deploy an API service implemented with AdoptOpenJDK to your company's server. AdoptOpenJDK is a binary distribution of the OpenJDK project that is released under the GNU General Public License (GPL) v2 with the Classpath Exception. This means that you can use AdoptOpenJDK to develop and deploy an API service to your company's server without incurring any additional licensing fees.
 > 
