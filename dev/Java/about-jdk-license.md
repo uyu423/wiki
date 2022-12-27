@@ -2,7 +2,7 @@
 title: JDK 라이센스(LISENCE)
 description: Oracle JDK 라이센스 이슈와 오픈 소스 대안에 대하여...
 published: true
-date: 2022-12-27T17:29:06.528Z
+date: 2022-12-27T17:42:47.018Z
 tags: java, jdk, lisence
 editor: markdown
 dateCreated: 2022-12-27T09:54:47.450Z
@@ -10,6 +10,7 @@ dateCreated: 2022-12-27T09:54:47.450Z
 
 > 번역 예정
 {.is-warning}
+
 
 
 ## Oracle JDK Lisence
@@ -28,22 +29,7 @@ For example, if a company develops a software product that includes the Oracle J
 
 In addition to this, the Oracle JDK license requires users to include certain notices and disclaimers when distributing Java applications that use the Oracle JDK. Failure to include these notices and disclaimers could potentially result in licensing issues.
 
-> **Appendix: Criteria for "Commercial Application" in the Oracle JDK license**
-> 
-> The Oracle JDK license defines a "commercial application" as an application that is developed or maintained for the purpose of generating revenue or profit. According to the Oracle JDK license, a commercial application may include, but is not limited to, the following:
-> 
-> - Sold or otherwise distributed to customers or users
-> - Used to provide a service that is charged for or generates revenue
-> - Used to generate advertising revenue
-> 
-> Here are a few examples of applications that may be considered commercial applications under the Oracle JDK license:
-> 
-> - Software tool that is sold to customers for a one-time fee or on a subscription basis
-> - Mobile app that is available for download from an app store and generates revenue through in-app purchases or ads
-> - Web-based service that is charged for on a subscription basis and provides users with access to specific features or functionality
-> - Business application that is used to manage and track financial transactions or customer information and is sold to businesses or organizations
-> 
-> The Oracle JDK license prohibits users from distributing the Oracle JDK as part of a commercial application without obtaining a separate commercial license from Oracle. This means that if you are using the Oracle JDK to develop an application that falls within the definition of a commercial application, you may need to obtain a commercial license from Oracle in order to do so.
+
 
 ### How to circumvent commercial application licensing issues with Oracle JDK
 
@@ -93,11 +79,40 @@ GraalVM is a high-performance runtime environment for Java and other languages t
 
 Zulu Community JDK is an open source, binary distribution of the Java Development Kit (JDK) that is developed and maintained by Azul Systems. Zulu Community JDK is released under the MIT License, which allows users to use, modify, and distribute the software without incurring any additional licensing fees. Zulu Community JDK is fully compatible with the OpenJDK, which is an open source implementation of the JDK developed and maintained by the OpenJDK community.
 
----
-
 It's important to note that the above list is not exhaustive and there may be other versions of the JDK that are released under open source licenses.
 
-> **Appendix: Why are open source JDK projects released as separate projects from OpenJDK??**
+## Additional information about JDKs
+
+There are a few additional things to consider when it comes to JDK licensing:
+
+- **Different versions of the JDK may have different licenses**: It's important to be aware that different versions of the JDK may have different licenses. For example, the Oracle JDK is available under a proprietary license, while the OpenJDK is available under the GNU General Public License (GPL) v2 with the Classpath Exception. It's important to carefully review the terms of the license for the specific version of the JDK you are using to ensure that you are in compliance with them.
+
+- **Using the JDK to develop commercial applications may require a commercial license**: If you are using the JDK to develop commercial applications, you may need to obtain a commercial license from the provider of the JDK in order to do so. This is particularly the case with the Oracle JDK, which prohibits users from distributing the JDK as part of a commercial product or service without a separate commercial license.
+
+- **Using the JDK may require you to include certain notices and disclaimers**: Some versions of the JDK, such as the Oracle JDK, may require you to include certain notices and disclaimers when distributing applications that use the JDK. It's important to carefully review the terms of the license for the specific version of the JDK you are using to ensure that you are including the required notices and disclaimers.
+
+- **Licensing issues can be complex**: JDK licensing can be a complex topic, and it's important to seek legal advice if you have any questions or concerns about using the JDK in your projects.
+
+## Appendix
+
+> ### Criteria for "Commercial Application" in the Oracle JDK license
+>  
+> The Oracle JDK license defines a "commercial application" as an application that is developed or maintained for the purpose of generating revenue or profit. According to the Oracle JDK license, a commercial application may include, but is not limited to, the following:
+>  
+> - Sold or otherwise distributed to customers or users
+> - Used to provide a service that is charged for or generates revenue
+> - Used to generate advertising revenue
+> 
+> Here are a few examples of applications that may be considered commercial applications under the Oracle JDK license:
+>  
+> - Software tool that is sold to customers for a one-time fee or on a subscription basis
+> - Mobile app that is available for download from an app store and generates revenue through in-app purchases or ads
+> - Web-based service that is charged for on a subscription basis and provides users with access to specific features or functionality
+> - Business application that is used to manage and track financial transactions or customer information and is sold to businesses or organizations
+>  
+> The Oracle JDK license prohibits users from distributing the Oracle JDK as part of a commercial application without obtaining a separate commercial license from Oracle. This means that if you are using the Oracle JDK to develop an application that falls within the definition of a commercial application, you may need to obtain a commercial license from Oracle in order to do so.
+
+> ### Why are open source JDK projects released as separate projects from OpenJDK?
 >
 > AdoptOpenJDK, Eclipse OpenJ9, Amazon Corretto, GraalVM, and Zulu Community JDK are all based on the OpenJDK project, which is an open source implementation of the Java Development Kit (JDK) that is developed and maintained by the OpenJDK community.
 > 
@@ -111,7 +126,7 @@ It's important to note that the above list is not exhaustive and there may be ot
 > 
 > There are a number of reasons why above JDK projects were released as separate projects, rather than being part of the OpenJDK project. These projects offer additional features and enhancements that may be useful for specific use cases or environments, and they may be developed and maintained in different ways than the OpenJDK project.
 
-> **Appendix: Classpath Exception?**
+> ### Classpath Exception?
 > 
 > The Classpath Exception is a clause that is often included in the GNU General Public License (GPL) v2 to allow users to link GPL-licensed software with other software that is not covered by the GPL.
 > 
@@ -119,7 +134,7 @@ It's important to note that the above list is not exhaustive and there may be ot
 > 
 > The Classpath Exception is often included in open source software licenses in order to allow users to more easily use the software in conjunction with other software that may be licensed under different terms. It is commonly used in conjunction with the GPL v2 in open source Java projects, such as the OpenJDK and AdoptOpenJDK.
 
-> **Appendix: About the licenses of the above open source JDK**
+> ### About the licenses of the above open source JDK
 >
 > GNU General Public License (GPL) v2, Eclipse Public License (EPL), Amazon Software License, Universal Permissive License (UPL), and MIT License are all open source licenses that allow users to use, modify, and distribute the software without incurring any additional licensing fees. *However, they have different requirements for code disclosure and making the source code available to the public when distributing the software.*
 > 
@@ -131,17 +146,31 @@ It's important to note that the above list is not exhaustive and there may be ot
 > 
 > Overall, these licenses allow users to use the software in commercial applications without incurring any additional licensing fees. However, they have different requirements for code disclosure and making the source code available to the public when distributing the software. **It is important to carefully review the terms of each license before using the software in a commercial application.**
 
-## Additional information about JDKs
+> ### Can I deploy the API service implemented with AdoptOpenJDK to my company's server?
+> 
+> Yes, you can deploy an API service implemented with AdoptOpenJDK to your company's server. AdoptOpenJDK is a binary distribution of the OpenJDK project that is released under the GNU General Public License (GPL) v2 with the Classpath Exception. This means that you can use AdoptOpenJDK to develop and deploy an API service to your company's server without incurring any additional licensing fees.
+> 
+> However, it is important to carefully review the terms of the GPL v2 with the Classpath Exception before using AdoptOpenJDK in your company's server. The GPL v2 with the Classpath Exception is a copyleft license that requires users to make the source code of the software available to the public when distributing the software, either by including it with the distribution or by providing a means for obtaining it. The Classpath Exception allows users to distribute the software as part of a larger application without having to release the source code of the entire application, as long as the application is being distributed for the sole purpose of running the software.
+> 
+> If you plan to deploy an API service implemented with AdoptOpenJDK to your company's server, you should ensure that you are complying with the terms of the GPL v2 with the Classpath Exception. This may involve making the source code of the API service available to the public, or providing a means for obtaining it. You should also consider whether the terms of the GPL v2 with the Classpath Exception are compatible with your company's policies and any other legal or business requirements. 
+> 
+> To check if your Java code is violating the Classpath Exception, you should first review the terms of the Classpath Exception to understand what is allowed and what is not allowed. The Classpath Exception is a clause that is included in some versions of the GNU General Public License (GPL) that allows users to distribute the software as part of a larger application without having to release the source code of the entire application, as long as the application is being distributed for the sole purpose of running the software.
+> 
+> Here are some things to consider when checking if your Java code is violating the Classpath Exception:
+> 
+> - Are you distributing the software as part of a larger application? If you are distributing the software as a standalone application, or as part of an application that is not intended to run the software, then you may be violating the Classpath Exception.
+> - Are you distributing the software for the sole purpose of running it? If you are distributing the software as part of an application that is intended to do something other than run the software, such as providing additional functionality or integration with other services, then you may be violating the Classpath Exception.
+> - Are you making the source code of the software available to the public? If you are distributing the software as part of a larger application, the Classpath Exception requires you to make the source code of the software available to the public, either by including it with the distribution or by providing a means for obtaining it.
+> 
+> Suppose you have developed a Java library that provides a set of useful utility functions for working with strings. You want to distribute this library as part of a larger application that you are developing, but you do not want to release the source code of the entire application to the public. You decide to distribute the library under the GNU General Public License (GPL) v2 with the Classpath Exception.
+>
+> In this case, you would need to ensure that you are complying with the terms of the Classpath Exception when distributing your Java library. This may involve making the source code of the library available to the public, either by including it with the distribution or by providing a means for obtaining it. You would also need to ensure that the library is being distributed as part of a larger application that is intended to run the library, and that the library is not being used for any other purpose.
+> 
+> If you are distributing the library as part of an application that is intended to do something other than run the library, such as providing additional functionality or integration with other services, then you may be violating the Classpath Exception. In this case, you would need to either release the source code of the entire application to the public, or choose a different license that allows you to distribute the library as part of a larger application without having to release the source code.
+> 
+> Overall, it is important to carefully review the terms of the Classpath Exception and ensure that you are complying with them when distributing your Java code. If you have any doubts about whether your Java code is violating the Classpath Exception, you may want to consult with a legal professional for advice.
 
-There are a few additional things to consider when it comes to JDK licensing:
 
-- **Different versions of the JDK may have different licenses**: It's important to be aware that different versions of the JDK may have different licenses. For example, the Oracle JDK is available under a proprietary license, while the OpenJDK is available under the GNU General Public License (GPL) v2 with the Classpath Exception. It's important to carefully review the terms of the license for the specific version of the JDK you are using to ensure that you are in compliance with them.
-
-- **Using the JDK to develop commercial applications may require a commercial license**: If you are using the JDK to develop commercial applications, you may need to obtain a commercial license from the provider of the JDK in order to do so. This is particularly the case with the Oracle JDK, which prohibits users from distributing the JDK as part of a commercial product or service without a separate commercial license.
-
-- **Using the JDK may require you to include certain notices and disclaimers**: Some versions of the JDK, such as the Oracle JDK, may require you to include certain notices and disclaimers when distributing applications that use the JDK. It's important to carefully review the terms of the license for the specific version of the JDK you are using to ensure that you are including the required notices and disclaimers.
-
-- **Licensing issues can be complex**: JDK licensing can be a complex topic, and it's important to seek legal advice if you have any questions or concerns about using the JDK in your projects.
 
 
 
