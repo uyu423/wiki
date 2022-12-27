@@ -2,7 +2,7 @@
 title: JDK LICENSE
 description: About Oracle JDK Licensing Issues and Open Source Alternatives
 published: true
-date: 2022-12-27T17:07:41.151Z
+date: 2022-12-27T17:28:51.211Z
 tags: english, java, jdk, lisence
 editor: markdown
 dateCreated: 2022-12-27T09:22:16.128Z
@@ -118,15 +118,15 @@ It's important to note that the above list is not exhaustive and there may be ot
 
 > **Appendix: About the licenses of the above open source JDK**
 >
-> - **GNU General Public License (GPL) v2**: The GNU General Public License (GPL) v2 is a widely used open source license that is released by the Free Software Foundation (FSF). It is a copyleft license, which means that any software that is distributed under the GPL v2 must also be released under the GPL v2 or a compatible license. The GPL v2 grants users the freedom to use, modify, and distribute the software, as long as they follow the terms of the license. The GPL v2 is designed to ensure that users have the freedom to access and modify the source code of the software, and to ensure that any modifications are also made available to the public under the terms of the GPL v2.
+> GNU General Public License (GPL) v2, Eclipse Public License (EPL), Amazon Software License, Universal Permissive License (UPL), and MIT License are all open source licenses that allow users to use, modify, and distribute the software without incurring any additional licensing fees. *However, they have different requirements for code disclosure and making the source code available to the public when distributing the software.*
 > 
-> - **MIT License**: The MIT License is a widely used open source license that is released by the Massachusetts Institute of Technology (MIT). It is a permissive license that allows users to use, modify, and distribute the software without incurring any additional licensing fees. The MIT License is designed to be simple and easy to understand, and it is compatible with a variety of other open source licenses.
+> The GPL v2 is a copyleft license that requires users to make the source code of the software available to the public when distributing the software, either by including it with the distribution or by providing a means for obtaining it. *The GPL v2 also requires users to distribute any modifications they make to the software under the GPL v2 or a compatible license.*
 > 
-> - **Eclipse Public License (EPL)**: The Eclipse Public License (EPL) is an open source license that is released by the Eclipse Foundation. It is a permissive license that allows users to use, modify, and distribute the software without incurring any additional licensing fees. The EPL is designed to be used for software that is developed and maintained by the Eclipse Foundation and its contributors, and it is compatible with a variety of other open source licenses.
+> The EPL, Amazon Software License, and UPL all require users to make the source code of the software available to the public when distributing the software, either by including it with the distribution or by providing a means for obtaining it. *These licenses do not place any additional restrictions on the use of the software.*
 > 
-> - **Universal Permissive License (UPL)**: The Universal Permissive License (UPL) is an open source license that is released by Oracle. It is a permissive license that allows users to use, modify, and distribute the software without incurring any additional licensing fees. The UPL is designed to be used for software that is developed and maintained by Oracle and its contributors, and it is compatible with a variety of other open source licenses.
+> The MIT License requires users to include a copy of the license with any distribution of the software, *but it does not require users to make the source code of the software available to the public.* The MIT License does not place any restrictions on the use of the software.
 > 
-> - **Amazon Software License**: The Amazon Software License is an open source license that is released by Amazon Web Services (AWS). It is a permissive license that allows users to use, modify, and distribute the software without incurring any additional licensing fees. The Amazon Software License is designed to be used for software that is developed and maintained by AWS and its contributors, and it is compatible with a variety of other open source licenses.
+> Overall, these licenses allow users to use the software in commercial applications without incurring any additional licensing fees. However, they have different requirements for code disclosure and making the source code available to the public when distributing the software. **It is important to carefully review the terms of each license before using the software in a commercial application.**
 
 ## Additional information about JDKs
 
