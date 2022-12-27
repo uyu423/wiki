@@ -2,7 +2,7 @@
 title: JDK LICENSE
 description: About Oracle JDK Licensing Issues and Open Source Alternatives
 published: true
-date: 2022-12-27T09:59:17.974Z
+date: 2022-12-27T16:21:07.179Z
 tags: english, java, jdk, lisence
 editor: markdown
 dateCreated: 2022-12-27T09:22:16.128Z
@@ -24,6 +24,16 @@ The Oracle JDK license includes terms that specify how the software can be used 
 For example, if a company develops a software product that includes the Oracle JDK as a component and distributes that product to customers, the company would need to obtain a separate license from Oracle in order to do so. **This is because the Oracle JDK license does not allow users to distribute the JDK as part of a commercial product.**
 
 In addition to this, the Oracle JDK license requires users to include certain notices and disclaimers when distributing Java applications that use the Oracle JDK. Failure to include these notices and disclaimers could potentially result in licensing issues.
+
+> **Appendix: Criteria for "Commercial Application" in the Oracle JDK license**
+> 
+> The Oracle JDK license defines a "commercial application" as an application that is developed or maintained for the purpose of generating revenue or profit. According to the Oracle JDK license, a commercial application may include, but is not limited to, the following:
+> 
+> - Sold or otherwise distributed to customers or users
+> - Used to provide a service that is charged for or generates revenue
+> - Used to generate advertising revenue
+> 
+> The Oracle JDK license prohibits users from distributing the Oracle JDK as part of a commercial application without obtaining a separate commercial license from Oracle. This means that if you are using the Oracle JDK to develop an application that falls within the definition of a commercial application, you may need to obtain a commercial license from Oracle in order to do so.
 
 ### How to circumvent commercial application licensing issues with Oracle JDK
 
