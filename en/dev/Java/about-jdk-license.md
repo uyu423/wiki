@@ -2,7 +2,7 @@
 title: JDK LICENSE
 description: About Oracle JDK Licensing Issues and Open Source Alternatives
 published: true
-date: 2022-12-27T16:21:07.179Z
+date: 2022-12-27T16:24:10.099Z
 tags: english, java, jdk, lisence
 editor: markdown
 dateCreated: 2022-12-27T09:22:16.128Z
@@ -32,6 +32,13 @@ In addition to this, the Oracle JDK license requires users to include certain no
 > - Sold or otherwise distributed to customers or users
 > - Used to provide a service that is charged for or generates revenue
 > - Used to generate advertising revenue
+> 
+> Here are a few examples of applications that may be considered commercial applications under the Oracle JDK license:
+> 
+> - Software tool that is sold to customers for a one-time fee or on a subscription basis
+> - Mobile app that is available for download from an app store and generates revenue through in-app purchases or ads
+> - Web-based service that is charged for on a subscription basis and provides users with access to specific features or functionality
+> - Business application that is used to manage and track financial transactions or customer information and is sold to businesses or organizations
 > 
 > The Oracle JDK license prohibits users from distributing the Oracle JDK as part of a commercial application without obtaining a separate commercial license from Oracle. This means that if you are using the Oracle JDK to develop an application that falls within the definition of a commercial application, you may need to obtain a commercial license from Oracle in order to do so.
 
