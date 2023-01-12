@@ -2,7 +2,7 @@
 title: Prometheus
 description: 
 published: true
-date: 2022-12-26T14:56:06.767Z
+date: 2023-01-12T06:02:23.887Z
 tags: prometheus
 editor: markdown
 dateCreated: 2022-12-26T07:30:09.774Z
@@ -160,5 +160,5 @@ http_request_duration_seconds_count 133988
 
 ## More
 
-- [PromQL*YOWU DEV WIKI*](/en/dev/Prometheus/PromQL)
+- [PromQL*YOWU DEV WIKI*](/ko/dev/Prometheus/PromQL)
 {.links-list}
