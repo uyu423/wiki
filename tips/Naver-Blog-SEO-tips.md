@@ -1,8 +1,8 @@
 ---
-title: 네이버 블로그 SEO어 검색 상위 노출 팁
-description: 
+title: 네이버 블로그 SEO 검색 상위 노출 팁
+description: 무지성 chatGPT 응답 기록
 published: true
-date: 2023-01-19T07:28:51.332Z
+date: 2023-01-19T07:29:30.525Z
 tags: naver, seo, tips
 editor: markdown
 dateCreated: 2023-01-19T07:07:04.853Z
