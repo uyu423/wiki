@@ -2,18 +2,75 @@
 title: ffmpeg 성능 최적화 with Java
 description: ffmpeg가 시스템의 성능 점유율을 100%로 가져가지 않게 하기
 published: true
-date: 2023-01-25T10:23:02.739Z
-tags: java, ffmpeg
+date: 2023-01-25T10:28:03.464Z
+tags: ffmpeg, java
 editor: markdown
 dateCreated: 2023-01-25T10:23:02.739Z
 ---
+
+## ffmpeg 결과물 품질 최적화
+
+- CRF(Constant Rate Factor)와 Audio Quality Scale로 결과물의 품질을 최적화 시켜줄 수 있다.
+- 적당히 원본 퀄리티를 크게 손상하지 않도록 `-crf 18`, `-qscale:a 6` 정도로 사용하고 있다.
+- 1080p 영상 기준으로 CRF 수치를 변경하면 테스트한 결과 다음과 같은 결과 값을 얻었다.
+
+### 원본 파일
+- filesize: 31.4MB
+```
+ffprobe test_origin.mp4
+
+  Duration: 00:02:00.04, start: 0.000000, bitrate: 2091 kb/s
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s (default)
+```
+
+### No CRF (CRF 23)
+- filesize: 26.7MB
+```
+  Duration: 00:02:00.00, start: 0.000000, bitrate: 1781 kb/s
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+```
+
+### CRF 22
+- filesize: 29.3MB
+```
+  Duration: 00:02:00.00, start: 0.000000, bitrate: 1956 kb/s
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+```
+
+### CRF 21
+- filesize: 32.2MB
+```
+  Duration: 00:02:00.00, start: 0.000000, bitrate: 2143 kb/s
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+```
+
+### CRF 20
+- filesize: 35.2MB
+```
+  Duration: 00:02:00.00, start: 0.000000, bitrate: 2345 kb/s
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+```
+
+### CRF 18
+- filesize: 42.4MB
+```
+  Duration: 00:02:00.00, start: 0.000000, bitrate: 2829 kb/s
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+```
+
+### CRF 0 (무손실)
+- filesize: 495.1MB
+```
+  Duration: 00:02:00.00, start: 0.000000, bitrate: 33004 kb/s
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
+```
 
 ## CPU 사용량 제한
 
 - 인프라 환경에서 `ffmpeg`가 CPU 리소스를 100% 다 잡아먹으면 별의 별 문제가 생길 수 있다.
 - `ffmpeg`에서 직접적으로 제공하는 CPU 사용량 제한 옵션은 없지만 `-threads` 옵션을 통해 간접적으로 제어를 할 수 있다.
 
-## -threads 옵션을 사용하지 않는 경우
+### -threads 옵션을 사용하지 않는 경우
 
 ```bash
 ffmpeg -y -v error -ss 01:10:30 -t 120 \
@@ -26,7 +83,7 @@ ffmpeg -y -v error -ss 01:10:30 -t 120 \
 
 ![c5ba17d3-ae4e-4257-a681-29811a064d92.png](/c5ba17d3-ae4e-4257-a681-29811a064d92.png)
 
-## -threads 옵션을 사용하는 경우
+### -threads 옵션을 사용하는 경우
 
 ```bash
 ffmpeg -y -v error -ss 01:10:30 -t 120 \
@@ -39,7 +96,7 @@ ffmpeg -y -v error -ss 01:10:30 -t 120 \
 
 ![74df05b8-7638-4eb7-a95b-f8098d897163.png](/74df05b8-7638-4eb7-a95b-f8098d897163.png)
 
-## with Java
+### with Java
 
 - Java에서 `net.bramp.ffmpeg` 패키지를 사용한다면 다음과 같이 threads를 계산해서 적용해볼 수 있다.
 - 아래 코드는 대충 CPU 코어의 70% 갯수의 스레드를 사용한다고 옵션을 주었다.
