@@ -2,7 +2,7 @@
 title: ffmpeg 성능 최적화 with Java
 description: ffmpeg가 시스템의 성능 점유율을 100%로 가져가지 않게 하기
 published: true
-date: 2023-01-25T10:28:39.746Z
+date: 2023-01-25T10:32:16.493Z
 tags: ffmpeg, java
 editor: markdown
 dateCreated: 2023-01-25T10:23:02.739Z
@@ -12,9 +12,24 @@ dateCreated: 2023-01-25T10:23:02.739Z
 
 - CRF(Constant Rate Factor)와 Audio Quality Scale로 결과물의 품질을 최적화 시켜줄 수 있다.
 - 적당히 원본 퀄리티를 크게 손상하지 않도록 `-crf 18`, `-qscale:a 6` 정도로 사용하고 있다.
+
+### with Java
+
+- - Java에서 `net.bramp.ffmpeg` 패키지를 사용한다면 다음과 같이 CRF와 Audio Quality Sacle을 적용할 수 있다.
+
+```java
+FFmpegOutputBuilder output = new FFmpegOutputBuilder()
+    .setConstantRateFactor(18)
+    .setAudioQuality(6)
+    .setFilename(extractedFile.getPath());
+```
+
+### CRF 테스트
+
 - 1080p 영상 기준으로 CRF 수치를 변경하면 테스트한 결과 다음과 같은 결과 값을 얻었다.
 
-### 원본 파일
+
+#### 원본 파일
 - filesize: 31.4MB
 ```
 ffprobe test_origin.mp4
@@ -23,7 +38,7 @@ ffprobe test_origin.mp4
   Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s (default)
 ```
 
-### No CRF (CRF Default 23)
+#### No CRF (CRF Default 23)
 - `-crf` 옵션을 주지 않았을 때의 기본 
 - filesize: 26.7MB
 ```
@@ -31,35 +46,35 @@ ffprobe test_origin.mp4
   Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
 ```
 
-### CRF 22
+#### CRF 22
 - filesize: 29.3MB
 ```
   Duration: 00:02:00.00, start: 0.000000, bitrate: 1956 kb/s
   Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
 ```
 
-### CRF 21
+#### CRF 21
 - filesize: 32.2MB
 ```
   Duration: 00:02:00.00, start: 0.000000, bitrate: 2143 kb/s
   Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
 ```
 
-### CRF 20
+#### CRF 20
 - filesize: 35.2MB
 ```
   Duration: 00:02:00.00, start: 0.000000, bitrate: 2345 kb/s
   Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
 ```
 
-### CRF 18
+#### CRF 18
 - filesize: 42.4MB
 ```
   Duration: 00:02:00.00, start: 0.000000, bitrate: 2829 kb/s
   Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s (default)
 ```
 
-### CRF 0 (무손실)
+#### CRF 0 (무손실)
 - filesize: 495.1MB
 ```
   Duration: 00:02:00.00, start: 0.000000, bitrate: 33004 kb/s
