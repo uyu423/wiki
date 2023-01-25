@@ -1,8 +1,8 @@
 ---
 title: ffmpeg 성능 최적화 with Java
-description: ffmpeg가 시스템의 성능 점유율을 100%로 가져가지 않게 하기
+description: Java 환경에서 ffmpeg를 사용할 때의 소소한 꿀팁들
 published: true
-date: 2023-01-25T13:31:17.453Z
+date: 2023-01-25T13:32:31.736Z
 tags: ffmpeg, java
 editor: markdown
 dateCreated: 2023-01-25T10:23:02.739Z
