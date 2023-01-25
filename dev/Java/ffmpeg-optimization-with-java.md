@@ -2,11 +2,14 @@
 title: ffmpeg 성능 최적화 with Java
 description: ffmpeg가 시스템의 성능 점유율을 100%로 가져가지 않게 하기
 published: true
-date: 2023-01-25T10:32:20.226Z
+date: 2023-01-25T13:31:17.453Z
 tags: ffmpeg, java
 editor: markdown
 dateCreated: 2023-01-25T10:23:02.739Z
 ---
+
+- [Optimizing ffmpeg performance with Java***English** version of this document is available*](/en/dev/Java/ffmpeg-optimization-with-java)
+{.links-list}
 
 ## ffmpeg 결과물 품질 최적화
 
