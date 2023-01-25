@@ -2,7 +2,7 @@
 title: ffmpeg 성능 최적화 with Java
 description: ffmpeg가 시스템의 성능 점유율을 100%로 가져가지 않게 하기
 published: true
-date: 2023-01-25T10:28:03.464Z
+date: 2023-01-25T10:28:39.746Z
 tags: ffmpeg, java
 editor: markdown
 dateCreated: 2023-01-25T10:23:02.739Z
@@ -23,7 +23,8 @@ ffprobe test_origin.mp4
   Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 192 kb/s (default)
 ```
 
-### No CRF (CRF 23)
+### No CRF (CRF Default 23)
+- `-crf` 옵션을 주지 않았을 때의 기본 
 - filesize: 26.7MB
 ```
   Duration: 00:02:00.00, start: 0.000000, bitrate: 1781 kb/s
