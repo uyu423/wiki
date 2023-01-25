@@ -2,11 +2,14 @@
 title: Optimizing ffmpeg performance with Java
 description: 
 published: true
-date: 2023-01-25T13:29:26.894Z
+date: 2023-01-25T13:31:39.052Z
 tags: english, ffmpeg, java
 editor: markdown
 dateCreated: 2023-01-25T13:29:26.894Z
 ---
+
+- [ffmpeg 성능 최적화 with Java***Korean** version of this document is available*](/ko/dev/Java/ffmpeg-optimization-with-java)
+{.links-list}
 
 ## Optimize output quality of ffmpeg
 
