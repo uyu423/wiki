@@ -1,8 +1,8 @@
 ---
 title: USB 버전별 규격과 전송 속도
-description: 
+description: USB 1.0부터 USB 4.0까지 한방에 정리
 published: true
-date: 2023-01-27T09:39:38.665Z
+date: 2023-01-27T09:41:46.682Z
 tags: tips, usb
 editor: markdown
 dateCreated: 2023-01-27T09:33:34.503Z
