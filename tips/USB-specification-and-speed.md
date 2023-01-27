@@ -2,7 +2,7 @@
 title: USB 버전별 규격과 전송 속도
 description: 
 published: true
-date: 2023-01-27T09:33:34.503Z
+date: 2023-01-27T09:33:47.409Z
 tags: tips, usb
 editor: markdown
 dateCreated: 2023-01-27T09:33:34.503Z
@@ -74,7 +74,7 @@ dateCreated: 2023-01-27T09:33:34.503Z
 - USB 3.2 Gen 1x1은 2개의 레인이 아닌 1개의 데이터 전송 레인만 사용함
 
 
-## USB 3.2 Gen 2x1:
+## USB 3.2 Gen 2x1
 
 - SuperSpeed USB 20Gbps로도 알려진 USB 3.2 Gen 2x1은 2017년 9월에 출시됨
 - USB 3.2 Gen 2x1은 USB 3.1 Gen 2 및 USB 3.2 Gen 1x1의 두 배 속도인 20Gbps(2.5GB/s)의 최대 전송 속도를 제공함
