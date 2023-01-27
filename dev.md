@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2022-12-27T17:53:34.327Z
+date: 2023-01-27T06:17:40.222Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -85,6 +85,7 @@ dateCreated: 2022-11-24T03:26:46.738Z
 ### Java
 - [about-solid-principles-oop](/ko/dev/Java/about-solid-principles-oop)
 - [about-jdk-license](/ko/dev/Java/about-jdk-license)
+- [ffmpeg-optimization-with-java](/ko/dev/Java/ffmpeg-optimization-with-java)
 
 #### Spring
 - [Developing-Spring-Boot-in-vscode](/dev/Java/Spring/Developing-Spring-Boot-in-vscode)
