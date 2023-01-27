@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2023-01-27T06:17:40.222Z
+date: 2023-01-27T07:59:35.692Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -38,6 +38,7 @@ dateCreated: 2022-11-24T03:26:46.738Z
 
 ### Docker
 - [collections-of-docker-post](/dev/Docker/collections-of-docker-post)
+- [docker-handbook](/ko/dev/Docker/docker-handbook)
 
 ### Git
 - [Resolving-GitKraken-Inotify-Limit-Error](/dev/Git/Resolving-GitKraken-Inotify-Limit-Error)
