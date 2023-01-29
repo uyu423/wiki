@@ -2,13 +2,14 @@
 title: Spring Boot로 백엔드 시스템 설정
 description: 
 published: true
-date: 2023-01-29T21:31:47.652Z
+date: 2023-01-29T21:32:21.902Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:31:47.652Z
 ---
 
-> 이 문서는 Google **Cloud Translation API를 사용해 자동 번역**되었습니다. 어떤 문서는 원문을 읽는게 나을 수도 있습니다.{.is-info}- [Setting up a Backend System with Spring Boot***English** version of this document is available*](/en/Knowledge-base/Backend/setting-up-a-backend-system-with-spring-boot)
+> 이 문서는 Google **Cloud Translation API를 사용해 자동 번역**되었습니다. 어떤 문서는 원문을 읽는게 나을 수도 있습니다.{.is-info}
+- [Setting up a Backend System with Spring Boot***English** version of this document is available*](/en/Knowledge-base/Backend/setting-up-a-backend-system-with-spring-boot)
 {.links-list}
 
 
