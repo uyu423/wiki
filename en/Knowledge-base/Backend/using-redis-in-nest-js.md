@@ -2,13 +2,13 @@
 title: Using Redis in Nest.js
 description: 
 published: true
-date: 2023-01-29T20:14:53.445Z
+date: 2023-01-29T20:16:45.543Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T20:14:53.445Z
 ---
 
-- [Nest.js에서 Redis 사용**Korean*** version of this document is available*](/ko/Knowledge-base/Backend/using-redis-in-nest-js)
+- [Nest.js에서 Redis 사용***Korean** version of this document is available*](/ko/Knowledge-base/Backend/using-redis-in-nest-js)
 {.links-list}
 
 # Using Redis in Nest.js
