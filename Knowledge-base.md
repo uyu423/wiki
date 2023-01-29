@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-29T23:53:45.421Z
+date: 2023-01-29T23:54:47.218Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -16,7 +16,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 
 - [x] [Understanding Java Memory Management](/Knowledge-base/Backend/understanding-java-memory-management)
-- [ ] Implementing Security in Spring Boot Applications|Backend
+- [x] [Implementing Security in Spring Boot Applications](/Knowledge-base/Backend/implementing-security-in-spring-boot-applications)
 - [ ] Building Scalable Applications with Kubernetes and Docker|Backend
 - [ ] Optimizing Redis for High Performance|Backend
 - [ ] Migrating from MySQL to PostgreSQL|Backend
