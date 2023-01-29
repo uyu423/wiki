@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-29T23:16:51.812Z
+date: 2023-01-29T23:17:01.930Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -11,8 +11,8 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] Introduction to Node.js|Backend
 - [x] Building RESTful APIs with Express.js|Backend
 - [x] Migrating to TypeScript for Node.js Development|Backend
-- [ ] Java for Backend Development
-- [ ] Setting up a Backend System with Spring Boot|Backend
+- [x] Java for Backend Development
+- [x] Setting up a Backend System with Spring Boot|Backend
 - [ ] Exploring Kotlin for Backend Development|Backend
 - [ ] Integrating MySQL and MongoDB for Better Data Management|Backend
 - [ ] Using Redis for Scalable Session Management|Backend
