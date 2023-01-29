@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-29T23:17:01.930Z
+date: 2023-01-29T23:17:30.520Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -13,7 +13,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] Migrating to TypeScript for Node.js Development|Backend
 - [x] Java for Backend Development
 - [x] Setting up a Backend System with Spring Boot|Backend
-- [ ] Exploring Kotlin for Backend Development|Backend
+- [x] [Exploring Kotlin for Backend Development](/Knowledge-base/Backend/exploring-kotlin-for-backend-development)
 - [ ] Integrating MySQL and MongoDB for Better Data Management|Backend
 - [ ] Using Redis for Scalable Session Management|Backend
 - [ ] Building Server-Rendered Applications with Next.js|Backend
