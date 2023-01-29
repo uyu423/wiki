@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-29T23:50:08.039Z
+date: 2023-01-29T23:50:49.991Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -13,7 +13,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [setting-up-a-backend-system-with-spring-boot](/ko/Knowledge-base/Backend/setting-up-a-backend-system-with-spring-boot)
 - [x] [building-backend-systems-with-grpc](/ko/Knowledge-base/Backend/building-backend-systems-with-grpc)
 - [x] [building-resilient-backend-systems-with-circuit-breakers](/ko/Knowledge-base/Backend/building-resilient-backend-systems-with-circuit-breakers)
-- [x] [Implementing Serverless Architecture with Serverless Functions (e.g. AWS Lambda, Google Cloud Functions)](/Knowledge-base/Backend/implementing-serverless-architecture-with-serverless-functions-e-g-aws-lambda-google-cloud-functions)
+
 
 - [x] [Understanding Java Memory Management](/Knowledge-base/Backend/understanding-java-memory-management)
 - [ ] Implementing Security in Spring Boot Applications|Backend
@@ -30,6 +30,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Automating Deployment Pipelines with Jenkins and Kubernetes|Backend
 - [ ] Understanding Domain Driven Design (DDD) for Better Software Architecture|Backend
 - [ ] Implementing Test Driven Development (TDD) for Improved Code Quality|Backend
+- [ ] Implementing Serverless Architecture with Serverless Functions (e.g. AWS Lambda, Google Cloud Functions)|Backend
 - [ ] Building RESTful Microservices with Python and Flask|Backend
 - [ ] Implementing Token-Based Authentication with JWT and OAuth|Backend
 - [ ] Improving Application Performance with Caching and Load Balancing|Backend
