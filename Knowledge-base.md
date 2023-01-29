@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-29T21:39:43.512Z
+date: 2023-01-29T21:46:02.138Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -51,7 +51,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Improving Backend System Scalability with Auto Scaling
 - [ ] Building Backend Systems with Advanced Authentication and Authorization
 - [ ] Building Backend Systems with GraphQL
-- [ ] Building Backend Systems with gRPC
+- [ ] Building Backend Systems with gRPC 
 - [ ] Building Backend Systems with WebSockets
 - [ ] Building Backend Systems with Remote Procedure Calls (RPC)
 - [ ] Building Backend Systems with Advanced Logging
