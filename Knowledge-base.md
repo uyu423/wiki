@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-29T23:49:46.191Z
+date: 2023-01-29T23:50:08.039Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -15,7 +15,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [building-resilient-backend-systems-with-circuit-breakers](/ko/Knowledge-base/Backend/building-resilient-backend-systems-with-circuit-breakers)
 - [x] [Implementing Serverless Architecture with Serverless Functions (e.g. AWS Lambda, Google Cloud Functions)](/Knowledge-base/Backend/implementing-serverless-architecture-with-serverless-functions-e-g-aws-lambda-google-cloud-functions)
 
-- [ ] Understanding Java Memory Management|Backend
+- [x] [Understanding Java Memory Management](/Knowledge-base/Backend/understanding-java-memory-management)
 - [ ] Implementing Security in Spring Boot Applications|Backend
 - [ ] Building Scalable Applications with Kubernetes and Docker|Backend
 - [ ] Optimizing Redis for High Performance|Backend
