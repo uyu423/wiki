@@ -2,7 +2,7 @@
 title: 😎 Home
 description: 요우의 사설 개발 위키 입니다. 온갖 잡다한 문서들이 생성됩니다.
 published: true
-date: 2022-12-13T17:02:28.678Z
+date: 2023-01-29T23:21:36.429Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-22T04:05:30.442Z
@@ -37,3 +37,4 @@ dateCreated: 2022-11-22T04:05:30.442Z
 - [study](/study)
 - [tips](/tips)
 - [projects](/projects)
+- [Knowledge-base](/ko/Knowledge-base)
