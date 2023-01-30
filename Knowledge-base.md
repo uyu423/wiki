@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T23:17:30.162Z
+date: 2023-01-30T23:23:27.957Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1074,7 +1074,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Python|Dictionary
 - [ ] PHP|Dictionary
 - [ ] Java|Dictionary
-- [ ] C#|Dictionary
+- [x] [C#](/Knowledge-base/Dictionary/c)
 - [ ] Swift|Dictionary
 - [ ] Kotlin|Dictionary
 - [ ] Go|Dictionary
