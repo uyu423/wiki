@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T21:23:19.705Z
+date: 2023-01-30T21:37:42.633Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -694,7 +694,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Working with Data Streams in TypeScript and Node.js](/Knowledge-base/TypeScript/working-with-data-streams-in-typescript-and-node-js)
 - [ ] Building E-Commerce Applications with TypeScript and Next.js|TypeScript
 - [ ] Using TypeScript with Elasticsearch for Search and Analytics|TypeScript
-- [ ] Integrating TypeScript with Firebase for Real-Time Database and Authentication|TypeScript
+- [x] [Integrating TypeScript with Firebase for Real-Time Database and Authentication](/Knowledge-base/TypeScript/integrating-typescript-with-firebase-for-real-time-database-and-authentication)
 - [ ] Building Multiplayer Games with TypeScript and WebSockets|TypeScript
 - [ ] Using TypeScript with Mongoose for MongoDB Data Management|TypeScript
 - [ ] Building Image and Video Processing Applications with TypeScript and Node.js|TypeScript
