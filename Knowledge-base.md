@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T01:30:52.678Z
+date: 2023-01-30T02:00:53.364Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -22,7 +22,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Quick Started with JPA and Hibernate](/Knowledge-base/Spring-Boot/quick-started-with-jpa-and-hibernate)
 - [x] [Transactions Management in Spring Boot](/Knowledge-base/Spring-Boot/transactions-management-in-spring-boot)
 - [x] [Securing Your Spring Boot Application](/Knowledge-base/Spring-Boot/securing-your-spring-boot-application)
-- [ ] AOP: Aspect-Oriented Programming in Spring Boot|Spring-Boot
+- [x] [AOP: Aspect-Oriented Programming in Spring Boot](/Knowledge-base/Spring-Boot/aop-aspect-oriented-programming-in-spring-boot)
 - [ ] Microservices Architecture with Spring Boot|Spring-Boot
 - [ ] Spring Boot in the Cloud|Spring-Boot
 - [ ] The Power of Actuator in Spring Boot|Spring-Boot
