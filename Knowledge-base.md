@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T17:17:34.655Z
+date: 2023-01-30T17:23:31.090Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1155,7 +1155,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Privacy|Dictionary
 - [ ] Data Protection|Dictionary
 - [ ] General Data Protection Regulation|Dictionary
-- [ ] California Consumer Privacy Act|Dictionary
+- [x] [California Consumer Privacy Act](/Knowledge-base/Dictionary/california-consumer-privacy-act)
 - [ ] Physical Security|Dictionary
 - [ ] Incident Response|Dictionary
 - [ ] Disaster Recovery Plan|Dictionary
