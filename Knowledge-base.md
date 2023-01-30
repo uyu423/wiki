@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T02:55:02.048Z
+date: 2023-01-30T03:09:15.262Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -182,7 +182,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Mastering Lambdas in Kotlin|Kotlin
 - [ ] Using Type Aliases in Kotlin|Kotlin
 - [ ] Interoperability Between Kotlin and Java|Kotlin
-- [ ] Building Applications with Kotlin Coroutines|Kotlin
+- [x] [Building Applications with Kotlin Coroutines](/Knowledge-base/Kotlin/building-applications-with-kotlin-coroutines)
 - [ ] Understanding the CoroutineScope in Kotlin|Kotlin
 - [ ] Concurrent Programming with Kotlin's Channels and Flow|Kotlin
 - [ ] Using Sealed Classes in Kotlin|Kotlin
