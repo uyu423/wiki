@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T23:36:56.014Z
+date: 2023-01-30T23:43:43.949Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1025,7 +1025,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Subnetting|Dictionary
 - [ ] Routing|Dictionary
 - [ ] Switching|Dictionary
-- [ ] Intrusion Detection|Dictionary
+- [x] [Intrusion Detection](/Knowledge-base/Dictionary/intrusion-detection)
 - [ ] Intrusion Prevention|Dictionary
 - [ ] Wide Area Network|Dictionary
 - [ ] Local Area Network|Dictionary
