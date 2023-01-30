@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T09:24:45.157Z
+date: 2023-01-30T09:27:43.152Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -543,7 +543,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] How to Build a High-Performance Web Application|Common
 - [ ] The Role of Artificial Intelligence (AI) in Education|Common
 - [x] [Using Artificial Intelligence (AI) for Fraud Detection](/Knowledge-base/Common/using-artificial-intelligence-ai-for-fraud-detection)
-- [ ] The Future of Artificial Intelligence (AI) in Retail|Common
+- [x] [The Future of Artificial Intelligence (AI) in Retail](/Knowledge-base/Common/the-future-of-artificial-intelligence-ai-in-retail)
 - [ ] Building a Recommendation Engine with Machine Learning|Common
 - [ ] How to Create a Virtual Reality (VR) Experience|Common
 - [ ] The Importance of Code Review in Software Development|Common
