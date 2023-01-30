@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T09:31:13.258Z
+date: 2023-01-30T09:32:24.927Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -31,7 +31,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Data MongoDB: NoSQL Solutions](/Knowledge-base/Spring-Boot/spring-data-mongodb-nosql-solutions)
 - [x] [Exposing RESTful Services with Spring Data REST](/Knowledge-base/Spring-Boot/exposing-restful-services-with-spring-data-rest)
 - [x] [Spring Boot Starter: A Quick Start Guide](/Knowledge-base/Spring-Boot/spring-boot-starter-a-quick-start-guide)
-- [ ] The Benefits of Spring Boot CLI|Spring-Boot
+- [x] [The Benefits of Spring Boot CLI](/Knowledge-base/Spring-Boot/the-benefits-of-spring-boot-cli)
 - [ ] Running Spring Boot Applications with Embedded Tomcat|Spring-Boot
 - [ ] Deploying Spring Boot Applications: Best Practices|Spring-Boot
 - [ ] Monitoring Your Spring Boot Applications with Actuator|Spring-Boot
