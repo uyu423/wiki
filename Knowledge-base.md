@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T19:17:30.877Z
+date: 2023-01-30T19:23:32.147Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -897,7 +897,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Buffer Overflow|Dictionary
 - [ ] Denial-of-Service Attack|Dictionary
 - [ ] Distributed Denial-of-Service Attack|Dictionary
-- [ ] Rootkit|Dictionary
+- [x] [Rootkit](/Knowledge-base/Dictionary/rootkit)
 - [ ] Botnet|Dictionary
 - [ ] Worm|Dictionary
 - [ ] Trojan|Dictionary
