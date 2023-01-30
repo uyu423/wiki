@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T21:04:38.667Z
+date: 2023-01-30T21:17:32.951Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1091,7 +1091,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Deep Learning|Dictionary
 - [ ] Natural Language Processing|Dictionary
 - [ ] Computer Vision|Dictionary
-- [ ] Robotics|Dictionary
+- [x] [Robotics](/Knowledge-base/Dictionary/robotics)
 - [ ] Internet of Things|Dictionary
 - [ ] Embedded Systems|Dictionary
 - [ ] Wearable Technology|Dictionary
