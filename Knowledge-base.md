@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T10:24:08.693Z
+date: 2023-01-30T10:26:59.335Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -147,7 +147,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kubernetes on Google Cloud: Deploying Clusters on Google Cloud Platform|Kubernetes
 - [ ] Kubernetes on Azure: Deploying Clusters on Microsoft Azure|Kubernetes
 - [ ] Kubernetes on Oracle Cloud: Deploying Clusters on Oracle Cloud Infrastructure|Kubernetes
-- [ ] Kubernetes on DigitalOcean: Deploying Clusters on DigitalOcean|Kubernetes
+- [x] [Kubernetes on DigitalOcean: Deploying Clusters on DigitalOcean](/Knowledge-base/Kubernetes/kubernetes-on-digitalocean-deploying-clusters-on-digitalocean)
 - [ ] Kubernetes on OpenStack: Deploying Clusters on OpenStack|Kubernetes
 - [ ] Kubernetes on Private Clouds: Deploying Clusters on Your Own Infrastructure|Kubernetes
 - [ ] Kubernetes on Bare Metal: Deploying Clusters on Physical Servers|Kubernetes
