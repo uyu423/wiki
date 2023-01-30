@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T09:16:44.887Z
+date: 2023-01-30T09:24:45.157Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -170,7 +170,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Docker Image Management: Tagging and Pushing to a Registry|Docker
 - [ ] Docker Volume Management: Persisting Data Outside Containers|Docker
 - [ ] Docker Compose Networking: Connecting Containers with Networks|Docker
-- [ ] Docker Compose and Kubernetes: Integrating Your Compose Files with Clusters|Docker
+- [x] [Docker Compose and Kubernetes: Integrating Your Compose Files with Clusters](/Knowledge-base/Docker/docker-compose-and-kubernetes-integrating-your-compose-files-with-clusters)
 
 ### Kotlin
 
