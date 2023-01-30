@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T03:54:46.130Z
+date: 2023-01-30T04:32:24.347Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -471,7 +471,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Benefits of Docker and Containerization|Common
 - [ ] The Evolution of Big Data and Hadoop|Common
 - [ ] How to Implement a DevOps Workflow|Common
-- [ ] The Power of Parallel Processing and GPU Computing|Common
+- [x] [The Power of Parallel Processing and GPU Computing](/Knowledge-base/Common/the-power-of-parallel-processing-and-gpu-computing)
 - [ ] Introduction to Network Programming and Socket Programming|Common
 - [ ] The Advantages of Serverless Architecture and AWS Lambda|Common
 - [ ] How to Optimize SQL Queries for Improved Performance|Common
