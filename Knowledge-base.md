@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T15:33:59.691Z
+date: 2023-01-30T15:35:39.227Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -365,7 +365,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Resource Allocation and Scheduling for Backend Applications|Backend
 - [ ] Cluster Management for Scalable Backend Applications|Backend
 - [ ] Service Discovery for Microservices-based Backend Applications|Backend
-- [x] [Task Orchestration for Backend Applications](/Knowledge-base/Backend/task-orchestration-for-backend-applications)
+- [ ] Task Orchestration for Backend Applications|Backend
 - [ ] gRPC for High-performance Backend Communication|Backend
 - [x] [Understanding Load Balancing Techniques in Infrastructure Development](/Knowledge-base/Backend/understanding-load-balancing-techniques-in-infrastructure-development)
 - [ ] Implementing Reverse Proxies for Better Performance|Backend
