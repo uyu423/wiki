@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T15:35:39.227Z
+date: 2023-01-30T15:36:46.042Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -691,7 +691,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Using TypeScript with Redis for Data Caching and Management|TypeScript
 - [ ] Building Progressive Web Applications with TypeScript and Next.js|TypeScript
 - [ ] Integrating TypeScript with SendGrid for Email Notifications|TypeScript
-- [ ] Working with Data Streams in TypeScript and Node.js|TypeScript
+- [x] [Working with Data Streams in TypeScript and Node.js](/Knowledge-base/TypeScript/working-with-data-streams-in-typescript-and-node-js)
 - [ ] Building E-Commerce Applications with TypeScript and Next.js|TypeScript
 - [ ] Using TypeScript with Elasticsearch for Search and Analytics|TypeScript
 - [ ] Integrating TypeScript with Firebase for Real-Time Database and Authentication|TypeScript
