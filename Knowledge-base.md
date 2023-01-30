@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T16:57:22.454Z
+date: 2023-01-30T17:04:40.316Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -424,7 +424,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] AWS CloudFront: Improving Content Delivery with a CDN|Cloud
 - [ ] AWS WAF: Securing Web Applications with Firewall Rules|Cloud
 - [ ] AWS Certificate Manager: Managing SSL Certificates for Secure Web Applications|Cloud
-- [ ] AWS Elastic Load Balancer: Scaling and Load Balancing Applications in the Cloud|Cloud
+- [x] [AWS Elastic Load Balancer: Scaling and Load Balancing Applications in the Cloud](/Knowledge-base/Cloud/aws-elastic-load-balancer-scaling-and-load-balancing-applications-in-the-cloud)
 - [ ] AWS Direct Connect: Building High-Speed Network Connections to the Cloud|Cloud
 - [ ] AWS Elastic IPs: Allocating Static IP Addresses for Cloud Resources|Cloud
 - [ ] AWS Auto Scaling: Automatically Scaling Cloud Resources Based on Load|Cloud
