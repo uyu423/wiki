@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T12:17:14.961Z
+date: 2023-01-30T12:32:26.709Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -64,7 +64,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Monitoring with Spring Boot Actuator|Spring-Boot
 - [ ] Debugging with Spring Boot DevTools|Spring-Boot
 - [ ] Caching with Spring Boot: A Comprehensive Guide|Spring-Boot
-- [ ] Exception Handling with Spring Boot|Spring-Boot
+- [x] [Exception Handling with Spring Boot](/Knowledge-base/Spring-Boot/exception-handling-with-spring-boot)
 - [ ] Validating Input with Spring Boot|Spring-Boot
 - [ ] Testing with Spring Boot: Best Practices and Tools|Spring-Boot
 - [ ] Spring Boot Actuator Endpoints|Spring-Boot
