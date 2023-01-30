@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T15:16:40.720Z
+date: 2023-01-30T15:18:24.800Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -821,6 +821,17 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## Dictionary
 
+- [ ] bash|Dictionary
+- [ ] zsh|Dictionary
+- [ ] Jenkins|Dictionary
+- [ ] Node.js|Dictionary
+- [ ] Spring Framework|Dictionary
+- [ ] Subversion(SVN)|Dictionary
+- [ ] Linux Kernel|Dictionary
+- [ ] CentOS Linux|Dictionary
+- [ ] OpenSUSE Linux|Dictionary
+- [ ] Fedora Linux|Dictionary
+- [ ] Git|Dictionary
 - [ ] Agile|Dictionary
 - [ ] Scrum|Dictionary
 - [ ] Cloud Computing|Dictionary
