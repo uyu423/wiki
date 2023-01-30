@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T09:02:46.452Z
+date: 2023-01-30T09:07:26.892Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -237,7 +237,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin Continuous Deployment: Best Practices|Kotlin
 - [ ] Kotlin and Spring Boot: Building a RESTful Web Service|Kotlin
 - [ ] Kotlin Coroutines for Asynchronous Server-side Development|Kotlin
-- [ ] Kotlin Multi-platform Development for the Web and Mobile|Kotlin
+- [x] [Kotlin Multi-platform Development for the Web and Mobile](/Knowledge-base/Kotlin/kotlin-multi-platform-development-for-the-web-and-mobile)
 - [ ] Kotlin and Spring Data: Connecting to a Database|Kotlin
 - [ ] Kotlin and JWT: Securing RESTful APIs|Kotlin
 - [ ] Kotlin and OAuth 2.0: Authentication and Authorization|Kotlin
