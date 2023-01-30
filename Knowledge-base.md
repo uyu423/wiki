@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T00:08:14.427Z
+date: 2023-01-30T00:09:51.394Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -15,6 +15,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [building-resilient-backend-systems-with-circuit-breakers](/ko/Knowledge-base/Backend/building-resilient-backend-systems-with-circuit-breakers)
 
 
+- [ ] Object-Oriented Programming: Concepts and Best Practices|Common
 - [ ] Understanding Java Memory Management|Backend
 - [ ] Implementing Security in Spring Boot Applications|Backend
 - [ ] Building Scalable Applications with Kubernetes and Docker|Backend
@@ -99,7 +100,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Improving Network Performance with IP Addressing and Load Balancing|Backend
 
 - [ ] Introduction to Data Structures and Algorithms|Common
-- [ ] Object-Oriented Programming: Concepts and Best Practices|Common
+
 - [ ] The Basics of Database Design and Management|Common
 - [ ] Getting Started with Web Development: HTML, CSS, and JavaScript|Common
 - [ ] Mobile App Development: Android or iOS?|Common
