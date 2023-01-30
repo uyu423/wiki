@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T09:11:56.626Z
+date: 2023-01-30T09:16:44.887Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -29,7 +29,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Auto-configuration in Spring Boot: A Deep Dive](/Knowledge-base/Spring-Boot/auto-configuration-in-spring-boot-a-deep-dive)
 - [x] [Spring Data JPA: Simplifying Data Access](/Knowledge-base/Spring-Boot/spring-data-jpa-simplifying-data-access)
 - [x] [Spring Data MongoDB: NoSQL Solutions](/Knowledge-base/Spring-Boot/spring-data-mongodb-nosql-solutions)
-- [ ] Exposing RESTful Services with Spring Data REST|Spring-Boot
+- [x] [Exposing RESTful Services with Spring Data REST](/Knowledge-base/Spring-Boot/exposing-restful-services-with-spring-data-rest)
 - [ ] Spring Boot Starter: A Quick Start Guide|Spring-Boot
 - [ ] The Benefits of Spring Boot CLI|Spring-Boot
 - [ ] Running Spring Boot Applications with Embedded Tomcat|Spring-Boot
