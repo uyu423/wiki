@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T09:54:42.031Z
+date: 2023-01-30T09:59:29.527Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -33,7 +33,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot Starter: A Quick Start Guide](/Knowledge-base/Spring-Boot/spring-boot-starter-a-quick-start-guide)
 - [x] [The Benefits of Spring Boot CLI](/Knowledge-base/Spring-Boot/the-benefits-of-spring-boot-cli)
 - [x] [Running Spring Boot Applications with Embedded Tomcat](/Knowledge-base/Spring-Boot/running-spring-boot-applications-with-embedded-tomcat)
-- [ ] Deploying Spring Boot Applications: Best Practices|Spring-Boot
+- [x] [Deploying Spring Boot Applications: Best Practices](/Knowledge-base/Spring-Boot/deploying-spring-boot-applications-best-practices)
 - [ ] Monitoring Your Spring Boot Applications with Actuator|Spring-Boot
 - [ ] Debugging and Profiling in Spring Boot|Spring-Boot
 - [ ] Caching Strategies in Spring Boot|Spring-Boot
