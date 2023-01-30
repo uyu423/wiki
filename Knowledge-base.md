@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T14:43:46.583Z
+date: 2023-01-30T14:48:15.261Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -129,7 +129,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kubernetes Autoscaling: Adapting to Changing Loads|Kubernetes
 - [ ] Monitoring and Logging in Kubernetes Clusters|Kubernetes
 - [ ] Debugging Kubernetes Applications: Understanding Events and Logs|Kubernetes
-- [x] [Kubernetes Networking: Communication Between Pods and Services](/Knowledge-base/Kubernetes/kubernetes-networking-communication-between-pods-and-services)
+- [ ] Kubernetes Networking: Communication Between Pods and Services|Kubernetes
 - [ ] Kubernetes Ingress: Exposing Your Services with Custom URLs|Kubernetes
 - [ ] Kubernetes Jobs and CronJobs: Running One-Off Tasks|Kubernetes
 - [ ] Kubernetes Resource Management: Setting Limits and Requests for Your Pods|Kubernetes
