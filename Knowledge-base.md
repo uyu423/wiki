@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T11:26:14.511Z
+date: 2023-01-30T11:32:56.487Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -206,7 +206,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin Continuous Deployment: Automating the Deployment Process|Kotlin
 - [ ] Kotlin and the Cloud: Deploying to a Cloud Provider|Kotlin
 - [ ] Kotlin and REST API: Building and Consuming RESTful Services|Kotlin
-- [ ] Kotlin and XML Processing: Advanced Topics|Kotlin
+- [x] [Kotlin and XML Processing: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-xml-processing-advanced-topics)
 - [ ] Kotlin and JSON Processing: Advanced Topics|Kotlin
 - [ ] Kotlin and Token-based Authentication|Kotlin
 - [ ] Kotlin and Session Management|Kotlin
