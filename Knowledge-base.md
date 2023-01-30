@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T21:17:32.951Z
+date: 2023-01-30T21:23:19.705Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -314,7 +314,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Deploying Backend Applications with Kubernetes and Docker|Backend
 - [ ] Exploring Node.js and TypeScript for Backend Development|Backend
 - [ ] Building REST APIs with Express.js|Backend
-- [ ] Scaling Applications with ElastiCache and ElasticBeanstalk|Backend
+- [x] [Scaling Applications with ElastiCache and ElasticBeanstalk](/Knowledge-base/Backend/scaling-applications-with-elasticache-and-elasticbeanstalk)
 - [ ] Monitoring Backend Applications with CloudWatch|Backend
 - [ ] Building BFF API for Frontend-Backend Communication|Backend
 - [ ] Agile Methodologies for Backend Development|Backend
