@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T14:16:35.527Z
+date: 2023-01-30T14:32:43.597Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -121,7 +121,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 ### Kubernetes / Docker
 
 - [ ] Getting Started with Kubernetes: Installation and Cluster Creation|Kubernetes
-- [ ] Kubernetes Pods: The Building Blocks of Your Cluster|Kubernetes
+- [x] [Kubernetes Pods: The Building Blocks of Your Cluster](/Knowledge-base/Kubernetes/kubernetes-pods-the-building-blocks-of-your-cluster)
 - [x] [Kubernetes Services: Exposing Your Applications to the World](/Knowledge-base/Kubernetes/kubernetes-services-exposing-your-applications-to-the-world)
 - [ ] Kubernetes ConfigMaps and Secrets: Managing Configuration Data|Kubernetes
 - [ ] Deploying Stateful Applications on Kubernetes with Persistent Volumes|Kubernetes
