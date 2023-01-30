@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T06:16:15.158Z
+date: 2023-01-30T06:32:24.469Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -536,7 +536,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] How to Use Git for Version Control in Software Development|Common
 - [ ] The Ethics of Artificial Intelligence (AI) and Machine Learning|Common
 - [ ] Building a Secure Online Payment System|Common
-- [ ] Using Machine Learning for Predictive Analytics|Common
+- [x] [Using Machine Learning for Predictive Analytics](/Knowledge-base/Common/using-machine-learning-for-predictive-analytics)
 - [ ] The Future of Artificial Intelligence (AI) in Financial Services|Common
 - [ ] Developing Chatbots with Microsoft Bot Framework|Common
 - [ ] Using Machine Learning for Sentiment Analysis|Common
