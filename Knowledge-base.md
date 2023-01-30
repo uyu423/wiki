@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T07:32:24.813Z
+date: 2023-01-30T07:54:30.412Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -310,7 +310,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Implementing Authentication and Authorization for Backend Applications|Backend
 - [ ] Securing Backend Applications with HTTPS and Encryption|Backend
 - [ ] Hash Functions and PBKDF2 for Secure Passwords|Backend
-- [ ] Scaling Backend Applications with Load Balancing|Backend
+- [x] [Scaling Backend Applications with Load Balancing](/Knowledge-base/Backend/scaling-backend-applications-with-load-balancing)
 - [ ] Caching Strategies for Improved Performance|Backend
 - [ ] Validating User Data for Security|Backend
 - [ ] Error Handling Best Practices for Backend Applications|Backend
