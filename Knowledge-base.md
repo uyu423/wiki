@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T18:43:45.915Z
+date: 2023-01-30T18:57:52.991Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -686,7 +686,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Integrating TypeScript with AWS Services for Serverless Development|TypeScript
 - [ ] Building Real-Time Chat Applications with TypeScript and WebSockets|TypeScript
 - [ ] Using TypeScript with TypeORM for Object-Relational Mapping|TypeScript
-- [ ] Working with WebSockets in TypeScript and Express.js|TypeScript
+- [x] [Working with WebSockets in TypeScript and Express.js](/Knowledge-base/TypeScript/working-with-websockets-in-typescript-and-express-js)
 - [ ] Implementing Role-Based Access Control in TypeScript Applications|TypeScript
 - [ ] Using TypeScript with Redis for Data Caching and Management|TypeScript
 - [ ] Building Progressive Web Applications with TypeScript and Next.js|TypeScript
