@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-29T23:58:09.170Z
+date: 2023-01-30T00:04:55.947Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -15,9 +15,9 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [building-resilient-backend-systems-with-circuit-breakers](/ko/Knowledge-base/Backend/building-resilient-backend-systems-with-circuit-breakers)
 
 
-- [ ] Understanding Java Memory Management
-- [ ] Implementing Security in Spring Boot Applications
-- [ ] Building Scalable Applications with Kubernetes and Docker
+- [ ] Understanding Java Memory Management|Backend
+- [ ] Implementing Security in Spring Boot Applications|Backend
+- [ ] Building Scalable Applications with Kubernetes and Docker|Backend
 - [ ] Optimizing Redis for High Performance|Backend
 - [ ] Migrating from MySQL to PostgreSQL|Backend
 - [ ] Mastering IntelliJ IDEA for Improved Development Workflow|Backend
