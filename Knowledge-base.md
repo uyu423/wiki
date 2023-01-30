@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T11:02:26.359Z
+date: 2023-01-30T11:16:21.456Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -266,7 +266,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and Ruby on Rails: Building a Web Application with a Ruby Framework|Kotlin
 - [ ] Kotlin and TypeScript: Building a Web Application with a JavaScript Framework|Kotlin
 - [ ] Kotlin and Express.js: Building a Web Application with a Node.js Framework|Kotlin
-- [ ] Kotlin and GraphQL: A Hands-on Guide to Querying APIs|Kotlin
+- [x] [Kotlin and GraphQL: A Hands-on Guide to Querying APIs](/Knowledge-base/Kotlin/kotlin-and-graphql-a-hands-on-guide-to-querying-apis)
 - [ ] Kotlin and gRPC: Building High-Performance APIs|Kotlin
 - [ ] Kotlin and Serverless Functions: Building Scalable and Cost-Effective Applications|Kotlin
 - [ ] Kotlin and Event-driven Architecture: Building Responsive and Reactive Systems|Kotlin
