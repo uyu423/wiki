@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T16:36:33.654Z
+date: 2023-01-30T16:43:29.913Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1180,7 +1180,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Performance Management|Dictionary
 - [x] [Succession Planning](/Knowledge-base/Dictionary/succession-planning)
 - [ ] Employee Engagement|Dictionary
-- [ ] Employee Retention|Dictionary
+- [x] [Employee Retention](/Knowledge-base/Dictionary/employee-retention)
 - [ ] Employee Benefits|Dictionary
 - [ ] Health Insurance|Dictionary
 - [ ] Life Insurance|Dictionary
