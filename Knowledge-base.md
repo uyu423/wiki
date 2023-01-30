@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T12:32:26.709Z
+date: 2023-01-30T13:16:26.233Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -535,7 +535,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Future of Automated Testing in Software Development|Common
 - [ ] Building a Chatbot with Dialogflow|Common
 - [ ] Applying DevOps to Improve Software Delivery|Common
-- [ ] How to Use Git for Version Control in Software Development|Common
+- [x] [How to Use Git for Version Control in Software Development](/Knowledge-base/Common/how-to-use-git-for-version-control-in-software-development)
 - [ ] The Ethics of Artificial Intelligence (AI) and Machine Learning|Common
 - [ ] Building a Secure Online Payment System|Common
 - [x] [Using Machine Learning for Predictive Analytics](/Knowledge-base/Common/using-machine-learning-for-predictive-analytics)
