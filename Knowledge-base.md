@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T20:57:25.135Z
+date: 2023-01-30T21:04:38.667Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -133,7 +133,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Factory Method Pattern in Spring Boot Development|Spring-Boot
 - [ ] The Abstract Factory Pattern in Spring Boot Development|Spring-Boot
 - [ ] The Singleton Pattern in Spring Boot Development|Spring-Boot
-- [ ] The Builder Pattern in Spring Boot Development|Spring-Boot
+- [x] [The Builder Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-builder-pattern-in-spring-boot-development)
 - [ ] The Prototype Pattern in Spring Boot Development|Spring-Boot
 - [ ] The Adapter Pattern in Spring Boot Development|Spring-Boot
 - [ ] The Bridge Pattern in Spring Boot Development|Spring-Boot
