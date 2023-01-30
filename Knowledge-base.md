@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T15:13:47.525Z
+date: 2023-01-30T15:16:40.720Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1230,7 +1230,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Talent Acquisition|Dictionary
 - [ ] Talent Development|Dictionary
 - [ ] Performance Management|Dictionary
-- [ ] Succession Planning|Dictionary
+- [x] [Succession Planning](/Knowledge-base/Dictionary/succession-planning)
 - [ ] Employee Engagement|Dictionary
 - [ ] Employee Retention|Dictionary
 - [ ] Employee Benefits|Dictionary
