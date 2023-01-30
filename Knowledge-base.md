@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T21:37:42.633Z
+date: 2023-01-30T21:43:23.946Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -430,7 +430,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] AWS Auto Scaling: Automatically Scaling Cloud Resources Based on Load|Cloud
 - [ ] AWS CloudWatch: Monitoring and Debugging Cloud Applications|Cloud
 - [ ] AWS CloudTrail: Logging AWS API Calls for Compliance and Auditing|Cloud
-- [ ] AWS Elasticache: Scaling Memcached or Redis Caching for Web Applications|Cloud
+- [x] [AWS Elasticache: Scaling Memcached or Redis Caching for Web Applications](/Knowledge-base/Cloud/aws-elasticache-scaling-memcached-or-redis-caching-for-web-applications)
 - [ ] AWS SES: Sending and Receiving Emails with Simple Email Service|Cloud
 - [ ] AWS SNS & SQS: Building a Message Broker System in the Cloud|Cloud
 - [ ] AWS Glue: Automating Data Processing and ETL in the Cloud|Cloud
