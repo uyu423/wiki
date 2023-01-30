@@ -2,14 +2,14 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T12:08:33.745Z
+date: 2023-01-30T12:09:17.445Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
 - [x] [Github](/Knowledge-base/Dictionary/github)
-- [ ] Ubuntu|Dictionary
+- [x] [Ubuntu](/Knowledge-base/Dictionary/ubuntu)
 - [x] [migrating-to-typescript-for-node-js-development](/ko/Knowledge-base/Backend/migrating-to-typescript-for-node-js-development)
 - [x] [building-real-time-applications-with-socket-io](/ko/Knowledge-base/Backend/building-real-time-applications-with-socket-io)
 - [x] [setting-up-a-backend-system-with-spring-boot](/ko/Knowledge-base/Backend/setting-up-a-backend-system-with-spring-boot)
