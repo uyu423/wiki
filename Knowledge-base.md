@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T20:36:31.654Z
+date: 2023-01-30T20:43:36.854Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -366,7 +366,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Cluster Management for Scalable Backend Applications|Backend
 - [ ] Service Discovery for Microservices-based Backend Applications|Backend
 - [ ] Task Orchestration for Backend Applications|Backend
-- [ ] gRPC for High-performance Backend Communication|Backend
+- [x] [gRPC for High-performance Backend Communication](/Knowledge-base/Backend/grpc-for-high-performance-backend-communication)
 - [x] [Understanding Load Balancing Techniques in Infrastructure Development](/Knowledge-base/Backend/understanding-load-balancing-techniques-in-infrastructure-development)
 - [ ] Implementing Reverse Proxies for Better Performance|Backend
 - [ ] Securing Your Backend with Firewalls|Backend
