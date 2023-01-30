@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T04:32:24.347Z
+date: 2023-01-30T04:38:02.405Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -340,7 +340,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Service Discovery for Microservices-based Backend Applications|Backend
 - [ ] Task Orchestration for Backend Applications|Backend
 - [ ] gRPC for High-performance Backend Communication|Backend
-- [ ] Understanding Load Balancing Techniques in Infrastructure Development|Backend
+- [x] [Understanding Load Balancing Techniques in Infrastructure Development](/Knowledge-base/Backend/understanding-load-balancing-techniques-in-infrastructure-development)
 - [ ] Implementing Reverse Proxies for Better Performance|Backend
 - [ ] Securing Your Backend with Firewalls|Backend
 - [ ] Setting Up a Virtual Private Network (VPN) for Secure Communication|Backend
