@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T16:43:29.913Z
+date: 2023-01-30T16:57:22.454Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -276,7 +276,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and Bcrypt: A Better Alternative to Simple Hashing|Kotlin
 - [ ] Kotlin and JSON: Processing and Generating JSON Data|Kotlin
 - [x] [Kotlin and XML: Parsing and Generating XML Data](/Knowledge-base/Kotlin/kotlin-and-xml-parsing-and-generating-xml-data)
-- [ ] Kotlin and Test Driven Development (TDD): A Hands-on Guide|Kotlin
+- [x] [Kotlin and Test Driven Development (TDD): A Hands-on Guide](/Knowledge-base/Kotlin/kotlin-and-test-driven-development-tdd-a-hands-on-guide)
 - [x] [Kotlin and Continuous Deployment: Automating Your Deployment Workflow](/Knowledge-base/Kotlin/kotlin-and-continuous-deployment-automating-your-deployment-workflow)
 - [ ] Kotlin and Kubernetes: Deploying and Scaling Your Applications|Kotlin
 - [ ] Kotlin and Docker: Packaging and Running Your Applications|Kotlin
