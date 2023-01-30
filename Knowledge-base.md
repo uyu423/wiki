@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T19:44:04.166Z
+date: 2023-01-30T19:58:07.572Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -304,7 +304,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## Backend
 
-- [ ] Introduction to Java for Backend Developers|Backend
+- [x] [Introduction to Java for Backend Developers](/Knowledge-base/Backend/introduction-to-java-for-backend-developers)
 - [ ] Getting Started with Kotlin for Backend Development|Backend
 - [ ] Understanding the Benefits of Spring Boot for Backend Development|Backend
 - [ ] Building a Spring Batch Application for Data Processing|Backend
