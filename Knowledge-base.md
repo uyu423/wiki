@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T17:57:36.039Z
+date: 2023-01-30T18:04:17.624Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -624,7 +624,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Leveraging Java's Reflection API for Dynamic Programming|Java
 - [ ] Working with Java's StrictMath Class for Precise Calculations|Java
 - [ ] Java's java.util.concurrent Package for Parallel Programming|Java
-- [ ] The Power of Java's Serialization API|Java
+- [x] [The Power of Java's Serialization API](/Knowledge-base/Java/the-power-of-java-s-serialization-api)
 - [ ] Building Custom Class Loaders in Java|Java
 - [ ] Java's Support for Asynchronous Processing with CompletableFuture|Java
 - [ ] Understanding Java's Attach API for Dynamic Instrumentation|Java
