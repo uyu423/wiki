@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T23:04:32.071Z
+date: 2023-01-30T23:17:30.162Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -797,7 +797,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Database Management|Dictionary
 - [ ] Network Engineering|Dictionary
 - [ ] Quality Assurance|Dictionary
-- [ ] Project Management|Dictionary
+- [x] [Project Management](/Knowledge-base/Dictionary/project-management)
 - [x] [Business Analysis](/Knowledge-base/Dictionary/business-analysis)
 - [ ] Business Intelligence|Dictionary
 - [ ] Software Testing|Dictionary
