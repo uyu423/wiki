@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T14:14:42.964Z
+date: 2023-01-30T14:16:35.527Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -324,7 +324,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Infrastructure as Code for Backend Applications|Backend
 - [ ] Virtualization with Hypervisor and VMs|Backend
 - [ ] Containers and Micro VMs for Backend Development|Backend
-- [ ] Migrating Databases for Scalable Applications|Backend
+- [x] [Migrating Databases for Scalable Applications](/Knowledge-base/Backend/migrating-databases-for-scalable-applications)
 - [x] [ORM and Auto-scaling for Backend Development](/Knowledge-base/Backend/orm-and-auto-scaling-for-backend-development)
 - [ ] SaaS, PaaS, and IaaS for Backend Applications|Backend
 - [ ] Object Storage, Block Storage, and File Storage for Backend|Backend
