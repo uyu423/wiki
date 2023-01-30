@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T19:04:22.983Z
+date: 2023-01-30T19:17:30.877Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -830,7 +830,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Vulnerability Assessment|Dictionary
 - [ ] Security Testing|Dictionary
 - [ ] Risk Assessment|Dictionary
-- [ ] Threat Modeling|Dictionary
+- [x] [Threat Modeling](/Knowledge-base/Dictionary/threat-modeling)
 - [ ] Disaster Recovery|Dictionary
 - [ ] Backup and Recovery|Dictionary
 - [ ] High Availability|Dictionary
