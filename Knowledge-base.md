@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T19:58:07.572Z
+date: 2023-01-30T20:04:52.584Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -966,7 +966,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] User Stories|Dictionary
 - [ ] User Story Mapping|Dictionary
 - [ ] Business Requirements|Dictionary
-- [ ] Technical Requirements|Dictionary
+- [x] [Technical Requirements](/Knowledge-base/Dictionary/technical-requirements)
 - [ ] System Requirements|Dictionary
 - [ ] System Integration Testing|Dictionary
 - [ ] Unit Testing|Dictionary
