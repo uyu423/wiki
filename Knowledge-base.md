@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T03:09:15.262Z
+date: 2023-01-30T03:16:21.511Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -542,7 +542,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Using Machine Learning for Sentiment Analysis|Common
 - [ ] How to Build a High-Performance Web Application|Common
 - [ ] The Role of Artificial Intelligence (AI) in Education|Common
-- [ ] Using Artificial Intelligence (AI) for Fraud Detection|Common
+- [x] [Using Artificial Intelligence (AI) for Fraud Detection](/Knowledge-base/Common/using-artificial-intelligence-ai-for-fraud-detection)
 - [ ] The Future of Artificial Intelligence (AI) in Retail|Common
 - [ ] Building a Recommendation Engine with Machine Learning|Common
 - [ ] How to Create a Virtual Reality (VR) Experience|Common
