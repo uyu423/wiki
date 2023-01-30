@@ -2,7 +2,7 @@
 title: Github
 description: 
 published: true
-date: 2023-01-30T11:54:59.246Z
+date: 2023-01-30T11:55:23.996Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T11:54:02.859Z
@@ -33,7 +33,7 @@ GitHub는 개발자가 프로젝트에서 공동 작업하고 작업을 전 세�
 GitHub는 또한 회사가 프로젝트를 관리하고 변경 사항을 추적할 수 있는 좋은 방법을 제공합니다. 또한 잠재적인 고용주에게 회사의 작업을 보여줄 수 있는 좋은 방법입니다.
 
 # 관련된 링크들
-[깃허브*깃허브*](https://github.com/)
-[GitHub 튜토리얼*GitHub*](https://lab.github.com/)
-[GitHub 가이드*GitHub*](https://guides.github.com/)
-{.link-list}
+- [깃허브*깃허브*](https://github.com/)
+- [GitHub 튜토리얼*GitHub*](https://lab.github.com/)
+- [GitHub 가이드*GitHub*](https://guides.github.com/)
+{.links-list}
