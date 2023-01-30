@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T21:57:34.242Z
+date: 2023-01-30T22:05:11.183Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -125,7 +125,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Single Responsibility Principle in Spring Boot Development|Spring-Boot
 - [ ] The Open/Closed Principle in Spring Boot Development|Spring-Boot
 - [ ] The Interface Segregation Principle in Spring Boot Development|Spring-Boot
-- [ ] The Command Query Responsibility Segregation (CQRS) Pattern in Spring Boot|Spring-Boot
+- [x] [The Command Query Responsibility Segregation (CQRS) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-command-query-responsibility-segregation-cqrs-pattern-in-spring-boot)
 - [ ] The Model-View-Controller (MVC) Pattern in Spring Boot|Spring-Boot
 - [ ] The Model-View-Presenter (MVP) Pattern in Spring Boot|Spring-Boot
 - [ ] The Model-View-ViewModel (MVVM) Pattern in Spring Boot|Spring-Boot
