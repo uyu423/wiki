@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T15:38:18.103Z
+date: 2023-01-30T15:43:36.708Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -652,7 +652,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Building Custom Executors in Java|Java
 - [ ] Java's java.util.concurrent.Semaphore for Controlled Concurrent Access|Java
 - [ ] A Guide to Java's java.util.concurrent.Exchanger for Concurrent Data Exchange|Java
-- [ ] Working with Java's java.util.concurrent.Phaser for Concurrent Phased Operations|Java
+- [x] [Working with Java's java.util.concurrent.Phaser for Concurrent Phased Operations](/Knowledge-base/Java/working-with-java-s-java-util-concurrent-phaser-for-concurrent-phased-operations)
 - [ ] Leveraging Java's java.util.concurrent.BrokenBarrierException for Exception Handling|Java
 - [ ] Java's java.util.concurrent.locks.ReentrantLock for Reentrant Locking|Java
 - [ ] Java's ReentrantReadWriteLock for Read-Write Concurrent Locking|Java
