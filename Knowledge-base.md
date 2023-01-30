@@ -2,14 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T11:48:45.892Z
+date: 2023-01-30T11:53:17.428Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [x] [Framework](/Knowledge-base/Dictionary/framework)
-- [x] [Git](/Knowledge-base/Dictionary/git)
+- [ ] Github|Dictionary
 - [x] [migrating-to-typescript-for-node-js-development](/ko/Knowledge-base/Backend/migrating-to-typescript-for-node-js-development)
 - [x] [building-real-time-applications-with-socket-io](/ko/Knowledge-base/Backend/building-real-time-applications-with-socket-io)
 - [x] [setting-up-a-backend-system-with-spring-boot](/ko/Knowledge-base/Backend/setting-up-a-backend-system-with-spring-boot)
@@ -712,3 +711,6 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Auto-scaling for Improved Resource Management|Backend
 - [ ] ORM for Better Data Management in Backend Development|Backend
 - [ ] Database Migration for Improved Data Management.|Backend
+
+## Dictionary
+
