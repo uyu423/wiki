@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T08:16:42.237Z
+date: 2023-01-30T08:19:51.675Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -24,7 +24,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Securing Your Spring Boot Application](/Knowledge-base/Spring-Boot/securing-your-spring-boot-application)
 - [x] [AOP: Aspect-Oriented Programming in Spring Boot](/Knowledge-base/Spring-Boot/aop-aspect-oriented-programming-in-spring-boot)
 - [x] [Microservices Architecture with Spring Boot](/Knowledge-base/Spring-Boot/microservices-architecture-with-spring-boot)
-- [ ] Spring Boot in the Cloud|Spring-Boot
+- [x] [Spring Boot in the Cloud](/Knowledge-base/Spring-Boot/spring-boot-in-the-cloud)
 - [ ] The Power of Actuator in Spring Boot|Spring-Boot
 - [ ] Auto-configuration in Spring Boot: A Deep Dive|Spring-Boot
 - [ ] Spring Data JPA: Simplifying Data Access|Spring-Boot
