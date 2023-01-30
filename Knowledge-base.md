@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T23:23:27.957Z
+date: 2023-01-30T23:36:56.014Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -672,7 +672,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Setting Up TypeScript with Next.js for Server-Side Rendering|TypeScript
 - [ ] Integrating TypeScript with MongoDB for Data Persistence|TypeScript
 - [ ] Using TypeScript with Passport.js for User Authentication|TypeScript
-- [ ] Handling File Uploads and Downloads with TypeScript and Multer|TypeScript
+- [x] [Handling File Uploads and Downloads with TypeScript and Multer](/Knowledge-base/TypeScript/handling-file-uploads-and-downloads-with-typescript-and-multer)
 - [ ] Working with Sessions and Cookies in TypeScript and Express.js|TypeScript
 - [ ] Debugging and Troubleshooting TypeScript Applications|TypeScript
 - [ ] Securing TypeScript Applications with JWT and Bcrypt|TypeScript
