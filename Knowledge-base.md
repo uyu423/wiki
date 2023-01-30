@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T01:14:10.990Z
+date: 2023-01-30T01:30:52.678Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -21,7 +21,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Building a REST API with Spring MVC](/Knowledge-base/Spring-Boot/building-a-rest-api-with-spring-mvc)
 - [x] [Quick Started with JPA and Hibernate](/Knowledge-base/Spring-Boot/quick-started-with-jpa-and-hibernate)
 - [x] [Transactions Management in Spring Boot](/Knowledge-base/Spring-Boot/transactions-management-in-spring-boot)
-- [ ] Securing Your Spring Boot Application|Spring-Boot
+- [x] [Securing Your Spring Boot Application](/Knowledge-base/Spring-Boot/securing-your-spring-boot-application)
 - [ ] AOP: Aspect-Oriented Programming in Spring Boot|Spring-Boot
 - [ ] Microservices Architecture with Spring Boot|Spring-Boot
 - [ ] Spring Boot in the Cloud|Spring-Boot
