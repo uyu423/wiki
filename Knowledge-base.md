@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T14:48:15.261Z
+date: 2023-01-30T14:49:10.502Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -16,7 +16,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [building-backend-systems-with-grpc](/ko/Knowledge-base/Backend/building-backend-systems-with-grpc)
 - [x] [building-resilient-backend-systems-with-circuit-breakers](/ko/Knowledge-base/Backend/building-resilient-backend-systems-with-circuit-breakers)
 
-### Spring Boot
+## Spring Boot
 
 - [x] [Getting Started with Dependency Injection in Spring Boot](/Knowledge-base/Spring-Boot/getting-started-with-dependency-injection-in-spring-boot)
 - [x] [Effective Bean Configuration in Spring Boot](/Knowledge-base/Spring-Boot/effective-bean-configuration-in-spring-boot)
@@ -118,7 +118,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Spring Boot and Spring Data for Data Access and Persistence|Spring-Boot
 - [ ] Spring Boot and Spring Batch for Large-Scale Data Processing|Spring-Boot
 
-### Kubernetes / Docker
+## Kubernetes
 
 - [ ] Getting Started with Kubernetes: Installation and Cluster Creation|Kubernetes
 - [x] [Kubernetes Pods: The Building Blocks of Your Cluster](/Knowledge-base/Kubernetes/kubernetes-pods-the-building-blocks-of-your-cluster)
@@ -163,7 +163,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kubernetes with Knative: Building and Deploying Serverless Applications|Kubernetes
 - [ ] Kubernetes with Tekton: Implementing CI/CD Pipelines for Your Applications|Kubernetes
 
-### Docker
+## Docker
 
 - [ ] An Introduction to Docker Containers|Docker
 - [ ] Docker Compose: Simplifying Multi-Container Deployments|Docker
@@ -174,7 +174,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Docker Compose Networking: Connecting Containers with Networks|Docker
 - [x] [Docker Compose and Kubernetes: Integrating Your Compose Files with Clusters](/Knowledge-base/Docker/docker-compose-and-kubernetes-integrating-your-compose-files-with-clusters)
 
-### Kotlin
+## Kotlin
 
 - [ ] Getting started with Kotlin for Java Developers|Kotlin
 - [ ] Exploring Null Safety in Kotlin|Kotlin
@@ -277,7 +277,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and Serverless Architecture: A Guide to Building Scalable Applications|Kotlin
 - [ ] Kotlin and Event Sourcing: A Guide to Building Resilient Systems|Kotlin
 
-### Backend
+## Backend
 
 - [ ] Introduction to Java for Backend Developers|Backend
 - [ ] Getting Started with Kotlin for Backend Development|Backend
@@ -379,7 +379,8 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] ORM for Better Data Management in Backend Development|Backend
 - [ ] Database Migration for Improved Data Management.|Backend
 
-### Cloud
+## Cloud
+
 - [ ] AWS Elastic Beanstalk: Deploying and Scaling a Simple Web Application|Cloud
 - [ ] AWS Lambda: Building Serverless Functions for Event-Driven Applications|Cloud
 - [ ] AWS DynamoDB: Creating a NoSQL Database and Integrating with a Web Application|Cloud
@@ -452,7 +453,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Developing Multi-Region Applications on AWS and Azure|Cloud
 - [ ] Using AWS and Azure for Edge Computing and IoT Workloads|Cloud
 
-### Common
+## Common
 
 - [x] [Object-Oriented Programming: Concepts and Best Practices](/Knowledge-base/Common/object-oriented-programming-concepts-and-best-practices)
 - [ ] Introduction to Data Structures and Algorithms|Common
@@ -556,7 +557,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Future of Artificial Intelligence (AI) in Manufacturing|Common
 - [x] [Using Artificial Intelligence (AI) for Predictive Maintenance](/Knowledge-base/Common/using-artificial-intelligence-ai-for-predictive-maintenance)
 
-### TypeScript: Deep Dive
+## TypeScript: Deep Dive
 
 - [ ] Getting Started with TypeScript and Node.js:TypeScript
 - [ ] Building RESTful APIs with Nest.js and TypeScript:TypeScript
@@ -610,7 +611,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Using TypeScript and GraphQL in a Next.js App:TypeScript
 - [ ] Debugging TypeScript and Nest.js Applications with Visual Studio Code:TypeScript
 
-### Backend
+## Backend
 
 - [ ] Introduction to Java for Backend Developers|Backend
 - [ ] Getting Started with Kotlin for Backend Development|Backend
