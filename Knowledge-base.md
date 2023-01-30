@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T04:38:02.405Z
+date: 2023-01-30T04:54:22.852Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -457,7 +457,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Introduction to Data Structures and Algorithms|Common
 - [ ] The Basics of Database Design and Management|Common
 - [ ] Getting Started with Web Development: HTML, CSS, and JavaScript|Common
-- [ ] Mobile App Development: Android or iOS?|Common
+- [x] [Mobile App Development: Android or iOS?](/Knowledge-base/Common/mobile-app-development-android-or-ios)
 - [ ] Cloud Computing: An Overview|Common
 - [ ] How to Build a RESTful API with Node.js|Common
 - [ ] The Importance of Software Testing|Common
