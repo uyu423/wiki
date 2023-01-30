@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T17:04:40.316Z
+date: 2023-01-30T17:17:34.655Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1046,7 +1046,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Containerization|Dictionary
 - [ ] Serverless|Dictionary
 - [ ] Functionality|Dictionary
-- [ ] REST|Dictionary
+- [x] [REST](/Knowledge-base/Dictionary/rest)
 - [ ] SOAP|Dictionary
 - [ ] GraphQL|Dictionary
 - [ ] Web Services|Dictionary
