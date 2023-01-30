@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T10:29:37.131Z
+date: 2023-01-30T10:32:34.596Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -355,7 +355,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Building Event-Driven Architecture in Infrastructure Development|Backend
 - [ ] Implementing Serverless Functions with AWS Lambda and Google Cloud Functions|Backend
 - [ ] Understanding Backend as a Service (BaaS)|Backend
-- [ ] Real-time Communication in Backend Development with WebSockets and Server-Sent Events|Backend
+- [x] [Real-time Communication in Backend Development with WebSockets and Server-Sent Events](/Knowledge-base/Backend/real-time-communication-in-backend-development-with-websockets-and-server-sent-events)
 - [ ] Implementing Command Query Responsibility Segregation (CQRS)|Backend
 - [ ] Enabling Cross-Origin Resource Sharing (CORS) for Secure API Access|Backend
 - [ ] Implementing HTTP/2 for Faster Backend Communication|Backend
