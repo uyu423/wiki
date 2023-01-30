@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T03:32:22.754Z
+date: 2023-01-30T03:54:46.130Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -98,7 +98,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Spring Boot Initializer for Project Creation|Spring-Boot
 - [ ] Spring Boot Tool Suite for Integrated Development Environment|Spring-Boot
 - [ ] Spring Boot and Hibernate Transactions|Spring-Boot
-- [ ] Spring Boot and AOP for Cross-Cutting Concerns|Spring-Boot
+- [x] [Spring Boot and AOP for Cross-Cutting Concerns](/Knowledge-base/Spring-Boot/spring-boot-and-aop-for-cross-cutting-concerns)
 - [ ] Spring Boot Microservices with Netflix OSS|Spring-Boot
 - [ ] Spring Boot and Docker for Microservices|Spring-Boot
 - [ ] Spring Boot and Kubernetes for Microservices|Spring-Boot
