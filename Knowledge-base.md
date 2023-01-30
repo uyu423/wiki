@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T02:34:38.401Z
+date: 2023-01-30T02:50:08.379Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -329,7 +329,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Networking Fundamentals for Backend Developers|Backend
 - [ ] Understanding the Domain Name System (DNS)|Backend
 - [ ] IP Addressing for Backend Applications|Backend
-- [ ] Load Balancing for Scalable Backend Applications|Backend
+- [x] [Load Balancing for Scalable Backend Applications](/Knowledge-base/Backend/load-balancing-for-scalable-backend-applications)
 - [ ] Reverse Proxy for Improved Performance|Backend
 - [ ] Securing Backend Applications with Firewall|Backend
 - [ ] Virtual Private Network (VPN) for Secure Backend Communication|Backend
