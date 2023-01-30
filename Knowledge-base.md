@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T05:32:18.640Z
+date: 2023-01-30T05:54:34.652Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -281,7 +281,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Getting Started with Kotlin for Backend Development|Backend
 - [ ] Understanding the Benefits of Spring Boot for Backend Development|Backend
 - [ ] Building a Spring Batch Application for Data Processing|Backend
-- [ ] Integrating Kafka with Spring Boot for Real-time Processing|Backend
+- [x] [Integrating Kafka with Spring Boot for Real-time Processing](/Knowledge-base/Backend/integrating-kafka-with-spring-boot-for-real-time-processing)
 - [ ] Database Management with MySQL and Redis|Backend
 - [ ] Setting up a Continuous Integration Pipeline with Jenkins and IntelliJ|Backend
 - [ ] Deploying Backend Applications with Kubernetes and Docker|Backend
