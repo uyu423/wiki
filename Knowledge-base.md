@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T00:51:05.840Z
+date: 2023-01-30T00:58:33.533Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -17,7 +17,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 ### Spring Boot
 
 - [x] [Getting Started with Dependency Injection in Spring Boot](/Knowledge-base/Spring-Boot/getting-started-with-dependency-injection-in-spring-boot)
-- [ ] Mastering Application Context in Spring Boot|Spring-Boot
+- [x] [Mastering Application Context in Spring Boot](/Knowledge-base/Spring-Boot/mastering-application-context-in-spring-boot)
 - [ ] Effective Bean Configuration in Spring Boot|Spring-Boot
 - [ ] Building a REST API with Spring MVC|Spring-Boot
 - [ ] Data Access Made Easy with JPA and Hibernate|Spring-Boot
