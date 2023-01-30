@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T08:57:14.162Z
+date: 2023-01-30T08:58:16.248Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -25,7 +25,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AOP: Aspect-Oriented Programming in Spring Boot](/Knowledge-base/Spring-Boot/aop-aspect-oriented-programming-in-spring-boot)
 - [x] [Microservices Architecture with Spring Boot](/Knowledge-base/Spring-Boot/microservices-architecture-with-spring-boot)
 - [x] [Spring Boot in the Cloud](/Knowledge-base/Spring-Boot/spring-boot-in-the-cloud)
-- [ ] The Power of Actuator in Spring Boot|Spring-Boot
+- [x] [The Power of Actuator in Spring Boot](/Knowledge-base/Spring-Boot/the-power-of-actuator-in-spring-boot)
 - [x] [Auto-configuration in Spring Boot: A Deep Dive](/Knowledge-base/Spring-Boot/auto-configuration-in-spring-boot-a-deep-dive)
 - [x] [Spring Data JPA: Simplifying Data Access](/Knowledge-base/Spring-Boot/spring-data-jpa-simplifying-data-access)
 - [ ] Spring Data MongoDB: NoSQL Solutions|Spring-Boot
