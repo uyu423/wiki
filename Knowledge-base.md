@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T15:06:35.993Z
+date: 2023-01-30T15:12:04.844Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -117,6 +117,31 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Spring Boot and SSL for Secure Web Communication|Spring-Boot
 - [ ] Spring Boot and Spring Data for Data Access and Persistence|Spring-Boot
 - [ ] Spring Boot and Spring Batch for Large-Scale Data Processing|Spring-Boot
+- [ ] The SOLID Principles in Spring Boot Development|Spring-Boot
+- [ ] Dependency Injection in Spring Boot|Spring-Boot
+- [ ] Aspect-Oriented Programming in Spring Boot|Spring-Boot
+- [ ] The Hollywood Principle in Spring Boot Development|Spring-Boot
+- [ ] The Liskov Substitution Principle in Spring Boot Development|Spring-Boot
+- [ ] The Single Responsibility Principle in Spring Boot Development|Spring-Boot
+- [ ] The Open/Closed Principle in Spring Boot Development|Spring-Boot
+- [ ] The Interface Segregation Principle in Spring Boot Development|Spring-Boot
+- [ ] The Command Query Responsibility Segregation (CQRS) Pattern in Spring Boot|Spring-Boot
+- [ ] The Model-View-Controller (MVC) Pattern in Spring Boot|Spring-Boot
+- [ ] The Model-View-Presenter (MVP) Pattern in Spring Boot|Spring-Boot
+- [ ] The Model-View-ViewModel (MVVM) Pattern in Spring Boot|Spring-Boot
+- [ ] The Observer Pattern in Spring Boot Development|Spring-Boot
+- [ ] The Factory Method Pattern in Spring Boot Development|Spring-Boot
+- [ ] The Abstract Factory Pattern in Spring Boot Development|Spring-Boot
+- [ ] The Singleton Pattern in Spring Boot Development|Spring-Boot
+- [ ] The Builder Pattern in Spring Boot Development|Spring-Boot
+- [ ] The Prototype Pattern in Spring Boot Development|Spring-Boot
+- [ ] The Adapter Pattern in Spring Boot Development|Spring-Boot
+- [ ] The Bridge Pattern in Spring Boot Development|Spring-Boot
+- [ ] The Composite Pattern in Spring Boot Development|Spring-Boot
+- [ ] The Decorator Pattern in Spring Boot Development|Spring-Boot
+- [ ] The Facade Pattern in Spring Boot Development|Spring-Boot
+- [ ] The Flyweight Pattern in Spring Boot Development|Spring-Boot
+- [ ] The Proxy Pattern in Spring Boot Development|Spring-Boot
 
 ## Kubernetes
 
