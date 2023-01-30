@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T02:00:53.364Z
+date: 2023-01-30T02:02:18.656Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -115,6 +115,62 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Spring Boot and SSL for Secure Web Communication|Spring-Boot
 - [ ] Spring Boot and Spring Data for Data Access and Persistence|Spring-Boot
 - [ ] Spring Boot and Spring Batch for Large-Scale Data Processing|Spring-Boot
+
+### Kubernetes / Docker
+
+- [ ] Getting Started with Kubernetes: Installation and Cluster Creation|Kubernetes
+- [ ] Kubernetes Pods: The Building Blocks of Your Cluster|Kubernetes
+- [ ] Kubernetes Services: Exposing Your Applications to the World|Kubernetes
+- [ ] Kubernetes ConfigMaps and Secrets: Managing Configuration Data|Kubernetes
+- [ ] Deploying Stateful Applications on Kubernetes with Persistent Volumes|Kubernetes
+- [ ] Rolling Updates and Rollbacks with Kubernetes Deployments|Kubernetes
+- [ ] Kubernetes Autoscaling: Adapting to Changing Loads|Kubernetes
+- [ ] Monitoring and Logging in Kubernetes Clusters|Kubernetes
+- [ ] Debugging Kubernetes Applications: Understanding Events and Logs|Kubernetes
+- [ ] Kubernetes Networking: Communication Between Pods and Services|Kubernetes
+- [ ] Kubernetes Ingress: Exposing Your Services with Custom URLs|Kubernetes
+- [ ] Kubernetes Jobs and CronJobs: Running One-Off Tasks|Kubernetes
+- [ ] Kubernetes Resource Management: Setting Limits and Requests for Your Pods|Kubernetes
+- [ ] Kubernetes Namespaces: Isolating Resources in Multi-Tenant Clusters|Kubernetes
+- [ ] Kubernetes RBAC: Securing Access to Cluster Resources|Kubernetes
+- [ ] Kubernetes Security: Best Practices for Hardening Your Cluster|Kubernetes
+- [ ] Kubernetes Network Policies: Enforcing Communication Rules Between Pods|Kubernetes
+- [ ] Kubernetes Custom Resource Definitions: Extending the Kubernetes API|Kubernetes
+- [ ] Kubernetes Operators: Automating Application Management with Custom Controllers|Kubernetes
+- [ ] Kubernetes Extension APIs: Enhancing the Functionality of Your Cluster|Kubernetes
+- [ ] Kubernetes Web UI: Managing Your Cluster with the Dashboard|Kubernetes
+- [ ] Kubernetes CLI: Working with Your Cluster from the Command Line|Kubernetes
+- [ ] Kubernetes API: Interacting with Your Cluster with REST Requests|Kubernetes
+- [ ] Kubernetes Plugins: Adding Custom Functionality to kubectl|Kubernetes
+- [ ] Kubernetes Multi-Cluster Management: Managing Multiple Clusters with kubefed|Kubernetes
+- [ ] Kubernetes on AWS: Deploying Clusters on Amazon Web Services|Kubernetes
+- [ ] Kubernetes on Google Cloud: Deploying Clusters on Google Cloud Platform|Kubernetes
+- [ ] Kubernetes on Azure: Deploying Clusters on Microsoft Azure|Kubernetes
+- [ ] Kubernetes on Oracle Cloud: Deploying Clusters on Oracle Cloud Infrastructure|Kubernetes
+- [ ] Kubernetes on DigitalOcean: Deploying Clusters on DigitalOcean|Kubernetes
+- [ ] Kubernetes on OpenStack: Deploying Clusters on OpenStack|Kubernetes
+- [ ] Kubernetes on Private Clouds: Deploying Clusters on Your Own Infrastructure|Kubernetes
+- [ ] Kubernetes on Bare Metal: Deploying Clusters on Physical Servers|Kubernetes
+- [ ] Kubernetes with CRI-O: Running Containers with an Alternative Container Runtime|Kubernetes
+- [ ] Kubernetes with Containerd: Running Containers with Another Container Runtime|Kubernetes
+- [ ] Kubernetes with gVisor: Enhancing Container Security with a Sandboxed Runtime|Kubernetes
+- [ ] Kubernetes with CNI: Configuring Networking for Your Clusters|Kubernetes
+- [ ] Kubernetes with CSI: Managing Storage for Your Clusters|Kubernetes
+- [ ] Kubernetes with Istio: Implementing Service Mesh for Your Applications|Kubernetes
+- [ ] Kubernetes with Envoy: Managing Traffic for Your Services|Kubernetes
+- [ ] Kubernetes with Knative: Building and Deploying Serverless Applications|Kubernetes
+- [ ] Kubernetes with Tekton: Implementing CI/CD Pipelines for Your Applications|Kubernetes
+
+### Docker
+
+- [ ] An Introduction to Docker Containers|Docker
+- [ ] Docker Compose: Simplifying Multi-Container Deployments|Docker
+- [ ] Docker Hub: Building and Sharing Your Docker Images|Docker
+- [ ] Dockerfile Best Practices: Creating Reliable Docker Images|Docker
+- [ ] Docker Image Management: Tagging and Pushing to a Registry|Docker
+- [ ] Docker Volume Management: Persisting Data Outside Containers|Docker
+- [ ] Docker Compose Networking: Connecting Containers with Networks|Docker
+- [ ] Docker Compose and Kubernetes: Integrating Your Compose Files with Clusters|Docker
 
 ### Kotlin
 
