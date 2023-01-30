@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T15:27:00.059Z
+date: 2023-01-30T15:28:49.699Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -821,6 +821,15 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## Dictionary
 
+- [ ] Canonical Ltd|Dictionary
+- [ ] Redhat|Dictionary
+- [ ] Amazon|Dictionary
+- [ ] Tesla|Dictionary
+- [ ] Open AI|Dictionary
+- [ ] Google|Dictionary
+- [ ] Apple (Company)|Dictionary
+- [ ] Facebook|Dictionary
+- [ ] Microsoft|Dictionary
 - [ ] Infrastructure Engineering|Dictionary
 - [ ] Backend Programming|Dictionary
 - [ ] Frontend Programming|Dictionary
