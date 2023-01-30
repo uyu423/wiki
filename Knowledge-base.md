@@ -2,13 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T11:48:07.764Z
+date: 2023-01-30T11:48:45.892Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [ ] Framework|Dictionary
+- [x] [Framework](/Knowledge-base/Dictionary/framework)
 - [x] [Git](/Knowledge-base/Dictionary/git)
 - [x] [migrating-to-typescript-for-node-js-development](/ko/Knowledge-base/Backend/migrating-to-typescript-for-node-js-development)
 - [x] [building-real-time-applications-with-socket-io](/ko/Knowledge-base/Backend/building-real-time-applications-with-socket-io)
