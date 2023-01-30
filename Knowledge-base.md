@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T17:23:31.090Z
+date: 2023-01-30T17:38:01.206Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -534,7 +534,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Developing a Graphical User Interface (GUI) using Python](/Knowledge-base/Common/developing-a-graphical-user-interface-gui-using-python)
 - [ ] An Introduction to Natural Language Processing (NLP)|Common
 - [ ] Coding with Test-Driven Development (TDD) Methodology|Common
-- [ ] Mobile App Development with React Native|Common
+- [x] [Mobile App Development with React Native](/Knowledge-base/Common/mobile-app-development-with-react-native)
 - [ ] Creating 3D Games with Unity|Common
 - [ ] How to Secure Your Website with HTTPS and SSL Certificates|Common
 - [ ] Exploring the Internet of Things (IoT) and its Applications|Common
