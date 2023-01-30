@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T19:36:29.072Z
+date: 2023-01-30T19:44:04.166Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -711,7 +711,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Building Chatbots with TypeScript and Dialogflow|TypeScript
 - [ ] Using TypeScript with AWS DynamoDB for NoSQL Database Management|TypeScript
 - [ ] Integrating TypeScript with Google Cloud Functions for Serverless Development|TypeScript
-- [ ] Building a REST API with TypeScript and Nest.js|TypeScript
+- [x] [Building a REST API with TypeScript and Nest.js](/Knowledge-base/TypeScript/building-a-rest-api-with-typescript-and-nest-js)
 - [ ] Integrating TypeScript with Next.js for Server-side Rendering|TypeScript
 - [ ] Managing Data with TypeScript and MongoDB|TypeScript
 - [ ] Using TypeScript and GraphQL in a Next.js App|TypeScript
