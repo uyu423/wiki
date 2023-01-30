@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T14:50:54.750Z
+date: 2023-01-30T14:54:39.510Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1091,7 +1091,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Colocation Hosting|Dictionary
 - [ ] Load Balancing|Dictionary
 - [ ] VPN|Dictionary
-- [ ] Remote Desktop Protocol|Dictionary
+- [x] [Remote Desktop Protocol](/Knowledge-base/Dictionary/remote-desktop-protocol)
 - [ ] Remote Access|Dictionary
 - [ ] Remote Work|Dictionary
 - [ ] Telecommuting|Dictionary
