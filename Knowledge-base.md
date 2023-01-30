@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T05:54:34.652Z
+date: 2023-01-30T06:16:15.158Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -553,7 +553,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Advantages of Using NoSQL Databases in Software Development|Common
 - [ ] How to Create an E-commerce Website with WooCommerce|Common
 - [ ] The Future of Artificial Intelligence (AI) in Manufacturing|Common
-- [ ] Using Artificial Intelligence (AI) for Predictive Maintenance|Common
+- [x] [Using Artificial Intelligence (AI) for Predictive Maintenance](/Knowledge-base/Common/using-artificial-intelligence-ai-for-predictive-maintenance)
 
 ### TypeScript: Deep Dive
 
