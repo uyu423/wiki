@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T08:52:28.078Z
+date: 2023-01-30T08:53:14.650Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -26,7 +26,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Microservices Architecture with Spring Boot](/Knowledge-base/Spring-Boot/microservices-architecture-with-spring-boot)
 - [x] [Spring Boot in the Cloud](/Knowledge-base/Spring-Boot/spring-boot-in-the-cloud)
 - [x] [The Power of Actuator in Spring Boot](/Knowledge-base/Spring-Boot/the-power-of-actuator-in-spring-boot)
-- [ ] Auto-configuration in Spring Boot: A Deep Dive|Spring-Boot
+- [x] [Auto-configuration in Spring Boot: A Deep Dive](/Knowledge-base/Spring-Boot/auto-configuration-in-spring-boot-a-deep-dive)
 - [ ] Spring Data JPA: Simplifying Data Access|Spring-Boot
 - [ ] Spring Data MongoDB: NoSQL Solutions|Spring-Boot
 - [ ] Exposing RESTful Services with Spring Data REST|Spring-Boot
