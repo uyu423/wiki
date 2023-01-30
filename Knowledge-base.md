@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T21:43:23.946Z
+date: 2023-01-30T21:57:34.242Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -431,7 +431,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] AWS CloudWatch: Monitoring and Debugging Cloud Applications|Cloud
 - [ ] AWS CloudTrail: Logging AWS API Calls for Compliance and Auditing|Cloud
 - [x] [AWS Elasticache: Scaling Memcached or Redis Caching for Web Applications](/Knowledge-base/Cloud/aws-elasticache-scaling-memcached-or-redis-caching-for-web-applications)
-- [ ] AWS SES: Sending and Receiving Emails with Simple Email Service|Cloud
+- [x] [AWS SES: Sending and Receiving Emails with Simple Email Service](/Knowledge-base/Cloud/aws-ses-sending-and-receiving-emails-with-simple-email-service)
 - [ ] AWS SNS & SQS: Building a Message Broker System in the Cloud|Cloud
 - [ ] AWS Glue: Automating Data Processing and ETL in the Cloud|Cloud
 - [ ] AWS Redshift: Scaling Data Warehousing with a Fully Managed Service|Cloud
