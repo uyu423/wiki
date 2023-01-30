@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T16:05:41.284Z
+date: 2023-01-30T16:17:30.963Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -698,7 +698,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Building Multiplayer Games with TypeScript and WebSockets|TypeScript
 - [ ] Using TypeScript with Mongoose for MongoDB Data Management|TypeScript
 - [ ] Building Image and Video Processing Applications with TypeScript and Node.js|TypeScript
-- [ ] Integrating TypeScript with Twilio for SMS and Voice Communications|TypeScript
+- [x] [Integrating TypeScript with Twilio for SMS and Voice Communications](/Knowledge-base/TypeScript/integrating-typescript-with-twilio-for-sms-and-voice-communications)
 - [ ] Working with Asynchronous Programming in TypeScript and Node.js|TypeScript
 - [ ] Building Augmented Reality Applications with TypeScript and Three.js|TypeScript
 - [ ] Using TypeScript with NeDB for Lightweight NoSQL Database|TypeScript
