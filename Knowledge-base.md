@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T15:43:36.708Z
+date: 2023-01-30T15:57:37.688Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1126,7 +1126,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Content Management System|Dictionary
 - [ ] WordPress|Dictionary
 - [ ] Drupal|Dictionary
-- [ ] Joomla|Dictionary
+- [x] [Joomla](/Knowledge-base/Dictionary/joomla)
 - [ ] Sitecore|Dictionary
 - [ ] Adobe Experience Manager|Dictionary
 - [ ] Content Delivery Network|Dictionary
