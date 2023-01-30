@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T14:32:43.597Z
+date: 2023-01-30T14:41:04.801Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -712,5 +712,428 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] ORM for Better Data Management in Backend Development|Backend
 - [ ] Database Migration for Improved Data Management.|Backend
 
+
 ## Dictionary
 
+- [ ] Agile|Dictionary
+- [ ] Scrum|Dictionary
+- [ ] Cloud Computing|Dictionary
+- [ ] DevOps|Dictionary
+- [ ] UX/UI Design|Dictionary
+- [ ] AI/ML|Dictionary
+- [ ] Blockchain|Dictionary
+- [ ] Full-Stack Development|Dictionary
+- [ ] Prototyping|Dictionary
+- [ ] Lean Startup|Dictionary
+- [ ] SaaS|Dictionary
+- [ ] PaaS|Dictionary
+- [ ] IaaS|Dictionary
+- [ ] API|Dictionary
+- [ ] CI/CD|Dictionary
+- [ ] Code Review|Dictionary
+- [ ] Version Control|Dictionary
+- [ ] Responsive Design|Dictionary
+- [ ] Data Science|Dictionary
+- [ ] Big Data|Dictionary
+- [ ] Cybersecurity|Dictionary
+- [ ] Web Development|Dictionary
+- [ ] Mobile Development|Dictionary
+- [ ] Software Engineering|Dictionary
+- [ ] Systems Architecture|Dictionary
+- [ ] Database Management|Dictionary
+- [ ] Network Engineering|Dictionary
+- [ ] Quality Assurance|Dictionary
+- [ ] Project Management|Dictionary
+- [ ] Business Analysis|Dictionary
+- [ ] Business Intelligence|Dictionary
+- [ ] Software Testing|Dictionary
+- [ ] User Research|Dictionary
+- [ ] Product Management|Dictionary
+- [ ] Marketing Automation|Dictionary
+- [ ] Digital Transformation|Dictionary
+- [ ] Enterprise Architecture|Dictionary
+- [ ] User Experience|Dictionary
+- [ ] Business Process Automation|Dictionary
+- [ ] Information Architecture|Dictionary
+- [ ] Content Management|Dictionary
+- [ ] Service Design|Dictionary
+- [ ] Product Design|Dictionary
+- [ ] Interaction Design|Dictionary
+- [ ] Industrial Design|Dictionary
+- [ ] User-Centered Design|Dictionary
+- [ ] Human-Computer Interaction|Dictionary
+- [ ] User Interface|Dictionary
+- [ ] Accessibility|Dictionary
+- [ ] User Testing|Dictionary
+- [ ] User Acceptance Testing|Dictionary
+- [ ] Performance Testing|Dictionary
+- [ ] Stress Testing|Dictionary
+- [ ] Load Testing|Dictionary
+- [ ] Scalability Testing|Dictionary
+- [ ] Compliance Testing|Dictionary
+- [ ] Automated Testing|Dictionary
+- [ ] Penetration Testing|Dictionary
+- [ ] Vulnerability Assessment|Dictionary
+- [ ] Security Testing|Dictionary
+- [ ] Risk Assessment|Dictionary
+- [ ] Threat Modeling|Dictionary
+- [ ] Disaster Recovery|Dictionary
+- [ ] Backup and Recovery|Dictionary
+- [ ] High Availability|Dictionary
+- [ ] Data Backup|Dictionary
+- [ ] Data Recovery|Dictionary
+- [ ] Virtualization|Dictionary
+- [ ] Cloud Migration|Dictionary
+- [ ] Cloud Security|Dictionary
+- [ ] Cloud Computing Services|Dictionary
+- [ ] Infrastructure as a Service|Dictionary
+- [ ] Platform as a Service|Dictionary
+- [ ] Software as a Service|Dictionary
+- [ ] Data Center|Dictionary
+- [ ] Data Warehousing|Dictionary
+- [ ] Data Modeling|Dictionary
+- [ ] Data Analytics|Dictionary
+- [ ] Data Visualization|Dictionary
+- [ ] Data Mining|Dictionary
+- [ ] Data Management|Dictionary
+- [ ] Data Governance|Dictionary
+- [ ] Data Security|Dictionary
+- [ ] Data Privacy|Dictionary
+- [ ] Data Encryption|Dictionary
+- [ ] Data Backup and Recovery|Dictionary
+- [ ] Database Administration|Dictionary
+- [ ] Database Management Systems|Dictionary
+- [ ] SQL|Dictionary
+- [ ] NoSQL|Dictionary
+- [ ] Relational Database|Dictionary
+- [ ] Distributed Database|Dictionary
+- [ ] Graph Database|Dictionary
+- [ ] Key-Value Store|Dictionary
+- [ ] Document Database|Dictionary
+- [ ] Columnar Database|Dictionary
+- [ ] In-Memory Database|Dictionary
+- [ ] Object-Relational Mapping|Dictionary
+- [ ] Network Security|Dictionary
+- [ ] Firewall|Dictionary
+- [ ] Intrusion Detection System|Dictionary
+- [ ] Intrusion Prevention System|Dictionary
+- [ ] Virtual Private Network|Dictionary
+- [ ] Public Key Infrastructure|Dictionary
+- [ ] Certificate Authority|Dictionary
+- [ ] Encryption|Dictionary
+- [ ] Digital Signature|Dictionary
+- [ ] Authentication|Dictionary
+- [ ] Authorization|Dictionary
+- [ ] Access Control|Dictionary
+- [ ] Role-Based Access Control|Dictionary
+- [ ] Multifactor Authentication|Dictionary
+- [ ] Single Sign-On|Dictionary
+- [ ] Web Application Security|Dictionary
+- [ ] Mobile Application Security|Dictionary
+- [ ] Security Auditing|Dictionary
+- [ ] Vulnerability Scanning|Dictionary
+- [ ] Cybercrime|Dictionary
+- [ ] Malware|Dictionary
+- [ ] Phishing|Dictionary
+- [ ] Spoofing|Dictionary
+- [ ] Ransomware|Dictionary
+- [ ] Man-in-the-Middle Attack|Dictionary
+- [ ] Cross-Site Scripting|Dictionary
+- [ ] SQL Injection|Dictionary
+- [ ] Buffer Overflow|Dictionary
+- [ ] Denial-of-Service Attack|Dictionary
+- [ ] Distributed Denial-of-Service Attack|Dictionary
+- [ ] Rootkit|Dictionary
+- [ ] Botnet|Dictionary
+- [ ] Worm|Dictionary
+- [ ] Trojan|Dictionary
+- [ ] Virus|Dictionary
+- [ ] Spyware|Dictionary
+- [ ] Adware|Dictionary
+- [ ] Root Access|Dictionary
+- [ ] Operating System|Dictionary
+- [ ] Linux|Dictionary
+- [ ] Unix|Dictionary
+- [ ] Windows|Dictionary
+- [ ] macOS|Dictionary
+- [ ] Virtual Machine|Dictionary
+- [ ] Hypervisor|Dictionary
+- [ ] Containers|Dictionary
+- [ ] Docker|Dictionary
+- [ ] Kubernetes|Dictionary
+- [ ] Open-Source Software|Dictionary
+- [ ] Proprietary Software|Dictionary
+- [ ] Commercial Software|Dictionary
+- [ ] Freeware|Dictionary
+- [ ] Shareware|Dictionary
+- [ ] Coding Standards|Dictionary
+- [ ] Code Reuse|Dictionary
+- [ ] Object-Oriented Programming|Dictionary
+- [ ] Functional Programming|Dictionary
+- [ ] Procedural Programming|Dictionary
+- [ ] Assembly Language|Dictionary
+- [ ] High-Level Programming Language|Dictionary
+- [ ] Low-Level Programming Language|Dictionary
+- [ ] Compiler|Dictionary
+- [ ] Interpreter|Dictionary
+- [ ] Debugging|Dictionary
+- [ ] Integrated Development Environment|Dictionary
+- [ ] Source Code|Dictionary
+- [ ] Binary Code|Dictionary
+- [ ] Object Code|Dictionary
+- [ ] Library|Dictionary
+- [ ] Framework|Dictionary
+- [ ] Platform|Dictionary
+- [ ] Software Library|Dictionary
+- [ ] Software Platform|Dictionary
+- [ ] Software Development Kit|Dictionary
+- [ ] Application Programming Interface|Dictionary
+- [ ] Software Design Pattern|Dictionary
+- [ ] Model-View-Controller|Dictionary
+- [ ] Service-Oriented Architecture|Dictionary
+- [ ] Microservices|Dictionary
+- [ ] Service Bus|Dictionary
+- [ ] Enterprise Service Bus|Dictionary
+- [ ] Event-Driven Architecture|Dictionary
+- [ ] Domain-Driven Design|Dictionary
+- [ ] Continuous Integration|Dictionary
+- [ ] Continuous Delivery|Dictionary
+- [ ] Continuous Deployment|Dictionary
+- [ ] Continuous Testing|Dictionary
+- [ ] Continuous Monitoring|Dictionary
+- [ ] Continuous Improvement|Dictionary
+- [ ] Incremental Development|Dictionary
+- [ ] Iterative Development|Dictionary
+- [ ] Waterfall Model|Dictionary
+- [ ] Spiral Model|Dictionary
+- [ ] Prototype Model|Dictionary
+- [ ] Development Life Cycle|Dictionary
+- [ ] Software Requirements|Dictionary
+- [ ] User Stories|Dictionary
+- [ ] User Story Mapping|Dictionary
+- [ ] Business Requirements|Dictionary
+- [ ] Technical Requirements|Dictionary
+- [ ] System Requirements|Dictionary
+- [ ] System Integration Testing|Dictionary
+- [ ] Unit Testing|Dictionary
+- [ ] Test-Driven Development|Dictionary
+- [ ] Behavior-Driven Development|Dictionary
+- [ ] Acceptance Criteria|Dictionary
+- [ ] Test Cases|Dictionary
+- [ ] Test Plan|Dictionary
+- [ ] Test Automation|Dictionary
+- [ ] Regression Testing|Dictionary
+- [ ] Usability Testing|Dictionary
+- [ ] Accessibility Testing|Dictionary
+- [ ] Ethical Hacking|Dictionary
+- [ ] Bug Tracking|Dictionary
+- [ ] Defect Tracking|Dictionary
+- [ ] Issue Tracking|Dictionary
+- [ ] Agile Project Management|Dictionary
+- [ ] Kanban|Dictionary
+- [ ] Lean Project Management|Dictionary
+- [ ] Project Plan|Dictionary
+- [ ] Gantt Chart|Dictionary
+- [ ] Resource Allocation|Dictionary
+- [ ] Budgeting|Dictionary
+- [ ] Schedule Management|Dictionary
+- [ ] Risk Management|Dictionary
+- [ ] Change Management|Dictionary
+- [ ] Git|Dictionary
+- [ ] Mercurial|Dictionary
+- [ ] Subversion|Dictionary
+- [ ] Collaboration|Dictionary
+- [ ] Pair Programming|Dictionary
+- [ ] Knowledge Management|Dictionary
+- [ ] Configuration Management|Dictionary
+- [ ] Release Management|Dictionary
+- [ ] Deployment|Dictionary
+- [ ] Rollout|Dictionary
+- [ ] Production Deployment|Dictionary
+- [ ] Continuous Operations|Dictionary
+- [ ] IT Operations|Dictionary
+- [ ] IT Service Management|Dictionary
+- [ ] ITIL|Dictionary
+- [ ] COBIT|Dictionary
+- [ ] Business Continuity|Dictionary
+- [ ] Backup|Dictionary
+- [ ] Recovery|Dictionary
+- [ ] Data Loss Prevention|Dictionary
+- [ ] Identity Management|Dictionary
+- [ ] Identity and Access Management|Dictionary
+- [ ] Federation|Dictionary
+- [ ] Directory Services|Dictionary
+- [ ] LDAP|Dictionary
+- [ ] Active Directory|Dictionary
+- [ ] Domain Name System|Dictionary
+- [ ] DHCP|Dictionary
+- [ ] IP Addressing|Dictionary
+- [ ] Subnetting|Dictionary
+- [ ] Routing|Dictionary
+- [ ] Switching|Dictionary
+- [ ] Intrusion Detection|Dictionary
+- [ ] Intrusion Prevention|Dictionary
+- [ ] Wide Area Network|Dictionary
+- [ ] Local Area Network|Dictionary
+- [ ] Wireless Network|Dictionary
+- [ ] Network Management|Dictionary
+- [ ] Traffic Management|Dictionary
+- [ ] Quality of Service|Dictionary
+- [ ] Bandwidth Management|Dictionary
+- [ ] Public Cloud|Dictionary
+- [ ] Private Cloud|Dictionary
+- [ ] Hybrid Cloud|Dictionary
+- [ ] Function as a Service|Dictionary
+- [ ] Database as a Service|Dictionary
+- [ ] Backup as a Service|Dictionary
+- [ ] Disaster Recovery as a Service|Dictionary
+- [ ] Infrastructure Management|Dictionary
+- [ ] Virtualization Management|Dictionary
+- [ ] Containerization|Dictionary
+- [ ] Serverless|Dictionary
+- [ ] Functionality|Dictionary
+- [ ] REST|Dictionary
+- [ ] SOAP|Dictionary
+- [ ] GraphQL|Dictionary
+- [ ] Web Services|Dictionary
+- [ ] Distributed Systems|Dictionary
+- [ ] Cloud Storage|Dictionary
+- [ ] Object Storage|Dictionary
+- [ ] Block Storage|Dictionary
+- [ ] File Storage|Dictionary
+- [ ] Backup Solutions|Dictionary
+- [ ] Data Replication|Dictionary
+- [ ] Redundancy|Dictionary
+- [ ] Scalability|Dictionary
+- [ ] Elasticity|Dictionary
+- [ ] Front-End Development|Dictionary
+- [ ] Back-End Development|Dictionary
+- [ ] HTML|Dictionary
+- [ ] CSS|Dictionary
+- [ ] JavaScript|Dictionary
+- [ ] jQuery|Dictionary
+- [ ] Angular|Dictionary
+- [ ] React|Dictionary
+- [ ] Vue.js|Dictionary
+- [ ] TypeScript|Dictionary
+- [ ] Ruby|Dictionary
+- [ ] Python|Dictionary
+- [ ] PHP|Dictionary
+- [ ] Java|Dictionary
+- [ ] C#|Dictionary
+- [ ] Swift|Dictionary
+- [ ] Kotlin|Dictionary
+- [ ] Go|Dictionary
+- [ ] Rust|Dictionary
+- [ ] Database Development|Dictionary
+- [ ] MySQL|Dictionary
+- [ ] PostgreSQL|Dictionary
+- [ ] MongoDB|Dictionary
+- [ ] Cassandra|Dictionary
+- [ ] Redis|Dictionary
+- [ ] Graph Databases|Dictionary
+- [ ] Machine Learning|Dictionary
+- [ ] Artificial Intelligence|Dictionary
+- [ ] Deep Learning|Dictionary
+- [ ] Natural Language Processing|Dictionary
+- [ ] Computer Vision|Dictionary
+- [ ] Robotics|Dictionary
+- [ ] Internet of Things|Dictionary
+- [ ] Embedded Systems|Dictionary
+- [ ] Wearable Technology|Dictionary
+- [ ] Augmented Reality|Dictionary
+- [ ] Virtual Reality|Dictionary
+- [ ] Game Development|Dictionary
+- [ ] iOS Development|Dictionary
+- [ ] Android Development|Dictionary
+- [ ] Cross-Platform Development|Dictionary
+- [ ] React Native|Dictionary
+- [ ] Flutter|Dictionary
+- [ ] Xamarin|Dictionary
+- [ ] Hybrid Mobile Development|Dictionary
+- [ ] Progressive Web Apps|Dictionary
+- [ ] Mobile Application Testing|Dictionary
+- [ ] User Experience Design|Dictionary
+- [ ] User Interface Design|Dictionary
+- [ ] Visual Design|Dictionary
+- [ ] Web Design|Dictionary
+- [ ] Graphic Design|Dictionary
+- [ ] Branding|Dictionary
+- [ ] Marketing|Dictionary
+- [ ] Digital Marketing|Dictionary
+- [ ] Search Engine Optimization|Dictionary
+- [ ] Pay-Per-Click Advertising|Dictionary
+- [ ] Social Media Marketing|Dictionary
+- [ ] Content Marketing|Dictionary
+- [ ] Email Marketing|Dictionary
+- [ ] Influencer Marketing|Dictionary
+- [ ] Affiliate Marketing|Dictionary
+- [ ] Video Marketing|Dictionary
+- [ ] Content Management System|Dictionary
+- [ ] WordPress|Dictionary
+- [ ] Drupal|Dictionary
+- [ ] Joomla|Dictionary
+- [ ] Sitecore|Dictionary
+- [ ] Adobe Experience Manager|Dictionary
+- [ ] Content Delivery Network|Dictionary
+- [ ] DNS|Dictionary
+- [ ] IP Address|Dictionary
+- [ ] Domain Name|Dictionary
+- [ ] URL|Dictionary
+- [ ] HTTP|Dictionary
+- [ ] HTTPS|Dictionary
+- [ ] Web Hosting|Dictionary
+- [ ] Shared Hosting|Dictionary
+- [ ] VPS Hosting|Dictionary
+- [ ] Dedicated Hosting|Dictionary
+- [ ] Cloud Hosting|Dictionary
+- [ ] Colocation Hosting|Dictionary
+- [ ] Load Balancing|Dictionary
+- [ ] VPN|Dictionary
+- [ ] Remote Desktop Protocol|Dictionary
+- [ ] Remote Access|Dictionary
+- [ ] Remote Work|Dictionary
+- [ ] Telecommuting|Dictionary
+- [ ] Digital Certificate|Dictionary
+- [ ] Two-Factor Authentication|Dictionary
+- [ ] User Management|Dictionary
+- [ ] Compliance|Dictionary
+- [ ] Privacy|Dictionary
+- [ ] Data Protection|Dictionary
+- [ ] General Data Protection Regulation|Dictionary
+- [ ] California Consumer Privacy Act|Dictionary
+- [ ] Physical Security|Dictionary
+- [ ] Incident Response|Dictionary
+- [ ] Disaster Recovery Plan|Dictionary
+- [ ] Business Continuity Plan|Dictionary
+- [ ] Waterfall|Dictionary
+- [ ] Hybrid Project Management|Dictionary
+- [ ] Project Planning|Dictionary
+- [ ] Project Budgeting|Dictionary
+- [ ] Project Scheduling|Dictionary
+- [ ] Project Monitoring|Dictionary
+- [ ] Project Tracking|Dictionary
+- [ ] Project Review|Dictionary
+- [ ] Project Retrospective|Dictionary
+- [ ] Project Portfolio Management|Dictionary
+- [ ] Program Management|Dictionary
+- [ ] Portfolio Management|Dictionary
+- [ ] Stakeholder Management|Dictionary
+- [ ] Team Management|Dictionary
+- [ ] Human Resource Management|Dictionary
+- [ ] Talent Acquisition|Dictionary
+- [ ] Talent Development|Dictionary
+- [ ] Performance Management|Dictionary
+- [ ] Succession Planning|Dictionary
+- [ ] Employee Engagement|Dictionary
+- [ ] Employee Retention|Dictionary
+- [ ] Employee Benefits|Dictionary
+- [ ] Health Insurance|Dictionary
+- [ ] Life Insurance|Dictionary
+- [ ] Retirement Plans|Dictionary
+- [ ] Stock Options|Dictionary
+- [ ] Employee Referral Program|Dictionary
+- [ ] Employee Recognition|Dictionary
+- [ ] Employee Training and Development|Dictionary
+- [ ] Organizational Culture|Dictionary
+- [ ] Employee Satisfaction Survey|Dictionary
