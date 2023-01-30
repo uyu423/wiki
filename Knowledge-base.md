@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T16:17:30.963Z
+date: 2023-01-30T16:23:42.930Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1006,7 +1006,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Production Deployment|Dictionary
 - [ ] Continuous Operations|Dictionary
 - [ ] IT Operations|Dictionary
-- [ ] IT Service Management|Dictionary
+- [x] [IT Service Management](/Knowledge-base/Dictionary/it-service-management)
 - [ ] ITIL|Dictionary
 - [ ] COBIT|Dictionary
 - [ ] Business Continuity|Dictionary
