@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T22:05:11.183Z
+date: 2023-01-30T22:18:06.275Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -254,7 +254,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and HTTPS: Advanced Topics and Best Practices|Kotlin
 - [ ] Kotlin Encryption: Advanced Topics and Best Practices|Kotlin
 - [ ] Kotlin Hashing: Advanced Topics and Best Practices|Kotlin
-- [ ] Kotlin and JWT: Advanced Topics and Best Practices|Kotlin
+- [x] [Kotlin and JWT: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-jwt-advanced-topics-and-best-practices)
 - [ ] Kotlin and OAuth: Advanced Topics and Best Practices|Kotlin
 - [ ] Kotlin and Token-based Authentication: Advanced Topics and Best Practices|Kotlin
 - [ ] Kotlin and Session Management: Advanced Topics and Best Practices|Kotlin
