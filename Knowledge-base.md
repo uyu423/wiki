@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T03:16:21.511Z
+date: 2023-01-30T03:32:22.754Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -294,7 +294,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Implementing A/B Testing for Backend Applications|Backend
 - [ ] Real-time Communication with Socket.io|Backend
 - [ ] Building NoSQL Applications with MongoDB|Backend
-- [ ] Setting up a Web Server with nginx and Apache2|Backend
+- [x] [Setting up a Web Server with nginx and Apache2](/Knowledge-base/Backend/setting-up-a-web-server-with-nginx-and-apache2)
 - [ ] Securing Backend Applications with SSL|Backend
 - [ ] Designing Databases for Scalable Applications|Backend
 - [ ] Implementing Domain Driven Development (DDD) for Backend|Backend
