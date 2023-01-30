@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T01:11:48.544Z
+date: 2023-01-30T01:13:12.318Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -19,7 +19,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Getting Started with Dependency Injection in Spring Boot](/Knowledge-base/Spring-Boot/getting-started-with-dependency-injection-in-spring-boot)
 - [x] [Effective Bean Configuration in Spring Boot](/Knowledge-base/Spring-Boot/effective-bean-configuration-in-spring-boot)
 - [x] [Building a REST API with Spring MVC](/Knowledge-base/Spring-Boot/building-a-rest-api-with-spring-mvc)
-- [x] [Data Access Made Easy with JPA and Hibernate](/Knowledge-base/Spring-Boot/data-access-made-easy-with-jpa-and-hibernate)
+- [x] Quick Started with JPA and Hibernate|Spring-Boot
 - [x] [Transactions Management in Spring Boot](/Knowledge-base/Spring-Boot/transactions-management-in-spring-boot)
 - [ ] Securing Your Spring Boot Application|Spring-Boot
 - [ ] AOP: Aspect-Oriented Programming in Spring Boot|Spring-Boot
