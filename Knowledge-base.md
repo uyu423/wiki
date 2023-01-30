@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T16:23:42.930Z
+date: 2023-01-30T16:36:33.654Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1163,7 +1163,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Waterfall|Dictionary
 - [ ] Hybrid Project Management|Dictionary
 - [ ] Project Planning|Dictionary
-- [ ] Project Budgeting|Dictionary
+- [x] [Project Budgeting](/Knowledge-base/Dictionary/project-budgeting)
 - [ ] Project Scheduling|Dictionary
 - [ ] Project Monitoring|Dictionary
 - [ ] Project Tracking|Dictionary
