@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T13:32:58.490Z
+date: 2023-01-30T13:54:47.689Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -224,7 +224,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin Microservices Architecture: Best Practices|Kotlin
 - [ ] Kotlin MVC Architecture: Advanced Topics and Best Practices|Kotlin
 - [ ] Kotlin and Spring Boot: Advanced Topics and Best Practices|Kotlin
-- [ ] Kotlin and Spring Data: Advanced Topics and Best Practices|Kotlin
+- [x] [Kotlin and Spring Data: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-spring-data-advanced-topics-and-best-practices)
 - [x] [Kotlin Security: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-security-advanced-topics-and-best-practices)
 - [ ] Kotlin and HTTPS: Advanced Topics and Best Practices|Kotlin
 - [ ] Kotlin Encryption: Advanced Topics and Best Practices|Kotlin
