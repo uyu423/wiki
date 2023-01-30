@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T17:38:01.206Z
+date: 2023-01-30T17:43:28.869Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -725,7 +725,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Redhat|Dictionary
 - [ ] Amazon|Dictionary
 - [ ] Tesla|Dictionary
-- [ ] Open AI|Dictionary
+- [x] [Open AI](/Knowledge-base/Dictionary/open-ai)
 - [ ] Google|Dictionary
 - [ ] Apple (Company)|Dictionary
 - [ ] Facebook|Dictionary
