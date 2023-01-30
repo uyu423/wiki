@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T17:43:28.869Z
+date: 2023-01-30T17:57:36.039Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1165,7 +1165,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Project Planning|Dictionary
 - [x] [Project Budgeting](/Knowledge-base/Dictionary/project-budgeting)
 - [ ] Project Scheduling|Dictionary
-- [ ] Project Monitoring|Dictionary
+- [x] [Project Monitoring](/Knowledge-base/Dictionary/project-monitoring)
 - [ ] Project Tracking|Dictionary
 - [ ] Project Review|Dictionary
 - [ ] Project Retrospective|Dictionary
