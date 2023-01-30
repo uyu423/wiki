@@ -2,13 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T11:54:06.562Z
+date: 2023-01-30T11:54:59.462Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [x] [Github](/Knowledge-base/Dictionary/github)
+- [ ] Github|Dictionary
 - [x] [migrating-to-typescript-for-node-js-development](/ko/Knowledge-base/Backend/migrating-to-typescript-for-node-js-development)
 - [x] [building-real-time-applications-with-socket-io](/ko/Knowledge-base/Backend/building-real-time-applications-with-socket-io)
 - [x] [setting-up-a-backend-system-with-spring-boot](/ko/Knowledge-base/Backend/setting-up-a-backend-system-with-spring-boot)
@@ -251,7 +251,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and JSON: Processing and Generating JSON Data|Kotlin
 - [x] [Kotlin and XML: Parsing and Generating XML Data](/Knowledge-base/Kotlin/kotlin-and-xml-parsing-and-generating-xml-data)
 - [ ] Kotlin and Test Driven Development (TDD): A Hands-on Guide|Kotlin
-- [ ] Kotlin and Continuous Deployment: Automating Your Deployment Workflow|Kotlin
+- [x] [Kotlin and Continuous Deployment: Automating Your Deployment Workflow](/Knowledge-base/Kotlin/kotlin-and-continuous-deployment-automating-your-deployment-workflow)
 - [ ] Kotlin and Kubernetes: Deploying and Scaling Your Applications|Kotlin
 - [ ] Kotlin and Docker: Packaging and Running Your Applications|Kotlin
 - [ ] Kotlin and Jenkins: Automating Your Build and Deployment Workflow|Kotlin
