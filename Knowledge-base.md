@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T13:54:47.689Z
+date: 2023-01-30T14:14:42.964Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -380,78 +380,77 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Database Migration for Improved Data Management.|Backend
 
 ### Cloud
-
-- [ ] AWS Elastic Beanstalk: Deploying and Scaling a Simple Web Application:Cloud
-- [ ] AWS Lambda: Building Serverless Functions for Event-Driven Applications:Cloud
-- [ ] AWS DynamoDB: Creating a NoSQL Database and Integrating with a Web Application:Cloud
-- [ ] AWS S3: Storing and Retrieving Files in the Cloud:Cloud
-- [ ] AWS RDS: Setting Up a Relational Database in the Cloud:Cloud
-- [ ] AWS EC2: Launching and Configuring a Virtual Machine in the Cloud:Cloud
-- [ ] AWS VPC: Securing a Web Application with Virtual Private Clouds:Cloud
-- [ ] AWS SNS: Building a Pub/Sub Notification System in the Cloud:Cloud
-- [ ] AWS SQS: Building a Distributed Task Queue System in the Cloud:Cloud
-- [ ] AWS IAM: Managing User Access and Permissions in the Cloud:Cloud
-- [ ] AWS Kinesis: Processing Real-Time Streaming Data in the Cloud:Cloud
-- [ ] AWS CloudFormation: Automating Cloud Infrastructure Deployment:Cloud
-- [ ] AWS ECS: Deploying and Managing Docker Containers in the Cloud:Cloud
-- [ ] AWS Route 53: Building a Scalable and Resilient DNS System in the Cloud:Cloud
-- [ ] AWS CloudFront: Improving Content Delivery with a CDN:Cloud
-- [ ] AWS WAF: Securing Web Applications with Firewall Rules:Cloud
-- [ ] AWS Certificate Manager: Managing SSL Certificates for Secure Web Applications:Cloud
-- [ ] AWS Elastic Load Balancer: Scaling and Load Balancing Applications in the Cloud:Cloud
-- [ ] AWS Direct Connect: Building High-Speed Network Connections to the Cloud:Cloud
-- [ ] AWS Elastic IPs: Allocating Static IP Addresses for Cloud Resources:Cloud
-- [ ] AWS Auto Scaling: Automatically Scaling Cloud Resources Based on Load:Cloud
-- [ ] AWS CloudWatch: Monitoring and Debugging Cloud Applications:Cloud
-- [ ] AWS CloudTrail: Logging AWS API Calls for Compliance and Auditing:Cloud
-- [ ] AWS Elasticache: Scaling Memcached or Redis Caching for Web Applications:Cloud
-- [ ] AWS SES: Sending and Receiving Emails with Simple Email Service:Cloud
-- [ ] AWS SNS & SQS: Building a Message Broker System in the Cloud:Cloud
-- [ ] AWS Glue: Automating Data Processing and ETL in the Cloud:Cloud
-- [ ] AWS Redshift: Scaling Data Warehousing with a Fully Managed Service:Cloud
-- [ ] AWS Athena: Running SQL Queries on S3 Data with Serverless Computing:Cloud
-- [ ] AWS QuickSight: Visualizing and Analyzing Big Data in the Cloud:Cloud
-- [ ] AWS SageMaker: Building and Deploying Machine Learning Models in the Cloud:Cloud
-- [ ] AWS Comprehend: Analyzing Text Data with Natural Language Processing:Cloud
-- [ ] AWS Rekognition: Analyzing Image and Video Data with Computer Vision:Cloud
-- [ ] AWS Transcribe: Automating Speech-to-Text Transcription in the Cloud:Cloud
-- [ ] AWS Translate: Translating Text Across Languages in the Cloud:Cloud
-- [ ] AWS Polly: Generating Speech from Text with Text-to-Speech Technology:Cloud
-- [ ] AWS Lightsail: Launching Simple Websites and Applications with a Fully Managed PaaS:Cloud
-- [ ] AWS Fargate: Running Containers without Managing Infrastructure:Cloud
-- [ ] Debugging Cloud Services: Best Practices for AWS and Azure:Cloud
-- [ ] Scaling Your Cloud Services: Best Practices for AWS and Azure:Cloud
-- [ ] Managing Access and Security for Cloud Services:Cloud
-- [ ] Continuous Deployment with AWS and Azure:Cloud
-- [ ] Improving Performance of Cloud Services on AWS and Azure:Cloud
-- [ ] Cost Optimization for Cloud Services on AWS and Azure:Cloud
-- [ ] Integrating Cloud Services with On-Premises Systems:Cloud
-- [ ] Automated Testing for Cloud Services on AWS and Azure:Cloud
-- [ ] Case Study: Developing and Launching a Simple e-Commerce Service on AWS:Cloud
-- [ ] Case Study: Developing and Launching a Simple Chat Application on Azure:Cloud
-- [ ] Best Practices for Cloud DevOps on AWS and Azure:Cloud
-- [ ] Migrating Existing Applications to the Cloud on AWS and Azure:Cloud
-- [ ] Best Practices for Monitoring and Logging Cloud Services on AWS and Azure":Cloud
-- [ ] Introduction to Serverless Architecture on AWS and Azure:Cloud
-- [ ] Building Microservices on AWS and Azure:Cloud
-- [ ] Managing Stateful Applications on AWS and Azure:Cloud
-- [ ] Dealing with Latency and Networking Issues in the Cloud:Cloud
-- [ ] Implementing Disaster Recovery and Business Continuity on AWS and Azure:Cloud
-- [ ] Integrating Cloud Services with External APIs and Services:Cloud
-- [ ] Securing Data in the Cloud on AWS and Azure:Cloud
-- [ ] Continuous Integration and Continuous Deployment on AWS and Azure:Cloud
-- [ ] Managing Application Life Cycle on AWS and Azure:Cloud
-- [ ] Optimizing Resource Usage and Cost on AWS and Azure:Cloud
-- [ ] Working with AWS and Azure Databases:Cloud
-- [ ] Using AWS and Azure for Machine Learning and AI Workloads:Cloud
-- [ ] Integrating Cloud Services with DevOps Toolchains:Cloud
-- [ ] Exploring Advanced Features of AWS and Azure for IT Services:Cloud
-- [ ] Building Hybrid Clouds with AWS and Azure:Cloud
-- [ ] Managing Compliance and Governance on AWS and Azure:Cloud
-- [ ] Troubleshooting Common Issues with Cloud Services on AWS and Azure:Cloud
-- [ ] Building High-Availability and Scalable Services on AWS and Azure:Cloud
-- [ ] Developing Multi-Region Applications on AWS and Azure:Cloud
-- [ ] Using AWS and Azure for Edge Computing and IoT Workloads":Cloud
+- [ ] AWS Elastic Beanstalk: Deploying and Scaling a Simple Web Application|Cloud
+- [ ] AWS Lambda: Building Serverless Functions for Event-Driven Applications|Cloud
+- [ ] AWS DynamoDB: Creating a NoSQL Database and Integrating with a Web Application|Cloud
+- [ ] AWS S3: Storing and Retrieving Files in the Cloud|Cloud
+- [ ] AWS RDS: Setting Up a Relational Database in the Cloud|Cloud
+- [ ] AWS EC2: Launching and Configuring a Virtual Machine in the Cloud|Cloud
+- [ ] AWS VPC: Securing a Web Application with Virtual Private Clouds|Cloud
+- [ ] AWS SNS: Building a Pub/Sub Notification System in the Cloud|Cloud
+- [ ] AWS SQS: Building a Distributed Task Queue System in the Cloud|Cloud
+- [ ] AWS IAM: Managing User Access and Permissions in the Cloud|Cloud
+- [ ] AWS Kinesis: Processing Real-Time Streaming Data in the Cloud|Cloud
+- [ ] AWS CloudFormation: Automating Cloud Infrastructure Deployment|Cloud
+- [ ] AWS ECS: Deploying and Managing Docker Containers in the Cloud|Cloud
+- [ ] AWS Route 53: Building a Scalable and Resilient DNS System in the Cloud|Cloud
+- [ ] AWS CloudFront: Improving Content Delivery with a CDN|Cloud
+- [ ] AWS WAF: Securing Web Applications with Firewall Rules|Cloud
+- [ ] AWS Certificate Manager: Managing SSL Certificates for Secure Web Applications|Cloud
+- [ ] AWS Elastic Load Balancer: Scaling and Load Balancing Applications in the Cloud|Cloud
+- [ ] AWS Direct Connect: Building High-Speed Network Connections to the Cloud|Cloud
+- [ ] AWS Elastic IPs: Allocating Static IP Addresses for Cloud Resources|Cloud
+- [ ] AWS Auto Scaling: Automatically Scaling Cloud Resources Based on Load|Cloud
+- [ ] AWS CloudWatch: Monitoring and Debugging Cloud Applications|Cloud
+- [ ] AWS CloudTrail: Logging AWS API Calls for Compliance and Auditing|Cloud
+- [ ] AWS Elasticache: Scaling Memcached or Redis Caching for Web Applications|Cloud
+- [ ] AWS SES: Sending and Receiving Emails with Simple Email Service|Cloud
+- [ ] AWS SNS & SQS: Building a Message Broker System in the Cloud|Cloud
+- [ ] AWS Glue: Automating Data Processing and ETL in the Cloud|Cloud
+- [ ] AWS Redshift: Scaling Data Warehousing with a Fully Managed Service|Cloud
+- [ ] AWS Athena: Running SQL Queries on S3 Data with Serverless Computing|Cloud
+- [ ] AWS QuickSight: Visualizing and Analyzing Big Data in the Cloud|Cloud
+- [ ] AWS SageMaker: Building and Deploying Machine Learning Models in the Cloud|Cloud
+- [ ] AWS Comprehend: Analyzing Text Data with Natural Language Processing|Cloud
+- [ ] AWS Rekognition: Analyzing Image and Video Data with Computer Vision|Cloud
+- [ ] AWS Transcribe: Automating Speech-to-Text Transcription in the Cloud|Cloud
+- [ ] AWS Translate: Translating Text Across Languages in the Cloud|Cloud
+- [ ] AWS Polly: Generating Speech from Text with Text-to-Speech Technology|Cloud
+- [ ] AWS Lightsail: Launching Simple Websites and Applications with a Fully Managed PaaS|Cloud
+- [ ] AWS Fargate: Running Containers without Managing Infrastructure|Cloud
+- [ ] Debugging Cloud Services: Best Practices for AWS and Azure|Cloud
+- [ ] Scaling Your Cloud Services: Best Practices for AWS and Azure|Cloud
+- [ ] Managing Access and Security for Cloud Services|Cloud
+- [ ] Continuous Deployment with AWS and Azure|Cloud
+- [ ] Improving Performance of Cloud Services on AWS and Azure|Cloud
+- [ ] Cost Optimization for Cloud Services on AWS and Azure|Cloud
+- [ ] Integrating Cloud Services with On-Premises Systems|Cloud
+- [ ] Automated Testing for Cloud Services on AWS and Azure|Cloud
+- [ ] Case Study: Developing and Launching a Simple e-Commerce Service on AWS|Cloud
+- [ ] Case Study: Developing and Launching a Simple Chat Application on Azure|Cloud
+- [ ] Best Practices for Cloud DevOps on AWS and Azure|Cloud
+- [ ] Migrating Existing Applications to the Cloud on AWS and Azure|Cloud
+- [ ] Best Practices for Monitoring and Logging Cloud Services on AWS and Azure"|Cloud
+- [ ] Introduction to Serverless Architecture on AWS and Azure|Cloud
+- [ ] Building Microservices on AWS and Azure|Cloud
+- [ ] Managing Stateful Applications on AWS and Azure|Cloud
+- [ ] Dealing with Latency and Networking Issues in the Cloud|Cloud
+- [ ] Implementing Disaster Recovery and Business Continuity on AWS and Azure|Cloud
+- [ ] Integrating Cloud Services with External APIs and Services|Cloud
+- [ ] Securing Data in the Cloud on AWS and Azure|Cloud
+- [ ] Continuous Integration and Continuous Deployment on AWS and Azure|Cloud
+- [ ] Managing Application Life Cycle on AWS and Azure|Cloud
+- [ ] Optimizing Resource Usage and Cost on AWS and Azure|Cloud
+- [ ] Working with AWS and Azure Databases|Cloud
+- [ ] Using AWS and Azure for Machine Learning and AI Workloads|Cloud
+- [ ] Integrating Cloud Services with DevOps Toolchains|Cloud
+- [ ] Exploring Advanced Features of AWS and Azure for IT Services|Cloud
+- [ ] Building Hybrid Clouds with AWS and Azure|Cloud
+- [ ] Managing Compliance and Governance on AWS and Azure|Cloud
+- [ ] Troubleshooting Common Issues with Cloud Services on AWS and Azure|Cloud
+- [ ] Building High-Availability and Scalable Services on AWS and Azure|Cloud
+- [ ] Developing Multi-Region Applications on AWS and Azure|Cloud
+- [ ] Using AWS and Azure for Edge Computing and IoT Workloads|Cloud
 
 ### Common
 
