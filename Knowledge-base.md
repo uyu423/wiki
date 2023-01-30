@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T22:23:42.071Z
+date: 2023-01-30T22:36:30.822Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -950,7 +950,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Enterprise Service Bus|Dictionary
 - [ ] Event-Driven Architecture|Dictionary
 - [ ] Domain-Driven Design|Dictionary
-- [ ] Continuous Integration|Dictionary
+- [x] [Continuous Integration](/Knowledge-base/Dictionary/continuous-integration)
 - [ ] Continuous Delivery|Dictionary
 - [ ] Continuous Deployment|Dictionary
 - [ ] Continuous Testing|Dictionary
