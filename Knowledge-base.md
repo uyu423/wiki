@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-30T01:05:59.725Z
+date: 2023-01-30T01:11:48.544Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -20,7 +20,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Effective Bean Configuration in Spring Boot](/Knowledge-base/Spring-Boot/effective-bean-configuration-in-spring-boot)
 - [x] [Building a REST API with Spring MVC](/Knowledge-base/Spring-Boot/building-a-rest-api-with-spring-mvc)
 - [x] [Data Access Made Easy with JPA and Hibernate](/Knowledge-base/Spring-Boot/data-access-made-easy-with-jpa-and-hibernate)
-- [ ] Transactions Management in Spring Boot|Spring-Boot
+- [x] [Transactions Management in Spring Boot](/Knowledge-base/Spring-Boot/transactions-management-in-spring-boot)
 - [ ] Securing Your Spring Boot Application|Spring-Boot
 - [ ] AOP: Aspect-Oriented Programming in Spring Boot|Spring-Boot
 - [ ] Microservices Architecture with Spring Boot|Spring-Boot
