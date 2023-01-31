@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T03:43:33.942Z
+date: 2023-01-31T03:57:47.411Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1105,7 +1105,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Data Replication|Dictionary
 - [ ] Redundancy|Dictionary
 - [ ] Scalability|Dictionary
-- [ ] Elasticity|Dictionary
+- [x] [Elasticity](/Knowledge-base/Dictionary/elasticity)
 - [x] [Front-End Development](/Knowledge-base/Dictionary/front-end-development)
 - [ ] Back-End Development|Dictionary
 - [ ] HTML|Dictionary
