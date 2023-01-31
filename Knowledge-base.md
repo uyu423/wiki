@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T16:18:28.949Z
+date: 2023-01-31T16:24:43.032Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -387,7 +387,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and Continuous Deployment: Automating Your Deployment Workflow](/Knowledge-base/Kotlin/kotlin-and-continuous-deployment-automating-your-deployment-workflow)
 - [ ] Kotlin and Kubernetes: Deploying and Scaling Your Applications|Kotlin
 - [ ] Kotlin and Docker: Packaging and Running Your Applications|Kotlin
-- [ ] Kotlin and Jenkins: Automating Your Build and Deployment Workflow|Kotlin
+- [x] [Kotlin and Jenkins: Automating Your Build and Deployment Workflow](/Knowledge-base/Kotlin/kotlin-and-jenkins-automating-your-build-and-deployment-workflow)
 - [ ] Kotlin and IntelliJ: A Guide to the Kotlin Development Environment|Kotlin
 - [ ] Kotlin and Redis: A Guide to Caching and Session Management|Kotlin
 - [ ] Kotlin and MySQL: Connecting to a Relational Database|Kotlin
