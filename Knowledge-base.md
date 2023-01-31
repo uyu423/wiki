@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T05:36:58.615Z
+date: 2023-01-31T05:42:57.082Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -13,7 +13,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [009: Higher-Order Functions in Kotlin: Understanding Lambdas and Anonymous Functions](/Knowledge-base/Kotlin/Learning/009-higher-order-functions-in-kotlin-understanding-lambdas-and-anonymous-functions)
 - [x] [010: Coroutines in Kotlin: Asynchronous Programming Made Easy](/Knowledge-base/Kotlin/Learning/010-coroutines-in-kotlin-asynchronous-programming-made-easy)
 - [x] [011: Properties and Fields in Kotlin: Understanding Getters and Setters](/Knowledge-base/Kotlin/Learning/011-properties-and-fields-in-kotlin-understanding-getters-and-setters)
-- [ ] 012: Interfaces in Kotlin: Implementing Multiple Inheritance|Kotlin/Learning
+- [x] [012: Interfaces in Kotlin: Implementing Multiple Inheritance](/Knowledge-base/Kotlin/Learning/012-interfaces-in-kotlin-implementing-multiple-inheritance)
 - [ ] 013: Sealing Classes in Kotlin: Creating Hierarchies of Classes with Restrictions|Kotlin/Learning
 - [x] [Github](/Knowledge-base/Dictionary/github)
 - [x] [Ubuntu](/Knowledge-base/Dictionary/ubuntu)
