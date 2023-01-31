@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T04:47:34.538Z
+date: 2023-01-31T04:56:32.889Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -198,6 +198,109 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Docker Volume Management: Persisting Data Outside Containers|Docker
 - [ ] Docker Compose Networking: Connecting Containers with Networks|Docker
 - [x] [Docker Compose and Kubernetes: Integrating Your Compose Files with Clusters](/Knowledge-base/Docker/docker-compose-and-kubernetes-integrating-your-compose-files-with-clusters)
+
+## Kotlin/Learnin
+
+- [ ] 001: Introduction to Kotlin: An Overview of the Language|Kotlin/Learning
+- [ ] 002: Getting Started with Kotlin: Setting up Your Development Environment|Kotlin/Learning
+- [ ] 003: Kotlin Basics: Variables, Data Types, and Operators|Kotlin/Learning
+- [ ] 004: Control Flow in Kotlin: if-else Statements, Loops, and When Expressions|Kotlin/Learning
+- [ ] 005: Functions in Kotlin: Defining, Calling, and Returning Values|Kotlin/Learning
+- [ ] 006: Collections in Kotlin: Arrays, Lists, Sets, and Maps|Kotlin/Learning
+- [ ] 007: Object-Oriented Programming in Kotlin: Classes, Objects, and Inheritance|Kotlin/Learning
+- [ ] 008: Null Safety in Kotlin: Understanding the ? Operator and Non-Null Types|Kotlin/Learning
+- [ ] 009: Higher-Order Functions in Kotlin: Understanding Lambdas and Anonymous Functions|Kotlin/Learning
+- [ ] 010: Coroutines in Kotlin: Asynchronous Programming Made Easy|Kotlin/Learning
+- [ ] 011: Properties and Fields in Kotlin: Understanding Getters and Setters|Kotlin/Learning
+- [ ] 012: Interfaces in Kotlin: Implementing Multiple Inheritance|Kotlin/Learning
+- [ ] 013: Sealing Classes in Kotlin: Creating Hierarchies of Classes with Restrictions|Kotlin/Learning
+- [ ] 014: Extensions Functions in Kotlin: Enhancing Classes with Additional Functions|Kotlin/Learning
+- [ ] 015: Nullable Types and Null Safety in Kotlin: Dealing with Null Values|Kotlin/Learning
+- [ ] 016: Exception Handling in Kotlin: Throwing and Catching Exceptions|Kotlin/Learning
+- [ ] 017: Generics in Kotlin: Writing Reusable Code with Type Parameters|Kotlin/Learning
+- [ ] 018: Companion Objects in Kotlin: Static Members in Classes|Kotlin/Learning
+- [ ] 019: Data Classes in Kotlin: Automatically Generating Equals, HashCode, and ToString Methods|Kotlin/Learning
+- [ ] 020: Delegated Properties in Kotlin: Implementing Delegation Patterns|Kotlin/Learning
+- [ ] 021: Annotation Processing in Kotlin: Generating Code at Compile Time|Kotlin/Learning
+- [ ] 022: Reflection in Kotlin: Reflecting on Classes, Properties, and Functions at Runtime|Kotlin/Learning
+- [ ] 023: Type Aliases in Kotlin: Shortening Long Class Names|Kotlin/Learning
+- [ ] 024: Enumerations in Kotlin: Creating Lists of Named Values|Kotlin/Learning
+- [ ] 025: Type Inference in Kotlin: Letting the Compiler Infer Types|Kotlin/Learning
+- [ ] 026: Advanced Control Flow in Kotlin: Understanding the with and apply Functions|Kotlin/Learning
+- [ ] 027: Destructuring Declarations in Kotlin: Breaking Down Complex Objects into Variables|Kotlin/Learning
+- [ ] 028: Infix Functions in Kotlin: Calling Functions Like Operators|Kotlin/Learning
+- [ ] 029: Standard Library Functions in Kotlin: Utilizing Commonly Used Functions|Kotlin/Learning
+- [ ] 030: String Templates in Kotlin: Interpolating Strings with Expressions|Kotlin/Learning
+- [ ] 031: Ranges in Kotlin: Representing and Iterating Over Ranges of Values|Kotlin/Learning
+- [ ] 032: Raw Strings in Kotlin: Creating Multi-Line Strings Without Escaping|Kotlin/Learning
+- [ ] 033: Default and Named Arguments in Kotlin: Providing Default Values and Named Parameters|Kotlin/Learning
+- [ ] 034: vararg Functions in Kotlin: Creating Functions that Accept a Variable Number of Arguments|Kotlin/Learning
+- [ ] 035: Tailrec Functions in Kotlin: Optimizing Recursive Functions|Kotlin/Learning
+- [ ] 036: Operator Overloading in Kotlin: Overloading Common Operators for Custom Types|Kotlin/Learning
+- [ ] 037: Inline Functions in Kotlin: Improving Performance with Inlined Functions|Kotlin/Learning
+- [ ] 038: Reified Types in Kotlin: Accessing Types at Runtime|Kotlin/Learning
+- [ ] 039: Constructors in Kotlin: Initializing Classes with Different Constructors|Kotlin/Learning
+- [ ] 040: Companion Objects in Kotlin: Implementing Static Members|Kotlin/Learning
+- [ ] 041: Object Declarations in Kotlin: Creating Singleton Instances|Kotlin/Learning
+- [ ] 042: Sealed Classes in Kotlin: Restricting Class Hierarchies|Kotlin/Learning
+- [ ] 043: Nested and Inner Classes in Kotlin: Creating Classes within Classes|Kotlin/Learning
+- [ ] 044: Anonymous Inner Classes in Kotlin: Creating Classes Without Names|Kotlin/Learning
+- [ ] 045: Local Functions in Kotlin: Creating Functions Within Functions|Kotlin/Learning
+- [ ] 046: SAM (Single Abstract Method) Interfaces in Kotlin: Converting Java Interfaces to Kotlin Interfaces|Kotlin/Learning
+- [ ] 047: Late-initialized Properties in Kotlin: Initializing Properties Lazy and Safe|Kotlin/Learning
+- [ ] 048: The Elvis Operator in Kotlin: Dealing with Null Values in a Compact Way|Kotlin/Learning
+- [ ] 049: Higher-Order Functions and Lambdas in Kotlin: Understanding Closures and Function Types|Kotlin/Learning
+- [ ] 050: Design Patterns in Kotlin: Applying Common Design Patterns to Your Code.|Kotlin/Learning
+- [ ] 051: The Kotlin Standard Library: Utilizing the Built-in Functions and Classes|Kotlin/Learning
+- [ ] 052: Nullability and Null Safety in Kotlin: Managing Null Values in Your Code|Kotlin/Learning
+- [ ] 053: Collection Operations in Kotlin: Sorting, Filtering, and Transforming Collections|Kotlin/Learning
+- [ ] 054: Functions as First-Class Citizens in Kotlin: Understanding Higher-Order Functions|Kotlin/Learning
+- [ ] 055: Delegation in Kotlin: Implementing Delegation Patterns with Delegated Properties|Kotlin/Learning
+- [ ] 056: The When Expression in Kotlin: A Comprehensive Guide|Kotlin/Learning
+- [ ] 057: Exception Handling in Kotlin: Dealing with Errors and Exceptions|Kotlin/Learning
+- [ ] 058: Data Classes in Kotlin: Simplifying Object Declaration with Automatic Methods|Kotlin/Learning
+- [ ] 059: The Builder Pattern in Kotlin: Creating Complex Objects with a Clear Syntax|Kotlin/Learning
+- [ ] 060: Interoperability with Java in Kotlin: Working Seamlessly with Java Code|Kotlin/Learning
+- [ ] 061: The Factory Method Pattern in Kotlin: Creating Objects with a Factory Method|Kotlin/Learning
+- [ ] 062: The Singleton Pattern in Kotlin: Ensuring Only One Instance of a Class Exists|Kotlin/Learning
+- [ ] 063: The Observer Pattern in Kotlin: Implementing the Observer Design Pattern|Kotlin/Learning
+- [ ] 064: The Decorator Pattern in Kotlin: Enhancing Objects with Additional Behavior|Kotlin/Learning
+- [ ] 065: The Template Method Pattern in Kotlin: Defining a Common Algorithm with Custom Steps|Kotlin/Learning
+- [ ] 066: The Prototype Pattern in Kotlin: Creating New Objects from Existing Ones|Kotlin/Learning
+- [ ] 067: The Abstract Factory Pattern in Kotlin: Creating Objects Through Abstract Interfaces|Kotlin/Learning
+- [ ] 068: The Facade Pattern in Kotlin: Providing a Simple Interface to Complex Systems|Kotlin/Learning
+- [ ] 069: The Command Pattern in Kotlin: Encapsulating Invocations as Objects|Kotlin/Learning
+- [ ] 070: The State Pattern in Kotlin: Managing Object States with State Transitions|Kotlin/Learning
+- [ ] 071: The Chain of Responsibility Pattern in Kotlin: Delegating Requests Through a Chain of Objects|Kotlin/Learning
+- [ ] 072: The Mediator Pattern in Kotlin: Encapsulating Object Communication|Kotlin/Learning
+- [ ] 073: The Flyweight Pattern in Kotlin: Sharing Object Instances to Save Memory|Kotlin/Learning
+- [ ] 074: The Proxy Pattern in Kotlin: Providing a Surrogate or Placeholder for Another Object|Kotlin/Learning
+- [ ] 075: Dynamic Programming in Kotlin: Optimizing Recursive Solutions with Memoization|Kotlin/Learning
+- [ ] 076: The Null Object Pattern in Kotlin: Providing a Non-Null Object in Place of Null|Kotlin/Learning
+- [ ] 077: The Memento Pattern in Kotlin: Preserving Object States for Future Restoration|Kotlin/Learning
+- [ ] 078: The Strategy Pattern in Kotlin: Encapsulating Algorithms as Objects|Kotlin/Learning
+- [ ] 079: The Iterator Pattern in Kotlin: Traversing Collections with a Common Interface|Kotlin/Learning
+- [ ] 080: The Visitor Pattern in Kotlin: Separating Algorithms from Data Structures|Kotlin/Learning
+- [ ] 081: Reflection in Kotlin: Understanding the Reflection API for Introspection and Manipulation|Kotlin/Learning
+- [ ] 082: Testing in Kotlin: Writing and Running Tests for Your Kotlin Code|Kotlin/Learning
+- [ ] 083: Advanced Features of Kotlin: Exploring the More Advanced Features of the Language|Kotlin/Learning
+- [ ] 084: Debugging in Kotlin: Debugging Your Kotlin Code with Breakpoints, Watches, and Logs|Kotlin/Learning
+- [ ] 085: The Kotlin Ecosystem: Understanding the Tools and Frameworks Surrounding Kotlin|Kotlin/Learning
+- [ ] 086: Kotlin on Android: Building Android Apps with Kotlin|Kotlin/Learning
+- [ ] 087: Reactive Programming in Kotlin: Writing Reactive Code with Kotlin Flow|Kotlin/Learning
+- [ ] 088: Multiplatform Development in Kotlin: Building Cross-Platform Apps with Kotlin|Kotlin/Learning
+- [ ] 089: DSLs in Kotlin: Creating Domain-Specific Languages with Kotlin|Kotlin/Learning
+- [ ] 090: Annotation Processing in Kotlin: Generating Code at Compile-Time with Annotation Processing|Kotlin/Learning
+- [ ] 091: The Gradle Build System in Kotlin: Building and Managing Projects with Gradle|Kotlin/Learning
+- [ ] 092: The IntelliJ IDEA in Kotlin: Developing Kotlin Code with the IntelliJ IDEA IDE|Kotlin/Learning
+- [ ] 093: Coroutines in Kotlin: Writing Asynchronous and Non-Blocking Code with Coroutines|Kotlin/Learning
+- [ ] 094: Kotlin on the Server: Building Server-Side Applications with Kotlin|Kotlin/Learning
+- [ ] 095: Web Development in Kotlin: Building Web Applications with Kotlin and Spring|Kotlin/Learning
+- [ ] 096: Mobile Development in Kotlin: Building Mobile Apps with Kotlin and Android/iOS|Kotlin/Learning
+- [ ] 097: Game Development in Kotlin: Building Games with Kotlin and LibGDX|Kotlin/Learning
+- [ ] 098: Database Access in Kotlin: Connecting to and Querying Databases with Kotlin|Kotlin/Learning
+- [ ] 099: Network Programming in Kotlin: Making Network Requests and Building Network-based Applications|Kotlin/Learning
+- [ ] 100: Advanced Type System in Kotlin: Exploring the Advanced Features of the Kotlin Type System.|Kotlin/Learning
 
 ## Kotlin
 
