@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T21:57:50.641Z
+date: 2023-01-31T22:05:06.028Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1111,7 +1111,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Continuous Improvement|Dictionary
 - [ ] Incremental Development|Dictionary
 - [ ] Iterative Development|Dictionary
-- [ ] Waterfall Model|Dictionary
+- [x] [Waterfall Model](/Knowledge-base/Dictionary/waterfall-model)
 - [ ] Spiral Model|Dictionary
 - [ ] Prototype Model|Dictionary
 - [ ] Development Life Cycle|Dictionary
