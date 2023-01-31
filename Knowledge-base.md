@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T03:04:25.079Z
+date: 2023-01-31T03:17:30.988Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -342,7 +342,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Validating User Data for Security|Backend
 - [ ] Error Handling Best Practices for Backend Applications|Backend
 - [ ] Logging for Debugging and Monitoring|Backend
-- [ ] Testing Backend Applications with Continuous Integration|Backend
+- [x] [Testing Backend Applications with Continuous Integration](/Knowledge-base/Backend/testing-backend-applications-with-continuous-integration)
 - [ ] Continuous Deployment for Scalable Backend Applications|Backend
 - [ ] Building a Deployment Pipeline for Backend Applications|Backend
 - [ ] DevOps Best Practices for Backend Infrastructure|Backend
