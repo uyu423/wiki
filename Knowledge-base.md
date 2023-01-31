@@ -2,13 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T04:45:28.225Z
+date: 2023-01-31T04:46:02.393Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [ ] Introduction to Kotlin: An Overview of the Language|Kotlin/Learning
+- [x] [Introduction to Kotlin: An Overview of the Language](/Knowledge-base/Kotlin/Learning/introduction-to-kotlin-an-overview-of-the-language)
 - [x] [Github](/Knowledge-base/Dictionary/github)
 - [x] [Ubuntu](/Knowledge-base/Dictionary/ubuntu)
 - [x] [migrating-to-typescript-for-node-js-development](/ko/Knowledge-base/Backend/migrating-to-typescript-for-node-js-development)
