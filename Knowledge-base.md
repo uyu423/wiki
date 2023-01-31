@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T08:07:40.069Z
+date: 2023-01-31T08:15:38.027Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -394,7 +394,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and Flask: Building a Simple Web Application|Kotlin
 - [ ] Kotlin and Django: Building a Web Application with a Python Framework|Kotlin
 - [ ] Kotlin and Laravel: Building a Web Application with a PHP Framework|Kotlin
-- [ ] Kotlin and Ruby on Rails: Building a Web Application with a Ruby Framework|Kotlin
+- [x] [Kotlin and Ruby on Rails: Building a Web Application with a Ruby Framework](/Knowledge-base/Kotlin/kotlin-and-ruby-on-rails-building-a-web-application-with-a-ruby-framework)
 - [x] [Kotlin and TypeScript: Building a Web Application with a JavaScript Framework](/Knowledge-base/Kotlin/kotlin-and-typescript-building-a-web-application-with-a-javascript-framework)
 - [ ] Kotlin and Express.js: Building a Web Application with a Node.js Framework|Kotlin
 - [x] [Kotlin and GraphQL: A Hands-on Guide to Querying APIs](/Knowledge-base/Kotlin/kotlin-and-graphql-a-hands-on-guide-to-querying-apis)
