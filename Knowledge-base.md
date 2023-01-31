@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T10:44:49.916Z
+date: 2023-01-31T10:57:35.929Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -774,7 +774,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Getting Started with TypeScript and Node.js|TypeScript
 - [ ] Building RESTful APIs with Nest.js and TypeScript|TypeScript
 - [x] [Developing CRUD Applications with Express.js and TypeScript](/Knowledge-base/TypeScript/developing-crud-applications-with-express-js-and-typescript)
-- [ ] Creating Real-Time Applications with TypeScript and WebSockets|TypeScript
+- [x] [Creating Real-Time Applications with TypeScript and WebSockets](/Knowledge-base/TypeScript/creating-real-time-applications-with-typescript-and-websockets)
 - [ ] Setting Up TypeScript with Next.js for Server-Side Rendering|TypeScript
 - [ ] Integrating TypeScript with MongoDB for Data Persistence|TypeScript
 - [ ] Using TypeScript with Passport.js for User Authentication|TypeScript
