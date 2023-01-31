@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T11:18:27.568Z
+date: 2023-01-31T11:23:22.493Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -131,7 +131,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Interface Segregation Principle in Spring Boot Development|Spring-Boot
 - [x] [The Command Query Responsibility Segregation (CQRS) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-command-query-responsibility-segregation-cqrs-pattern-in-spring-boot)
 - [ ] The Model-View-Controller (MVC) Pattern in Spring Boot|Spring-Boot
-- [ ] The Model-View-Presenter (MVP) Pattern in Spring Boot|Spring-Boot
+- [x] [The Model-View-Presenter (MVP) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-model-view-presenter-mvp-pattern-in-spring-boot)
 - [ ] The Model-View-ViewModel (MVVM) Pattern in Spring Boot|Spring-Boot
 - [ ] The Observer Pattern in Spring Boot Development|Spring-Boot
 - [ ] The Factory Method Pattern in Spring Boot Development|Spring-Boot
