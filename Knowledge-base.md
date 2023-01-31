@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T02:32:52.448Z
+date: 2023-01-31T02:36:39.406Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -993,7 +993,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Service-Oriented Architecture|Dictionary
 - [ ] Microservices|Dictionary
 - [ ] Service Bus|Dictionary
-- [ ] Enterprise Service Bus|Dictionary
+- [x] [Enterprise Service Bus](/Knowledge-base/Dictionary/enterprise-service-bus)
 - [ ] Event-Driven Architecture|Dictionary
 - [ ] Domain-Driven Design|Dictionary
 - [x] [Continuous Integration](/Knowledge-base/Dictionary/continuous-integration)
