@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T23:24:27.067Z
+date: 2023-01-31T23:36:45.321Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1340,7 +1340,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Retirement Plans|Dictionary
 - [ ] Stock Options|Dictionary
 - [ ] Employee Referral Program|Dictionary
-- [ ] Employee Recognition|Dictionary
+- [x] [Employee Recognition](/Knowledge-base/Dictionary/employee-recognition)
 - [ ] Employee Training and Development|Dictionary
 - [ ] Organizational Culture|Dictionary
 - [ ] Employee Satisfaction Survey|Dictionary
