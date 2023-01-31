@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T07:23:34.772Z
+date: 2023-01-31T07:36:48.298Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1033,7 +1033,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Role-Based Access Control](/Knowledge-base/Dictionary/role-based-access-control)
 - [ ] Multifactor Authentication|Dictionary
 - [ ] Single Sign-On|Dictionary
-- [ ] Web Application Security|Dictionary
+- [x] [Web Application Security](/Knowledge-base/Dictionary/web-application-security)
 - [ ] Mobile Application Security|Dictionary
 - [ ] Security Auditing|Dictionary
 - [ ] Vulnerability Scanning|Dictionary
