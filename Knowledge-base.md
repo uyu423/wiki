@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T05:03:47.326Z
+date: 2023-01-31T05:04:54.294Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -729,7 +729,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Java's java.util.concurrent Package for Parallel Programming|Java
 - [x] [The Power of Java's Serialization API](/Knowledge-base/Java/the-power-of-java-s-serialization-api)
 - [ ] Building Custom Class Loaders in Java|Java
-- [ ] Java's Support for Asynchronous Processing with CompletableFuture|Java
+- [x] [Java's Support for Asynchronous Processing with CompletableFuture](/Knowledge-base/Java/java-s-support-for-asynchronous-processing-with-completablefuture)
 - [ ] Understanding Java's Attach API for Dynamic Instrumentation|Java
 - [ ] Java's Dynamic Proxies for Dynamic Object Oriented Programming|Java
 - [ ] Leveraging Java's Method Handles for Dynamic Method Invocation|Java
