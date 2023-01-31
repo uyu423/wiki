@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T02:04:43.419Z
+date: 2023-01-31T02:13:40.593Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -900,7 +900,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Rootkit](/Knowledge-base/Dictionary/rootkit)
 - [ ] Botnet|Dictionary
 - [ ] Worm|Dictionary
-- [ ] Trojan|Dictionary
+- [x] [Trojan](/Knowledge-base/Dictionary/trojan)
 - [ ] Virus|Dictionary
 - [ ] Spyware|Dictionary
 - [ ] Adware|Dictionary
