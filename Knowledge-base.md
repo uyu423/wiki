@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T15:04:43.627Z
+date: 2023-01-31T15:17:51.561Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -926,7 +926,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Scrum|Dictionary
 - [ ] Cloud Computing|Dictionary
 - [ ] DevOps|Dictionary
-- [ ] UX/UI Design|Dictionary
+- [x] [UX/UI Design](/Knowledge-base/Dictionary/uxui-design)
 - [ ] AI/ML|Dictionary
 - [ ] Blockchain|Dictionary
 - [ ] Full-Stack Development|Dictionary
