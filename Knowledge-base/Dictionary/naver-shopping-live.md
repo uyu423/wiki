@@ -2,7 +2,7 @@
 title: NAVER Shopping Live
 description: 
 published: true
-date: 2023-01-31T07:09:55.522Z
+date: 2023-01-31T07:10:02.055Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T07:08:54.486Z
@@ -43,3 +43,4 @@ NAVER 쇼핑 라이브의 가장 큰 단점은 한국에서만 사용할 수 있
 # 관련된 링크들
 
 - [네이버 쇼핑 라이브(한국어)*NAVER*](https://shoppinglive.naver.com)
+{.links-list}
