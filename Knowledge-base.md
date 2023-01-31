@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T08:36:22.735Z
+date: 2023-01-31T08:43:46.510Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -520,7 +520,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] AWS VPC: Securing a Web Application with Virtual Private Clouds|Cloud
 - [ ] AWS SNS: Building a Pub/Sub Notification System in the Cloud|Cloud
 - [x] [AWS SQS: Building a Distributed Task Queue System in the Cloud](/Knowledge-base/Cloud/aws-sqs-building-a-distributed-task-queue-system-in-the-cloud)
-- [ ] AWS IAM: Managing User Access and Permissions in the Cloud|Cloud
+- [x] [AWS IAM: Managing User Access and Permissions in the Cloud](/Knowledge-base/Cloud/aws-iam-managing-user-access-and-permissions-in-the-cloud)
 - [ ] AWS Kinesis: Processing Real-Time Streaming Data in the Cloud|Cloud
 - [ ] AWS CloudFormation: Automating Cloud Infrastructure Deployment|Cloud
 - [ ] AWS ECS: Deploying and Managing Docker Containers in the Cloud|Cloud
