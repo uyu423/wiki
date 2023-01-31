@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T01:05:26.920Z
+date: 2023-01-31T01:17:31.696Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -978,7 +978,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Test Automation|Dictionary
 - [ ] Regression Testing|Dictionary
 - [ ] Usability Testing|Dictionary
-- [ ] Accessibility Testing|Dictionary
+- [x] [Accessibility Testing](/Knowledge-base/Dictionary/accessibility-testing)
 - [ ] Ethical Hacking|Dictionary
 - [ ] Bug Tracking|Dictionary
 - [ ] Defect Tracking|Dictionary
