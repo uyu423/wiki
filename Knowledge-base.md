@@ -2,14 +2,14 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T09:04:06.352Z
+date: 2023-01-31T09:05:00.945Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
 - [x] [Kakao (Korea Company)](/Knowledge-base/Dictionary/kakao-korea-company)
-- [ ] Using Lombok in Java|Java
+- [x] [Using Lombok in Java](/Knowledge-base/Java/using-lombok-in-java)
 - [x] [NAVER Shopping Live](/Knowledge-base/Dictionary/naver-shopping-live)
 - [x] [NAVER (Korea Company)](/Knowledge-base/Dictionary/naver-korea-company)
 - [x] [Github](/Knowledge-base/Dictionary/github)
@@ -265,7 +265,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 058: Data Classes in Kotlin: Simplifying Object Declaration with Automatic Methods|Kotlin/Learning
 - [ ] 059: The Builder Pattern in Kotlin: Creating Complex Objects with a Clear Syntax|Kotlin/Learning
 - [ ] 060: Interoperability with Java in Kotlin: Working Seamlessly with Java Code|Kotlin/Learning
-- [ ] 061: The Factory Method Pattern in Kotlin: Creating Objects with a Factory Method|Kotlin/Learning
+- [x] [061: The Factory Method Pattern in Kotlin: Creating Objects with a Factory Method](/Knowledge-base/Kotlin/Learning/061-the-factory-method-pattern-in-kotlin-creating-objects-with-a-factory-method)
 - [ ] 062: The Singleton Pattern in Kotlin: Ensuring Only One Instance of a Class Exists|Kotlin/Learning
 - [ ] 063: The Observer Pattern in Kotlin: Implementing the Observer Design Pattern|Kotlin/Learning
 - [ ] 064: The Decorator Pattern in Kotlin: Enhancing Objects with Additional Behavior|Kotlin/Learning
