@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T03:23:36.158Z
+date: 2023-01-31T03:36:21.435Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -256,7 +256,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin Hashing: Advanced Topics and Best Practices|Kotlin
 - [x] [Kotlin and JWT: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-jwt-advanced-topics-and-best-practices)
 - [ ] Kotlin and OAuth: Advanced Topics and Best Practices|Kotlin
-- [ ] Kotlin and Token-based Authentication: Advanced Topics and Best Practices|Kotlin
+- [x] [Kotlin and Token-based Authentication: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-token-based-authentication-advanced-topics-and-best-practices)
 - [ ] Kotlin and Session Management: Advanced Topics and Best Practices|Kotlin
 - [ ] Kotlin and Authorization: Advanced Topics and Best Practices|Kotlin
 - [ ] Kotlin and Input Validation: Best Practices and Common Pitfalls|Kotlin
