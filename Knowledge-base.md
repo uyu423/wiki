@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T12:44:11.834Z
+date: 2023-01-31T12:57:26.465Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -664,7 +664,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Role of Artificial Intelligence (AI) in Healthcare|Common
 - [ ] Using Deep Learning for Image Recognition|Common
 - [x] [Developing Cross-Platform Mobile Apps with Xamarin](/Knowledge-base/Common/developing-cross-platform-mobile-apps-with-xamarin)
-- [ ] The Future of Automated Testing in Software Development|Common
+- [x] [The Future of Automated Testing in Software Development](/Knowledge-base/Common/the-future-of-automated-testing-in-software-development)
 - [ ] Building a Chatbot with Dialogflow|Common
 - [ ] Applying DevOps to Improve Software Delivery|Common
 - [x] [How to Use Git for Version Control in Software Development](/Knowledge-base/Common/how-to-use-git-for-version-control-in-software-development)
