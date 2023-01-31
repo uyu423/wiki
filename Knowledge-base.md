@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T11:43:26.295Z
+date: 2023-01-31T11:57:43.216Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -663,7 +663,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] How to Create a Website with Django|Common
 - [ ] The Role of Artificial Intelligence (AI) in Healthcare|Common
 - [ ] Using Deep Learning for Image Recognition|Common
-- [ ] Developing Cross-Platform Mobile Apps with Xamarin|Common
+- [x] [Developing Cross-Platform Mobile Apps with Xamarin](/Knowledge-base/Common/developing-cross-platform-mobile-apps-with-xamarin)
 - [ ] The Future of Automated Testing in Software Development|Common
 - [ ] Building a Chatbot with Dialogflow|Common
 - [ ] Applying DevOps to Improve Software Delivery|Common
