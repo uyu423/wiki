@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T02:57:46.852Z
+date: 2023-01-31T03:04:25.079Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -642,7 +642,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Java's Executor Framework for Task Scheduling and Execution|Java
 - [ ] Java's Reflection-based Dynamic Proxies for Dynamic Method Invocation|Java
 - [ ] A Guide to Java's Dynamic Class Loading and Reloading|Java
-- [ ] Building Custom Java Security Managers|Java
+- [x] [Building Custom Java Security Managers](/Knowledge-base/Java/building-custom-java-security-managers)
 - [ ] Java's java.nio Package for Non-Blocking I/O Operations|Java
 - [ ] Working with Java's java.util.concurrent.atomic Package for Atomic Operations|Java
 - [ ] Java's java.util.concurrent.locks.AbstractQueuedSynchronizer for Custom Locking|Java
