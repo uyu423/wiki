@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T15:24:00.929Z
+date: 2023-01-31T15:37:42.902Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1298,7 +1298,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Load Balancing|Dictionary
 - [ ] VPN|Dictionary
 - [x] [Remote Desktop Protocol](/Knowledge-base/Dictionary/remote-desktop-protocol)
-- [ ] Remote Access|Dictionary
+- [x] [Remote Access](/Knowledge-base/Dictionary/remote-access)
 - [ ] Remote Work|Dictionary
 - [ ] Telecommuting|Dictionary
 - [ ] Digital Certificate|Dictionary
