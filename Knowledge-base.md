@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T02:04:37.474Z
+date: 2023-01-31T02:04:43.419Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -530,7 +530,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Importance of Accessibility and Web Content Accessibility Guidelines (WCAG)|Common
 - [ ] How to Build a Chatbot with IBM Watson and Node-RED|Common
 - [ ] The Benefits of Artificial General Intelligence (AGI) and Reinforcement Learning|Common
-- [x] [How to Build a Single-Page Application (SPA) with Vue](/Knowledge-base/Common/how-to-build-a-single-page-application-spa-with-vue)
+- [ ] How to Build a Single-Page Application (SPA) with Vue|Common
 - [x] [Developing a Graphical User Interface (GUI) using Python](/Knowledge-base/Common/developing-a-graphical-user-interface-gui-using-python)
 - [ ] An Introduction to Natural Language Processing (NLP)|Common
 - [ ] Coding with Test-Driven Development (TDD) Methodology|Common
@@ -1168,7 +1168,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Project Monitoring](/Knowledge-base/Dictionary/project-monitoring)
 - [ ] Project Tracking|Dictionary
 - [ ] Project Review|Dictionary
-- [ ] Project Retrospective|Dictionary
+- [x] [Project Retrospective](/Knowledge-base/Dictionary/project-retrospective)
 - [ ] Project Portfolio Management|Dictionary
 - [ ] Program Management|Dictionary
 - [x] [Portfolio Management](/Knowledge-base/Dictionary/portfolio-management)
