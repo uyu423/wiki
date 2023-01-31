@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T17:23:37.403Z
+date: 2023-01-31T17:58:18.409Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1106,7 +1106,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Continuous Integration](/Knowledge-base/Dictionary/continuous-integration)
 - [ ] Continuous Delivery|Dictionary
 - [ ] Continuous Deployment|Dictionary
-- [ ] Continuous Testing|Dictionary
+- [x] [Continuous Testing](/Knowledge-base/Dictionary/continuous-testing)
 - [ ] Continuous Monitoring|Dictionary
 - [ ] Continuous Improvement|Dictionary
 - [ ] Incremental Development|Dictionary
