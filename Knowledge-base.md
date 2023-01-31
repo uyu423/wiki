@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T22:58:05.909Z
+date: 2023-01-31T23:04:40.329Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1109,7 +1109,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Continuous Testing](/Knowledge-base/Dictionary/continuous-testing)
 - [ ] Continuous Monitoring|Dictionary
 - [ ] Continuous Improvement|Dictionary
-- [ ] Incremental Development|Dictionary
+- [x] [Incremental Development](/Knowledge-base/Dictionary/incremental-development)
 - [ ] Iterative Development|Dictionary
 - [x] [Waterfall Model](/Knowledge-base/Dictionary/waterfall-model)
 - [ ] Spiral Model|Dictionary
