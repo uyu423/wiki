@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T21:36:45.014Z
+date: 2023-01-31T21:43:50.381Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -929,7 +929,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [UX/UI Design](/Knowledge-base/Dictionary/uxui-design)
 - [ ] AI/ML|Dictionary
 - [ ] Blockchain|Dictionary
-- [ ] Full-Stack Development|Dictionary
+- [x] [Full-Stack Development](/Knowledge-base/Dictionary/full-stack-development)
 - [ ] Prototyping|Dictionary
 - [ ] Lean Startup|Dictionary
 - [ ] SaaS|Dictionary
