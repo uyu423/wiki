@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T02:31:55.782Z
+date: 2023-01-31T02:32:52.448Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -403,7 +403,6 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Auto-scaling for Improved Resource Management|Backend
 - [ ] ORM for Better Data Management in Backend Development|Backend
 - [ ] Database Migration for Improved Data Management.|Backend
-- [x] [Integrating Kafka with Spring Boot for Real-time Processing](/Knowledge-base/Backend/integrating-kafka-with-spring-boot-for-real-time-processing)
 
 ## Cloud
 
