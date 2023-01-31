@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T14:19:09.251Z
+date: 2023-01-31T14:23:38.824Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -754,7 +754,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Working with Java's java.util.concurrent.atomic Package for Atomic Operations|Java
 - [ ] Java's java.util.concurrent.locks.AbstractQueuedSynchronizer for Custom Locking|Java
 - [x] [Leveraging Java's java.util.concurrent.CountDownLatch for Concurrent Programming](/Knowledge-base/Java/leveraging-java-s-java-util-concurrent-countdownlatch-for-concurrent-programming)
-- [ ] Java's java.util.concurrent.CyclicBarrier for Coordinated Concurrent Processing|Java
+- [x] [Java's java.util.concurrent.CyclicBarrier for Coordinated Concurrent Processing](/Knowledge-base/Java/java-s-java-util-concurrent-cyclicbarrier-for-coordinated-concurrent-processing)
 - [ ] Building Custom Executors in Java|Java
 - [ ] Java's java.util.concurrent.Semaphore for Controlled Concurrent Access|Java
 - [ ] A Guide to Java's java.util.concurrent.Exchanger for Concurrent Data Exchange|Java
