@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T05:53:21.420Z
+date: 2023-01-31T05:57:47.554Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -634,7 +634,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Benefits of Artificial General Intelligence (AGI) and Reinforcement Learning|Common
 - [x] [How to Build a Single-Page Application (SPA) with Vue](/Knowledge-base/Common/how-to-build-a-single-page-application-spa-with-vue)
 - [x] [Developing a Graphical User Interface (GUI) using Python](/Knowledge-base/Common/developing-a-graphical-user-interface-gui-using-python)
-- [ ] An Introduction to Natural Language Processing (NLP)|Common
+- [x] [An Introduction to Natural Language Processing (NLP)](/Knowledge-base/Common/an-introduction-to-natural-language-processing-nlp)
 - [ ] Coding with Test-Driven Development (TDD) Methodology|Common
 - [x] [Mobile App Development with React Native](/Knowledge-base/Common/mobile-app-development-with-react-native)
 - [ ] Creating 3D Games with Unity|Common
