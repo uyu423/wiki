@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T16:44:00.693Z
+date: 2023-01-31T16:57:27.112Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -218,7 +218,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [011: Properties and Fields in Kotlin: Understanding Getters and Setters](/Knowledge-base/Kotlin/Learning/011-properties-and-fields-in-kotlin-understanding-getters-and-setters)
 - [x] [012: Interfaces in Kotlin: Implementing Multiple Inheritance](/Knowledge-base/Kotlin/Learning/012-interfaces-in-kotlin-implementing-multiple-inheritance)
  - [x] [013: Sealing Classes in Kotlin: Creating Hierarchies of Classes with Restrictions](/Knowledge-base/Kotlin/Learning/013-sealing-classes-in-kotlin-creating-hierarchies-of-classes-with-restrictions)
-- [ ] 014: Extensions Functions in Kotlin: Enhancing Classes with Additional Functions|Kotlin/Learning
+- [x] [014: Extensions Functions in Kotlin: Enhancing Classes with Additional Functions](/Knowledge-base/Kotlin/Learning/014-extensions-functions-in-kotlin-enhancing-classes-with-additional-functions)
 - [ ] 015: Nullable Types and Null Safety in Kotlin: Dealing with Null Values|Kotlin/Learning
 - [ ] 016: Exception Handling in Kotlin: Throwing and Catching Exceptions|Kotlin/Learning
 - [ ] 017: Generics in Kotlin: Writing Reusable Code with Type Parameters|Kotlin/Learning
