@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T12:05:27.142Z
+date: 2023-01-31T12:17:36.405Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -278,7 +278,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 071: The Chain of Responsibility Pattern in Kotlin: Delegating Requests Through a Chain of Objects|Kotlin/Learning
 - [ ] 072: The Mediator Pattern in Kotlin: Encapsulating Object Communication|Kotlin/Learning
 - [ ] 073: The Flyweight Pattern in Kotlin: Sharing Object Instances to Save Memory|Kotlin/Learning
-- [ ] 074: The Proxy Pattern in Kotlin: Providing a Surrogate or Placeholder for Another Object|Kotlin/Learning
+- [x] [074: The Proxy Pattern in Kotlin: Providing a Surrogate or Placeholder for Another Object](/Knowledge-base/Kotlin/Learning/074-the-proxy-pattern-in-kotlin-providing-a-surrogate-or-placeholder-for-another-object)
 - [ ] 075: Dynamic Programming in Kotlin: Optimizing Recursive Solutions with Memoization|Kotlin/Learning
 - [ ] 076: The Null Object Pattern in Kotlin: Providing a Non-Null Object in Place of Null|Kotlin/Learning
 - [ ] 077: The Memento Pattern in Kotlin: Preserving Object States for Future Restoration|Kotlin/Learning
