@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T05:43:43.485Z
+date: 2023-01-31T05:43:43.820Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -14,7 +14,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [010: Coroutines in Kotlin: Asynchronous Programming Made Easy](/Knowledge-base/Kotlin/Learning/010-coroutines-in-kotlin-asynchronous-programming-made-easy)
 - [x] [011: Properties and Fields in Kotlin: Understanding Getters and Setters](/Knowledge-base/Kotlin/Learning/011-properties-and-fields-in-kotlin-understanding-getters-and-setters)
 - [x] [012: Interfaces in Kotlin: Implementing Multiple Inheritance](/Knowledge-base/Kotlin/Learning/012-interfaces-in-kotlin-implementing-multiple-inheritance)
-- [x] [013: Sealing Classes in Kotlin: Creating Hierarchies of Classes with Restrictions](/Knowledge-base/Kotlin/Learning/013-sealing-classes-in-kotlin-creating-hierarchies-of-classes-with-restrictions)
+- [ ] 013: Sealing Classes in Kotlin: Creating Hierarchies of Classes with Restrictions|Kotlin/Learning
 - [x] [Github](/Knowledge-base/Dictionary/github)
 - [x] [Ubuntu](/Knowledge-base/Dictionary/ubuntu)
 - [x] [migrating-to-typescript-for-node-js-development](/ko/Knowledge-base/Backend/migrating-to-typescript-for-node-js-development)
@@ -1094,7 +1094,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Application Programming Interface|Dictionary
 - [ ] Software Design Pattern|Dictionary
 - [ ] Model-View-Controller|Dictionary
-- [ ] Service-Oriented Architecture|Dictionary
+- [x] [Service-Oriented Architecture](/Knowledge-base/Dictionary/service-oriented-architecture)
 - [ ] Microservices|Dictionary
 - [ ] Service Bus|Dictionary
 - [x] [Enterprise Service Bus](/Knowledge-base/Dictionary/enterprise-service-bus)
