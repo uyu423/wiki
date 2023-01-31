@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T04:04:46.330Z
+date: 2023-01-31T04:17:35.188Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -914,7 +914,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] In-Memory Database|Dictionary
 - [ ] Object-Relational Mapping|Dictionary
 - [ ] Network Security|Dictionary
-- [ ] Firewall|Dictionary
+- [x] [Firewall](/Knowledge-base/Dictionary/firewall)
 - [ ] Intrusion Detection System|Dictionary
 - [ ] Intrusion Prevention System|Dictionary
 - [ ] Virtual Private Network|Dictionary
