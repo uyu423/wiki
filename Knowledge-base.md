@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T18:43:58.155Z
+date: 2023-01-31T18:58:23.882Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -920,7 +920,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Linux Kernel|Dictionary
 - [ ] CentOS Linux|Dictionary
 - [ ] OpenSUSE Linux|Dictionary
-- [ ] Fedora Linux|Dictionary
+- [x] [Fedora Linux](/Knowledge-base/Dictionary/fedora-linux)
 - [x] [Git](/Knowledge-base/Dictionary/git)
 - [ ] Agile|Dictionary
 - [ ] Scrum|Dictionary
