@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T08:23:26.524Z
+date: 2023-01-31T08:36:22.735Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -492,7 +492,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Enabling Cross-Origin Resource Sharing (CORS) for Secure API Access|Backend
 - [ ] Implementing HTTP/2 for Faster Backend Communication|Backend
 - [ ] Building Serverless Architecture for Scalable Backends|Backend
-- [ ] Understanding Event Sourcing in Infrastructure Development|Backend
+- [x] [Understanding Event Sourcing in Infrastructure Development](/Knowledge-base/Backend/understanding-event-sourcing-in-infrastructure-development)
 - [ ] Implementing gRPC in Your Backend|Backend
 - [ ] Understanding Graph Databases for Better Data Management|Backend
 - [ ] Building Event-Driven Architecture in Infrastructure Development|Backend
