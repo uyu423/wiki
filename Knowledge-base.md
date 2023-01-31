@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T23:44:12.687Z
+date: 2023-01-31T23:57:26.288Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -429,7 +429,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Real-time Communication with Socket.io|Backend
 - [ ] Building NoSQL Applications with MongoDB|Backend
 - [x] [Setting up a Web Server with nginx and Apache2](/Knowledge-base/Backend/setting-up-a-web-server-with-nginx-and-apache2)
-- [ ] Securing Backend Applications with SSL|Backend
+- [x] [Securing Backend Applications with SSL](/Knowledge-base/Backend/securing-backend-applications-with-ssl)
 - [ ] Designing Databases for Scalable Applications|Backend
 - [ ] Implementing Domain Driven Development (DDD) for Backend|Backend
 - [ ] Adopting Test Driven Development (TDD) for Backend Development|Backend
