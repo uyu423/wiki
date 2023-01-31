@@ -2,7 +2,7 @@
 title: AWS RDS: 클라우드에서 관계형 데이터베이스 설정
 description: 
 published: true
-date: 2023-01-31T02:25:34.333Z
+date: 2023-01-31T02:26:00.420Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T02:25:34.333Z
@@ -21,7 +21,7 @@ AWS Relational Database Service(RDS)는 MySQL, MariaDB, Oracle, Microsoft SQL Se
 
 이 기사에서는 AWS RDS에서 MySQL 데이터베이스를 설정하는 과정을 안내합니다. 또한 데이터베이스를 보호하는 방법과 발생할 수 있는 일반적인 문제를 해결하는 방법에 대한 몇 가지 팁을 제공합니다.
 
-##AWS RDS에서 MySQL 데이터베이스 생성
+## AWS RDS에서 MySQL 데이터베이스 생성
 
 AWS RDS에서 MySQL 데이터베이스를 생성하려면 먼저 Amazon Web Services(AWS) 계정을 생성해야 합니다. 아직 AWS 계정이 없다면 http://aws.amazon.com/에서 계정을 생성할 수 있습니다.
 
