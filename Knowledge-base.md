@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T13:36:43.206Z
+date: 2023-01-31T13:43:58.574Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -979,7 +979,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Scalability Testing|Dictionary
 - [x] [Compliance Testing](/Knowledge-base/Dictionary/compliance-testing)
 - [ ] Automated Testing|Dictionary
-- [ ] Penetration Testing|Dictionary
+- [x] [Penetration Testing](/Knowledge-base/Dictionary/penetration-testing)
 - [ ] Vulnerability Assessment|Dictionary
 - [ ] Security Testing|Dictionary
 - [ ] Risk Assessment|Dictionary
