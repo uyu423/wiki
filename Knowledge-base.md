@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T06:53:43.802Z
+date: 2023-01-31T06:57:48.733Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -651,7 +651,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Role of Cloud Computing in Enterprise Solutions|Common
 - [ ] Debugging and Troubleshooting in Software Development|Common
 - [ ] The Importance of User Experience (UX) Design in Software Development|Common
-- [ ] How to Create a Virtual Private Network (VPN)|Common
+- [x] [How to Create a Virtual Private Network (VPN)](/Knowledge-base/Common/how-to-create-a-virtual-private-network-vpn)
 - [ ] Developing Mobile Apps with Flutter|Common
 - [ ] Building a Web Scraper with Python|Common
 - [ ] Introducing Serverless Computing and its Benefits|Common
