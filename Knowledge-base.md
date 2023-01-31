@@ -2,12 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T04:56:32.889Z
+date: 2023-01-31T04:57:15.898Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
+- [ ] 007: Object-Oriented Programming in Kotlin: Classes, Objects, and Inheritance|Kotlin/Learning
 - [x] [Github](/Knowledge-base/Dictionary/github)
 - [x] [Ubuntu](/Knowledge-base/Dictionary/ubuntu)
 - [x] [migrating-to-typescript-for-node-js-development](/ko/Knowledge-base/Backend/migrating-to-typescript-for-node-js-development)
