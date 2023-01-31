@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T13:57:56.551Z
+date: 2023-01-31T14:04:51.699Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1239,7 +1239,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Cassandra|Dictionary
 - [ ] Redis|Dictionary
 - [ ] Graph Databases|Dictionary
-- [ ] Machine Learning|Dictionary
+- [x] [Machine Learning](/Knowledge-base/Dictionary/machine-learning)
 - [x] [Artificial Intelligence](/Knowledge-base/Dictionary/artificial-intelligence)
 - [ ] Deep Learning|Dictionary
 - [ ] Natural Language Processing|Dictionary
