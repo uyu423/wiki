@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T16:06:14.969Z
+date: 2023-01-31T16:18:28.949Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1184,7 +1184,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Local Area Network|Dictionary
 - [ ] Wireless Network|Dictionary
 - [x] [Network Management](/Knowledge-base/Dictionary/network-management)
-- [ ] Traffic Management|Dictionary
+- [x] [Traffic Management](/Knowledge-base/Dictionary/traffic-management)
 - [ ] Quality of Service|Dictionary
 - [ ] Bandwidth Management|Dictionary
 - [ ] Public Cloud|Dictionary
