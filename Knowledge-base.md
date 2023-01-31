@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T19:58:07.255Z
+date: 2023-01-31T20:05:21.073Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1207,7 +1207,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Cloud Storage|Dictionary
 - [ ] Object Storage|Dictionary
 - [ ] Block Storage|Dictionary
-- [ ] File Storage|Dictionary
+- [x] [File Storage](/Knowledge-base/Dictionary/file-storage)
 - [ ] Backup Solutions|Dictionary
 - [ ] Data Replication|Dictionary
 - [ ] Redundancy|Dictionary
