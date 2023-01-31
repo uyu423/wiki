@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T06:57:48.733Z
+date: 2023-01-31T07:05:04.383Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1244,7 +1244,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Computer Vision|Dictionary
 - [x] [Robotics](/Knowledge-base/Dictionary/robotics)
 - [ ] Internet of Things|Dictionary
-- [ ] Embedded Systems|Dictionary
+- [x] [Embedded Systems](/Knowledge-base/Dictionary/embedded-systems)
 - [ ] Wearable Technology|Dictionary
 - [ ] Augmented Reality|Dictionary
 - [ ] Virtual Reality|Dictionary
