@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T09:09:05.462Z
+date: 2023-01-31T09:17:47.396Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1264,7 +1264,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] User Interface Design|Dictionary
 - [ ] Visual Design|Dictionary
 - [ ] Web Design|Dictionary
-- [ ] Graphic Design|Dictionary
+- [x] [Graphic Design](/Knowledge-base/Dictionary/graphic-design)
 - [ ] Branding|Dictionary
 - [ ] Marketing|Dictionary
 - [ ] Digital Marketing|Dictionary
