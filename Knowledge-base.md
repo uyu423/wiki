@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T23:36:45.321Z
+date: 2023-01-31T23:44:12.687Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -696,7 +696,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Node.js and Typescript: A Match Made in Heaven|Nodejs
 - [ ] Streams and Piping in Node.js: A Hands-On Guide|Nodejs
 - [ ] Mastering Node.js Event Loops for Asynchronous Operations|Nodejs
-- [ ] Leveraging Async Hooks in Node.js for Performance Optimization|Nodejs
+- [x] [Leveraging Async Hooks in Node.js for Performance Optimization](/Knowledge-base/Nodejs/leveraging-async-hooks-in-node-js-for-performance-optimization)
 - [ ] Node.js Profiling with the Flame Graph|Nodejs
 - [ ] Working with Node.js Workers for Concurrent Processing|Nodejs
 - [x] [Using Node.js Workers and Clustering for Scalable Background Jobs](/Knowledge-base/Nodejs/using-node-js-workers-and-clustering-for-scalable-background-jobs)
