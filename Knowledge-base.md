@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T01:17:31.696Z
+date: 2023-01-31T01:23:30.867Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -647,7 +647,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Java's java.nio Package for Non-Blocking I/O Operations|Java
 - [ ] Working with Java's java.util.concurrent.atomic Package for Atomic Operations|Java
 - [ ] Java's java.util.concurrent.locks.AbstractQueuedSynchronizer for Custom Locking|Java
-- [ ] Leveraging Java's java.util.concurrent.CountDownLatch for Concurrent Programming|Java
+- [x] [Leveraging Java's java.util.concurrent.CountDownLatch for Concurrent Programming](/Knowledge-base/Java/leveraging-java-s-java-util-concurrent-countdownlatch-for-concurrent-programming)
 - [ ] Java's java.util.concurrent.CyclicBarrier for Coordinated Concurrent Processing|Java
 - [ ] Building Custom Executors in Java|Java
 - [ ] Java's java.util.concurrent.Semaphore for Controlled Concurrent Access|Java
