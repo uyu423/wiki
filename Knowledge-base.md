@@ -2,19 +2,12 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T05:48:22.212Z
+date: 2023-01-31T05:48:55.637Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [x] [007: Object-Oriented Programming in Kotlin: Classes, Objects, and Inheritance](/Knowledge-base/Kotlin/Learning/007-object-oriented-programming-in-kotlin-classes-objects-and-inheritance)
-- [x] [008: Null Safety in Kotlin: Understanding the ? Operator and Non-Null Types](/Knowledge-base/Kotlin/Learning/008-null-safety-in-kotlin-understanding-the--operator-and-non-null-types)
-- [x] [009: Higher-Order Functions in Kotlin: Understanding Lambdas and Anonymous Functions](/Knowledge-base/Kotlin/Learning/009-higher-order-functions-in-kotlin-understanding-lambdas-and-anonymous-functions)
-- [x] [010: Coroutines in Kotlin: Asynchronous Programming Made Easy](/Knowledge-base/Kotlin/Learning/010-coroutines-in-kotlin-asynchronous-programming-made-easy)
-- [x] [011: Properties and Fields in Kotlin: Understanding Getters and Setters](/Knowledge-base/Kotlin/Learning/011-properties-and-fields-in-kotlin-understanding-getters-and-setters)
-- [x] [012: Interfaces in Kotlin: Implementing Multiple Inheritance](/Knowledge-base/Kotlin/Learning/012-interfaces-in-kotlin-implementing-multiple-inheritance)
- - [x] [013: Sealing Classes in Kotlin: Creating Hierarchies of Classes with Restrictions](/Knowledge-base/Kotlin/Learning/013-sealing-classes-in-kotlin-creating-hierarchies-of-classes-with-restrictions)
 - [x] [Github](/Knowledge-base/Dictionary/github)
 - [x] [Ubuntu](/Knowledge-base/Dictionary/ubuntu)
 - [x] [migrating-to-typescript-for-node-js-development](/ko/Knowledge-base/Backend/migrating-to-typescript-for-node-js-development)
@@ -214,7 +207,13 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 004: Control Flow in Kotlin: if-else Statements, Loops, and When Expressions|Kotlin/Learning
 - [ ] 005: Functions in Kotlin: Defining, Calling, and Returning Values|Kotlin/Learning
 - [ ] 006: Collections in Kotlin: Arrays, Lists, Sets, and Maps|Kotlin/Learning
-
+- [x] [007: Object-Oriented Programming in Kotlin: Classes, Objects, and Inheritance](/Knowledge-base/Kotlin/Learning/007-object-oriented-programming-in-kotlin-classes-objects-and-inheritance)
+- [x] [008: Null Safety in Kotlin: Understanding the ? Operator and Non-Null Types](/Knowledge-base/Kotlin/Learning/008-null-safety-in-kotlin-understanding-the--operator-and-non-null-types)
+- [x] [009: Higher-Order Functions in Kotlin: Understanding Lambdas and Anonymous Functions](/Knowledge-base/Kotlin/Learning/009-higher-order-functions-in-kotlin-understanding-lambdas-and-anonymous-functions)
+- [x] [010: Coroutines in Kotlin: Asynchronous Programming Made Easy](/Knowledge-base/Kotlin/Learning/010-coroutines-in-kotlin-asynchronous-programming-made-easy)
+- [x] [011: Properties and Fields in Kotlin: Understanding Getters and Setters](/Knowledge-base/Kotlin/Learning/011-properties-and-fields-in-kotlin-understanding-getters-and-setters)
+- [x] [012: Interfaces in Kotlin: Implementing Multiple Inheritance](/Knowledge-base/Kotlin/Learning/012-interfaces-in-kotlin-implementing-multiple-inheritance)
+ - [x] [013: Sealing Classes in Kotlin: Creating Hierarchies of Classes with Restrictions](/Knowledge-base/Kotlin/Learning/013-sealing-classes-in-kotlin-creating-hierarchies-of-classes-with-restrictions)
 - [ ] 014: Extensions Functions in Kotlin: Enhancing Classes with Additional Functions|Kotlin/Learning
 - [ ] 015: Nullable Types and Null Safety in Kotlin: Dealing with Null Values|Kotlin/Learning
 - [ ] 016: Exception Handling in Kotlin: Throwing and Catching Exceptions|Kotlin/Learning
