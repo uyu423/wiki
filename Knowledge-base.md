@@ -2,14 +2,14 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T05:27:23.868Z
+date: 2023-01-31T05:33:41.655Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
 - [x] [007: Object-Oriented Programming in Kotlin: Classes, Objects, and Inheritance](/Knowledge-base/Kotlin/Learning/007-object-oriented-programming-in-kotlin-classes-objects-and-inheritance)
-- [x] [008: Null Safety in Kotlin: Understanding the ? Operator and Non-Null Types](/Knowledge-base/Kotlin/Learning/008-null-safety-in-kotlin-understanding-the--operator-and-non-null-types)
+- [ ] 008: Null Safety in Kotlin: Understanding the ? Operator and Non-Null Types|Kotlin/Learning
 - [x] [009: Higher-Order Functions in Kotlin: Understanding Lambdas and Anonymous Functions](/Knowledge-base/Kotlin/Learning/009-higher-order-functions-in-kotlin-understanding-lambdas-and-anonymous-functions)
 - [x] [010: Coroutines in Kotlin: Asynchronous Programming Made Easy](/Knowledge-base/Kotlin/Learning/010-coroutines-in-kotlin-asynchronous-programming-made-easy)
 - [ ] 011: Properties and Fields in Kotlin: Understanding Getters and Setters|Kotlin/Learning
