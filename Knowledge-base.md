@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T23:04:40.329Z
+date: 2023-01-31T23:17:25.840Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -445,7 +445,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Securing Backend Applications with HTTPS and Encryption|Backend
 - [ ] Hash Functions and PBKDF2 for Secure Passwords|Backend
 - [ ] Scaling Backend Applications with Load Balancing|Backend
-- [ ] Caching Strategies for Improved Performance|Backend
+- [x] [Caching Strategies for Improved Performance](/Knowledge-base/Backend/caching-strategies-for-improved-performance)
 - [ ] Validating User Data for Security|Backend
 - [ ] Error Handling Best Practices for Backend Applications|Backend
 - [ ] Logging for Debugging and Monitoring|Backend
