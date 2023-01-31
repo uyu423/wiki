@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T23:17:25.840Z
+date: 2023-01-31T23:24:27.067Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1262,7 +1262,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Mobile Application Testing|Dictionary
 - [ ] User Experience Design|Dictionary
 - [ ] User Interface Design|Dictionary
-- [ ] Visual Design|Dictionary
+- [x] [Visual Design](/Knowledge-base/Dictionary/visual-design)
 - [ ] Web Design|Dictionary
 - [x] [Graphic Design](/Knowledge-base/Dictionary/graphic-design)
 - [ ] Branding|Dictionary
