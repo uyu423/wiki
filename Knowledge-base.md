@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T07:36:48.298Z
+date: 2023-01-31T07:43:19.035Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -712,7 +712,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Node.js and Machine Learning: A Hands-On Guide|Nodejs
 - [ ] Node.js and AI: A Hands-On Guide|Nodejs
 - [ ] Node.js and Computer Vision: A Hands-On Guide|Nodejs
-- [ ] Node.js and Natural Language Processing: A Hands-On Guide|Nodejs
+- [x] [Node.js and Natural Language Processing: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-natural-language-processing-a-hands-on-guide)
 - [ ] Node.js and Speech Recognition: A Hands-On Guide|Nodejs
 
 ## Java: Deep Dive
