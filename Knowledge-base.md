@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T00:57:37.865Z
+date: 2023-01-31T01:05:26.920Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -415,7 +415,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] AWS EC2: Launching and Configuring a Virtual Machine in the Cloud|Cloud
 - [ ] AWS VPC: Securing a Web Application with Virtual Private Clouds|Cloud
 - [ ] AWS SNS: Building a Pub/Sub Notification System in the Cloud|Cloud
-- [ ] AWS SQS: Building a Distributed Task Queue System in the Cloud|Cloud
+- [x] [AWS SQS: Building a Distributed Task Queue System in the Cloud](/Knowledge-base/Cloud/aws-sqs-building-a-distributed-task-queue-system-in-the-cloud)
 - [ ] AWS IAM: Managing User Access and Permissions in the Cloud|Cloud
 - [ ] AWS Kinesis: Processing Real-Time Streaming Data in the Cloud|Cloud
 - [ ] AWS CloudFormation: Automating Cloud Infrastructure Deployment|Cloud
