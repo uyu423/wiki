@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T16:38:10.927Z
+date: 2023-01-31T16:44:00.693Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -752,7 +752,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Building Custom Java Security Managers](/Knowledge-base/Java/building-custom-java-security-managers)
 - [ ] Java's java.nio Package for Non-Blocking I/O Operations|Java
 - [ ] Working with Java's java.util.concurrent.atomic Package for Atomic Operations|Java
-- [ ] Java's java.util.concurrent.locks.AbstractQueuedSynchronizer for Custom Locking|Java
+- [x] [Java's java.util.concurrent.locks.AbstractQueuedSynchronizer for Custom Locking](/Knowledge-base/Java/java-s-java-util-concurrent-locks-abstractqueuedsynchronizer-for-custom-locking)
 - [x] [Leveraging Java's java.util.concurrent.CountDownLatch for Concurrent Programming](/Knowledge-base/Java/leveraging-java-s-java-util-concurrent-countdownlatch-for-concurrent-programming)
 - [x] [Java's java.util.concurrent.CyclicBarrier for Coordinated Concurrent Processing](/Knowledge-base/Java/java-s-java-util-concurrent-cyclicbarrier-for-coordinated-concurrent-processing)
 - [ ] Building Custom Executors in Java|Java
