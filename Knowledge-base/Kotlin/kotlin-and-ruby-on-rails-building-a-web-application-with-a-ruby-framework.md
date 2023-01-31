@@ -2,7 +2,7 @@
 title: Kotlin 및 Ruby on Rails: Ruby 프레임워크로 웹 애플리케이션 구축
 description: 
 published: true
-date: 2023-01-31T08:32:47.858Z
+date: 2023-01-31T08:33:21.482Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T08:15:33.379Z
@@ -12,6 +12,7 @@ dateCreated: 2023-01-31T08:15:33.379Z
 어떤 문서는 원문을 읽는게 나을 수도 있습니다.{.is-info}
 - [Kotlin and Ruby on Rails: Building a Web Application with a Ruby Framework***English** version of this document is available*](/en/Knowledge-base/Kotlin/kotlin-and-ruby-on-rails-building-a-web-application-with-a-ruby-framework)
 {.links-list}
+
  제공된 코드의.
 
 Kotlin 및 Ruby on Rails: Ruby 프레임워크로 웹 애플리케이션 구축
