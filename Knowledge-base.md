@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T02:20:29.999Z
+date: 2023-01-31T02:22:16.846Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -721,6 +721,53 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## Dictionary
 
+- [ ] React|Dictionary
+- [ ] Angular|Dictionary
+- [ ] Vue.js|Dictionary
+- [ ] Node.js|Dictionary
+- [ ] Express.js|Dictionary
+- [ ] Django|Dictionary
+- [ ] Ruby on Rails|Dictionary
+- [ ] Laravel|Dictionary
+- [ ] Spring|Dictionary
+- [ ] Flask|Dictionary
+- [ ] ASP.NET|Dictionary
+- [ ] Phoenix|Dictionary
+- [ ] Meteor|Dictionary
+- [ ] Hadoop|Dictionary
+- [ ] Spark|Dictionary
+- [ ] TensorFlow|Dictionary
+- [ ] PyTorch|Dictionary
+- [ ] Keras|Dictionary
+- [ ] Scikit-learn|Dictionary
+- [ ] Pandas|Dictionary
+- [ ] Numpy|Dictionary
+- [ ] Matplotlib|Dictionary
+- [ ] Seaborn|Dictionary
+- [ ] D3.js|Dictionary
+- [ ] Plotly|Dictionary
+- [ ] Bokeh|Dictionary
+- [ ] Plotly Dash|Dictionary
+- [ ] Jupyter Notebook|Dictionary
+- [ ] Tkinter|Dictionary
+- [ ] PyQt|Dictionary
+- [ ] PyGTK|Dictionary
+- [ ] wxPython|Dictionary
+- [ ] Pygame|Dictionary
+- [ ] Pyglet|Dictionary
+- [ ] PyOpenGL|Dictionary
+- [ ] Pytorch Geometric|Dictionary
+- [ ] OpenCV|Dictionary
+- [ ] NumPy|Dictionary
+- [ ] SciPy|Dictionary
+- [ ] Beautiful Soup|Dictionary
+- [ ] Requests|Dictionary
+- [ ] Scrapy|Dictionary
+- [ ] Selenium|Dictionary
+- [ ] PyAutoGUI|Dictionary
+- [ ] PyWin32|Dictionary
+- [ ] PyInstaller|Dictionary
+- [ ] PyTorch Geometric|Dictionary
 - [ ] Canonical Ltd|Dictionary
 - [ ] Redhat|Dictionary
 - [ ] Amazon|Dictionary
