@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T22:36:37.213Z
+date: 2023-01-31T22:43:39.659Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -720,7 +720,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 ## Java: Deep Dive
 
 - [ ] The Benefits of Using the Memory Mapped File API|Java
-- [ ] Understanding Java's Concurrent Mark Sweep Garbage Collector|Java
+- [x] [Understanding Java's Concurrent Mark Sweep Garbage Collector](/Knowledge-base/Java/understanding-java-s-concurrent-mark-sweep-garbage-collector)
 - [ ] Working with the Java Virtual Machine Tool Interface (JVMTI)|Java
 - [ ] Java's Low-Pause Garbage Collectors: Understanding G1GC|Java
 - [ ] Exploring the Java Native Interface (JNI) for Interoperability|Java
