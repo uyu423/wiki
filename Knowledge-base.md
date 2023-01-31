@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T11:23:22.493Z
+date: 2023-01-31T11:36:21.701Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -154,7 +154,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kubernetes Services: Exposing Your Applications to the World|Kubernetes
 - [ ] Kubernetes ConfigMaps and Secrets: Managing Configuration Data|Kubernetes
 - [ ] Deploying Stateful Applications on Kubernetes with Persistent Volumes|Kubernetes
-- [ ] Rolling Updates and Rollbacks with Kubernetes Deployments|Kubernetes
+- [x] [Rolling Updates and Rollbacks with Kubernetes Deployments](/Knowledge-base/Kubernetes/rolling-updates-and-rollbacks-with-kubernetes-deployments)
 - [ ] Kubernetes Autoscaling: Adapting to Changing Loads|Kubernetes
 - [ ] Monitoring and Logging in Kubernetes Clusters|Kubernetes
 - [x] [Debugging Kubernetes Applications: Understanding Events and Logs](/Knowledge-base/Kubernetes/debugging-kubernetes-applications-understanding-events-and-logs)
