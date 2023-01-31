@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T15:57:42.881Z
+date: 2023-01-31T16:06:14.969Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1172,7 +1172,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Directory Services|Dictionary
 - [ ] LDAP|Dictionary
 - [ ] Active Directory|Dictionary
-- [ ] Domain Name System|Dictionary
+- [x] [Domain Name System](/Knowledge-base/Dictionary/domain-name-system)
 - [ ] DHCP|Dictionary
 - [ ] IP Addressing|Dictionary
 - [x] [Subnetting](/Knowledge-base/Dictionary/subnetting)
