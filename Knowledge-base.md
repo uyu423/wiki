@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T21:24:10.358Z
+date: 2023-01-31T21:36:45.014Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -335,7 +335,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin Hashing: PBKDF2 and Bcrypt|Kotlin
 - [ ] Kotlin Validation: Input Validation Techniques|Kotlin
 - [ ] Kotlin Testing: Unit and Integration Tests|Kotlin
-- [ ] Kotlin Continuous Deployment: Automating the Deployment Process|Kotlin
+- [x] [Kotlin Continuous Deployment: Automating the Deployment Process](/Knowledge-base/Kotlin/kotlin-continuous-deployment-automating-the-deployment-process)
 - [ ] Kotlin and the Cloud: Deploying to a Cloud Provider|Kotlin
 - [ ] Kotlin and REST API: Building and Consuming RESTful Services|Kotlin
 - [x] [Kotlin and XML Processing: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-xml-processing-advanced-topics)
