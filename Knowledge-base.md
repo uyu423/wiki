@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T17:17:21.274Z
+date: 2023-01-31T17:23:37.403Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -646,7 +646,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Exploring the Internet of Things (IoT) and its Applications|Common
 - [ ] Using Microservices to Build Scalable Applications|Common
 - [ ] Building RESTful APIs with Node.js and Express|Common
-- [ ] Implementing Advanced Algorithms for Machine Learning|Common
+- [x] [Implementing Advanced Algorithms for Machine Learning](/Knowledge-base/Common/implementing-advanced-algorithms-for-machine-learning)
 - [ ] Big Data Analytics with Apache Spark|Common
 - [ ] The Future of Virtual Reality (VR) and Augmented Reality (AR) in Gaming|Common
 - [ ] Using Blockchain for Decentralized Applications|Common
