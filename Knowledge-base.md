@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T07:15:22.744Z
+date: 2023-01-31T07:17:56.867Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -880,7 +880,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Google|Dictionary
 - [ ] Apple (Company)|Dictionary
 - [ ] Facebook|Dictionary
-- [ ] Microsoft|Dictionary
+- [x] [Microsoft](/Knowledge-base/Dictionary/microsoft)
 - [ ] Infrastructure Engineering|Dictionary
 - [ ] Backend Programming|Dictionary
 - [ ] Frontend Programming|Dictionary
