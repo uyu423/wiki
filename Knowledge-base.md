@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T00:23:29.600Z
+date: 2023-01-31T00:36:26.872Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -934,7 +934,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Integrated Development Environment|Dictionary
 - [ ] Source Code|Dictionary
 - [ ] Binary Code|Dictionary
-- [ ] Object Code|Dictionary
+- [x] [Object Code](/Knowledge-base/Dictionary/object-code)
 - [ ] Library|Dictionary
 - [ ] Framework|Dictionary
 - [ ] Platform|Dictionary
