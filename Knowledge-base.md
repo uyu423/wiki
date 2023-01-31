@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T11:36:21.701Z
+date: 2023-01-31T11:43:26.295Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -452,7 +452,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Testing Backend Applications with Continuous Integration](/Knowledge-base/Backend/testing-backend-applications-with-continuous-integration)
 - [ ] Continuous Deployment for Scalable Backend Applications|Backend
 - [ ] Building a Deployment Pipeline for Backend Applications|Backend
-- [ ] DevOps Best Practices for Backend Infrastructure|Backend
+- [x] [DevOps Best Practices for Backend Infrastructure](/Knowledge-base/Backend/devops-best-practices-for-backend-infrastructure)
 - [ ] Infrastructure as Code for Backend Applications|Backend
 - [ ] Virtualization with Hypervisor and VMs|Backend
 - [ ] Containers and Micro VMs for Backend Development|Backend
