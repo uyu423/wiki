@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T05:14:10.509Z
+date: 2023-01-31T05:17:25.703Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -46,7 +46,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Monitoring Your Spring Boot Applications with Actuator](/Knowledge-base/Spring-Boot/monitoring-your-spring-boot-applications-with-actuator)
 - [x] [Debugging and Profiling in Spring Boot](/Knowledge-base/Spring-Boot/debugging-and-profiling-in-spring-boot)
 - [ ] Caching Strategies in Spring Boot|Spring-Boot
-- [ ] Exception Handling in Spring Boot|Spring-Boot
+- [x] [Exception Handling in Spring Boot](/Knowledge-base/Spring-Boot/exception-handling-in-spring-boot)
 - [ ] Validation in Spring Boot: Best Practices|Spring-Boot
 - [ ] Unit Testing in Spring Boot with JUnit|Spring-Boot
 - [ ] Integration Testing in Spring Boot|Spring-Boot
