@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T02:36:39.406Z
+date: 2023-01-31T02:43:32.405Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -814,7 +814,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] CentOS Linux|Dictionary
 - [ ] OpenSUSE Linux|Dictionary
 - [ ] Fedora Linux|Dictionary
-- [ ] Git|Dictionary
+- [x] [Git](/Knowledge-base/Dictionary/git)
 - [ ] Agile|Dictionary
 - [ ] Scrum|Dictionary
 - [ ] Cloud Computing|Dictionary
