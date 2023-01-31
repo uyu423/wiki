@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T06:36:43.893Z
+date: 2023-01-31T06:43:49.413Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -703,7 +703,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Building RESTful APIs with Node.js and Express|Nodejs
 - [ ] Node.js and NoSQL Databases: A Hands-On Guide|Nodejs
 - [ ] Node.js and Redis: A Hands-On Guide to Caching and Session Management|Nodejs
-- [ ] Node.js and MongoDB: A Hands-On Guide to Data Persistence|Nodejs
+- [x] [Node.js and MongoDB: A Hands-On Guide to Data Persistence](/Knowledge-base/Nodejs/node-js-and-mongodb-a-hands-on-guide-to-data-persistence)
 - [ ] Node.js and Elasticsearch: A Hands-On Guide to Search and Analytics|Nodejs
 - [ ] Node.js and RabbitMQ: A Hands-On Guide to Message Queues|Nodejs
 - [ ] Node.js and Graph Databases: A Hands-On Guide|Nodejs
