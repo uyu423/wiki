@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T19:04:52.750Z
+date: 2023-01-31T19:17:37.914Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -737,7 +737,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Java's Dynamic Proxies for Dynamic Object Oriented Programming|Java
 - [ ] Leveraging Java's Method Handles for Dynamic Method Invocation|Java
 - [ ] Using Java's Traceable and Instrumented Classes for Monitoring|Java
-- [ ] A Deep Dive into Java's Security Manager|Java
+- [x] [A Deep Dive into Java's Security Manager](/Knowledge-base/Java/a-deep-dive-into-java-s-security-manager)
 - [ ] Building Custom Security Providers in Java|Java
 - [x] [Exploring Java's Networking API for Network Programming](/Knowledge-base/Java/exploring-java-s-networking-api-for-network-programming)
 - [ ] Working with Java's Regular Expressions API|Java
