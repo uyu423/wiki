@@ -2,7 +2,7 @@
 title: USB 버전별 규격과 전송 속도
 description: USB 1.0부터 USB 4.0까지 한방에 정리
 published: true
-date: 2023-01-27T09:42:36.859Z
+date: 2023-01-31T07:28:39.327Z
 tags: tips, usb
 editor: markdown
 dateCreated: 2023-01-27T09:33:34.503Z
@@ -21,7 +21,7 @@ dateCreated: 2023-01-27T09:33:34.503Z
 - USB 1.0: 최대 전송 속도 1.5Mbps(187.5KB/s)
 
 > - USB 3.0, USB 3.1 Gen 1의 최대 전송 속도는 같다. <small>5Gbps(625MB/s)</small>
-> - USB 3.1 Gen2, USB 3.2 Gen 1x1의 최대 전송 속도도 같다. <small>10Gbps(1.25GB/s)<small>
+> - USB 3.1 Gen2, USB 3.2 Gen 1x1의 최대 전송 속도도 같다. <small>10Gbps(1.25GB/s)</small>
 
 
 ## USB 4.0 <small>(2019)</small>
