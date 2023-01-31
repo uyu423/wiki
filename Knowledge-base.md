@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T10:36:19.171Z
+date: 2023-01-31T10:44:49.916Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1240,7 +1240,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Redis|Dictionary
 - [ ] Graph Databases|Dictionary
 - [ ] Machine Learning|Dictionary
-- [ ] Artificial Intelligence|Dictionary
+- [x] [Artificial Intelligence](/Knowledge-base/Dictionary/artificial-intelligence)
 - [ ] Deep Learning|Dictionary
 - [ ] Natural Language Processing|Dictionary
 - [ ] Computer Vision|Dictionary
