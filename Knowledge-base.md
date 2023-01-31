@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T13:43:58.574Z
+date: 2023-01-31T13:57:56.551Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -827,7 +827,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## Dictionary
 
-- [ ] React|Dictionary
+- [x] [React](/Knowledge-base/Dictionary/react)
 - [ ] Angular|Dictionary
 - [ ] Vue.js|Dictionary
 - [ ] Node.js|Dictionary
