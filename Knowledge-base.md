@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T12:57:26.465Z
+date: 2023-01-31T13:04:28.687Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -764,7 +764,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Java's ReentrantReadWriteLock for Read-Write Concurrent Locking|Java
 - [ ] Using Java's java.util.concurrent.locks.StampedLock for Optimistic Locking|Java
 - [ ] A Guide to Java's java.util.concurrent.locks.Condition for Thread Signaling|Java
-- [ ] Working with Java's java.util.concurrent.locks.LockSupport for Thread Blocking|Java
+- [x] [Working with Java's java.util.concurrent.locks.LockSupport for Thread Blocking](/Knowledge-base/Java/working-with-java-s-java-util-concurrent-locks-locksupport-for-thread-blocking)
 - [ ] Leveraging Java's java.util.concurrent.ForkJoinPool for Recursive Task Processing|Java
 - [ ] Java's java.util.concurrent.CompletionService for Asynchronous Task Management|Java
 - [ ] Building Custom Concurrent Data Structures in Java"|Java
