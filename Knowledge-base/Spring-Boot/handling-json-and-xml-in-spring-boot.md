@@ -2,7 +2,7 @@
 title: Spring Boot에서 JSON 및 XML 처리
 description: 
 published: true
-date: 2023-01-31T08:10:58.528Z
+date: 2023-01-31T08:11:15.028Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T07:57:32.947Z
@@ -34,7 +34,7 @@ XML(Extensible Markup Language)은 데이터를 저장하고 교환하기 위한
 
 XML은 많은 프로그래밍 언어에서 잘 지원되고 사용하기 쉽기 때문에 데이터 교환에 널리 사용되는 형식입니다. 또한 XML은 읽고 이해하기 쉽기 때문에 사람이 읽어야 하는 데이터를 저장하는 데 적합합니다.
 
-# #### JSON 및 XML 구문 분석
+#### JSON 및 XML 구문 분석
 
 Spring Boot는 JSON 및 XML 구문 분석을 지원합니다. Spring Boot는 Jackson 라이브러리를 사용하여 JSON을 구문 분석하고 JAXB 라이브러리를 사용하여 XML을 구문 분석합니다.
 
