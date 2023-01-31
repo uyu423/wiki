@@ -2,12 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T04:57:32.575Z
+date: 2023-01-31T04:57:38.904Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
+- [x] [007: Object-Oriented Programming in Kotlin: Classes, Objects, and Inheritance](/Knowledge-base/Kotlin/Learning/007-object-oriented-programming-in-kotlin-classes-objects-and-inheritance)
 - [x] [Github](/Knowledge-base/Dictionary/github)
 - [x] [Ubuntu](/Knowledge-base/Dictionary/ubuntu)
 - [x] [migrating-to-typescript-for-node-js-development](/ko/Knowledge-base/Backend/migrating-to-typescript-for-node-js-development)
@@ -1252,7 +1253,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Cross-Platform Development|Dictionary
 - [ ] React Native|Dictionary
 - [ ] Flutter|Dictionary
-- [x] [Xamarin](/Knowledge-base/Dictionary/xamarin)
+- [ ] Xamarin|Dictionary
 - [ ] Hybrid Mobile Development|Dictionary
 - [ ] Progressive Web Apps|Dictionary
 - [ ] Mobile Application Testing|Dictionary
