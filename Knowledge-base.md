@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T22:18:03.498Z
+date: 2023-01-31T22:23:50.663Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -993,7 +993,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Cloud Migration|Dictionary
 - [x] [Cloud Security](/Knowledge-base/Dictionary/cloud-security)
 - [ ] Cloud Computing Services|Dictionary
-- [ ] Infrastructure as a Service|Dictionary
+- [x] [Infrastructure as a Service](/Knowledge-base/Dictionary/infrastructure-as-a-service)
 - [x] [Platform as a Service](/Knowledge-base/Dictionary/platform-as-a-service)
 - [ ] Software as a Service|Dictionary
 - [ ] Data Center|Dictionary
