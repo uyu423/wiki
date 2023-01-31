@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T01:36:36.640Z
+date: 2023-01-31T01:43:39.718Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -166,7 +166,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kubernetes Operators: Automating Application Management with Custom Controllers|Kubernetes
 - [ ] Kubernetes Extension APIs: Enhancing the Functionality of Your Cluster|Kubernetes
 - [ ] Kubernetes Web UI: Managing Your Cluster with the Dashboard|Kubernetes
-- [ ] Kubernetes CLI: Working with Your Cluster from the Command Line|Kubernetes
+- [x] [Kubernetes CLI: Working with Your Cluster from the Command Line](/Knowledge-base/Kubernetes/kubernetes-cli-working-with-your-cluster-from-the-command-line)
 - [ ] Kubernetes API: Interacting with Your Cluster with REST Requests|Kubernetes
 - [ ] Kubernetes Plugins: Adding Custom Functionality to kubectl|Kubernetes
 - [ ] Kubernetes Multi-Cluster Management: Managing Multiple Clusters with kubefed|Kubernetes
