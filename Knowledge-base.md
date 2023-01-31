@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T20:57:39.431Z
+date: 2023-01-31T21:04:51.625Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -815,7 +815,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Integrating TypeScript with Google Maps API for Location-Based Services|TypeScript
 - [ ] Working with Binary Data in TypeScript and Node.js|TypeScript
 - [ ] Building Chatbots with TypeScript and Dialogflow|TypeScript
-- [ ] Using TypeScript with AWS DynamoDB for NoSQL Database Management|TypeScript
+- [x] [Using TypeScript with AWS DynamoDB for NoSQL Database Management](/Knowledge-base/TypeScript/using-typescript-with-aws-dynamodb-for-nosql-database-management)
 - [ ] Integrating TypeScript with Google Cloud Functions for Serverless Development|TypeScript
 - [x] [Building a REST API with TypeScript and Nest.js](/Knowledge-base/TypeScript/building-a-rest-api-with-typescript-and-nest-js)
 - [ ] Integrating TypeScript with Next.js for Server-side Rendering|TypeScript
