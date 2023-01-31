@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T05:36:55.821Z
+date: 2023-01-31T05:36:58.615Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -10,9 +10,9 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 - [x] [007: Object-Oriented Programming in Kotlin: Classes, Objects, and Inheritance](/Knowledge-base/Kotlin/Learning/007-object-oriented-programming-in-kotlin-classes-objects-and-inheritance)
 - [x] [008: Null Safety in Kotlin: Understanding the ? Operator and Non-Null Types](/Knowledge-base/Kotlin/Learning/008-null-safety-in-kotlin-understanding-the--operator-and-non-null-types)
-- [ ] 009: Higher-Order Functions in Kotlin: Understanding Lambdas and Anonymous Functions|Kotlin/Learning
+- [x] [009: Higher-Order Functions in Kotlin: Understanding Lambdas and Anonymous Functions](/Knowledge-base/Kotlin/Learning/009-higher-order-functions-in-kotlin-understanding-lambdas-and-anonymous-functions)
 - [x] [010: Coroutines in Kotlin: Asynchronous Programming Made Easy](/Knowledge-base/Kotlin/Learning/010-coroutines-in-kotlin-asynchronous-programming-made-easy)
-- [ ] 011: Properties and Fields in Kotlin: Understanding Getters and Setters|Kotlin/Learning
+- [x] [011: Properties and Fields in Kotlin: Understanding Getters and Setters](/Knowledge-base/Kotlin/Learning/011-properties-and-fields-in-kotlin-understanding-getters-and-setters)
 - [ ] 012: Interfaces in Kotlin: Implementing Multiple Inheritance|Kotlin/Learning
 - [ ] 013: Sealing Classes in Kotlin: Creating Hierarchies of Classes with Restrictions|Kotlin/Learning
 - [x] [Github](/Knowledge-base/Dictionary/github)
@@ -703,7 +703,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Node.js and Serverless Computing: A Hands-On Guide|Nodejs
 - [ ] Building RESTful APIs with Node.js and Express|Nodejs
 - [ ] Node.js and NoSQL Databases: A Hands-On Guide|Nodejs
-- [x] [Node.js and Redis: A Hands-On Guide to Caching and Session Management](/Knowledge-base/Nodejs/node-js-and-redis-a-hands-on-guide-to-caching-and-session-management)
+- [ ] Node.js and Redis: A Hands-On Guide to Caching and Session Management|Nodejs
 - [ ] Node.js and MongoDB: A Hands-On Guide to Data Persistence|Nodejs
 - [ ] Node.js and Elasticsearch: A Hands-On Guide to Search and Analytics|Nodejs
 - [ ] Node.js and RabbitMQ: A Hands-On Guide to Message Queues|Nodejs
