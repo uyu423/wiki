@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T10:23:51.261Z
+date: 2023-01-31T10:36:19.171Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -246,7 +246,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 039: Constructors in Kotlin: Initializing Classes with Different Constructors|Kotlin/Learning
 - [ ] 040: Companion Objects in Kotlin: Implementing Static Members|Kotlin/Learning
 - [ ] 041: Object Declarations in Kotlin: Creating Singleton Instances|Kotlin/Learning
-- [ ] 042: Sealed Classes in Kotlin: Restricting Class Hierarchies|Kotlin/Learning
+- [x] [042: Sealed Classes in Kotlin: Restricting Class Hierarchies](/Knowledge-base/Kotlin/Learning/042-sealed-classes-in-kotlin-restricting-class-hierarchies)
 - [ ] 043: Nested and Inner Classes in Kotlin: Creating Classes within Classes|Kotlin/Learning
 - [ ] 044: Anonymous Inner Classes in Kotlin: Creating Classes Without Names|Kotlin/Learning
 - [ ] 045: Local Functions in Kotlin: Creating Functions Within Functions|Kotlin/Learning
