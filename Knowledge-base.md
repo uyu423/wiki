@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T03:36:21.435Z
+date: 2023-01-31T03:43:33.942Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -475,7 +475,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Managing Compliance and Governance on AWS and Azure|Cloud
 - [ ] Troubleshooting Common Issues with Cloud Services on AWS and Azure|Cloud
 - [ ] Building High-Availability and Scalable Services on AWS and Azure|Cloud
-- [ ] Developing Multi-Region Applications on AWS and Azure|Cloud
+- [x] [Developing Multi-Region Applications on AWS and Azure](/Knowledge-base/Cloud/developing-multi-region-applications-on-aws-and-azure)
 - [ ] Using AWS and Azure for Edge Computing and IoT Workloads|Cloud
 
 ## Common
