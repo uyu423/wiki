@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T17:05:11.887Z
+date: 2023-01-31T17:17:21.274Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -806,7 +806,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Building Image and Video Processing Applications with TypeScript and Node.js|TypeScript
 - [x] [Integrating TypeScript with Twilio for SMS and Voice Communications](/Knowledge-base/TypeScript/integrating-typescript-with-twilio-for-sms-and-voice-communications)
 - [ ] Working with Asynchronous Programming in TypeScript and Node.js|TypeScript
-- [ ] Building Augmented Reality Applications with TypeScript and Three.js|TypeScript
+- [x] [Building Augmented Reality Applications with TypeScript and Three.js](/Knowledge-base/TypeScript/building-augmented-reality-applications-with-typescript-and-three-js)
 - [ ] Using TypeScript with NeDB for Lightweight NoSQL Database|TypeScript
 - [ ] Integrating TypeScript with AWS Lambda for Serverless Functions|TypeScript
 - [ ] Building Social Media Applications with TypeScript and Next.js|TypeScript
