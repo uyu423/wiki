@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T10:05:01.985Z
+date: 2023-01-31T10:17:35.849Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -270,7 +270,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 063: The Observer Pattern in Kotlin: Implementing the Observer Design Pattern|Kotlin/Learning
 - [ ] 064: The Decorator Pattern in Kotlin: Enhancing Objects with Additional Behavior|Kotlin/Learning
 - [ ] 065: The Template Method Pattern in Kotlin: Defining a Common Algorithm with Custom Steps|Kotlin/Learning
-- [ ] 066: The Prototype Pattern in Kotlin: Creating New Objects from Existing Ones|Kotlin/Learning
+- [x] [066: The Prototype Pattern in Kotlin: Creating New Objects from Existing Ones](/Knowledge-base/Kotlin/Learning/066-the-prototype-pattern-in-kotlin-creating-new-objects-from-existing-ones)
 - [ ] 067: The Abstract Factory Pattern in Kotlin: Creating Objects Through Abstract Interfaces|Kotlin/Learning
 - [ ] 068: The Facade Pattern in Kotlin: Providing a Simple Interface to Complex Systems|Kotlin/Learning
 - [ ] 069: The Command Pattern in Kotlin: Encapsulating Invocations as Objects|Kotlin/Learning
