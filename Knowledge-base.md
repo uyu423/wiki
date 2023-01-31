@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T08:43:46.510Z
+date: 2023-01-31T08:57:40.696Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -539,7 +539,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] AWS SNS & SQS: Building a Message Broker System in the Cloud|Cloud
 - [ ] AWS Glue: Automating Data Processing and ETL in the Cloud|Cloud
 - [ ] AWS Redshift: Scaling Data Warehousing with a Fully Managed Service|Cloud
-- [ ] AWS Athena: Running SQL Queries on S3 Data with Serverless Computing|Cloud
+- [x] [AWS Athena: Running SQL Queries on S3 Data with Serverless Computing](/Knowledge-base/Cloud/aws-athena-running-sql-queries-on-s3-data-with-serverless-computing)
 - [ ] AWS QuickSight: Visualizing and Analyzing Big Data in the Cloud|Cloud
 - [ ] AWS SageMaker: Building and Deploying Machine Learning Models in the Cloud|Cloud
 - [ ] AWS Comprehend: Analyzing Text Data with Natural Language Processing|Cloud
