@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T02:23:56.602Z
+date: 2023-01-31T02:25:37.802Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -411,7 +411,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] AWS Lambda: Building Serverless Functions for Event-Driven Applications|Cloud
 - [ ] AWS DynamoDB: Creating a NoSQL Database and Integrating with a Web Application|Cloud
 - [ ] AWS S3: Storing and Retrieving Files in the Cloud|Cloud
-- [ ] AWS RDS: Setting Up a Relational Database in the Cloud|Cloud
+- [x] [AWS RDS: Setting Up a Relational Database in the Cloud](/Knowledge-base/Cloud/aws-rds-setting-up-a-relational-database-in-the-cloud)
 - [ ] AWS EC2: Launching and Configuring a Virtual Machine in the Cloud|Cloud
 - [ ] AWS VPC: Securing a Web Application with Virtual Private Clouds|Cloud
 - [ ] AWS SNS: Building a Pub/Sub Notification System in the Cloud|Cloud
