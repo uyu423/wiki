@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T07:57:36.483Z
+date: 2023-01-31T08:04:35.598Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1144,7 +1144,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Schedule Management|Dictionary
 - [ ] Risk Management|Dictionary
 - [ ] Change Management|Dictionary
-- [ ] Git|Dictionary
+- [x] [Git](/Knowledge-base/Dictionary/git)
 - [ ] Mercurial|Dictionary
 - [ ] Subversion|Dictionary
 - [ ] Collaboration|Dictionary
