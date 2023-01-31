@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T11:57:43.216Z
+date: 2023-01-31T12:05:27.142Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -889,7 +889,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Lean Startup|Dictionary
 - [ ] Refactoring|Dictionary
 - [ ] Clean Software|Dictionary
-- [ ] Wooahan Brothers (South Korea Company)|Dictionary
+- [x] [Wooahan Brothers (South Korea Company)](/Knowledge-base/Dictionary/wooahan-brothers-south-korea-company)
 - [ ] LINE (South Korea Company)|Dictionary
 - [ ] Coupang (South Korea Company)|Dictionary
 - [ ] Kakao (South Korea Company)|Dictionary
