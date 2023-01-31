@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T00:43:21.970Z
+date: 2023-01-31T00:57:37.865Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -333,7 +333,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Ruby on Rails for Backend Development|Backend
 - [ ] Laravel: A PHP Framework for Backend Development|Backend
 - [ ] Securing Backend Applications with OAuth and JWT|Backend
-- [ ] Managing User Sessions with Tokens and Cookies|Backend
+- [x] [Managing User Sessions with Tokens and Cookies](/Knowledge-base/Backend/managing-user-sessions-with-tokens-and-cookies)
 - [ ] Implementing Authentication and Authorization for Backend Applications|Backend
 - [ ] Securing Backend Applications with HTTPS and Encryption|Backend
 - [ ] Hash Functions and PBKDF2 for Secure Passwords|Backend
