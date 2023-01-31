@@ -2,7 +2,7 @@
 title: Kotlin 및 Ruby on Rails: Ruby 프레임워크로 웹 애플리케이션 구축
 description: 
 published: true
-date: 2023-01-31T08:33:21.482Z
+date: 2023-01-31T08:36:43.211Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T08:15:33.379Z
@@ -13,9 +13,8 @@ dateCreated: 2023-01-31T08:15:33.379Z
 - [Kotlin and Ruby on Rails: Building a Web Application with a Ruby Framework***English** version of this document is available*](/en/Knowledge-base/Kotlin/kotlin-and-ruby-on-rails-building-a-web-application-with-a-ruby-framework)
 {.links-list}
 
- 제공된 코드의.
 
-Kotlin 및 Ruby on Rails: Ruby 프레임워크로 웹 애플리케이션 구축
+# Kotlin 및 Ruby on Rails: Ruby 프레임워크로 웹 애플리케이션 구축
 
 웹 애플리케이션을 구축하려는 경우 프레임워크에 대한 많은 옵션이 있습니다. Ruby on Rails는 웹 애플리케이션 구축에 널리 사용되는 프레임워크이며 Kotlin은 Java와의 상호 운용성 및 보안 기능으로 인기를 얻고 있는 언어입니다. 이 기사에서는 Kotlin과 함께 Ruby on Rails 프레임워크를 사용하여 웹 애플리케이션을 빌드하는 방법을 보여줍니다.
 
