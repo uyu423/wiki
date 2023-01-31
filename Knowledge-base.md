@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T22:05:06.028Z
+date: 2023-01-31T22:18:03.498Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -91,7 +91,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Spring Boot Debugging with Remote Debugging|Spring-Boot
 - [x] [Spring Boot Profiling with VisualVM](/Knowledge-base/Spring-Boot/spring-boot-profiling-with-visualvm)
 - [ ] Spring Boot Caching with EhCache|Spring-Boot
-- [ ] Spring Boot Caching with Hazelcast|Spring-Boot
+- [x] [Spring Boot Caching with Hazelcast](/Knowledge-base/Spring-Boot/spring-boot-caching-with-hazelcast)
 - [ ] Spring Boot Exception Handling with ControllerAdvice|Spring-Boot
 - [ ] Spring Boot Validation with Bean Validation API|Spring-Boot
 - [ ] Spring Boot Testing with JUnit|Spring-Boot
