@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T05:48:55.637Z
+date: 2023-01-31T05:53:21.420Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1321,7 +1321,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Project Portfolio Management|Dictionary
 - [ ] Program Management|Dictionary
 - [x] [Portfolio Management](/Knowledge-base/Dictionary/portfolio-management)
-- [ ] Stakeholder Management|Dictionary
+- [x] [Stakeholder Management](/Knowledge-base/Dictionary/stakeholder-management)
 - [ ] Team Management|Dictionary
 - [ ] Human Resource Management|Dictionary
 - [ ] Talent Acquisition|Dictionary
