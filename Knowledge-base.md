@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T20:17:26.976Z
+date: 2023-01-31T20:23:54.195Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -533,7 +533,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AWS Elastic Load Balancer: Scaling and Load Balancing Applications in the Cloud](/Knowledge-base/Cloud/aws-elastic-load-balancer-scaling-and-load-balancing-applications-in-the-cloud)
 - [ ] AWS Direct Connect: Building High-Speed Network Connections to the Cloud|Cloud
 - [ ] AWS Elastic IPs: Allocating Static IP Addresses for Cloud Resources|Cloud
-- [ ] AWS Auto Scaling: Automatically Scaling Cloud Resources Based on Load|Cloud
+- [x] [AWS Auto Scaling: Automatically Scaling Cloud Resources Based on Load](/Knowledge-base/Cloud/aws-auto-scaling-automatically-scaling-cloud-resources-based-on-load)
 - [ ] AWS CloudWatch: Monitoring and Debugging Cloud Applications|Cloud
 - [ ] AWS CloudTrail: Logging AWS API Calls for Compliance and Auditing|Cloud
 - [x] [AWS Elasticache: Scaling Memcached or Redis Caching for Web Applications](/Knowledge-base/Cloud/aws-elasticache-scaling-memcached-or-redis-caching-for-web-applications)
