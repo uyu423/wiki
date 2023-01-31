@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T14:43:55.526Z
+date: 2023-01-31T14:57:28.555Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -122,7 +122,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Spring Boot and Spring Data for Data Access and Persistence|Spring-Boot
 - [ ] Spring Boot and Spring Batch for Large-Scale Data Processing|Spring-Boot
 - [ ] The SOLID Principles in Spring Boot Development|Spring-Boot
-- [ ] Dependency Injection in Spring Boot|Spring-Boot
+- [x] [Dependency Injection in Spring Boot](/Knowledge-base/Spring-Boot/dependency-injection-in-spring-boot)
 - [ ] Aspect-Oriented Programming in Spring Boot|Spring-Boot
 - [ ] The Hollywood Principle in Spring Boot Development|Spring-Boot
 - [ ] The Liskov Substitution Principle in Spring Boot Development|Spring-Boot
