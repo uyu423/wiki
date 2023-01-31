@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T12:17:36.405Z
+date: 2023-01-31T12:24:07.112Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1044,7 +1044,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Phishing|Dictionary
 - [ ] Spoofing|Dictionary
 - [ ] Ransomware|Dictionary
-- [ ] Man-in-the-Middle Attack|Dictionary
+- [x] [Man-in-the-Middle Attack](/Knowledge-base/Dictionary/man-in-the-middle-attack)
 - [ ] Cross-Site Scripting|Dictionary
 - [ ] SQL Injection|Dictionary
 - [ ] Buffer Overflow|Dictionary
