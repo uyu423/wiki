@@ -2,13 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T06:51:22.439Z
+date: 2023-01-31T06:53:08.342Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [x] [NAVER Shopping Live](/Knowledge-base/Dictionary/naver-shopping-live)
+- [ ] NAVER Shopping Live|Dictionary
 - [x] [NAVER (Korea Company)](/Knowledge-base/Dictionary/naver-korea-company)
 - [x] [Github](/Knowledge-base/Dictionary/github)
 - [x] [Ubuntu](/Knowledge-base/Dictionary/ubuntu)
