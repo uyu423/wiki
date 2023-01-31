@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T19:17:37.914Z
+date: 2023-01-31T19:23:15.637Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -699,7 +699,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Leveraging Async Hooks in Node.js for Performance Optimization|Nodejs
 - [ ] Node.js Profiling with the Flame Graph|Nodejs
 - [ ] Working with Node.js Workers for Concurrent Processing|Nodejs
-- [ ] Using Node.js Workers and Clustering for Scalable Background Jobs|Nodejs
+- [x] [Using Node.js Workers and Clustering for Scalable Background Jobs](/Knowledge-base/Nodejs/using-node-js-workers-and-clustering-for-scalable-background-jobs)
 - [ ] Node.js and Microservices: Building a Robust Architecture|Nodejs
 - [ ] Node.js, GraphQL and Apollo: A Hands-On Guide|Nodejs
 - [ ] Working with Node.js and WebSockets for Real-Time Communication|Nodejs
