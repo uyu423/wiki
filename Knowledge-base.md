@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T22:43:39.659Z
+date: 2023-01-31T22:58:05.909Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1145,7 +1145,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Budgeting|Dictionary
 - [ ] Schedule Management|Dictionary
 - [ ] Risk Management|Dictionary
-- [ ] Change Management|Dictionary
+- [x] [Change Management](/Knowledge-base/Dictionary/change-management)
 - [x] [Git](/Knowledge-base/Dictionary/git)
 - [ ] Mercurial|Dictionary
 - [ ] Subversion|Dictionary
