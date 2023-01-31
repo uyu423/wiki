@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T21:43:50.381Z
+date: 2023-01-31T21:57:50.641Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1174,7 +1174,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Active Directory|Dictionary
 - [x] [Domain Name System](/Knowledge-base/Dictionary/domain-name-system)
 - [ ] DHCP|Dictionary
-- [ ] IP Addressing|Dictionary
+- [x] [IP Addressing](/Knowledge-base/Dictionary/ip-addressing)
 - [x] [Subnetting](/Knowledge-base/Dictionary/subnetting)
 - [ ] Routing|Dictionary
 - [ ] Switching|Dictionary
