@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T07:43:19.035Z
+date: 2023-01-31T07:57:36.483Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -48,7 +48,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] End-to-end Testing with Spring Boot|Spring-Boot
 - [x] [Spring Test: Testing Framework for Spring Boot](/Knowledge-base/Spring-Boot/spring-test-testing-framework-for-spring-boot)
 - [ ] Mockito: Mocking for Unit Testing in Spring Boot|Spring-Boot
-- [ ] Handling JSON and XML in Spring Boot|Spring-Boot
+- [x] [Handling JSON and XML in Spring Boot](/Knowledge-base/Spring-Boot/handling-json-and-xml-in-spring-boot)
 - [ ] Building RESTful Services with Spring Boot|Spring-Boot
 - [ ] Web Services with Spring Boot|Spring-Boot
 - [ ] Spring Boot DevTools: Streamlining Development|Spring-Boot
