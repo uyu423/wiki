@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T21:18:16.249Z
+date: 2023-01-31T21:24:10.358Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1271,7 +1271,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Search Engine Optimization|Dictionary
 - [ ] Pay-Per-Click Advertising|Dictionary
 - [ ] Social Media Marketing|Dictionary
-- [ ] Content Marketing|Dictionary
+- [x] [Content Marketing](/Knowledge-base/Dictionary/content-marketing)
 - [ ] Email Marketing|Dictionary
 - [ ] Influencer Marketing|Dictionary
 - [ ] Affiliate Marketing|Dictionary
