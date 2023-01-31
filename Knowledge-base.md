@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T15:17:51.561Z
+date: 2023-01-31T15:24:00.929Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1136,7 +1136,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Bug Tracking|Dictionary
 - [ ] Defect Tracking|Dictionary
 - [ ] Issue Tracking|Dictionary
-- [ ] Agile Project Management|Dictionary
+- [x] [Agile Project Management](/Knowledge-base/Dictionary/agile-project-management)
 - [ ] Kanban|Dictionary
 - [ ] Lean Project Management|Dictionary
 - [ ] Project Plan|Dictionary
