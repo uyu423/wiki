@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T20:23:54.195Z
+date: 2023-01-31T20:38:20.627Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -301,7 +301,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 094: Kotlin on the Server: Building Server-Side Applications with Kotlin|Kotlin/Learning
 - [ ] 095: Web Development in Kotlin: Building Web Applications with Kotlin and Spring|Kotlin/Learning
 - [ ] 096: Mobile Development in Kotlin: Building Mobile Apps with Kotlin and Android/iOS|Kotlin/Learning
-- [ ] 097: Game Development in Kotlin: Building Games with Kotlin and LibGDX|Kotlin/Learning
+- [x] [097: Game Development in Kotlin: Building Games with Kotlin and LibGDX](/Knowledge-base/Kotlin/Learning/097-game-development-in-kotlin-building-games-with-kotlin-and-libgdx)
 - [ ] 098: Database Access in Kotlin: Connecting to and Querying Databases with Kotlin|Kotlin/Learning
 - [ ] 099: Network Programming in Kotlin: Making Network Requests and Building Network-based Applications|Kotlin/Learning
 - [ ] 100: Advanced Type System in Kotlin: Exploring the Advanced Features of the Kotlin Type System.|Kotlin/Learning
