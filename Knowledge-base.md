@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T00:17:26.377Z
+date: 2023-01-31T00:23:29.600Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1171,7 +1171,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Project Retrospective|Dictionary
 - [ ] Project Portfolio Management|Dictionary
 - [ ] Program Management|Dictionary
-- [ ] Portfolio Management|Dictionary
+- [x] [Portfolio Management](/Knowledge-base/Dictionary/portfolio-management)
 - [ ] Stakeholder Management|Dictionary
 - [ ] Team Management|Dictionary
 - [ ] Human Resource Management|Dictionary
