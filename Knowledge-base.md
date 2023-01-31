@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T09:37:00.262Z
+date: 2023-01-31T09:43:30.498Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -485,7 +485,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Service Discovery in Microservice Architecture|Backend
 - [ ] Task Orchestration for Improved Workflow Management|Backend
 - [ ] gRPC for High-Performance Communication in Backend Development|Backend
-- [ ] Understanding Graph Databases for Better Data Management|Backend
+- [x] [Understanding Graph Databases for Better Data Management](/Knowledge-base/Backend/understanding-graph-databases-for-better-data-management)
 - [ ] Building Event-Driven Architecture in Infrastructure Development|Backend
 - [ ] Implementing Serverless Functions with AWS Lambda and Google Cloud Functions|Backend
 - [ ] Understanding Backend as a Service (BaaS)|Backend
