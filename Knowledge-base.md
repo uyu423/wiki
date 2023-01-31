@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T20:38:20.627Z
+date: 2023-01-31T20:43:51.309Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -955,7 +955,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Business Intelligence|Dictionary
 - [ ] Software Testing|Dictionary
 - [x] [User Research](/Knowledge-base/Dictionary/user-research)
-- [ ] Product Management|Dictionary
+- [x] [Product Management](/Knowledge-base/Dictionary/product-management)
 - [ ] Marketing Automation|Dictionary
 - [ ] Digital Transformation|Dictionary
 - [ ] Enterprise Architecture|Dictionary
