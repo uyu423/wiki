@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T02:22:55.413Z
+date: 2023-01-31T02:23:26.083Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -164,7 +164,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kubernetes Network Policies: Enforcing Communication Rules Between Pods|Kubernetes
 - [ ] Kubernetes Custom Resource Definitions: Extending the Kubernetes API|Kubernetes
 - [ ] Kubernetes Operators: Automating Application Management with Custom Controllers|Kubernetes
-- [ ] Kubernetes Extension APIs: Enhancing the Functionality of Your Cluster|Kubernetes
+- [x] [Kubernetes Extension APIs: Enhancing the Functionality of Your Cluster](/Knowledge-base/Kubernetes/kubernetes-extension-apis-enhancing-the-functionality-of-your-cluster)
 - [ ] Kubernetes Web UI: Managing Your Cluster with the Dashboard|Kubernetes
 - [x] [Kubernetes CLI: Working with Your Cluster from the Command Line](/Knowledge-base/Kubernetes/kubernetes-cli-working-with-your-cluster-from-the-command-line)
 - [ ] Kubernetes API: Interacting with Your Cluster with REST Requests|Kubernetes
