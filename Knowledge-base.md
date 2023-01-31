@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T19:23:15.637Z
+date: 2023-01-31T19:36:40.315Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -462,7 +462,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Object Storage, Block Storage, and File Storage for Backend|Backend
 - [ ] Networking Fundamentals for Backend Developers|Backend
 - [ ] Understanding the Domain Name System (DNS)|Backend
-- [ ] IP Addressing for Backend Applications|Backend
+- [x] [IP Addressing for Backend Applications](/Knowledge-base/Backend/ip-addressing-for-backend-applications)
 - [x] [Load Balancing for Scalable Backend Applications](/Knowledge-base/Backend/load-balancing-for-scalable-backend-applications)
 - [ ] Reverse Proxy for Improved Performance|Backend
 - [ ] Securing Backend Applications with Firewall|Backend
