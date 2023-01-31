@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T07:17:56.867Z
+date: 2023-01-31T07:23:34.772Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1173,7 +1173,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Domain Name System|Dictionary
 - [ ] DHCP|Dictionary
 - [ ] IP Addressing|Dictionary
-- [ ] Subnetting|Dictionary
+- [x] [Subnetting](/Knowledge-base/Dictionary/subnetting)
 - [ ] Routing|Dictionary
 - [ ] Switching|Dictionary
 - [x] [Intrusion Detection](/Knowledge-base/Dictionary/intrusion-detection)
