@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T13:24:17.632Z
+date: 2023-01-31T13:36:43.206Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1162,7 +1162,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [IT Service Management](/Knowledge-base/Dictionary/it-service-management)
 - [ ] ITIL|Dictionary
 - [ ] COBIT|Dictionary
-- [ ] Business Continuity|Dictionary
+- [x] [Business Continuity](/Knowledge-base/Dictionary/business-continuity)
 - [ ] Backup|Dictionary
 - [ ] Recovery|Dictionary
 - [ ] Data Loss Prevention|Dictionary
