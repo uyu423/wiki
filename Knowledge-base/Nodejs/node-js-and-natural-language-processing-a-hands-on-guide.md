@@ -2,7 +2,7 @@
 title: Node.js 및 자연어 처리: 실습 가이드
 description: 
 published: true
-date: 2023-01-31T08:12:31.041Z
+date: 2023-01-31T08:12:42.392Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T07:43:15.361Z
@@ -12,7 +12,6 @@ dateCreated: 2023-01-31T07:43:15.361Z
 어떤 문서는 원문을 읽는게 나을 수도 있습니다.{.is-info}
 - [Node.js and Natural Language Processing: A Hands-On Guide***English** version of this document is available*](/en/Knowledge-base/Nodejs/node-js-and-natural-language-processing-a-hands-on-guide)
 {.links-list}
- 적절하고 설명적인 제목을 포함합니다.
 
 # Node.js와 자연어 처리: 실습 가이드
 
