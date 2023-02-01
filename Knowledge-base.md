@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T19:05:26.086Z
+date: 2023-02-01T19:07:29.395Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -13,7 +13,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Amazon.com Inc.](/Knowledge-base/Dictionary/Company/amazon-com-inc-)
 - [x] [Facebook Inc.](/Knowledge-base/Dictionary/Company/facebook-inc-)
 - [x] [Steve Jobs (Apple Co-founder)](/Knowledge-base/Dictionary/Person/steve-jobs-apple-co-founder)
-- [ ] Bill Gates (Microsoft Co-founder)|Dictionary/Person
+- [x] [Bill Gates (Microsoft Co-founder)](/Knowledge-base/Dictionary/Person/bill-gates-microsoft-co-founder)
 - [x] [The Command Query Responsibility Segregation (CQRS) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-command-query-responsibility-segregation-cqrs-pattern-in-spring-boot)
 - [x] [Elon Musk](/Knowledge-base/Dictionary/elon-musk)
 - [x] [Mark Zuckerberg](/Knowledge-base/Dictionary/mark-zuckerberg)
