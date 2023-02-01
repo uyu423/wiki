@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T18:51:02.312Z
+date: 2023-02-01T18:57:52.837Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -87,7 +87,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot Logging](/Knowledge-base/Spring-Boot/spring-boot-logging)
 - [x] [Spring Boot CLI Command Line Interface](/Knowledge-base/Spring-Boot/spring-boot-cli-command-line-interface)
 - [ ] Spring Boot Autoconfiguration Process|Spring-Boot
-- [ ] Spring Boot Starter Project Templates|Spring-Boot
+- [x] [Spring Boot Starter Project Templates](/Knowledge-base/Spring-Boot/spring-boot-starter-project-templates)
 - [ ] Spring Boot Testing Best Practices|Spring-Boot
 - [ ] Spring Boot RESTful Services|Spring-Boot
 - [ ] Spring Boot and NoSQL Databases|Spring-Boot
