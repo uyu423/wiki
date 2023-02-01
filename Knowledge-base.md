@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T19:23:54.421Z
+date: 2023-02-01T19:24:25.148Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1458,3 +1458,107 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Gamevil (South Korea)|Dictionary/Company
 - [ ] PUBG Corporation (South Korea)|Dictionary/Company
 - [ ] NCSoft Corporation (South Korea)|Dictionary/Company
+
+## Person
+
+
+- [ ] Steve Jobs (Apple Co-founder)|Dictionary/Person
+- [ ] Bill Gates (Microsoft Co-founder)|Dictionary/Person
+- [ ] Steve Wozniak (Apple Co-founder)|Dictionary/Person
+- [ ] Mark Zuckerberg (Facebook CEO)|Dictionary/Person
+- [ ] Larry Page (Google Co-founder)|Dictionary/Person
+- [ ] Sergey Brin (Google Co-founder)|Dictionary/Person
+- [ ] Jeff Bezos (Amazon Founder and CEO)|Dictionary/Person
+- [ ] Elon Musk (Tesla CEO)|Dictionary/Person
+- [ ] Jack Ma (Alibaba Founder)|Dictionary/Person
+- [ ] Tim Cook (Apple CEO)|Dictionary/Person
+- [ ] Linus Torvalds (Linux Creator)|Dictionary/Person
+- [ ] Richard Stallman (Free Software Movement Founder)|Dictionary/Person
+- [ ] Eric Schmidt (Google Chairman)|Dictionary/Person
+- [ ] Larry Ellison (Oracle CEO)|Dictionary/Person
+- [ ] Michael Dell (Dell Technologies Founder)|Dictionary/Person
+- [ ] Steve Ballmer (Microsoft CEO)|Dictionary/Person
+- [ ] Satya Nadella (Microsoft CEO)|Dictionary/Person
+- [ ] John Chambers (Cisco Systems CEO)|Dictionary/Person
+- [ ] Meg Whitman (HP CEO)|Dictionary/Person
+- [ ] Brian Krzanich (Intel CEO)|Dictionary/Person
+- [ ] Ginni Rometty (IBM CEO)|Dictionary/Person
+- [ ] Travis Kalanick (Uber Co-founder)|Dictionary/Person
+- [ ] Evan Spiegel (Snap Inc. CEO)|Dictionary/Person
+- [ ] Jan Koum (WhatsApp Co-founder)|Dictionary/Person
+- [ ] Daniel Ek (Spotify CEO)|Dictionary/Person
+- [ ] Drew Houston (Dropbox CEO)|Dictionary/Person
+- [ ] Aaron Levie (Box CEO)|Dictionary/Person
+- [ ] John Donahoe (eBay CEO)|Dictionary/Person
+- [ ] Brad Smith (Microsoft President)|Dictionary/Person
+- [ ] Sanjay Kumar (Computer Associates CEO)|Dictionary/Person
+- [ ] Vinod Dham (Intel Engineer)|Dictionary/Person
+- [ ] Rajeev Suri (Nokia CEO)|Dictionary/Person
+- [ ] Pradeep Sindhu (Juniper Networks Co-founder)|Dictionary/Person
+- [ ] Andy Bechtolsheim (Sun Microsystems Co-founder)|Dictionary/Person
+- [ ] Ken Thompson (UNIX Developer)|Dictionary/Person
+- [ ] Dennis Ritchie (UNIX Developer)|Dictionary/Person
+- [ ] Bjarne Stroustrup (C++ Creator)|Dictionary/Person
+- [ ] Guido van Rossum (Python Creator)|Dictionary/Person
+- [ ] James Gosling (Java Creator)|Dictionary/Person
+- [ ] Brendan Eich (JavaScript Creator)|Dictionary/Person
+- [ ] John Carmack (id Software Co-founder)|Dictionary/Person
+- [ ] Sid Meier (Civilization Creator)|Dictionary/Person
+- [ ] Shigeru Miyamoto (Nintendo Game Designer)|Dictionary/Person
+- [ ] Hideo Kojima (Metal Gear Creator)|Dictionary/Person
+- [ ] Gabe Newell (Valve Co-founder)|Dictionary/Person
+- [ ] Palmer Luckey (Oculus VR Co-founder)|Dictionary/Person
+- [ ] Mark Cuban (Investor and Entrepreneur)|Dictionary/Person
+- [ ] Peter Thiel (PayPal Co-founder)|Dictionary/Person
+- [ ] Reid Hoffman (LinkedIn Co-founder)|Dictionary/Person
+- [ ] Max Levchin (PayPal Co-founder)|Dictionary/Person
+- [ ] Marc Andreessen (Netscape Co-founder)|Dictionary/Person
+- [ ] Jim Clark (Netscape Co-founder)|Dictionary/Person
+- [ ] Marc Benioff (Salesforce CEO)|Dictionary/Person
+- [ ] John McAfee (McAfee Anti-Virus Founder)|Dictionary/Person
+- [ ] Bob Metcalfe (Ethernet Inventor)|Dictionary/Person
+- [ ] Dave Cutler (Windows NT Architect)|Dictionary/Person
+- [ ] Bob Frankston (VisiCalc Creator)|Dictionary/Person
+- [ ] Douglas Engelbart (Computer Mouse Inventor)|Dictionary/Person
+- [ ] Ted Nelson (Hypertext Pioneer)|Dictionary/Person
+- [ ] Ivan Sutherland (Sketchpad Creator)|Dictionary/Person
+- [ ] John Warnock (Adobe Co-founder)|Dictionary/Person
+- [ ] Charles Geschke (Adobe Co-founder)|Dictionary/Person
+- [ ] Alan Cooper (Visual Basic Creator)|Dictionary/Person
+- [ ] David Heinemeier Hansson (Ruby on Rails Creator)|Dictionary/Person
+- [ ] Marten Mickos (MySQL CEO)|Dictionary/Person
+- [ ] Biz Stone (Twitter Co-founder)|Dictionary/Person
+- [ ] Evan Williams (Twitter Co-founder)|Dictionary/Person
+- [ ] Jack Dorsey (Twitter Co-founder)|Dictionary/Person
+- [ ] Kevin Systrom (Instagram Co-founder)|Dictionary/Person
+- [ ] Mike Krieger (Instagram Co-founder)|Dictionary/Person
+- [ ] Noam Chomsky (Linguistics Professor and Author)|Dictionary/Person
+- [ ] Claude Shannon (Information Theory Pioneer)|Dictionary/Person
+- [ ] Norbert Wiener (Cybernetics Founder)|Dictionary/Person
+- [ ] John von Neumann (Computer Science Pioneer)|Dictionary/Person
+- [ ] Edsger W. Dijkstra (Computer Science Pioneer)|Dictionary/Person
+- [ ] John Backus (FORTRAN Creator)|Dictionary/Person
+- [ ] Grace Hopper (COBOL Creator)|Dictionary/Person
+- [ ] Donald Knuth (Computer Science Author)|Dictionary/Person
+- [ ] Richard Hamming (Error-Correcting Code Creator)|Dictionary/Person
+- [ ] Michael Stonebraker (Database Management System Pioneer)|Dictionary/Person
+- [ ] Andrew S. Tanenbaum (Computer Networking Pioneer)|Dictionary/Person
+- [ ] John Warnock (PostScript Creator)|Dictionary/Person
+- [ ] Charles P. Thacker (Computer Hardware Pioneer)|Dictionary/Person
+- [ ] Robert Noyce (Intel Co-founder)|Dictionary/Person
+- [ ] Gordon Moore (Intel Co-founder)|Dictionary/Person
+- [ ] Andrew Grove (Intel CEO)|Dictionary/Person
+- [ ] Vinod Khosla (Sun Microsystems Co-founder)|Dictionary/Person
+- [ ] Andy Hertzfeld (Apple Engineer)|Dictionary/Person
+- [ ] Guy L. Steele Jr. (Programming Language Designer)|Dictionary/Person
+- [ ] Brian Kernighan (UNIX Developer)|Dictionary/Person
+- [ ] Dennis Ritchie (UNIX Developer)|Dictionary/Person
+- [ ] Ken Thompson (UNIX Developer)|Dictionary/Person
+- [ ] Tom Igoe (Arduino Creator)|Dictionary/Person
+- [ ] Limor Fried (Adafruit Industries Founder)|Dictionary/Person
+- [ ] Woz (Apple Co-founder)|Dictionary/Person
+- [ ] Robert Morris (UNIX Developer)|Dictionary/Person
+- [ ] Jaron Lanier (Virtual Reality Pioneer)|Dictionary/Person
+- [ ] Douglas Engelbart (Computer Mouse Inventor)|Dictionary/Person
+- [ ] Bob Taylor (ARPA Network Manager)|Dictionary/Person
+- [ ] Vint Cerf (Internet Pioneer)|Dictionary/Person
