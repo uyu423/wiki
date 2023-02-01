@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T15:03:46.816Z
+date: 2023-02-01T15:05:52.449Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -869,7 +869,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Pyglet|Dictionary
 - [ ] PyOpenGL|Dictionary
 - [ ] Pytorch Geometric|Dictionary
-- [ ] OpenCV|Dictionary
+- [x] [OpenCV](/Knowledge-base/Dictionary/opencv)
 - [ ] NumPy|Dictionary
 - [ ] SciPy|Dictionary
 - [ ] Beautiful Soup|Dictionary
