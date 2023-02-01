@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T10:04:41.081Z
+date: 2023-02-01T10:17:36.180Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -142,7 +142,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Observer Pattern in Spring Boot Development|Spring-Boot
 - [x] [The Factory Method Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-factory-method-pattern-in-spring-boot-development)
 - [ ] The Abstract Factory Pattern in Spring Boot Development|Spring-Boot
-- [ ] The Singleton Pattern in Spring Boot Development|Spring-Boot
+- [x] [The Singleton Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-singleton-pattern-in-spring-boot-development)
 - [x] [The Builder Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-builder-pattern-in-spring-boot-development)
 - [x] [The Prototype Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-prototype-pattern-in-spring-boot-development)
 - [ ] The Adapter Pattern in Spring Boot Development|Spring-Boot
