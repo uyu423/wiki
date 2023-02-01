@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T21:18:57.173Z
+date: 2023-02-01T21:23:43.376Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -190,7 +190,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Validating Input with Spring Boot|Spring-Boot
 - [ ] Testing with Spring Boot: Best Practices and Tools|Spring-Boot
 - [ ] Spring Boot Actuator Endpoints|Spring-Boot
-- [ ] Spring Boot Configuration Properties|Spring-Boot
+- [x] [Spring Boot Configuration Properties](/Knowledge-base/Spring-Boot/spring-boot-configuration-properties)
 - [x] [Spring Boot Logging](/Knowledge-base/Spring-Boot/spring-boot-logging)
 - [x] [Spring Boot CLI Command Line Interface](/Knowledge-base/Spring-Boot/spring-boot-cli-command-line-interface)
 - [ ] Spring Boot Autoconfiguration Process|Spring-Boot
