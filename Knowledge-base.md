@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T20:26:42.875Z
+date: 2023-02-01T20:27:57.601Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -34,6 +34,109 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [setting-up-a-backend-system-with-spring-boot](/ko/Knowledge-base/Backend/setting-up-a-backend-system-with-spring-boot)
 - [x] [building-backend-systems-with-grpc](/ko/Knowledge-base/Backend/building-backend-systems-with-grpc)
 - [x] [building-resilient-backend-systems-with-circuit-breakers](/ko/Knowledge-base/Backend/building-resilient-backend-systems-with-circuit-breakers)
+
+## Spring Boot Learning
+
+- [ ] 001: Introduction to Spring Boot|Spring-Boot/Learning
+- [ ] 002: Setting up a Spring Boot project|Spring-Boot/Learning
+- [ ] 003: Understanding Spring Boot auto-configuration|Spring-Boot/Learning
+- [ ] 004: Building REST APIs with Spring Boot and Spring MVC|Spring-Boot/Learning
+- [ ] 005: Working with Spring Boot and Spring Data JPA|Spring-Boot/Learning
+- [ ] 006: Implementing security with Spring Security|Spring-Boot/Learning
+- [ ] 007: Integrating with databases using Spring Boot and Hibernate|Spring-Boot/Learning
+- [ ] 008: Creating and using templates with Thymeleaf|Spring-Boot/Learning
+- [ ] 009: Using Spring Boot with NoSQL databases (MongoDB)|Spring-Boot/Learning
+- [ ] 010: Implementing caching with Spring Boot and Redis|Spring-Boot/Learning
+- [ ] 011: Monitoring and managing a Spring Boot application with Actuator|Spring-Boot/Learning
+- [ ] 012: Using Spring Boot with message brokers (RabbitMQ)|Spring-Boot/Learning
+- [ ] 013: Integrating with external systems using Spring Boot and REST|Spring-Boot/Learning
+- [ ] 014: Working with Spring Boot and WebSockets|Spring-Boot/Learning
+- [ ] 015: Building microservices with Spring Boot and Spring Cloud|Spring-Boot/Learning
+- [ ] 016: Deploying a Spring Boot application to the cloud (AWS, Google Cloud)|Spring-Boot/Learning
+- [ ] 017: Developing and deploying Spring Boot applications with Docker|Spring-Boot/Learning
+- [ ] 018: Understanding Spring Boot and Reactive Programming|Spring-Boot/Learning
+- [ ] 019: Creating and using custom configurations in Spring Boot|Spring-Boot/Learning
+- [ ] 020: Enhancing performance of a Spring Boot application|Spring-Boot/Learning
+- [ ] 021: Building and testing a Spring Boot application with Junit|Spring-Boot/Learning
+- [ ] 022: Implementing exception handling in a Spring Boot application|Spring-Boot/Learning
+- [ ] 023: Integrating with a search engine using Spring Boot and Elasticsearch|Spring-Boot/Learning
+- [ ] 024: Implementing pagination in a Spring Boot application|Spring-Boot/Learning
+- [ ] 025: Using Spring Boot and Spring Batch for data processing|Spring-Boot/Learning
+- [ ] 026: Working with Spring Boot and Apache Kafka|Spring-Boot/Learning
+- [ ] 027: Integrating with OAuth 2.0 using Spring Boot|Spring-Boot/Learning
+- [ ] 028: Building and deploying a Spring Boot application to PaaS (Heroku, OpenShift)|Spring-Boot/Learning
+- [ ] 029: Using Spring Boot with Apache Camel|Spring-Boot/Learning
+- [ ] 030: Developing and deploying a Spring Boot application with Gradle|Spring-Boot/Learning
+- [ ] 031: Building and deploying a Spring Boot application to IaaS (Virtualbox, VMware)|Spring-Boot/Learning
+- [ ] 032: Integrating with a file storage service using Spring Boot (S3, Google Drive)|Spring-Boot/Learning
+- [ ] 033: Implementing email sending in a Spring Boot application|Spring-Boot/Learning
+- [ ] 034: Using Spring Boot with Spring Cloud Config|Spring-Boot/Learning
+- [ ] 035: Building and deploying a Spring Boot application to container orchestration platforms (Kubernetes, Docker Swarm)|Spring-Boot/Learning
+- [ ] 036: Integrating with a payment gateway using Spring Boot|Spring-Boot/Learning
+- [ ] 037: Implementing custom logging in a Spring Boot application|Spring-Boot/Learning
+- [ ] 038: Building a chat application using Spring Boot and WebSockets|Spring-Boot/Learning
+- [ ] 039: Using Spring Boot with Apache Solr|Spring-Boot/Learning
+- [ ] 040: Implementing multi-language support in a Spring Boot application|Spring-Boot/Learning
+- [ ] 041: Using Spring Boot with Apache Storm|Spring-Boot/Learning
+- [ ] 042: Building a real-time analytics application using Spring Boot and Apache Flink|Spring-Boot/Learning
+- [ ] 043: Implementing a scheduled task in a Spring Boot application|Spring-Boot/Learning
+- [ ] 044: Integrating with a document storage service using Spring Boot (Dropbox, Google Drive)|Spring-Boot/Learning
+- [ ] 045: Using Spring Boot with Spring Integration|Spring-Boot/Learning
+- [ ] 046: Building a recommendation system using Spring Boot and Apache Mahout|Spring-Boot/Learning
+- [ ] 047: Implementing a file upload in a Spring Boot application|Spring-Boot/Learning
+- [ ] 048: Using Spring Boot with Apache Spark|Spring-Boot/Learning
+- [ ] 049: Building a machine learning application using Spring Boot and TensorFlow|Spring-Boot/Learning
+- [ ] 050: Integrating with a notification service using Spring Boot (Twilio, Slack)|Spring-Boot/Learning
+- [ ] 051: Using Spring Boot with Spring XD|Spring-Boot/Learning
+- [ ] 052: Building a search engine optimization (SEO) friendly website using Spring Boot and Spring MVC|Spring-Boot/Learning
+- [ ] 053: Implementing a file download in a Spring Boot application|Spring-Boot/Learning
+- [ ] 054: Using Spring Boot with Apache Nifi|Spring-Boot/Learning
+- [ ] 055: Building a real-time dashboarding application using Spring Boot and Apache Zeppelin|Spring-Boot/Learning
+- [ ] 056: Implementing a file management system in a Spring Boot application|Spring-Boot/Learning
+- [ ] 057: Understanding and Configuring Spring Boot's Properties|Spring-Boot/Learning
+- [ ] 058: Implementing Security in a Spring Boot Application|Spring-Boot/Learning
+- [ ] 059: Deploying a Spring Boot Application to the Cloud|Spring-Boot/Learning
+- [ ] 060: Working with Spring Boot's Actuator for Monitoring|Spring-Boot/Learning
+- [ ] 061: Integrating Spring Boot with NoSQL Databases|Spring-Boot/Learning
+- [ ] 062: Building a REST API with Spring Boot|Spring-Boot/Learning
+- [ ] 063: Testing a Spring Boot Application with JUnit and Mockito|Spring-Boot/Learning
+- [ ] 064: Customizing the Embedded Tomcat Configuration in Spring Boot|Spring-Boot/Learning
+- [ ] 065: Integrating Spring Boot with RabbitMQ for Messaging|Spring-Boot/Learning
+- [ ] 066: Creating a Batch Processing System in Spring Boot|Spring-Boot/Learning
+- [ ] 067: Understanding the Spring Boot DevTools for Faster Development|Spring-Boot/Learning
+- [ ] 068: Debugging a Spring Boot Application with the Spring Boot Debugger|Spring-Boot/Learning
+- [ ] 069: Customizing the Spring Boot CLI for Advanced Development|Spring-Boot/Learning
+- [ ] 070: Spring Boot with Thymeleaf: Creating Dynamic Templates|Spring-Boot/Learning
+- [ ] 071: Implementing Internationalization (i18n) in a Spring Boot Application|Spring-Boot/Learning
+- [ ] 072: Understanding and Using the Spring Boot Starters|Spring-Boot/Learning
+- [ ] 073: Integrating Spring Boot with Elasticsearch for Search and Analytics|Spring-Boot/Learning
+- [ ] 074: Integrating Spring Boot with Redis for Caching and Session Management|Spring-Boot/Learning
+- [ ] 075: Building a Microservice Architecture with Spring Boot|Spring-Boot/Learning
+- [ ] 076: Using the Spring Boot CLI for Scaffolding a Project|Spring-Boot/Learning
+- [ ] 077: Deploying a Spring Boot Application with Docker|Spring-Boot/Learning
+- [ ] 078: Integrating Spring Boot with Apache Cassandra for Distributed Data Management|Spring-Boot/Learning
+- [ ] 079: Implementing Asynchronous Processing in a Spring Boot Application|Spring-Boot/Learning
+- [ ] 080: Understanding and Using the Spring Boot Metrics for Monitoring|Spring-Boot/Learning
+- [ ] 081: Working with the Spring Boot Actuator for Health Checks|Spring-Boot/Learning
+- [ ] 082: Integrating Spring Boot with Apache Kafka for Streaming Data|Spring-Boot/Learning
+- [ ] 083: Building a CRUD Application with Spring Boot and JPA|Spring-Boot/Learning
+- [ ] 084: Implementing a Custom Authentication Provider in Spring Boot|Spring-Boot/Learning
+- [ ] 085: Building a Search Engine with Spring Boot and Solr|Spring-Boot/Learning
+- [ ] 086: Deploying a Spring Boot Application to Kubernetes|Spring-Boot/Learning
+- [ ] 087: Integrating Spring Boot with Spring Security for Authorization and Authentication|Spring-Boot/Learning
+- [ ] 088: Building a Reactive System with Spring Boot and Spring WebFlux|Spring-Boot/Learning
+- [ ] 089: Understanding and Using the Spring Boot Profiles for Configuration Management|Spring-Boot/Learning
+- [ ] 090: Implementing a Custom Logging System in Spring Boot|Spring-Boot/Learning
+- [ ] 091: Integrating Spring Boot with Apache Zookeeper for Coordination and Synchronization|Spring-Boot/Learning
+- [ ] 092: Building a Chat Application with Spring Boot and WebSockets|Spring-Boot/Learning
+- [ ] 093: Understanding and Configuring the Spring Boot Tracing System|Spring-Boot/Learning
+- [ ] 094: Integrating Spring Boot with Apache Storm for Real-Time Processing|Spring-Boot/Learning
+- [ ] 095: Building a Machine Learning System with Spring Boot and TensorFlow|Spring-Boot/Learning
+- [ ] 096: Implementing a Custom Error Handling System in Spring Boot|Spring-Boot/Learning
+- [ ] 097: Deploying a Spring Boot Application with OpenShift|Spring-Boot/Learning
+- [ ] 098: Integrating Spring Boot with Apache Hadoop for Big Data Processing|Spring-Boot/Learning
+- [ ] 099: Building a Scheduling System with Spring Boot and Quartz|Spring-Boot/Learning
+- [ ] 100: Integrating Spring Boot with Apache Spark for Fast Data Processing|Spring-Boot/Learning
 
 ## Spring Boot
 
