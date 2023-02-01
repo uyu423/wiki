@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T02:23:51.491Z
+date: 2023-02-01T02:36:46.908Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -819,7 +819,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Integrating TypeScript with Google Cloud Functions for Serverless Development|TypeScript
 - [x] [Building a REST API with TypeScript and Nest.js](/Knowledge-base/TypeScript/building-a-rest-api-with-typescript-and-nest-js)
 - [ ] Integrating TypeScript with Next.js for Server-side Rendering|TypeScript
-- [ ] Managing Data with TypeScript and MongoDB|TypeScript
+- [x] [Managing Data with TypeScript and MongoDB](/Knowledge-base/TypeScript/managing-data-with-typescript-and-mongodb)
 - [ ] Using TypeScript and GraphQL in a Next.js App|TypeScript
 - [ ] Debugging TypeScript and Nest.js Applications with Visual Studio Code|TypeScript
 
