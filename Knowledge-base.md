@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T01:37:22.745Z
+date: 2023-02-01T01:43:51.616Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -995,7 +995,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Cloud Computing Services|Dictionary
 - [x] [Infrastructure as a Service](/Knowledge-base/Dictionary/infrastructure-as-a-service)
 - [x] [Platform as a Service](/Knowledge-base/Dictionary/platform-as-a-service)
-- [ ] Software as a Service|Dictionary
+- [x] [Software as a Service](/Knowledge-base/Dictionary/software-as-a-service)
 - [ ] Data Center|Dictionary
 - [ ] Data Warehousing|Dictionary
 - [ ] Data Modeling|Dictionary
