@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T00:17:31.523Z
+date: 2023-02-01T00:24:40.826Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -633,7 +633,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] How to Build a Secure Application with OAuth and OpenID Connect|Common
 - [ ] The Benefits of Natural Language Processing (NLP) and Sentiment Analysis|Common
 - [ ] How to Build a Responsive Website with CSS Grid and Flexbox|Common
-- [ ] The Importance of Accessibility and Web Content Accessibility Guidelines (WCAG)|Common
+- [x] [The Importance of Accessibility and Web Content Accessibility Guidelines (WCAG)](/Knowledge-base/Common/the-importance-of-accessibility-and-web-content-accessibility-guidelines-wcag)
 - [ ] How to Build a Chatbot with IBM Watson and Node-RED|Common
 - [ ] The Benefits of Artificial General Intelligence (AGI) and Reinforcement Learning|Common
 - [x] [How to Build a Single-Page Application (SPA) with Vue](/Knowledge-base/Common/how-to-build-a-single-page-application-spa-with-vue)
