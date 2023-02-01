@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T21:43:22.709Z
+date: 2023-02-01T21:57:45.078Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1011,7 +1011,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] A Guide to Java's Non-Blocking I/O API|Java
 - [ ] Leveraging Java's Reflection API for Dynamic Programming|Java
 - [ ] Working with Java's StrictMath Class for Precise Calculations|Java
-- [ ] Java's java.util.concurrent Package for Parallel Programming|Java
+- [x] [Java's java.util.concurrent Package for Parallel Programming](/Knowledge-base/Java/java-s-java-util-concurrent-package-for-parallel-programming)
 - [x] [The Power of Java's Serialization API](/Knowledge-base/Java/the-power-of-java-s-serialization-api)
 - [ ] Building Custom Class Loaders in Java|Java
 - [x] [Java's Support for Asynchronous Processing with CompletableFuture](/Knowledge-base/Java/java-s-support-for-asynchronous-processing-with-completablefuture)
