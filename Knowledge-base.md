@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T04:04:35.470Z
+date: 2023-02-01T04:17:43.775Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -562,7 +562,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Case Study: Developing and Launching a Simple e-Commerce Service on AWS|Cloud
 - [ ] Case Study: Developing and Launching a Simple Chat Application on Azure|Cloud
 - [ ] Best Practices for Cloud DevOps on AWS and Azure|Cloud
-- [ ] Migrating Existing Applications to the Cloud on AWS and Azure|Cloud
+- [x] [Migrating Existing Applications to the Cloud on AWS and Azure](/Knowledge-base/Cloud/migrating-existing-applications-to-the-cloud-on-aws-and-azure)
 - [ ] Best Practices for Monitoring and Logging Cloud Services on AWS and Azure"|Cloud
 - [ ] Introduction to Serverless Architecture on AWS and Azure|Cloud
 - [ ] Building Microservices on AWS and Azure|Cloud
