@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T04:36:59.041Z
+date: 2023-02-01T04:44:20.670Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -519,7 +519,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] AWS S3: Storing and Retrieving Files in the Cloud|Cloud
 - [x] [AWS RDS: Setting Up a Relational Database in the Cloud](/Knowledge-base/Cloud/aws-rds-setting-up-a-relational-database-in-the-cloud)
 - [ ] AWS EC2: Launching and Configuring a Virtual Machine in the Cloud|Cloud
-- [ ] AWS VPC: Securing a Web Application with Virtual Private Clouds|Cloud
+- [x] [AWS VPC: Securing a Web Application with Virtual Private Clouds](/Knowledge-base/Cloud/aws-vpc-securing-a-web-application-with-virtual-private-clouds)
 - [ ] AWS SNS: Building a Pub/Sub Notification System in the Cloud|Cloud
 - [x] [AWS SQS: Building a Distributed Task Queue System in the Cloud](/Knowledge-base/Cloud/aws-sqs-building-a-distributed-task-queue-system-in-the-cloud)
 - [x] [AWS IAM: Managing User Access and Permissions in the Cloud](/Knowledge-base/Cloud/aws-iam-managing-user-access-and-permissions-in-the-cloud)
