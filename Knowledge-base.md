@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T17:36:36.687Z
+date: 2023-02-01T17:40:28.490Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -54,7 +54,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Validation in Spring Boot: Best Practices](/Knowledge-base/Spring-Boot/validation-in-spring-boot-best-practices)
 - [x] [Unit Testing in Spring Boot with JUnit](/Knowledge-base/Spring-Boot/unit-testing-in-spring-boot-with-junit)
 - [x] [Integration Testing in Spring Boot](/Knowledge-base/Spring-Boot/integration-testing-in-spring-boot)
-- [ ] End-to-end Testing with Spring Boot|Spring-Boot
+- [x] [End-to-end Testing with Spring Boot](/Knowledge-base/Spring-Boot/end-to-end-testing-with-spring-boot)
 - [x] [Spring Test: Testing Framework for Spring Boot](/Knowledge-base/Spring-Boot/spring-test-testing-framework-for-spring-boot)
 - [ ] Mockito: Mocking for Unit Testing in Spring Boot|Spring-Boot
 - [x] [Handling JSON and XML in Spring Boot](/Knowledge-base/Spring-Boot/handling-json-and-xml-in-spring-boot)
