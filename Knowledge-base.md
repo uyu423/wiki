@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T09:04:32.645Z
+date: 2023-02-01T09:17:34.618Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -709,7 +709,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Node.js and Microservices: Building a Robust Architecture|Nodejs
 - [ ] Node.js, GraphQL and Apollo: A Hands-On Guide|Nodejs
 - [ ] Working with Node.js and WebSockets for Real-Time Communication|Nodejs
-- [ ] Node.js and Serverless Computing: A Hands-On Guide|Nodejs
+- [x] [Node.js and Serverless Computing: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-serverless-computing-a-hands-on-guide)
 - [ ] Building RESTful APIs with Node.js and Express|Nodejs
 - [ ] Node.js and NoSQL Databases: A Hands-On Guide|Nodejs
 - [ ] Node.js and Redis: A Hands-On Guide to Caching and Session Management|Nodejs
