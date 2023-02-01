@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T15:23:50.626Z
+date: 2023-02-01T15:36:36.705Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -232,7 +232,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 019: Data Classes in Kotlin: Automatically Generating Equals, HashCode, and ToString Methods|Kotlin/Learning
 - [ ] 020: Delegated Properties in Kotlin: Implementing Delegation Patterns|Kotlin/Learning
 - [ ] 021: Annotation Processing in Kotlin: Generating Code at Compile Time|Kotlin/Learning
-- [ ] 022: Reflection in Kotlin: Reflecting on Classes, Properties, and Functions at Runtime|Kotlin/Learning
+- [x] [022: Reflection in Kotlin: Reflecting on Classes, Properties, and Functions at Runtime](/Knowledge-base/Kotlin/Learning/022-reflection-in-kotlin-reflecting-on-classes-properties-and-functions-at-runtime)
 - [ ] 023: Type Aliases in Kotlin: Shortening Long Class Names|Kotlin/Learning
 - [ ] 024: Enumerations in Kotlin: Creating Lists of Named Values|Kotlin/Learning
 - [ ] 025: Type Inference in Kotlin: Letting the Compiler Infer Types|Kotlin/Learning
