@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T21:05:03.611Z
+date: 2023-02-01T21:18:57.173Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1705,7 +1705,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Vivo (China)|Dictionary/Company
 - [ ] ZTE Corporation (China)|Dictionary/Company
 - [ ] Huawei Cloud (China)|Dictionary/Company
-- [ ] Tencent Cloud (China)|Dictionary/Company
+- [x] [Tencent Cloud (China)](/Knowledge-base/Dictionary/Company/tencent-cloud-china)
 - [ ] Alibaba Cloud (China)|Dictionary/Company
 - [ ] JD Cloud & AI (China)|Dictionary/Company
 - [ ] Bilibili Inc. (China)|Dictionary/Company
