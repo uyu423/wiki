@@ -2,16 +2,16 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T06:44:18.868Z
+date: 2023-02-01T06:50:21.514Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
+- [ ] NAVER Shopping Live|Dictionary
+- [x] [NAVER (Korea Company)](/Knowledge-base/Dictionary/naver-korea-company)
 - [x] [Kakao (Korea Company)](/Knowledge-base/Dictionary/kakao-korea-company)
 - [x] [Using Lombok in Java](/Knowledge-base/Java/using-lombok-in-java)
-- [x] [NAVER Shopping Live](/Knowledge-base/Dictionary/naver-shopping-live)
-- [x] [NAVER (Korea Company)](/Knowledge-base/Dictionary/naver-korea-company)
 - [x] [Github](/Knowledge-base/Dictionary/github)
 - [x] [Ubuntu](/Knowledge-base/Dictionary/ubuntu)
 - [x] [migrating-to-typescript-for-node-js-development](/ko/Knowledge-base/Backend/migrating-to-typescript-for-node-js-development)
