@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T14:25:10.704Z
+date: 2023-02-01T14:36:24.133Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -563,7 +563,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Continuous Deployment with AWS and Azure|Cloud
 - [ ] Improving Performance of Cloud Services on AWS and Azure|Cloud
 - [x] [Cost Optimization for Cloud Services on AWS and Azure](/Knowledge-base/Cloud/cost-optimization-for-cloud-services-on-aws-and-azure)
-- [ ] Integrating Cloud Services with On-Premises Systems|Cloud
+- [x] [Integrating Cloud Services with On-Premises Systems](/Knowledge-base/Cloud/integrating-cloud-services-with-on-premises-systems)
 - [ ] Automated Testing for Cloud Services on AWS and Azure|Cloud
 - [ ] Case Study: Developing and Launching a Simple e-Commerce Service on AWS|Cloud
 - [ ] Case Study: Developing and Launching a Simple Chat Application on Azure|Cloud
