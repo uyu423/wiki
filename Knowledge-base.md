@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T16:36:41.987Z
+date: 2023-02-01T16:44:24.056Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -231,7 +231,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 018: Companion Objects in Kotlin: Static Members in Classes|Kotlin/Learning
 - [ ] 019: Data Classes in Kotlin: Automatically Generating Equals, HashCode, and ToString Methods|Kotlin/Learning
 - [ ] 020: Delegated Properties in Kotlin: Implementing Delegation Patterns|Kotlin/Learning
-- [ ] 021: Annotation Processing in Kotlin: Generating Code at Compile Time|Kotlin/Learning
+- [x] [021: Annotation Processing in Kotlin: Generating Code at Compile Time](/Knowledge-base/Kotlin/Learning/021-annotation-processing-in-kotlin-generating-code-at-compile-time)
 - [x] [022: Reflection in Kotlin: Reflecting on Classes, Properties, and Functions at Runtime](/Knowledge-base/Kotlin/Learning/022-reflection-in-kotlin-reflecting-on-classes-properties-and-functions-at-runtime)
 - [ ] 023: Type Aliases in Kotlin: Shortening Long Class Names|Kotlin/Learning
 - [ ] 024: Enumerations in Kotlin: Creating Lists of Named Values|Kotlin/Learning
