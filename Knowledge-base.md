@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T20:40:24.898Z
+date: 2023-02-01T20:40:57.132Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -373,44 +373,6 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 060: Building high-performance applications with Nest.js and IndexedDB|Nest-js/Learning
 - [ ] 061: Using Nest.js with the Filesystem API|Nest-js/Learning
 - [ ] 062: Implementing file uploads and downloads in Nest.js|Nest-js/Learning
-- [ ] 063: Using Nest.js with the MediaDevices API|Nest-js/Learning
-- [ ] 064: Implementing webcam and microphone access in Nest.js|Nest-js/Learning
-- [ ] 065: Using Nest.js with the Payment Request API|Nest-js/Learning
-- [ ] 066: Implementing online payments in Nest.js|Nest-js/Learning
-- [ ] 067: Using Nest.js with the Push API|Nest-js/Learning
-- [ ] 068: Implementing push notifications in Nest.js|Nest-js/Learning
-- [ ] 069: Using Nest.js with the Notifications API|Nest-js/Learning
-- [ ] 070: Implementing desktop notifications in Nest.js|Nest-js/Learning
-- [ ] 071: Using Nest.js with the Background Sync API|Nest-js/Learning
-- [ ] 072: Implementing offline data synchronization in Nest.js|Nest-js/Learning
-- [ ] 073: Using Nest.js with the Web Speech API|Nest-js/Learning
-- [ ] 074: Implementing speech recognition in Nest.js|Nest-js/Learning
-- [ ] 075: Using Nest.js with the Web Bluetooth API|Nest-js/Learning
-- [ ] 076: Implementing Bluetooth communication in Nest.js|Nest-js/Learning
-- [ ] 077: Using Nest.js with the WebXR API|Nest-js/Learning
-- [ ] 078: Implementing virtual and augmented reality in Nest.js|Nest-js/Learning
-- [ ] 079: Using Nest.js with the WebHID API|Nest-js/Learning
-- [ ] 080: Implementing human interface device communication in Nest.js|Nest-js/Learning
-- [ ] 081: Using Nest.js with the Battery API|Nest-js/Learning
-- [ ] 082: Implementing battery status monitoring in Nest.js|Nest-js/Learning
-- [ ] 083: Using Nest.js with the Network Information API|Nest-js/Learning
-- [ ] 084: Implementing network status monitoring in Nest.js|Nest-js/Learning
-- [ ] 085: Using Nest.js with the Geolocation API|Nest-js/Learning
-- [ ] 086: Implementing location-based functionality in Nest.js|Nest-js/Learning
-- [ ] 087: Using Nest.js with the Ambient Light API|Nest-js/Learning
-- [ ] 088: Implementing ambient light monitoring in Nest.js|Nest-js/Learning
-- [ ] 089: Using Nest.js with the Accelerometer API|Nest-js/Learning
-- [ ] 090: Implementing motion-based functionality in Nest.js|Nest-js/Learning
-- [ ] 091: Using Nest.js with the Gyroscope API|Nest-js/Learning
-- [ ] 092: Implementing orientation-based functionality in Nest.js|Nest-js/Learning
-- [ ] 093: Using Nest.js with the Magnetometer API|Nest-js/Learning
-- [ ] 094: Implementing magnetic field monitoring in Nest.js|Nest-js/Learning
-- [ ] 095: Using Nest.js with the Proximity API|Nest-js/Learning
-- [ ] 096: Implementing proximity detection in Nest.js|Nest-js/Learning
-- [ ] 097: Using Nest.js with the Presentation API|Nest-js/Learning
-- [ ] 098: Implementing second screen experiences in Nest.js|Nest-js/Learning
-- [ ] 099: Using Nest.js with the Storage API|Nest-js/Learning
-- [ ] 100: Implementing offline storage in Nest.js|Nest-js/Learning
 
 ## Docker
 
