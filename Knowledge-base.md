@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T19:07:29.395Z
+date: 2023-02-01T19:17:56.840Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -799,7 +799,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Building Reactive Applications with TypeScript and RxJS|TypeScript
 - [ ] Implementing Caching and Performance Optimization in TypeScript Applications|TypeScript
 - [ ] Testing TypeScript Applications with Jest and Supertest|TypeScript
-- [ ] Using TypeScript with GraphQL for API Development|TypeScript
+- [x] [Using TypeScript with GraphQL for API Development](/Knowledge-base/TypeScript/using-typescript-with-graphql-for-api-development)
 - [ ] Developing Microservices with TypeScript and Nest.js|TypeScript
 - [ ] Integrating TypeScript with AWS Services for Serverless Development|TypeScript
 - [ ] Building Real-Time Chat Applications with TypeScript and WebSockets|TypeScript
