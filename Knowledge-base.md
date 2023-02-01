@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T13:58:58.863Z
+date: 2023-02-01T14:04:53.929Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -824,7 +824,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Using TypeScript with AWS DynamoDB for NoSQL Database Management](/Knowledge-base/TypeScript/using-typescript-with-aws-dynamodb-for-nosql-database-management)
 - [ ] Integrating TypeScript with Google Cloud Functions for Serverless Development|TypeScript
 - [x] [Building a REST API with TypeScript and Nest.js](/Knowledge-base/TypeScript/building-a-rest-api-with-typescript-and-nest-js)
-- [ ] Integrating TypeScript with Next.js for Server-side Rendering|TypeScript
+- [x] [Integrating TypeScript with Next.js for Server-side Rendering](/Knowledge-base/TypeScript/integrating-typescript-with-next-js-for-server-side-rendering)
 - [x] [Managing Data with TypeScript and MongoDB](/Knowledge-base/TypeScript/managing-data-with-typescript-and-mongodb)
 - [ ] Using TypeScript and GraphQL in a Next.js App|TypeScript
 - [ ] Debugging TypeScript and Nest.js Applications with Visual Studio Code|TypeScript
