@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T17:23:32.827Z
+date: 2023-02-01T17:27:46.057Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -52,7 +52,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Caching Strategies in Spring Boot](/Knowledge-base/Spring-Boot/caching-strategies-in-spring-boot)
 - [x] [Exception Handling in Spring Boot](/Knowledge-base/Spring-Boot/exception-handling-in-spring-boot)
 - [x] [Validation in Spring Boot: Best Practices](/Knowledge-base/Spring-Boot/validation-in-spring-boot-best-practices)
-- [ ] Unit Testing in Spring Boot with JUnit|Spring-Boot
+- [x] [Unit Testing in Spring Boot with JUnit](/Knowledge-base/Spring-Boot/unit-testing-in-spring-boot-with-junit)
 - [ ] Integration Testing in Spring Boot|Spring-Boot
 - [ ] End-to-end Testing with Spring Boot|Spring-Boot
 - [x] [Spring Test: Testing Framework for Spring Boot](/Knowledge-base/Spring-Boot/spring-test-testing-framework-for-spring-boot)
