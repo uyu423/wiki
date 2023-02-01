@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T18:16:37.213Z
+date: 2023-02-01T18:18:15.489Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -147,7 +147,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Singleton Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-singleton-pattern-in-spring-boot-development)
 - [x] [The Builder Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-builder-pattern-in-spring-boot-development)
 - [x] [The Prototype Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-prototype-pattern-in-spring-boot-development)
-- [ ] The Adapter Pattern in Spring Boot Development|Spring-Boot
+- [x] [The Adapter Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-adapter-pattern-in-spring-boot-development)
 - [ ] The Bridge Pattern in Spring Boot Development|Spring-Boot
 - [ ] The Composite Pattern in Spring Boot Development|Spring-Boot
 - [ ] The Decorator Pattern in Spring Boot Development|Spring-Boot
