@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T08:18:12.840Z
+date: 2023-02-01T08:24:15.662Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -172,7 +172,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kubernetes RBAC: Securing Access to Cluster Resources|Kubernetes
 - [ ] Kubernetes Security: Best Practices for Hardening Your Cluster|Kubernetes
 - [ ] Kubernetes Network Policies: Enforcing Communication Rules Between Pods|Kubernetes
-- [ ] Kubernetes Custom Resource Definitions: Extending the Kubernetes API|Kubernetes
+- [x] [Kubernetes Custom Resource Definitions: Extending the Kubernetes API](/Knowledge-base/Kubernetes/kubernetes-custom-resource-definitions-extending-the-kubernetes-api)
 - [ ] Kubernetes Operators: Automating Application Management with Custom Controllers|Kubernetes
 - [ ] Kubernetes Extension APIs: Enhancing the Functionality of Your Cluster|Kubernetes
 - [ ] Kubernetes Web UI: Managing Your Cluster with the Dashboard|Kubernetes
