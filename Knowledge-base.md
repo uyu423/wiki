@@ -2,12 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T10:23:54.435Z
+date: 2023-02-01T10:33:37.962Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
+- [ ] The Command Query Responsibility Segregation (CQRS) Pattern in Spring Boot|Spring-Boot
 - [x] [Elon Musk](/Knowledge-base/Dictionary/elon-musk)
 - [x] [Mark Zuckerberg](/Knowledge-base/Dictionary/mark-zuckerberg)
 - [x] [Yanolja](/Knowledge-base/Dictionary/yanolja)
@@ -135,7 +136,6 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Single Responsibility Principle in Spring Boot Development|Spring-Boot
 - [ ] The Open/Closed Principle in Spring Boot Development|Spring-Boot
 - [ ] The Interface Segregation Principle in Spring Boot Development|Spring-Boot
-- [x] [The Command Query Responsibility Segregation (CQRS) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-command-query-responsibility-segregation-cqrs-pattern-in-spring-boot)
 - [ ] The Model-View-Controller (MVC) Pattern in Spring Boot|Spring-Boot
 - [x] [The Model-View-Presenter (MVP) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-model-view-presenter-mvp-pattern-in-spring-boot)
 - [ ] The Model-View-ViewModel (MVVM) Pattern in Spring Boot|Spring-Boot
