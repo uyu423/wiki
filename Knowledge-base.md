@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T13:43:26.665Z
+date: 2023-02-01T13:58:58.863Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -963,7 +963,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [User Research](/Knowledge-base/Dictionary/user-research)
 - [x] [Product Management](/Knowledge-base/Dictionary/product-management)
 - [ ] Marketing Automation|Dictionary
-- [ ] Digital Transformation|Dictionary
+- [x] [Digital Transformation](/Knowledge-base/Dictionary/digital-transformation)
 - [ ] Enterprise Architecture|Dictionary
 - [ ] User Experience|Dictionary
 - [ ] Business Process Automation|Dictionary
