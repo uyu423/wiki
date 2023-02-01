@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T21:23:43.376Z
+date: 2023-02-01T21:36:36.848Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -49,7 +49,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 010: Implementing caching with Spring Boot and Redis|Spring-Boot/Learning
 - [ ] 011: Monitoring and managing a Spring Boot application with Actuator|Spring-Boot/Learning
 - [x] [012: Using Spring Boot with message brokers (RabbitMQ)](/Knowledge-base/Spring-Boot/Learning/012-using-spring-boot-with-message-brokers-rabbitmq)
-- [ ] 013: Integrating with external systems using Spring Boot and REST|Spring-Boot/Learning
+- [x] [013: Integrating with external systems using Spring Boot and REST](/Knowledge-base/Spring-Boot/Learning/013-integrating-with-external-systems-using-spring-boot-and-rest)
 - [ ] 014: Working with Spring Boot and WebSockets|Spring-Boot/Learning
 - [ ] 015: Building microservices with Spring Boot and Spring Cloud|Spring-Boot/Learning
 - [ ] 016: Deploying a Spring Boot application to the cloud (AWS, Google Cloud)|Spring-Boot/Learning
