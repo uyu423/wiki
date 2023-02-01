@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T19:02:38.343Z
+date: 2023-02-01T19:04:46.202Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1350,7 +1350,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Life Insurance|Dictionary
 - [ ] Retirement Plans|Dictionary
 - [ ] Stock Options|Dictionary
-- [ ] Employee Referral Program|Dictionary
+- [x] [Employee Referral Program](/Knowledge-base/Dictionary/employee-referral-program)
 - [x] [Employee Recognition](/Knowledge-base/Dictionary/employee-recognition)
 - [x] [Employee Training and Development](/Knowledge-base/Dictionary/employee-training-and-development)
 - [ ] Organizational Culture|Dictionary
