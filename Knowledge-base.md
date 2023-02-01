@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T23:43:45.429Z
+date: 2023-02-01T23:57:27.819Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -994,7 +994,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Node.js and RabbitMQ: A Hands-On Guide to Message Queues](/Knowledge-base/Nodejs/node-js-and-rabbitmq-a-hands-on-guide-to-message-queues)
 - [ ] Node.js and Graph Databases: A Hands-On Guide|Nodejs
 - [ ] Node.js and Machine Learning: A Hands-On Guide|Nodejs
-- [ ] Node.js and AI: A Hands-On Guide|Nodejs
+- [x] [Node.js and AI: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-ai-a-hands-on-guide)
 - [ ] Node.js and Computer Vision: A Hands-On Guide|Nodejs
 - [x] [Node.js and Natural Language Processing: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-natural-language-processing-a-hands-on-guide)
 - [ ] Node.js and Speech Recognition: A Hands-On Guide|Nodejs
