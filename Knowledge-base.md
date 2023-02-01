@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T17:18:33.767Z
+date: 2023-02-01T17:23:32.827Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -238,7 +238,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 025: Type Inference in Kotlin: Letting the Compiler Infer Types|Kotlin/Learning
 - [ ] 026: Advanced Control Flow in Kotlin: Understanding the with and apply Functions|Kotlin/Learning
 - [x] [027: Destructuring Declarations in Kotlin: Breaking Down Complex Objects into Variables](/Knowledge-base/Kotlin/Learning/027-destructuring-declarations-in-kotlin-breaking-down-complex-objects-into-variables)
-- [ ] 028: Infix Functions in Kotlin: Calling Functions Like Operators|Kotlin/Learning
+- [x] [028: Infix Functions in Kotlin: Calling Functions Like Operators](/Knowledge-base/Kotlin/Learning/028-infix-functions-in-kotlin-calling-functions-like-operators)
 - [ ] 029: Standard Library Functions in Kotlin: Utilizing Commonly Used Functions|Kotlin/Learning
 - [x] [030: String Templates in Kotlin: Interpolating Strings with Expressions](/Knowledge-base/Kotlin/Learning/030-string-templates-in-kotlin-interpolating-strings-with-expressions)
 - [ ] 031: Ranges in Kotlin: Representing and Iterating Over Ranges of Values|Kotlin/Learning
