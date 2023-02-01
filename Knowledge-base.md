@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T05:04:50.491Z
+date: 2023-02-01T05:17:48.119Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1113,7 +1113,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Iterative Development|Dictionary
 - [x] [Waterfall Model](/Knowledge-base/Dictionary/waterfall-model)
 - [ ] Spiral Model|Dictionary
-- [ ] Prototype Model|Dictionary
+- [x] [Prototype Model](/Knowledge-base/Dictionary/prototype-model)
 - [ ] Development Life Cycle|Dictionary
 - [ ] Software Requirements|Dictionary
 - [ ] User Stories|Dictionary
