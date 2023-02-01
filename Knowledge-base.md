@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T01:24:18.059Z
+date: 2023-02-01T01:37:22.745Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1063,7 +1063,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Unix|Dictionary
 - [ ] Windows|Dictionary
 - [x] [macOS](/Knowledge-base/Dictionary/macos)
-- [ ] Virtual Machine|Dictionary
+- [x] [Virtual Machine](/Knowledge-base/Dictionary/virtual-machine)
 - [x] [Hypervisor](/Knowledge-base/Dictionary/hypervisor)
 - [x] [Containers](/Knowledge-base/Dictionary/containers)
 - [ ] Docker|Dictionary
