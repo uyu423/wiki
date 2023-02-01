@@ -2,13 +2,12 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T20:52:30.902Z
+date: 2023-02-01T20:53:06.103Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [x] [Software Development 023: TCP/IP and HTTP](/Knowledge-base/Software-Development/Learning/software-development-023-tcpip-and-http)
 - [x] [012: Using Spring Boot with message brokers (RabbitMQ)](/Knowledge-base/Spring-Boot/Learning/012-using-spring-boot-with-message-brokers-rabbitmq)
 - [x] [Dockerizing Your Node.js Applications](/Knowledge-base/Backend/dockerizing-your-node-js-applications)
 - [x] [Apple Inc.](/Knowledge-base/Dictionary/Company/apple-inc-)
@@ -792,8 +791,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 020: Agile Methodology|Software-Development/Learning
 - [ ] Software Development 021: Software Architecture and Design Patterns|Software-Development/Learning
 - [ ] Software Development 022: Network Fundamentals|Software-Development/Learning
-- [ ] Software Development 023: TCP/IP and HTTP|Software-Development/Learning
-- [ ] Software Development 024: RESTful API Design|Software-Development/Learning
+- [x] [Software Development 023: TCP/IP and HTTP](/Knowledge-base/Software-Development/Learning/software-development-023-tcpip-and-http)- [ ] Software Development 024: RESTful API Design|Software-Development/Learning
 - [ ] Software Development 025: GraphQL|Software-Development/Learning
 - [ ] Software Development 026: Microservices Architecture|Software-Development/Learning
 - [ ] Software Development 027: Machine Learning and Artificial Intelligence|Software-Development/Learning
