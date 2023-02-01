@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T03:44:00.010Z
+date: 2023-02-01T03:57:21.870Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -478,7 +478,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Implementing Reverse Proxies for Better Performance|Backend
 - [ ] Securing Your Backend with Firewalls|Backend
 - [ ] Setting Up a Virtual Private Network (VPN) for Secure Communication|Backend
-- [ ] Enhancing User Experience with Content Delivery Network (CDN)|Backend
+- [x] [Enhancing User Experience with Content Delivery Network (CDN)](/Knowledge-base/Backend/enhancing-user-experience-with-content-delivery-network-cdn)
 - [ ] Implementing Distributed File Systems in Infrastructure Development|Backend
 - [ ] Resource Allocation and Scheduling in Backend Development|Backend
 - [ ] Managing Clusters for High Availability|Backend
