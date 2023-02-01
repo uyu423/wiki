@@ -2,13 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T14:48:46.911Z
+date: 2023-02-01T14:49:35.115Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [ ] The Command Query Responsibility Segregation (CQRS) Pattern in Spring Boot|Spring-Boot
+- [x] [The Command Query Responsibility Segregation (CQRS) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-command-query-responsibility-segregation-cqrs-pattern-in-spring-boot)
 - [x] [Elon Musk](/Knowledge-base/Dictionary/elon-musk)
 - [x] [Mark Zuckerberg](/Knowledge-base/Dictionary/mark-zuckerberg)
 - [x] [Yanolja](/Knowledge-base/Dictionary/yanolja)
