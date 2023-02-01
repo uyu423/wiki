@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T20:45:08.094Z
+date: 2023-02-01T20:49:23.933Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -766,6 +766,106 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Building High-Availability and Scalable Services on AWS and Azure|Cloud
 - [x] [Developing Multi-Region Applications on AWS and Azure](/Knowledge-base/Cloud/developing-multi-region-applications-on-aws-and-azure)
 - [ ] Using AWS and Azure for Edge Computing and IoT Workloads|Cloud
+
+## Software Development Learning
+
+- [ ] Software Development 001: Introduction to Computer Science|Software-Development/Learning
+- [ ] Software Development 002: Algorithms and Data Structures|Software-Development/Learning
+- [ ] Software Development 003: Programming Fundamentals|Software-Development/Learning
+- [ ] Software Development 004: Object-Oriented Programming|Software-Development/Learning
+- [ ] Software Development 005: Database Management|Software-Development/Learning
+- [ ] Software Development 006: Web Development Basics|Software-Development/Learning
+- [ ] Software Development 007: HTML, CSS and JavaScript|Software-Development/Learning
+- [ ] Software Development 008: Responsive Web Design|Software-Development/Learning
+- [ ] Software Development 009: Server-Side Development with PHP|Software-Development/Learning
+- [ ] Software Development 010: Ruby on Rails|Software-Development/Learning
+- [ ] Software Development 011: Node.js and Express.js|Software-Development/Learning
+- [ ] Software Development 012: Single Page Application (SPA) Development|Software-Development/Learning
+- [ ] Software Development 013: Cross-Platform Mobile Development with React Native|Software-Development/Learning
+- [ ] Software Development 014: iOS and Swift Development|Software-Development/Learning
+- [ ] Software Development 015: Android Development with Java|Software-Development/Learning
+- [ ] Software Development 016: Cloud Computing and AWS|Software-Development/Learning
+- [ ] Software Development 017: DevOps and Continuous Integration/Continuous Deployment (CI/CD)|Software-Development/Learning
+- [ ] Software Development 018: Linux Administration|Software-Development/Learning
+- [ ] Software Development 019: Git and Version Control|Software-Development/Learning
+- [ ] Software Development 020: Agile Methodology|Software-Development/Learning
+- [ ] Software Development 021: Software Architecture and Design Patterns|Software-Development/Learning
+- [ ] Software Development 022: Network Fundamentals|Software-Development/Learning
+- [ ] Software Development 023: TCP/IP and HTTP|Software-Development/Learning
+- [ ] Software Development 024: RESTful API Design|Software-Development/Learning
+- [ ] Software Development 025: GraphQL|Software-Development/Learning
+- [ ] Software Development 026: Microservices Architecture|Software-Development/Learning
+- [ ] Software Development 027: Machine Learning and Artificial Intelligence|Software-Development/Learning
+- [ ] Software Development 028: Neural Networks|Software-Development/Learning
+- [ ] Software Development 029: Computer Vision|Software-Development/Learning
+- [ ] Software Development 030: Natural Language Processing (NLP)|Software-Development/Learning
+- [ ] Software Development 031: Predictive Analytics|Software-Development/Learning
+- [ ] Software Development 032: Deep Learning|Software-Development/Learning
+- [ ] Software Development 033: TensorFlow and Keras|Software-Development/Learning
+- [ ] Software Development 034: Computer Graphics|Software-Development/Learning
+- [ ] Software Development 035: Game Development|Software-Development/Learning
+- [ ] Software Development 036: Virtual Reality (VR) and Augmented Reality (AR)|Software-Development/Learning
+- [ ] Software Development 037: Blockchain Technology|Software-Development/Learning
+- [ ] Software Development 038: Cryptography|Software-Development/Learning
+- [ ] Software Development 039: Cybersecurity|Software-Development/Learning
+- [ ] Software Development 040: Ethical Hacking|Software-Development/Learning
+- [ ] Software Development 041: Network Security|Software-Development/Learning
+- [ ] Software Development 042: Database Security|Software-Development/Learning
+- [ ] Software Development 043: Web Application Security|Software-Development/Learning
+- [ ] Software Development 044: Cloud Security|Software-Development/Learning
+- [ ] Software Development 045: Internet of Things (IoT)|Software-Development/Learning
+- [ ] Software Development 046: 5G Technology|Software-Development/Learning
+- [ ] Software Development 047: Big Data and Data Science|Software-Development/Learning
+- [ ] Software Development 048: Data Visualization|Software-Development/Learning
+- [ ] Software Development 049: Business Intelligence (BI)|Software-Development/Learning
+- [ ] Software Development 050: Predictive Maintenance|Software-Development/Learning
+- [ ] Software Development 051: Time Series Analysis|Software-Development/Learning
+- [ ] Software Development 052: Recommender Systems|Software-Development/Learning
+- [ ] Software Development 053: A/B Testing|Software-Development/Learning
+- [ ] Software Development 054: Sentiment Analysis|Software-Development/Learning
+- [ ] Software Development 055: Chatbots|Software-Development/Learning
+- [ ] Software Development 056: Robotics|Software-Development/Learning
+- [ ] Software Development 057: Autonomous Systems|Software-Development/Learning
+- [ ] Software Development 058: Internet of Drones (IoD)|Software-Development/Learning
+- [ ] Software Development 059: Industrial IoT (IIoT)|Software-Development/Learning
+- [ ] Software Development 060: Edge Computing|Software-Development/Learning
+- [ ] Software Development 061: Distributed Systems|Software-Development/Learning
+- [ ] Software Development 062: Containerization with Docker|Software-Development/Learning
+- [ ] Software Development 063: Kubernetes and Cluster Management|Software-Development/Learning
+- [ ] Software Development 064: Serverless Architecture|Software-Development/Learning
+- [ ] Software Development 065: High Performance Computing (HPC)|Software-Development/Learning
+- [ ] Software Development 066: Real-Time Analytics|Software-Development/Learning
+- [ ] Software Development 067: Streaming Analytics|Software-Development/Learning
+- [ ] Software Development 068: Event-Driven Architecture|Software-Development/Learning
+- [ ] Software Development 069: Event Sourcing and CQRS|Software-Development/Learning
+- [ ] Software Development 070: Service-Oriented Architecture (SOA)|Software-Development/Learning
+- [ ] Software Development 071: Domain-Driven Design (DDD)|Software-Development/Learning
+- [ ] Software Development 072: Test-Driven Development (TDD)|Software-Development/Learning
+- [ ] Software Development 073: Behavior-Driven Development (BDD)|Software-Development/Learning
+- [ ] Software Development 074: Continuous Testing|Software-Development/Learning
+- [ ] Software Development 075: Load Testing|Software-Development/Learning
+- [ ] Software Development 076: Performance Testing|Software-Development/Learning
+- [ ] Software Development 077: Security Testing|Software-Development/Learning
+- [ ] Software Development 078: Accessibility and Inclusiveness|Software-Development/Learning
+- [ ] Software Development 079: User Experience (UX) Design|Software-Development/Learning
+- [ ] Software Development 080: User Interface (UI) Design|Software-Development/Learning
+- [ ] Software Development 081: Information Architecture (IA)|Software-Development/Learning
+- [ ] Software Development 082: User Research|Software-Development/Learning
+- [ ] Software Development 083: Usability Testing|Software-Development/Learning
+- [ ] Software Development 084: Conversion Rate Optimization (CRO)|Software-Development/Learning
+- [ ] Software Development 085: Growth Hacking|Software-Development/Learning
+- [ ] Software Development 086: Digital Marketing|Software-Development/Learning
+- [ ] Software Development 087: Search Engine Optimization (SEO)|Software-Development/Learning
+- [ ] Software Development 088: Social Media Marketing|Software-Development/Learning
+- [ ] Software Development 089: Content Marketing|Software-Development/Learning
+- [ ] Software Development 090: Email Marketing|Software-Development/Learning
+- [ ] Software Development 091: Influencer Marketing|Software-Development/Learning
+- [ ] Software Development 092: Affiliate Marketing|Software-Development/Learning
+- [ ] Software Development 093: E-Commerce|Software-Development/Learning
+- [ ] Software Development 094: Payment Gateway Integration|Software-Development/Learning
+- [ ] Software Development 095: Order Management|Software-Development/Learning
+- [ ] Software Development 096: Inventory Management|Software-Development/Learning
+- [ ] Software Development 097: Customer Relationship Management|Software-Development/Learning
 
 ## Common
 
