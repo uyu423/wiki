@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T01:04:46.505Z
+date: 2023-02-01T01:17:48.171Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -890,7 +890,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Refactoring|Dictionary
 - [ ] Clean Software|Dictionary
 - [x] [Wooahan Brothers (South Korea Company)](/Knowledge-base/Dictionary/wooahan-brothers-south-korea-company)
-- [ ] LINE (South Korea Company)|Dictionary
+- [x] [LINE (South Korea Company)](/Knowledge-base/Dictionary/line-south-korea-company)
 - [ ] Coupang (South Korea Company)|Dictionary
 - [ ] Kakao (South Korea Company)|Dictionary
 - [ ] Yanolja (South Korea Company)|Dictionary
