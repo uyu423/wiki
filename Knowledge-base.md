@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T15:43:54.782Z
+date: 2023-02-01T15:57:45.758Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -614,7 +614,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Power of Parallel Processing and GPU Computing](/Knowledge-base/Common/the-power-of-parallel-processing-and-gpu-computing)
 - [ ] Introduction to Network Programming and Socket Programming|Common
 - [ ] The Advantages of Serverless Architecture and AWS Lambda|Common
-- [ ] How to Optimize SQL Queries for Improved Performance|Common
+- [x] [How to Optimize SQL Queries for Improved Performance](/Knowledge-base/Common/how-to-optimize-sql-queries-for-improved-performance)
 - [ ] The Fundamentals of Game Development with Unity|Common
 - [ ] How to Build a Scalable Web Application with Microservices|Common
 - [x] [An Overview of Blockchain and Cryptocurrency](/Knowledge-base/Common/an-overview-of-blockchain-and-cryptocurrency)
