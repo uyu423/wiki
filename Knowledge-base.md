@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T19:20:42.820Z
+date: 2023-02-01T19:23:14.441Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1346,3 +1346,115 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Employee Training and Development](/Knowledge-base/Dictionary/employee-training-and-development)
 - [ ] Organizational Culture|Dictionary
 - [ ] Employee Satisfaction Survey|Dictionary
+
+## Company
+
+- [ ] Apple Inc.|Dictionary/Company
+- [ ] Microsoft Corporation|Dictionary/Company
+- [ ] Amazon.com Inc.|Dictionary/Company
+- [ ] Alphabet Inc. (Google)|Dictionary/Company
+- [ ] Facebook Inc.|Dictionary/Company
+- [ ] IBM Corporation|Dictionary/Company
+- [ ] Intel Corporation|Dictionary/Company
+- [ ] Oracle Corporation|Dictionary/Company
+- [ ] Cisco Systems, Inc.|Dictionary/Company
+- [ ] Hewlett Packard Enterprise (HPE)|Dictionary/Company
+- [ ] SAP SE|Dictionary/Company
+- [ ] Accenture plc|Dictionary/Company
+- [ ] Dell Technologies|Dictionary/Company
+- [ ] Capgemini SE|Dictionary/Company
+- [ ] DXC Technology Company|Dictionary/Company
+- [ ] Atos SE|Dictionary/Company
+- [ ] Adyen N.V.|Dictionary/Company
+- [ ] Square, Inc.|Dictionary/Company
+- [ ] Slack Technologies, Inc.|Dictionary/Company
+- [ ] Zoom Video Communications, Inc.|Dictionary/Company
+- [ ] DocuSign, Inc.|Dictionary/Company
+- [ ] Salesforce.com, Inc.|Dictionary/Company
+- [ ] Shopify Inc.|Dictionary/Company
+- [ ] Dropbox, Inc.|Dictionary/Company
+- [ ] AirBnB, Inc.|Dictionary/Company
+- [ ] Uber Technologies, Inc.|Dictionary/Company
+- [ ] Tesla, Inc.|Dictionary/Company
+- [ ] Palantir Technologies Inc.|Dictionary/Company
+- [ ] NVIDIA Corporation|Dictionary/Company
+- [ ] AMD, Inc.|Dictionary/Company
+- [ ] Intel Corporation|Dictionary/Company
+- [ ] Micron Technology, Inc.|Dictionary/Company
+- [ ] Western Digital Corporation|Dictionary/Company
+- [ ] Seagate Technology PLC|Dictionary/Company
+- [ ] Toshiba Corporation|Dictionary/Company
+- [ ] SanDisk Corporation|Dictionary/Company
+- [ ] Kingston Technology Corporation|Dictionary/Company
+- [ ] Corsair Components, Inc.|Dictionary/Company
+- [ ] Razer Inc.|Dictionary/Company
+- [ ] Samsung Electronics Co., Ltd. (South Korea)|Dictionary/Company
+- [ ] Huawei Technologies Co., Ltd. (China)|Dictionary/Company
+- [ ] WIPRO Limited (India)|Dictionary/Company
+- [ ] Infosys Limited (India)|Dictionary/Company
+- [ ] HCL Technologies Limited (India)|Dictionary/Company
+- [ ] Tata Consultancy Services (TCS) (India)|Dictionary/Company
+- [ ] Lenovo Group Limited (China)|Dictionary/Company
+- [ ] Hitachi, Ltd. (Japan)|Dictionary/Company
+- [ ] Fujitsu Limited (Japan)|Dictionary/Company
+- [ ] NEC Corporation (Japan)|Dictionary/Company
+- [ ] NTT Data Corporation (Japan)|Dictionary/Company
+- [ ] SK Hynix Inc. (South Korea)|Dictionary/Company
+- [ ] LG Electronics Inc. (South Korea)|Dictionary/Company
+- [ ] Baidu, Inc. (China)|Dictionary/Company
+- [ ] Tencent Holdings Limited (China)|Dictionary/Company
+- [ ] Alibaba Group Holding Limited (China)|Dictionary/Company
+- [ ] Xiaomi Corporation (China)|Dictionary/Company
+- [ ] ByteDance (China)|Dictionary/Company
+- [ ] Meituan (China)|Dictionary/Company
+- [ ] SoftBank Group Corp. (Japan)|Dictionary/Company
+- [ ] Samsung Electronics Co., Ltd. (South Korea)|Dictionary/Company
+- [ ] Huawei Technologies Co., Ltd. (China)|Dictionary/Company
+- [ ] WIPRO Limited (India)|Dictionary/Company
+- [ ] Infosys Limited (India)|Dictionary/Company
+- [ ] HCL Technologies Limited (India)|Dictionary/Company
+- [ ] Tata Consultancy Services (TCS) (India)|Dictionary/Company
+- [ ] Lenovo Group Limited (China)|Dictionary/Company
+- [ ] Hitachi, Ltd. (Japan)|Dictionary/Company
+- [ ] Fujitsu Limited (Japan)|Dictionary/Company
+- [ ] NEC Corporation (Japan)|Dictionary/Company
+- [ ] NTT Data Corporation (Japan)|Dictionary/Company
+- [ ] SK Hynix Inc. (South Korea)|Dictionary/Company
+- [ ] LG Electronics Inc. (South Korea)|Dictionary/Company
+- [ ] Baidu, Inc. (China)|Dictionary/Company
+- [ ] Tencent Holdings Limited (China)|Dictionary/Company
+- [ ] Alibaba Group Holding Limited (China)|Dictionary/Company
+- [ ] Xiaomi Corporation (China)|Dictionary/Company
+- [ ] ByteDance (China)|Dictionary/Company
+- [ ] Meituan (China)|Dictionary/Company
+- [ ] SoftBank Group Corp. (Japan)|Dictionary/Company
+- [ ] JD.com, Inc. (China)|Dictionary/Company
+- [ ] Pinduoduo (China)|Dictionary/Company
+- [ ] Honor (China)|Dictionary/Company
+- [ ] Oppo (China)|Dictionary/Company
+- [ ] Vivo (China)|Dictionary/Company
+- [ ] ZTE Corporation (China)|Dictionary/Company
+- [ ] Huawei Cloud (China)|Dictionary/Company
+- [ ] Tencent Cloud (China)|Dictionary/Company
+- [ ] Alibaba Cloud (China)|Dictionary/Company
+- [ ] JD Cloud & AI (China)|Dictionary/Company
+- [ ] Bilibili Inc. (China)|Dictionary/Company
+- [ ] Kuaishou Technology (China)|Dictionary/Company
+- [ ] JDE Peet's (Netherlands)|Dictionary/Company
+- [ ] Coca-Cola Beverages (Japan)|Dictionary/Company
+- [ ] Fancl Corporation (Japan)|Dictionary/Company
+- [ ] Rakuten, Inc. (Japan)|Dictionary/Company
+- [ ] Naver Corporation (South Korea)|Dictionary/Company
+- [ ] Kakao Corporation (South Korea)|Dictionary/Company
+- [ ] Line Corporation (Japan)|Dictionary/Company
+- [ ] Bandai Namco Holdings (Japan)|Dictionary/Company
+- [ ] CyberAgent, Inc. (Japan)|Dictionary/Company
+- [ ] DeNA Co., Ltd. (Japan)|Dictionary/Company
+- [ ] GREE, Inc. (Japan)|Dictionary/Company
+- [ ] NHN Entertainment Corporation (South Korea)|Dictionary/Company
+- [ ] Com2uS Corporation (South Korea)|Dictionary/Company
+- [ ] Netmarble Corporation (South Korea)|Dictionary/Company
+- [ ] Nexon Co., Ltd. (South Korea)|Dictionary/Company
+- [ ] Gamevil (South Korea)|Dictionary/Company
+- [ ] PUBG Corporation (South Korea)|Dictionary/Company
+- [ ] NCSoft Corporation (South Korea)|Dictionary/Company
