@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T10:17:36.180Z
+date: 2023-02-01T10:23:54.435Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -954,7 +954,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Engineering|Dictionary
 - [ ] Systems Architecture|Dictionary
 - [ ] Database Management|Dictionary
-- [ ] Network Engineering|Dictionary
+- [x] [Network Engineering](/Knowledge-base/Dictionary/network-engineering)
 - [ ] Quality Assurance|Dictionary
 - [x] [Project Management](/Knowledge-base/Dictionary/project-management)
 - [x] [Business Analysis](/Knowledge-base/Dictionary/business-analysis)
