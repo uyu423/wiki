@@ -2,13 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T07:17:44.467Z
+date: 2023-02-01T07:21:01.537Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [x] [Yanolja](/Knowledge-base/Dictionary/yanolja)
+- [ ] Yanolja|Dictionary
 - [x] [NAVER Shopping Live](/Knowledge-base/Dictionary/naver-shopping-live)
 - [x] [NAVER](/Knowledge-base/Dictionary/naver)
 - [x] [NAVER Corporation](/Knowledge-base/Dictionary/naver-corporation)
