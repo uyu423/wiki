@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T20:50:18.649Z
+date: 2023-02-01T20:51:24.609Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -772,7 +772,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 - [ ] Software Development 001: Introduction to Computer Science|Software-Development/Learning
 - [ ] Software Development 002: Algorithms and Data Structures|Software-Development/Learning
-- [ ] Software Development 003: Programming Fundamentals|Software-Development/Learning
+- [x] [Software Development 003: Programming Fundamentals](/Knowledge-base/Software-Development/Learning/software-development-003-programming-fundamentals)
 - [ ] Software Development 004: Object-Oriented Programming|Software-Development/Learning
 - [ ] Software Development 005: Database Management|Software-Development/Learning
 - [ ] Software Development 006: Web Development Basics|Software-Development/Learning
