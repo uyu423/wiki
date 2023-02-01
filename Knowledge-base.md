@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-01-31T23:57:26.288Z
+date: 2023-02-01T00:06:07.877Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -174,7 +174,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kubernetes API: Interacting with Your Cluster with REST Requests|Kubernetes
 - [ ] Kubernetes Plugins: Adding Custom Functionality to kubectl|Kubernetes
 - [ ] Kubernetes Multi-Cluster Management: Managing Multiple Clusters with kubefed|Kubernetes
-- [ ] Kubernetes on AWS: Deploying Clusters on Amazon Web Services|Kubernetes
+- [x] [Kubernetes on AWS: Deploying Clusters on Amazon Web Services](/Knowledge-base/Kubernetes/kubernetes-on-aws-deploying-clusters-on-amazon-web-services)
 - [ ] Kubernetes on Google Cloud: Deploying Clusters on Google Cloud Platform|Kubernetes
 - [ ] Kubernetes on Azure: Deploying Clusters on Microsoft Azure|Kubernetes
 - [ ] Kubernetes on Oracle Cloud: Deploying Clusters on Oracle Cloud Infrastructure|Kubernetes
