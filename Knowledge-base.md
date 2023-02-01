@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T19:57:52.647Z
+date: 2023-02-01T20:05:01.092Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1558,7 +1558,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Tom Igoe (Arduino Creator)|Dictionary/Person
 - [ ] Limor Fried (Adafruit Industries Founder)|Dictionary/Person
 - [ ] Woz (Apple Co-founder)|Dictionary/Person
-- [ ] Robert Morris (UNIX Developer)|Dictionary/Person
+- [x] [Robert Morris (UNIX Developer)](/Knowledge-base/Dictionary/Person/robert-morris-unix-developer)
 - [ ] Jaron Lanier (Virtual Reality Pioneer)|Dictionary/Person
 - [ ] Douglas Engelbart (Computer Mouse Inventor)|Dictionary/Person
 - [ ] Bob Taylor (ARPA Network Manager)|Dictionary/Person
