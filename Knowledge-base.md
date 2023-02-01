@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T07:22:43.183Z
+date: 2023-02-01T07:24:20.742Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1146,7 +1146,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Project Plan|Dictionary
 - [ ] Gantt Chart|Dictionary
 - [ ] Resource Allocation|Dictionary
-- [ ] Budgeting|Dictionary
+- [x] [Budgeting](/Knowledge-base/Dictionary/budgeting)
 - [ ] Schedule Management|Dictionary
 - [ ] Risk Management|Dictionary
 - [x] [Change Management](/Knowledge-base/Dictionary/change-management)
