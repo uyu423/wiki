@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T07:05:09.304Z
+date: 2023-02-01T07:05:19.326Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -10,10 +10,9 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 - [x] [NAVER Shopping Live](/Knowledge-base/Dictionary/naver-shopping-live)
 - [x] [NAVER](/Knowledge-base/Dictionary/naver)
-- [x] [NAVER Corporation](/Knowledge-base/Dictionary/naver-corporation)
+- [ ] NAVER Corporation|Dictionary
 - [x] [Kakao (Korea Company)](/Knowledge-base/Dictionary/kakao-korea-company)
 - [x] [KakaoTalk](/Knowledge-base/Dictionary/kakaotalk)
-- [ ] Ecube Labs|Dictionary
 - [x] [Using Lombok in Java](/Knowledge-base/Java/using-lombok-in-java)
 - [x] [Github](/Knowledge-base/Dictionary/github)
 - [x] [Ubuntu](/Knowledge-base/Dictionary/ubuntu)
@@ -1131,7 +1130,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Acceptance Criteria|Dictionary
 - [ ] Test Cases|Dictionary
 - [ ] Test Plan|Dictionary
-- [ ] Test Automation|Dictionary
+- [x] [Test Automation](/Knowledge-base/Dictionary/test-automation)
 - [ ] Regression Testing|Dictionary
 - [x] [Usability Testing](/Knowledge-base/Dictionary/usability-testing)
 - [x] [Accessibility Testing](/Knowledge-base/Dictionary/accessibility-testing)
