@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T05:23:40.918Z
+date: 2023-02-01T05:36:34.291Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -393,7 +393,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and MySQL: Connecting to a Relational Database|Kotlin
 - [x] [Kotlin and MongoDB: Connecting to a Document-Oriented Database](/Knowledge-base/Kotlin/kotlin-and-mongodb-connecting-to-a-document-oriented-database)
 - [ ] Kotlin and Neo4j: Connecting to a Graph Database|Kotlin
-- [ ] Kotlin and Flask: Building a Simple Web Application|Kotlin
+- [x] [Kotlin and Flask: Building a Simple Web Application](/Knowledge-base/Kotlin/kotlin-and-flask-building-a-simple-web-application)
 - [ ] Kotlin and Django: Building a Web Application with a Python Framework|Kotlin
 - [ ] Kotlin and Laravel: Building a Web Application with a PHP Framework|Kotlin
 - [x] [Kotlin and Ruby on Rails: Building a Web Application with a Ruby Framework](/Knowledge-base/Kotlin/kotlin-and-ruby-on-rails-building-a-web-application-with-a-ruby-framework)
