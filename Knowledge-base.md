@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T10:47:46.590Z
+date: 2023-02-01T10:57:25.804Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -777,7 +777,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## TypeScript: Deep Dive
 
-- [ ] Getting Started with TypeScript and Node.js|TypeScript
+- [x] [Getting Started with TypeScript and Node.js](/Knowledge-base/TypeScript/getting-started-with-typescript-and-node-js)
 - [ ] Building RESTful APIs with Nest.js and TypeScript|TypeScript
 - [x] [Developing CRUD Applications with Express.js and TypeScript](/Knowledge-base/TypeScript/developing-crud-applications-with-express-js-and-typescript)
 - [x] [Creating Real-Time Applications with TypeScript and WebSockets](/Knowledge-base/TypeScript/creating-real-time-applications-with-typescript-and-websockets)
