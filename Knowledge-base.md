@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T18:04:48.321Z
+date: 2023-02-01T18:05:30.592Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -59,7 +59,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Mockito: Mocking for Unit Testing in Spring Boot](/Knowledge-base/Spring-Boot/mockito-mocking-for-unit-testing-in-spring-boot)
 - [x] [Handling JSON and XML in Spring Boot](/Knowledge-base/Spring-Boot/handling-json-and-xml-in-spring-boot)
 - [x] [Building RESTful Services with Spring Boot](/Knowledge-base/Spring-Boot/building-restful-services-with-spring-boot)
-- [ ] Web Services with Spring Boot|Spring-Boot
+- [x] [Web Services with Spring Boot](/Knowledge-base/Spring-Boot/web-services-with-spring-boot)
 - [x] [Spring Boot DevTools: Streamlining Development](/Knowledge-base/Spring-Boot/spring-boot-devtools-streamlining-development)
 - [ ] Spring Initializer: Jumpstarting Your Project|Spring-Boot
 - [ ] Spring Tool Suite: The Ultimate Development Environment|Spring-Boot
