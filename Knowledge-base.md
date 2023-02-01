@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T11:05:37.234Z
+date: 2023-02-01T11:17:52.605Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -862,7 +862,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Plotly Dash|Dictionary
 - [ ] Jupyter Notebook|Dictionary
 - [ ] Tkinter|Dictionary
-- [ ] PyQt|Dictionary
+- [x] [PyQt](/Knowledge-base/Dictionary/pyqt)
 - [x] [PyGTK](/Knowledge-base/Dictionary/pygtk)
 - [ ] wxPython|Dictionary
 - [ ] Pygame|Dictionary
