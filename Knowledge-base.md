@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T02:36:46.908Z
+date: 2023-02-01T02:43:55.892Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -940,7 +940,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Code Review](/Knowledge-base/Dictionary/code-review)
 - [x] [Version Control](/Knowledge-base/Dictionary/version-control)
 - [ ] Responsive Design|Dictionary
-- [ ] Data Science|Dictionary
+- [x] [Data Science](/Knowledge-base/Dictionary/data-science)
 - [ ] Big Data|Dictionary
 - [ ] Cybersecurity|Dictionary
 - [ ] Web Development|Dictionary
