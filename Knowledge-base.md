@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T18:36:57.628Z
+date: 2023-02-01T18:37:13.667Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -11,7 +11,6 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Apple Inc.](/Knowledge-base/Dictionary/Company/apple-inc-)
 - [x] [Microsoft Corporation](/Knowledge-base/Dictionary/Company/microsoft-corporation)
 - [x] [Amazon.com Inc.](/Knowledge-base/Dictionary/Company/amazon-com-inc-)
-- [ ] Alphabet Inc. (Google)|Dictionary/Company
 - [x] [The Command Query Responsibility Segregation (CQRS) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-command-query-responsibility-segregation-cqrs-pattern-in-spring-boot)
 - [x] [Elon Musk](/Knowledge-base/Dictionary/elon-musk)
 - [x] [Mark Zuckerberg](/Knowledge-base/Dictionary/mark-zuckerberg)
@@ -1078,7 +1077,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Containers](/Knowledge-base/Dictionary/containers)
 - [ ] Docker|Dictionary
 - [x] [Kubernetes](/Knowledge-base/Dictionary/kubernetes)
-- [ ] Open-Source Software|Dictionary
+- [x] [Open-Source Software](/Knowledge-base/Dictionary/open-source-software)
 - [x] [Proprietary Software](/Knowledge-base/Dictionary/proprietary-software)
 - [ ] Commercial Software|Dictionary
 - [x] [Freeware](/Knowledge-base/Dictionary/freeware)
