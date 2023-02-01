@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T19:19:21.083Z
+date: 2023-02-01T19:20:42.820Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -893,7 +893,6 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Open AI](/Knowledge-base/Dictionary/open-ai)
 - [x] [Google](/Knowledge-base/Dictionary/google)
 - [x] [Facebook](/Knowledge-base/Dictionary/facebook)
-- [x] [Microsoft](/Knowledge-base/Dictionary/microsoft)
 - [ ] Infrastructure Engineering|Dictionary
 - [x] [Backend Programming](/Knowledge-base/Dictionary/backend-programming)
 - [ ] Frontend Programming|Dictionary
@@ -901,26 +900,18 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Refactoring|Dictionary
 - [ ] Clean Software|Dictionary
 - [x] [Wooahan Brothers (South Korea Company)](/Knowledge-base/Dictionary/wooahan-brothers-south-korea-company)
-- [x] [LINE (South Korea Company)](/Knowledge-base/Dictionary/line-south-korea-company)
-- [ ] Coupang (South Korea Company)|Dictionary
-- [ ] Kakao (South Korea Company)|Dictionary
-- [ ] Yanolja (South Korea Company)|Dictionary
-- [ ] NAVER |Dictionary
+- [ ] NAVER|Dictionary
 - [ ] Robert C. Martin|Dictionary
 - [ ] Linus Torvalds|Dictionary
 - [ ] Web Assembly|Dictionary
 - [x] [Realforce Keyboard](/Knowledge-base/Dictionary/realforce-keyboard)
 - [ ] Happy Hacking Keyboard|Dictionary
-- [ ] Qualcomm|Dictionary
-- [ ] Nvidia|Dictionary
 - [ ] Graphic Card|Dictionary
 - [ ] NVMe|Dictionary
 - [ ] RAM|Dictionary
 - [ ] Micro Architecture|Dictionary
 - [ ] CPU|Dictionary
 - [ ] Ryzen CPU|Dictionary
-- [ ] AMD|Dictionary
-- [ ] Intel|Dictionary
 - [ ] USB|Dictionary
 - [ ] bash|Dictionary
 - [ ] zsh|Dictionary
