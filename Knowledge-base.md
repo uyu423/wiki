@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T14:17:45.120Z
+date: 2023-02-01T14:25:10.704Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -603,7 +603,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Importance of Software Testing|Common
 - [ ] Linux System Administration: An Introduction|Common
 - [ ] A Guide to Machine Learning and Artificial Intelligence|Common
-- [ ] Programming with Python: A Beginner's Guide|Common
+- [x] [Programming with Python: A Beginner's Guide](/Knowledge-base/Common/programming-with-python-a-beginner-s-guide)
 - [ ] How to Build a Chatbot with Dialogflow|Common
 - [ ] Introduction to Cybersecurity and Ethical Hacking|Common
 - [ ] The Future of Virtual Reality and Augmented Reality|Common
