@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T08:05:50.438Z
+date: 2023-02-01T08:18:12.840Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -808,7 +808,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Using TypeScript with Elasticsearch for Search and Analytics|TypeScript
 - [x] [Integrating TypeScript with Firebase for Real-Time Database and Authentication](/Knowledge-base/TypeScript/integrating-typescript-with-firebase-for-real-time-database-and-authentication)
 - [ ] Building Multiplayer Games with TypeScript and WebSockets|TypeScript
-- [ ] Using TypeScript with Mongoose for MongoDB Data Management|TypeScript
+- [x] [Using TypeScript with Mongoose for MongoDB Data Management](/Knowledge-base/TypeScript/using-typescript-with-mongoose-for-mongodb-data-management)
 - [ ] Building Image and Video Processing Applications with TypeScript and Node.js|TypeScript
 - [x] [Integrating TypeScript with Twilio for SMS and Voice Communications](/Knowledge-base/TypeScript/integrating-typescript-with-twilio-for-sms-and-voice-communications)
 - [ ] Working with Asynchronous Programming in TypeScript and Node.js|TypeScript
