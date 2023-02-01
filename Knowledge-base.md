@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T06:17:54.457Z
+date: 2023-02-01T06:23:27.072Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -567,7 +567,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Introduction to Serverless Architecture on AWS and Azure|Cloud
 - [ ] Building Microservices on AWS and Azure|Cloud
 - [ ] Managing Stateful Applications on AWS and Azure|Cloud
-- [ ] Dealing with Latency and Networking Issues in the Cloud|Cloud
+- [x] [Dealing with Latency and Networking Issues in the Cloud](/Knowledge-base/Cloud/dealing-with-latency-and-networking-issues-in-the-cloud)
 - [ ] Implementing Disaster Recovery and Business Continuity on AWS and Azure|Cloud
 - [ ] Integrating Cloud Services with External APIs and Services|Cloud
 - [ ] Securing Data in the Cloud on AWS and Azure|Cloud
