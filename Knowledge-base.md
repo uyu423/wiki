@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T04:44:20.670Z
+date: 2023-02-01T04:57:33.079Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -53,7 +53,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Handling JSON and XML in Spring Boot](/Knowledge-base/Spring-Boot/handling-json-and-xml-in-spring-boot)
 - [x] [Building RESTful Services with Spring Boot](/Knowledge-base/Spring-Boot/building-restful-services-with-spring-boot)
 - [ ] Web Services with Spring Boot|Spring-Boot
-- [ ] Spring Boot DevTools: Streamlining Development|Spring-Boot
+- [x] [Spring Boot DevTools: Streamlining Development](/Knowledge-base/Spring-Boot/spring-boot-devtools-streamlining-development)
 - [ ] Spring Initializer: Jumpstarting Your Project|Spring-Boot
 - [ ] Spring Tool Suite: The Ultimate Development Environment|Spring-Boot
 - [ ] The Benefits of Spring MVC|Spring-Boot
