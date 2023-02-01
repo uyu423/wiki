@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T10:37:59.461Z
+date: 2023-02-01T10:43:37.136Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -817,7 +817,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Integrating TypeScript with AWS Lambda for Serverless Functions|TypeScript
 - [ ] Building Social Media Applications with TypeScript and Next.js|TypeScript
 - [ ] Using TypeScript with Knex.js for SQL Database Management|TypeScript
-- [ ] Building Virtual Reality Applications with TypeScript and A-Frame|TypeScript
+- [x] [Building Virtual Reality Applications with TypeScript and A-Frame](/Knowledge-base/TypeScript/building-virtual-reality-applications-with-typescript-and-a-frame)
 - [ ] Integrating TypeScript with Google Maps API for Location-Based Services|TypeScript
 - [ ] Working with Binary Data in TypeScript and Node.js|TypeScript
 - [ ] Building Chatbots with TypeScript and Dialogflow|TypeScript
