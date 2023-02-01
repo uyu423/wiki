@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T12:04:40.399Z
+date: 2023-02-01T12:17:51.681Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -562,7 +562,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Managing Access and Security for Cloud Services|Cloud
 - [ ] Continuous Deployment with AWS and Azure|Cloud
 - [ ] Improving Performance of Cloud Services on AWS and Azure|Cloud
-- [ ] Cost Optimization for Cloud Services on AWS and Azure|Cloud
+- [x] [Cost Optimization for Cloud Services on AWS and Azure](/Knowledge-base/Cloud/cost-optimization-for-cloud-services-on-aws-and-azure)
 - [ ] Integrating Cloud Services with On-Premises Systems|Cloud
 - [ ] Automated Testing for Cloud Services on AWS and Azure|Cloud
 - [ ] Case Study: Developing and Launching a Simple e-Commerce Service on AWS|Cloud
