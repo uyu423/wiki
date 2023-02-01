@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T07:57:41.296Z
+date: 2023-02-01T08:05:50.438Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -799,7 +799,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Building Real-Time Chat Applications with TypeScript and WebSockets|TypeScript
 - [ ] Using TypeScript with TypeORM for Object-Relational Mapping|TypeScript
 - [x] [Working with WebSockets in TypeScript and Express.js](/Knowledge-base/TypeScript/working-with-websockets-in-typescript-and-express-js)
-- [ ] Implementing Role-Based Access Control in TypeScript Applications|TypeScript
+- [x] [Implementing Role-Based Access Control in TypeScript Applications](/Knowledge-base/TypeScript/implementing-role-based-access-control-in-typescript-applications)
 - [ ] Using TypeScript with Redis for Data Caching and Management|TypeScript
 - [ ] Building Progressive Web Applications with TypeScript and Next.js|TypeScript
 - [ ] Integrating TypeScript with SendGrid for Email Notifications|TypeScript
