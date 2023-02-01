@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T19:38:45.515Z
+date: 2023-02-01T19:44:36.182Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1128,7 +1128,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Unit Testing|Dictionary
 - [ ] Test-Driven Development|Dictionary
 - [x] [Behavior-Driven Development](/Knowledge-base/Dictionary/behavior-driven-development)
-- [ ] Acceptance Criteria|Dictionary
+- [x] [Acceptance Criteria](/Knowledge-base/Dictionary/acceptance-criteria)
 - [ ] Test Cases|Dictionary
 - [ ] Test Plan|Dictionary
 - [ ] Test Automation|Dictionary
