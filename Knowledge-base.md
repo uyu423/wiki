@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T21:36:36.848Z
+date: 2023-02-01T21:43:22.709Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -380,7 +380,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Docker Compose: Simplifying Multi-Container Deployments](/Knowledge-base/Docker/docker-compose-simplifying-multi-container-deployments)
 - [ ] Docker Hub: Building and Sharing Your Docker Images|Docker
 - [ ] Dockerfile Best Practices: Creating Reliable Docker Images|Docker
-- [ ] Docker Image Management: Tagging and Pushing to a Registry|Docker
+- [x] [Docker Image Management: Tagging and Pushing to a Registry](/Knowledge-base/Docker/docker-image-management-tagging-and-pushing-to-a-registry)
 - [x] [Docker Volume Management: Persisting Data Outside Containers](/Knowledge-base/Docker/docker-volume-management-persisting-data-outside-containers)
 - [x] [Docker Compose Networking: Connecting Containers with Networks](/Knowledge-base/Docker/docker-compose-networking-connecting-containers-with-networks)
 - [x] [Docker Compose and Kubernetes: Integrating Your Compose Files with Clusters](/Knowledge-base/Docker/docker-compose-and-kubernetes-integrating-your-compose-files-with-clusters)
