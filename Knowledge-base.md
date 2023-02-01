@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T23:37:00.651Z
+date: 2023-02-01T23:43:45.429Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -677,7 +677,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Implementing HTTP/2 for Faster Backend Communication|Backend
 - [x] [Building Serverless Architecture for Scalable Backends](/Knowledge-base/Backend/building-serverless-architecture-for-scalable-backends)
 - [x] [Understanding Event Sourcing in Infrastructure Development](/Knowledge-base/Backend/understanding-event-sourcing-in-infrastructure-development)
-- [ ] Implementing gRPC in Your Backend|Backend
+- [x] [Implementing gRPC in Your Backend](/Knowledge-base/Backend/implementing-grpc-in-your-backend)
 - [ ] Understanding Graph Databases for Better Data Management|Backend
 - [ ] Building Event-Driven Architecture in Infrastructure Development|Backend
 - [ ] Implementing Serverless Functions with AWS Lambda and Google Cloud Functions|Backend
