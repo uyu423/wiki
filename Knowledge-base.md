@@ -2,13 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T06:50:21.514Z
+date: 2023-02-01T06:51:48.323Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [ ] NAVER Shopping Live|Dictionary
+- [x] [NAVER Shopping Live](/Knowledge-base/Dictionary/naver-shopping-live)
 - [x] [NAVER (Korea Company)](/Knowledge-base/Dictionary/naver-korea-company)
 - [x] [Kakao (Korea Company)](/Knowledge-base/Dictionary/kakao-korea-company)
 - [x] [Using Lombok in Java](/Knowledge-base/Java/using-lombok-in-java)
