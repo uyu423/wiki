@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T04:23:45.698Z
+date: 2023-02-01T04:36:59.041Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -418,7 +418,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Integrating Kafka with Spring Boot for Real-time Processing](/Knowledge-base/Backend/integrating-kafka-with-spring-boot-for-real-time-processing)
 - [ ] Database Management with MySQL and Redis|Backend
 - [ ] Setting up a Continuous Integration Pipeline with Jenkins and IntelliJ|Backend
-- [ ] Deploying Backend Applications with Kubernetes and Docker|Backend
+- [x] [Deploying Backend Applications with Kubernetes and Docker](/Knowledge-base/Backend/deploying-backend-applications-with-kubernetes-and-docker)
 - [ ] Exploring Node.js and TypeScript for Backend Development|Backend
 - [ ] Building REST APIs with Express.js|Backend
 - [x] [Scaling Applications with ElastiCache and ElasticBeanstalk](/Knowledge-base/Backend/scaling-applications-with-elasticache-and-elasticbeanstalk)
