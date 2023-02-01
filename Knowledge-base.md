@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T07:04:48.636Z
+date: 2023-02-01T07:05:09.304Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -13,6 +13,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [NAVER Corporation](/Knowledge-base/Dictionary/naver-corporation)
 - [x] [Kakao (Korea Company)](/Knowledge-base/Dictionary/kakao-korea-company)
 - [x] [KakaoTalk](/Knowledge-base/Dictionary/kakaotalk)
+- [ ] Ecube Labs|Dictionary
 - [x] [Using Lombok in Java](/Knowledge-base/Java/using-lombok-in-java)
 - [x] [Github](/Knowledge-base/Dictionary/github)
 - [x] [Ubuntu](/Knowledge-base/Dictionary/ubuntu)
