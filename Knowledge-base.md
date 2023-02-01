@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T19:23:14.441Z
+date: 2023-02-01T19:23:54.421Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -121,7 +121,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Spring Boot Microservices with Netflix OSS|Spring-Boot
 - [ ] Spring Boot and Docker for Microservices|Spring-Boot
 - [x] [Spring Boot and Kubernetes for Microservices](/Knowledge-base/Spring-Boot/spring-boot-and-kubernetes-for-microservices)
-- [ ] Spring Boot and Serverless Architecture with AWS Lambda|Spring-Boot
+- [x] [Spring Boot and Serverless Architecture with AWS Lambda](/Knowledge-base/Spring-Boot/spring-boot-and-serverless-architecture-with-aws-lambda)
 - [ ] Spring Boot and Event-Driven Architecture with Kafka|Spring-Boot
 - [x] [Spring Boot and Reactive Programming with Spring WebFlux](/Knowledge-base/Spring-Boot/spring-boot-and-reactive-programming-with-spring-webflux)
 - [ ] Spring Boot and WebSockets for Real-Time Communication|Spring-Boot
