@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T17:40:28.490Z
+date: 2023-02-01T17:43:47.938Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -158,7 +158,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Getting Started with Kubernetes: Installation and Cluster Creation|Kubernetes
 - [x] [Kubernetes Pods: The Building Blocks of Your Cluster](/Knowledge-base/Kubernetes/kubernetes-pods-the-building-blocks-of-your-cluster)
 - [ ] Kubernetes Services: Exposing Your Applications to the World|Kubernetes
-- [ ] Kubernetes ConfigMaps and Secrets: Managing Configuration Data|Kubernetes
+- [x] [Kubernetes ConfigMaps and Secrets: Managing Configuration Data](/Knowledge-base/Kubernetes/kubernetes-configmaps-and-secrets-managing-configuration-data)
 - [x] [Deploying Stateful Applications on Kubernetes with Persistent Volumes](/Knowledge-base/Kubernetes/deploying-stateful-applications-on-kubernetes-with-persistent-volumes)
 - [x] [Rolling Updates and Rollbacks with Kubernetes Deployments](/Knowledge-base/Kubernetes/rolling-updates-and-rollbacks-with-kubernetes-deployments)
 - [ ] Kubernetes Autoscaling: Adapting to Changing Loads|Kubernetes
