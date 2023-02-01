@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T23:23:41.942Z
+date: 2023-02-01T23:37:00.651Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1667,7 +1667,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Lenovo Group Limited (China)|Dictionary/Company
 - [ ] Hitachi, Ltd. (Japan)|Dictionary/Company
 - [ ] Fujitsu Limited (Japan)|Dictionary/Company
-- [ ] NEC Corporation (Japan)|Dictionary/Company
+- [x] [NEC Corporation (Japan)](/Knowledge-base/Dictionary/Company/nec-corporation-japan)
 - [ ] NTT Data Corporation (Japan)|Dictionary/Company
 - [ ] SK Hynix Inc. (South Korea)|Dictionary/Company
 - [ ] LG Electronics Inc. (South Korea)|Dictionary/Company
