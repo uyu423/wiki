@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T09:17:34.618Z
+date: 2023-02-01T09:24:18.659Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1183,7 +1183,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [IP Addressing](/Knowledge-base/Dictionary/ip-addressing)
 - [x] [Subnetting](/Knowledge-base/Dictionary/subnetting)
 - [ ] Routing|Dictionary
-- [ ] Switching|Dictionary
+- [x] [Switching](/Knowledge-base/Dictionary/switching)
 - [x] [Intrusion Detection](/Knowledge-base/Dictionary/intrusion-detection)
 - [ ] Intrusion Prevention|Dictionary
 - [ ] Wide Area Network|Dictionary
