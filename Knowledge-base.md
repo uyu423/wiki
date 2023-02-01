@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T02:43:55.892Z
+date: 2023-02-01T02:57:51.675Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1124,7 +1124,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] System Integration Testing|Dictionary
 - [ ] Unit Testing|Dictionary
 - [ ] Test-Driven Development|Dictionary
-- [ ] Behavior-Driven Development|Dictionary
+- [x] [Behavior-Driven Development](/Knowledge-base/Dictionary/behavior-driven-development)
 - [ ] Acceptance Criteria|Dictionary
 - [ ] Test Cases|Dictionary
 - [ ] Test Plan|Dictionary
