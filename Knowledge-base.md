@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T20:40:57.132Z
+date: 2023-02-01T20:44:39.042Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1276,7 +1276,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Event-Driven Architecture|Dictionary
 - [ ] Domain-Driven Design|Dictionary
 - [x] [Continuous Integration](/Knowledge-base/Dictionary/continuous-integration)
-- [ ] Continuous Delivery|Dictionary
+- [x] [Continuous Delivery](/Knowledge-base/Dictionary/continuous-delivery)
 - [ ] Continuous Deployment|Dictionary
 - [x] [Continuous Testing](/Knowledge-base/Dictionary/continuous-testing)
 - [x] [Continuous Monitoring](/Knowledge-base/Dictionary/continuous-monitoring)
