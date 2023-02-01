@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T19:17:56.840Z
+date: 2023-02-01T19:19:21.083Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -892,7 +892,6 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Tesla|Dictionary
 - [x] [Open AI](/Knowledge-base/Dictionary/open-ai)
 - [x] [Google](/Knowledge-base/Dictionary/google)
-- [ ] Apple (Company)|Dictionary
 - [x] [Facebook](/Knowledge-base/Dictionary/facebook)
 - [x] [Microsoft](/Knowledge-base/Dictionary/microsoft)
 - [ ] Infrastructure Engineering|Dictionary
