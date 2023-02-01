@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T06:37:21.235Z
+date: 2023-02-01T06:44:18.868Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1010,7 +1010,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Data Backup and Recovery](/Knowledge-base/Dictionary/data-backup-and-recovery)
 - [x] [Database Administration](/Knowledge-base/Dictionary/database-administration)
 - [ ] Database Management Systems|Dictionary
-- [ ] SQL|Dictionary
+- [x] [SQL](/Knowledge-base/Dictionary/sql)
 - [ ] NoSQL|Dictionary
 - [ ] Relational Database|Dictionary
 - [x] [Distributed Database](/Knowledge-base/Dictionary/distributed-database)
