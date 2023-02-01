@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T09:57:45.566Z
+date: 2023-02-01T10:04:41.081Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -842,7 +842,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Ruby on Rails|Dictionary
 - [ ] Laravel|Dictionary
 - [ ] Spring|Dictionary
-- [ ] Flask|Dictionary
+- [x] [Flask](/Knowledge-base/Dictionary/flask)
 - [ ] ASP.NET|Dictionary
 - [ ] Phoenix|Dictionary
 - [ ] Meteor|Dictionary
