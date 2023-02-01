@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T20:36:31.182Z
+date: 2023-02-01T20:40:24.898Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -308,6 +308,109 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kubernetes with Envoy: Managing Traffic for Your Services|Kubernetes
 - [ ] Kubernetes with Knative: Building and Deploying Serverless Applications|Kubernetes
 - [ ] Kubernetes with Tekton: Implementing CI/CD Pipelines for Your Applications|Kubernetes
+
+## Nest.js Learning
+
+- [ ] 001: Introduction to Nest.js and its benefits as a web framework|Nest-js/Learning
+- [ ] 002: Setting up a development environment for Nest.js|Nest-js/Learning
+- [ ] 003: Creating your first Nest.js application|Nest-js/Learning
+- [ ] 004: Understanding the architecture of a Nest.js application|Nest-js/Learning
+- [ ] 005: Routing and controllers in Nest.js|Nest-js/Learning
+- [ ] 006: Handling requests and responses in Nest.js|Nest-js/Learning
+- [ ] 007: Creating services in Nest.js|Nest-js/Learning
+- [ ] 008: Working with databases in Nest.js|Nest-js/Learning
+- [ ] 009: Integrating with MongoDB in Nest.js|Nest-js/Learning
+- [ ] 010: Integrating with TypeORM in Nest.js|Nest-js/Learning
+- [ ] 011: Implementing authentication in Nest.js|Nest-js/Learning
+- [ ] 012: Using guards for route protection in Nest.js|Nest-js/Learning
+- [ ] 013: Implementing authorization in Nest.js|Nest-js/Learning
+- [ ] 014: Using middlewares in Nest.js|Nest-js/Learning
+- [ ] 015: Error handling in Nest.js|Nest-js/Learning
+- [ ] 016: Debugging Nest.js applications|Nest-js/Learning
+- [ ] 017: Testing Nest.js applications|Nest-js/Learning
+- [ ] 018: Creating reusable components in Nest.js|Nest-js/Learning
+- [ ] 019: Modules and module organization in Nest.js|Nest-js/Learning
+- [ ] 020: Using pipes for data transformation in Nest.js|Nest-js/Learning
+- [ ] 021: Creating custom pipes in Nest.js|Nest-js/Learning
+- [ ] 022: Implementing internationalization in Nest.js|Nest-js/Learning
+- [ ] 023: Using templates with Nest.js|Nest-js/Learning
+- [ ] 024: Creating and consuming REST APIs in Nest.js|Nest-js/Learning
+- [ ] 025: Creating and consuming GraphQL APIs in Nest.js|Nest-js/Learning
+- [ ] 026: Understanding Nest.js microservices|Nest-js/Learning
+- [ ] 027: Implementing microservices with Nest.js|Nest-js/Learning
+- [ ] 028: Communication between microservices in Nest.js|Nest-js/Learning
+- [ ] 029: Deploying Nest.js applications to production|Nest-js/Learning
+- [ ] 030: Scaling Nest.js applications|Nest-js/Learning
+- [ ] 031: Integrating with other technologies such as Redis, RabbitMQ, and more|Nest-js/Learning
+- [ ] 032: Using Nest.js with TypeScript|Nest-js/Learning
+- [ ] 033: Using Nest.js with JavaScript|Nest-js/Learning
+- [ ] 034: Using Nest.js with Angular|Nest-js/Learning
+- [ ] 035: Using Nest.js with React|Nest-js/Learning
+- [ ] 036: Real-time communication with WebSockets in Nest.js|Nest-js/Learning
+- [ ] 037: Implementing real-time chat with Nest.js and WebSockets|Nest-js/Learning
+- [ ] 038: Building and deploying serverless applications with Nest.js|Nest-js/Learning
+- [ ] 039: Using Nest.js with AWS Lambda|Nest-js/Learning
+- [ ] 040: Using Nest.js with Google Cloud Functions|Nest-js/Learning
+- [ ] 041: Using Nest.js with Firebase Functions|Nest-js/Learning
+- [ ] 042: Implementing real-time notifications with Nest.js and Firebase|Nest-js/Learning
+- [ ] 043: Using Nest.js with Docker|Nest-js/Learning
+- [ ] 044: Using Nest.js with Kubernetes|Nest-js/Learning
+- [ ] 045: Using Nest.js with cloud-based solutions such as Heroku, DigitalOcean, and more|Nest-js/Learning
+- [ ] 046: Using Nest.js with serverless databases such as AWS DynamoDB, Google Cloud Firestore, and more|Nest-js/Learning
+- [ ] 047: Building and deploying scalable and performant applications with Nest.js|Nest-js/Learning
+- [ ] 048: Best practices for writing Nest.js code|Nest-js/Learning
+- [ ] 049: Common pitfalls to avoid when using Nest.js|Nest-js/Learning
+- [ ] 050: Advanced Nest.js features and techniques|Nest-js/Learning
+- [ ] 051: Building and deploying multi-tenant applications with Nest.js|Nest-js/Learning
+- [ ] 052: Using Nest.js with Server-Sent Events (SSE)|Nest-js/Learning
+- [ ] 053: Using Nest.js with WebRTC for real-time communication|Nest-js/Learning
+- [ ] 054: Using Nest.js with Progressive Web Apps (PWA)|Nest-js/Learning
+- [ ] 055: Implementing real-time updates with Nest.js and PWA|Nest-js/Learning
+- [ ] 056: Using Nest.js with progressive enhancement|Nest-js/Learning
+- [ ] 057: Using Nest.js with Service Workers|Nest-js/Learning
+- [ ] 058: Implementing offline-first applications with Nest.js and Service Workers|Nest-js/Learning
+- [ ] 059: Using Nest.js with IndexedDB|Nest-js/Learning
+- [ ] 060: Building high-performance applications with Nest.js and IndexedDB|Nest-js/Learning
+- [ ] 061: Using Nest.js with the Filesystem API|Nest-js/Learning
+- [ ] 062: Implementing file uploads and downloads in Nest.js|Nest-js/Learning
+- [ ] 063: Using Nest.js with the MediaDevices API|Nest-js/Learning
+- [ ] 064: Implementing webcam and microphone access in Nest.js|Nest-js/Learning
+- [ ] 065: Using Nest.js with the Payment Request API|Nest-js/Learning
+- [ ] 066: Implementing online payments in Nest.js|Nest-js/Learning
+- [ ] 067: Using Nest.js with the Push API|Nest-js/Learning
+- [ ] 068: Implementing push notifications in Nest.js|Nest-js/Learning
+- [ ] 069: Using Nest.js with the Notifications API|Nest-js/Learning
+- [ ] 070: Implementing desktop notifications in Nest.js|Nest-js/Learning
+- [ ] 071: Using Nest.js with the Background Sync API|Nest-js/Learning
+- [ ] 072: Implementing offline data synchronization in Nest.js|Nest-js/Learning
+- [ ] 073: Using Nest.js with the Web Speech API|Nest-js/Learning
+- [ ] 074: Implementing speech recognition in Nest.js|Nest-js/Learning
+- [ ] 075: Using Nest.js with the Web Bluetooth API|Nest-js/Learning
+- [ ] 076: Implementing Bluetooth communication in Nest.js|Nest-js/Learning
+- [ ] 077: Using Nest.js with the WebXR API|Nest-js/Learning
+- [ ] 078: Implementing virtual and augmented reality in Nest.js|Nest-js/Learning
+- [ ] 079: Using Nest.js with the WebHID API|Nest-js/Learning
+- [ ] 080: Implementing human interface device communication in Nest.js|Nest-js/Learning
+- [ ] 081: Using Nest.js with the Battery API|Nest-js/Learning
+- [ ] 082: Implementing battery status monitoring in Nest.js|Nest-js/Learning
+- [ ] 083: Using Nest.js with the Network Information API|Nest-js/Learning
+- [ ] 084: Implementing network status monitoring in Nest.js|Nest-js/Learning
+- [ ] 085: Using Nest.js with the Geolocation API|Nest-js/Learning
+- [ ] 086: Implementing location-based functionality in Nest.js|Nest-js/Learning
+- [ ] 087: Using Nest.js with the Ambient Light API|Nest-js/Learning
+- [ ] 088: Implementing ambient light monitoring in Nest.js|Nest-js/Learning
+- [ ] 089: Using Nest.js with the Accelerometer API|Nest-js/Learning
+- [ ] 090: Implementing motion-based functionality in Nest.js|Nest-js/Learning
+- [ ] 091: Using Nest.js with the Gyroscope API|Nest-js/Learning
+- [ ] 092: Implementing orientation-based functionality in Nest.js|Nest-js/Learning
+- [ ] 093: Using Nest.js with the Magnetometer API|Nest-js/Learning
+- [ ] 094: Implementing magnetic field monitoring in Nest.js|Nest-js/Learning
+- [ ] 095: Using Nest.js with the Proximity API|Nest-js/Learning
+- [ ] 096: Implementing proximity detection in Nest.js|Nest-js/Learning
+- [ ] 097: Using Nest.js with the Presentation API|Nest-js/Learning
+- [ ] 098: Implementing second screen experiences in Nest.js|Nest-js/Learning
+- [ ] 099: Using Nest.js with the Storage API|Nest-js/Learning
+- [ ] 100: Implementing offline storage in Nest.js|Nest-js/Learning
 
 ## Docker
 
