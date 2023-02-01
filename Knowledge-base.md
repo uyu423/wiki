@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T22:43:42.494Z
+date: 2023-02-01T22:58:16.173Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -881,7 +881,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] A Guide to Machine Learning and Artificial Intelligence|Common
 - [x] [Programming with Python: A Beginner's Guide](/Knowledge-base/Common/programming-with-python-a-beginner-s-guide)
 - [ ] How to Build a Chatbot with Dialogflow|Common
-- [ ] Introduction to Cybersecurity and Ethical Hacking|Common
+- [x] [Introduction to Cybersecurity and Ethical Hacking](/Knowledge-base/Common/introduction-to-cybersecurity-and-ethical-hacking)
 - [ ] The Future of Virtual Reality and Augmented Reality|Common
 - [ ] Data Visualization with D3.js and Tableau|Common
 - [ ] The Benefits of Docker and Containerization|Common
