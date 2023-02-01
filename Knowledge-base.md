@@ -2,14 +2,14 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T06:57:45.577Z
+date: 2023-02-01T06:57:45.712Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
 - [x] [NAVER Shopping Live](/Knowledge-base/Dictionary/naver-shopping-live)
-- [ ] NAVER|Dictionary
+- [x] [NAVER (Korea Company)](/Knowledge-base/Dictionary/naver-korea-company)
 - [x] [Kakao (Korea Company)](/Knowledge-base/Dictionary/kakao-korea-company)
 - [ ] KakaoTalk|Dictionary
 - [x] [Using Lombok in Java](/Knowledge-base/Java/using-lombok-in-java)
@@ -131,7 +131,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Open/Closed Principle in Spring Boot Development|Spring-Boot
 - [ ] The Interface Segregation Principle in Spring Boot Development|Spring-Boot
 - [x] [The Command Query Responsibility Segregation (CQRS) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-command-query-responsibility-segregation-cqrs-pattern-in-spring-boot)
-- [ ] The Model-View-Controller (MVC) Pattern in Spring Boot|Spring-Boot
+- [x] [The Model-View-Controller (MVC) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-model-view-controller-mvc-pattern-in-spring-boot)
 - [x] [The Model-View-Presenter (MVP) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-model-view-presenter-mvp-pattern-in-spring-boot)
 - [ ] The Model-View-ViewModel (MVVM) Pattern in Spring Boot|Spring-Boot
 - [ ] The Observer Pattern in Spring Boot Development|Spring-Boot
