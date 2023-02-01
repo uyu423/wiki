@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T22:24:10.741Z
+date: 2023-02-01T22:36:39.930Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -107,7 +107,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 068: Debugging a Spring Boot Application with the Spring Boot Debugger|Spring-Boot/Learning
 - [ ] 069: Customizing the Spring Boot CLI for Advanced Development|Spring-Boot/Learning
 - [ ] 070: Spring Boot with Thymeleaf: Creating Dynamic Templates|Spring-Boot/Learning
-- [ ] 071: Implementing Internationalization (i18n) in a Spring Boot Application|Spring-Boot/Learning
+- [x] [071: Implementing Internationalization (i18n) in a Spring Boot Application](/Knowledge-base/Spring-Boot/Learning/071-implementing-internationalization-i18n-in-a-spring-boot-application)
 - [ ] 072: Understanding and Using the Spring Boot Starters|Spring-Boot/Learning
 - [ ] 073: Integrating Spring Boot with Elasticsearch for Search and Analytics|Spring-Boot/Learning
 - [ ] 074: Integrating Spring Boot with Redis for Caching and Session Management|Spring-Boot/Learning
