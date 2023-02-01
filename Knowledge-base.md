@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T21:57:45.078Z
+date: 2023-02-01T22:06:06.887Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -609,7 +609,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Agile Methodologies for Backend Development|Backend
 - [ ] Implementing A/B Testing for Backend Applications|Backend
 - [ ] Real-time Communication with Socket.io|Backend
-- [ ] Building NoSQL Applications with MongoDB|Backend
+- [x] [Building NoSQL Applications with MongoDB](/Knowledge-base/Backend/building-nosql-applications-with-mongodb)
 - [x] [Setting up a Web Server with nginx and Apache2](/Knowledge-base/Backend/setting-up-a-web-server-with-nginx-and-apache2)
 - [x] [Securing Backend Applications with SSL](/Knowledge-base/Backend/securing-backend-applications-with-ssl)
 - [ ] Designing Databases for Scalable Applications|Backend
