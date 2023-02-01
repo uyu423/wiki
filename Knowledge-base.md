@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T00:43:28.974Z
+date: 2023-02-01T00:57:39.797Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1222,7 +1222,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Angular|Dictionary
 - [ ] React|Dictionary
 - [ ] Vue.js|Dictionary
-- [ ] TypeScript|Dictionary
+- [x] [TypeScript](/Knowledge-base/Dictionary/typescript)
 - [ ] Ruby|Dictionary
 - [ ] Python|Dictionary
 - [ ] PHP|Dictionary
