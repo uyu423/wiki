@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T16:18:02.352Z
+date: 2023-02-01T16:23:26.985Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -267,7 +267,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 054: Functions as First-Class Citizens in Kotlin: Understanding Higher-Order Functions|Kotlin/Learning
 - [ ] 055: Delegation in Kotlin: Implementing Delegation Patterns with Delegated Properties|Kotlin/Learning
 - [ ] 056: The When Expression in Kotlin: A Comprehensive Guide|Kotlin/Learning
-- [ ] 057: Exception Handling in Kotlin: Dealing with Errors and Exceptions|Kotlin/Learning
+- [x] [057: Exception Handling in Kotlin: Dealing with Errors and Exceptions](/Knowledge-base/Kotlin/Learning/057-exception-handling-in-kotlin-dealing-with-errors-and-exceptions)
 - [ ] 058: Data Classes in Kotlin: Simplifying Object Declaration with Automatic Methods|Kotlin/Learning
 - [ ] 059: The Builder Pattern in Kotlin: Creating Complex Objects with a Clear Syntax|Kotlin/Learning
 - [ ] 060: Interoperability with Java in Kotlin: Working Seamlessly with Java Code|Kotlin/Learning
