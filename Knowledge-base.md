@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T05:57:48.563Z
+date: 2023-02-01T06:05:06.868Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -857,7 +857,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Jupyter Notebook|Dictionary
 - [ ] Tkinter|Dictionary
 - [ ] PyQt|Dictionary
-- [ ] PyGTK|Dictionary
+- [x] [PyGTK](/Knowledge-base/Dictionary/pygtk)
 - [ ] wxPython|Dictionary
 - [ ] Pygame|Dictionary
 - [ ] Pyglet|Dictionary
