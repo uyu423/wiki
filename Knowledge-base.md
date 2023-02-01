@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T07:16:14.764Z
+date: 2023-02-01T07:17:44.467Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -766,7 +766,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Leveraging Java's java.util.concurrent.BrokenBarrierException for Exception Handling|Java
 - [ ] Java's java.util.concurrent.locks.ReentrantLock for Reentrant Locking|Java
 - [ ] Java's ReentrantReadWriteLock for Read-Write Concurrent Locking|Java
-- [ ] Using Java's java.util.concurrent.locks.StampedLock for Optimistic Locking|Java
+- [x] [Using Java's java.util.concurrent.locks.StampedLock for Optimistic Locking](/Knowledge-base/Java/using-java-s-java-util-concurrent-locks-stampedlock-for-optimistic-locking)
 - [ ] A Guide to Java's java.util.concurrent.locks.Condition for Thread Signaling|Java
 - [x] [Working with Java's java.util.concurrent.locks.LockSupport for Thread Blocking](/Knowledge-base/Java/working-with-java-s-java-util-concurrent-locks-locksupport-for-thread-blocking)
 - [ ] Leveraging Java's java.util.concurrent.ForkJoinPool for Recursive Task Processing|Java
