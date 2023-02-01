@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T02:57:51.675Z
+date: 2023-02-01T03:04:23.766Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -134,7 +134,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Model-View-Presenter (MVP) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-model-view-presenter-mvp-pattern-in-spring-boot)
 - [ ] The Model-View-ViewModel (MVVM) Pattern in Spring Boot|Spring-Boot
 - [ ] The Observer Pattern in Spring Boot Development|Spring-Boot
-- [ ] The Factory Method Pattern in Spring Boot Development|Spring-Boot
+- [x] [The Factory Method Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-factory-method-pattern-in-spring-boot-development)
 - [ ] The Abstract Factory Pattern in Spring Boot Development|Spring-Boot
 - [ ] The Singleton Pattern in Spring Boot Development|Spring-Boot
 - [x] [The Builder Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-builder-pattern-in-spring-boot-development)
