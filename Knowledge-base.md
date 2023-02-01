@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T12:23:41.026Z
+date: 2023-02-01T12:44:20.958Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1237,7 +1237,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Swift|Dictionary
 - [ ] Kotlin|Dictionary
 - [ ] Go|Dictionary
-- [ ] Rust|Dictionary
+- [x] [Rust](/Knowledge-base/Dictionary/rust)
 - [ ] Database Development|Dictionary
 - [ ] MySQL|Dictionary
 - [ ] PostgreSQL|Dictionary
