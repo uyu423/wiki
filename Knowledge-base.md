@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T03:18:35.965Z
+date: 2023-02-01T03:23:32.015Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -61,7 +61,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Integrating Hibernate with Spring Boot|Spring-Boot
 - [ ] Building a CRUD Application with Spring Boot|Spring-Boot
 - [ ] Spring Data JPA: Advanced Techniques|Spring-Boot
-- [ ] Spring Data MongoDB: Scaling for Big Data|Spring-Boot
+- [x] [Spring Data MongoDB: Scaling for Big Data](/Knowledge-base/Spring-Boot/spring-data-mongodb-scaling-for-big-data)
 - [ ] Securing RESTful Services with Spring Security|Spring-Boot
 - [ ] Aspect-Oriented Programming with Spring AOP|Spring-Boot
 - [x] [Deploying Spring Boot Applications to the Cloud](/Knowledge-base/Spring-Boot/deploying-spring-boot-applications-to-the-cloud)
