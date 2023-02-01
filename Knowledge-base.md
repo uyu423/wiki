@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T12:57:41.602Z
+date: 2023-02-01T13:04:30.367Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -658,7 +658,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Using Blockchain for Decentralized Applications|Common
 - [ ] The Role of Cloud Computing in Enterprise Solutions|Common
 - [ ] Debugging and Troubleshooting in Software Development|Common
-- [ ] The Importance of User Experience (UX) Design in Software Development|Common
+- [x] [The Importance of User Experience (UX) Design in Software Development](/Knowledge-base/Common/the-importance-of-user-experience-ux-design-in-software-development)
 - [x] [How to Create a Virtual Private Network (VPN)](/Knowledge-base/Common/how-to-create-a-virtual-private-network-vpn)
 - [ ] Developing Mobile Apps with Flutter|Common
 - [ ] Building a Web Scraper with Python|Common
