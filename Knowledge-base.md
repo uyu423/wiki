@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T02:04:43.196Z
+date: 2023-02-01T02:17:24.669Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -73,7 +73,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Testing with Spring Boot: Best Practices and Tools|Spring-Boot
 - [ ] Spring Boot Actuator Endpoints|Spring-Boot
 - [ ] Spring Boot Configuration Properties|Spring-Boot
-- [ ] Spring Boot Logging|Spring-Boot
+- [x] [Spring Boot Logging](/Knowledge-base/Spring-Boot/spring-boot-logging)
 - [x] [Spring Boot CLI Command Line Interface](/Knowledge-base/Spring-Boot/spring-boot-cli-command-line-interface)
 - [ ] Spring Boot Autoconfiguration Process|Spring-Boot
 - [ ] Spring Boot Starter Project Templates|Spring-Boot
