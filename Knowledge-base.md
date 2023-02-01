@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T20:20:41.312Z
+date: 2023-02-01T20:25:12.647Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1359,7 +1359,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] IBM Corporation|Dictionary/Company
 - [ ] Intel Corporation|Dictionary/Company
 - [ ] Oracle Corporation|Dictionary/Company
-- [ ] Cisco Systems, Inc.|Dictionary/Company
+- [x] [Cisco Systems, Inc.](/Knowledge-base/Dictionary/Company/cisco-systems-inc-)
 - [ ] Hewlett Packard Enterprise (HPE)|Dictionary/Company
 - [ ] SAP SE|Dictionary/Company
 - [ ] Accenture plc|Dictionary/Company
