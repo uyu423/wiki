@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T17:30:24.339Z
+date: 2023-02-01T17:36:36.687Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -477,7 +477,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Distributed File Systems for Backend Applications|Backend
 - [ ] Resource Allocation and Scheduling for Backend Applications|Backend
 - [x] [Cluster Management for Scalable Backend Applications](/Knowledge-base/Backend/cluster-management-for-scalable-backend-applications)
-- [ ] Service Discovery for Microservices-based Backend Applications|Backend
+- [x] [Service Discovery for Microservices-based Backend Applications](/Knowledge-base/Backend/service-discovery-for-microservices-based-backend-applications)
 - [ ] Task Orchestration for Backend Applications|Backend
 - [x] [gRPC for High-performance Backend Communication](/Knowledge-base/Backend/grpc-for-high-performance-backend-communication)
 - [x] [Understanding Load Balancing Techniques in Infrastructure Development](/Knowledge-base/Backend/understanding-load-balancing-techniques-in-infrastructure-development)
