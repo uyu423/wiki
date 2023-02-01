@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T03:57:21.870Z
+date: 2023-02-01T04:04:35.470Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -656,7 +656,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [How to Create a Virtual Private Network (VPN)](/Knowledge-base/Common/how-to-create-a-virtual-private-network-vpn)
 - [ ] Developing Mobile Apps with Flutter|Common
 - [ ] Building a Web Scraper with Python|Common
-- [ ] Introducing Serverless Computing and its Benefits|Common
+- [x] [Introducing Serverless Computing and its Benefits](/Knowledge-base/Common/introducing-serverless-computing-and-its-benefits)
 - [ ] Applying Agile Project Management in Software Development|Common
 - [ ] Enhancing Cybersecurity with Encryption and Firewalls|Common
 - [ ] Using Artificial Intelligence (AI) in Game Development|Common
