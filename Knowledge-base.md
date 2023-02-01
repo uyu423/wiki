@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T05:17:48.119Z
+date: 2023-02-01T05:23:40.918Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -231,7 +231,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 024: Enumerations in Kotlin: Creating Lists of Named Values|Kotlin/Learning
 - [ ] 025: Type Inference in Kotlin: Letting the Compiler Infer Types|Kotlin/Learning
 - [ ] 026: Advanced Control Flow in Kotlin: Understanding the with and apply Functions|Kotlin/Learning
-- [ ] 027: Destructuring Declarations in Kotlin: Breaking Down Complex Objects into Variables|Kotlin/Learning
+- [x] [027: Destructuring Declarations in Kotlin: Breaking Down Complex Objects into Variables](/Knowledge-base/Kotlin/Learning/027-destructuring-declarations-in-kotlin-breaking-down-complex-objects-into-variables)
 - [ ] 028: Infix Functions in Kotlin: Calling Functions Like Operators|Kotlin/Learning
 - [ ] 029: Standard Library Functions in Kotlin: Utilizing Commonly Used Functions|Kotlin/Learning
 - [x] [030: String Templates in Kotlin: Interpolating Strings with Expressions](/Knowledge-base/Kotlin/Learning/030-string-templates-in-kotlin-interpolating-strings-with-expressions)
