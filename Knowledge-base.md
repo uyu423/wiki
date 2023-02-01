@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T06:23:27.072Z
+date: 2023-02-01T06:37:21.235Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -881,7 +881,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Open AI](/Knowledge-base/Dictionary/open-ai)
 - [ ] Google|Dictionary
 - [ ] Apple (Company)|Dictionary
-- [ ] Facebook|Dictionary
+- [x] [Facebook](/Knowledge-base/Dictionary/facebook)
 - [x] [Microsoft](/Knowledge-base/Dictionary/microsoft)
 - [ ] Infrastructure Engineering|Dictionary
 - [x] [Backend Programming](/Knowledge-base/Dictionary/backend-programming)
