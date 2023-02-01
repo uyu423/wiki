@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T04:17:43.775Z
+date: 2023-02-01T04:23:45.698Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1013,7 +1013,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] SQL|Dictionary
 - [ ] NoSQL|Dictionary
 - [ ] Relational Database|Dictionary
-- [ ] Distributed Database|Dictionary
+- [x] [Distributed Database](/Knowledge-base/Dictionary/distributed-database)
 - [ ] Graph Database|Dictionary
 - [ ] Key-Value Store|Dictionary
 - [ ] Document Database|Dictionary
