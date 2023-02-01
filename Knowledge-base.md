@@ -2,14 +2,14 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T07:27:47.613Z
+date: 2023-02-01T07:29:32.821Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
 - [x] [Elon Musk](/Knowledge-base/Dictionary/elon-musk)
-- [ ] Mark Zuckerberg|Dictionary
+- [x] [Mark Zuckerberg](/Knowledge-base/Dictionary/mark-zuckerberg)
 - [x] [Yanolja](/Knowledge-base/Dictionary/yanolja)
 - [x] [NAVER Shopping Live](/Knowledge-base/Dictionary/naver-shopping-live)
 - [x] [NAVER](/Knowledge-base/Dictionary/naver)
