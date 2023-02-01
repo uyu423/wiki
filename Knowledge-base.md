@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T13:36:45.263Z
+date: 2023-02-01T13:43:26.665Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -579,7 +579,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Securing Data in the Cloud on AWS and Azure|Cloud
 - [ ] Continuous Integration and Continuous Deployment on AWS and Azure|Cloud
 - [ ] Managing Application Life Cycle on AWS and Azure|Cloud
-- [ ] Optimizing Resource Usage and Cost on AWS and Azure|Cloud
+- [x] [Optimizing Resource Usage and Cost on AWS and Azure](/Knowledge-base/Cloud/optimizing-resource-usage-and-cost-on-aws-and-azure)
 - [ ] Working with AWS and Azure Databases|Cloud
 - [ ] Using AWS and Azure for Machine Learning and AI Workloads|Cloud
 - [ ] Integrating Cloud Services with DevOps Toolchains|Cloud
