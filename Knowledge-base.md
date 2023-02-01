@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T07:43:37.489Z
+date: 2023-02-01T07:57:41.296Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -789,7 +789,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Debugging and Troubleshooting TypeScript Applications|TypeScript
 - [ ] Securing TypeScript Applications with JWT and Bcrypt|TypeScript
 - [ ] Integrating TypeScript with Stripe for Payments|TypeScript
-- [ ] Combining Nest.js, Express.js, and Next.js for Full-Stack Development|TypeScript
+- [x] [Combining Nest.js, Express.js, and Next.js for Full-Stack Development](/Knowledge-base/TypeScript/combining-nest-js-express-js-and-next-js-for-full-stack-development)
 - [ ] Building Reactive Applications with TypeScript and RxJS|TypeScript
 - [ ] Implementing Caching and Performance Optimization in TypeScript Applications|TypeScript
 - [ ] Testing TypeScript Applications with Jest and Supertest|TypeScript
