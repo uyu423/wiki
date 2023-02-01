@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T20:59:20.886Z
+date: 2023-02-01T21:05:03.611Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1159,7 +1159,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Canonical Ltd|Dictionary
 - [ ] Redhat|Dictionary
 - [ ] Amazon|Dictionary
-- [ ] Tesla|Dictionary
+- [x] [Tesla](/Knowledge-base/Dictionary/tesla)
 - [x] [Open AI](/Knowledge-base/Dictionary/open-ai)
 - [x] [Google](/Knowledge-base/Dictionary/google)
 - [x] [Facebook](/Knowledge-base/Dictionary/facebook)
