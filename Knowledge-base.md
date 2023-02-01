@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T15:18:44.501Z
+date: 2023-02-01T15:23:50.626Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -827,7 +827,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Integrating TypeScript with Next.js for Server-side Rendering](/Knowledge-base/TypeScript/integrating-typescript-with-next-js-for-server-side-rendering)
 - [x] [Managing Data with TypeScript and MongoDB](/Knowledge-base/TypeScript/managing-data-with-typescript-and-mongodb)
 - [ ] Using TypeScript and GraphQL in a Next.js App|TypeScript
-- [ ] Debugging TypeScript and Nest.js Applications with Visual Studio Code|TypeScript
+- [x] [Debugging TypeScript and Nest.js Applications with Visual Studio Code](/Knowledge-base/TypeScript/debugging-typescript-and-nest-js-applications-with-visual-studio-code)
 
 
 
