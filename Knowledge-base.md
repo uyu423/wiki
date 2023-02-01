@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T11:17:52.605Z
+date: 2023-02-01T11:24:00.811Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -476,7 +476,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Content Delivery Network (CDN) for Scalable Backend Applications|Backend
 - [ ] Distributed File Systems for Backend Applications|Backend
 - [ ] Resource Allocation and Scheduling for Backend Applications|Backend
-- [ ] Cluster Management for Scalable Backend Applications|Backend
+- [x] [Cluster Management for Scalable Backend Applications](/Knowledge-base/Backend/cluster-management-for-scalable-backend-applications)
 - [ ] Service Discovery for Microservices-based Backend Applications|Backend
 - [ ] Task Orchestration for Backend Applications|Backend
 - [x] [gRPC for High-performance Backend Communication](/Knowledge-base/Backend/grpc-for-high-performance-backend-communication)
