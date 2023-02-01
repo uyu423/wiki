@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T20:44:39.042Z
+date: 2023-02-01T20:45:08.094Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -48,7 +48,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 009: Using Spring Boot with NoSQL databases (MongoDB)|Spring-Boot/Learning
 - [ ] 010: Implementing caching with Spring Boot and Redis|Spring-Boot/Learning
 - [ ] 011: Monitoring and managing a Spring Boot application with Actuator|Spring-Boot/Learning
-- [ ] 012: Using Spring Boot with message brokers (RabbitMQ)|Spring-Boot/Learning
+- [x] [012: Using Spring Boot with message brokers (RabbitMQ)](/Knowledge-base/Spring-Boot/Learning/012-using-spring-boot-with-message-brokers-rabbitmq)
 - [ ] 013: Integrating with external systems using Spring Boot and REST|Spring-Boot/Learning
 - [ ] 014: Working with Spring Boot and WebSockets|Spring-Boot/Learning
 - [ ] 015: Building microservices with Spring Boot and Spring Cloud|Spring-Boot/Learning
