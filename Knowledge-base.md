@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T16:04:59.294Z
+date: 2023-02-01T16:18:02.352Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -182,7 +182,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kubernetes Multi-Cluster Management: Managing Multiple Clusters with kubefed|Kubernetes
 - [x] [Kubernetes on AWS: Deploying Clusters on Amazon Web Services](/Knowledge-base/Kubernetes/kubernetes-on-aws-deploying-clusters-on-amazon-web-services)
 - [ ] Kubernetes on Google Cloud: Deploying Clusters on Google Cloud Platform|Kubernetes
-- [ ] Kubernetes on Azure: Deploying Clusters on Microsoft Azure|Kubernetes
+- [x] [Kubernetes on Azure: Deploying Clusters on Microsoft Azure](/Knowledge-base/Kubernetes/kubernetes-on-azure-deploying-clusters-on-microsoft-azure)
 - [x] [Kubernetes on Oracle Cloud: Deploying Clusters on Oracle Cloud Infrastructure](/Knowledge-base/Kubernetes/kubernetes-on-oracle-cloud-deploying-clusters-on-oracle-cloud-infrastructure)
 - [x] [Kubernetes on DigitalOcean: Deploying Clusters on DigitalOcean](/Knowledge-base/Kubernetes/kubernetes-on-digitalocean-deploying-clusters-on-digitalocean)
 - [ ] Kubernetes on OpenStack: Deploying Clusters on OpenStack|Kubernetes
