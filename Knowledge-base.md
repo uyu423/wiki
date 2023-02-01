@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T07:37:44.094Z
+date: 2023-02-01T07:43:37.489Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -242,7 +242,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 029: Standard Library Functions in Kotlin: Utilizing Commonly Used Functions|Kotlin/Learning
 - [x] [030: String Templates in Kotlin: Interpolating Strings with Expressions](/Knowledge-base/Kotlin/Learning/030-string-templates-in-kotlin-interpolating-strings-with-expressions)
 - [ ] 031: Ranges in Kotlin: Representing and Iterating Over Ranges of Values|Kotlin/Learning
-- [ ] 032: Raw Strings in Kotlin: Creating Multi-Line Strings Without Escaping|Kotlin/Learning
+- [x] [032: Raw Strings in Kotlin: Creating Multi-Line Strings Without Escaping](/Knowledge-base/Kotlin/Learning/032-raw-strings-in-kotlin-creating-multi-line-strings-without-escaping)
 - [ ] 033: Default and Named Arguments in Kotlin: Providing Default Values and Named Parameters|Kotlin/Learning
 - [ ] 034: vararg Functions in Kotlin: Creating Functions that Accept a Variable Number of Arguments|Kotlin/Learning
 - [ ] 035: Tailrec Functions in Kotlin: Optimizing Recursive Functions|Kotlin/Learning
