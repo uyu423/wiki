@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T16:23:26.985Z
+date: 2023-02-01T16:36:41.987Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -339,7 +339,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and HTTPS: Implementing Secure Communication|Kotlin
 - [ ] Kotlin Encryption: RSA and AES|Kotlin
 - [ ] Kotlin Hashing: PBKDF2 and Bcrypt|Kotlin
-- [ ] Kotlin Validation: Input Validation Techniques|Kotlin
+- [x] [Kotlin Validation: Input Validation Techniques](/Knowledge-base/Kotlin/kotlin-validation-input-validation-techniques)
 - [ ] Kotlin Testing: Unit and Integration Tests|Kotlin
 - [x] [Kotlin Continuous Deployment: Automating the Deployment Process](/Knowledge-base/Kotlin/kotlin-continuous-deployment-automating-the-deployment-process)
 - [x] [Kotlin and the Cloud: Deploying to a Cloud Provider](/Knowledge-base/Kotlin/kotlin-and-the-cloud-deploying-to-a-cloud-provider)
