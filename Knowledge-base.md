@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T22:36:39.930Z
+date: 2023-02-01T22:43:42.494Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -621,7 +621,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Python for Backend Development: Django and Flask|Backend
 - [ ] Ruby on Rails for Backend Development|Backend
 - [ ] Laravel: A PHP Framework for Backend Development|Backend
-- [ ] Securing Backend Applications with OAuth and JWT|Backend
+- [x] [Securing Backend Applications with OAuth and JWT](/Knowledge-base/Backend/securing-backend-applications-with-oauth-and-jwt)
 - [x] [Managing User Sessions with Tokens and Cookies](/Knowledge-base/Backend/managing-user-sessions-with-tokens-and-cookies)
 - [ ] Implementing Authentication and Authorization for Backend Applications|Backend
 - [ ] Securing Backend Applications with HTTPS and Encryption|Backend
