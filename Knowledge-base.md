@@ -2,13 +2,12 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T18:04:34.747Z
+date: 2023-02-01T18:04:48.321Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [ ] Apple Inc.|Dictionary/Company
 - [x] [The Command Query Responsibility Segregation (CQRS) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-command-query-responsibility-segregation-cqrs-pattern-in-spring-boot)
 - [x] [Elon Musk](/Knowledge-base/Dictionary/elon-musk)
 - [x] [Mark Zuckerberg](/Knowledge-base/Dictionary/mark-zuckerberg)
@@ -335,7 +334,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin MVC Architecture: Building a Web Application|Kotlin
 - [ ] Kotlin and Spring Data: Integrating with a Database|Kotlin
 - [ ] Kotlin Security: Implementing OAuth and JWT|Kotlin
-- [ ] Kotlin and JSON: Parsing and Serializing Data|Kotlin
+- [x] [Kotlin and JSON: Parsing and Serializing Data](/Knowledge-base/Kotlin/kotlin-and-json-parsing-and-serializing-data)
 - [ ] Kotlin and XML: Parsing and Serializing Data|Kotlin
 - [ ] Kotlin and HTTPS: Implementing Secure Communication|Kotlin
 - [ ] Kotlin Encryption: RSA and AES|Kotlin
