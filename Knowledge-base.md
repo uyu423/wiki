@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T14:04:53.929Z
+date: 2023-02-01T14:17:45.120Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -533,7 +533,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] AWS CloudFormation: Automating Cloud Infrastructure Deployment|Cloud
 - [ ] AWS ECS: Deploying and Managing Docker Containers in the Cloud|Cloud
 - [ ] AWS Route 53: Building a Scalable and Resilient DNS System in the Cloud|Cloud
-- [ ] AWS CloudFront: Improving Content Delivery with a CDN|Cloud
+- [x] [AWS CloudFront: Improving Content Delivery with a CDN](/Knowledge-base/Cloud/aws-cloudfront-improving-content-delivery-with-a-cdn)
 - [x] [AWS WAF: Securing Web Applications with Firewall Rules](/Knowledge-base/Cloud/aws-waf-securing-web-applications-with-firewall-rules)
 - [ ] AWS Certificate Manager: Managing SSL Certificates for Secure Web Applications|Cloud
 - [x] [AWS Elastic Load Balancer: Scaling and Load Balancing Applications in the Cloud](/Knowledge-base/Cloud/aws-elastic-load-balancer-scaling-and-load-balancing-applications-in-the-cloud)
