@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T01:17:48.171Z
+date: 2023-02-01T01:24:18.059Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -871,7 +871,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Scrapy|Dictionary
 - [ ] Selenium|Dictionary
 - [ ] PyAutoGUI|Dictionary
-- [ ] PyWin32|Dictionary
+- [x] [PyWin32](/Knowledge-base/Dictionary/pywin32)
 - [ ] PyInstaller|Dictionary
 - [ ] PyTorch Geometric|Dictionary
 - [ ] Canonical Ltd|Dictionary
