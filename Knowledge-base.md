@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T14:36:24.133Z
+date: 2023-02-01T14:43:55.560Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1173,7 +1173,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Recovery|Dictionary
 - [ ] Data Loss Prevention|Dictionary
 - [x] [Identity Management](/Knowledge-base/Dictionary/identity-management)
-- [ ] Identity and Access Management|Dictionary
+- [x] [Identity and Access Management](/Knowledge-base/Dictionary/identity-and-access-management)
 - [ ] Federation|Dictionary
 - [x] [Directory Services](/Knowledge-base/Dictionary/directory-services)
 - [ ] LDAP|Dictionary
