@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T13:18:14.680Z
+date: 2023-02-01T13:23:48.257Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -634,7 +634,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Benefits of Distributed Systems and Apache Cassandra|Common
 - [ ] How to Build a Cross-Platform Mobile App with React Native|Common
 - [ ] The Importance of Agile Project Management|Common
-- [ ] How to Build a Real-Time Application with Firebase|Common
+- [x] [How to Build a Real-Time Application with Firebase](/Knowledge-base/Common/how-to-build-a-real-time-application-with-firebase)
 - [x] [The Advantages of In-Memory Databases and Apache Spark](/Knowledge-base/Common/the-advantages-of-in-memory-databases-and-apache-spark)
 - [ ] How to Build a Secure Application with OAuth and OpenID Connect|Common
 - [ ] The Benefits of Natural Language Processing (NLP) and Sentiment Analysis|Common
