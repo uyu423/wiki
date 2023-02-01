@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T20:12:32.140Z
+date: 2023-02-01T20:17:28.311Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -241,7 +241,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 020: Delegated Properties in Kotlin: Implementing Delegation Patterns|Kotlin/Learning
 - [x] [021: Annotation Processing in Kotlin: Generating Code at Compile Time](/Knowledge-base/Kotlin/Learning/021-annotation-processing-in-kotlin-generating-code-at-compile-time)
 - [x] [022: Reflection in Kotlin: Reflecting on Classes, Properties, and Functions at Runtime](/Knowledge-base/Kotlin/Learning/022-reflection-in-kotlin-reflecting-on-classes-properties-and-functions-at-runtime)
-- [ ] 023: Type Aliases in Kotlin: Shortening Long Class Names|Kotlin/Learning
+- [x] [023: Type Aliases in Kotlin: Shortening Long Class Names](/Knowledge-base/Kotlin/Learning/023-type-aliases-in-kotlin-shortening-long-class-names)
 - [ ] 024: Enumerations in Kotlin: Creating Lists of Named Values|Kotlin/Learning
 - [ ] 025: Type Inference in Kotlin: Letting the Compiler Infer Types|Kotlin/Learning
 - [ ] 026: Advanced Control Flow in Kotlin: Understanding the with and apply Functions|Kotlin/Learning
