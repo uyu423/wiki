@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T16:58:02.042Z
+date: 2023-02-01T17:04:34.478Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -508,7 +508,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Understanding Backend as a Service (BaaS)|Backend
 - [x] [Real-time Communication in Backend Development with WebSockets and Server-Sent Events](/Knowledge-base/Backend/real-time-communication-in-backend-development-with-websockets-and-server-sent-events)
 - [ ] Debugging and Troubleshooting in Backend Development|Backend
-- [ ] Monitoring and Logging in Infrastructure Development|Backend
+- [x] [Monitoring and Logging in Infrastructure Development](/Knowledge-base/Backend/monitoring-and-logging-in-infrastructure-development)
 - [ ] Implementing Error Handling for Better User Experience|Backend
 - [ ] Data Validation Techniques in Backend Development|Backend
 - [ ] Session Management for Improved User Experience|Backend
