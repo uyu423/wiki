@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T16:44:24.056Z
+date: 2023-02-01T16:58:02.042Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1187,7 +1187,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Intrusion Detection](/Knowledge-base/Dictionary/intrusion-detection)
 - [ ] Intrusion Prevention|Dictionary
 - [ ] Wide Area Network|Dictionary
-- [ ] Local Area Network|Dictionary
+- [x] [Local Area Network](/Knowledge-base/Dictionary/local-area-network)
 - [ ] Wireless Network|Dictionary
 - [x] [Network Management](/Knowledge-base/Dictionary/network-management)
 - [x] [Traffic Management](/Knowledge-base/Dictionary/traffic-management)
