@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T09:36:14.056Z
+date: 2023-02-01T09:43:31.259Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -113,7 +113,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot and AOP for Cross-Cutting Concerns](/Knowledge-base/Spring-Boot/spring-boot-and-aop-for-cross-cutting-concerns)
 - [ ] Spring Boot Microservices with Netflix OSS|Spring-Boot
 - [ ] Spring Boot and Docker for Microservices|Spring-Boot
-- [ ] Spring Boot and Kubernetes for Microservices|Spring-Boot
+- [x] [Spring Boot and Kubernetes for Microservices](/Knowledge-base/Spring-Boot/spring-boot-and-kubernetes-for-microservices)
 - [ ] Spring Boot and Serverless Architecture with AWS Lambda|Spring-Boot
 - [ ] Spring Boot and Event-Driven Architecture with Kafka|Spring-Boot
 - [x] [Spring Boot and Reactive Programming with Spring WebFlux](/Knowledge-base/Spring-Boot/spring-boot-and-reactive-programming-with-spring-webflux)
