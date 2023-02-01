@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T12:17:51.681Z
+date: 2023-02-01T12:23:41.026Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -394,7 +394,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and Kubernetes: Deploying and Scaling Your Applications|Kotlin
 - [ ] Kotlin and Docker: Packaging and Running Your Applications|Kotlin
 - [x] [Kotlin and Jenkins: Automating Your Build and Deployment Workflow](/Knowledge-base/Kotlin/kotlin-and-jenkins-automating-your-build-and-deployment-workflow)
-- [ ] Kotlin and IntelliJ: A Guide to the Kotlin Development Environment|Kotlin
+- [x] [Kotlin and IntelliJ: A Guide to the Kotlin Development Environment](/Knowledge-base/Kotlin/kotlin-and-intellij-a-guide-to-the-kotlin-development-environment)
 - [ ] Kotlin and Redis: A Guide to Caching and Session Management|Kotlin
 - [ ] Kotlin and MySQL: Connecting to a Relational Database|Kotlin
 - [x] [Kotlin and MongoDB: Connecting to a Document-Oriented Database](/Knowledge-base/Kotlin/kotlin-and-mongodb-connecting-to-a-document-oriented-database)
