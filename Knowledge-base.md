@@ -2,13 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T19:37:00.422Z
+date: 2023-02-01T19:37:38.567Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [x] [Dockerizing Your Node.js Applications](/Knowledge-base/Node.js/dockerizing-your-node-js-applications)
+- [x] Dockerizing Your Node.js Applications|Backend
 - [x] [Apple Inc.](/Knowledge-base/Dictionary/Company/apple-inc-)
 - [x] [Microsoft Corporation](/Knowledge-base/Dictionary/Company/microsoft-corporation)
 - [x] [Amazon.com Inc.](/Knowledge-base/Dictionary/Company/amazon-com-inc-)
