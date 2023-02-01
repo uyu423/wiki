@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T22:18:02.961Z
+date: 2023-02-01T22:24:10.741Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1726,7 +1726,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Netmarble Corporation (South Korea)|Dictionary/Company
 - [ ] Nexon Co., Ltd. (South Korea)|Dictionary/Company
 - [ ] Gamevil (South Korea)|Dictionary/Company
-- [ ] PUBG Corporation (South Korea)|Dictionary/Company
+- [x] [PUBG Corporation (South Korea)](/Knowledge-base/Dictionary/Company/pubg-corporation-south-korea)
 - [ ] NCSoft Corporation (South Korea)|Dictionary/Company
 
 ## Person
