@@ -2,7 +2,7 @@
 title: Sid Meier (Civilization Creator)
 description: 
 published: true
-date: 2023-02-02T05:04:54.256Z
+date: 2023-02-02T05:59:29.497Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T05:04:54.256Z
@@ -15,7 +15,6 @@ Algunas páginas se pueden leer mejor en su totalidad.{.is-info}
 
 - [Sid Meier (Civilization Creator)***English** document is available*](/en/Knowledge-base/Dictionary/Person/sid-meier-civilization-creator)
 {.links-list}
- en la sección "Descripción".
 
 # Descripción general
 
