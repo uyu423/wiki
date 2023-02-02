@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T06:16:15.130Z
+date: 2023-02-02T06:17:37.577Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1376,7 +1376,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Library|Dictionary
 - [ ] Software Platform|Dictionary
 - [ ] Software Development Kit|Dictionary
-- [ ] Application Programming Interface|Dictionary
+- [x] [Application Programming Interface](/Knowledge-base/Dictionary/application-programming-interface)
 - [ ] Software Design Pattern|Dictionary
 - [ ] Model-View-Controller|Dictionary
 - [x] [Service-Oriented Architecture](/Knowledge-base/Dictionary/service-oriented-architecture)
