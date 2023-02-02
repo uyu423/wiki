@@ -2,12 +2,17 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T06:04:49.796Z
+date: 2023-02-02T06:08:02.890Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
+- [ ] Yanolja (South Korea)|Dictionary/Company
+- [ ] Wooahan Brothers (South Korea)|Dictionary/Company
+- [ ] Viva Republica (South Korea)|Dictionary/Company
+- [ ] Daangn Market (South Korea)|Dictionary/Company
+- [ ] Coupang (South Korea)|Dictionary/Company
 - [x] [Naver Corporation (South Korea)](/Knowledge-base/Dictionary/Company/naver-corporation-south-korea)
 - [x] [Kakao Corporation (South Korea)](/Knowledge-base/Dictionary/Company/kakao-corporation-south-korea)
 - [x] [Line Corporation (Japan)](/Knowledge-base/Dictionary/Company/line-corporation-japan)
