@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T04:17:41.993Z
+date: 2023-02-02T04:24:09.749Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1642,7 +1642,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Atos SE](/Knowledge-base/Dictionary/Company/atos-se)
 - [ ] Adyen N.V.|Dictionary/Company
 - [ ] Square, Inc.|Dictionary/Company
-- [ ] Slack Technologies, Inc.|Dictionary/Company
+- [x] [Slack Technologies, Inc.](/Knowledge-base/Dictionary/Company/slack-technologies-inc-)
 - [ ] Zoom Video Communications, Inc.|Dictionary/Company
 - [ ] DocuSign, Inc.|Dictionary/Company
 - [ ] Salesforce.com, Inc.|Dictionary/Company
