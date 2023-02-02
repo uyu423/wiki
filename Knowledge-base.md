@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T06:36:47.517Z
+date: 2023-02-02T06:44:07.462Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1706,7 +1706,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Meituan (China)|Dictionary/Company
 - [ ] SoftBank Group Corp. (Japan)|Dictionary/Company
 - [ ] JD.com, Inc. (China)|Dictionary/Company
-- [ ] Pinduoduo (China)|Dictionary/Company
+- [x] [Pinduoduo (China)](/Knowledge-base/Dictionary/Company/pinduoduo-china)
 - [ ] Honor (China)|Dictionary/Company
 - [ ] Oppo (China)|Dictionary/Company
 - [ ] Vivo (China)|Dictionary/Company
