@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T19:24:36.039Z
+date: 2023-02-02T19:36:30.292Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -100,7 +100,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [051: Using Callbacks with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/051-using-callbacks-with-tensorflow-js-and-node-js)
 - [x] [052: Custom Callbacks with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/052-custom-callbacks-with-tensorflow-js-and-node-js)
 - [x] [053: Using TensorFlow.js with Express.js in Node.js](/Knowledge-base/TensorFlow-js/Learning/053-using-tensorflow-js-with-express-js-in-node-js)
-- [ ] 054: Creating REST APIs with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [054: Creating REST APIs with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/054-creating-rest-apis-with-tensorflow-js-and-node-js)
 - [ ] 055: Integrating TensorFlow.js with MongoDB in Node.js|TensorFlow-js/Learning
 - [ ] 056: Debugging TensorFlow.js and Node.js Applications|TensorFlow-js/Learning
 - [ ] 057: Exception Handling in TensorFlow.js and Node.js|TensorFlow-js/Learning
