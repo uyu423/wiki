@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T15:43:33.950Z
+date: 2023-02-02T15:58:07.652Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1909,7 +1909,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Jack Dorsey (Twitter Co-founder)|Dictionary/Person
 - [ ] Kevin Systrom (Instagram Co-founder)|Dictionary/Person
 - [ ] Mike Krieger (Instagram Co-founder)|Dictionary/Person
-- [ ] Noam Chomsky (Linguistics Professor and Author)|Dictionary/Person
+- [x] [Noam Chomsky (Linguistics Professor and Author)](/Knowledge-base/Dictionary/Person/noam-chomsky-linguistics-professor-and-author)
 - [ ] Claude Shannon (Information Theory Pioneer)|Dictionary/Person
 - [ ] Norbert Wiener (Cybernetics Founder)|Dictionary/Person
 - [ ] John von Neumann (Computer Science Pioneer)|Dictionary/Person
