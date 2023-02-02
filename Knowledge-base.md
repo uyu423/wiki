@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T10:57:31.843Z
+date: 2023-02-02T11:04:54.514Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -64,7 +64,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [015: Image Classification with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/015-image-classification-with-tensorflow-js-and-node-js)
 - [x] [016: Object Detection with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/016-object-detection-with-tensorflow-js-and-node-js)
 - [x] [017: Image Segmentation with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/017-image-segmentation-with-tensorflow-js-and-node-js)
-- [ ] 018: Video Analysis with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [018: Video Analysis with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/018-video-analysis-with-tensorflow-js-and-node-js)
 - [ ] 019: Text Classification with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 020: Sentiment Analysis with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 021: Named Entity Recognition (NER) with TensorFlow.js and Node.js|TensorFlow-js/Learning
