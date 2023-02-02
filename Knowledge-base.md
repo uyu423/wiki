@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T19:17:25.883Z
+date: 2023-02-02T19:24:36.039Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1825,7 +1825,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Fancl Corporation (Japan)|Dictionary/Company
 - [ ] Rakuten, Inc. (Japan)|Dictionary/Company
 - [ ] Bandai Namco Holdings (Japan)|Dictionary/Company
-- [ ] CyberAgent, Inc. (Japan)|Dictionary/Company
+- [x] [CyberAgent, Inc. (Japan)](/Knowledge-base/Dictionary/Company/cyberagent-inc-japan)
 - [ ] DeNA Co., Ltd. (Japan)|Dictionary/Company
 - [ ] GREE, Inc. (Japan)|Dictionary/Company
 - [ ] NHN Entertainment Corporation (South Korea)|Dictionary/Company
