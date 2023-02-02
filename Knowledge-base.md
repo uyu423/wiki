@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T00:23:25.201Z
+date: 2023-02-02T00:38:17.993Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -589,7 +589,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and CORS: A Guide to Cross-Origin Resource Sharing|Kotlin
 - [ ] Kotlin and HTTP/2: A Guide to the Next Generation of HTTP|Kotlin
 - [ ] Kotlin and Serverless Architecture: A Guide to Building Scalable Applications|Kotlin
-- [ ] Kotlin and Event Sourcing: A Guide to Building Resilient Systems|Kotlin
+- [x] [Kotlin and Event Sourcing: A Guide to Building Resilient Systems](/Knowledge-base/Kotlin/kotlin-and-event-sourcing-a-guide-to-building-resilient-systems)
 
 ## Backend
 
