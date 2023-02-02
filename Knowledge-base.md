@@ -2,14 +2,14 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T05:24:25.274Z
+date: 2023-02-02T05:29:38.802Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [x] [Naver Corporation (South Korea)](/Knowledge-base/Dictionary/Company/naver-corporation-south-korea)
-- [x] [Kakao Corporation (South Korea)](/Knowledge-base/Dictionary/Company/kakao-corporation-south-korea)
+- [ ] Naver Corporation (South Korea)|Dictionary/Company
+- [ ] Kakao Corporation (South Korea)|Dictionary/Company
 - [x] [Line Corporation (Japan)](/Knowledge-base/Dictionary/Company/line-corporation-japan)
 - [ ] Samsung Electronics Co., Ltd. (South Korea)|Dictionary/Company
 - [ ] SK Hynix Inc. (South Korea)|Dictionary/Company
