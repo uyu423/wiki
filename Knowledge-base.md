@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T10:44:38.875Z
+date: 2023-02-02T10:57:31.843Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -730,7 +730,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Adopting Test Driven Development (TDD) for Backend Development|Backend
 - [ ] Streamlining the Development Process for Backend Applications|Backend
 - [x] [Building RESTful APIs with Microservices](/Knowledge-base/Backend/building-restful-apis-with-microservices)
-- [ ] Exploring GraphQL for API Development|Backend
+- [x] [Exploring GraphQL for API Development](/Knowledge-base/Backend/exploring-graphql-for-api-development)
 - [ ] Python for Backend Development: Django and Flask|Backend
 - [ ] Ruby on Rails for Backend Development|Backend
 - [ ] Laravel: A PHP Framework for Backend Development|Backend
