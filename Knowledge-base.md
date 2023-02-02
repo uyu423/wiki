@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T18:17:52.468Z
+date: 2023-02-02T18:23:19.745Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -618,7 +618,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Understanding the Delegation Pattern in Kotlin|Kotlin
 - [ ] Exploring the Power of Kotlin's Standard Library Functions|Kotlin
 - [ ] Kotlin for Web Development: Building REST APIs|Kotlin
-- [ ] Kotlin with Spring Boot: Auto-configuration and Actuator|Kotlin
+- [x] [Kotlin with Spring Boot: Auto-configuration and Actuator](/Knowledge-base/Kotlin/kotlin-with-spring-boot-auto-configuration-and-actuator)
 - [x] [Kotlin Microservices: Building and Deploying](/Knowledge-base/Kotlin/kotlin-microservices-building-and-deploying)
 - [ ] Kotlin MVC Architecture: Building a Web Application|Kotlin
 - [ ] Kotlin and Spring Data: Integrating with a Database|Kotlin
