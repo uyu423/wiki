@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T03:30:26.826Z
+date: 2023-02-02T03:36:31.393Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -498,7 +498,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Getting started with Kotlin for Java Developers|Kotlin
 - [ ] Exploring Null Safety in Kotlin|Kotlin
 - [x] [Implementing Constructors and Properties in Kotlin](/Knowledge-base/Kotlin/implementing-constructors-and-properties-in-kotlin)
-- [ ] Understanding Kotlin's Extension Functions and Properties|Kotlin
+- [x] [Understanding Kotlin's Extension Functions and Properties](/Knowledge-base/Kotlin/understanding-kotlin-s-extension-functions-and-properties)
 - [x] [Utilizing Kotlin's Higher-Order Functions](/Knowledge-base/Kotlin/utilizing-kotlin-s-higher-order-functions)
 - [ ] Mastering Lambdas in Kotlin|Kotlin
 - [ ] Using Type Aliases in Kotlin|Kotlin
