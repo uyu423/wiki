@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T12:17:23.808Z
+date: 2023-02-02T12:24:06.350Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1853,7 +1853,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Richard Stallman (Free Software Movement Founder)|Dictionary/Person
 - [ ] Eric Schmidt (Google Chairman)|Dictionary/Person
 - [ ] Larry Ellison (Oracle CEO)|Dictionary/Person
-- [ ] Michael Dell (Dell Technologies Founder)|Dictionary/Person
+- [x] [Michael Dell (Dell Technologies Founder)](/Knowledge-base/Dictionary/Person/michael-dell-dell-technologies-founder)
 - [x] [Steve Ballmer (Microsoft CEO)](/Knowledge-base/Dictionary/Person/steve-ballmer-microsoft-ceo)
 - [ ] Satya Nadella (Microsoft CEO)|Dictionary/Person
 - [ ] John Chambers (Cisco Systems CEO)|Dictionary/Person
