@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T14:24:25.626Z
+date: 2023-02-02T14:36:49.616Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -78,7 +78,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [029: Deep Reinforcement Learning with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/029-deep-reinforcement-learning-with-tensorflow-js-and-node-js)
 - [x] [030: Multi-Agent Systems with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/030-multi-agent-systems-with-tensorflow-js-and-node-js)
 - [x] [031: Training and Fine-Tuning Models with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/031-training-and-fine-tuning-models-with-tensorflow-js-and-node-js)
-- [ ] 032: Deploying TensorFlow.js Models with Node.js|TensorFlow-js/Learning
+- [x] [032: Deploying TensorFlow.js Models with Node.js](/Knowledge-base/TensorFlow-js/Learning/032-deploying-tensorflow-js-models-with-node-js)
 - [ ] 033: Making Predictions with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 034: Visualizing Model Training with TensorBoard and Node.js|TensorFlow-js/Learning
 - [ ] 035: Saving and Loading Models with TensorFlow.js and Node.js|TensorFlow-js/Learning
