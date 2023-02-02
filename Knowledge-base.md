@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T06:17:54.894Z
+date: 2023-02-02T06:21:01.085Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -12,7 +12,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Wooahan Brothers (South Korea)](/Knowledge-base/Dictionary/Company/wooahan-brothers-south-korea)
 - [x] [Viva Republica (South Korea)](/Knowledge-base/Dictionary/Company/viva-republica-south-korea)
 - [x] [Daangn Market (South Korea)](/Knowledge-base/Dictionary/Company/daangn-market-south-korea)
-- [ ] Coupang (South Korea)|Dictionary/Company
+- [x] [Coupang (South Korea)](/Knowledge-base/Dictionary/Company/coupang-south-korea)
 - [x] [Naver Corporation (South Korea)](/Knowledge-base/Dictionary/Company/naver-corporation-south-korea)
 - [x] [Kakao Corporation (South Korea)](/Knowledge-base/Dictionary/Company/kakao-corporation-south-korea)
 - [x] [Line Corporation (Japan)](/Knowledge-base/Dictionary/Company/line-corporation-japan)
