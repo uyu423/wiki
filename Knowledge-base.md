@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T13:44:28.466Z
+date: 2023-02-02T13:57:30.570Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -83,7 +83,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 034: Visualizing Model Training with TensorBoard and Node.js|TensorFlow-js/Learning
 - [ ] 035: Saving and Loading Models with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 036: Using Pretrained Models with TensorFlow.js and Node.js|TensorFlow-js/Learning
-- [ ] 037: Custom Model Metrics with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [037: Custom Model Metrics with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/037-custom-model-metrics-with-tensorflow-js-and-node-js)
 - [ ] 038: Data Preprocessing with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 039: Data Augmentation with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 040: Data Shuffling and Batching with TensorFlow.js and Node.js|TensorFlow-js/Learning
