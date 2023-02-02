@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-01T23:57:27.819Z
+date: 2023-02-02T00:04:28.967Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -613,7 +613,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Setting up a Web Server with nginx and Apache2](/Knowledge-base/Backend/setting-up-a-web-server-with-nginx-and-apache2)
 - [x] [Securing Backend Applications with SSL](/Knowledge-base/Backend/securing-backend-applications-with-ssl)
 - [ ] Designing Databases for Scalable Applications|Backend
-- [ ] Implementing Domain Driven Development (DDD) for Backend|Backend
+- [x] [Implementing Domain Driven Development (DDD) for Backend](/Knowledge-base/Backend/implementing-domain-driven-development-ddd-for-backend)
 - [ ] Adopting Test Driven Development (TDD) for Backend Development|Backend
 - [ ] Streamlining the Development Process for Backend Applications|Backend
 - [x] [Building RESTful APIs with Microservices](/Knowledge-base/Backend/building-restful-apis-with-microservices)
