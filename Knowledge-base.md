@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T06:52:18.208Z
+date: 2023-02-02T06:52:24.804Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -45,7 +45,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [building-backend-systems-with-grpc](/ko/Knowledge-base/Backend/building-backend-systems-with-grpc)
 - [x] [building-resilient-backend-systems-with-circuit-breakers](/ko/Knowledge-base/Backend/building-resilient-backend-systems-with-circuit-breakers)
 
-## TensorFlow with Node.js
+## TensorFlow with Node.js Learning
 
 - [ ] 001: Introduction to TensorFlow and Node.js|TensorFlow-js/Learning
 - [ ] 002: Installing TensorFlow.js and Node.js|TensorFlow-js/Learning
