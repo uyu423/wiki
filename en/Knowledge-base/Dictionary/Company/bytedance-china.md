@@ -2,7 +2,7 @@
 title: ByteDance (China)
 description: 
 published: true
-date: 2023-02-02T03:18:18.390Z
+date: 2023-02-02T03:27:22.613Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T03:18:18.390Z
@@ -17,15 +17,7 @@ dateCreated: 2023-02-02T03:18:18.390Z
 - [ByteDance (China)***Korean** document is available*](/ko/Knowledge-base/Dictionary/Company/bytedance-china)
 {.links-list}
 
-  In the "History" section, you should explain the history of the company, including when it was founded, how it has evolved over time, and any significant milestones.
-  In the "Work Environment" section, you should explain the work environment of the company, such as benefits, working hours, and the atmosphere of the workplace.
-  In the "Governance" section, you should explain how the company is managed and how decisions are made.
-  In the "Related Service/Product" section, you should explain any services or products that the company offers.
-  In the "Key Technology" section, you should explain any technologies that the company uses.
-  In the "Related Company" section, you should explain any companies that are related to the company.
-  In the "Criticism and Controversy" section, you should explain any criticism or controversy that the company has faced.
-  In the "Digression" section, you should explain any other information that is not related to the company, but is relevant to the topic.
-  In the "Others" section, you should explain any other information that is not related to the company, but is relevant to the topic.
+
 
 # Overview
 
