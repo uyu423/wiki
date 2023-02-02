@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T05:18:43.754Z
+date: 2023-02-02T05:23:34.843Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -675,7 +675,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Understanding Graph Databases for Better Data Management](/Knowledge-base/Backend/understanding-graph-databases-for-better-data-management)
 - [ ] Building Event-Driven Architecture in Infrastructure Development|Backend
 - [ ] Implementing Serverless Functions with AWS Lambda and Google Cloud Functions|Backend
-- [ ] Understanding Backend as a Service (BaaS)|Backend
+- [x] [Understanding Backend as a Service (BaaS)](/Knowledge-base/Backend/understanding-backend-as-a-service-baas)
 - [x] [Real-time Communication in Backend Development with WebSockets and Server-Sent Events](/Knowledge-base/Backend/real-time-communication-in-backend-development-with-websockets-and-server-sent-events)
 - [ ] Implementing Command Query Responsibility Segregation (CQRS)|Backend
 - [ ] Enabling Cross-Origin Resource Sharing (CORS) for Secure API Access|Backend
