@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T23:43:31.495Z
+date: 2023-02-02T23:57:28.382Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1150,7 +1150,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Java's java.util.concurrent.locks.AbstractQueuedSynchronizer for Custom Locking](/Knowledge-base/Java/java-s-java-util-concurrent-locks-abstractqueuedsynchronizer-for-custom-locking)
 - [x] [Leveraging Java's java.util.concurrent.CountDownLatch for Concurrent Programming](/Knowledge-base/Java/leveraging-java-s-java-util-concurrent-countdownlatch-for-concurrent-programming)
 - [x] [Java's java.util.concurrent.CyclicBarrier for Coordinated Concurrent Processing](/Knowledge-base/Java/java-s-java-util-concurrent-cyclicbarrier-for-coordinated-concurrent-processing)
-- [ ] Building Custom Executors in Java|Java
+- [x] [Building Custom Executors in Java](/Knowledge-base/Java/building-custom-executors-in-java)
 - [x] [Java's java.util.concurrent.Semaphore for Controlled Concurrent Access](/Knowledge-base/Java/java-s-java-util-concurrent-semaphore-for-controlled-concurrent-access)
 - [ ] A Guide to Java's java.util.concurrent.Exchanger for Concurrent Data Exchange|Java
 - [x] [Working with Java's java.util.concurrent.Phaser for Concurrent Phased Operations](/Knowledge-base/Java/working-with-java-s-java-util-concurrent-phaser-for-concurrent-phased-operations)
