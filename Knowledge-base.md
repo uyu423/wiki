@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T02:43:49.907Z
+date: 2023-02-02T02:57:47.812Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -403,7 +403,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [014: Extensions Functions in Kotlin: Enhancing Classes with Additional Functions](/Knowledge-base/Kotlin/Learning/014-extensions-functions-in-kotlin-enhancing-classes-with-additional-functions)
 - [ ] 015: Nullable Types and Null Safety in Kotlin: Dealing with Null Values|Kotlin/Learning
 - [ ] 016: Exception Handling in Kotlin: Throwing and Catching Exceptions|Kotlin/Learning
-- [ ] 017: Generics in Kotlin: Writing Reusable Code with Type Parameters|Kotlin/Learning
+- [x] [017: Generics in Kotlin: Writing Reusable Code with Type Parameters](/Knowledge-base/Kotlin/Learning/017-generics-in-kotlin-writing-reusable-code-with-type-parameters)
 - [ ] 018: Companion Objects in Kotlin: Static Members in Classes|Kotlin/Learning
 - [ ] 019: Data Classes in Kotlin: Automatically Generating Equals, HashCode, and ToString Methods|Kotlin/Learning
 - [ ] 020: Delegated Properties in Kotlin: Implementing Delegation Patterns|Kotlin/Learning
