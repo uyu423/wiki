@@ -2,7 +2,7 @@
 title: Steve Ballmer (Microsoft CEO)
 description: 
 published: true
-date: 2023-02-02T05:36:49.387Z
+date: 2023-02-02T05:57:31.391Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T05:36:49.387Z
@@ -15,7 +15,6 @@ dateCreated: 2023-02-02T05:36:49.387Z
 
 - [Steve Ballmer (Microsoft CEO)***English** document is available*](/en/Knowledge-base/Dictionary/Person/steve-ballmer-microsoft-ceo)
 {.links-list}
- "생활"섹션에서.
 
 # 개요
 
