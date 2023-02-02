@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T15:04:29.700Z
+date: 2023-02-02T15:17:23.699Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -81,7 +81,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [032: Deploying TensorFlow.js Models with Node.js](/Knowledge-base/TensorFlow-js/Learning/032-deploying-tensorflow-js-models-with-node-js)
 - [x] [033: Making Predictions with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/033-making-predictions-with-tensorflow-js-and-node-js)
 - [x] [034: Visualizing Model Training with TensorBoard and Node.js](/Knowledge-base/TensorFlow-js/Learning/034-visualizing-model-training-with-tensorboard-and-node-js)
-- [ ] 035: Saving and Loading Models with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [035: Saving and Loading Models with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/035-saving-and-loading-models-with-tensorflow-js-and-node-js)
 - [ ] 036: Using Pretrained Models with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [x] [037: Custom Model Metrics with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/037-custom-model-metrics-with-tensorflow-js-and-node-js)
 - [ ] 038: Data Preprocessing with TensorFlow.js and Node.js|TensorFlow-js/Learning
