@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T06:44:07.462Z
+date: 2023-02-02T06:52:18.208Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -44,6 +44,109 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [setting-up-a-backend-system-with-spring-boot](/ko/Knowledge-base/Backend/setting-up-a-backend-system-with-spring-boot)
 - [x] [building-backend-systems-with-grpc](/ko/Knowledge-base/Backend/building-backend-systems-with-grpc)
 - [x] [building-resilient-backend-systems-with-circuit-breakers](/ko/Knowledge-base/Backend/building-resilient-backend-systems-with-circuit-breakers)
+
+## TensorFlow with Node.js
+
+- [ ] 001: Introduction to TensorFlow and Node.js|TensorFlow-js/Learning
+- [ ] 002: Installing TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 003: Understanding TensorFlow.js Core API|TensorFlow-js/Learning
+- [ ] 004: Tensors and Operations in TensorFlow.js|TensorFlow-js/Learning
+- [ ] 005: Linear Regression with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 006: Logistic Regression with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 007: Multilayer Perceptron (MLP) with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 008: Convolutional Neural Networks (CNN) with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 009: Recurrent Neural Networks (RNN) with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 010: Long Short-Term Memory (LSTM) with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 011: Gated Recurrent Unit (GRU) with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 012: Autoencoders with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 013: Generative Adversarial Networks (GAN) with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 014: Transfer Learning with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 015: Image Classification with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 016: Object Detection with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 017: Image Segmentation with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 018: Video Analysis with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 019: Text Classification with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 020: Sentiment Analysis with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 021: Named Entity Recognition (NER) with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 022: Speech Recognition with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 023: Text Generation with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 024: Chatbots with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 025: Recommendation Systems with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 026: Time Series Analysis with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 027: Anomaly Detection with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 028: Reinforcement Learning with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 029: Deep Reinforcement Learning with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 030: Multi-Agent Systems with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 031: Training and Fine-Tuning Models with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 032: Deploying TensorFlow.js Models with Node.js|TensorFlow-js/Learning
+- [ ] 033: Making Predictions with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 034: Visualizing Model Training with TensorBoard and Node.js|TensorFlow-js/Learning
+- [ ] 035: Saving and Loading Models with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 036: Using Pretrained Models with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 037: Custom Model Metrics with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 038: Data Preprocessing with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 039: Data Augmentation with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 040: Data Shuffling and Batching with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 041: Overfitting and Regularization with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 042: Hyperparameter Tuning with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 043: Early Stopping with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 044: Gradient Descent with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 045: Stochastic Gradient Descent (SGD) with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 046: Momentum Optimization with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 047: Adagrad Optimization with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 048: Adadelta Optimization with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 049: RMSprop Optimization with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 050: Adam Optimization with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 051: Using Callbacks with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 052: Custom Callbacks with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 053: Using TensorFlow.js with Express.js in Node.js|TensorFlow-js/Learning
+- [ ] 054: Creating REST APIs with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 055: Integrating TensorFlow.js with MongoDB in Node.js|TensorFlow-js/Learning
+- [ ] 056: Debugging TensorFlow.js and Node.js Applications|TensorFlow-js/Learning
+- [ ] 057: Exception Handling in TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 058: Testing TensorFlow.js and Node.js Applications|TensorFlow-js/Learning
+- [ ] 059: Integrating TensorFlow.js with WebSockets in Node.js|TensorFlow-js/Learning
+- [ ] 060: Using TensorFlow.js with WebRTC in Node.js|TensorFlow-js/Learning
+- [ ] 061: Real-Time Object Detection with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 062: Real-Time Image Classification with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 063: Real-Time Sentiment Analysis with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 064: Real-Time Chatbots with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 065: Real-Time Recommender Systems with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 066: Using TensorFlow.js in Electron.js with Node.js|TensorFlow-js/Learning
+- [ ] 067: Creating Desktop Applications with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 068: Integrating TensorFlow.js with Databases in Node.js|TensorFlow-js/Learning
+- [ ] 069: Scaling TensorFlow.js Applications with Node.js|TensorFlow-js/Learning
+- [ ] 070: Performance Optimization with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 071: GPU Acceleration with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 072: Using TensorFlow.js with Node.js Workers|TensorFlow-js/Learning
+- [ ] 073: Using TensorFlow.js with Node.js Clusters|TensorFlow-js/Learning
+- [ ] 074: Using TensorFlow.js with Node.js on Cloud Providers|TensorFlow-js/Learning
+- [ ] 075: Deploying TensorFlow.js Applications on Kubernetes with Node.js|TensorFlow-js/Learning
+- [ ] 076: Using TensorFlow.js with Node.js in Edge Computing|TensorFlow-js/Learning
+- [ ] 077: Integrating TensorFlow.js with IoT Devices in Node.js|TensorFlow-js/Learning
+- [ ] 078: Deploying TensorFlow.js Applications on Raspberry Pi with Node.js|TensorFlow-js/Learning
+- [ ] 079: Using TensorFlow.js with Node.js on Mobile Devices|TensorFlow-js/Learning
+- [ ] 080: Integrating TensorFlow.js with AR/VR in Node.js|TensorFlow-js/Learning
+- [ ] 081: Building Interactive Visualizations with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 082: Creating Custom Layers in TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 083: Using TensorFlow.js with Other ML Frameworks in Node.js|TensorFlow-js/Learning
+- [ ] 084: Using TensorFlow.js with Other JavaScript Libraries in Node.js|TensorFlow-js/Learning
+- [ ] 085: Building End-to-End Machine Learning Workflows with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 086: Implementing Custom Loss Functions in TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 087: Implementing Custom Metrics in TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 088: Transfer Learning with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 089: Fine-Tuning Pre-Trained Models in TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 090: Multi-Task Learning with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 091: Building Generative Models with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 092: Using Variational Autoencoders (VAEs) in TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 093: Building Deep Convolutional Generative Adversarial Networks (DC-GANs) in TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 094: Building Recurrent Neural Networks (RNNs) in TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 095: Building Long Short-Term Memory (LSTM) Networks in TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 096: Building Gated Recurrent Units (GRUs) in TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 097: Building Attention Mechanisms in TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 098: Building Generative Adversarial Networks (GANs) in TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 099: Building Reinforcement Learning Agents in TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [ ] 100: Advanced Topics in TensorFlow.js and Node.js: Research and Applications|TensorFlow-js/Learning
 
 ## Spring Boot Learning
 
