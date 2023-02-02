@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T20:24:36.834Z
+date: 2023-02-02T20:36:38.403Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -104,7 +104,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [055: Integrating TensorFlow.js with MongoDB in Node.js](/Knowledge-base/TensorFlow-js/Learning/055-integrating-tensorflow-js-with-mongodb-in-node-js)
 - [x] [056: Debugging TensorFlow.js and Node.js Applications](/Knowledge-base/TensorFlow-js/Learning/056-debugging-tensorflow-js-and-node-js-applications)
 - [x] [057: Exception Handling in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/057-exception-handling-in-tensorflow-js-and-node-js)
-- [ ] 058: Testing TensorFlow.js and Node.js Applications|TensorFlow-js/Learning
+- [x] [058: Testing TensorFlow.js and Node.js Applications](/Knowledge-base/TensorFlow-js/Learning/058-testing-tensorflow-js-and-node-js-applications)
 - [ ] 059: Integrating TensorFlow.js with WebSockets in Node.js|TensorFlow-js/Learning
 - [ ] 060: Using TensorFlow.js with WebRTC in Node.js|TensorFlow-js/Learning
 - [ ] 061: Real-Time Object Detection with TensorFlow.js and Node.js|TensorFlow-js/Learning
