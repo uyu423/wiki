@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T20:57:31.928Z
+date: 2023-02-02T21:05:35.513Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -106,7 +106,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [057: Exception Handling in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/057-exception-handling-in-tensorflow-js-and-node-js)
 - [x] [058: Testing TensorFlow.js and Node.js Applications](/Knowledge-base/TensorFlow-js/Learning/058-testing-tensorflow-js-and-node-js-applications)
 - [x] [059: Integrating TensorFlow.js with WebSockets in Node.js](/Knowledge-base/TensorFlow-js/Learning/059-integrating-tensorflow-js-with-websockets-in-node-js)
-- [ ] 060: Using TensorFlow.js with WebRTC in Node.js|TensorFlow-js/Learning
+- [x] [060: Using TensorFlow.js with WebRTC in Node.js](/Knowledge-base/TensorFlow-js/Learning/060-using-tensorflow-js-with-webrtc-in-node-js)
 - [ ] 061: Real-Time Object Detection with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 062: Real-Time Image Classification with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 063: Real-Time Sentiment Analysis with TensorFlow.js and Node.js|TensorFlow-js/Learning
