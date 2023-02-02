@@ -2,12 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T05:42:24.534Z
+date: 2023-02-02T05:43:42.277Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
+- [ ] 037: Implementing real-time chat with Nest.js and WebSockets|Nest-js/Learning
 - [x] [Naver Corporation (South Korea)](/Knowledge-base/Dictionary/Company/naver-corporation-south-korea)
 - [x] [Kakao Corporation (South Korea)](/Knowledge-base/Dictionary/Company/kakao-corporation-south-korea)
 - [x] [Line Corporation (Japan)](/Knowledge-base/Dictionary/Company/line-corporation-japan)
@@ -352,7 +353,6 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 034: Using Nest.js with Angular|Nest-js/Learning
 - [x] [035: Using Nest.js with React](/Knowledge-base/Nest-js/Learning/035-using-nest-js-with-react)
 - [ ] 036: Real-time communication with WebSockets in Nest.js|Nest-js/Learning
-- [x] [037: Implementing real-time chat with Nest.js and WebSockets](/Knowledge-base/Nest-js/Learning/037-implementing-real-time-chat-with-nest-js-and-websockets)
 - [ ] 038: Building and deploying serverless applications with Nest.js|Nest-js/Learning
 - [ ] 039: Using Nest.js with AWS Lambda|Nest-js/Learning
 - [ ] 040: Using Nest.js with Google Cloud Functions|Nest-js/Learning
