@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T05:36:57.738Z
+date: 2023-02-02T05:39:19.726Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -11,7 +11,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Naver Corporation (South Korea)](/Knowledge-base/Dictionary/Company/naver-corporation-south-korea)
 - [x] [Kakao Corporation (South Korea)](/Knowledge-base/Dictionary/Company/kakao-corporation-south-korea)
 - [x] [Line Corporation (Japan)](/Knowledge-base/Dictionary/Company/line-corporation-japan)
-- [ ] Samsung Electronics Co., Ltd. (South Korea)|Dictionary/Company
+- [x] [Samsung Electronics Co., Ltd. (South Korea)](/Knowledge-base/Dictionary/Company/samsung-electronics-co-ltd-south-korea)
 - [ ] SK Hynix Inc. (South Korea)|Dictionary/Company
 - [ ] LG Electronics Inc. (South Korea)|Dictionary/Company
 - [x] [Dockerizing Your Node.js Applications](/Knowledge-base/Backend/dockerizing-your-node-js-applications)
