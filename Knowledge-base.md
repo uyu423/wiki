@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T05:36:56.768Z
+date: 2023-02-02T05:36:57.738Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1746,7 +1746,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Eric Schmidt (Google Chairman)|Dictionary/Person
 - [ ] Larry Ellison (Oracle CEO)|Dictionary/Person
 - [ ] Michael Dell (Dell Technologies Founder)|Dictionary/Person
-- [ ] Steve Ballmer (Microsoft CEO)|Dictionary/Person
+- [x] [Steve Ballmer (Microsoft CEO)](/Knowledge-base/Dictionary/Person/steve-ballmer-microsoft-ceo)
 - [ ] Satya Nadella (Microsoft CEO)|Dictionary/Person
 - [ ] John Chambers (Cisco Systems CEO)|Dictionary/Person
 - [ ] Meg Whitman (HP CEO)|Dictionary/Person
