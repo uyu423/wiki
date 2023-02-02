@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T13:05:00.735Z
+date: 2023-02-02T13:17:52.048Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -73,7 +73,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [024: Chatbots with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/024-chatbots-with-tensorflow-js-and-node-js)
 - [x] [025: Recommendation Systems with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/025-recommendation-systems-with-tensorflow-js-and-node-js)
 - [x] [026: Time Series Analysis with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/026-time-series-analysis-with-tensorflow-js-and-node-js)
-- [ ] 027: Anomaly Detection with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [027: Anomaly Detection with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/027-anomaly-detection-with-tensorflow-js-and-node-js)
 - [ ] 028: Reinforcement Learning with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 029: Deep Reinforcement Learning with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 030: Multi-Agent Systems with TensorFlow.js and Node.js|TensorFlow-js/Learning
