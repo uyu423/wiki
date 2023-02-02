@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T01:43:47.560Z
+date: 2023-02-02T01:57:42.919Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -424,7 +424,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 035: Tailrec Functions in Kotlin: Optimizing Recursive Functions|Kotlin/Learning
 - [ ] 036: Operator Overloading in Kotlin: Overloading Common Operators for Custom Types|Kotlin/Learning
 - [ ] 037: Inline Functions in Kotlin: Improving Performance with Inlined Functions|Kotlin/Learning
-- [ ] 038: Reified Types in Kotlin: Accessing Types at Runtime|Kotlin/Learning
+- [x] [038: Reified Types in Kotlin: Accessing Types at Runtime](/Knowledge-base/Kotlin/Learning/038-reified-types-in-kotlin-accessing-types-at-runtime)
 - [ ] 039: Constructors in Kotlin: Initializing Classes with Different Constructors|Kotlin/Learning
 - [ ] 040: Companion Objects in Kotlin: Implementing Static Members|Kotlin/Learning
 - [ ] 041: Object Declarations in Kotlin: Creating Singleton Instances|Kotlin/Learning
