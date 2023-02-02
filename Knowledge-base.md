@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T11:19:08.661Z
+date: 2023-02-02T11:24:06.454Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1432,7 +1432,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Man-in-the-Middle Attack](/Knowledge-base/Dictionary/man-in-the-middle-attack)
 - [ ] Cross-Site Scripting|Dictionary
 - [ ] SQL Injection|Dictionary
-- [ ] Buffer Overflow|Dictionary
+- [x] [Buffer Overflow](/Knowledge-base/Dictionary/buffer-overflow)
 - [ ] Denial-of-Service Attack|Dictionary
 - [x] [Distributed Denial-of-Service Attack](/Knowledge-base/Dictionary/distributed-denial-of-service-attack)
 - [x] [Rootkit](/Knowledge-base/Dictionary/rootkit)
