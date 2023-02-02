@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T20:44:16.210Z
+date: 2023-02-02T20:57:31.928Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -319,7 +319,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Spring Boot Deployment on AWS|Spring-Boot
 - [ ] Spring Boot Monitoring with Micrometer|Spring-Boot
 - [ ] Spring Boot Monitoring with Actuator|Spring-Boot
-- [ ] Spring Boot Debugging with Remote Debugging|Spring-Boot
+- [x] [Spring Boot Debugging with Remote Debugging](/Knowledge-base/Spring-Boot/spring-boot-debugging-with-remote-debugging)
 - [x] [Spring Boot Profiling with VisualVM](/Knowledge-base/Spring-Boot/spring-boot-profiling-with-visualvm)
 - [ ] Spring Boot Caching with EhCache|Spring-Boot
 - [x] [Spring Boot Caching with Hazelcast](/Knowledge-base/Spring-Boot/spring-boot-caching-with-hazelcast)
