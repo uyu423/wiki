@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T09:44:18.236Z
+date: 2023-02-02T09:57:31.024Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -547,7 +547,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [045: Local Functions in Kotlin: Creating Functions Within Functions](/Knowledge-base/Kotlin/Learning/045-local-functions-in-kotlin-creating-functions-within-functions)
 - [ ] 046: SAM (Single Abstract Method) Interfaces in Kotlin: Converting Java Interfaces to Kotlin Interfaces|Kotlin/Learning
 - [ ] 047: Late-initialized Properties in Kotlin: Initializing Properties Lazy and Safe|Kotlin/Learning
-- [ ] 048: The Elvis Operator in Kotlin: Dealing with Null Values in a Compact Way|Kotlin/Learning
+- [x] [048: The Elvis Operator in Kotlin: Dealing with Null Values in a Compact Way](/Knowledge-base/Kotlin/Learning/048-the-elvis-operator-in-kotlin-dealing-with-null-values-in-a-compact-way)
 - [ ] 049: Higher-Order Functions and Lambdas in Kotlin: Understanding Closures and Function Types|Kotlin/Learning
 - [ ] 050: Design Patterns in Kotlin: Applying Common Design Patterns to Your Code.|Kotlin/Learning
 - [ ] 051: The Kotlin Standard Library: Utilizing the Built-in Functions and Classes|Kotlin/Learning
