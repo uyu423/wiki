@@ -2,7 +2,7 @@
 title: Desarrollo de Software 061: Sistemas Distribuidos
 description: 
 published: true
-date: 2023-02-01T22:17:58.494Z
+date: 2023-02-02T05:55:34.489Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T22:17:58.494Z
@@ -17,9 +17,7 @@ Algunas páginas se pueden leer mejor en su totalidad.{.is-info}
 {.links-list}
 
   
-  - - -
-  
-  ## Introducción
+## Introducción
   
   En ingeniería de software, un **sistema distribuido** es un sistema cuyos componentes están ubicados en diferentes computadoras en red, las cuales se comunican y coordinan sus acciones pasándose mensajes entre sí. Los componentes interactúan entre sí para lograr un objetivo común.
   
