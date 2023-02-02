@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T21:17:48.420Z
+date: 2023-02-02T21:23:24.155Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -112,7 +112,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 063: Real-Time Sentiment Analysis with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 064: Real-Time Chatbots with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 065: Real-Time Recommender Systems with TensorFlow.js and Node.js|TensorFlow-js/Learning
-- [ ] 066: Using TensorFlow.js in Electron.js with Node.js|TensorFlow-js/Learning
+- [x] [066: Using TensorFlow.js in Electron.js with Node.js](/Knowledge-base/TensorFlow-js/Learning/066-using-tensorflow-js-in-electron-js-with-node-js)
 - [ ] 067: Creating Desktop Applications with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 068: Integrating TensorFlow.js with Databases in Node.js|TensorFlow-js/Learning
 - [ ] 069: Scaling TensorFlow.js Applications with Node.js|TensorFlow-js/Learning
