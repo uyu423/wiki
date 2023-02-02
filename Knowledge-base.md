@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T00:43:50.175Z
+date: 2023-02-02T00:58:17.875Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1634,7 +1634,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Dell Technologies|Dictionary/Company
 - [ ] Capgemini SE|Dictionary/Company
 - [ ] DXC Technology Company|Dictionary/Company
-- [ ] Atos SE|Dictionary/Company
+- [x] [Atos SE](/Knowledge-base/Dictionary/Company/atos-se)
 - [ ] Adyen N.V.|Dictionary/Company
 - [ ] Square, Inc.|Dictionary/Company
 - [ ] Slack Technologies, Inc.|Dictionary/Company
