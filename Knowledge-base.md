@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T08:17:35.516Z
+date: 2023-02-02T08:24:33.865Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1899,7 +1899,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Douglas Engelbart (Computer Mouse Inventor)|Dictionary/Person
 - [ ] Ted Nelson (Hypertext Pioneer)|Dictionary/Person
 - [ ] Ivan Sutherland (Sketchpad Creator)|Dictionary/Person
-- [ ] John Warnock (Adobe Co-founder)|Dictionary/Person
+- [x] [John Warnock (Adobe Co-founder)](/Knowledge-base/Dictionary/Person/john-warnock-adobe-co-founder)
 - [ ] Charles Geschke (Adobe Co-founder)|Dictionary/Person
 - [ ] Alan Cooper (Visual Basic Creator)|Dictionary/Person
 - [ ] David Heinemeier Hansson (Ruby on Rails Creator)|Dictionary/Person
