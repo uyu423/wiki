@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T18:43:32.521Z
+date: 2023-02-02T18:57:31.205Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -201,7 +201,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 049: Building a machine learning application using Spring Boot and TensorFlow|Spring-Boot/Learning
 - [ ] 050: Integrating with a notification service using Spring Boot (Twilio, Slack)|Spring-Boot/Learning
 - [ ] 051: Using Spring Boot with Spring XD|Spring-Boot/Learning
-- [ ] 052: Building a search engine optimization (SEO) friendly website using Spring Boot and Spring MVC|Spring-Boot/Learning
+- [x] [052: Building a search engine optimization (SEO) friendly website using Spring Boot and Spring MVC](/Knowledge-base/Spring-Boot/Learning/052-building-a-search-engine-optimization-seo-friendly-website-using-spring-boot-and-spring-mvc)
 - [ ] 053: Implementing a file download in a Spring Boot application|Spring-Boot/Learning
 - [ ] 054: Using Spring Boot with Apache Nifi|Spring-Boot/Learning
 - [ ] 055: Building a real-time dashboarding application using Spring Boot and Apache Zeppelin|Spring-Boot/Learning
