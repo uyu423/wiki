@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T17:24:44.233Z
+date: 2023-02-02T17:36:46.433Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -91,7 +91,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [042: Hyperparameter Tuning with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/042-hyperparameter-tuning-with-tensorflow-js-and-node-js)
 - [x] [043: Early Stopping with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/043-early-stopping-with-tensorflow-js-and-node-js)
 - [x] [044: Gradient Descent with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/044-gradient-descent-with-tensorflow-js-and-node-js)
-- [ ] 045: Stochastic Gradient Descent (SGD) with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [045: Stochastic Gradient Descent (SGD) with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/045-stochastic-gradient-descent-sgd-with-tensorflow-js-and-node-js)
 - [ ] 046: Momentum Optimization with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 047: Adagrad Optimization with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 048: Adadelta Optimization with TensorFlow.js and Node.js|TensorFlow-js/Learning
