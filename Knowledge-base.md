@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T17:18:36.966Z
+date: 2023-02-02T17:24:44.233Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1284,7 +1284,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Clean Software|Dictionary
 - [x] [Wooahan Brothers (South Korea Company)](/Knowledge-base/Dictionary/wooahan-brothers-south-korea-company)
 - [ ] NAVER|Dictionary
-- [ ] Robert C. Martin|Dictionary
+- [x] [Robert C. Martin](/Knowledge-base/Dictionary/robert-c-martin)
 - [ ] Linus Torvalds|Dictionary
 - [ ] Web Assembly|Dictionary
 - [x] [Realforce Keyboard](/Knowledge-base/Dictionary/realforce-keyboard)
