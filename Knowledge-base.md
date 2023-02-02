@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T03:04:56.283Z
+date: 2023-02-02T03:18:23.483Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1675,7 +1675,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Tencent Holdings Limited (China)|Dictionary/Company
 - [ ] Alibaba Group Holding Limited (China)|Dictionary/Company
 - [ ] Xiaomi Corporation (China)|Dictionary/Company
-- [ ] ByteDance (China)|Dictionary/Company
+- [x] [ByteDance (China)](/Knowledge-base/Dictionary/Company/bytedance-china)
 - [ ] Meituan (China)|Dictionary/Company
 - [ ] SoftBank Group Corp. (Japan)|Dictionary/Company
 - [ ] Samsung Electronics Co., Ltd. (South Korea)|Dictionary/Company
