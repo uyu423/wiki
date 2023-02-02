@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T07:23:31.122Z
+date: 2023-02-02T07:25:44.824Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -906,7 +906,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 022: Network Fundamentals|Software-Development/Learning
 - [x] [Software Development 023: TCP/IP and HTTP](/Knowledge-base/Software-Development/Learning/software-development-023-tcpip-and-http)
 - [ ] Software Development 024: RESTful API Design|Software-Development/Learning
-- [ ] Software Development 025: GraphQL|Software-Development/Learning
+- [x] [Software Development 025: GraphQL](/Knowledge-base/Software-Development/Learning/software-development-025-graphql)
 - [ ] Software Development 026: Microservices Architecture|Software-Development/Learning
 - [ ] Software Development 027: Machine Learning and Artificial Intelligence|Software-Development/Learning
 - [ ] Software Development 028: Neural Networks|Software-Development/Learning
