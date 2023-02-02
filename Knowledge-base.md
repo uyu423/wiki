@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T21:43:50.250Z
+date: 2023-02-02T21:57:25.872Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -950,7 +950,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 066: Real-Time Analytics|Software-Development/Learning
 - [ ] Software Development 067: Streaming Analytics|Software-Development/Learning
 - [ ] Software Development 068: Event-Driven Architecture|Software-Development/Learning
-- [ ] Software Development 069: Event Sourcing and CQRS|Software-Development/Learning
+- [x] [Software Development 069: Event Sourcing and CQRS](/Knowledge-base/Software-Development/Learning/software-development-069-event-sourcing-and-cqrs)
 - [ ] Software Development 070: Service-Oriented Architecture (SOA)|Software-Development/Learning
 - [ ] Software Development 071: Domain-Driven Design (DDD)|Software-Development/Learning
 - [x] [Software Development 072: Test-Driven Development (TDD)](/Knowledge-base/Software-Development/Learning/software-development-072-test-driven-development-tdd)
