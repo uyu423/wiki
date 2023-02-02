@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T22:17:32.826Z
+date: 2023-02-02T22:24:18.599Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -231,7 +231,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 079: Implementing Asynchronous Processing in a Spring Boot Application|Spring-Boot/Learning
 - [ ] 080: Understanding and Using the Spring Boot Metrics for Monitoring|Spring-Boot/Learning
 - [ ] 081: Working with the Spring Boot Actuator for Health Checks|Spring-Boot/Learning
-- [ ] 082: Integrating Spring Boot with Apache Kafka for Streaming Data|Spring-Boot/Learning
+- [x] [082: Integrating Spring Boot with Apache Kafka for Streaming Data](/Knowledge-base/Spring-Boot/Learning/082-integrating-spring-boot-with-apache-kafka-for-streaming-data)
 - [ ] 083: Building a CRUD Application with Spring Boot and JPA|Spring-Boot/Learning
 - [ ] 084: Implementing a Custom Authentication Provider in Spring Boot|Spring-Boot/Learning
 - [ ] 085: Building a Search Engine with Spring Boot and Solr|Spring-Boot/Learning
