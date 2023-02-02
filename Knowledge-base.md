@@ -2,13 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T05:44:03.084Z
+date: 2023-02-02T05:47:45.212Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [ ] 037: Implementing real-time chat with Nest.js and WebSockets|Nest-js/Learning
+- [x] [037: Implementing real-time chat with Nest.js and WebSockets](/Knowledge-base/Nest-js/Learning/037-implementing-real-time-chat-with-nest-js-and-websockets)
 - [x] [Naver Corporation (South Korea)](/Knowledge-base/Dictionary/Company/naver-corporation-south-korea)
 - [x] [Kakao Corporation (South Korea)](/Knowledge-base/Dictionary/Company/kakao-corporation-south-korea)
 - [x] [Line Corporation (Japan)](/Knowledge-base/Dictionary/Company/line-corporation-japan)
