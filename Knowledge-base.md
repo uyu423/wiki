@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T21:23:24.155Z
+date: 2023-02-02T21:36:48.242Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -108,7 +108,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [059: Integrating TensorFlow.js with WebSockets in Node.js](/Knowledge-base/TensorFlow-js/Learning/059-integrating-tensorflow-js-with-websockets-in-node-js)
 - [x] [060: Using TensorFlow.js with WebRTC in Node.js](/Knowledge-base/TensorFlow-js/Learning/060-using-tensorflow-js-with-webrtc-in-node-js)
 - [x] [061: Real-Time Object Detection with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/061-real-time-object-detection-with-tensorflow-js-and-node-js)
-- [ ] 062: Real-Time Image Classification with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [062: Real-Time Image Classification with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/062-real-time-image-classification-with-tensorflow-js-and-node-js)
 - [ ] 063: Real-Time Sentiment Analysis with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 064: Real-Time Chatbots with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 065: Real-Time Recommender Systems with TensorFlow.js and Node.js|TensorFlow-js/Learning
