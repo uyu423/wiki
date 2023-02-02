@@ -2,7 +2,7 @@
 title: Naver Corporation (South Korea)
 description: 
 published: true
-date: 2023-02-02T03:30:21.596Z
+date: 2023-02-02T03:30:46.769Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T03:30:21.596Z
@@ -16,7 +16,6 @@ dateCreated: 2023-02-02T03:30:21.596Z
 {.links-list}
 - [Naver Corporation (South Korea)***Korean** document is available*](/ko/Knowledge-base/Dictionary/Company/naver-corporation-south-korea)
 {.links-list}
-.
 
 # Overview
 
