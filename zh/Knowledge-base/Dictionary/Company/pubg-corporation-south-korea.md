@@ -2,7 +2,7 @@
 title: PUBG Corporation (South Korea)
 description: 
 published: true
-date: 2023-02-01T22:24:05.783Z
+date: 2023-02-02T02:14:36.002Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T22:24:05.783Z
@@ -16,15 +16,6 @@ dateCreated: 2023-02-01T22:24:05.783Z
 - [PUBG Corporation (South Korea)***English** document is available*](/en/Knowledge-base/Dictionary/Company/pubg-corporation-south-korea)
 {.links-list}
 
-  在“历史”部分，你应该按照时间顺序解释公司的历史。
-  在“工作环境”部分，您应该说明公司的工作环境。
-  在“治理”部分，您应该解释公司的治理结构。
-  在“相关服务/产品”部分，您应说明公司的相关服务和产品。
-  在“关键技术”部分，应说明公司采用的关键技术。
-  在“关联公司”部分，您应说明公司的关联公司。
-  在“批评与争议”部分，对与公司有关的批评与争议进行说明。
-  在“题外话”部分，您应该解释与公司相关的任何其他有趣事实。
-  在“其他”部分，您应解释与公司有关的任何其他信息。
 
 # PUBG 公司（韩国）
 
