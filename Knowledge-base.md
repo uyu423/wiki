@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T11:36:34.078Z
+date: 2023-02-02T11:43:43.766Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -67,7 +67,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [018: Video Analysis with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/018-video-analysis-with-tensorflow-js-and-node-js)
 - [x] [019: Text Classification with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/019-text-classification-with-tensorflow-js-and-node-js)
 - [x] [020: Sentiment Analysis with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/020-sentiment-analysis-with-tensorflow-js-and-node-js)
-- [ ] 021: Named Entity Recognition (NER) with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [021: Named Entity Recognition (NER) with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/021-named-entity-recognition-ner-with-tensorflow-js-and-node-js)
 - [ ] 022: Speech Recognition with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 023: Text Generation with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 024: Chatbots with TensorFlow.js and Node.js|TensorFlow-js/Learning
