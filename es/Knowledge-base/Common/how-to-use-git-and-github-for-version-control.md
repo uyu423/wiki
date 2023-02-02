@@ -2,7 +2,7 @@
 title: Cómo usar Git y GitHub para el control de versiones
 description: 
 published: true
-date: 2023-02-02T06:23:35.070Z
+date: 2023-02-02T06:29:45.217Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T06:23:35.070Z
@@ -15,7 +15,6 @@ Algunas páginas se pueden leer mejor en su totalidad.{.is-info}
 
 - [How to Use Git and GitHub for Version Control***English** document is available*](/en/Knowledge-base/Common/how-to-use-git-and-github-for-version-control)
 {.links-list}
- como encabezado, pero incluya una conclusión que reúna todo y brinde pensamientos finales o próximos pasos.
 
 
 # Cómo usar Git y GitHub para el control de versiones
