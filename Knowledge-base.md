@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T04:58:11.004Z
+date: 2023-02-02T05:04:59.193Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1772,7 +1772,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] James Gosling (Java Creator)|Dictionary/Person
 - [ ] Brendan Eich (JavaScript Creator)|Dictionary/Person
 - [ ] John Carmack (id Software Co-founder)|Dictionary/Person
-- [ ] Sid Meier (Civilization Creator)|Dictionary/Person
+- [x] [Sid Meier (Civilization Creator)](/Knowledge-base/Dictionary/Person/sid-meier-civilization-creator)
 - [ ] Shigeru Miyamoto (Nintendo Game Designer)|Dictionary/Person
 - [ ] Hideo Kojima (Metal Gear Creator)|Dictionary/Person
 - [ ] Gabe Newell (Valve Co-founder)|Dictionary/Person
