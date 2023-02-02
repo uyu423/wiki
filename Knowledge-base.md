@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T22:36:31.506Z
+date: 2023-02-02T22:43:43.680Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -114,7 +114,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [065: Real-Time Recommender Systems with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/065-real-time-recommender-systems-with-tensorflow-js-and-node-js)
 - [x] [066: Using TensorFlow.js in Electron.js with Node.js](/Knowledge-base/TensorFlow-js/Learning/066-using-tensorflow-js-in-electron-js-with-node-js)
 - [x] [067: Creating Desktop Applications with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/067-creating-desktop-applications-with-tensorflow-js-and-node-js)
-- [ ] 068: Integrating TensorFlow.js with Databases in Node.js|TensorFlow-js/Learning
+- [x] [068: Integrating TensorFlow.js with Databases in Node.js](/Knowledge-base/TensorFlow-js/Learning/068-integrating-tensorflow-js-with-databases-in-node-js)
 - [ ] 069: Scaling TensorFlow.js Applications with Node.js|TensorFlow-js/Learning
 - [ ] 070: Performance Optimization with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [x] [071: GPU Acceleration with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/071-gpu-acceleration-with-tensorflow-js-and-node-js)
