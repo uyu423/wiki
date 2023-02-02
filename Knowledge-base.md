@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T03:18:23.483Z
+date: 2023-02-02T03:23:58.235Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -720,7 +720,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] AWS CloudTrail: Logging AWS API Calls for Compliance and Auditing|Cloud
 - [x] [AWS Elasticache: Scaling Memcached or Redis Caching for Web Applications](/Knowledge-base/Cloud/aws-elasticache-scaling-memcached-or-redis-caching-for-web-applications)
 - [x] [AWS SES: Sending and Receiving Emails with Simple Email Service](/Knowledge-base/Cloud/aws-ses-sending-and-receiving-emails-with-simple-email-service)
-- [ ] AWS SNS & SQS: Building a Message Broker System in the Cloud|Cloud
+- [x] [AWS SNS & SQS: Building a Message Broker System in the Cloud](/Knowledge-base/Cloud/aws-sns--sqs-building-a-message-broker-system-in-the-cloud)
 - [x] [AWS Glue: Automating Data Processing and ETL in the Cloud](/Knowledge-base/Cloud/aws-glue-automating-data-processing-and-etl-in-the-cloud)
 - [x] [AWS Redshift: Scaling Data Warehousing with a Fully Managed Service](/Knowledge-base/Cloud/aws-redshift-scaling-data-warehousing-with-a-fully-managed-service)
 - [x] [AWS Athena: Running SQL Queries on S3 Data with Serverless Computing](/Knowledge-base/Cloud/aws-athena-running-sql-queries-on-s3-data-with-serverless-computing)
