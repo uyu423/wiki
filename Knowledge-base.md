@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T01:23:29.027Z
+date: 2023-02-02T01:36:50.413Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -657,7 +657,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Task Orchestration for Backend Applications|Backend
 - [x] [gRPC for High-performance Backend Communication](/Knowledge-base/Backend/grpc-for-high-performance-backend-communication)
 - [x] [Understanding Load Balancing Techniques in Infrastructure Development](/Knowledge-base/Backend/understanding-load-balancing-techniques-in-infrastructure-development)
-- [ ] Implementing Reverse Proxies for Better Performance|Backend
+- [x] [Implementing Reverse Proxies for Better Performance](/Knowledge-base/Backend/implementing-reverse-proxies-for-better-performance)
 - [ ] Securing Your Backend with Firewalls|Backend
 - [ ] Setting Up a Virtual Private Network (VPN) for Secure Communication|Backend
 - [x] [Enhancing User Experience with Content Delivery Network (CDN)](/Knowledge-base/Backend/enhancing-user-experience-with-content-delivery-network-cdn)
