@@ -2,13 +2,18 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T03:23:58.235Z
+date: 2023-02-02T03:29:12.106Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [x] [012: Using Spring Boot with message brokers (RabbitMQ)](/Knowledge-base/Spring-Boot/Learning/012-using-spring-boot-with-message-brokers-rabbitmq)
+- [ ] Naver Corporation (South Korea)|Dictionary/Company
+- [ ] Kakao Corporation (South Korea)|Dictionary/Company
+- [ ] Line Corporation (Japan)|Dictionary/Company
+- [ ] Samsung Electronics Co., Ltd. (South Korea)|Dictionary/Company
+- [ ] SK Hynix Inc. (South Korea)|Dictionary/Company
+- [ ] LG Electronics Inc. (South Korea)|Dictionary/Company
 - [x] [Dockerizing Your Node.js Applications](/Knowledge-base/Backend/dockerizing-your-node-js-applications)
 - [x] [Apple Inc.](/Knowledge-base/Dictionary/Company/apple-inc-)
 - [x] [Microsoft Corporation](/Knowledge-base/Dictionary/Company/microsoft-corporation)
@@ -1678,7 +1683,6 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [ByteDance (China)](/Knowledge-base/Dictionary/Company/bytedance-china)
 - [ ] Meituan (China)|Dictionary/Company
 - [ ] SoftBank Group Corp. (Japan)|Dictionary/Company
-- [ ] Samsung Electronics Co., Ltd. (South Korea)|Dictionary/Company
 - [ ] Huawei Technologies Co., Ltd. (China)|Dictionary/Company
 - [ ] WIPRO Limited (India)|Dictionary/Company
 - [ ] Infosys Limited (India)|Dictionary/Company
@@ -1689,8 +1693,6 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Fujitsu Limited (Japan)|Dictionary/Company
 - [ ] NEC Corporation (Japan)|Dictionary/Company
 - [ ] NTT Data Corporation (Japan)|Dictionary/Company
-- [ ] SK Hynix Inc. (South Korea)|Dictionary/Company
-- [ ] LG Electronics Inc. (South Korea)|Dictionary/Company
 - [ ] Baidu, Inc. (China)|Dictionary/Company
 - [ ] Tencent Holdings Limited (China)|Dictionary/Company
 - [ ] Alibaba Group Holding Limited (China)|Dictionary/Company
@@ -1714,9 +1716,6 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Coca-Cola Beverages (Japan)|Dictionary/Company
 - [ ] Fancl Corporation (Japan)|Dictionary/Company
 - [ ] Rakuten, Inc. (Japan)|Dictionary/Company
-- [ ] Naver Corporation (South Korea)|Dictionary/Company
-- [ ] Kakao Corporation (South Korea)|Dictionary/Company
-- [ ] Line Corporation (Japan)|Dictionary/Company
 - [ ] Bandai Namco Holdings (Japan)|Dictionary/Company
 - [ ] CyberAgent, Inc. (Japan)|Dictionary/Company
 - [ ] DeNA Co., Ltd. (Japan)|Dictionary/Company
