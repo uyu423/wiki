@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T16:23:33.516Z
+date: 2023-02-02T16:36:26.530Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -87,7 +87,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [038: Data Preprocessing with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/038-data-preprocessing-with-tensorflow-js-and-node-js)
 - [x] [039: Data Augmentation with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/039-data-augmentation-with-tensorflow-js-and-node-js)
 - [x] [040: Data Shuffling and Batching with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/040-data-shuffling-and-batching-with-tensorflow-js-and-node-js)
-- [ ] 041: Overfitting and Regularization with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [041: Overfitting and Regularization with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/041-overfitting-and-regularization-with-tensorflow-js-and-node-js)
 - [ ] 042: Hyperparameter Tuning with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 043: Early Stopping with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 044: Gradient Descent with TensorFlow.js and Node.js|TensorFlow-js/Learning
