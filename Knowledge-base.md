@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T08:24:33.865Z
+date: 2023-02-02T08:37:04.140Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -54,7 +54,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [005: Linear Regression with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/005-linear-regression-with-tensorflow-js-and-node-js)
 - [x] [006: Logistic Regression with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/006-logistic-regression-with-tensorflow-js-and-node-js)
 - [x] [007: Multilayer Perceptron (MLP) with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/007-multilayer-perceptron-mlp-with-tensorflow-js-and-node-js)
-- [ ] 008: Convolutional Neural Networks (CNN) with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [008: Convolutional Neural Networks (CNN) with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/008-convolutional-neural-networks-cnn-with-tensorflow-js-and-node-js)
 - [ ] 009: Recurrent Neural Networks (RNN) with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 010: Long Short-Term Memory (LSTM) with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 011: Gated Recurrent Unit (GRU) with TensorFlow.js and Node.js|TensorFlow-js/Learning
