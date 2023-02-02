@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T00:04:28.967Z
+date: 2023-02-02T00:18:34.313Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -345,7 +345,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 032: Using Nest.js with TypeScript|Nest-js/Learning
 - [ ] 033: Using Nest.js with JavaScript|Nest-js/Learning
 - [ ] 034: Using Nest.js with Angular|Nest-js/Learning
-- [ ] 035: Using Nest.js with React|Nest-js/Learning
+- [x] [035: Using Nest.js with React](/Knowledge-base/Nest-js/Learning/035-using-nest-js-with-react)
 - [ ] 036: Real-time communication with WebSockets in Nest.js|Nest-js/Learning
 - [x] [037: Implementing real-time chat with Nest.js and WebSockets](/Knowledge-base/Nest-js/Learning/037-implementing-real-time-chat-with-nest-js-and-websockets)
 - [ ] 038: Building and deploying serverless applications with Nest.js|Nest-js/Learning
