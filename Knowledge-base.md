@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T01:05:00.323Z
+date: 2023-02-02T01:17:45.111Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -361,7 +361,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 048: Best practices for writing Nest.js code|Nest-js/Learning
 - [ ] 049: Common pitfalls to avoid when using Nest.js|Nest-js/Learning
 - [ ] 050: Advanced Nest.js features and techniques|Nest-js/Learning
-- [ ] 051: Building and deploying multi-tenant applications with Nest.js|Nest-js/Learning
+- [x] [051: Building and deploying multi-tenant applications with Nest.js](/Knowledge-base/Nest-js/Learning/051-building-and-deploying-multi-tenant-applications-with-nest-js)
 - [ ] 052: Using Nest.js with Server-Sent Events (SSE)|Nest-js/Learning
 - [ ] 053: Using Nest.js with WebRTC for real-time communication|Nest-js/Learning
 - [ ] 054: Using Nest.js with Progressive Web Apps (PWA)|Nest-js/Learning
