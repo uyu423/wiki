@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T09:23:50.896Z
+date: 2023-02-02T09:36:43.334Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -58,7 +58,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [009: Recurrent Neural Networks (RNN) with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/009-recurrent-neural-networks-rnn-with-tensorflow-js-and-node-js)
 - [x] [010: Long Short-Term Memory (LSTM) with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/010-long-short-term-memory-lstm-with-tensorflow-js-and-node-js)
 - [x] [011: Gated Recurrent Unit (GRU) with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/011-gated-recurrent-unit-gru-with-tensorflow-js-and-node-js)
-- [ ] 012: Autoencoders with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [012: Autoencoders with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/012-autoencoders-with-tensorflow-js-and-node-js)
 - [ ] 013: Generative Adversarial Networks (GAN) with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 014: Transfer Learning with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 015: Image Classification with TensorFlow.js and Node.js|TensorFlow-js/Learning
