@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T22:43:43.680Z
+date: 2023-02-02T22:58:21.405Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1055,7 +1055,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Applying Agile Project Management in Software Development|Common
 - [ ] Enhancing Cybersecurity with Encryption and Firewalls|Common
 - [ ] Using Artificial Intelligence (AI) in Game Development|Common
-- [ ] How to Create a Website with Django|Common
+- [x] [How to Create a Website with Django](/Knowledge-base/Common/how-to-create-a-website-with-django)
 - [ ] The Role of Artificial Intelligence (AI) in Healthcare|Common
 - [ ] Using Deep Learning for Image Recognition|Common
 - [x] [Developing Cross-Platform Mobile Apps with Xamarin](/Knowledge-base/Common/developing-cross-platform-mobile-apps-with-xamarin)
