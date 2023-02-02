@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T04:24:09.749Z
+date: 2023-02-02T04:38:52.149Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1628,7 +1628,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Microsoft Corporation|Dictionary/Company
 - [ ] Amazon.com Inc.|Dictionary/Company
 - [ ] Alphabet Inc. (Google)|Dictionary/Company
-- [ ] Facebook Inc.|Dictionary/Company
+- [x] [Facebook Inc.](/Knowledge-base/Dictionary/Company/facebook-inc-)
 - [ ] IBM Corporation|Dictionary/Company
 - [x] [Intel Corporation](/Knowledge-base/Dictionary/Company/intel-corporation)
 - [ ] Oracle Corporation|Dictionary/Company
