@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T15:17:23.699Z
+date: 2023-02-02T15:23:34.116Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -223,7 +223,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [071: Implementing Internationalization (i18n) in a Spring Boot Application](/Knowledge-base/Spring-Boot/Learning/071-implementing-internationalization-i18n-in-a-spring-boot-application)
 - [ ] 072: Understanding and Using the Spring Boot Starters|Spring-Boot/Learning
 - [x] [073: Integrating Spring Boot with Elasticsearch for Search and Analytics](/Knowledge-base/Spring-Boot/Learning/073-integrating-spring-boot-with-elasticsearch-for-search-and-analytics)
-- [ ] 074: Integrating Spring Boot with Redis for Caching and Session Management|Spring-Boot/Learning
+- [x] [074: Integrating Spring Boot with Redis for Caching and Session Management](/Knowledge-base/Spring-Boot/Learning/074-integrating-spring-boot-with-redis-for-caching-and-session-management)
 - [ ] 075: Building a Microservice Architecture with Spring Boot|Spring-Boot/Learning
 - [ ] 076: Using the Spring Boot CLI for Scaffolding a Project|Spring-Boot/Learning
 - [ ] 077: Deploying a Spring Boot Application with Docker|Spring-Boot/Learning
