@@ -2,7 +2,7 @@
 title: Atos SE
 description: 
 published: true
-date: 2023-02-02T00:58:12.926Z
+date: 2023-02-02T02:43:23.194Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T00:58:12.926Z
@@ -17,15 +17,6 @@ dateCreated: 2023-02-02T00:58:12.926Z
 - [Atos SE***Korean** document is available*](/ko/Knowledge-base/Dictionary/Company/atos-se)
 {.links-list}
 
-  In the "History" section, you should describe in detail the history of the company, including its founding, development, and current status.
-  In the "Work Environment" section, you should describe in detail the company's work environment, such as its corporate culture, benefits, and employee satisfaction.
-  In the "Governance" section, you should describe in detail the company's governance structure, including its board of directors, executive team, and shareholders.
-  In the "Related Service/Product" section, you should provide a detailed description of the company's services and products.
-  In the "Key Technology" section, you should provide a detailed description of the company's key technologies, such as its software and hardware.
-  In the "Related Company" section, you should provide a detailed description of the company's related companies, such as its subsidiaries and joint ventures.
-  In the "Criticism and Controversy" section, you should provide a detailed description of any criticism and controversy the company has encountered.
-  In the "Digression" section, you should provide a detailed description of any other topics related to the company.
-  In the "Others" section, you should provide any other information related to the company.
 
 # Overview
 Atos SE is a global information technology services company, founded in 1997 and headquartered in Bezons, France. It provides a range of IT services, including consulting, systems integration, managed services, cloud operations, and transactional services. The company employs over 110,000 people in 73 countries and serves customers in the automotive, financial services, health, manufacturing, media, energy and utilities, public sector, retail, telecommunications, and travel and transportation industries.
