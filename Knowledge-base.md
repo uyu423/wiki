@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T10:18:00.397Z
+date: 2023-02-02T10:23:23.965Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -955,7 +955,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 071: Domain-Driven Design (DDD)|Software-Development/Learning
 - [x] [Software Development 072: Test-Driven Development (TDD)](/Knowledge-base/Software-Development/Learning/software-development-072-test-driven-development-tdd)
 - [ ] Software Development 073: Behavior-Driven Development (BDD)|Software-Development/Learning
-- [ ] Software Development 074: Continuous Testing|Software-Development/Learning
+- [x] [Software Development 074: Continuous Testing](/Knowledge-base/Software-Development/Learning/software-development-074-continuous-testing)
 - [ ] Software Development 075: Load Testing|Software-Development/Learning
 - [ ] Software Development 076: Performance Testing|Software-Development/Learning
 - [ ] Software Development 077: Security Testing|Software-Development/Learning
