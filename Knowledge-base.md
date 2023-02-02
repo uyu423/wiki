@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T17:43:33.451Z
+date: 2023-02-02T17:57:26.163Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1014,7 +1014,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] How to Build a Responsive Website with Bootstrap|Common
 - [ ] The Importance of Automated Testing and Continuous Integration|Common
 - [x] [How to Build a Real-Time Application with WebSockets](/Knowledge-base/Common/how-to-build-a-real-time-application-with-websockets)
-- [ ] The Advantages of Virtual Private Clouds (VPCs) and Amazon Web Services (AWS)|Common
+- [x] [The Advantages of Virtual Private Clouds (VPCs) and Amazon Web Services (AWS)](/Knowledge-base/Common/the-advantages-of-virtual-private-clouds-vpcs-and-amazon-web-services-aws)
 - [ ] How to Build a Secure Web Application with OWASP Top 10|Common
 - [ ] The Benefits of Artificial Neural Networks (ANNs) and Deep Learning|Common
 - [ ] How to Build a Chatbot with Microsoft Bot Framework|Common
