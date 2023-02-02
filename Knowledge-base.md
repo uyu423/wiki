@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T17:57:26.163Z
+date: 2023-02-02T18:04:42.079Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -93,7 +93,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [044: Gradient Descent with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/044-gradient-descent-with-tensorflow-js-and-node-js)
 - [x] [045: Stochastic Gradient Descent (SGD) with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/045-stochastic-gradient-descent-sgd-with-tensorflow-js-and-node-js)
 - [x] [046: Momentum Optimization with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/046-momentum-optimization-with-tensorflow-js-and-node-js)
-- [ ] 047: Adagrad Optimization with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [047: Adagrad Optimization with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/047-adagrad-optimization-with-tensorflow-js-and-node-js)
 - [ ] 048: Adadelta Optimization with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [x] [049: RMSprop Optimization with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/049-rmsprop-optimization-with-tensorflow-js-and-node-js)
 - [ ] 050: Adam Optimization with TensorFlow.js and Node.js|TensorFlow-js/Learning
