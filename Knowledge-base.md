@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T16:44:18.884Z
+date: 2023-02-02T16:58:13.088Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1270,7 +1270,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] PyInstaller|Dictionary
 - [ ] PyTorch Geometric|Dictionary
 - [ ] Canonical Ltd|Dictionary
-- [ ] Redhat|Dictionary
+- [x] [Redhat](/Knowledge-base/Dictionary/redhat)
 - [ ] Amazon|Dictionary
 - [x] [Tesla](/Knowledge-base/Dictionary/tesla)
 - [x] [Open AI](/Knowledge-base/Dictionary/open-ai)
