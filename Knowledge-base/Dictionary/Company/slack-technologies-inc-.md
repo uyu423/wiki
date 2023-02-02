@@ -2,7 +2,7 @@
 title: Slack Technologies, Inc.
 description: 
 published: true
-date: 2023-02-02T06:04:21.391Z
+date: 2023-02-02T06:04:32.457Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T04:24:04.643Z
@@ -15,7 +15,8 @@ dateCreated: 2023-02-02T04:24:04.643Z
 
 - [Slack Technologies, Inc.***English** document is available*](/en/Knowledge-base/Dictionary/Company/slack-technologies-inc-)
 {.links-list}
- "기록"섹션에서.
+
+
 
 # 개요
 
