@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T11:43:43.766Z
+date: 2023-02-02T11:57:50.693Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1689,7 +1689,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Digital Certificate|Dictionary
 - [ ] Two-Factor Authentication|Dictionary
 - [ ] User Management|Dictionary
-- [ ] Compliance|Dictionary
+- [x] [Compliance](/Knowledge-base/Dictionary/compliance)
 - [ ] Privacy|Dictionary
 - [ ] Data Protection|Dictionary
 - [x] [General Data Protection Regulation](/Knowledge-base/Dictionary/general-data-protection-regulation)
