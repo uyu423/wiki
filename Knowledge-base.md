@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T03:44:06.450Z
+date: 2023-02-02T03:58:12.755Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1630,7 +1630,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Alphabet Inc. (Google)|Dictionary/Company
 - [ ] Facebook Inc.|Dictionary/Company
 - [ ] IBM Corporation|Dictionary/Company
-- [ ] Intel Corporation|Dictionary/Company
+- [x] [Intel Corporation](/Knowledge-base/Dictionary/Company/intel-corporation)
 - [ ] Oracle Corporation|Dictionary/Company
 - [x] [Cisco Systems, Inc.](/Knowledge-base/Dictionary/Company/cisco-systems-inc-)
 - [ ] Hewlett Packard Enterprise (HPE)|Dictionary/Company
