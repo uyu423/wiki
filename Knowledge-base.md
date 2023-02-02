@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T06:14:26.906Z
+date: 2023-02-02T06:16:15.130Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -10,7 +10,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 - [x] [Yanolja (South Korea)](/Knowledge-base/Dictionary/Company/yanolja-south-korea)
 - [x] [Wooahan Brothers (South Korea)](/Knowledge-base/Dictionary/Company/wooahan-brothers-south-korea)
-- [ ] Viva Republica (South Korea)|Dictionary/Company
+- [x] [Viva Republica (South Korea)](/Knowledge-base/Dictionary/Company/viva-republica-south-korea)
 - [ ] Daangn Market (South Korea)|Dictionary/Company
 - [ ] Coupang (South Korea)|Dictionary/Company
 - [x] [Naver Corporation (South Korea)](/Knowledge-base/Dictionary/Company/naver-corporation-south-korea)
