@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T07:36:29.881Z
+date: 2023-02-02T07:43:36.506Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -51,7 +51,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [002: Installing TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/002-installing-tensorflow-js-and-node-js)
 - [x] [003: Understanding TensorFlow.js Core API](/Knowledge-base/TensorFlow-js/Learning/003-understanding-tensorflow-js-core-api)
 - [x] [004: Tensors and Operations in TensorFlow.js](/Knowledge-base/TensorFlow-js/Learning/004-tensors-and-operations-in-tensorflow-js)
-- [ ] 005: Linear Regression with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [005: Linear Regression with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/005-linear-regression-with-tensorflow-js-and-node-js)
 - [ ] 006: Logistic Regression with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 007: Multilayer Perceptron (MLP) with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 008: Convolutional Neural Networks (CNN) with TensorFlow.js and Node.js|TensorFlow-js/Learning
