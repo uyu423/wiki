@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T06:59:05.418Z
+date: 2023-02-02T07:04:25.706Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -47,7 +47,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## TensorFlow with Node.js Learning
 
-- [ ] 001: Introduction to TensorFlow and Node.js|TensorFlow-js/Learning
+- [x] [001: Introduction to TensorFlow and Node.js](/Knowledge-base/TensorFlow-js/Learning/001-introduction-to-tensorflow-and-node-js)
 - [ ] 002: Installing TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 003: Understanding TensorFlow.js Core API|TensorFlow-js/Learning
 - [ ] 004: Tensors and Operations in TensorFlow.js|TensorFlow-js/Learning
