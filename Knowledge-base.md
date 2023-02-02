@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T15:36:47.027Z
+date: 2023-02-02T15:43:33.950Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -84,7 +84,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [035: Saving and Loading Models with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/035-saving-and-loading-models-with-tensorflow-js-and-node-js)
 - [x] [036: Using Pretrained Models with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/036-using-pretrained-models-with-tensorflow-js-and-node-js)
 - [x] [037: Custom Model Metrics with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/037-custom-model-metrics-with-tensorflow-js-and-node-js)
-- [ ] 038: Data Preprocessing with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [038: Data Preprocessing with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/038-data-preprocessing-with-tensorflow-js-and-node-js)
 - [ ] 039: Data Augmentation with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 040: Data Shuffling and Batching with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 041: Overfitting and Regularization with TensorFlow.js and Node.js|TensorFlow-js/Learning
