@@ -2,13 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T06:08:02.890Z
+date: 2023-02-02T06:09:10.904Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [ ] Yanolja (South Korea)|Dictionary/Company
+- [x] [Yanolja (South Korea)](/Knowledge-base/Dictionary/Company/yanolja-south-korea)
 - [ ] Wooahan Brothers (South Korea)|Dictionary/Company
 - [ ] Viva Republica (South Korea)|Dictionary/Company
 - [ ] Daangn Market (South Korea)|Dictionary/Company
