@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T21:36:48.242Z
+date: 2023-02-02T21:43:50.250Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -109,7 +109,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [060: Using TensorFlow.js with WebRTC in Node.js](/Knowledge-base/TensorFlow-js/Learning/060-using-tensorflow-js-with-webrtc-in-node-js)
 - [x] [061: Real-Time Object Detection with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/061-real-time-object-detection-with-tensorflow-js-and-node-js)
 - [x] [062: Real-Time Image Classification with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/062-real-time-image-classification-with-tensorflow-js-and-node-js)
-- [ ] 063: Real-Time Sentiment Analysis with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [063: Real-Time Sentiment Analysis with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/063-real-time-sentiment-analysis-with-tensorflow-js-and-node-js)
 - [ ] 064: Real-Time Chatbots with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 065: Real-Time Recommender Systems with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [x] [066: Using TensorFlow.js in Electron.js with Node.js](/Knowledge-base/TensorFlow-js/Learning/066-using-tensorflow-js-in-electron-js-with-node-js)
