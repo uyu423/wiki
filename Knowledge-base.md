@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T03:58:12.755Z
+date: 2023-02-02T04:04:29.937Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -81,7 +81,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 037: Implementing custom logging in a Spring Boot application|Spring-Boot/Learning
 - [ ] 038: Building a chat application using Spring Boot and WebSockets|Spring-Boot/Learning
 - [ ] 039: Using Spring Boot with Apache Solr|Spring-Boot/Learning
-- [ ] 040: Implementing multi-language support in a Spring Boot application|Spring-Boot/Learning
+- [x] [040: Implementing multi-language support in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/040-implementing-multi-language-support-in-a-spring-boot-application)
 - [ ] 041: Using Spring Boot with Apache Storm|Spring-Boot/Learning
 - [ ] 042: Building a real-time analytics application using Spring Boot and Apache Flink|Spring-Boot/Learning
 - [ ] 043: Implementing a scheduled task in a Spring Boot application|Spring-Boot/Learning
