@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T03:36:31.393Z
+date: 2023-02-02T03:44:06.450Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1592,7 +1592,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Business Continuity Plan|Dictionary
 - [ ] Waterfall|Dictionary
 - [ ] Hybrid Project Management|Dictionary
-- [ ] Project Planning|Dictionary
+- [x] [Project Planning](/Knowledge-base/Dictionary/project-planning)
 - [x] [Project Budgeting](/Knowledge-base/Dictionary/project-budgeting)
 - [ ] Project Scheduling|Dictionary
 - [x] [Project Monitoring](/Knowledge-base/Dictionary/project-monitoring)
