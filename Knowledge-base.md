@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T20:17:27.727Z
+date: 2023-02-02T20:24:36.834Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -117,7 +117,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 068: Integrating TensorFlow.js with Databases in Node.js|TensorFlow-js/Learning
 - [ ] 069: Scaling TensorFlow.js Applications with Node.js|TensorFlow-js/Learning
 - [ ] 070: Performance Optimization with TensorFlow.js and Node.js|TensorFlow-js/Learning
-- [ ] 071: GPU Acceleration with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [071: GPU Acceleration with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/071-gpu-acceleration-with-tensorflow-js-and-node-js)
 - [ ] 072: Using TensorFlow.js with Node.js Workers|TensorFlow-js/Learning
 - [ ] 073: Using TensorFlow.js with Node.js Clusters|TensorFlow-js/Learning
 - [ ] 074: Using TensorFlow.js with Node.js on Cloud Providers|TensorFlow-js/Learning
