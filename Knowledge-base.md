@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T05:09:57.697Z
+date: 2023-02-02T05:18:43.754Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1755,7 +1755,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Travis Kalanick (Uber Co-founder)|Dictionary/Person
 - [ ] Evan Spiegel (Snap Inc. CEO)|Dictionary/Person
 - [ ] Jan Koum (WhatsApp Co-founder)|Dictionary/Person
-- [ ] Daniel Ek (Spotify CEO)|Dictionary/Person
+- [x] [Daniel Ek (Spotify CEO)](/Knowledge-base/Dictionary/Person/daniel-ek-spotify-ceo)
 - [ ] Drew Houston (Dropbox CEO)|Dictionary/Person
 - [ ] Aaron Levie (Box CEO)|Dictionary/Person
 - [ ] John Donahoe (eBay CEO)|Dictionary/Person
