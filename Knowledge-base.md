@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T08:57:23.300Z
+date: 2023-02-02T09:04:29.197Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -56,7 +56,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [007: Multilayer Perceptron (MLP) with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/007-multilayer-perceptron-mlp-with-tensorflow-js-and-node-js)
 - [x] [008: Convolutional Neural Networks (CNN) with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/008-convolutional-neural-networks-cnn-with-tensorflow-js-and-node-js)
 - [x] [009: Recurrent Neural Networks (RNN) with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/009-recurrent-neural-networks-rnn-with-tensorflow-js-and-node-js)
-- [ ] 010: Long Short-Term Memory (LSTM) with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [010: Long Short-Term Memory (LSTM) with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/010-long-short-term-memory-lstm-with-tensorflow-js-and-node-js)
 - [ ] 011: Gated Recurrent Unit (GRU) with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 012: Autoencoders with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 013: Generative Adversarial Networks (GAN) with TensorFlow.js and Node.js|TensorFlow-js/Learning
