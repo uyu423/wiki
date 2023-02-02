@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T10:23:23.965Z
+date: 2023-02-02T10:36:36.961Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -62,7 +62,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [013: Generative Adversarial Networks (GAN) with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/013-generative-adversarial-networks-gan-with-tensorflow-js-and-node-js)
 - [x] [014: Transfer Learning with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/014-transfer-learning-with-tensorflow-js-and-node-js)
 - [x] [015: Image Classification with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/015-image-classification-with-tensorflow-js-and-node-js)
-- [ ] 016: Object Detection with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [016: Object Detection with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/016-object-detection-with-tensorflow-js-and-node-js)
 - [ ] 017: Image Segmentation with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 018: Video Analysis with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 019: Text Classification with TensorFlow.js and Node.js|TensorFlow-js/Learning
