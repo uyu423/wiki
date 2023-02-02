@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T01:36:50.413Z
+date: 2023-02-02T01:43:47.560Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -431,7 +431,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [042: Sealed Classes in Kotlin: Restricting Class Hierarchies](/Knowledge-base/Kotlin/Learning/042-sealed-classes-in-kotlin-restricting-class-hierarchies)
 - [ ] 043: Nested and Inner Classes in Kotlin: Creating Classes within Classes|Kotlin/Learning
 - [ ] 044: Anonymous Inner Classes in Kotlin: Creating Classes Without Names|Kotlin/Learning
-- [ ] 045: Local Functions in Kotlin: Creating Functions Within Functions|Kotlin/Learning
+- [x] [045: Local Functions in Kotlin: Creating Functions Within Functions](/Knowledge-base/Kotlin/Learning/045-local-functions-in-kotlin-creating-functions-within-functions)
 - [ ] 046: SAM (Single Abstract Method) Interfaces in Kotlin: Converting Java Interfaces to Kotlin Interfaces|Kotlin/Learning
 - [ ] 047: Late-initialized Properties in Kotlin: Initializing Properties Lazy and Safe|Kotlin/Learning
 - [ ] 048: The Elvis Operator in Kotlin: Dealing with Null Values in a Compact Way|Kotlin/Learning
