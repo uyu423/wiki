@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T00:18:34.313Z
+date: 2023-02-02T00:23:25.201Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -213,7 +213,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Spring Boot Exception Handling with ControllerAdvice|Spring-Boot
 - [ ] Spring Boot Validation with Bean Validation API|Spring-Boot
 - [ ] Spring Boot Testing with JUnit|Spring-Boot
-- [ ] Spring Boot Testing with Mockito|Spring-Boot
+- [x] [Spring Boot Testing with Mockito](/Knowledge-base/Spring-Boot/spring-boot-testing-with-mockito)
 - [x] [Spring Boot JSON Processing with Jackson](/Knowledge-base/Spring-Boot/spring-boot-json-processing-with-jackson)
 - [ ] Spring Boot XML Processing with JAXB|Spring-Boot
 - [ ] Spring Boot RESTful Services with Swagger|Spring-Boot
