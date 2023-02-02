@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-02T05:52:52.444Z
+date: 2023-02-02T05:58:44.637Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1712,7 +1712,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] JD Cloud & AI (China)|Dictionary/Company
 - [ ] Bilibili Inc. (China)|Dictionary/Company
 - [ ] Kuaishou Technology (China)|Dictionary/Company
-- [ ] JDE Peet's (Netherlands)|Dictionary/Company
+- [x] [JDE Peet's (Netherlands)](/Knowledge-base/Dictionary/Company/jde-peet-s-netherlands)
 - [ ] Coca-Cola Beverages (Japan)|Dictionary/Company
 - [ ] Fancl Corporation (Japan)|Dictionary/Company
 - [ ] Rakuten, Inc. (Japan)|Dictionary/Company
