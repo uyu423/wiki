@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T07:57:53.678Z
+date: 2023-02-03T08:04:22.504Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -156,7 +156,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [004: Building REST APIs with Spring Boot and Spring MVC](/Knowledge-base/Spring-Boot/Learning/004-building-rest-apis-with-spring-boot-and-spring-mvc)
 - [x] [005: Working with Spring Boot and Spring Data JPA](/Knowledge-base/Spring-Boot/Learning/005-working-with-spring-boot-and-spring-data-jpa)
 - [x] [006: Implementing security with Spring Security](/Knowledge-base/Spring-Boot/Learning/006-implementing-security-with-spring-security)
-- [ ] 007: Integrating with databases using Spring Boot and Hibernate|Spring-Boot/Learning
+- [x] [007: Integrating with databases using Spring Boot and Hibernate](/Knowledge-base/Spring-Boot/Learning/007-integrating-with-databases-using-spring-boot-and-hibernate)
 - [ ] 008: Creating and using templates with Thymeleaf|Spring-Boot/Learning
 - [ ] 009: Using Spring Boot with NoSQL databases (MongoDB)|Spring-Boot/Learning
 - [ ] 010: Implementing caching with Spring Boot and Redis|Spring-Boot/Learning
