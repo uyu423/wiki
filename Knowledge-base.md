@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T18:17:28.362Z
+date: 2023-02-03T18:32:27.123Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -175,7 +175,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [023: Integrating with a search engine using Spring Boot and Elasticsearch](/Knowledge-base/Spring-Boot/Learning/023-integrating-with-a-search-engine-using-spring-boot-and-elasticsearch)
 - [x] [024: Implementing pagination in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/024-implementing-pagination-in-a-spring-boot-application)
 - [x] [025: Using Spring Boot and Spring Batch for data processing](/Knowledge-base/Spring-Boot/Learning/025-using-spring-boot-and-spring-batch-for-data-processing)
-- [ ] 026: Working with Spring Boot and Apache Kafka|Spring-Boot/Learning
+- [x] [026: Working with Spring Boot and Apache Kafka](/Knowledge-base/Spring-Boot/Learning/026-working-with-spring-boot-and-apache-kafka)
 - [ ] 027: Integrating with OAuth 2.0 using Spring Boot|Spring-Boot/Learning
 - [ ] 028: Building and deploying a Spring Boot application to PaaS (Heroku, OpenShift)|Spring-Boot/Learning
 - [ ] 029: Using Spring Boot with Apache Camel|Spring-Boot/Learning
