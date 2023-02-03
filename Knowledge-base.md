@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T08:36:55.529Z
+date: 2023-02-03T08:43:41.550Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -159,7 +159,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [007: Integrating with databases using Spring Boot and Hibernate](/Knowledge-base/Spring-Boot/Learning/007-integrating-with-databases-using-spring-boot-and-hibernate)
 - [x] [008: Creating and using templates with Thymeleaf](/Knowledge-base/Spring-Boot/Learning/008-creating-and-using-templates-with-thymeleaf)
 - [x] [009: Using Spring Boot with NoSQL databases (MongoDB)](/Knowledge-base/Spring-Boot/Learning/009-using-spring-boot-with-nosql-databases-mongodb)
-- [ ] 010: Implementing caching with Spring Boot and Redis|Spring-Boot/Learning
+- [x] [010: Implementing caching with Spring Boot and Redis](/Knowledge-base/Spring-Boot/Learning/010-implementing-caching-with-spring-boot-and-redis)
 - [ ] 011: Monitoring and managing a Spring Boot application with Actuator|Spring-Boot/Learning
 - [x] [012: Using Spring Boot with message brokers (RabbitMQ)](/Knowledge-base/Spring-Boot/Learning/012-using-spring-boot-with-message-brokers-rabbitmq)
 - [x] [013: Integrating with external systems using Spring Boot and REST](/Knowledge-base/Spring-Boot/Learning/013-integrating-with-external-systems-using-spring-boot-and-rest)
