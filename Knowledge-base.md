@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T04:36:32.073Z
+date: 2023-02-03T04:44:40.335Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -139,7 +139,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [090: Multi-Task Learning with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/090-multi-task-learning-with-tensorflow-js-and-node-js)
 - [x] [091: Building Generative Models with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/091-building-generative-models-with-tensorflow-js-and-node-js)
 - [x] [092: Using Variational Autoencoders (VAEs) in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/092-using-variational-autoencoders-vaes-in-tensorflow-js-and-node-js)
-- [ ] 093: Building Deep Convolutional Generative Adversarial Networks (DC-GANs) in TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [093: Building Deep Convolutional Generative Adversarial Networks (DC-GANs) in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/093-building-deep-convolutional-generative-adversarial-networks-dc-gans-in-tensorflow-js-and-node-js)
 - [ ] 094: Building Recurrent Neural Networks (RNNs) in TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 095: Building Long Short-Term Memory (LSTM) Networks in TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 096: Building Gated Recurrent Units (GRUs) in TensorFlow.js and Node.js|TensorFlow-js/Learning
