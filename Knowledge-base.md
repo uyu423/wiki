@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T01:23:42.206Z
+date: 2023-02-03T01:36:54.475Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -126,7 +126,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [077: Integrating TensorFlow.js with IoT Devices in Node.js](/Knowledge-base/TensorFlow-js/Learning/077-integrating-tensorflow-js-with-iot-devices-in-node-js)
 - [x] [078: Deploying TensorFlow.js Applications on Raspberry Pi with Node.js](/Knowledge-base/TensorFlow-js/Learning/078-deploying-tensorflow-js-applications-on-raspberry-pi-with-node-js)
 - [x] [079: Using TensorFlow.js with Node.js on Mobile Devices](/Knowledge-base/TensorFlow-js/Learning/079-using-tensorflow-js-with-node-js-on-mobile-devices)
-- [ ] 080: Integrating TensorFlow.js with AR/VR in Node.js|TensorFlow-js/Learning
+- [x] [080: Integrating TensorFlow.js with AR/VR in Node.js](/Knowledge-base/TensorFlow-js/Learning/080-integrating-tensorflow-js-with-arvr-in-node-js)
 - [ ] 081: Building Interactive Visualizations with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 082: Creating Custom Layers in TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 083: Using TensorFlow.js with Other ML Frameworks in Node.js|TensorFlow-js/Learning
