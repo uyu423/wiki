@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T08:43:41.550Z
+date: 2023-02-03T08:57:23.093Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1052,7 +1052,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Developing Mobile Apps with Flutter|Common
 - [ ] Building a Web Scraper with Python|Common
 - [x] [Introducing Serverless Computing and its Benefits](/Knowledge-base/Common/introducing-serverless-computing-and-its-benefits)
-- [ ] Applying Agile Project Management in Software Development|Common
+- [x] [Applying Agile Project Management in Software Development](/Knowledge-base/Common/applying-agile-project-management-in-software-development)
 - [ ] Enhancing Cybersecurity with Encryption and Firewalls|Common
 - [ ] Using Artificial Intelligence (AI) in Game Development|Common
 - [x] [How to Create a Website with Django](/Knowledge-base/Common/how-to-create-a-website-with-django)
