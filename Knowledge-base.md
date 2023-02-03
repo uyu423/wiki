@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T02:37:13.189Z
+date: 2023-02-03T02:44:31.352Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -131,7 +131,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [082: Creating Custom Layers in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/082-creating-custom-layers-in-tensorflow-js-and-node-js)
 - [x] [083: Using TensorFlow.js with Other ML Frameworks in Node.js](/Knowledge-base/TensorFlow-js/Learning/083-using-tensorflow-js-with-other-ml-frameworks-in-node-js)
 - [x] [084: Using TensorFlow.js with Other JavaScript Libraries in Node.js](/Knowledge-base/TensorFlow-js/Learning/084-using-tensorflow-js-with-other-javascript-libraries-in-node-js)
-- [ ] 085: Building End-to-End Machine Learning Workflows with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [085: Building End-to-End Machine Learning Workflows with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/085-building-end-to-end-machine-learning-workflows-with-tensorflow-js-and-node-js)
 - [ ] 086: Implementing Custom Loss Functions in TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 087: Implementing Custom Metrics in TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 088: Transfer Learning with TensorFlow.js and Node.js|TensorFlow-js/Learning
