@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T16:17:28.827Z
+date: 2023-02-03T16:32:23.646Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -173,7 +173,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [021: Building and testing a Spring Boot application with Junit](/Knowledge-base/Spring-Boot/Learning/021-building-and-testing-a-spring-boot-application-with-junit)
 - [x] [022: Implementing exception handling in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/022-implementing-exception-handling-in-a-spring-boot-application)
 - [x] [023: Integrating with a search engine using Spring Boot and Elasticsearch](/Knowledge-base/Spring-Boot/Learning/023-integrating-with-a-search-engine-using-spring-boot-and-elasticsearch)
-- [ ] 024: Implementing pagination in a Spring Boot application|Spring-Boot/Learning
+- [x] [024: Implementing pagination in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/024-implementing-pagination-in-a-spring-boot-application)
 - [ ] 025: Using Spring Boot and Spring Batch for data processing|Spring-Boot/Learning
 - [ ] 026: Working with Spring Boot and Apache Kafka|Spring-Boot/Learning
 - [ ] 027: Integrating with OAuth 2.0 using Spring Boot|Spring-Boot/Learning
