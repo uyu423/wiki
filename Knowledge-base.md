@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T20:32:44.371Z
+date: 2023-02-03T20:56:13.199Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1386,7 +1386,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Data Modeling|Dictionary
 - [ ] Data Analytics|Dictionary
 - [ ] Data Visualization|Dictionary
-- [ ] Data Mining|Dictionary
+- [x] [Data Mining](/Knowledge-base/Dictionary/data-mining)
 - [x] [Data Management](/Knowledge-base/Dictionary/data-management)
 - [ ] Data Governance|Dictionary
 - [ ] Data Security|Dictionary
