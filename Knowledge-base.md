@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T23:32:15.483Z
+date: 2023-02-03T23:55:46.377Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1347,7 +1347,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] User Experience|Dictionary
 - [ ] Business Process Automation|Dictionary
 - [ ] Information Architecture|Dictionary
-- [ ] Content Management|Dictionary
+- [x] [Content Management](/Knowledge-base/Dictionary/content-management)
 - [ ] Service Design|Dictionary
 - [ ] Product Design|Dictionary
 - [ ] Interaction Design|Dictionary
