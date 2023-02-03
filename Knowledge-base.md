@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T03:17:29.993Z
+date: 2023-02-03T03:24:13.643Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1230,7 +1230,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Django|Dictionary
 - [x] [Ruby on Rails](/Knowledge-base/Dictionary/ruby-on-rails)
 - [ ] Laravel|Dictionary
-- [ ] Spring|Dictionary
+- [x] [Spring](/Knowledge-base/Dictionary/spring)
 - [x] [Flask](/Knowledge-base/Dictionary/flask)
 - [ ] ASP.NET|Dictionary
 - [ ] Phoenix|Dictionary
