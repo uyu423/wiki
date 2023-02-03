@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T02:44:31.352Z
+date: 2023-02-03T02:57:33.384Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -211,7 +211,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 059: Deploying a Spring Boot Application to the Cloud|Spring-Boot/Learning
 - [ ] 060: Working with Spring Boot's Actuator for Monitoring|Spring-Boot/Learning
 - [ ] 061: Integrating Spring Boot with NoSQL Databases|Spring-Boot/Learning
-- [ ] 062: Building a REST API with Spring Boot|Spring-Boot/Learning
+- [x] [062: Building a REST API with Spring Boot](/Knowledge-base/Spring-Boot/Learning/062-building-a-rest-api-with-spring-boot)
 - [ ] 063: Testing a Spring Boot Application with JUnit and Mockito|Spring-Boot/Learning
 - [x] [064: Customizing the Embedded Tomcat Configuration in Spring Boot](/Knowledge-base/Spring-Boot/Learning/064-customizing-the-embedded-tomcat-configuration-in-spring-boot)
 - [ ] 065: Integrating Spring Boot with RabbitMQ for Messaging|Spring-Boot/Learning
