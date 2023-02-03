@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T15:55:36.074Z
+date: 2023-02-03T16:17:28.827Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1025,7 +1025,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Importance of Agile Project Management|Common
 - [x] [How to Build a Real-Time Application with Firebase](/Knowledge-base/Common/how-to-build-a-real-time-application-with-firebase)
 - [x] [The Advantages of In-Memory Databases and Apache Spark](/Knowledge-base/Common/the-advantages-of-in-memory-databases-and-apache-spark)
-- [ ] How to Build a Secure Application with OAuth and OpenID Connect|Common
+- [x] [How to Build a Secure Application with OAuth and OpenID Connect](/Knowledge-base/Common/how-to-build-a-secure-application-with-oauth-and-openid-connect)
 - [ ] The Benefits of Natural Language Processing (NLP) and Sentiment Analysis|Common
 - [ ] How to Build a Responsive Website with CSS Grid and Flexbox|Common
 - [x] [The Importance of Accessibility and Web Content Accessibility Guidelines (WCAG)](/Knowledge-base/Common/the-importance-of-accessibility-and-web-content-accessibility-guidelines-wcag)
