@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T01:44:06.088Z
+date: 2023-02-03T01:58:05.851Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1538,7 +1538,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Pair Programming](/Knowledge-base/Dictionary/pair-programming)
 - [ ] Knowledge Management|Dictionary
 - [ ] Configuration Management|Dictionary
-- [ ] Release Management|Dictionary
+- [x] [Release Management](/Knowledge-base/Dictionary/release-management)
 - [ ] Deployment|Dictionary
 - [ ] Rollout|Dictionary
 - [ ] Production Deployment|Dictionary
