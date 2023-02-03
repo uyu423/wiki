@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T09:04:42.041Z
+date: 2023-02-03T09:18:04.164Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -163,7 +163,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [011: Monitoring and managing a Spring Boot application with Actuator](/Knowledge-base/Spring-Boot/Learning/011-monitoring-and-managing-a-spring-boot-application-with-actuator)
 - [x] [012: Using Spring Boot with message brokers (RabbitMQ)](/Knowledge-base/Spring-Boot/Learning/012-using-spring-boot-with-message-brokers-rabbitmq)
 - [x] [013: Integrating with external systems using Spring Boot and REST](/Knowledge-base/Spring-Boot/Learning/013-integrating-with-external-systems-using-spring-boot-and-rest)
-- [ ] 014: Working with Spring Boot and WebSockets|Spring-Boot/Learning
+- [x] [014: Working with Spring Boot and WebSockets](/Knowledge-base/Spring-Boot/Learning/014-working-with-spring-boot-and-websockets)
 - [ ] 015: Building microservices with Spring Boot and Spring Cloud|Spring-Boot/Learning
 - [ ] 016: Deploying a Spring Boot application to the cloud (AWS, Google Cloud)|Spring-Boot/Learning
 - [ ] 017: Developing and deploying Spring Boot applications with Docker|Spring-Boot/Learning
