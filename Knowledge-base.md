@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T14:32:41.353Z
+date: 2023-02-03T14:55:27.388Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -357,7 +357,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Aspect-Oriented Programming in Spring Boot|Spring-Boot
 - [ ] The Hollywood Principle in Spring Boot Development|Spring-Boot
 - [ ] The Liskov Substitution Principle in Spring Boot Development|Spring-Boot
-- [ ] The Single Responsibility Principle in Spring Boot Development|Spring-Boot
+- [x] [The Single Responsibility Principle in Spring Boot Development](/Knowledge-base/Spring-Boot/the-single-responsibility-principle-in-spring-boot-development)
 - [ ] The Open/Closed Principle in Spring Boot Development|Spring-Boot
 - [ ] The Interface Segregation Principle in Spring Boot Development|Spring-Boot
 - [ ] The Model-View-Controller (MVC) Pattern in Spring Boot|Spring-Boot
