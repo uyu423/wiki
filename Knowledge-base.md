@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T13:17:40.187Z
+date: 2023-02-03T13:34:22.183Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -170,7 +170,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [018: Understanding Spring Boot and Reactive Programming](/Knowledge-base/Spring-Boot/Learning/018-understanding-spring-boot-and-reactive-programming)
 - [x] [019: Creating and using custom configurations in Spring Boot](/Knowledge-base/Spring-Boot/Learning/019-creating-and-using-custom-configurations-in-spring-boot)
 - [x] [020: Enhancing performance of a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/020-enhancing-performance-of-a-spring-boot-application)
-- [ ] 021: Building and testing a Spring Boot application with Junit|Spring-Boot/Learning
+- [x] [021: Building and testing a Spring Boot application with Junit](/Knowledge-base/Spring-Boot/Learning/021-building-and-testing-a-spring-boot-application-with-junit)
 - [ ] 022: Implementing exception handling in a Spring Boot application|Spring-Boot/Learning
 - [ ] 023: Integrating with a search engine using Spring Boot and Elasticsearch|Spring-Boot/Learning
 - [ ] 024: Implementing pagination in a Spring Boot application|Spring-Boot/Learning
