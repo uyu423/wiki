@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T08:24:14.104Z
+date: 2023-02-03T08:36:55.529Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -158,7 +158,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [006: Implementing security with Spring Security](/Knowledge-base/Spring-Boot/Learning/006-implementing-security-with-spring-security)
 - [x] [007: Integrating with databases using Spring Boot and Hibernate](/Knowledge-base/Spring-Boot/Learning/007-integrating-with-databases-using-spring-boot-and-hibernate)
 - [x] [008: Creating and using templates with Thymeleaf](/Knowledge-base/Spring-Boot/Learning/008-creating-and-using-templates-with-thymeleaf)
-- [ ] 009: Using Spring Boot with NoSQL databases (MongoDB)|Spring-Boot/Learning
+- [x] [009: Using Spring Boot with NoSQL databases (MongoDB)](/Knowledge-base/Spring-Boot/Learning/009-using-spring-boot-with-nosql-databases-mongodb)
 - [ ] 010: Implementing caching with Spring Boot and Redis|Spring-Boot/Learning
 - [ ] 011: Monitoring and managing a Spring Boot application with Actuator|Spring-Boot/Learning
 - [x] [012: Using Spring Boot with message brokers (RabbitMQ)](/Knowledge-base/Spring-Boot/Learning/012-using-spring-boot-with-message-brokers-rabbitmq)
