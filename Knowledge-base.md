@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T06:18:13.160Z
+date: 2023-02-03T06:23:38.629Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1129,7 +1129,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Building Custom Class Loaders in Java|Java
 - [x] [Java's Support for Asynchronous Processing with CompletableFuture](/Knowledge-base/Java/java-s-support-for-asynchronous-processing-with-completablefuture)
 - [ ] Understanding Java's Attach API for Dynamic Instrumentation|Java
-- [ ] Java's Dynamic Proxies for Dynamic Object Oriented Programming|Java
+- [x] [Java's Dynamic Proxies for Dynamic Object Oriented Programming](/Knowledge-base/Java/java-s-dynamic-proxies-for-dynamic-object-oriented-programming)
 - [ ] Leveraging Java's Method Handles for Dynamic Method Invocation|Java
 - [ ] Using Java's Traceable and Instrumented Classes for Monitoring|Java
 - [x] [A Deep Dive into Java's Security Manager](/Knowledge-base/Java/a-deep-dive-into-java-s-security-manager)
