@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T09:23:50.207Z
+date: 2023-02-03T09:36:37.989Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -164,7 +164,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [012: Using Spring Boot with message brokers (RabbitMQ)](/Knowledge-base/Spring-Boot/Learning/012-using-spring-boot-with-message-brokers-rabbitmq)
 - [x] [013: Integrating with external systems using Spring Boot and REST](/Knowledge-base/Spring-Boot/Learning/013-integrating-with-external-systems-using-spring-boot-and-rest)
 - [x] [014: Working with Spring Boot and WebSockets](/Knowledge-base/Spring-Boot/Learning/014-working-with-spring-boot-and-websockets)
-- [ ] 015: Building microservices with Spring Boot and Spring Cloud|Spring-Boot/Learning
+- [x] [015: Building microservices with Spring Boot and Spring Cloud](/Knowledge-base/Spring-Boot/Learning/015-building-microservices-with-spring-boot-and-spring-cloud)
 - [ ] 016: Deploying a Spring Boot application to the cloud (AWS, Google Cloud)|Spring-Boot/Learning
 - [ ] 017: Developing and deploying Spring Boot applications with Docker|Spring-Boot/Learning
 - [ ] 018: Understanding Spring Boot and Reactive Programming|Spring-Boot/Learning
