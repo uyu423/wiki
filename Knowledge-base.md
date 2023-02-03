@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T11:18:17.135Z
+date: 2023-02-03T11:32:35.841Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -168,7 +168,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [016: Deploying a Spring Boot application to the cloud (AWS, Google Cloud)](/Knowledge-base/Spring-Boot/Learning/016-deploying-a-spring-boot-application-to-the-cloud-aws-google-cloud)
 - [x] [017: Developing and deploying Spring Boot applications with Docker](/Knowledge-base/Spring-Boot/Learning/017-developing-and-deploying-spring-boot-applications-with-docker)
 - [x] [018: Understanding Spring Boot and Reactive Programming](/Knowledge-base/Spring-Boot/Learning/018-understanding-spring-boot-and-reactive-programming)
-- [ ] 019: Creating and using custom configurations in Spring Boot|Spring-Boot/Learning
+- [x] [019: Creating and using custom configurations in Spring Boot](/Knowledge-base/Spring-Boot/Learning/019-creating-and-using-custom-configurations-in-spring-boot)
 - [ ] 020: Enhancing performance of a Spring Boot application|Spring-Boot/Learning
 - [ ] 021: Building and testing a Spring Boot application with Junit|Spring-Boot/Learning
 - [ ] 022: Implementing exception handling in a Spring Boot application|Spring-Boot/Learning
