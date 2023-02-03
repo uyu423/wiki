@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T06:43:26.586Z
+date: 2023-02-03T06:57:55.428Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1658,7 +1658,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Social Media Marketing|Dictionary
 - [x] [Content Marketing](/Knowledge-base/Dictionary/content-marketing)
 - [ ] Email Marketing|Dictionary
-- [ ] Influencer Marketing|Dictionary
+- [x] [Influencer Marketing](/Knowledge-base/Dictionary/influencer-marketing)
 - [ ] Affiliate Marketing|Dictionary
 - [ ] Video Marketing|Dictionary
 - [x] [Content Management System](/Knowledge-base/Dictionary/content-management-system)
