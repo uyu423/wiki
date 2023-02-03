@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T11:32:35.841Z
+date: 2023-02-03T11:56:06.029Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1603,7 +1603,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] HTML|Dictionary
 - [ ] CSS|Dictionary
 - [ ] JavaScript|Dictionary
-- [ ] jQuery|Dictionary
+- [x] [jQuery](/Knowledge-base/Dictionary/jquery)
 - [ ] Angular|Dictionary
 - [ ] React|Dictionary
 - [ ] Vue.js|Dictionary
