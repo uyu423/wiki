@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T20:56:13.199Z
+date: 2023-02-03T21:17:40.033Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -374,7 +374,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Composite Pattern in Spring Boot Development|Spring-Boot
 - [ ] The Decorator Pattern in Spring Boot Development|Spring-Boot
 - [ ] The Facade Pattern in Spring Boot Development|Spring-Boot
-- [ ] The Flyweight Pattern in Spring Boot Development|Spring-Boot
+- [x] [The Flyweight Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-flyweight-pattern-in-spring-boot-development)
 - [x] [The Proxy Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-proxy-pattern-in-spring-boot-development)
 
 ## Kubernetes
