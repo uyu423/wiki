@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T12:32:36.520Z
+date: 2023-02-03T12:56:32.600Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1817,7 +1817,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Huawei Cloud (China)|Dictionary/Company
 - [x] [Tencent Cloud (China)](/Knowledge-base/Dictionary/Company/tencent-cloud-china)
 - [ ] Alibaba Cloud (China)|Dictionary/Company
-- [ ] JD Cloud & AI (China)|Dictionary/Company
+- [x] [JD Cloud & AI (China)](/Knowledge-base/Dictionary/Company/jd-cloud--ai-china)
 - [ ] Bilibili Inc. (China)|Dictionary/Company
 - [ ] Kuaishou Technology (China)|Dictionary/Company
 - [x] [JDE Peet's (Netherlands)](/Knowledge-base/Dictionary/Company/jde-peet-s-netherlands)
