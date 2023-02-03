@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T17:33:31.128Z
+date: 2023-02-03T17:56:05.664Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1920,7 +1920,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Richard Hamming (Error-Correcting Code Creator)|Dictionary/Person
 - [ ] Michael Stonebraker (Database Management System Pioneer)|Dictionary/Person
 - [ ] Andrew S. Tanenbaum (Computer Networking Pioneer)|Dictionary/Person
-- [ ] John Warnock (PostScript Creator)|Dictionary/Person
+- [x] [John Warnock (PostScript Creator)](/Knowledge-base/Dictionary/Person/john-warnock-postscript-creator)
 - [ ] Charles P. Thacker (Computer Hardware Pioneer)|Dictionary/Person
 - [ ] Robert Noyce (Intel Co-founder)|Dictionary/Person
 - [ ] Gordon Moore (Intel Co-founder)|Dictionary/Person
