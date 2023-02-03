@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T05:17:58.914Z
+date: 2023-02-03T05:23:58.215Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -625,7 +625,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin Security: Implementing OAuth and JWT|Kotlin
 - [x] [Kotlin and JSON: Parsing and Serializing Data](/Knowledge-base/Kotlin/kotlin-and-json-parsing-and-serializing-data)
 - [ ] Kotlin and XML: Parsing and Serializing Data|Kotlin
-- [ ] Kotlin and HTTPS: Implementing Secure Communication|Kotlin
+- [x] [Kotlin and HTTPS: Implementing Secure Communication](/Knowledge-base/Kotlin/kotlin-and-https-implementing-secure-communication)
 - [ ] Kotlin Encryption: RSA and AES|Kotlin
 - [ ] Kotlin Hashing: PBKDF2 and Bcrypt|Kotlin
 - [x] [Kotlin Validation: Input Validation Techniques](/Knowledge-base/Kotlin/kotlin-validation-input-validation-techniques)
