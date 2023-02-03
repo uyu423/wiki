@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T11:56:06.029Z
+date: 2023-02-03T12:17:50.099Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -838,7 +838,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AWS Redshift: Scaling Data Warehousing with a Fully Managed Service](/Knowledge-base/Cloud/aws-redshift-scaling-data-warehousing-with-a-fully-managed-service)
 - [x] [AWS Athena: Running SQL Queries on S3 Data with Serverless Computing](/Knowledge-base/Cloud/aws-athena-running-sql-queries-on-s3-data-with-serverless-computing)
 - [ ] AWS QuickSight: Visualizing and Analyzing Big Data in the Cloud|Cloud
-- [ ] AWS SageMaker: Building and Deploying Machine Learning Models in the Cloud|Cloud
+- [x] [AWS SageMaker: Building and Deploying Machine Learning Models in the Cloud](/Knowledge-base/Cloud/aws-sagemaker-building-and-deploying-machine-learning-models-in-the-cloud)
 - [ ] AWS Comprehend: Analyzing Text Data with Natural Language Processing|Cloud
 - [ ] AWS Rekognition: Analyzing Image and Video Data with Computer Vision|Cloud
 - [ ] AWS Transcribe: Automating Speech-to-Text Transcription in the Cloud|Cloud
