@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T18:55:33.212Z
+date: 2023-02-03T19:17:27.955Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -343,7 +343,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Spring Boot and Event-Driven Architecture with Kafka|Spring-Boot
 - [x] [Spring Boot and Reactive Programming with Spring WebFlux](/Knowledge-base/Spring-Boot/spring-boot-and-reactive-programming-with-spring-webflux)
 - [ ] Spring Boot and WebSockets for Real-Time Communication|Spring-Boot
-- [ ] Spring Boot and Spring Cloud for Distributed Systems|Spring-Boot
+- [x] [Spring Boot and Spring Cloud for Distributed Systems](/Knowledge-base/Spring-Boot/spring-boot-and-spring-cloud-for-distributed-systems)
 - [ ] Spring Boot and OAuth2 for Security and Authentication|Spring-Boot
 - [x] [Spring Boot and JWT for Security and Authentication](/Knowledge-base/Spring-Boot/spring-boot-and-jwt-for-security-and-authentication)
 - [ ] Spring Boot and LDAP for Security and Authentication|Spring-Boot
