@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T17:56:05.664Z
+date: 2023-02-03T18:17:28.362Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -329,7 +329,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot Testing with Mockito](/Knowledge-base/Spring-Boot/spring-boot-testing-with-mockito)
 - [x] [Spring Boot JSON Processing with Jackson](/Knowledge-base/Spring-Boot/spring-boot-json-processing-with-jackson)
 - [x] [Spring Boot XML Processing with JAXB](/Knowledge-base/Spring-Boot/spring-boot-xml-processing-with-jaxb)
-- [ ] Spring Boot RESTful Services with Swagger|Spring-Boot
+- [x] [Spring Boot RESTful Services with Swagger](/Knowledge-base/Spring-Boot/spring-boot-restful-services-with-swagger)
 - [x] [Spring Boot Web Services with SOAP](/Knowledge-base/Spring-Boot/spring-boot-web-services-with-soap)
 - [ ] Spring Boot DevTools for Rapid Development|Spring-Boot
 - [ ] Spring Boot Initializer for Project Creation|Spring-Boot
