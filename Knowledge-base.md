@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T02:04:29.844Z
+date: 2023-02-03T02:17:30.653Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -129,7 +129,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [080: Integrating TensorFlow.js with AR/VR in Node.js](/Knowledge-base/TensorFlow-js/Learning/080-integrating-tensorflow-js-with-arvr-in-node-js)
 - [x] [081: Building Interactive Visualizations with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/081-building-interactive-visualizations-with-tensorflow-js-and-node-js)
 - [x] [082: Creating Custom Layers in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/082-creating-custom-layers-in-tensorflow-js-and-node-js)
-- [ ] 083: Using TensorFlow.js with Other ML Frameworks in Node.js|TensorFlow-js/Learning
+- [x] [083: Using TensorFlow.js with Other ML Frameworks in Node.js](/Knowledge-base/TensorFlow-js/Learning/083-using-tensorflow-js-with-other-ml-frameworks-in-node-js)
 - [ ] 084: Using TensorFlow.js with Other JavaScript Libraries in Node.js|TensorFlow-js/Learning
 - [ ] 085: Building End-to-End Machine Learning Workflows with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 086: Implementing Custom Loss Functions in TensorFlow.js and Node.js|TensorFlow-js/Learning
