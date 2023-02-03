@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T06:36:25.994Z
+date: 2023-02-03T06:43:26.586Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -150,7 +150,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## Spring Boot Learning
 
-- [ ] 001: Introduction to Spring Boot|Spring-Boot/Learning
+- [x] [001: Introduction to Spring Boot](/Knowledge-base/Spring-Boot/Learning/001-introduction-to-spring-boot)
 - [ ] 002: Setting up a Spring Boot project|Spring-Boot/Learning
 - [ ] 003: Understanding Spring Boot auto-configuration|Spring-Boot/Learning
 - [ ] 004: Building REST APIs with Spring Boot and Spring MVC|Spring-Boot/Learning
