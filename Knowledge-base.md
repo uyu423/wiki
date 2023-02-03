@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T15:32:41.606Z
+date: 2023-02-03T15:55:36.074Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -745,7 +745,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Error Handling Best Practices for Backend Applications|Backend
 - [ ] Logging for Debugging and Monitoring|Backend
 - [x] [Testing Backend Applications with Continuous Integration](/Knowledge-base/Backend/testing-backend-applications-with-continuous-integration)
-- [ ] Continuous Deployment for Scalable Backend Applications|Backend
+- [x] [Continuous Deployment for Scalable Backend Applications](/Knowledge-base/Backend/continuous-deployment-for-scalable-backend-applications)
 - [ ] Building a Deployment Pipeline for Backend Applications|Backend
 - [x] [DevOps Best Practices for Backend Infrastructure](/Knowledge-base/Backend/devops-best-practices-for-backend-infrastructure)
 - [ ] Infrastructure as Code for Backend Applications|Backend
