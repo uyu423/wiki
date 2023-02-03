@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T03:57:36.809Z
+date: 2023-02-03T04:04:49.308Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -136,7 +136,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [087: Implementing Custom Metrics in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/087-implementing-custom-metrics-in-tensorflow-js-and-node-js)
 - [x] [088: Transfer Learning with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/088-transfer-learning-with-tensorflow-js-and-node-js)
 - [x] [089: Fine-Tuning Pre-Trained Models in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/089-fine-tuning-pre-trained-models-in-tensorflow-js-and-node-js)
-- [ ] 090: Multi-Task Learning with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [090: Multi-Task Learning with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/090-multi-task-learning-with-tensorflow-js-and-node-js)
 - [ ] 091: Building Generative Models with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 092: Using Variational Autoencoders (VAEs) in TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 093: Building Deep Convolutional Generative Adversarial Networks (DC-GANs) in TensorFlow.js and Node.js|TensorFlow-js/Learning
