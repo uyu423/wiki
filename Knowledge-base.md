@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T09:18:04.164Z
+date: 2023-02-03T09:23:50.207Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1924,7 +1924,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Charles P. Thacker (Computer Hardware Pioneer)|Dictionary/Person
 - [ ] Robert Noyce (Intel Co-founder)|Dictionary/Person
 - [ ] Gordon Moore (Intel Co-founder)|Dictionary/Person
-- [ ] Andrew Grove (Intel CEO)|Dictionary/Person
+- [x] [Andrew Grove (Intel CEO)](/Knowledge-base/Dictionary/Person/andrew-grove-intel-ceo)
 - [x] [Vinod Khosla (Sun Microsystems Co-founder)](/Knowledge-base/Dictionary/Person/vinod-khosla-sun-microsystems-co-founder)
 - [x] [Andy Hertzfeld (Apple Engineer)](/Knowledge-base/Dictionary/Person/andy-hertzfeld-apple-engineer)
 - [ ] Guy L. Steele Jr. (Programming Language Designer)|Dictionary/Person
