@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T20:17:34.855Z
+date: 2023-02-03T20:32:44.371Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -177,7 +177,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [025: Using Spring Boot and Spring Batch for data processing](/Knowledge-base/Spring-Boot/Learning/025-using-spring-boot-and-spring-batch-for-data-processing)
 - [x] [026: Working with Spring Boot and Apache Kafka](/Knowledge-base/Spring-Boot/Learning/026-working-with-spring-boot-and-apache-kafka)
 - [x] [027: Integrating with OAuth 2.0 using Spring Boot](/Knowledge-base/Spring-Boot/Learning/027-integrating-with-oauth-2-0-using-spring-boot)
-- [ ] 028: Building and deploying a Spring Boot application to PaaS (Heroku, OpenShift)|Spring-Boot/Learning
+- [x] [028: Building and deploying a Spring Boot application to PaaS (Heroku, OpenShift)](/Knowledge-base/Spring-Boot/Learning/028-building-and-deploying-a-spring-boot-application-to-paas-heroku-openshift)
 - [ ] 029: Using Spring Boot with Apache Camel|Spring-Boot/Learning
 - [ ] 030: Developing and deploying a Spring Boot application with Gradle|Spring-Boot/Learning
 - [ ] 031: Building and deploying a Spring Boot application to IaaS (Virtualbox, VMware)|Spring-Boot/Learning
