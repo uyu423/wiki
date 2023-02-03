@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T23:18:23.447Z
+date: 2023-02-03T23:32:15.483Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -180,7 +180,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [028: Building and deploying a Spring Boot application to PaaS (Heroku, OpenShift)](/Knowledge-base/Spring-Boot/Learning/028-building-and-deploying-a-spring-boot-application-to-paas-heroku-openshift)
 - [x] [029: Using Spring Boot with Apache Camel](/Knowledge-base/Spring-Boot/Learning/029-using-spring-boot-with-apache-camel)
 - [x] [030: Developing and deploying a Spring Boot application with Gradle](/Knowledge-base/Spring-Boot/Learning/030-developing-and-deploying-a-spring-boot-application-with-gradle)
-- [ ] 031: Building and deploying a Spring Boot application to IaaS (Virtualbox, VMware)|Spring-Boot/Learning
+- [x] [031: Building and deploying a Spring Boot application to IaaS (Virtualbox, VMware)](/Knowledge-base/Spring-Boot/Learning/031-building-and-deploying-a-spring-boot-application-to-iaas-virtualbox-vmware)
 - [ ] 032: Integrating with a file storage service using Spring Boot (S3, Google Drive)|Spring-Boot/Learning
 - [ ] 033: Implementing email sending in a Spring Boot application|Spring-Boot/Learning
 - [ ] 034: Using Spring Boot with Spring Cloud Config|Spring-Boot/Learning
