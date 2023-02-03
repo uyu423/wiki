@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T08:04:22.504Z
+date: 2023-02-03T08:17:38.145Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -157,7 +157,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [005: Working with Spring Boot and Spring Data JPA](/Knowledge-base/Spring-Boot/Learning/005-working-with-spring-boot-and-spring-data-jpa)
 - [x] [006: Implementing security with Spring Security](/Knowledge-base/Spring-Boot/Learning/006-implementing-security-with-spring-security)
 - [x] [007: Integrating with databases using Spring Boot and Hibernate](/Knowledge-base/Spring-Boot/Learning/007-integrating-with-databases-using-spring-boot-and-hibernate)
-- [ ] 008: Creating and using templates with Thymeleaf|Spring-Boot/Learning
+- [x] [008: Creating and using templates with Thymeleaf](/Knowledge-base/Spring-Boot/Learning/008-creating-and-using-templates-with-thymeleaf)
 - [ ] 009: Using Spring Boot with NoSQL databases (MongoDB)|Spring-Boot/Learning
 - [ ] 010: Implementing caching with Spring Boot and Redis|Spring-Boot/Learning
 - [ ] 011: Monitoring and managing a Spring Boot application with Actuator|Spring-Boot/Learning
