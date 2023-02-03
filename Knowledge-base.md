@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T16:32:23.646Z
+date: 2023-02-03T16:55:25.949Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -898,7 +898,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 014: iOS and Swift Development|Software-Development/Learning
 - [ ] Software Development 015: Android Development with Java|Software-Development/Learning
 - [ ] Software Development 016: Cloud Computing and AWS|Software-Development/Learning
-- [ ] Software Development 017: DevOps and Continuous Integration/Continuous Deployment (CI/CD)|Software-Development/Learning
+- [x] [Software Development 017: DevOps and Continuous Integration/Continuous Deployment (CI/CD)](/Knowledge-base/Software-Development/Learning/software-development-017-devops-and-continuous-integrationcontinuous-deployment-cicd)
 - [ ] Software Development 018: Linux Administration|Software-Development/Learning
 - [ ] Software Development 019: Git and Version Control|Software-Development/Learning
 - [ ] Software Development 020: Agile Methodology|Software-Development/Learning
