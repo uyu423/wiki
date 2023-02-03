@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T07:43:48.145Z
+date: 2023-02-03T07:45:41.400Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -155,7 +155,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [003: Understanding Spring Boot auto-configuration](/Knowledge-base/Spring-Boot/Learning/003-understanding-spring-boot-auto-configuration)
 - [x] [004: Building REST APIs with Spring Boot and Spring MVC](/Knowledge-base/Spring-Boot/Learning/004-building-rest-apis-with-spring-boot-and-spring-mvc)
 - [x] [005: Working with Spring Boot and Spring Data JPA](/Knowledge-base/Spring-Boot/Learning/005-working-with-spring-boot-and-spring-data-jpa)
-- [ ] 006: Implementing security with Spring Security|Spring-Boot/Learning
+- [x] [006: Implementing security with Spring Security](/Knowledge-base/Spring-Boot/Learning/006-implementing-security-with-spring-security)
 - [ ] 007: Integrating with databases using Spring Boot and Hibernate|Spring-Boot/Learning
 - [ ] 008: Creating and using templates with Thymeleaf|Spring-Boot/Learning
 - [ ] 009: Using Spring Boot with NoSQL databases (MongoDB)|Spring-Boot/Learning
