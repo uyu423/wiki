@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T05:38:04.606Z
+date: 2023-02-03T05:43:51.530Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -143,7 +143,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [094: Building Recurrent Neural Networks (RNNs) in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/094-building-recurrent-neural-networks-rnns-in-tensorflow-js-and-node-js)
 - [x] [095: Building Long Short-Term Memory (LSTM) Networks in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/095-building-long-short-term-memory-lstm-networks-in-tensorflow-js-and-node-js)
 - [x] [096: Building Gated Recurrent Units (GRUs) in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/096-building-gated-recurrent-units-grus-in-tensorflow-js-and-node-js)
-- [ ] 097: Building Attention Mechanisms in TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [097: Building Attention Mechanisms in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/097-building-attention-mechanisms-in-tensorflow-js-and-node-js)
 - [ ] 098: Building Generative Adversarial Networks (GANs) in TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 099: Building Reinforcement Learning Agents in TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 100: Advanced Topics in TensorFlow.js and Node.js: Research and Applications|TensorFlow-js/Learning
