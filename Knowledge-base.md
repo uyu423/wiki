@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T21:17:40.033Z
+date: 2023-02-03T21:32:20.542Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -178,7 +178,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [026: Working with Spring Boot and Apache Kafka](/Knowledge-base/Spring-Boot/Learning/026-working-with-spring-boot-and-apache-kafka)
 - [x] [027: Integrating with OAuth 2.0 using Spring Boot](/Knowledge-base/Spring-Boot/Learning/027-integrating-with-oauth-2-0-using-spring-boot)
 - [x] [028: Building and deploying a Spring Boot application to PaaS (Heroku, OpenShift)](/Knowledge-base/Spring-Boot/Learning/028-building-and-deploying-a-spring-boot-application-to-paas-heroku-openshift)
-- [ ] 029: Using Spring Boot with Apache Camel|Spring-Boot/Learning
+- [x] [029: Using Spring Boot with Apache Camel](/Knowledge-base/Spring-Boot/Learning/029-using-spring-boot-with-apache-camel)
 - [ ] 030: Developing and deploying a Spring Boot application with Gradle|Spring-Boot/Learning
 - [ ] 031: Building and deploying a Spring Boot application to IaaS (Virtualbox, VMware)|Spring-Boot/Learning
 - [ ] 032: Integrating with a file storage service using Spring Boot (S3, Google Drive)|Spring-Boot/Learning
