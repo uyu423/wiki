@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T19:55:33.525Z
+date: 2023-02-03T20:17:34.855Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -205,7 +205,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 053: Implementing a file download in a Spring Boot application|Spring-Boot/Learning
 - [x] [054: Using Spring Boot with Apache Nifi](/Knowledge-base/Spring-Boot/Learning/054-using-spring-boot-with-apache-nifi)
 - [ ] 055: Building a real-time dashboarding application using Spring Boot and Apache Zeppelin|Spring-Boot/Learning
-- [ ] 056: Implementing a file management system in a Spring Boot application|Spring-Boot/Learning
+- [x] [056: Implementing a file management system in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/056-implementing-a-file-management-system-in-a-spring-boot-application)
 - [ ] 057: Understanding and Configuring Spring Boot's Properties|Spring-Boot/Learning
 - [ ] 058: Implementing Security in a Spring Boot Application|Spring-Boot/Learning
 - [ ] 059: Deploying a Spring Boot Application to the Cloud|Spring-Boot/Learning
