@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T06:04:55.871Z
+date: 2023-02-03T06:18:13.160Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -145,7 +145,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [096: Building Gated Recurrent Units (GRUs) in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/096-building-gated-recurrent-units-grus-in-tensorflow-js-and-node-js)
 - [x] [097: Building Attention Mechanisms in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/097-building-attention-mechanisms-in-tensorflow-js-and-node-js)
 - [x] [098: Building Generative Adversarial Networks (GANs) in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/098-building-generative-adversarial-networks-gans-in-tensorflow-js-and-node-js)
-- [ ] 099: Building Reinforcement Learning Agents in TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [099: Building Reinforcement Learning Agents in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/099-building-reinforcement-learning-agents-in-tensorflow-js-and-node-js)
 - [ ] 100: Advanced Topics in TensorFlow.js and Node.js: Research and Applications|TensorFlow-js/Learning
 
 ## Spring Boot Learning
