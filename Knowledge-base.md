@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T00:43:23.042Z
+date: 2023-02-03T00:57:40.441Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1550,7 +1550,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Business Continuity](/Knowledge-base/Dictionary/business-continuity)
 - [ ] Backup|Dictionary
 - [ ] Recovery|Dictionary
-- [ ] Data Loss Prevention|Dictionary
+- [x] [Data Loss Prevention](/Knowledge-base/Dictionary/data-loss-prevention)
 - [x] [Identity Management](/Knowledge-base/Dictionary/identity-management)
 - [x] [Identity and Access Management](/Knowledge-base/Dictionary/identity-and-access-management)
 - [x] [Federation](/Knowledge-base/Dictionary/federation)
