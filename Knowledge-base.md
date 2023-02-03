@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T14:55:27.388Z
+date: 2023-02-03T15:17:33.400Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -571,7 +571,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 069: The Command Pattern in Kotlin: Encapsulating Invocations as Objects|Kotlin/Learning
 - [ ] 070: The State Pattern in Kotlin: Managing Object States with State Transitions|Kotlin/Learning
 - [ ] 071: The Chain of Responsibility Pattern in Kotlin: Delegating Requests Through a Chain of Objects|Kotlin/Learning
-- [ ] 072: The Mediator Pattern in Kotlin: Encapsulating Object Communication|Kotlin/Learning
+- [x] [072: The Mediator Pattern in Kotlin: Encapsulating Object Communication](/Knowledge-base/Kotlin/Learning/072-the-mediator-pattern-in-kotlin-encapsulating-object-communication)
 - [ ] 073: The Flyweight Pattern in Kotlin: Sharing Object Instances to Save Memory|Kotlin/Learning
 - [x] [074: The Proxy Pattern in Kotlin: Providing a Surrogate or Placeholder for Another Object](/Knowledge-base/Kotlin/Learning/074-the-proxy-pattern-in-kotlin-providing-a-surrogate-or-placeholder-for-another-object)
 - [x] [075: Dynamic Programming in Kotlin: Optimizing Recursive Solutions with Memoization](/Knowledge-base/Kotlin/Learning/075-dynamic-programming-in-kotlin-optimizing-recursive-solutions-with-memoization)
