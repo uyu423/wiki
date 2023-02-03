@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T07:23:48.496Z
+date: 2023-02-03T07:36:51.736Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -153,7 +153,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [001: Introduction to Spring Boot](/Knowledge-base/Spring-Boot/Learning/001-introduction-to-spring-boot)
 - [x] [002: Setting up a Spring Boot project](/Knowledge-base/Spring-Boot/Learning/002-setting-up-a-spring-boot-project)
 - [x] [003: Understanding Spring Boot auto-configuration](/Knowledge-base/Spring-Boot/Learning/003-understanding-spring-boot-auto-configuration)
-- [ ] 004: Building REST APIs with Spring Boot and Spring MVC|Spring-Boot/Learning
+- [x] [004: Building REST APIs with Spring Boot and Spring MVC](/Knowledge-base/Spring-Boot/Learning/004-building-rest-apis-with-spring-boot-and-spring-mvc)
 - [ ] 005: Working with Spring Boot and Spring Data JPA|Spring-Boot/Learning
 - [ ] 006: Implementing security with Spring Security|Spring-Boot/Learning
 - [ ] 007: Integrating with databases using Spring Boot and Hibernate|Spring-Boot/Learning
