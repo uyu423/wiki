@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T19:32:40.569Z
+date: 2023-02-03T19:55:33.525Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -214,7 +214,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [062: Building a REST API with Spring Boot](/Knowledge-base/Spring-Boot/Learning/062-building-a-rest-api-with-spring-boot)
 - [ ] 063: Testing a Spring Boot Application with JUnit and Mockito|Spring-Boot/Learning
 - [x] [064: Customizing the Embedded Tomcat Configuration in Spring Boot](/Knowledge-base/Spring-Boot/Learning/064-customizing-the-embedded-tomcat-configuration-in-spring-boot)
-- [ ] 065: Integrating Spring Boot with RabbitMQ for Messaging|Spring-Boot/Learning
+- [x] [065: Integrating Spring Boot with RabbitMQ for Messaging](/Knowledge-base/Spring-Boot/Learning/065-integrating-spring-boot-with-rabbitmq-for-messaging)
 - [ ] 066: Creating a Batch Processing System in Spring Boot|Spring-Boot/Learning
 - [x] [067: Understanding the Spring Boot DevTools for Faster Development](/Knowledge-base/Spring-Boot/Learning/067-understanding-the-spring-boot-devtools-for-faster-development)
 - [ ] 068: Debugging a Spring Boot Application with the Spring Boot Debugger|Spring-Boot/Learning
