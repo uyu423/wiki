@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T04:44:40.335Z
+date: 2023-02-03T04:58:08.933Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1926,7 +1926,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Gordon Moore (Intel Co-founder)|Dictionary/Person
 - [ ] Andrew Grove (Intel CEO)|Dictionary/Person
 - [x] [Vinod Khosla (Sun Microsystems Co-founder)](/Knowledge-base/Dictionary/Person/vinod-khosla-sun-microsystems-co-founder)
-- [ ] Andy Hertzfeld (Apple Engineer)|Dictionary/Person
+- [x] [Andy Hertzfeld (Apple Engineer)](/Knowledge-base/Dictionary/Person/andy-hertzfeld-apple-engineer)
 - [ ] Guy L. Steele Jr. (Programming Language Designer)|Dictionary/Person
 - [ ] Brian Kernighan (UNIX Developer)|Dictionary/Person
 - [ ] Dennis Ritchie (UNIX Developer)|Dictionary/Person
