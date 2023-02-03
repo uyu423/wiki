@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T03:24:13.643Z
+date: 2023-02-03T03:36:22.794Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -134,7 +134,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [085: Building End-to-End Machine Learning Workflows with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/085-building-end-to-end-machine-learning-workflows-with-tensorflow-js-and-node-js)
 - [x] [086: Implementing Custom Loss Functions in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/086-implementing-custom-loss-functions-in-tensorflow-js-and-node-js)
 - [x] [087: Implementing Custom Metrics in TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/087-implementing-custom-metrics-in-tensorflow-js-and-node-js)
-- [ ] 088: Transfer Learning with TensorFlow.js and Node.js|TensorFlow-js/Learning
+- [x] [088: Transfer Learning with TensorFlow.js and Node.js](/Knowledge-base/TensorFlow-js/Learning/088-transfer-learning-with-tensorflow-js-and-node-js)
 - [ ] 089: Fine-Tuning Pre-Trained Models in TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 090: Multi-Task Learning with TensorFlow.js and Node.js|TensorFlow-js/Learning
 - [ ] 091: Building Generative Models with TensorFlow.js and Node.js|TensorFlow-js/Learning
