@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T02:17:30.653Z
+date: 2023-02-03T02:23:24.466Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -937,7 +937,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 053: A/B Testing|Software-Development/Learning
 - [ ] Software Development 054: Sentiment Analysis|Software-Development/Learning
 - [ ] Software Development 055: Chatbots|Software-Development/Learning
-- [ ] Software Development 056: Robotics|Software-Development/Learning
+- [x] [Software Development 056: Robotics](/Knowledge-base/Software-Development/Learning/software-development-056-robotics)
 - [ ] Software Development 057: Autonomous Systems|Software-Development/Learning
 - [ ] Software Development 058: Internet of Drones (IoD)|Software-Development/Learning
 - [ ] Software Development 059: Industrial IoT (IIoT)|Software-Development/Learning
