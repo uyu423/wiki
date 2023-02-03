@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T07:45:41.400Z
+date: 2023-02-03T07:57:53.678Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1068,7 +1068,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Using Machine Learning for Predictive Analytics](/Knowledge-base/Common/using-machine-learning-for-predictive-analytics)
 - [ ] The Future of Artificial Intelligence (AI) in Financial Services|Common
 - [ ] Developing Chatbots with Microsoft Bot Framework|Common
-- [ ] Using Machine Learning for Sentiment Analysis|Common
+- [x] [Using Machine Learning for Sentiment Analysis](/Knowledge-base/Common/using-machine-learning-for-sentiment-analysis)
 - [ ] How to Build a High-Performance Web Application|Common
 - [x] [The Role of Artificial Intelligence (AI) in Education](/Knowledge-base/Common/the-role-of-artificial-intelligence-ai-in-education)
 - [x] [Using Artificial Intelligence (AI) for Fraud Detection](/Knowledge-base/Common/using-artificial-intelligence-ai-for-fraud-detection)
