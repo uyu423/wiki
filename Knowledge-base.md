@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T10:04:58.829Z
+date: 2023-02-03T10:18:24.520Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -345,7 +345,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Spring Boot and WebSockets for Real-Time Communication|Spring-Boot
 - [ ] Spring Boot and Spring Cloud for Distributed Systems|Spring-Boot
 - [ ] Spring Boot and OAuth2 for Security and Authentication|Spring-Boot
-- [ ] Spring Boot and JWT for Security and Authentication|Spring-Boot
+- [x] [Spring Boot and JWT for Security and Authentication](/Knowledge-base/Spring-Boot/spring-boot-and-jwt-for-security-and-authentication)
 - [ ] Spring Boot and LDAP for Security and Authentication|Spring-Boot
 - [ ] Spring Boot and Spring Security for Secure Web Applications|Spring-Boot
 - [ ] Spring Boot and HTTPS for Secure Web Communication|Spring-Boot
