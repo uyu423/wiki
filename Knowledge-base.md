@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T00:04:42.870Z
+date: 2023-02-03T00:17:49.401Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -121,7 +121,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [072: Using TensorFlow.js with Node.js Workers](/Knowledge-base/TensorFlow-js/Learning/072-using-tensorflow-js-with-node-js-workers)
 - [x] [073: Using TensorFlow.js with Node.js Clusters](/Knowledge-base/TensorFlow-js/Learning/073-using-tensorflow-js-with-node-js-clusters)
 - [x] [074: Using TensorFlow.js with Node.js on Cloud Providers](/Knowledge-base/TensorFlow-js/Learning/074-using-tensorflow-js-with-node-js-on-cloud-providers)
-- [ ] 075: Deploying TensorFlow.js Applications on Kubernetes with Node.js|TensorFlow-js/Learning
+- [x] [075: Deploying TensorFlow.js Applications on Kubernetes with Node.js](/Knowledge-base/TensorFlow-js/Learning/075-deploying-tensorflow-js-applications-on-kubernetes-with-node-js)
 - [ ] 076: Using TensorFlow.js with Node.js in Edge Computing|TensorFlow-js/Learning
 - [ ] 077: Integrating TensorFlow.js with IoT Devices in Node.js|TensorFlow-js/Learning
 - [ ] 078: Deploying TensorFlow.js Applications on Raspberry Pi with Node.js|TensorFlow-js/Learning
