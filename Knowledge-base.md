@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T09:57:35.143Z
+date: 2023-02-03T10:04:58.829Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -166,7 +166,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [014: Working with Spring Boot and WebSockets](/Knowledge-base/Spring-Boot/Learning/014-working-with-spring-boot-and-websockets)
 - [x] [015: Building microservices with Spring Boot and Spring Cloud](/Knowledge-base/Spring-Boot/Learning/015-building-microservices-with-spring-boot-and-spring-cloud)
 - [x] [016: Deploying a Spring Boot application to the cloud (AWS, Google Cloud)](/Knowledge-base/Spring-Boot/Learning/016-deploying-a-spring-boot-application-to-the-cloud-aws-google-cloud)
-- [ ] 017: Developing and deploying Spring Boot applications with Docker|Spring-Boot/Learning
+- [x] [017: Developing and deploying Spring Boot applications with Docker](/Knowledge-base/Spring-Boot/Learning/017-developing-and-deploying-spring-boot-applications-with-docker)
 - [ ] 018: Understanding Spring Boot and Reactive Programming|Spring-Boot/Learning
 - [ ] 019: Creating and using custom configurations in Spring Boot|Spring-Boot/Learning
 - [ ] 020: Enhancing performance of a Spring Boot application|Spring-Boot/Learning
