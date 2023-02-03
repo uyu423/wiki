@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T19:17:27.955Z
+date: 2023-02-03T19:32:40.569Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -176,7 +176,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [024: Implementing pagination in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/024-implementing-pagination-in-a-spring-boot-application)
 - [x] [025: Using Spring Boot and Spring Batch for data processing](/Knowledge-base/Spring-Boot/Learning/025-using-spring-boot-and-spring-batch-for-data-processing)
 - [x] [026: Working with Spring Boot and Apache Kafka](/Knowledge-base/Spring-Boot/Learning/026-working-with-spring-boot-and-apache-kafka)
-- [ ] 027: Integrating with OAuth 2.0 using Spring Boot|Spring-Boot/Learning
+- [x] [027: Integrating with OAuth 2.0 using Spring Boot](/Knowledge-base/Spring-Boot/Learning/027-integrating-with-oauth-2-0-using-spring-boot)
 - [ ] 028: Building and deploying a Spring Boot application to PaaS (Heroku, OpenShift)|Spring-Boot/Learning
 - [ ] 029: Using Spring Boot with Apache Camel|Spring-Boot/Learning
 - [ ] 030: Developing and deploying a Spring Boot application with Gradle|Spring-Boot/Learning
