@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T00:17:49.401Z
+date: 2023-02-03T00:23:37.110Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1856,7 +1856,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Michael Dell (Dell Technologies Founder)](/Knowledge-base/Dictionary/Person/michael-dell-dell-technologies-founder)
 - [x] [Steve Ballmer (Microsoft CEO)](/Knowledge-base/Dictionary/Person/steve-ballmer-microsoft-ceo)
 - [ ] Satya Nadella (Microsoft CEO)|Dictionary/Person
-- [ ] John Chambers (Cisco Systems CEO)|Dictionary/Person
+- [x] [John Chambers (Cisco Systems CEO)](/Knowledge-base/Dictionary/Person/john-chambers-cisco-systems-ceo)
 - [ ] Meg Whitman (HP CEO)|Dictionary/Person
 - [ ] Brian Krzanich (Intel CEO)|Dictionary/Person
 - [ ] Ginni Rometty (IBM CEO)|Dictionary/Person
