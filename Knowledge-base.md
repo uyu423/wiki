@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T22:55:36.741Z
+date: 2023-02-04T23:17:47.264Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1771,7 +1771,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kingston Technology Corporation|Dictionary/Company
 - [ ] Corsair Components, Inc.|Dictionary/Company
 - [ ] Razer Inc.|Dictionary/Company
-- [ ] Samsung Electronics Co., Ltd. (South Korea)|Dictionary/Company
+- [x] [Samsung Electronics Co., Ltd. (South Korea)](/Knowledge-base/Dictionary/Company/samsung-electronics-co-ltd-south-korea)
 - [ ] Huawei Technologies Co., Ltd. (China)|Dictionary/Company
 - [ ] WIPRO Limited (India)|Dictionary/Company
 - [x] [Infosys Limited (India)](/Knowledge-base/Dictionary/Company/infosys-limited-india)
