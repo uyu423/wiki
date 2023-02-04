@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T18:17:24.028Z
+date: 2023-02-04T18:32:24.667Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -202,7 +202,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [050: Integrating with a notification service using Spring Boot (Twilio, Slack)](/Knowledge-base/Spring-Boot/Learning/050-integrating-with-a-notification-service-using-spring-boot-twilio-slack)
 - [x] [051: Using Spring Boot with Spring XD](/Knowledge-base/Spring-Boot/Learning/051-using-spring-boot-with-spring-xd)
 - [x] [052: Building a search engine optimization (SEO) friendly website using Spring Boot and Spring MVC](/Knowledge-base/Spring-Boot/Learning/052-building-a-search-engine-optimization-seo-friendly-website-using-spring-boot-and-spring-mvc)
-- [ ] 053: Implementing a file download in a Spring Boot application|Spring-Boot/Learning
+- [x] [053: Implementing a file download in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/053-implementing-a-file-download-in-a-spring-boot-application)
 - [x] [054: Using Spring Boot with Apache Nifi](/Knowledge-base/Spring-Boot/Learning/054-using-spring-boot-with-apache-nifi)
 - [ ] 055: Building a real-time dashboarding application using Spring Boot and Apache Zeppelin|Spring-Boot/Learning
 - [x] [056: Implementing a file management system in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/056-implementing-a-file-management-system-in-a-spring-boot-application)
