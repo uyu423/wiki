@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T15:17:19.762Z
+date: 2023-02-04T15:32:49.461Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -198,7 +198,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [046: Building a recommendation system using Spring Boot and Apache Mahout](/Knowledge-base/Spring-Boot/Learning/046-building-a-recommendation-system-using-spring-boot-and-apache-mahout)
 - [x] [047: Implementing a file upload in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/047-implementing-a-file-upload-in-a-spring-boot-application)
 - [x] [048: Using Spring Boot with Apache Spark](/Knowledge-base/Spring-Boot/Learning/048-using-spring-boot-with-apache-spark)
-- [ ] 049: Building a machine learning application using Spring Boot and TensorFlow|Spring-Boot/Learning
+- [x] [049: Building a machine learning application using Spring Boot and TensorFlow](/Knowledge-base/Spring-Boot/Learning/049-building-a-machine-learning-application-using-spring-boot-and-tensorflow)
 - [ ] 050: Integrating with a notification service using Spring Boot (Twilio, Slack)|Spring-Boot/Learning
 - [ ] 051: Using Spring Boot with Spring XD|Spring-Boot/Learning
 - [x] [052: Building a search engine optimization (SEO) friendly website using Spring Boot and Spring MVC](/Knowledge-base/Spring-Boot/Learning/052-building-a-search-engine-optimization-seo-friendly-website-using-spring-boot-and-spring-mvc)
