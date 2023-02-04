@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T19:33:16.718Z
+date: 2023-02-04T19:55:49.239Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1723,7 +1723,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Health Insurance|Dictionary
 - [ ] Life Insurance|Dictionary
 - [ ] Retirement Plans|Dictionary
-- [ ] Stock Options|Dictionary
+- [x] [Stock Options](/Knowledge-base/Dictionary/stock-options)
 - [x] [Employee Referral Program](/Knowledge-base/Dictionary/employee-referral-program)
 - [x] [Employee Recognition](/Knowledge-base/Dictionary/employee-recognition)
 - [x] [Employee Training and Development](/Knowledge-base/Dictionary/employee-training-and-development)
