@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T21:17:27.790Z
+date: 2023-02-04T21:32:30.391Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -207,7 +207,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [055: Building a real-time dashboarding application using Spring Boot and Apache Zeppelin](/Knowledge-base/Spring-Boot/Learning/055-building-a-real-time-dashboarding-application-using-spring-boot-and-apache-zeppelin)
 - [x] [056: Implementing a file management system in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/056-implementing-a-file-management-system-in-a-spring-boot-application)
 - [x] [057: Understanding and Configuring Spring Boot's Properties](/Knowledge-base/Spring-Boot/Learning/057-understanding-and-configuring-spring-boot-s-properties)
-- [ ] 058: Implementing Security in a Spring Boot Application|Spring-Boot/Learning
+- [x] [058: Implementing Security in a Spring Boot Application](/Knowledge-base/Spring-Boot/Learning/058-implementing-security-in-a-spring-boot-application)
 - [ ] 059: Deploying a Spring Boot Application to the Cloud|Spring-Boot/Learning
 - [ ] 060: Working with Spring Boot's Actuator for Monitoring|Spring-Boot/Learning
 - [ ] 061: Integrating Spring Boot with NoSQL Databases|Spring-Boot/Learning
