@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T04:55:49.475Z
+date: 2023-02-04T05:17:30.115Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -188,7 +188,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [036: Integrating with a payment gateway using Spring Boot](/Knowledge-base/Spring-Boot/Learning/036-integrating-with-a-payment-gateway-using-spring-boot)
 - [ ] 037: Implementing custom logging in a Spring Boot application|Spring-Boot/Learning
 - [ ] 038: Building a chat application using Spring Boot and WebSockets|Spring-Boot/Learning
-- [ ] 039: Using Spring Boot with Apache Solr|Spring-Boot/Learning
+- [x] [039: Using Spring Boot with Apache Solr](/Knowledge-base/Spring-Boot/Learning/039-using-spring-boot-with-apache-solr)
 - [x] [040: Implementing multi-language support in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/040-implementing-multi-language-support-in-a-spring-boot-application)
 - [ ] 041: Using Spring Boot with Apache Storm|Spring-Boot/Learning
 - [ ] 042: Building a real-time analytics application using Spring Boot and Apache Flink|Spring-Boot/Learning
