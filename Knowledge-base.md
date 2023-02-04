@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T07:32:23.385Z
+date: 2023-02-04T07:55:46.365Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1696,7 +1696,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [California Consumer Privacy Act](/Knowledge-base/Dictionary/california-consumer-privacy-act)
 - [ ] Physical Security|Dictionary
 - [ ] Incident Response|Dictionary
-- [ ] Disaster Recovery Plan|Dictionary
+- [x] [Disaster Recovery Plan](/Knowledge-base/Dictionary/disaster-recovery-plan)
 - [ ] Business Continuity Plan|Dictionary
 - [ ] Waterfall|Dictionary
 - [ ] Hybrid Project Management|Dictionary
