@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T15:55:29.549Z
+date: 2023-02-04T16:17:48.671Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1875,7 +1875,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Andy Bechtolsheim (Sun Microsystems Co-founder)|Dictionary/Person
 - [ ] Ken Thompson (UNIX Developer)|Dictionary/Person
 - [ ] Dennis Ritchie (UNIX Developer)|Dictionary/Person
-- [ ] Bjarne Stroustrup (C++ Creator)|Dictionary/Person
+- [x] [Bjarne Stroustrup (C++ Creator)](/Knowledge-base/Dictionary/Person/bjarne-stroustrup-c-creator)
 - [ ] Guido van Rossum (Python Creator)|Dictionary/Person
 - [ ] James Gosling (Java Creator)|Dictionary/Person
 - [ ] Brendan Eich (JavaScript Creator)|Dictionary/Person
