@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-03T23:55:46.377Z
+date: 2023-02-04T00:18:04.580Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -485,7 +485,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 059: Using Nest.js with IndexedDB|Nest-js/Learning
 - [ ] 060: Building high-performance applications with Nest.js and IndexedDB|Nest-js/Learning
 - [ ] 061: Using Nest.js with the Filesystem API|Nest-js/Learning
-- [ ] 062: Implementing file uploads and downloads in Nest.js|Nest-js/Learning
+- [x] [062: Implementing file uploads and downloads in Nest.js](/Knowledge-base/Nest-js/Learning/062-implementing-file-uploads-and-downloads-in-nest-js)
 
 ## Docker
 
