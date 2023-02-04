@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T09:32:17.701Z
+date: 2023-02-04T09:55:46.638Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1662,7 +1662,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Affiliate Marketing|Dictionary
 - [ ] Video Marketing|Dictionary
 - [x] [Content Management System](/Knowledge-base/Dictionary/content-management-system)
-- [ ] WordPress|Dictionary
+- [x] [WordPress](/Knowledge-base/Dictionary/wordpress)
 - [ ] Drupal|Dictionary
 - [x] [Joomla](/Knowledge-base/Dictionary/joomla)
 - [x] [Sitecore](/Knowledge-base/Dictionary/sitecore)
