@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T10:56:48.200Z
+date: 2023-02-04T11:18:12.745Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -854,7 +854,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Cost Optimization for Cloud Services on AWS and Azure](/Knowledge-base/Cloud/cost-optimization-for-cloud-services-on-aws-and-azure)
 - [x] [Integrating Cloud Services with On-Premises Systems](/Knowledge-base/Cloud/integrating-cloud-services-with-on-premises-systems)
 - [ ] Automated Testing for Cloud Services on AWS and Azure|Cloud
-- [ ] Case Study: Developing and Launching a Simple e-Commerce Service on AWS|Cloud
+- [x] [Case Study: Developing and Launching a Simple e-Commerce Service on AWS](/Knowledge-base/Cloud/case-study-developing-and-launching-a-simple-e-commerce-service-on-aws)
 - [ ] Case Study: Developing and Launching a Simple Chat Application on Azure|Cloud
 - [ ] Best Practices for Cloud DevOps on AWS and Azure|Cloud
 - [x] [Migrating Existing Applications to the Cloud on AWS and Azure](/Knowledge-base/Cloud/migrating-existing-applications-to-the-cloud-on-aws-and-azure)
