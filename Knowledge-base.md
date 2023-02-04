@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T00:32:29.866Z
+date: 2023-02-04T00:56:00.850Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1774,7 +1774,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Samsung Electronics Co., Ltd. (South Korea)|Dictionary/Company
 - [ ] Huawei Technologies Co., Ltd. (China)|Dictionary/Company
 - [ ] WIPRO Limited (India)|Dictionary/Company
-- [ ] Infosys Limited (India)|Dictionary/Company
+- [x] [Infosys Limited (India)](/Knowledge-base/Dictionary/Company/infosys-limited-india)
 - [ ] HCL Technologies Limited (India)|Dictionary/Company
 - [ ] Tata Consultancy Services (TCS) (India)|Dictionary/Company
 - [ ] Lenovo Group Limited (China)|Dictionary/Company
