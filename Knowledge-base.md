@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T20:32:22.572Z
+date: 2023-02-04T20:55:21.343Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -242,7 +242,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 090: Implementing a Custom Logging System in Spring Boot|Spring-Boot/Learning
 - [ ] 091: Integrating Spring Boot with Apache Zookeeper for Coordination and Synchronization|Spring-Boot/Learning
 - [ ] 092: Building a Chat Application with Spring Boot and WebSockets|Spring-Boot/Learning
-- [ ] 093: Understanding and Configuring the Spring Boot Tracing System|Spring-Boot/Learning
+- [x] [093: Understanding and Configuring the Spring Boot Tracing System](/Knowledge-base/Spring-Boot/Learning/093-understanding-and-configuring-the-spring-boot-tracing-system)
 - [ ] 094: Integrating Spring Boot with Apache Storm for Real-Time Processing|Spring-Boot/Learning
 - [ ] 095: Building a Machine Learning System with Spring Boot and TensorFlow|Spring-Boot/Learning
 - [ ] 096: Implementing a Custom Error Handling System in Spring Boot|Spring-Boot/Learning
