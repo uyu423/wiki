@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T13:32:32.208Z
+date: 2023-02-04T13:56:31.757Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1427,7 +1427,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Cybercrime|Dictionary
 - [ ] Malware|Dictionary
 - [ ] Phishing|Dictionary
-- [ ] Spoofing|Dictionary
+- [x] [Spoofing](/Knowledge-base/Dictionary/spoofing)
 - [x] [Ransomware](/Knowledge-base/Dictionary/ransomware)
 - [x] [Man-in-the-Middle Attack](/Knowledge-base/Dictionary/man-in-the-middle-attack)
 - [ ] Cross-Site Scripting|Dictionary
