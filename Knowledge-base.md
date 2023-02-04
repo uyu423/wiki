@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T13:17:29.030Z
+date: 2023-02-04T13:32:32.208Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -196,7 +196,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [044: Integrating with a document storage service using Spring Boot (Dropbox, Google Drive)](/Knowledge-base/Spring-Boot/Learning/044-integrating-with-a-document-storage-service-using-spring-boot-dropbox-google-drive)
 - [x] [045: Using Spring Boot with Spring Integration](/Knowledge-base/Spring-Boot/Learning/045-using-spring-boot-with-spring-integration)
 - [x] [046: Building a recommendation system using Spring Boot and Apache Mahout](/Knowledge-base/Spring-Boot/Learning/046-building-a-recommendation-system-using-spring-boot-and-apache-mahout)
-- [ ] 047: Implementing a file upload in a Spring Boot application|Spring-Boot/Learning
+- [x] [047: Implementing a file upload in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/047-implementing-a-file-upload-in-a-spring-boot-application)
 - [ ] 048: Using Spring Boot with Apache Spark|Spring-Boot/Learning
 - [ ] 049: Building a machine learning application using Spring Boot and TensorFlow|Spring-Boot/Learning
 - [ ] 050: Integrating with a notification service using Spring Boot (Twilio, Slack)|Spring-Boot/Learning
