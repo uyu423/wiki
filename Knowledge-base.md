@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T11:18:12.745Z
+date: 2023-02-04T11:32:20.885Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -194,7 +194,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [042: Building a real-time analytics application using Spring Boot and Apache Flink](/Knowledge-base/Spring-Boot/Learning/042-building-a-real-time-analytics-application-using-spring-boot-and-apache-flink)
 - [x] [043: Implementing a scheduled task in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/043-implementing-a-scheduled-task-in-a-spring-boot-application)
 - [x] [044: Integrating with a document storage service using Spring Boot (Dropbox, Google Drive)](/Knowledge-base/Spring-Boot/Learning/044-integrating-with-a-document-storage-service-using-spring-boot-dropbox-google-drive)
-- [ ] 045: Using Spring Boot with Spring Integration|Spring-Boot/Learning
+- [x] [045: Using Spring Boot with Spring Integration](/Knowledge-base/Spring-Boot/Learning/045-using-spring-boot-with-spring-integration)
 - [ ] 046: Building a recommendation system using Spring Boot and Apache Mahout|Spring-Boot/Learning
 - [ ] 047: Implementing a file upload in a Spring Boot application|Spring-Boot/Learning
 - [ ] 048: Using Spring Boot with Apache Spark|Spring-Boot/Learning
