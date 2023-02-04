@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T05:32:29.525Z
+date: 2023-02-04T05:55:33.934Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -932,7 +932,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 048: Data Visualization|Software-Development/Learning
 - [ ] Software Development 049: Business Intelligence (BI)|Software-Development/Learning
 - [ ] Software Development 050: Predictive Maintenance|Software-Development/Learning
-- [ ] Software Development 051: Time Series Analysis|Software-Development/Learning
+- [x] [Software Development 051: Time Series Analysis](/Knowledge-base/Software-Development/Learning/software-development-051-time-series-analysis)
 - [x] [Software Development 052: Recommender Systems](/Knowledge-base/Software-Development/Learning/software-development-052-recommender-systems)
 - [ ] Software Development 053: A/B Testing|Software-Development/Learning
 - [ ] Software Development 054: Sentiment Analysis|Software-Development/Learning
