@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T16:55:55.384Z
+date: 2023-02-04T17:18:04.387Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1790,7 +1790,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Xiaomi Corporation (China)](/Knowledge-base/Dictionary/Company/xiaomi-corporation-china)
 - [x] [ByteDance (China)](/Knowledge-base/Dictionary/Company/bytedance-china)
 - [ ] Meituan (China)|Dictionary/Company
-- [ ] SoftBank Group Corp. (Japan)|Dictionary/Company
+- [x] [SoftBank Group Corp. (Japan)](/Knowledge-base/Dictionary/Company/softbank-group-corp-japan)
 - [ ] Huawei Technologies Co., Ltd. (China)|Dictionary/Company
 - [ ] WIPRO Limited (India)|Dictionary/Company
 - [ ] Infosys Limited (India)|Dictionary/Company
