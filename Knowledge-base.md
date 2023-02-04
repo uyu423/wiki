@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T14:56:48.089Z
+date: 2023-02-04T15:17:19.762Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1012,7 +1012,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Benefits of Load Balancing and IP Addressing|Common
 - [ ] Introduction to Machine Learning with TensorFlow and Keras|Common
 - [ ] How to Build a Responsive Website with Bootstrap|Common
-- [ ] The Importance of Automated Testing and Continuous Integration|Common
+- [x] [The Importance of Automated Testing and Continuous Integration](/Knowledge-base/Common/the-importance-of-automated-testing-and-continuous-integration)
 - [x] [How to Build a Real-Time Application with WebSockets](/Knowledge-base/Common/how-to-build-a-real-time-application-with-websockets)
 - [x] [The Advantages of Virtual Private Clouds (VPCs) and Amazon Web Services (AWS)](/Knowledge-base/Common/the-advantages-of-virtual-private-clouds-vpcs-and-amazon-web-services-aws)
 - [ ] How to Build a Secure Web Application with OWASP Top 10|Common
