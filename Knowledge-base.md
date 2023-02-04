@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T14:18:01.836Z
+date: 2023-02-04T14:33:03.226Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -197,7 +197,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [045: Using Spring Boot with Spring Integration](/Knowledge-base/Spring-Boot/Learning/045-using-spring-boot-with-spring-integration)
 - [x] [046: Building a recommendation system using Spring Boot and Apache Mahout](/Knowledge-base/Spring-Boot/Learning/046-building-a-recommendation-system-using-spring-boot-and-apache-mahout)
 - [x] [047: Implementing a file upload in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/047-implementing-a-file-upload-in-a-spring-boot-application)
-- [ ] 048: Using Spring Boot with Apache Spark|Spring-Boot/Learning
+- [x] [048: Using Spring Boot with Apache Spark](/Knowledge-base/Spring-Boot/Learning/048-using-spring-boot-with-apache-spark)
 - [ ] 049: Building a machine learning application using Spring Boot and TensorFlow|Spring-Boot/Learning
 - [ ] 050: Integrating with a notification service using Spring Boot (Twilio, Slack)|Spring-Boot/Learning
 - [ ] 051: Using Spring Boot with Spring XD|Spring-Boot/Learning
