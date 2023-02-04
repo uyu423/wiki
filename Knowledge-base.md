@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T09:17:43.382Z
+date: 2023-02-04T09:32:17.701Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -192,7 +192,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [040: Implementing multi-language support in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/040-implementing-multi-language-support-in-a-spring-boot-application)
 - [x] [041: Using Spring Boot with Apache Storm](/Knowledge-base/Spring-Boot/Learning/041-using-spring-boot-with-apache-storm)
 - [x] [042: Building a real-time analytics application using Spring Boot and Apache Flink](/Knowledge-base/Spring-Boot/Learning/042-building-a-real-time-analytics-application-using-spring-boot-and-apache-flink)
-- [ ] 043: Implementing a scheduled task in a Spring Boot application|Spring-Boot/Learning
+- [x] [043: Implementing a scheduled task in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/043-implementing-a-scheduled-task-in-a-spring-boot-application)
 - [ ] 044: Integrating with a document storage service using Spring Boot (Dropbox, Google Drive)|Spring-Boot/Learning
 - [ ] 045: Using Spring Boot with Spring Integration|Spring-Boot/Learning
 - [ ] 046: Building a recommendation system using Spring Boot and Apache Mahout|Spring-Boot/Learning
