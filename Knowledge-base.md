@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T04:17:25.771Z
+date: 2023-02-04T04:32:18.782Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -185,7 +185,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [033: Implementing email sending in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/033-implementing-email-sending-in-a-spring-boot-application)
 - [x] [034: Using Spring Boot with Spring Cloud Config](/Knowledge-base/Spring-Boot/Learning/034-using-spring-boot-with-spring-cloud-config)
 - [x] [035: Building and deploying a Spring Boot application to container orchestration platforms (Kubernetes, Docker Swarm)](/Knowledge-base/Spring-Boot/Learning/035-building-and-deploying-a-spring-boot-application-to-container-orchestration-platforms-kubernetes-docker-swarm)
-- [ ] 036: Integrating with a payment gateway using Spring Boot|Spring-Boot/Learning
+- [x] [036: Integrating with a payment gateway using Spring Boot](/Knowledge-base/Spring-Boot/Learning/036-integrating-with-a-payment-gateway-using-spring-boot)
 - [ ] 037: Implementing custom logging in a Spring Boot application|Spring-Boot/Learning
 - [ ] 038: Building a chat application using Spring Boot and WebSockets|Spring-Boot/Learning
 - [ ] 039: Using Spring Boot with Apache Solr|Spring-Boot/Learning
