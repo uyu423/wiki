@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T09:55:46.638Z
+date: 2023-02-04T10:17:48.993Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -665,7 +665,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin Testing: Best Practices and Common Pitfalls](/Knowledge-base/Kotlin/kotlin-testing-best-practices-and-common-pitfalls)
 - [ ] Kotlin Continuous Deployment: Best Practices|Kotlin
 - [x] [Kotlin and Spring Boot: Building a RESTful Web Service](/Knowledge-base/Kotlin/kotlin-and-spring-boot-building-a-restful-web-service)
-- [ ] Kotlin Coroutines for Asynchronous Server-side Development|Kotlin
+- [x] [Kotlin Coroutines for Asynchronous Server-side Development](/Knowledge-base/Kotlin/kotlin-coroutines-for-asynchronous-server-side-development)
 - [x] [Kotlin Multi-platform Development for the Web and Mobile](/Knowledge-base/Kotlin/kotlin-multi-platform-development-for-the-web-and-mobile)
 - [ ] Kotlin and Spring Data: Connecting to a Database|Kotlin
 - [ ] Kotlin and JWT: Securing RESTful APIs|Kotlin
