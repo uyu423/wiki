@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T10:32:41.786Z
+date: 2023-02-04T10:56:48.200Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -342,7 +342,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot and Serverless Architecture with AWS Lambda](/Knowledge-base/Spring-Boot/spring-boot-and-serverless-architecture-with-aws-lambda)
 - [ ] Spring Boot and Event-Driven Architecture with Kafka|Spring-Boot
 - [x] [Spring Boot and Reactive Programming with Spring WebFlux](/Knowledge-base/Spring-Boot/spring-boot-and-reactive-programming-with-spring-webflux)
-- [ ] Spring Boot and WebSockets for Real-Time Communication|Spring-Boot
+- [x] [Spring Boot and WebSockets for Real-Time Communication](/Knowledge-base/Spring-Boot/spring-boot-and-websockets-for-real-time-communication)
 - [x] [Spring Boot and Spring Cloud for Distributed Systems](/Knowledge-base/Spring-Boot/spring-boot-and-spring-cloud-for-distributed-systems)
 - [ ] Spring Boot and OAuth2 for Security and Authentication|Spring-Boot
 - [x] [Spring Boot and JWT for Security and Authentication](/Knowledge-base/Spring-Boot/spring-boot-and-jwt-for-security-and-authentication)
