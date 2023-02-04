@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T13:56:31.757Z
+date: 2023-02-04T14:18:01.836Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1847,7 +1847,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Sergey Brin (Google Co-founder)|Dictionary/Person
 - [ ] Jeff Bezos (Amazon Founder and CEO)|Dictionary/Person
 - [ ] Elon Musk (Tesla CEO)|Dictionary/Person
-- [ ] Jack Ma (Alibaba Founder)|Dictionary/Person
+- [x] [Jack Ma (Alibaba Founder)](/Knowledge-base/Dictionary/Person/jack-ma-alibaba-founder)
 - [ ] Tim Cook (Apple CEO)|Dictionary/Person
 - [ ] Linus Torvalds (Linux Creator)|Dictionary/Person
 - [ ] Richard Stallman (Free Software Movement Founder)|Dictionary/Person
