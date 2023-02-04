@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T06:32:27.226Z
+date: 2023-02-04T06:55:27.407Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1152,7 +1152,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Java's java.util.concurrent.CyclicBarrier for Coordinated Concurrent Processing](/Knowledge-base/Java/java-s-java-util-concurrent-cyclicbarrier-for-coordinated-concurrent-processing)
 - [x] [Building Custom Executors in Java](/Knowledge-base/Java/building-custom-executors-in-java)
 - [x] [Java's java.util.concurrent.Semaphore for Controlled Concurrent Access](/Knowledge-base/Java/java-s-java-util-concurrent-semaphore-for-controlled-concurrent-access)
-- [ ] A Guide to Java's java.util.concurrent.Exchanger for Concurrent Data Exchange|Java
+- [x] [A Guide to Java's java.util.concurrent.Exchanger for Concurrent Data Exchange](/Knowledge-base/Java/a-guide-to-java-s-java-util-concurrent-exchanger-for-concurrent-data-exchange)
 - [x] [Working with Java's java.util.concurrent.Phaser for Concurrent Phased Operations](/Knowledge-base/Java/working-with-java-s-java-util-concurrent-phaser-for-concurrent-phased-operations)
 - [ ] Leveraging Java's java.util.concurrent.BrokenBarrierException for Exception Handling|Java
 - [ ] Java's java.util.concurrent.locks.ReentrantLock for Reentrant Locking|Java
