@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T07:55:46.365Z
+date: 2023-02-04T08:17:42.555Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1490,7 +1490,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Domain-Driven Design|Dictionary
 - [x] [Continuous Integration](/Knowledge-base/Dictionary/continuous-integration)
 - [x] [Continuous Delivery](/Knowledge-base/Dictionary/continuous-delivery)
-- [ ] Continuous Deployment|Dictionary
+- [x] [Continuous Deployment](/Knowledge-base/Dictionary/continuous-deployment)
 - [x] [Continuous Testing](/Knowledge-base/Dictionary/continuous-testing)
 - [x] [Continuous Monitoring](/Knowledge-base/Dictionary/continuous-monitoring)
 - [ ] Continuous Improvement|Dictionary
