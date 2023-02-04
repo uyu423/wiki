@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T12:32:24.119Z
+date: 2023-02-04T12:56:03.384Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1671,7 +1671,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] DNS|Dictionary
 - [ ] IP Address|Dictionary
 - [ ] Domain Name|Dictionary
-- [ ] URL|Dictionary
+- [x] [URL](/Knowledge-base/Dictionary/url)
 - [ ] HTTP|Dictionary
 - [ ] HTTPS|Dictionary
 - [ ] Web Hosting|Dictionary
