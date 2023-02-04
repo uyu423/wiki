@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T01:17:38.628Z
+date: 2023-02-04T01:32:49.492Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -182,7 +182,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [030: Developing and deploying a Spring Boot application with Gradle](/Knowledge-base/Spring-Boot/Learning/030-developing-and-deploying-a-spring-boot-application-with-gradle)
 - [x] [031: Building and deploying a Spring Boot application to IaaS (Virtualbox, VMware)](/Knowledge-base/Spring-Boot/Learning/031-building-and-deploying-a-spring-boot-application-to-iaas-virtualbox-vmware)
 - [x] [032: Integrating with a file storage service using Spring Boot (S3, Google Drive)](/Knowledge-base/Spring-Boot/Learning/032-integrating-with-a-file-storage-service-using-spring-boot-s3-google-drive)
-- [ ] 033: Implementing email sending in a Spring Boot application|Spring-Boot/Learning
+- [x] [033: Implementing email sending in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/033-implementing-email-sending-in-a-spring-boot-application)
 - [ ] 034: Using Spring Boot with Spring Cloud Config|Spring-Boot/Learning
 - [ ] 035: Building and deploying a Spring Boot application to container orchestration platforms (Kubernetes, Docker Swarm)|Spring-Boot/Learning
 - [ ] 036: Integrating with a payment gateway using Spring Boot|Spring-Boot/Learning
