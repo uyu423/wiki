@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T19:17:56.967Z
+date: 2023-02-04T19:33:16.718Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -204,7 +204,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [052: Building a search engine optimization (SEO) friendly website using Spring Boot and Spring MVC](/Knowledge-base/Spring-Boot/Learning/052-building-a-search-engine-optimization-seo-friendly-website-using-spring-boot-and-spring-mvc)
 - [x] [053: Implementing a file download in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/053-implementing-a-file-download-in-a-spring-boot-application)
 - [x] [054: Using Spring Boot with Apache Nifi](/Knowledge-base/Spring-Boot/Learning/054-using-spring-boot-with-apache-nifi)
-- [ ] 055: Building a real-time dashboarding application using Spring Boot and Apache Zeppelin|Spring-Boot/Learning
+- [x] [055: Building a real-time dashboarding application using Spring Boot and Apache Zeppelin](/Knowledge-base/Spring-Boot/Learning/055-building-a-real-time-dashboarding-application-using-spring-boot-and-apache-zeppelin)
 - [x] [056: Implementing a file management system in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/056-implementing-a-file-management-system-in-a-spring-boot-application)
 - [ ] 057: Understanding and Configuring Spring Boot's Properties|Spring-Boot/Learning
 - [ ] 058: Implementing Security in a Spring Boot Application|Spring-Boot/Learning
