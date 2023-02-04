@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T11:55:55.546Z
+date: 2023-02-04T12:18:10.925Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1140,7 +1140,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Building Custom Java Logging Handlers|Java
 - [ ] Java's ConcurrentHashMap for Parallel Hash Table Operations|Java
 - [ ] Java's java.util.concurrent.locks Package for Locking and Synchronization|Java
-- [ ] Leveraging Java's java.util.stream Package for Stream Processing|Java
+- [x] [Leveraging Java's java.util.stream Package for Stream Processing](/Knowledge-base/Java/leveraging-java-s-java-util-stream-package-for-stream-processing)
 - [ ] Java's Executor Framework for Task Scheduling and Execution|Java
 - [ ] Java's Reflection-based Dynamic Proxies for Dynamic Method Invocation|Java
 - [ ] A Guide to Java's Dynamic Class Loading and Reloading|Java
