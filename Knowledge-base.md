@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T03:55:50.117Z
+date: 2023-02-04T04:17:25.771Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -965,7 +965,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 081: Information Architecture (IA)|Software-Development/Learning
 - [ ] Software Development 082: User Research|Software-Development/Learning
 - [ ] Software Development 083: Usability Testing|Software-Development/Learning
-- [ ] Software Development 084: Conversion Rate Optimization (CRO)|Software-Development/Learning
+- [x] [Software Development 084: Conversion Rate Optimization (CRO)](/Knowledge-base/Software-Development/Learning/software-development-084-conversion-rate-optimization-cro)
 - [ ] Software Development 085: Growth Hacking|Software-Development/Learning
 - [ ] Software Development 086: Digital Marketing|Software-Development/Learning
 - [ ] Software Development 087: Search Engine Optimization (SEO)|Software-Development/Learning
