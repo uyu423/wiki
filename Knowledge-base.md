@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T08:17:42.555Z
+date: 2023-02-04T08:32:48.314Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -191,7 +191,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [039: Using Spring Boot with Apache Solr](/Knowledge-base/Spring-Boot/Learning/039-using-spring-boot-with-apache-solr)
 - [x] [040: Implementing multi-language support in a Spring Boot application](/Knowledge-base/Spring-Boot/Learning/040-implementing-multi-language-support-in-a-spring-boot-application)
 - [x] [041: Using Spring Boot with Apache Storm](/Knowledge-base/Spring-Boot/Learning/041-using-spring-boot-with-apache-storm)
-- [ ] 042: Building a real-time analytics application using Spring Boot and Apache Flink|Spring-Boot/Learning
+- [x] [042: Building a real-time analytics application using Spring Boot and Apache Flink](/Knowledge-base/Spring-Boot/Learning/042-building-a-real-time-analytics-application-using-spring-boot-and-apache-flink)
 - [ ] 043: Implementing a scheduled task in a Spring Boot application|Spring-Boot/Learning
 - [ ] 044: Integrating with a document storage service using Spring Boot (Dropbox, Google Drive)|Spring-Boot/Learning
 - [ ] 045: Using Spring Boot with Spring Integration|Spring-Boot/Learning
