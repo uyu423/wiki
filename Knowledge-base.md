@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T17:55:24.562Z
+date: 2023-02-04T18:17:24.028Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -246,7 +246,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 094: Integrating Spring Boot with Apache Storm for Real-Time Processing|Spring-Boot/Learning
 - [ ] 095: Building a Machine Learning System with Spring Boot and TensorFlow|Spring-Boot/Learning
 - [ ] 096: Implementing a Custom Error Handling System in Spring Boot|Spring-Boot/Learning
-- [ ] 097: Deploying a Spring Boot Application with OpenShift|Spring-Boot/Learning
+- [x] [097: Deploying a Spring Boot Application with OpenShift](/Knowledge-base/Spring-Boot/Learning/097-deploying-a-spring-boot-application-with-openshift)
 - [ ] 098: Integrating Spring Boot with Apache Hadoop for Big Data Processing|Spring-Boot/Learning
 - [ ] 099: Building a Scheduling System with Spring Boot and Quartz|Spring-Boot/Learning
 - [ ] 100: Integrating Spring Boot with Apache Spark for Fast Data Processing|Spring-Boot/Learning
