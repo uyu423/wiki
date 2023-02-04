@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T08:56:03.508Z
+date: 2023-02-04T09:17:43.382Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1377,7 +1377,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Virtualization|Dictionary
 - [ ] Cloud Migration|Dictionary
 - [x] [Cloud Security](/Knowledge-base/Dictionary/cloud-security)
-- [ ] Cloud Computing Services|Dictionary
+- [x] [Cloud Computing Services](/Knowledge-base/Dictionary/cloud-computing-services)
 - [x] [Infrastructure as a Service](/Knowledge-base/Dictionary/infrastructure-as-a-service)
 - [x] [Platform as a Service](/Knowledge-base/Dictionary/platform-as-a-service)
 - [x] [Software as a Service](/Knowledge-base/Dictionary/software-as-a-service)
