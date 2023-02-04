@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T12:56:03.384Z
+date: 2023-02-04T13:17:29.030Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -733,7 +733,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Exploring GraphQL for API Development](/Knowledge-base/Backend/exploring-graphql-for-api-development)
 - [ ] Python for Backend Development: Django and Flask|Backend
 - [ ] Ruby on Rails for Backend Development|Backend
-- [ ] Laravel: A PHP Framework for Backend Development|Backend
+- [x] [Laravel: A PHP Framework for Backend Development](/Knowledge-base/Backend/laravel-a-php-framework-for-backend-development)
 - [x] [Securing Backend Applications with OAuth and JWT](/Knowledge-base/Backend/securing-backend-applications-with-oauth-and-jwt)
 - [x] [Managing User Sessions with Tokens and Cookies](/Knowledge-base/Backend/managing-user-sessions-with-tokens-and-cookies)
 - [ ] Implementing Authentication and Authorization for Backend Applications|Backend
