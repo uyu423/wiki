@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T02:55:25.675Z
+date: 2023-02-04T03:17:23.848Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -944,7 +944,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 060: Edge Computing|Software-Development/Learning
 - [x] [Software Development 061: Distributed Systems](/Knowledge-base/Software-Development/Learning/software-development-061-distributed-systems)
 - [ ] Software Development 062: Containerization with Docker|Software-Development/Learning
-- [ ] Software Development 063: Kubernetes and Cluster Management|Software-Development/Learning
+- [x] [Software Development 063: Kubernetes and Cluster Management](/Knowledge-base/Software-Development/Learning/software-development-063-kubernetes-and-cluster-management)
 - [ ] Software Development 064: Serverless Architecture|Software-Development/Learning
 - [ ] Software Development 065: High Performance Computing (HPC)|Software-Development/Learning
 - [ ] Software Development 066: Real-Time Analytics|Software-Development/Learning
