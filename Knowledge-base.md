@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T21:56:52.119Z
+date: 2023-02-04T22:17:24.979Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -641,7 +641,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and RSA Encryption: Advanced Topics|Kotlin
 - [ ] Kotlin and AES Encryption: Advanced Topics|Kotlin
 - [ ] Kotlin and Bcrypt Hashing: Advanced Topics|Kotlin
-- [ ] Kotlin and PBKDF2 Hashing: Advanced Topics|Kotlin
+- [x] [Kotlin and PBKDF2 Hashing: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-pbkdf2-hashing-advanced-topics)
 - [x] [Kotlin and Input Validation: Advanced Techniques](/Knowledge-base/Kotlin/kotlin-and-input-validation-advanced-techniques)
 - [x] [Kotlin Testing: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-testing-advanced-topics-and-best-practices)
 - [ ] Kotlin and Continuous Deployment: Advanced Topics and Best Practices|Kotlin
