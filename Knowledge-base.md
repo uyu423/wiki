@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T01:55:30.874Z
+date: 2023-02-04T02:17:25.991Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -359,7 +359,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Liskov Substitution Principle in Spring Boot Development|Spring-Boot
 - [x] [The Single Responsibility Principle in Spring Boot Development](/Knowledge-base/Spring-Boot/the-single-responsibility-principle-in-spring-boot-development)
 - [ ] The Open/Closed Principle in Spring Boot Development|Spring-Boot
-- [ ] The Interface Segregation Principle in Spring Boot Development|Spring-Boot
+- [x] [The Interface Segregation Principle in Spring Boot Development](/Knowledge-base/Spring-Boot/the-interface-segregation-principle-in-spring-boot-development)
 - [ ] The Model-View-Controller (MVC) Pattern in Spring Boot|Spring-Boot
 - [x] [The Model-View-Presenter (MVP) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-model-view-presenter-mvp-pattern-in-spring-boot)
 - [ ] The Model-View-ViewModel (MVVM) Pattern in Spring Boot|Spring-Boot
