@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T00:56:00.850Z
+date: 2023-02-04T01:17:38.628Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -629,7 +629,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin Encryption: RSA and AES|Kotlin
 - [ ] Kotlin Hashing: PBKDF2 and Bcrypt|Kotlin
 - [x] [Kotlin Validation: Input Validation Techniques](/Knowledge-base/Kotlin/kotlin-validation-input-validation-techniques)
-- [ ] Kotlin Testing: Unit and Integration Tests|Kotlin
+- [x] [Kotlin Testing: Unit and Integration Tests](/Knowledge-base/Kotlin/kotlin-testing-unit-and-integration-tests)
 - [x] [Kotlin Continuous Deployment: Automating the Deployment Process](/Knowledge-base/Kotlin/kotlin-continuous-deployment-automating-the-deployment-process)
 - [x] [Kotlin and the Cloud: Deploying to a Cloud Provider](/Knowledge-base/Kotlin/kotlin-and-the-cloud-deploying-to-a-cloud-provider)
 - [ ] Kotlin and REST API: Building and Consuming RESTful Services|Kotlin
