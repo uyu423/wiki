@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T21:32:30.391Z
+date: 2023-02-04T21:56:52.119Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1804,7 +1804,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Baidu, Inc. (China)|Dictionary/Company
 - [ ] Tencent Holdings Limited (China)|Dictionary/Company
 - [ ] Alibaba Group Holding Limited (China)|Dictionary/Company
-- [ ] Xiaomi Corporation (China)|Dictionary/Company
+- [x] [Xiaomi Corporation (China)](/Knowledge-base/Dictionary/Company/xiaomi-corporation-china)
 - [ ] ByteDance (China)|Dictionary/Company
 - [ ] Meituan (China)|Dictionary/Company
 - [ ] SoftBank Group Corp. (Japan)|Dictionary/Company
