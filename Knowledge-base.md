@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T01:32:49.492Z
+date: 2023-02-04T01:55:30.874Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -952,7 +952,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 068: Event-Driven Architecture|Software-Development/Learning
 - [x] [Software Development 069: Event Sourcing and CQRS](/Knowledge-base/Software-Development/Learning/software-development-069-event-sourcing-and-cqrs)
 - [ ] Software Development 070: Service-Oriented Architecture (SOA)|Software-Development/Learning
-- [ ] Software Development 071: Domain-Driven Design (DDD)|Software-Development/Learning
+- [x] [Software Development 071: Domain-Driven Design (DDD)](/Knowledge-base/Software-Development/Learning/software-development-071-domain-driven-design-ddd)
 - [x] [Software Development 072: Test-Driven Development (TDD)](/Knowledge-base/Software-Development/Learning/software-development-072-test-driven-development-tdd)
 - [ ] Software Development 073: Behavior-Driven Development (BDD)|Software-Development/Learning
 - [x] [Software Development 074: Continuous Testing](/Knowledge-base/Software-Development/Learning/software-development-074-continuous-testing)
