@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T18:55:44.653Z
+date: 2023-02-04T19:17:56.967Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1292,7 +1292,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Graphic Card|Dictionary
 - [x] [NVMe](/Knowledge-base/Dictionary/nvme)
 - [ ] RAM|Dictionary
-- [ ] Micro Architecture|Dictionary
+- [x] [Micro Architecture](/Knowledge-base/Dictionary/micro-architecture)
 - [ ] CPU|Dictionary
 - [ ] Ryzen CPU|Dictionary
 - [ ] USB|Dictionary
