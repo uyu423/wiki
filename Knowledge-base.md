@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-04T15:32:49.461Z
+date: 2023-02-04T15:55:29.549Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -781,7 +781,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Task Orchestration for Improved Workflow Management|Backend
 - [ ] gRPC for High-Performance Communication in Backend Development|Backend
 - [x] [Understanding Graph Databases for Better Data Management](/Knowledge-base/Backend/understanding-graph-databases-for-better-data-management)
-- [ ] Building Event-Driven Architecture in Infrastructure Development|Backend
+- [x] [Building Event-Driven Architecture in Infrastructure Development](/Knowledge-base/Backend/building-event-driven-architecture-in-infrastructure-development)
 - [ ] Implementing Serverless Functions with AWS Lambda and Google Cloud Functions|Backend
 - [x] [Understanding Backend as a Service (BaaS)](/Knowledge-base/Backend/understanding-backend-as-a-service-baas)
 - [x] [Real-time Communication in Backend Development with WebSockets and Server-Sent Events](/Knowledge-base/Backend/real-time-communication-in-backend-development-with-websockets-and-server-sent-events)
