@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T05:32:19.402Z
+date: 2023-02-05T05:55:15.908Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -750,7 +750,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [DevOps Best Practices for Backend Infrastructure](/Knowledge-base/Backend/devops-best-practices-for-backend-infrastructure)
 - [ ] Infrastructure as Code for Backend Applications|Backend
 - [ ] Virtualization with Hypervisor and VMs|Backend
-- [ ] Containers and Micro VMs for Backend Development|Backend
+- [x] [Containers and Micro VMs for Backend Development](/Knowledge-base/Backend/containers-and-micro-vms-for-backend-development)
 - [x] [Migrating Databases for Scalable Applications](/Knowledge-base/Backend/migrating-databases-for-scalable-applications)
 - [x] [ORM and Auto-scaling for Backend Development](/Knowledge-base/Backend/orm-and-auto-scaling-for-backend-development)
 - [x] [SaaS, PaaS, and IaaS for Backend Applications](/Knowledge-base/Backend/saas-paas-and-iaas-for-backend-applications)
