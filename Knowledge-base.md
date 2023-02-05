@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T12:32:22.517Z
+date: 2023-02-05T12:55:28.220Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -693,7 +693,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and Laravel: Building a Web Application with a PHP Framework|Kotlin
 - [x] [Kotlin and Ruby on Rails: Building a Web Application with a Ruby Framework](/Knowledge-base/Kotlin/kotlin-and-ruby-on-rails-building-a-web-application-with-a-ruby-framework)
 - [x] [Kotlin and TypeScript: Building a Web Application with a JavaScript Framework](/Knowledge-base/Kotlin/kotlin-and-typescript-building-a-web-application-with-a-javascript-framework)
-- [ ] Kotlin and Express.js: Building a Web Application with a Node.js Framework|Kotlin
+- [x] [Kotlin and Express.js: Building a Web Application with a Node.js Framework](/Knowledge-base/Kotlin/kotlin-and-express-js-building-a-web-application-with-a-node-js-framework)
 - [x] [Kotlin and GraphQL: A Hands-on Guide to Querying APIs](/Knowledge-base/Kotlin/kotlin-and-graphql-a-hands-on-guide-to-querying-apis)
 - [ ] Kotlin and gRPC: Building High-Performance APIs|Kotlin
 - [x] [Kotlin and Serverless Functions: Building Scalable and Cost-Effective Applications](/Knowledge-base/Kotlin/kotlin-and-serverless-functions-building-scalable-and-cost-effective-applications)
