@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T11:55:49.519Z
+date: 2023-02-05T12:17:34.210Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1131,7 +1131,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Understanding Java's Attach API for Dynamic Instrumentation|Java
 - [x] [Java's Dynamic Proxies for Dynamic Object Oriented Programming](/Knowledge-base/Java/java-s-dynamic-proxies-for-dynamic-object-oriented-programming)
 - [ ] Leveraging Java's Method Handles for Dynamic Method Invocation|Java
-- [ ] Using Java's Traceable and Instrumented Classes for Monitoring|Java
+- [x] [Using Java's Traceable and Instrumented Classes for Monitoring](/Knowledge-base/Java/using-java-s-traceable-and-instrumented-classes-for-monitoring)
 - [x] [A Deep Dive into Java's Security Manager](/Knowledge-base/Java/a-deep-dive-into-java-s-security-manager)
 - [ ] Building Custom Security Providers in Java|Java
 - [x] [Exploring Java's Networking API for Network Programming](/Knowledge-base/Java/exploring-java-s-networking-api-for-network-programming)
