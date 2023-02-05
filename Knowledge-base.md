@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T15:33:30.620Z
+date: 2023-02-05T15:55:25.029Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -931,7 +931,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 047: Big Data and Data Science|Software-Development/Learning
 - [ ] Software Development 048: Data Visualization|Software-Development/Learning
 - [ ] Software Development 049: Business Intelligence (BI)|Software-Development/Learning
-- [ ] Software Development 050: Predictive Maintenance|Software-Development/Learning
+- [x] [Software Development 050: Predictive Maintenance](/Knowledge-base/Software-Development/Learning/software-development-050-predictive-maintenance)
 - [x] [Software Development 051: Time Series Analysis](/Knowledge-base/Software-Development/Learning/software-development-051-time-series-analysis)
 - [x] [Software Development 052: Recommender Systems](/Knowledge-base/Software-Development/Learning/software-development-052-recommender-systems)
 - [x] [Software Development 053: A/B Testing](/Knowledge-base/Software-Development/Learning/software-development-053-ab-testing)
