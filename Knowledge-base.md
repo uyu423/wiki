@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T08:18:51.650Z
+date: 2023-02-05T08:32:57.753Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -226,7 +226,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [074: Integrating Spring Boot with Redis for Caching and Session Management](/Knowledge-base/Spring-Boot/Learning/074-integrating-spring-boot-with-redis-for-caching-and-session-management)
 - [x] [075: Building a Microservice Architecture with Spring Boot](/Knowledge-base/Spring-Boot/Learning/075-building-a-microservice-architecture-with-spring-boot)
 - [x] [076: Using the Spring Boot CLI for Scaffolding a Project](/Knowledge-base/Spring-Boot/Learning/076-using-the-spring-boot-cli-for-scaffolding-a-project)
-- [ ] 077: Deploying a Spring Boot Application with Docker|Spring-Boot/Learning
+- [x] [077: Deploying a Spring Boot Application with Docker](/Knowledge-base/Spring-Boot/Learning/077-deploying-a-spring-boot-application-with-docker)
 - [ ] 078: Integrating Spring Boot with Apache Cassandra for Distributed Data Management|Spring-Boot/Learning
 - [ ] 079: Implementing Asynchronous Processing in a Spring Boot Application|Spring-Boot/Learning
 - [ ] 080: Understanding and Using the Spring Boot Metrics for Monitoring|Spring-Boot/Learning
