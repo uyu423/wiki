@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T13:18:35.406Z
+date: 2023-02-05T13:32:29.157Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -232,7 +232,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [080: Understanding and Using the Spring Boot Metrics for Monitoring](/Knowledge-base/Spring-Boot/Learning/080-understanding-and-using-the-spring-boot-metrics-for-monitoring)
 - [x] [081: Working with the Spring Boot Actuator for Health Checks](/Knowledge-base/Spring-Boot/Learning/081-working-with-the-spring-boot-actuator-for-health-checks)
 - [x] [082: Integrating Spring Boot with Apache Kafka for Streaming Data](/Knowledge-base/Spring-Boot/Learning/082-integrating-spring-boot-with-apache-kafka-for-streaming-data)
-- [ ] 083: Building a CRUD Application with Spring Boot and JPA|Spring-Boot/Learning
+- [x] [083: Building a CRUD Application with Spring Boot and JPA](/Knowledge-base/Spring-Boot/Learning/083-building-a-crud-application-with-spring-boot-and-jpa)
 - [ ] 084: Implementing a Custom Authentication Provider in Spring Boot|Spring-Boot/Learning
 - [ ] 085: Building a Search Engine with Spring Boot and Solr|Spring-Boot/Learning
 - [ ] 086: Deploying a Spring Boot Application to Kubernetes|Spring-Boot/Learning
