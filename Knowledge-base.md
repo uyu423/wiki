@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T20:55:25.520Z
+date: 2023-02-05T21:17:37.079Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1412,7 +1412,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Virtual Private Network|Dictionary
 - [ ] Public Key Infrastructure|Dictionary
 - [ ] Certificate Authority|Dictionary
-- [ ] Encryption|Dictionary
+- [x] [Encryption](/Knowledge-base/Dictionary/encryption)
 - [ ] Digital Signature|Dictionary
 - [x] [Authentication](/Knowledge-base/Dictionary/authentication)
 - [ ] Authorization|Dictionary
