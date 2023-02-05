@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T19:32:21.879Z
+date: 2023-02-05T19:55:54.283Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1582,7 +1582,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Infrastructure Management|Dictionary
 - [ ] Virtualization Management|Dictionary
 - [ ] Containerization|Dictionary
-- [ ] Serverless|Dictionary
+- [x] [Serverless](/Knowledge-base/Dictionary/serverless)
 - [ ] Functionality|Dictionary
 - [x] [REST](/Knowledge-base/Dictionary/rest)
 - [ ] SOAP|Dictionary
