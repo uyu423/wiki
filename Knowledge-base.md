@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T18:55:25.378Z
+date: 2023-02-05T19:17:38.924Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -843,7 +843,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AWS Rekognition: Analyzing Image and Video Data with Computer Vision](/Knowledge-base/Cloud/aws-rekognition-analyzing-image-and-video-data-with-computer-vision)
 - [ ] AWS Transcribe: Automating Speech-to-Text Transcription in the Cloud|Cloud
 - [ ] AWS Translate: Translating Text Across Languages in the Cloud|Cloud
-- [ ] AWS Polly: Generating Speech from Text with Text-to-Speech Technology|Cloud
+- [x] [AWS Polly: Generating Speech from Text with Text-to-Speech Technology](/Knowledge-base/Cloud/aws-polly-generating-speech-from-text-with-text-to-speech-technology)
 - [ ] AWS Lightsail: Launching Simple Websites and Applications with a Fully Managed PaaS|Cloud
 - [ ] AWS Fargate: Running Containers without Managing Infrastructure|Cloud
 - [ ] Debugging Cloud Services: Best Practices for AWS and Azure|Cloud
