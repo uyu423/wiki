@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T12:17:34.210Z
+date: 2023-02-05T12:32:22.517Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -230,7 +230,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [078: Integrating Spring Boot with Apache Cassandra for Distributed Data Management](/Knowledge-base/Spring-Boot/Learning/078-integrating-spring-boot-with-apache-cassandra-for-distributed-data-management)
 - [x] [079: Implementing Asynchronous Processing in a Spring Boot Application](/Knowledge-base/Spring-Boot/Learning/079-implementing-asynchronous-processing-in-a-spring-boot-application)
 - [x] [080: Understanding and Using the Spring Boot Metrics for Monitoring](/Knowledge-base/Spring-Boot/Learning/080-understanding-and-using-the-spring-boot-metrics-for-monitoring)
-- [ ] 081: Working with the Spring Boot Actuator for Health Checks|Spring-Boot/Learning
+- [x] [081: Working with the Spring Boot Actuator for Health Checks](/Knowledge-base/Spring-Boot/Learning/081-working-with-the-spring-boot-actuator-for-health-checks)
 - [x] [082: Integrating Spring Boot with Apache Kafka for Streaming Data](/Knowledge-base/Spring-Boot/Learning/082-integrating-spring-boot-with-apache-kafka-for-streaming-data)
 - [ ] 083: Building a CRUD Application with Spring Boot and JPA|Spring-Boot/Learning
 - [ ] 084: Implementing a Custom Authentication Provider in Spring Boot|Spring-Boot/Learning
