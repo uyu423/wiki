@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T23:33:00.198Z
+date: 2023-02-05T23:56:47.200Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1279,7 +1279,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Infrastructure Engineering|Dictionary
 - [x] [Backend Programming](/Knowledge-base/Dictionary/backend-programming)
 - [ ] Frontend Programming|Dictionary
-- [ ] Lean Startup|Dictionary
+- [x] [Lean Startup](/Knowledge-base/Dictionary/lean-startup)
 - [ ] Refactoring|Dictionary
 - [ ] Clean Software|Dictionary
 - [x] [Wooahan Brothers (South Korea Company)](/Knowledge-base/Dictionary/wooahan-brothers-south-korea-company)
