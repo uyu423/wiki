@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T07:32:18.786Z
+date: 2023-02-05T07:56:07.311Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -830,7 +830,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] AWS Elastic IPs: Allocating Static IP Addresses for Cloud Resources|Cloud
 - [x] [AWS Auto Scaling: Automatically Scaling Cloud Resources Based on Load](/Knowledge-base/Cloud/aws-auto-scaling-automatically-scaling-cloud-resources-based-on-load)
 - [ ] AWS CloudWatch: Monitoring and Debugging Cloud Applications|Cloud
-- [ ] AWS CloudTrail: Logging AWS API Calls for Compliance and Auditing|Cloud
+- [x] [AWS CloudTrail: Logging AWS API Calls for Compliance and Auditing](/Knowledge-base/Cloud/aws-cloudtrail-logging-aws-api-calls-for-compliance-and-auditing)
 - [x] [AWS Elasticache: Scaling Memcached or Redis Caching for Web Applications](/Knowledge-base/Cloud/aws-elasticache-scaling-memcached-or-redis-caching-for-web-applications)
 - [x] [AWS SES: Sending and Receiving Emails with Simple Email Service](/Knowledge-base/Cloud/aws-ses-sending-and-receiving-emails-with-simple-email-service)
 - [x] [AWS SNS & SQS: Building a Message Broker System in the Cloud](/Knowledge-base/Cloud/aws-sns--sqs-building-a-message-broker-system-in-the-cloud)
