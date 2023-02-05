@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T17:18:10.540Z
+date: 2023-02-05T17:32:21.674Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -236,7 +236,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [084: Implementing a Custom Authentication Provider in Spring Boot](/Knowledge-base/Spring-Boot/Learning/084-implementing-a-custom-authentication-provider-in-spring-boot)
 - [x] [085: Building a Search Engine with Spring Boot and Solr](/Knowledge-base/Spring-Boot/Learning/085-building-a-search-engine-with-spring-boot-and-solr)
 - [x] [086: Deploying a Spring Boot Application to Kubernetes](/Knowledge-base/Spring-Boot/Learning/086-deploying-a-spring-boot-application-to-kubernetes)
-- [ ] 087: Integrating Spring Boot with Spring Security for Authorization and Authentication|Spring-Boot/Learning
+- [x] [087: Integrating Spring Boot with Spring Security for Authorization and Authentication](/Knowledge-base/Spring-Boot/Learning/087-integrating-spring-boot-with-spring-security-for-authorization-and-authentication)
 - [ ] 088: Building a Reactive System with Spring Boot and Spring WebFlux|Spring-Boot/Learning
 - [ ] 089: Understanding and Using the Spring Boot Profiles for Configuration Management|Spring-Boot/Learning
 - [ ] 090: Implementing a Custom Logging System in Spring Boot|Spring-Boot/Learning
