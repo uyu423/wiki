@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T03:18:38.986Z
+date: 2023-02-05T03:32:27.019Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -218,7 +218,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [066: Creating a Batch Processing System in Spring Boot](/Knowledge-base/Spring-Boot/Learning/066-creating-a-batch-processing-system-in-spring-boot)
 - [x] [067: Understanding the Spring Boot DevTools for Faster Development](/Knowledge-base/Spring-Boot/Learning/067-understanding-the-spring-boot-devtools-for-faster-development)
 - [x] [068: Debugging a Spring Boot Application with the Spring Boot Debugger](/Knowledge-base/Spring-Boot/Learning/068-debugging-a-spring-boot-application-with-the-spring-boot-debugger)
-- [ ] 069: Customizing the Spring Boot CLI for Advanced Development|Spring-Boot/Learning
+- [x] [069: Customizing the Spring Boot CLI for Advanced Development](/Knowledge-base/Spring-Boot/Learning/069-customizing-the-spring-boot-cli-for-advanced-development)
 - [ ] 070: Spring Boot with Thymeleaf: Creating Dynamic Templates|Spring-Boot/Learning
 - [x] [071: Implementing Internationalization (i18n) in a Spring Boot Application](/Knowledge-base/Spring-Boot/Learning/071-implementing-internationalization-i18n-in-a-spring-boot-application)
 - [ ] 072: Understanding and Using the Spring Boot Starters|Spring-Boot/Learning
