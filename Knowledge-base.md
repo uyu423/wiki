@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T22:55:49.889Z
+date: 2023-02-05T23:17:50.956Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1585,7 +1585,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Serverless](/Knowledge-base/Dictionary/serverless)
 - [ ] Functionality|Dictionary
 - [x] [REST](/Knowledge-base/Dictionary/rest)
-- [ ] SOAP|Dictionary
+- [x] [SOAP](/Knowledge-base/Dictionary/soap)
 - [ ] GraphQL|Dictionary
 - [ ] Web Services|Dictionary
 - [ ] Distributed Systems|Dictionary
