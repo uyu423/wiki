@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T06:17:28.744Z
+date: 2023-02-05T06:32:32.987Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -224,7 +224,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [072: Understanding and Using the Spring Boot Starters](/Knowledge-base/Spring-Boot/Learning/072-understanding-and-using-the-spring-boot-starters)
 - [x] [073: Integrating Spring Boot with Elasticsearch for Search and Analytics](/Knowledge-base/Spring-Boot/Learning/073-integrating-spring-boot-with-elasticsearch-for-search-and-analytics)
 - [x] [074: Integrating Spring Boot with Redis for Caching and Session Management](/Knowledge-base/Spring-Boot/Learning/074-integrating-spring-boot-with-redis-for-caching-and-session-management)
-- [ ] 075: Building a Microservice Architecture with Spring Boot|Spring-Boot/Learning
+- [x] [075: Building a Microservice Architecture with Spring Boot](/Knowledge-base/Spring-Boot/Learning/075-building-a-microservice-architecture-with-spring-boot)
 - [ ] 076: Using the Spring Boot CLI for Scaffolding a Project|Spring-Boot/Learning
 - [ ] 077: Deploying a Spring Boot Application with Docker|Spring-Boot/Learning
 - [ ] 078: Integrating Spring Boot with Apache Cassandra for Distributed Data Management|Spring-Boot/Learning
