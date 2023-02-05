@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T13:32:29.157Z
+date: 2023-02-05T13:56:04.935Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1798,7 +1798,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Tata Consultancy Services (TCS) (India)|Dictionary/Company
 - [ ] Lenovo Group Limited (China)|Dictionary/Company
 - [ ] Hitachi, Ltd. (Japan)|Dictionary/Company
-- [ ] Fujitsu Limited (Japan)|Dictionary/Company
+- [x] [Fujitsu Limited (Japan)](/Knowledge-base/Dictionary/Company/fujitsu-limited-japan)
 - [ ] NEC Corporation (Japan)|Dictionary/Company
 - [ ] NTT Data Corporation (Japan)|Dictionary/Company
 - [ ] Baidu, Inc. (China)|Dictionary/Company
