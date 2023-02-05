@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T04:17:25.339Z
+date: 2023-02-05T04:32:38.491Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -219,7 +219,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [067: Understanding the Spring Boot DevTools for Faster Development](/Knowledge-base/Spring-Boot/Learning/067-understanding-the-spring-boot-devtools-for-faster-development)
 - [x] [068: Debugging a Spring Boot Application with the Spring Boot Debugger](/Knowledge-base/Spring-Boot/Learning/068-debugging-a-spring-boot-application-with-the-spring-boot-debugger)
 - [x] [069: Customizing the Spring Boot CLI for Advanced Development](/Knowledge-base/Spring-Boot/Learning/069-customizing-the-spring-boot-cli-for-advanced-development)
-- [ ] 070: Spring Boot with Thymeleaf: Creating Dynamic Templates|Spring-Boot/Learning
+- [x] [070: Spring Boot with Thymeleaf: Creating Dynamic Templates](/Knowledge-base/Spring-Boot/Learning/070-spring-boot-with-thymeleaf-creating-dynamic-templates)
 - [x] [071: Implementing Internationalization (i18n) in a Spring Boot Application](/Knowledge-base/Spring-Boot/Learning/071-implementing-internationalization-i18n-in-a-spring-boot-application)
 - [ ] 072: Understanding and Using the Spring Boot Starters|Spring-Boot/Learning
 - [x] [073: Integrating Spring Boot with Elasticsearch for Search and Analytics](/Knowledge-base/Spring-Boot/Learning/073-integrating-spring-boot-with-elasticsearch-for-search-and-analytics)
