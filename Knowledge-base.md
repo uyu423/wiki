@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T06:55:21.178Z
+date: 2023-02-05T07:17:53.192Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -886,7 +886,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 002: Algorithms and Data Structures|Software-Development/Learning
 - [x] [Software Development 003: Programming Fundamentals](/Knowledge-base/Software-Development/Learning/software-development-003-programming-fundamentals)
 - [ ] Software Development 004: Object-Oriented Programming|Software-Development/Learning
-- [ ] Software Development 005: Database Management|Software-Development/Learning
+- [x] [Software Development 005: Database Management](/Knowledge-base/Software-Development/Learning/software-development-005-database-management)
 - [ ] Software Development 006: Web Development Basics|Software-Development/Learning
 - [ ] Software Development 007: HTML, CSS and JavaScript|Software-Development/Learning
 - [ ] Software Development 008: Responsive Web Design|Software-Development/Learning
