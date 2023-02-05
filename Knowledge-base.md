@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T21:17:37.079Z
+date: 2023-02-05T21:32:26.519Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -240,7 +240,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [088: Building a Reactive System with Spring Boot and Spring WebFlux](/Knowledge-base/Spring-Boot/Learning/088-building-a-reactive-system-with-spring-boot-and-spring-webflux)
 - [x] [089: Understanding and Using the Spring Boot Profiles for Configuration Management](/Knowledge-base/Spring-Boot/Learning/089-understanding-and-using-the-spring-boot-profiles-for-configuration-management)
 - [x] [090: Implementing a Custom Logging System in Spring Boot](/Knowledge-base/Spring-Boot/Learning/090-implementing-a-custom-logging-system-in-spring-boot)
-- [ ] 091: Integrating Spring Boot with Apache Zookeeper for Coordination and Synchronization|Spring-Boot/Learning
+- [x] [091: Integrating Spring Boot with Apache Zookeeper for Coordination and Synchronization](/Knowledge-base/Spring-Boot/Learning/091-integrating-spring-boot-with-apache-zookeeper-for-coordination-and-synchronization)
 - [ ] 092: Building a Chat Application with Spring Boot and WebSockets|Spring-Boot/Learning
 - [x] [093: Understanding and Configuring the Spring Boot Tracing System](/Knowledge-base/Spring-Boot/Learning/093-understanding-and-configuring-the-spring-boot-tracing-system)
 - [ ] 094: Integrating Spring Boot with Apache Storm for Real-Time Processing|Spring-Boot/Learning
