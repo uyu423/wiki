@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T08:32:57.753Z
+date: 2023-02-05T08:55:26.808Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1018,7 +1018,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] How to Build a Secure Web Application with OWASP Top 10|Common
 - [ ] The Benefits of Artificial Neural Networks (ANNs) and Deep Learning|Common
 - [ ] How to Build a Chatbot with Microsoft Bot Framework|Common
-- [ ] The Importance of Information Security and Compliance|Common
+- [x] [The Importance of Information Security and Compliance](/Knowledge-base/Common/the-importance-of-information-security-and-compliance)
 - [ ] How to Build a Progressive Web App (PWA) with Angular|Common
 - [ ] The Benefits of Distributed Systems and Apache Cassandra|Common
 - [ ] How to Build a Cross-Platform Mobile App with React Native|Common
