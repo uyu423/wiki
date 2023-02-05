@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T22:32:35.816Z
+date: 2023-02-05T22:55:49.889Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1851,7 +1851,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Tim Cook (Apple CEO)|Dictionary/Person
 - [ ] Linus Torvalds (Linux Creator)|Dictionary/Person
 - [ ] Richard Stallman (Free Software Movement Founder)|Dictionary/Person
-- [ ] Eric Schmidt (Google Chairman)|Dictionary/Person
+- [x] [Eric Schmidt (Google Chairman)](/Knowledge-base/Dictionary/Person/eric-schmidt-google-chairman)
 - [ ] Larry Ellison (Oracle CEO)|Dictionary/Person
 - [x] [Michael Dell (Dell Technologies Founder)](/Knowledge-base/Dictionary/Person/michael-dell-dell-technologies-founder)
 - [x] [Steve Ballmer (Microsoft CEO)](/Knowledge-base/Dictionary/Person/steve-ballmer-microsoft-ceo)
