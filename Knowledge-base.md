@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T11:32:25.340Z
+date: 2023-02-05T11:55:49.519Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -696,7 +696,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and Express.js: Building a Web Application with a Node.js Framework|Kotlin
 - [x] [Kotlin and GraphQL: A Hands-on Guide to Querying APIs](/Knowledge-base/Kotlin/kotlin-and-graphql-a-hands-on-guide-to-querying-apis)
 - [ ] Kotlin and gRPC: Building High-Performance APIs|Kotlin
-- [ ] Kotlin and Serverless Functions: Building Scalable and Cost-Effective Applications|Kotlin
+- [x] [Kotlin and Serverless Functions: Building Scalable and Cost-Effective Applications](/Knowledge-base/Kotlin/kotlin-and-serverless-functions-building-scalable-and-cost-effective-applications)
 - [x] [Kotlin and Event-driven Architecture: Building Responsive and Reactive Systems](/Knowledge-base/Kotlin/kotlin-and-event-driven-architecture-building-responsive-and-reactive-systems)
 - [x] [Kotlin and Real-time Communication: Building Chat and Notification Systems](/Knowledge-base/Kotlin/kotlin-and-real-time-communication-building-chat-and-notification-systems)
 - [ ] Kotlin and CORS: A Guide to Cross-Origin Resource Sharing|Kotlin
