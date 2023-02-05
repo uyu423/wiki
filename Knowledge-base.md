@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T19:55:54.283Z
+date: 2023-02-05T20:17:26.225Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -391,7 +391,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kubernetes Networking: Communication Between Pods and Services|Kubernetes
 - [ ] Kubernetes Ingress: Exposing Your Services with Custom URLs|Kubernetes
 - [ ] Kubernetes Jobs and CronJobs: Running One-Off Tasks|Kubernetes
-- [ ] Kubernetes Resource Management: Setting Limits and Requests for Your Pods|Kubernetes
+- [x] [Kubernetes Resource Management: Setting Limits and Requests for Your Pods](/Knowledge-base/Kubernetes/kubernetes-resource-management-setting-limits-and-requests-for-your-pods)
 - [ ] Kubernetes Namespaces: Isolating Resources in Multi-Tenant Clusters|Kubernetes
 - [ ] Kubernetes RBAC: Securing Access to Cluster Resources|Kubernetes
 - [ ] Kubernetes Security: Best Practices for Hardening Your Cluster|Kubernetes
