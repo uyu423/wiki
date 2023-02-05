@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T00:17:20.028Z
+date: 2023-02-05T00:32:25.130Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -210,7 +210,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [058: Implementing Security in a Spring Boot Application](/Knowledge-base/Spring-Boot/Learning/058-implementing-security-in-a-spring-boot-application)
 - [x] [059: Deploying a Spring Boot Application to the Cloud](/Knowledge-base/Spring-Boot/Learning/059-deploying-a-spring-boot-application-to-the-cloud)
 - [x] [060: Working with Spring Boot's Actuator for Monitoring](/Knowledge-base/Spring-Boot/Learning/060-working-with-spring-boot-s-actuator-for-monitoring)
-- [ ] 061: Integrating Spring Boot with NoSQL Databases|Spring-Boot/Learning
+- [x] [061: Integrating Spring Boot with NoSQL Databases](/Knowledge-base/Spring-Boot/Learning/061-integrating-spring-boot-with-nosql-databases)
 - [x] [062: Building a REST API with Spring Boot](/Knowledge-base/Spring-Boot/Learning/062-building-a-rest-api-with-spring-boot)
 - [ ] 063: Testing a Spring Boot Application with JUnit and Mockito|Spring-Boot/Learning
 - [x] [064: Customizing the Embedded Tomcat Configuration in Spring Boot](/Knowledge-base/Spring-Boot/Learning/064-customizing-the-embedded-tomcat-configuration-in-spring-boot)
