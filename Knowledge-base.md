@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T01:17:36.574Z
+date: 2023-02-05T01:32:31.842Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -212,7 +212,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [060: Working with Spring Boot's Actuator for Monitoring](/Knowledge-base/Spring-Boot/Learning/060-working-with-spring-boot-s-actuator-for-monitoring)
 - [x] [061: Integrating Spring Boot with NoSQL Databases](/Knowledge-base/Spring-Boot/Learning/061-integrating-spring-boot-with-nosql-databases)
 - [x] [062: Building a REST API with Spring Boot](/Knowledge-base/Spring-Boot/Learning/062-building-a-rest-api-with-spring-boot)
-- [ ] 063: Testing a Spring Boot Application with JUnit and Mockito|Spring-Boot/Learning
+- [x] [063: Testing a Spring Boot Application with JUnit and Mockito](/Knowledge-base/Spring-Boot/Learning/063-testing-a-spring-boot-application-with-junit-and-mockito)
 - [x] [064: Customizing the Embedded Tomcat Configuration in Spring Boot](/Knowledge-base/Spring-Boot/Learning/064-customizing-the-embedded-tomcat-configuration-in-spring-boot)
 - [x] [065: Integrating Spring Boot with RabbitMQ for Messaging](/Knowledge-base/Spring-Boot/Learning/065-integrating-spring-boot-with-rabbitmq-for-messaging)
 - [ ] 066: Creating a Batch Processing System in Spring Boot|Spring-Boot/Learning
