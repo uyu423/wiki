@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T00:32:25.130Z
+date: 2023-02-05T00:55:42.683Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1455,7 +1455,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kubernetes](/Knowledge-base/Dictionary/kubernetes)
 - [x] [Open-Source Software](/Knowledge-base/Dictionary/open-source-software)
 - [x] [Proprietary Software](/Knowledge-base/Dictionary/proprietary-software)
-- [ ] Commercial Software|Dictionary
+- [x] [Commercial Software](/Knowledge-base/Dictionary/commercial-software)
 - [x] [Freeware](/Knowledge-base/Dictionary/freeware)
 - [ ] Shareware|Dictionary
 - [ ] Coding Standards|Dictionary
