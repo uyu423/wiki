@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T14:56:03.164Z
+date: 2023-02-05T15:18:28.661Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -477,7 +477,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [051: Building and deploying multi-tenant applications with Nest.js](/Knowledge-base/Nest-js/Learning/051-building-and-deploying-multi-tenant-applications-with-nest-js)
 - [ ] 052: Using Nest.js with Server-Sent Events (SSE)|Nest-js/Learning
 - [ ] 053: Using Nest.js with WebRTC for real-time communication|Nest-js/Learning
-- [ ] 054: Using Nest.js with Progressive Web Apps (PWA)|Nest-js/Learning
+- [x] [054: Using Nest.js with Progressive Web Apps (PWA)](/Knowledge-base/Nest-js/Learning/054-using-nest-js-with-progressive-web-apps-pwa)
 - [ ] 055: Implementing real-time updates with Nest.js and PWA|Nest-js/Learning
 - [ ] 056: Using Nest.js with progressive enhancement|Nest-js/Learning
 - [ ] 057: Using Nest.js with Service Workers|Nest-js/Learning
