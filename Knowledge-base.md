@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T12:55:28.220Z
+date: 2023-02-05T13:18:35.406Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1042,7 +1042,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Using Microservices to Build Scalable Applications|Common
 - [ ] Building RESTful APIs with Node.js and Express|Common
 - [x] [Implementing Advanced Algorithms for Machine Learning](/Knowledge-base/Common/implementing-advanced-algorithms-for-machine-learning)
-- [ ] Big Data Analytics with Apache Spark|Common
+- [x] [Big Data Analytics with Apache Spark](/Knowledge-base/Common/big-data-analytics-with-apache-spark)
 - [ ] The Future of Virtual Reality (VR) and Augmented Reality (AR) in Gaming|Common
 - [ ] Using Blockchain for Decentralized Applications|Common
 - [ ] The Role of Cloud Computing in Enterprise Solutions|Common
