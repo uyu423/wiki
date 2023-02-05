@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T10:32:19.794Z
+date: 2023-02-05T10:55:46.872Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -313,7 +313,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Spring Boot and NoSQL Databases|Spring-Boot
 - [ ] Spring Boot with MongoDB|Spring-Boot
 - [ ] Spring Boot with Redis|Spring-Boot
-- [ ] Spring Boot and Cloud Platforms|Spring-Boot
+- [x] [Spring Boot and Cloud Platforms](/Knowledge-base/Spring-Boot/spring-boot-and-cloud-platforms)
 - [x] [Spring Boot Deployment on Cloud Foundry](/Knowledge-base/Spring-Boot/spring-boot-deployment-on-cloud-foundry)
 - [ ] Spring Boot Deployment on Heroku|Spring-Boot
 - [ ] Spring Boot Deployment on AWS|Spring-Boot
