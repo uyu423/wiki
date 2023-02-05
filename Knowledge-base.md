@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T05:17:40.810Z
+date: 2023-02-05T05:32:19.402Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -221,7 +221,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [069: Customizing the Spring Boot CLI for Advanced Development](/Knowledge-base/Spring-Boot/Learning/069-customizing-the-spring-boot-cli-for-advanced-development)
 - [x] [070: Spring Boot with Thymeleaf: Creating Dynamic Templates](/Knowledge-base/Spring-Boot/Learning/070-spring-boot-with-thymeleaf-creating-dynamic-templates)
 - [x] [071: Implementing Internationalization (i18n) in a Spring Boot Application](/Knowledge-base/Spring-Boot/Learning/071-implementing-internationalization-i18n-in-a-spring-boot-application)
-- [ ] 072: Understanding and Using the Spring Boot Starters|Spring-Boot/Learning
+- [x] [072: Understanding and Using the Spring Boot Starters](/Knowledge-base/Spring-Boot/Learning/072-understanding-and-using-the-spring-boot-starters)
 - [x] [073: Integrating Spring Boot with Elasticsearch for Search and Analytics](/Knowledge-base/Spring-Boot/Learning/073-integrating-spring-boot-with-elasticsearch-for-search-and-analytics)
 - [x] [074: Integrating Spring Boot with Redis for Caching and Session Management](/Knowledge-base/Spring-Boot/Learning/074-integrating-spring-boot-with-redis-for-caching-and-session-management)
 - [ ] 075: Building a Microservice Architecture with Spring Boot|Spring-Boot/Learning
