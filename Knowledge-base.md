@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T09:55:21.484Z
+date: 2023-02-05T10:17:24.920Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -515,7 +515,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
  - [x] [013: Sealing Classes in Kotlin: Creating Hierarchies of Classes with Restrictions](/Knowledge-base/Kotlin/Learning/013-sealing-classes-in-kotlin-creating-hierarchies-of-classes-with-restrictions)
 - [x] [014: Extensions Functions in Kotlin: Enhancing Classes with Additional Functions](/Knowledge-base/Kotlin/Learning/014-extensions-functions-in-kotlin-enhancing-classes-with-additional-functions)
 - [ ] 015: Nullable Types and Null Safety in Kotlin: Dealing with Null Values|Kotlin/Learning
-- [ ] 016: Exception Handling in Kotlin: Throwing and Catching Exceptions|Kotlin/Learning
+- [x] [016: Exception Handling in Kotlin: Throwing and Catching Exceptions](/Knowledge-base/Kotlin/Learning/016-exception-handling-in-kotlin-throwing-and-catching-exceptions)
 - [x] [017: Generics in Kotlin: Writing Reusable Code with Type Parameters](/Knowledge-base/Kotlin/Learning/017-generics-in-kotlin-writing-reusable-code-with-type-parameters)
 - [ ] 018: Companion Objects in Kotlin: Static Members in Classes|Kotlin/Learning
 - [ ] 019: Data Classes in Kotlin: Automatically Generating Equals, HashCode, and ToString Methods|Kotlin/Learning
