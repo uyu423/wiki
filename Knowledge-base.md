@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T17:32:21.674Z
+date: 2023-02-05T17:55:25.960Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -840,7 +840,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] AWS QuickSight: Visualizing and Analyzing Big Data in the Cloud|Cloud
 - [x] [AWS SageMaker: Building and Deploying Machine Learning Models in the Cloud](/Knowledge-base/Cloud/aws-sagemaker-building-and-deploying-machine-learning-models-in-the-cloud)
 - [ ] AWS Comprehend: Analyzing Text Data with Natural Language Processing|Cloud
-- [ ] AWS Rekognition: Analyzing Image and Video Data with Computer Vision|Cloud
+- [x] [AWS Rekognition: Analyzing Image and Video Data with Computer Vision](/Knowledge-base/Cloud/aws-rekognition-analyzing-image-and-video-data-with-computer-vision)
 - [ ] AWS Transcribe: Automating Speech-to-Text Transcription in the Cloud|Cloud
 - [ ] AWS Translate: Translating Text Across Languages in the Cloud|Cloud
 - [ ] AWS Polly: Generating Speech from Text with Text-to-Speech Technology|Cloud
