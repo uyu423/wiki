@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T03:55:37.280Z
+date: 2023-02-05T04:17:25.339Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -639,7 +639,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and Session Management|Kotlin
 - [ ] Kotlin and Authorization: Implementing Role-Based Access|Kotlin
 - [ ] Kotlin and RSA Encryption: Advanced Topics|Kotlin
-- [ ] Kotlin and AES Encryption: Advanced Topics|Kotlin
+- [x] [Kotlin and AES Encryption: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-aes-encryption-advanced-topics)
 - [ ] Kotlin and Bcrypt Hashing: Advanced Topics|Kotlin
 - [x] [Kotlin and PBKDF2 Hashing: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-pbkdf2-hashing-advanced-topics)
 - [x] [Kotlin and Input Validation: Advanced Techniques](/Knowledge-base/Kotlin/kotlin-and-input-validation-advanced-techniques)
