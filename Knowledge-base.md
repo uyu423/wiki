@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T21:32:26.519Z
+date: 2023-02-05T21:55:22.152Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -545,7 +545,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 043: Nested and Inner Classes in Kotlin: Creating Classes within Classes|Kotlin/Learning
 - [ ] 044: Anonymous Inner Classes in Kotlin: Creating Classes Without Names|Kotlin/Learning
 - [x] [045: Local Functions in Kotlin: Creating Functions Within Functions](/Knowledge-base/Kotlin/Learning/045-local-functions-in-kotlin-creating-functions-within-functions)
-- [ ] 046: SAM (Single Abstract Method) Interfaces in Kotlin: Converting Java Interfaces to Kotlin Interfaces|Kotlin/Learning
+- [x] [046: SAM (Single Abstract Method) Interfaces in Kotlin: Converting Java Interfaces to Kotlin Interfaces](/Knowledge-base/Kotlin/Learning/046-sam-single-abstract-method-interfaces-in-kotlin-converting-java-interfaces-to-kotlin-interfaces)
 - [ ] 047: Late-initialized Properties in Kotlin: Initializing Properties Lazy and Safe|Kotlin/Learning
 - [x] [048: The Elvis Operator in Kotlin: Dealing with Null Values in a Compact Way](/Knowledge-base/Kotlin/Learning/048-the-elvis-operator-in-kotlin-dealing-with-null-values-in-a-compact-way)
 - [ ] 049: Higher-Order Functions and Lambdas in Kotlin: Understanding Closures and Function Types|Kotlin/Learning
