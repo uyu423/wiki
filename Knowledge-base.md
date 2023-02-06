@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T21:32:47.492Z
+date: 2023-02-06T21:57:29.791Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1771,7 +1771,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Square, Inc.|Dictionary/Company
 - [x] [Slack Technologies, Inc.](/Knowledge-base/Dictionary/Company/slack-technologies-inc-)
 - [ ] Zoom Video Communications, Inc.|Dictionary/Company
-- [ ] DocuSign, Inc.|Dictionary/Company
+- [x] [DocuSign, Inc.](/Knowledge-base/Dictionary/Company/docusign-inc-)
 - [ ] Salesforce.com, Inc.|Dictionary/Company
 - [ ] Shopify Inc.|Dictionary/Company
 - [x] [Dropbox, Inc.](/Knowledge-base/Dictionary/Company/dropbox-inc-)
