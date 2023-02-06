@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T06:17:30.828Z
+date: 2023-02-06T06:32:24.814Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -287,7 +287,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot DevTools: Streamlining Development](/Knowledge-base/Spring-Boot/spring-boot-devtools-streamlining-development)
 - [x] [Spring Initializer: Jumpstarting Your Project](/Knowledge-base/Spring-Boot/spring-initializer-jumpstarting-your-project)
 - [x] [Spring Tool Suite: The Ultimate Development Environment](/Knowledge-base/Spring-Boot/spring-tool-suite-the-ultimate-development-environment)
-- [ ] The Benefits of Spring MVC|Spring-Boot
+- [x] [The Benefits of Spring MVC](/Knowledge-base/Spring-Boot/the-benefits-of-spring-mvc)
 - [x] [Reactive Programming with Spring WebFlux](/Knowledge-base/Spring-Boot/reactive-programming-with-spring-webflux)
 - [ ] Integrating Hibernate with Spring Boot|Spring-Boot
 - [ ] Building a CRUD Application with Spring Boot|Spring-Boot
