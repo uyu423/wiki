@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T01:32:39.519Z
+date: 2023-02-06T01:55:18.845Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -921,7 +921,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 037: Blockchain Technology|Software-Development/Learning
 - [ ] Software Development 038: Cryptography|Software-Development/Learning
 - [ ] Software Development 039: Cybersecurity|Software-Development/Learning
-- [ ] Software Development 040: Ethical Hacking|Software-Development/Learning
+- [x] [Software Development 040: Ethical Hacking](/Knowledge-base/Software-Development/Learning/software-development-040-ethical-hacking)
 - [ ] Software Development 041: Network Security|Software-Development/Learning
 - [ ] Software Development 042: Database Security|Software-Development/Learning
 - [ ] Software Development 043: Web Application Security|Software-Development/Learning
