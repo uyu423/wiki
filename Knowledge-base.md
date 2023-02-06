@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T12:32:59.484Z
+date: 2023-02-06T12:55:50.874Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -884,7 +884,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Dealing with Latency and Networking Issues in the Cloud](/Knowledge-base/Cloud/dealing-with-latency-and-networking-issues-in-the-cloud)
 - [x] [Implementing Disaster Recovery and Business Continuity on AWS and Azure](/Knowledge-base/Cloud/implementing-disaster-recovery-and-business-continuity-on-aws-and-azure)
 - [ ] Integrating Cloud Services with External APIs and Services|Cloud
-- [ ] Securing Data in the Cloud on AWS and Azure|Cloud
+- [x] [Securing Data in the Cloud on AWS and Azure](/Knowledge-base/Cloud/securing-data-in-the-cloud-on-aws-and-azure)
 - [x] [Continuous Integration and Continuous Deployment on AWS and Azure](/Knowledge-base/Cloud/continuous-integration-and-continuous-deployment-on-aws-and-azure)
 - [ ] Managing Application Life Cycle on AWS and Azure|Cloud
 - [x] [Optimizing Resource Usage and Cost on AWS and Azure](/Knowledge-base/Cloud/optimizing-resource-usage-and-cost-on-aws-and-azure)
