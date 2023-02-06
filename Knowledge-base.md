@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-05T23:56:47.200Z
+date: 2023-02-06T00:17:19.751Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1079,7 +1079,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Using Artificial Intelligence (AI) for Speech Recognition|Common
 - [ ] The Future of Artificial Intelligence (AI) in Transportation|Common
 - [ ] Building a Virtual Assistant with AI|Common
-- [ ] The Advantages of Using NoSQL Databases in Software Development|Common
+- [x] [The Advantages of Using NoSQL Databases in Software Development](/Knowledge-base/Common/the-advantages-of-using-nosql-databases-in-software-development)
 - [ ] How to Create an E-commerce Website with WooCommerce|Common
 - [ ] The Future of Artificial Intelligence (AI) in Manufacturing|Common
 - [x] [Using Artificial Intelligence (AI) for Predictive Maintenance](/Knowledge-base/Common/using-artificial-intelligence-ai-for-predictive-maintenance)
