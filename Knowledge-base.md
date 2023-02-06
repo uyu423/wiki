@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T02:32:17.569Z
+date: 2023-02-06T02:55:59.403Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1467,7 +1467,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] High-Level Programming Language|Dictionary
 - [ ] Low-Level Programming Language|Dictionary
 - [ ] Compiler|Dictionary
-- [ ] Interpreter|Dictionary
+- [x] [Interpreter](/Knowledge-base/Dictionary/interpreter)
 - [ ] Debugging|Dictionary
 - [x] [Integrated Development Environment](/Knowledge-base/Dictionary/integrated-development-environment)
 - [x] [Source Code](/Knowledge-base/Dictionary/source-code)
