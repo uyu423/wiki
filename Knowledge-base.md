@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T08:17:25.279Z
+date: 2023-02-06T08:33:30.236Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -290,7 +290,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Benefits of Spring MVC](/Knowledge-base/Spring-Boot/the-benefits-of-spring-mvc)
 - [x] [Reactive Programming with Spring WebFlux](/Knowledge-base/Spring-Boot/reactive-programming-with-spring-webflux)
 - [x] [Integrating Hibernate with Spring Boot](/Knowledge-base/Spring-Boot/integrating-hibernate-with-spring-boot)
-- [ ] Building a CRUD Application with Spring Boot|Spring-Boot
+- [x] [Building a CRUD Application with Spring Boot](/Knowledge-base/Spring-Boot/building-a-crud-application-with-spring-boot)
 - [ ] Spring Data JPA: Advanced Techniques|Spring-Boot
 - [x] [Spring Data MongoDB: Scaling for Big Data](/Knowledge-base/Spring-Boot/spring-data-mongodb-scaling-for-big-data)
 - [ ] Securing RESTful Services with Spring Security|Spring-Boot
