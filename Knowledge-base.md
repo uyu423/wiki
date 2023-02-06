@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T04:55:27.819Z
+date: 2023-02-06T05:18:13.766Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1824,7 +1824,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Coca-Cola Beverages (Japan)|Dictionary/Company
 - [ ] Fancl Corporation (Japan)|Dictionary/Company
 - [ ] Rakuten, Inc. (Japan)|Dictionary/Company
-- [ ] Bandai Namco Holdings (Japan)|Dictionary/Company
+- [x] [Bandai Namco Holdings (Japan)](/Knowledge-base/Dictionary/Company/bandai-namco-holdings-japan)
 - [x] [CyberAgent, Inc. (Japan)](/Knowledge-base/Dictionary/Company/cyberagent-inc-japan)
 - [ ] DeNA Co., Ltd. (Japan)|Dictionary/Company
 - [ ] GREE, Inc. (Japan)|Dictionary/Company
