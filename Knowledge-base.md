@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T07:55:38.186Z
+date: 2023-02-06T08:17:25.279Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1092,7 +1092,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Streams and Piping in Node.js: A Hands-On Guide](/Knowledge-base/Nodejs/streams-and-piping-in-node-js-a-hands-on-guide)
 - [ ] Mastering Node.js Event Loops for Asynchronous Operations|Nodejs
 - [x] [Leveraging Async Hooks in Node.js for Performance Optimization](/Knowledge-base/Nodejs/leveraging-async-hooks-in-node-js-for-performance-optimization)
-- [ ] Node.js Profiling with the Flame Graph|Nodejs
+- [x] [Node.js Profiling with the Flame Graph](/Knowledge-base/Nodejs/node-js-profiling-with-the-flame-graph)
 - [x] [Working with Node.js Workers for Concurrent Processing](/Knowledge-base/Nodejs/working-with-node-js-workers-for-concurrent-processing)
 - [x] [Using Node.js Workers and Clustering for Scalable Background Jobs](/Knowledge-base/Nodejs/using-node-js-workers-and-clustering-for-scalable-background-jobs)
 - [ ] Node.js and Microservices: Building a Robust Architecture|Nodejs
