@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T04:18:01.100Z
+date: 2023-02-06T04:32:34.474Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -249,7 +249,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [097: Deploying a Spring Boot Application with OpenShift](/Knowledge-base/Spring-Boot/Learning/097-deploying-a-spring-boot-application-with-openshift)
 - [x] [098: Integrating Spring Boot with Apache Hadoop for Big Data Processing](/Knowledge-base/Spring-Boot/Learning/098-integrating-spring-boot-with-apache-hadoop-for-big-data-processing)
 - [x] [099: Building a Scheduling System with Spring Boot and Quartz](/Knowledge-base/Spring-Boot/Learning/099-building-a-scheduling-system-with-spring-boot-and-quartz)
-- [ ] 100: Integrating Spring Boot with Apache Spark for Fast Data Processing|Spring-Boot/Learning
+- [x] [100: Integrating Spring Boot with Apache Spark for Fast Data Processing](/Knowledge-base/Spring-Boot/Learning/100-integrating-spring-boot-with-apache-spark-for-fast-data-processing)
 
 ## Spring Boot
 
