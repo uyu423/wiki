@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T11:32:29.044Z
+date: 2023-02-06T11:56:04.977Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -863,7 +863,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] AWS Transcribe: Automating Speech-to-Text Transcription in the Cloud|Cloud
 - [ ] AWS Translate: Translating Text Across Languages in the Cloud|Cloud
 - [x] [AWS Polly: Generating Speech from Text with Text-to-Speech Technology](/Knowledge-base/Cloud/aws-polly-generating-speech-from-text-with-text-to-speech-technology)
-- [ ] AWS Lightsail: Launching Simple Websites and Applications with a Fully Managed PaaS|Cloud
+- [x] [AWS Lightsail: Launching Simple Websites and Applications with a Fully Managed PaaS](/Knowledge-base/Cloud/aws-lightsail-launching-simple-websites-and-applications-with-a-fully-managed-paas)
 - [ ] AWS Fargate: Running Containers without Managing Infrastructure|Cloud
 - [ ] Debugging Cloud Services: Best Practices for AWS and Azure|Cloud
 - [ ] Scaling Your Cloud Services: Best Practices for AWS and Azure|Cloud
