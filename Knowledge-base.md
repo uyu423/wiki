@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T14:32:52.834Z
+date: 2023-02-06T15:17:33.013Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1099,7 +1099,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Future of Artificial Intelligence (AI) in Transportation|Common
 - [ ] Building a Virtual Assistant with AI|Common
 - [x] [The Advantages of Using NoSQL Databases in Software Development](/Knowledge-base/Common/the-advantages-of-using-nosql-databases-in-software-development)
-- [ ] How to Create an E-commerce Website with WooCommerce|Common
+- [x] [How to Create an E-commerce Website with WooCommerce](/Knowledge-base/Common/how-to-create-an-e-commerce-website-with-woocommerce)
 - [ ] The Future of Artificial Intelligence (AI) in Manufacturing|Common
 - [x] [Using Artificial Intelligence (AI) for Predictive Maintenance](/Knowledge-base/Common/using-artificial-intelligence-ai-for-predictive-maintenance)
 
