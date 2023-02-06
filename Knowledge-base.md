@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T15:56:09.636Z
+date: 2023-02-06T16:17:44.107Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1660,7 +1660,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Cross-Platform Development|Dictionary
 - [ ] React Native|Dictionary
 - [ ] Flutter|Dictionary
-- [ ] Xamarin|Dictionary
+- [x] [Xamarin](/Knowledge-base/Dictionary/xamarin)
 - [ ] Hybrid Mobile Development|Dictionary
 - [ ] Progressive Web Apps|Dictionary
 - [ ] Mobile Application Testing|Dictionary
