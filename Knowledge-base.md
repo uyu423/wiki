@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T03:55:20.797Z
+date: 2023-02-06T04:18:01.100Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1451,7 +1451,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Virtual Machine](/Knowledge-base/Dictionary/virtual-machine)
 - [x] [Hypervisor](/Knowledge-base/Dictionary/hypervisor)
 - [x] [Containers](/Knowledge-base/Dictionary/containers)
-- [ ] Docker|Dictionary
+- [x] [Docker](/Knowledge-base/Dictionary/docker)
 - [x] [Kubernetes](/Knowledge-base/Dictionary/kubernetes)
 - [x] [Open-Source Software](/Knowledge-base/Dictionary/open-source-software)
 - [x] [Proprietary Software](/Knowledge-base/Dictionary/proprietary-software)
