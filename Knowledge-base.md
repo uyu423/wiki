@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T07:17:50.950Z
+date: 2023-02-06T07:32:35.605Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -289,7 +289,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Tool Suite: The Ultimate Development Environment](/Knowledge-base/Spring-Boot/spring-tool-suite-the-ultimate-development-environment)
 - [x] [The Benefits of Spring MVC](/Knowledge-base/Spring-Boot/the-benefits-of-spring-mvc)
 - [x] [Reactive Programming with Spring WebFlux](/Knowledge-base/Spring-Boot/reactive-programming-with-spring-webflux)
-- [ ] Integrating Hibernate with Spring Boot|Spring-Boot
+- [x] [Integrating Hibernate with Spring Boot](/Knowledge-base/Spring-Boot/integrating-hibernate-with-spring-boot)
 - [ ] Building a CRUD Application with Spring Boot|Spring-Boot
 - [ ] Spring Data JPA: Advanced Techniques|Spring-Boot
 - [x] [Spring Data MongoDB: Scaling for Big Data](/Knowledge-base/Spring-Boot/spring-data-mongodb-scaling-for-big-data)
