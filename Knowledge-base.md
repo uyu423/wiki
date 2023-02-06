@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T18:55:23.478Z
+date: 2023-02-06T19:17:42.298Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -846,7 +846,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] AWS Certificate Manager: Managing SSL Certificates for Secure Web Applications|Cloud
 - [x] [AWS Elastic Load Balancer: Scaling and Load Balancing Applications in the Cloud](/Knowledge-base/Cloud/aws-elastic-load-balancer-scaling-and-load-balancing-applications-in-the-cloud)
 - [x] [AWS Direct Connect: Building High-Speed Network Connections to the Cloud](/Knowledge-base/Cloud/aws-direct-connect-building-high-speed-network-connections-to-the-cloud)
-- [ ] AWS Elastic IPs: Allocating Static IP Addresses for Cloud Resources|Cloud
+- [x] [AWS Elastic IPs: Allocating Static IP Addresses for Cloud Resources](/Knowledge-base/Cloud/aws-elastic-ips-allocating-static-ip-addresses-for-cloud-resources)
 - [x] [AWS Auto Scaling: Automatically Scaling Cloud Resources Based on Load](/Knowledge-base/Cloud/aws-auto-scaling-automatically-scaling-cloud-resources-based-on-load)
 - [ ] AWS CloudWatch: Monitoring and Debugging Cloud Applications|Cloud
 - [x] [AWS CloudTrail: Logging AWS API Calls for Compliance and Auditing](/Knowledge-base/Cloud/aws-cloudtrail-logging-aws-api-calls-for-compliance-and-auditing)
