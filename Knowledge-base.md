@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T13:32:41.641Z
+date: 2023-02-06T13:55:55.904Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -734,7 +734,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Setting up a Continuous Integration Pipeline with Jenkins and IntelliJ|Backend
 - [x] [Deploying Backend Applications with Kubernetes and Docker](/Knowledge-base/Backend/deploying-backend-applications-with-kubernetes-and-docker)
 - [ ] Exploring Node.js and TypeScript for Backend Development|Backend
-- [ ] Building REST APIs with Express.js|Backend
+- [x] [Building REST APIs with Express.js](/Knowledge-base/Backend/building-rest-apis-with-express-js)
 - [x] [Scaling Applications with ElastiCache and ElasticBeanstalk](/Knowledge-base/Backend/scaling-applications-with-elasticache-and-elasticbeanstalk)
 - [ ] Monitoring Backend Applications with CloudWatch|Backend
 - [ ] Building BFF API for Frontend-Backend Communication|Backend
