@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T20:32:22.148Z
+date: 2023-02-06T20:56:14.141Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1137,7 +1137,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Understanding Java's Concurrent Mark Sweep Garbage Collector](/Knowledge-base/Java/understanding-java-s-concurrent-mark-sweep-garbage-collector)
 - [ ] Working with the Java Virtual Machine Tool Interface (JVMTI)|Java
 - [ ] Java's Low-Pause Garbage Collectors: Understanding G1GC|Java
-- [ ] Exploring the Java Native Interface (JNI) for Interoperability|Java
+- [x] [Exploring the Java Native Interface (JNI) for Interoperability](/Knowledge-base/Java/exploring-the-java-native-interface-jni-for-interoperability)
 - [ ] Deep Dive into Java's System Class Loader|Java
 - [ ] Using Java's Service Provider Interface for Dynamic Configuration|Java
 - [ ] A Guide to Java's Non-Blocking I/O API|Java
