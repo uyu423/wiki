@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T02:17:22.328Z
+date: 2023-02-06T02:32:17.569Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -247,7 +247,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [095: Building a Machine Learning System with Spring Boot and TensorFlow](/Knowledge-base/Spring-Boot/Learning/095-building-a-machine-learning-system-with-spring-boot-and-tensorflow)
 - [x] [096: Implementing a Custom Error Handling System in Spring Boot](/Knowledge-base/Spring-Boot/Learning/096-implementing-a-custom-error-handling-system-in-spring-boot)
 - [x] [097: Deploying a Spring Boot Application with OpenShift](/Knowledge-base/Spring-Boot/Learning/097-deploying-a-spring-boot-application-with-openshift)
-- [ ] 098: Integrating Spring Boot with Apache Hadoop for Big Data Processing|Spring-Boot/Learning
+- [x] [098: Integrating Spring Boot with Apache Hadoop for Big Data Processing](/Knowledge-base/Spring-Boot/Learning/098-integrating-spring-boot-with-apache-hadoop-for-big-data-processing)
 - [ ] 099: Building a Scheduling System with Spring Boot and Quartz|Spring-Boot/Learning
 - [ ] 100: Integrating Spring Boot with Apache Spark for Fast Data Processing|Spring-Boot/Learning
 
