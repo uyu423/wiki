@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T18:32:25.654Z
+date: 2023-02-06T18:55:23.478Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1226,7 +1226,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Building Social Media Applications with TypeScript and Next.js|TypeScript
 - [ ] Using TypeScript with Knex.js for SQL Database Management|TypeScript
 - [x] [Building Virtual Reality Applications with TypeScript and A-Frame](/Knowledge-base/TypeScript/building-virtual-reality-applications-with-typescript-and-a-frame)
-- [ ] Integrating TypeScript with Google Maps API for Location-Based Services|TypeScript
+- [x] [Integrating TypeScript with Google Maps API for Location-Based Services](/Knowledge-base/TypeScript/integrating-typescript-with-google-maps-api-for-location-based-services)
 - [ ] Working with Binary Data in TypeScript and Node.js|TypeScript
 - [ ] Building Chatbots with TypeScript and Dialogflow|TypeScript
 - [x] [Using TypeScript with AWS DynamoDB for NoSQL Database Management](/Knowledge-base/TypeScript/using-typescript-with-aws-dynamodb-for-nosql-database-management)
