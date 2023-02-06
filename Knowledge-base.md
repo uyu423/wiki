@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T05:32:31.968Z
+date: 2023-02-06T05:56:45.959Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1394,7 +1394,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Data Encryption|Dictionary
 - [x] [Data Backup and Recovery](/Knowledge-base/Dictionary/data-backup-and-recovery)
 - [x] [Database Administration](/Knowledge-base/Dictionary/database-administration)
-- [ ] Database Management Systems|Dictionary
+- [x] [Database Management Systems](/Knowledge-base/Dictionary/database-management-systems)
 - [x] [SQL](/Knowledge-base/Dictionary/sql)
 - [x] [NoSQL](/Knowledge-base/Dictionary/nosql)
 - [ ] Relational Database|Dictionary
