@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T21:57:29.791Z
+date: 2023-02-06T22:17:40.707Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -585,7 +585,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 064: The Decorator Pattern in Kotlin: Enhancing Objects with Additional Behavior|Kotlin/Learning
 - [ ] 065: The Template Method Pattern in Kotlin: Defining a Common Algorithm with Custom Steps|Kotlin/Learning
 - [x] [066: The Prototype Pattern in Kotlin: Creating New Objects from Existing Ones](/Knowledge-base/Kotlin/Learning/066-the-prototype-pattern-in-kotlin-creating-new-objects-from-existing-ones)
-- [ ] 067: The Abstract Factory Pattern in Kotlin: Creating Objects Through Abstract Interfaces|Kotlin/Learning
+- [x] [067: The Abstract Factory Pattern in Kotlin: Creating Objects Through Abstract Interfaces](/Knowledge-base/Kotlin/Learning/067-the-abstract-factory-pattern-in-kotlin-creating-objects-through-abstract-interfaces)
 - [ ] 068: The Facade Pattern in Kotlin: Providing a Simple Interface to Complex Systems|Kotlin/Learning
 - [ ] 069: The Command Pattern in Kotlin: Encapsulating Invocations as Objects|Kotlin/Learning
 - [ ] 070: The State Pattern in Kotlin: Managing Object States with State Transitions|Kotlin/Learning
