@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T16:55:41.643Z
+date: 2023-02-06T17:17:57.308Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1846,7 +1846,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Bandai Namco Holdings (Japan)](/Knowledge-base/Dictionary/Company/bandai-namco-holdings-japan)
 - [x] [CyberAgent, Inc. (Japan)](/Knowledge-base/Dictionary/Company/cyberagent-inc-japan)
 - [ ] DeNA Co., Ltd. (Japan)|Dictionary/Company
-- [ ] GREE, Inc. (Japan)|Dictionary/Company
+- [x] [GREE, Inc. (Japan)](/Knowledge-base/Dictionary/Company/gree-inc-japan)
 - [ ] NHN Entertainment Corporation (South Korea)|Dictionary/Company
 - [ ] Com2uS Corporation (South Korea)|Dictionary/Company
 - [ ] Netmarble Corporation (South Korea)|Dictionary/Company
