@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T06:32:24.814Z
+date: 2023-02-06T06:56:00.482Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1697,7 +1697,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Physical Security|Dictionary
 - [ ] Incident Response|Dictionary
 - [x] [Disaster Recovery Plan](/Knowledge-base/Dictionary/disaster-recovery-plan)
-- [ ] Business Continuity Plan|Dictionary
+- [x] [Business Continuity Plan](/Knowledge-base/Dictionary/business-continuity-plan)
 - [ ] Waterfall|Dictionary
 - [ ] Hybrid Project Management|Dictionary
 - [x] [Project Planning](/Knowledge-base/Dictionary/project-planning)
