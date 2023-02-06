@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T08:55:32.226Z
+date: 2023-02-06T09:12:53.814Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -44,6 +44,24 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [setting-up-a-backend-system-with-spring-boot](/ko/Knowledge-base/Backend/setting-up-a-backend-system-with-spring-boot)
 - [x] [building-backend-systems-with-grpc](/ko/Knowledge-base/Backend/building-backend-systems-with-grpc)
 - [x] [building-resilient-backend-systems-with-circuit-breakers](/ko/Knowledge-base/Backend/building-resilient-backend-systems-with-circuit-breakers)
+
+## MySQL Learning
+
+- [ ] MySQL 01: Introduction to SQL and its importance for planners and marketers|MySQL-Basic/Learning
+- [ ] MySQL 02: Basic SQL syntax and operations: SELECT, FROM, WHERE, GROUP BY, and HAVING|MySQL-Basic/Learning
+- [ ] MySQL 03: Advanced SQL techniques: JOIN, UNION, and subqueries|MySQL-Basic/Learning
+- [ ] MySQL 04: Analytical functions in SQL: SUM, AVG, MIN, MAX, and COUNT|MySQL-Basic/Learning
+- [ ] MySQL 05: Data manipulation in SQL: INSERT, UPDATE, DELETE, and ALTER|MySQL-Basic/Learning
+- [ ] MySQL 06: Data aggregation and reporting in SQL: PIVOT and UNPIVOT|MySQL-Basic/Learning
+- [ ] MySQL 07: SQL for real-world business problems: Customer segmentation and product analysis|MySQL-Basic/Learning
+- [ ] MySQL 08: Best practices for optimizing SQL performance and scalability|MySQL-Basic/Learning
+- [ ] MySQL A Beginner's Guide for Planners and Marketers: 101|MySQL-Basic/Learning
+- [ ] MySQL Techniques for Effective Data Analysis|MySQL-Basic/Learning
+- [ ] MySQL Fundamentals for Non-Developers: How to Get the Most Out of Your Data|MySQL-Basic/Learning
+- [ ] MySQL and Data Manipulation: Best Practices for Planners and Marketers|MySQL-Basic/Learning
+- [ ] MySQL in the Real World: Case Studies for Customer Segmentation and Product Analysis|MySQL-Basic/Learning
+- [ ] MySQL Performance Optimization: Tips and Tricks for Non-Developers|MySQL-Basic/Learning
+- [ ] MySQL Analytics: Mastering Data Aggregation and Reporting Techniques|MySQL-Basic/Learning
 
 ## TensorFlow with Node.js Learning
 
