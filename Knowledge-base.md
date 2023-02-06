@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T09:17:19.805Z
+date: 2023-02-06T09:18:30.198Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -48,13 +48,14 @@ dateCreated: 2023-01-29T21:39:43.512Z
 ## MySQL Learning
 
 - [x] [MySQL 01: Introduction to SQL and its importance for planners and marketers](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-01-introduction-to-sql-and-its-importance-for-planners-and-marketers)
-- [ ] MySQL 02: Basic SQL syntax and operations: SELECT, FROM, WHERE, GROUP BY, and HAVING|mysql-for-planner-marketers/Learning
-- [ ] MySQL 03: Advanced SQL techniques: JOIN, UNION, and subqueries|mysql-for-planner-marketers/Learning
-- [ ] MySQL 04: Analytical functions in SQL: SUM, AVG, MIN, MAX, and COUNT|mysql-for-planner-marketers/Learning
-- [ ] MySQL 05: Data manipulation in SQL: INSERT, UPDATE, DELETE, and ALTER|mysql-for-planner-marketers/Learning
-- [ ] MySQL 06: Data aggregation and reporting in SQL: PIVOT and UNPIVOT|mysql-for-planner-marketers/Learning
-- [ ] MySQL 07: SQL for real-world business problems: Customer segmentation and product analysis|mysql-for-planner-marketers/Learning
-- [ ] MySQL 08: Best practices for optimizing SQL performance and scalability|mysql-for-planner-marketers/Learning
+- [ ] MySQL 02: Basic functions for installing MySQL Workbench and practicing SQL
+- [ ] MySQL 03: Basic SQL syntax and operations: SELECT, FROM, WHERE, GROUP BY, and HAVING|mysql-for-planner-marketers/Learning
+- [ ] MySQL 04: Advanced SQL techniques: JOIN, UNION, and subqueries|mysql-for-planner-marketers/Learning
+- [ ] MySQL 05: Analytical functions in SQL: SUM, AVG, MIN, MAX, and COUNT|mysql-for-planner-marketers/Learning
+- [ ] MySQL 06: Data manipulation in SQL: INSERT, UPDATE, DELETE, and ALTER|mysql-for-planner-marketers/Learning
+- [ ] MySQL 07: Data aggregation and reporting in SQL: PIVOT and UNPIVOT|mysql-for-planner-marketers/Learning
+- [ ] MySQL 08: SQL for real-world business problems: Customer segmentation and product analysis|mysql-for-planner-marketers/Learning
+- [ ] MySQL 09: Best practices for optimizing SQL performance and scalability|mysql-for-planner-marketers/Learning
 - [ ] MySQL A Beginner's Guide for Planners and Marketers: 101|mysql-for-planner-marketers/Learning
 - [ ] MySQL Techniques for Effective Data Analysis|mysql-for-planner-marketers/Learning
 - [ ] MySQL Fundamentals for Non-Developers: How to Get the Most Out of Your Data|mysql-for-planner-marketers/Learning
