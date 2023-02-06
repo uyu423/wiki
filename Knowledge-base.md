@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T15:32:48.818Z
+date: 2023-02-06T15:56:09.636Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1638,7 +1638,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Rust](/Knowledge-base/Dictionary/rust)
 - [ ] Database Development|Dictionary
 - [x] [MySQL](/Knowledge-base/Dictionary/mysql)
-- [ ] PostgreSQL|Dictionary
+- [x] [PostgreSQL](/Knowledge-base/Dictionary/postgresql)
 - [x] [MongoDB](/Knowledge-base/Dictionary/mongodb)
 - [x] [Cassandra](/Knowledge-base/Dictionary/cassandra)
 - [ ] Redis|Dictionary
