@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T11:56:04.977Z
+date: 2023-02-06T12:32:59.484Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -52,7 +52,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [MySQL 03: Basic SQL syntax and operations: SELECT, FROM, WHERE, GROUP BY, and HAVING](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-03-basic-sql-syntax-and-operations-select-from-where-group-by-and-having)
 - [x] [MySQL 04: Advanced SQL techniques: JOIN, UNION, and subqueries](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-04-advanced-sql-techniques-join-union-and-subqueries)
 - [x] [MySQL 05: Analytical functions in SQL: SUM, AVG, MIN, MAX, and COUNT](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-05-analytical-functions-in-sql-sum-avg-min-max-and-count)
-- [ ] MySQL 06: Data manipulation in SQL: INSERT, UPDATE, DELETE, and ALTER|mysql-for-planner-marketers/Learning
+- [x] [MySQL 06: Data manipulation in SQL: INSERT, UPDATE, DELETE, and ALTER](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-06-data-manipulation-in-sql-insert-update-delete-and-alter)
 - [ ] MySQL 07: Data aggregation and reporting in SQL: PIVOT and UNPIVOT|mysql-for-planner-marketers/Learning
 - [ ] MySQL 08: SQL for real-world business problems: Customer segmentation and product analysis|mysql-for-planner-marketers/Learning
 - [ ] MySQL 09: Best practices for optimizing SQL performance and scalability|mysql-for-planner-marketers/Learning
