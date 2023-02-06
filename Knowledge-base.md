@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T03:32:33.132Z
+date: 2023-02-06T03:55:20.797Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -826,7 +826,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AWS WAF: Securing Web Applications with Firewall Rules](/Knowledge-base/Cloud/aws-waf-securing-web-applications-with-firewall-rules)
 - [ ] AWS Certificate Manager: Managing SSL Certificates for Secure Web Applications|Cloud
 - [x] [AWS Elastic Load Balancer: Scaling and Load Balancing Applications in the Cloud](/Knowledge-base/Cloud/aws-elastic-load-balancer-scaling-and-load-balancing-applications-in-the-cloud)
-- [ ] AWS Direct Connect: Building High-Speed Network Connections to the Cloud|Cloud
+- [x] [AWS Direct Connect: Building High-Speed Network Connections to the Cloud](/Knowledge-base/Cloud/aws-direct-connect-building-high-speed-network-connections-to-the-cloud)
 - [ ] AWS Elastic IPs: Allocating Static IP Addresses for Cloud Resources|Cloud
 - [x] [AWS Auto Scaling: Automatically Scaling Cloud Resources Based on Load](/Knowledge-base/Cloud/aws-auto-scaling-automatically-scaling-cloud-resources-based-on-load)
 - [ ] AWS CloudWatch: Monitoring and Debugging Cloud Applications|Cloud
