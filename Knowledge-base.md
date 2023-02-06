@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T22:17:40.707Z
+date: 2023-02-06T22:33:42.515Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -62,7 +62,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [MySQL and Data Manipulation: Best Practices for Planners and Marketers](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-and-data-manipulation-best-practices-for-planners-and-marketers)
 - [x] [MySQL in the Real World: Case Studies for Customer Segmentation and Product Analysis](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-in-the-real-world-case-studies-for-customer-segmentation-and-product-analysis)
 - [x] [MySQL Performance Optimization: Tips and Tricks for Non-Developers](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-performance-optimization-tips-and-tricks-for-non-developers)
-- [ ] MySQL Analytics: Mastering Data Aggregation and Reporting Techniques|mysql-for-planner-marketers/Learning
+- [x] [MySQL Analytics: Mastering Data Aggregation and Reporting Techniques](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-analytics-mastering-data-aggregation-and-reporting-techniques)
 
 ## TensorFlow with Node.js Learning
 
