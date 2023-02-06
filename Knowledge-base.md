@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T01:55:18.845Z
+date: 2023-02-06T02:17:22.328Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -997,7 +997,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Introduction to Cybersecurity and Ethical Hacking](/Knowledge-base/Common/introduction-to-cybersecurity-and-ethical-hacking)
 - [ ] The Future of Virtual Reality and Augmented Reality|Common
 - [ ] Data Visualization with D3.js and Tableau|Common
-- [ ] The Benefits of Docker and Containerization|Common
+- [x] [The Benefits of Docker and Containerization](/Knowledge-base/Common/the-benefits-of-docker-and-containerization)
 - [ ] The Evolution of Big Data and Hadoop|Common
 - [ ] How to Implement a DevOps Workflow|Common
 - [x] [The Power of Parallel Processing and GPU Computing](/Knowledge-base/Common/the-power-of-parallel-processing-and-gpu-computing)
