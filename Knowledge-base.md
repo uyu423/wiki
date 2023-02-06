@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T10:20:15.500Z
+date: 2023-02-06T10:32:19.786Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -50,7 +50,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [MySQL 01: Introduction to SQL and its importance for planners and marketers](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-01-introduction-to-sql-and-its-importance-for-planners-and-marketers)
 - [x] [MySQL 02: Basic functions for installing MySQL Workbench and practicing SQL](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-02-basic-functions-for-installing-mysql-workbench-and-practicing-sql)
 - [x] [MySQL 03: Basic SQL syntax and operations: SELECT, FROM, WHERE, GROUP BY, and HAVING](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-03-basic-sql-syntax-and-operations-select-from-where-group-by-and-having)
-- [ ] MySQL 04: Advanced SQL techniques: JOIN, UNION, and subqueries|mysql-for-planner-marketers/Learning
+- [x] [MySQL 04: Advanced SQL techniques: JOIN, UNION, and subqueries](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-04-advanced-sql-techniques-join-union-and-subqueries)
 - [ ] MySQL 05: Analytical functions in SQL: SUM, AVG, MIN, MAX, and COUNT|mysql-for-planner-marketers/Learning
 - [ ] MySQL 06: Data manipulation in SQL: INSERT, UPDATE, DELETE, and ALTER|mysql-for-planner-marketers/Learning
 - [ ] MySQL 07: Data aggregation and reporting in SQL: PIVOT and UNPIVOT|mysql-for-planner-marketers/Learning
