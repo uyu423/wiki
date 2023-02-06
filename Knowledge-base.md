@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T12:55:50.874Z
+date: 2023-02-06T13:18:00.664Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -618,7 +618,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [097: Game Development in Kotlin: Building Games with Kotlin and LibGDX](/Knowledge-base/Kotlin/Learning/097-game-development-in-kotlin-building-games-with-kotlin-and-libgdx)
 - [ ] 098: Database Access in Kotlin: Connecting to and Querying Databases with Kotlin|Kotlin/Learning
 - [ ] 099: Network Programming in Kotlin: Making Network Requests and Building Network-based Applications|Kotlin/Learning
-- [ ] 100: Advanced Type System in Kotlin: Exploring the Advanced Features of the Kotlin Type System.|Kotlin/Learning
+- [x] [100: Advanced Type System in Kotlin: Exploring the Advanced Features of the Kotlin Type System.](/Knowledge-base/Kotlin/Learning/100-advanced-type-system-in-kotlin-exploring-the-advanced-features-of-the-kotlin-type-system-)
 
 ## Kotlin
 
