@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T16:17:44.107Z
+date: 2023-02-06T16:34:13.502Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -56,7 +56,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [MySQL 07: Data aggregation and reporting in SQL: PIVOT and UNPIVOT](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-07-data-aggregation-and-reporting-in-sql-pivot-and-unpivot)
 - [x] [MySQL 08: SQL for real-world business problems: Customer segmentation and product analysis](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-08-sql-for-real-world-business-problems-customer-segmentation-and-product-analysis)
 - [x] [MySQL 09: Best practices for optimizing SQL performance and scalability](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-09-best-practices-for-optimizing-sql-performance-and-scalability)
-- [ ] MySQL A Beginner's Guide for Planners and Marketers: 101|mysql-for-planner-marketers/Learning
+- [x] [MySQL A Beginner's Guide for Planners and Marketers: 101](/Knowledge-base/mysql-for-planner-marketers/Learning/mysql-a-beginner-s-guide-for-planners-and-marketers-101)
 - [ ] MySQL Techniques for Effective Data Analysis|mysql-for-planner-marketers/Learning
 - [ ] MySQL Fundamentals for Non-Developers: How to Get the Most Out of Your Data|mysql-for-planner-marketers/Learning
 - [ ] MySQL and Data Manipulation: Best Practices for Planners and Marketers|mysql-for-planner-marketers/Learning
