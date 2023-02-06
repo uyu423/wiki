@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T19:55:46.731Z
+date: 2023-02-06T20:19:03.332Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1283,7 +1283,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Beautiful Soup|Dictionary
 - [ ] Requests|Dictionary
 - [ ] Scrapy|Dictionary
-- [ ] Selenium|Dictionary
+- [x] [Selenium](/Knowledge-base/Dictionary/selenium)
 - [ ] PyAutoGUI|Dictionary
 - [x] [PyWin32](/Knowledge-base/Dictionary/pywin32)
 - [ ] PyInstaller|Dictionary
