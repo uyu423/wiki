@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T22:55:25.556Z
+date: 2023-02-06T23:17:46.807Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -310,7 +310,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Reactive Programming with Spring WebFlux](/Knowledge-base/Spring-Boot/reactive-programming-with-spring-webflux)
 - [x] [Integrating Hibernate with Spring Boot](/Knowledge-base/Spring-Boot/integrating-hibernate-with-spring-boot)
 - [x] [Building a CRUD Application with Spring Boot](/Knowledge-base/Spring-Boot/building-a-crud-application-with-spring-boot)
-- [ ] Spring Data JPA: Advanced Techniques|Spring-Boot
+- [x] [Spring Data JPA: Advanced Techniques](/Knowledge-base/Spring-Boot/spring-data-jpa-advanced-techniques)
 - [x] [Spring Data MongoDB: Scaling for Big Data](/Knowledge-base/Spring-Boot/spring-data-mongodb-scaling-for-big-data)
 - [ ] Securing RESTful Services with Spring Security|Spring-Boot
 - [ ] Aspect-Oriented Programming with Spring AOP|Spring-Boot
