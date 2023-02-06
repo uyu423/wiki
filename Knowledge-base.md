@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-06T19:33:04.799Z
+date: 2023-02-06T19:55:46.731Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1429,7 +1429,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Intrusion Detection System|Dictionary
 - [ ] Intrusion Prevention System|Dictionary
 - [ ] Virtual Private Network|Dictionary
-- [ ] Public Key Infrastructure|Dictionary
+- [x] [Public Key Infrastructure](/Knowledge-base/Dictionary/public-key-infrastructure)
 - [ ] Certificate Authority|Dictionary
 - [x] [Encryption](/Knowledge-base/Dictionary/encryption)
 - [ ] Digital Signature|Dictionary
