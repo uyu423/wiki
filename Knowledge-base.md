@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T18:32:50.632Z
+date: 2023-02-07T18:55:56.621Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1935,7 +1935,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] John von Neumann (Computer Science Pioneer)|Dictionary/Person
 - [ ] Edsger W. Dijkstra (Computer Science Pioneer)|Dictionary/Person
 - [ ] John Backus (FORTRAN Creator)|Dictionary/Person
-- [ ] Grace Hopper (COBOL Creator)|Dictionary/Person
+- [x] [Grace Hopper (COBOL Creator)](/Knowledge-base/Dictionary/Person/grace-hopper-cobol-creator)
 - [ ] Donald Knuth (Computer Science Author)|Dictionary/Person
 - [ ] Richard Hamming (Error-Correcting Code Creator)|Dictionary/Person
 - [ ] Michael Stonebraker (Database Management System Pioneer)|Dictionary/Person
