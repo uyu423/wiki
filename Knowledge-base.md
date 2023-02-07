@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T03:56:58.951Z
+date: 2023-02-07T04:19:06.159Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1286,7 +1286,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Selenium](/Knowledge-base/Dictionary/selenium)
 - [ ] PyAutoGUI|Dictionary
 - [x] [PyWin32](/Knowledge-base/Dictionary/pywin32)
-- [ ] PyInstaller|Dictionary
+- [x] [PyInstaller](/Knowledge-base/Dictionary/pyinstaller)
 - [ ] PyTorch Geometric|Dictionary
 - [x] [Canonical Ltd](/Knowledge-base/Dictionary/canonical-ltd)
 - [x] [Redhat](/Knowledge-base/Dictionary/redhat)
