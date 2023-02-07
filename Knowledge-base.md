@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T09:32:37.746Z
+date: 2023-02-07T09:55:49.924Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -664,7 +664,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and PBKDF2 Hashing: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-pbkdf2-hashing-advanced-topics)
 - [x] [Kotlin and Input Validation: Advanced Techniques](/Knowledge-base/Kotlin/kotlin-and-input-validation-advanced-techniques)
 - [x] [Kotlin Testing: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-testing-advanced-topics-and-best-practices)
-- [ ] Kotlin and Continuous Deployment: Advanced Topics and Best Practices|Kotlin
+- [x] [Kotlin and Continuous Deployment: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-continuous-deployment-advanced-topics-and-best-practices)
 - [ ] Kotlin and the Cloud: Advanced Topics and Best Practices|Kotlin
 - [ ] Kotlin REST API Design: Best Practices|Kotlin
 - [x] [Kotlin and Web Development: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-web-development-advanced-topics-and-best-practices)
