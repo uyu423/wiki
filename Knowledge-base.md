@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T00:55:23.596Z
+date: 2023-02-07T01:17:34.571Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -613,7 +613,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 092: The IntelliJ IDEA in Kotlin: Developing Kotlin Code with the IntelliJ IDEA IDE|Kotlin/Learning
 - [ ] 093: Coroutines in Kotlin: Writing Asynchronous and Non-Blocking Code with Coroutines|Kotlin/Learning
 - [ ] 094: Kotlin on the Server: Building Server-Side Applications with Kotlin|Kotlin/Learning
-- [ ] 095: Web Development in Kotlin: Building Web Applications with Kotlin and Spring|Kotlin/Learning
+- [x] [095: Web Development in Kotlin: Building Web Applications with Kotlin and Spring](/Knowledge-base/Kotlin/Learning/095-web-development-in-kotlin-building-web-applications-with-kotlin-and-spring)
 - [ ] 096: Mobile Development in Kotlin: Building Mobile Apps with Kotlin and Android/iOS|Kotlin/Learning
 - [x] [097: Game Development in Kotlin: Building Games with Kotlin and LibGDX](/Knowledge-base/Kotlin/Learning/097-game-development-in-kotlin-building-games-with-kotlin-and-libgdx)
 - [ ] 098: Database Access in Kotlin: Connecting to and Querying Databases with Kotlin|Kotlin/Learning
