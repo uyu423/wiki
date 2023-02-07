@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T03:17:49.103Z
+date: 2023-02-07T03:32:46.374Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -317,7 +317,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Deploying Spring Boot Applications to the Cloud](/Knowledge-base/Spring-Boot/deploying-spring-boot-applications-to-the-cloud)
 - [x] [Monitoring with Spring Boot Actuator](/Knowledge-base/Spring-Boot/monitoring-with-spring-boot-actuator)
 - [x] [Debugging with Spring Boot DevTools](/Knowledge-base/Spring-Boot/debugging-with-spring-boot-devtools)
-- [ ] Caching with Spring Boot: A Comprehensive Guide|Spring-Boot
+- [x] [Caching with Spring Boot: A Comprehensive Guide](/Knowledge-base/Spring-Boot/caching-with-spring-boot-a-comprehensive-guide)
 - [x] [Exception Handling with Spring Boot](/Knowledge-base/Spring-Boot/exception-handling-with-spring-boot)
 - [ ] Validating Input with Spring Boot|Spring-Boot
 - [ ] Testing with Spring Boot: Best Practices and Tools|Spring-Boot
