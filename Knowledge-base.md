@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T00:17:24.316Z
+date: 2023-02-07T00:32:38.597Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -313,7 +313,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Data JPA: Advanced Techniques](/Knowledge-base/Spring-Boot/spring-data-jpa-advanced-techniques)
 - [x] [Spring Data MongoDB: Scaling for Big Data](/Knowledge-base/Spring-Boot/spring-data-mongodb-scaling-for-big-data)
 - [x] [Securing RESTful Services with Spring Security](/Knowledge-base/Spring-Boot/securing-restful-services-with-spring-security)
-- [ ] Aspect-Oriented Programming with Spring AOP|Spring-Boot
+- [x] [Aspect-Oriented Programming with Spring AOP](/Knowledge-base/Spring-Boot/aspect-oriented-programming-with-spring-aop)
 - [x] [Deploying Spring Boot Applications to the Cloud](/Knowledge-base/Spring-Boot/deploying-spring-boot-applications-to-the-cloud)
 - [ ] Monitoring with Spring Boot Actuator|Spring-Boot
 - [ ] Debugging with Spring Boot DevTools|Spring-Boot
