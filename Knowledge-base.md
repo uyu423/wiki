@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T06:19:06.576Z
+date: 2023-02-07T06:32:19.982Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -322,7 +322,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Exception Handling with Spring Boot](/Knowledge-base/Spring-Boot/exception-handling-with-spring-boot)
 - [x] [Validating Input with Spring Boot](/Knowledge-base/Spring-Boot/validating-input-with-spring-boot)
 - [x] [Testing with Spring Boot: Best Practices and Tools](/Knowledge-base/Spring-Boot/testing-with-spring-boot-best-practices-and-tools)
-- [ ] Spring Boot Actuator Endpoints|Spring-Boot
+- [x] [Spring Boot Actuator Endpoints](/Knowledge-base/Spring-Boot/spring-boot-actuator-endpoints)
 - [x] [Spring Boot Configuration Properties](/Knowledge-base/Spring-Boot/spring-boot-configuration-properties)
 - [x] [Spring Boot Logging](/Knowledge-base/Spring-Boot/spring-boot-logging)
 - [x] [Spring Boot CLI Command Line Interface](/Knowledge-base/Spring-Boot/spring-boot-cli-command-line-interface)
