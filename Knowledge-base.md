@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T02:32:35.905Z
+date: 2023-02-07T02:55:55.773Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -329,7 +329,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot Starter Project Templates](/Knowledge-base/Spring-Boot/spring-boot-starter-project-templates)
 - [ ] Spring Boot Testing Best Practices|Spring-Boot
 - [ ] Spring Boot RESTful Services|Spring-Boot
-- [ ] Spring Boot and NoSQL Databases|Spring-Boot
+- [x] [Spring Boot and NoSQL Databases](/Knowledge-base/Spring-Boot/spring-boot-and-nosql-databases)
 - [ ] Spring Boot with MongoDB|Spring-Boot
 - [ ] Spring Boot with Redis|Spring-Boot
 - [x] [Spring Boot and Cloud Platforms](/Knowledge-base/Spring-Boot/spring-boot-and-cloud-platforms)
