@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T20:32:26.894Z
+date: 2023-02-07T20:56:13.229Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -911,7 +911,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 007: HTML, CSS and JavaScript|Software-Development/Learning
 - [ ] Software Development 008: Responsive Web Design|Software-Development/Learning
 - [ ] Software Development 009: Server-Side Development with PHP|Software-Development/Learning
-- [ ] Software Development 010: Ruby on Rails|Software-Development/Learning
+- [x] [Software Development 010: Ruby on Rails](/Knowledge-base/Software-Development/Learning/software-development-010-ruby-on-rails)
 - [ ] Software Development 011: Node.js and Express.js|Software-Development/Learning
 - [ ] Software Development 012: Single Page Application (SPA) Development|Software-Development/Learning
 - [x] [Software Development 013: Cross-Platform Mobile Development with React Native](/Knowledge-base/Software-Development/Learning/software-development-013-cross-platform-mobile-development-with-react-native)
