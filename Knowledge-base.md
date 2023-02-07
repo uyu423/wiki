@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T14:55:29.696Z
+date: 2023-02-07T15:18:30.002Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1894,7 +1894,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Pradeep Sindhu (Juniper Networks Co-founder)|Dictionary/Person
 - [ ] Andy Bechtolsheim (Sun Microsystems Co-founder)|Dictionary/Person
 - [ ] Ken Thompson (UNIX Developer)|Dictionary/Person
-- [ ] Dennis Ritchie (UNIX Developer)|Dictionary/Person
+- [x] [Dennis Ritchie (UNIX Developer)](/Knowledge-base/Dictionary/Person/dennis-ritchie-unix-developer)
 - [x] [Bjarne Stroustrup (C++ Creator)](/Knowledge-base/Dictionary/Person/bjarne-stroustrup-c-creator)
 - [ ] Guido van Rossum (Python Creator)|Dictionary/Person
 - [ ] James Gosling (Java Creator)|Dictionary/Person
