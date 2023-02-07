@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T12:55:38.968Z
+date: 2023-02-07T13:17:47.919Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1519,7 +1519,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Waterfall Model](/Knowledge-base/Dictionary/waterfall-model)
 - [x] [Spiral Model](/Knowledge-base/Dictionary/spiral-model)
 - [x] [Prototype Model](/Knowledge-base/Dictionary/prototype-model)
-- [ ] Development Life Cycle|Dictionary
+- [x] [Development Life Cycle](/Knowledge-base/Dictionary/development-life-cycle)
 - [ ] Software Requirements|Dictionary
 - [ ] User Stories|Dictionary
 - [ ] User Story Mapping|Dictionary
