@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T19:56:03.171Z
+date: 2023-02-07T20:18:18.905Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1674,7 +1674,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Marketing|Dictionary
 - [ ] Digital Marketing|Dictionary
 - [ ] Search Engine Optimization|Dictionary
-- [ ] Pay-Per-Click Advertising|Dictionary
+- [x] [Pay-Per-Click Advertising](/Knowledge-base/Dictionary/pay-per-click-advertising)
 - [ ] Social Media Marketing|Dictionary
 - [x] [Content Marketing](/Knowledge-base/Dictionary/content-marketing)
 - [ ] Email Marketing|Dictionary
