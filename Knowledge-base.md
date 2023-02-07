@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T20:18:18.905Z
+date: 2023-02-07T20:32:26.894Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -351,7 +351,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot XML Processing with JAXB](/Knowledge-base/Spring-Boot/spring-boot-xml-processing-with-jaxb)
 - [x] [Spring Boot RESTful Services with Swagger](/Knowledge-base/Spring-Boot/spring-boot-restful-services-with-swagger)
 - [x] [Spring Boot Web Services with SOAP](/Knowledge-base/Spring-Boot/spring-boot-web-services-with-soap)
-- [ ] Spring Boot DevTools for Rapid Development|Spring-Boot
+- [x] [Spring Boot DevTools for Rapid Development](/Knowledge-base/Spring-Boot/spring-boot-devtools-for-rapid-development)
 - [ ] Spring Boot Initializer for Project Creation|Spring-Boot
 - [ ] Spring Boot Tool Suite for Integrated Development Environment|Spring-Boot
 - [ ] Spring Boot and Hibernate Transactions|Spring-Boot
