@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T14:17:28.511Z
+date: 2023-02-07T14:32:39.432Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -337,7 +337,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot Deployment on Cloud Foundry](/Knowledge-base/Spring-Boot/spring-boot-deployment-on-cloud-foundry)
 - [x] [Spring Boot Deployment on Heroku](/Knowledge-base/Spring-Boot/spring-boot-deployment-on-heroku)
 - [x] [Spring Boot Deployment on AWS](/Knowledge-base/Spring-Boot/spring-boot-deployment-on-aws)
-- [ ] Spring Boot Monitoring with Micrometer|Spring-Boot
+- [x] [Spring Boot Monitoring with Micrometer](/Knowledge-base/Spring-Boot/spring-boot-monitoring-with-micrometer)
 - [ ] Spring Boot Monitoring with Actuator|Spring-Boot
 - [x] [Spring Boot Debugging with Remote Debugging](/Knowledge-base/Spring-Boot/spring-boot-debugging-with-remote-debugging)
 - [x] [Spring Boot Profiling with VisualVM](/Knowledge-base/Spring-Boot/spring-boot-profiling-with-visualvm)
