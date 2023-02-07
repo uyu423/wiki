@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T05:55:59.624Z
+date: 2023-02-07T06:19:06.576Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1785,7 +1785,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Intel Corporation|Dictionary/Company
 - [ ] Micron Technology, Inc.|Dictionary/Company
 - [ ] Western Digital Corporation|Dictionary/Company
-- [ ] Seagate Technology PLC|Dictionary/Company
+- [x] [Seagate Technology PLC](/Knowledge-base/Dictionary/Company/seagate-technology-plc)
 - [ ] Toshiba Corporation|Dictionary/Company
 - [ ] SanDisk Corporation|Dictionary/Company
 - [ ] Kingston Technology Corporation|Dictionary/Company
