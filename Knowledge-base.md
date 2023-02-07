@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T20:56:13.229Z
+date: 2023-02-07T21:17:22.483Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -461,7 +461,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 015: Error handling in Nest.js|Nest-js/Learning
 - [ ] 016: Debugging Nest.js applications|Nest-js/Learning
 - [ ] 017: Testing Nest.js applications|Nest-js/Learning
-- [ ] 018: Creating reusable components in Nest.js|Nest-js/Learning
+- [x] [018: Creating reusable components in Nest.js](/Knowledge-base/Nest-js/Learning/018-creating-reusable-components-in-nest-js)
 - [x] [019: Modules and module organization in Nest.js](/Knowledge-base/Nest-js/Learning/019-modules-and-module-organization-in-nest-js)
 - [ ] 020: Using pipes for data transformation in Nest.js|Nest-js/Learning
 - [ ] 021: Creating custom pipes in Nest.js|Nest-js/Learning
