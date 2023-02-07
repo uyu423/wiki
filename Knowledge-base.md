@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T07:32:38.528Z
+date: 2023-02-07T07:55:53.141Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1868,7 +1868,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Jeff Bezos (Amazon Founder and CEO)|Dictionary/Person
 - [ ] Elon Musk (Tesla CEO)|Dictionary/Person
 - [x] [Jack Ma (Alibaba Founder)](/Knowledge-base/Dictionary/Person/jack-ma-alibaba-founder)
-- [ ] Tim Cook (Apple CEO)|Dictionary/Person
+- [x] [Tim Cook (Apple CEO)](/Knowledge-base/Dictionary/Person/tim-cook-apple-ceo)
 - [ ] Linus Torvalds (Linux Creator)|Dictionary/Person
 - [ ] Richard Stallman (Free Software Movement Founder)|Dictionary/Person
 - [x] [Eric Schmidt (Google Chairman)](/Knowledge-base/Dictionary/Person/eric-schmidt-google-chairman)
