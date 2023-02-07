@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T01:58:26.703Z
+date: 2023-02-07T02:19:15.114Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1118,7 +1118,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Node.js, GraphQL and Apollo: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-graphql-and-apollo-a-hands-on-guide)
 - [ ] Working with Node.js and WebSockets for Real-Time Communication|Nodejs
 - [x] [Node.js and Serverless Computing: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-serverless-computing-a-hands-on-guide)
-- [ ] Building RESTful APIs with Node.js and Express|Nodejs
+- [x] [Building RESTful APIs with Node.js and Express](/Knowledge-base/Nodejs/building-restful-apis-with-node-js-and-express)
 - [ ] Node.js and NoSQL Databases: A Hands-On Guide|Nodejs
 - [ ] Node.js and Redis: A Hands-On Guide to Caching and Session Management|Nodejs
 - [x] [Node.js and MongoDB: A Hands-On Guide to Data Persistence](/Knowledge-base/Nodejs/node-js-and-mongodb-a-hands-on-guide-to-data-persistence)
