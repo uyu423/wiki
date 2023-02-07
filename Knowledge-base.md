@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T16:56:27.195Z
+date: 2023-02-07T17:32:33.606Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -343,7 +343,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot Profiling with VisualVM](/Knowledge-base/Spring-Boot/spring-boot-profiling-with-visualvm)
 - [x] [Spring Boot Caching with EhCache](/Knowledge-base/Spring-Boot/spring-boot-caching-with-ehcache)
 - [x] [Spring Boot Caching with Hazelcast](/Knowledge-base/Spring-Boot/spring-boot-caching-with-hazelcast)
-- [ ] Spring Boot Exception Handling with ControllerAdvice|Spring-Boot
+- [x] [Spring Boot Exception Handling with ControllerAdvice](/Knowledge-base/Spring-Boot/spring-boot-exception-handling-with-controlleradvice)
 - [ ] Spring Boot Validation with Bean Validation API|Spring-Boot
 - [ ] Spring Boot Testing with JUnit|Spring-Boot
 - [x] [Spring Boot Testing with Mockito](/Knowledge-base/Spring-Boot/spring-boot-testing-with-mockito)
