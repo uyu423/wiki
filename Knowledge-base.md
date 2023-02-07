@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T06:32:19.982Z
+date: 2023-02-07T06:55:47.709Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -592,7 +592,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 070: The State Pattern in Kotlin: Managing Object States with State Transitions|Kotlin/Learning
 - [ ] 071: The Chain of Responsibility Pattern in Kotlin: Delegating Requests Through a Chain of Objects|Kotlin/Learning
 - [x] [072: The Mediator Pattern in Kotlin: Encapsulating Object Communication](/Knowledge-base/Kotlin/Learning/072-the-mediator-pattern-in-kotlin-encapsulating-object-communication)
-- [ ] 073: The Flyweight Pattern in Kotlin: Sharing Object Instances to Save Memory|Kotlin/Learning
+- [x] [073: The Flyweight Pattern in Kotlin: Sharing Object Instances to Save Memory](/Knowledge-base/Kotlin/Learning/073-the-flyweight-pattern-in-kotlin-sharing-object-instances-to-save-memory)
 - [x] [074: The Proxy Pattern in Kotlin: Providing a Surrogate or Placeholder for Another Object](/Knowledge-base/Kotlin/Learning/074-the-proxy-pattern-in-kotlin-providing-a-surrogate-or-placeholder-for-another-object)
 - [x] [075: Dynamic Programming in Kotlin: Optimizing Recursive Solutions with Memoization](/Knowledge-base/Kotlin/Learning/075-dynamic-programming-in-kotlin-optimizing-recursive-solutions-with-memoization)
 - [ ] 076: The Null Object Pattern in Kotlin: Providing a Non-Null Object in Place of Null|Kotlin/Learning
