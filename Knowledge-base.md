@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T01:32:51.098Z
+date: 2023-02-07T01:58:26.703Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1878,7 +1878,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [John Chambers (Cisco Systems CEO)](/Knowledge-base/Dictionary/Person/john-chambers-cisco-systems-ceo)
 - [ ] Meg Whitman (HP CEO)|Dictionary/Person
 - [ ] Brian Krzanich (Intel CEO)|Dictionary/Person
-- [ ] Ginni Rometty (IBM CEO)|Dictionary/Person
+- [x] [Ginni Rometty (IBM CEO)](/Knowledge-base/Dictionary/Person/ginni-rometty-ibm-ceo)
 - [ ] Travis Kalanick (Uber Co-founder)|Dictionary/Person
 - [ ] Evan Spiegel (Snap Inc. CEO)|Dictionary/Person
 - [ ] Jan Koum (WhatsApp Co-founder)|Dictionary/Person
