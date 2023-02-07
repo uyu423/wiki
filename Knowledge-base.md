@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T12:19:00.571Z
+date: 2023-02-07T12:32:36.020Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -335,7 +335,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot with Redis](/Knowledge-base/Spring-Boot/spring-boot-with-redis)
 - [x] [Spring Boot and Cloud Platforms](/Knowledge-base/Spring-Boot/spring-boot-and-cloud-platforms)
 - [x] [Spring Boot Deployment on Cloud Foundry](/Knowledge-base/Spring-Boot/spring-boot-deployment-on-cloud-foundry)
-- [ ] Spring Boot Deployment on Heroku|Spring-Boot
+- [x] [Spring Boot Deployment on Heroku](/Knowledge-base/Spring-Boot/spring-boot-deployment-on-heroku)
 - [ ] Spring Boot Deployment on AWS|Spring-Boot
 - [ ] Spring Boot Monitoring with Micrometer|Spring-Boot
 - [ ] Spring Boot Monitoring with Actuator|Spring-Boot
