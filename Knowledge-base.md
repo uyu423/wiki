@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T21:17:22.483Z
+date: 2023-02-07T21:32:38.044Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -352,7 +352,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot RESTful Services with Swagger](/Knowledge-base/Spring-Boot/spring-boot-restful-services-with-swagger)
 - [x] [Spring Boot Web Services with SOAP](/Knowledge-base/Spring-Boot/spring-boot-web-services-with-soap)
 - [x] [Spring Boot DevTools for Rapid Development](/Knowledge-base/Spring-Boot/spring-boot-devtools-for-rapid-development)
-- [ ] Spring Boot Initializer for Project Creation|Spring-Boot
+- [x] [Spring Boot Initializer for Project Creation](/Knowledge-base/Spring-Boot/spring-boot-initializer-for-project-creation)
 - [ ] Spring Boot Tool Suite for Integrated Development Environment|Spring-Boot
 - [ ] Spring Boot and Hibernate Transactions|Spring-Boot
 - [x] [Spring Boot and AOP for Cross-Cutting Concerns](/Knowledge-base/Spring-Boot/spring-boot-and-aop-for-cross-cutting-concerns)
