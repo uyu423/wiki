@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T14:32:39.432Z
+date: 2023-02-07T14:55:29.696Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -979,7 +979,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 075: Load Testing](/Knowledge-base/Software-Development/Learning/software-development-075-load-testing)
 - [ ] Software Development 076: Performance Testing|Software-Development/Learning
 - [ ] Software Development 077: Security Testing|Software-Development/Learning
-- [ ] Software Development 078: Accessibility and Inclusiveness|Software-Development/Learning
+- [x] [Software Development 078: Accessibility and Inclusiveness](/Knowledge-base/Software-Development/Learning/software-development-078-accessibility-and-inclusiveness)
 - [ ] Software Development 079: User Experience (UX) Design|Software-Development/Learning
 - [ ] Software Development 080: User Interface (UI) Design|Software-Development/Learning
 - [ ] Software Development 081: Information Architecture (IA)|Software-Development/Learning
