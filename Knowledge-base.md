@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T21:32:38.044Z
+date: 2023-02-07T21:55:43.857Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1083,7 +1083,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Building a Chatbot with Dialogflow](/Knowledge-base/Common/building-a-chatbot-with-dialogflow)
 - [ ] Applying DevOps to Improve Software Delivery|Common
 - [x] [How to Use Git for Version Control in Software Development](/Knowledge-base/Common/how-to-use-git-for-version-control-in-software-development)
-- [ ] The Ethics of Artificial Intelligence (AI) and Machine Learning|Common
+- [x] [The Ethics of Artificial Intelligence (AI) and Machine Learning](/Knowledge-base/Common/the-ethics-of-artificial-intelligence-ai-and-machine-learning)
 - [ ] Building a Secure Online Payment System|Common
 - [x] [Using Machine Learning for Predictive Analytics](/Knowledge-base/Common/using-machine-learning-for-predictive-analytics)
 - [ ] The Future of Artificial Intelligence (AI) in Financial Services|Common
