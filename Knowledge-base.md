@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T17:32:33.606Z
+date: 2023-02-07T17:56:19.650Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1393,7 +1393,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Backup and Recovery|Dictionary
 - [ ] High Availability|Dictionary
 - [ ] Data Backup|Dictionary
-- [ ] Data Recovery|Dictionary
+- [x] [Data Recovery](/Knowledge-base/Dictionary/data-recovery)
 - [ ] Virtualization|Dictionary
 - [ ] Cloud Migration|Dictionary
 - [x] [Cloud Security](/Knowledge-base/Dictionary/cloud-security)
