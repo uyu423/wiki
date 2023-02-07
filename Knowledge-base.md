@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T12:32:36.020Z
+date: 2023-02-07T12:55:38.968Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1074,7 +1074,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Introducing Serverless Computing and its Benefits](/Knowledge-base/Common/introducing-serverless-computing-and-its-benefits)
 - [x] [Applying Agile Project Management in Software Development](/Knowledge-base/Common/applying-agile-project-management-in-software-development)
 - [ ] Enhancing Cybersecurity with Encryption and Firewalls|Common
-- [ ] Using Artificial Intelligence (AI) in Game Development|Common
+- [x] [Using Artificial Intelligence (AI) in Game Development](/Knowledge-base/Common/using-artificial-intelligence-ai-in-game-development)
 - [x] [How to Create a Website with Django](/Knowledge-base/Common/how-to-create-a-website-with-django)
 - [ ] The Role of Artificial Intelligence (AI) in Healthcare|Common
 - [ ] Using Deep Learning for Image Recognition|Common
