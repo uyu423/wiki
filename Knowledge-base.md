@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T15:18:30.002Z
+date: 2023-02-07T15:33:21.032Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -338,7 +338,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot Deployment on Heroku](/Knowledge-base/Spring-Boot/spring-boot-deployment-on-heroku)
 - [x] [Spring Boot Deployment on AWS](/Knowledge-base/Spring-Boot/spring-boot-deployment-on-aws)
 - [x] [Spring Boot Monitoring with Micrometer](/Knowledge-base/Spring-Boot/spring-boot-monitoring-with-micrometer)
-- [ ] Spring Boot Monitoring with Actuator|Spring-Boot
+- [x] [Spring Boot Monitoring with Actuator](/Knowledge-base/Spring-Boot/spring-boot-monitoring-with-actuator)
 - [x] [Spring Boot Debugging with Remote Debugging](/Knowledge-base/Spring-Boot/spring-boot-debugging-with-remote-debugging)
 - [x] [Spring Boot Profiling with VisualVM](/Knowledge-base/Spring-Boot/spring-boot-profiling-with-visualvm)
 - [ ] Spring Boot Caching with EhCache|Spring-Boot
