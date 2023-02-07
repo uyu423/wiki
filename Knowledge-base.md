@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T22:17:27.891Z
+date: 2023-02-07T22:32:37.852Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -353,7 +353,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot Web Services with SOAP](/Knowledge-base/Spring-Boot/spring-boot-web-services-with-soap)
 - [x] [Spring Boot DevTools for Rapid Development](/Knowledge-base/Spring-Boot/spring-boot-devtools-for-rapid-development)
 - [x] [Spring Boot Initializer for Project Creation](/Knowledge-base/Spring-Boot/spring-boot-initializer-for-project-creation)
-- [ ] Spring Boot Tool Suite for Integrated Development Environment|Spring-Boot
+- [x] [Spring Boot Tool Suite for Integrated Development Environment](/Knowledge-base/Spring-Boot/spring-boot-tool-suite-for-integrated-development-environment)
 - [ ] Spring Boot and Hibernate Transactions|Spring-Boot
 - [x] [Spring Boot and AOP for Cross-Cutting Concerns](/Knowledge-base/Spring-Boot/spring-boot-and-aop-for-cross-cutting-concerns)
 - [ ] Spring Boot Microservices with Netflix OSS|Spring-Boot
