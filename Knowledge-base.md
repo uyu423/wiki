@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T04:19:06.159Z
+date: 2023-02-07T04:32:33.409Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -319,7 +319,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Debugging with Spring Boot DevTools](/Knowledge-base/Spring-Boot/debugging-with-spring-boot-devtools)
 - [x] [Caching with Spring Boot: A Comprehensive Guide](/Knowledge-base/Spring-Boot/caching-with-spring-boot-a-comprehensive-guide)
 - [x] [Exception Handling with Spring Boot](/Knowledge-base/Spring-Boot/exception-handling-with-spring-boot)
-- [ ] Validating Input with Spring Boot|Spring-Boot
+- [x] [Validating Input with Spring Boot](/Knowledge-base/Spring-Boot/validating-input-with-spring-boot)
 - [ ] Testing with Spring Boot: Best Practices and Tools|Spring-Boot
 - [ ] Spring Boot Actuator Endpoints|Spring-Boot
 - [x] [Spring Boot Configuration Properties](/Knowledge-base/Spring-Boot/spring-boot-configuration-properties)
