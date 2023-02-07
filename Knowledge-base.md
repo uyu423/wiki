@@ -2,12 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T04:32:33.409Z
+date: 2023-02-07T04:53:07.787Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
+- [ ] NAVER SELECTIVE|Dictionary
 - [x] [Yanolja (South Korea)](/Knowledge-base/Dictionary/Company/yanolja-south-korea)
 - [x] [Wooahan Brothers (South Korea)](/Knowledge-base/Dictionary/Company/wooahan-brothers-south-korea)
 - [x] [Viva Republica (South Korea)](/Knowledge-base/Dictionary/Company/viva-republica-south-korea)
