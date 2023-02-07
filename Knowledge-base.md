@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T03:32:46.374Z
+date: 2023-02-07T03:56:58.951Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1263,7 +1263,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Pandas](/Knowledge-base/Dictionary/pandas)
 - [x] [Numpy](/Knowledge-base/Dictionary/numpy)
 - [ ] Matplotlib|Dictionary
-- [ ] Seaborn|Dictionary
+- [x] [Seaborn](/Knowledge-base/Dictionary/seaborn)
 - [ ] D3.js|Dictionary
 - [x] [Plotly](/Knowledge-base/Dictionary/plotly)
 - [x] [Bokeh](/Knowledge-base/Dictionary/bokeh)
