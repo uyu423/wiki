@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T21:55:43.857Z
+date: 2023-02-07T22:17:27.891Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1077,7 +1077,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Using Artificial Intelligence (AI) in Game Development](/Knowledge-base/Common/using-artificial-intelligence-ai-in-game-development)
 - [x] [How to Create a Website with Django](/Knowledge-base/Common/how-to-create-a-website-with-django)
 - [ ] The Role of Artificial Intelligence (AI) in Healthcare|Common
-- [ ] Using Deep Learning for Image Recognition|Common
+- [x] [Using Deep Learning for Image Recognition](/Knowledge-base/Common/using-deep-learning-for-image-recognition)
 - [x] [Developing Cross-Platform Mobile Apps with Xamarin](/Knowledge-base/Common/developing-cross-platform-mobile-apps-with-xamarin)
 - [x] [The Future of Automated Testing in Software Development](/Knowledge-base/Common/the-future-of-automated-testing-in-software-development)
 - [x] [Building a Chatbot with Dialogflow](/Knowledge-base/Common/building-a-chatbot-with-dialogflow)
