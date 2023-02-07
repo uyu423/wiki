@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T01:17:34.571Z
+date: 2023-02-07T01:32:51.098Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -315,7 +315,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Securing RESTful Services with Spring Security](/Knowledge-base/Spring-Boot/securing-restful-services-with-spring-security)
 - [x] [Aspect-Oriented Programming with Spring AOP](/Knowledge-base/Spring-Boot/aspect-oriented-programming-with-spring-aop)
 - [x] [Deploying Spring Boot Applications to the Cloud](/Knowledge-base/Spring-Boot/deploying-spring-boot-applications-to-the-cloud)
-- [ ] Monitoring with Spring Boot Actuator|Spring-Boot
+- [x] [Monitoring with Spring Boot Actuator](/Knowledge-base/Spring-Boot/monitoring-with-spring-boot-actuator)
 - [ ] Debugging with Spring Boot DevTools|Spring-Boot
 - [ ] Caching with Spring Boot: A Comprehensive Guide|Spring-Boot
 - [x] [Exception Handling with Spring Boot](/Knowledge-base/Spring-Boot/exception-handling-with-spring-boot)
