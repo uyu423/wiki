@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T05:32:26.158Z
+date: 2023-02-07T05:55:59.624Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1540,7 +1540,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Ethical Hacking|Dictionary
 - [ ] Bug Tracking|Dictionary
 - [x] [Defect Tracking](/Knowledge-base/Dictionary/defect-tracking)
-- [ ] Issue Tracking|Dictionary
+- [x] [Issue Tracking](/Knowledge-base/Dictionary/issue-tracking)
 - [x] [Agile Project Management](/Knowledge-base/Dictionary/agile-project-management)
 - [ ] Kanban|Dictionary
 - [ ] Lean Project Management|Dictionary
