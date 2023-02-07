@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T11:56:11.283Z
+date: 2023-02-07T12:19:00.571Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1732,7 +1732,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Portfolio Management](/Knowledge-base/Dictionary/portfolio-management)
 - [x] [Stakeholder Management](/Knowledge-base/Dictionary/stakeholder-management)
 - [x] [Team Management](/Knowledge-base/Dictionary/team-management)
-- [ ] Human Resource Management|Dictionary
+- [x] [Human Resource Management](/Knowledge-base/Dictionary/human-resource-management)
 - [ ] Talent Acquisition|Dictionary
 - [ ] Talent Development|Dictionary
 - [ ] Performance Management|Dictionary
