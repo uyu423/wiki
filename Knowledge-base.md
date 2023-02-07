@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T17:56:19.650Z
+date: 2023-02-07T18:18:12.867Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1196,7 +1196,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Handling File Uploads and Downloads with TypeScript and Multer](/Knowledge-base/TypeScript/handling-file-uploads-and-downloads-with-typescript-and-multer)
 - [ ] Working with Sessions and Cookies in TypeScript and Express.js|TypeScript
 - [ ] Debugging and Troubleshooting TypeScript Applications|TypeScript
-- [ ] Securing TypeScript Applications with JWT and Bcrypt|TypeScript
+- [x] [Securing TypeScript Applications with JWT and Bcrypt](/Knowledge-base/TypeScript/securing-typescript-applications-with-jwt-and-bcrypt)
 - [x] [Integrating TypeScript with Stripe for Payments](/Knowledge-base/TypeScript/integrating-typescript-with-stripe-for-payments)
 - [x] [Combining Nest.js, Express.js, and Next.js for Full-Stack Development](/Knowledge-base/TypeScript/combining-nest-js-express-js-and-next-js-for-full-stack-development)
 - [ ] Building Reactive Applications with TypeScript and RxJS|TypeScript
