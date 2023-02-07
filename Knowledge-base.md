@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T10:56:42.055Z
+date: 2023-02-07T11:17:45.166Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1620,7 +1620,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Elasticity](/Knowledge-base/Dictionary/elasticity)
 - [x] [Front-End Development](/Knowledge-base/Dictionary/front-end-development)
 - [x] [Back-End Development](/Knowledge-base/Dictionary/back-end-development)
-- [ ] HTML|Dictionary
+- [x] [HTML](/Knowledge-base/Dictionary/html)
 - [ ] CSS|Dictionary
 - [ ] JavaScript|Dictionary
 - [x] [jQuery](/Knowledge-base/Dictionary/jquery)
