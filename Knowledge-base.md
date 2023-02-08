@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T20:55:56.949Z
+date: 2023-02-08T21:18:32.283Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1809,7 +1809,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Alibaba Group Holding Limited (China)|Dictionary/Company
 - [x] [Xiaomi Corporation (China)](/Knowledge-base/Dictionary/Company/xiaomi-corporation-china)
 - [x] [ByteDance (China)](/Knowledge-base/Dictionary/Company/bytedance-china)
-- [ ] Meituan (China)|Dictionary/Company
+- [x] [Meituan (China)](/Knowledge-base/Dictionary/Company/meituan-china)
 - [x] [SoftBank Group Corp. (Japan)](/Knowledge-base/Dictionary/Company/softbank-group-corp-japan)
 - [ ] Huawei Technologies Co., Ltd. (China)|Dictionary/Company
 - [ ] WIPRO Limited (India)|Dictionary/Company
