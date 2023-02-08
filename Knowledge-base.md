@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-07T23:55:41.778Z
+date: 2023-02-08T00:17:39.635Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -693,7 +693,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and Spring Security: Protecting Your Web Applications](/Knowledge-base/Kotlin/kotlin-and-spring-security-protecting-your-web-applications)
 - [ ] Kotlin and HTTPS: Encrypting Your Web Communication|Kotlin
 - [ ] Kotlin and RSA: A Hands-on Guide to Public-Key Cryptography|Kotlin
-- [ ] Kotlin and AES: Encrypting and Decrypting Data|Kotlin
+- [x] [Kotlin and AES: Encrypting and Decrypting Data](/Knowledge-base/Kotlin/kotlin-and-aes-encrypting-and-decrypting-data)
 - [x] [Kotlin and Hashing: Securing Passwords and Sensitive Data](/Knowledge-base/Kotlin/kotlin-and-hashing-securing-passwords-and-sensitive-data)
 - [ ] Kotlin and Bcrypt: A Better Alternative to Simple Hashing|Kotlin
 - [ ] Kotlin and JSON: Processing and Generating JSON Data|Kotlin
