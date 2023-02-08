@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T08:32:44.492Z
+date: 2023-02-08T08:57:47.966Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1793,7 +1793,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Razer Inc.|Dictionary/Company
 - [x] [Samsung Electronics Co., Ltd. (South Korea)](/Knowledge-base/Dictionary/Company/samsung-electronics-co-ltd-south-korea)
 - [ ] Huawei Technologies Co., Ltd. (China)|Dictionary/Company
-- [ ] WIPRO Limited (India)|Dictionary/Company
+- [x] [WIPRO Limited (India)](/Knowledge-base/Dictionary/Company/wipro-limited-india)
 - [x] [Infosys Limited (India)](/Knowledge-base/Dictionary/Company/infosys-limited-india)
 - [ ] HCL Technologies Limited (India)|Dictionary/Company
 - [x] [Tata Consultancy Services (TCS) (India)](/Knowledge-base/Dictionary/Company/tata-consultancy-services-tcs-india)
