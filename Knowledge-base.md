@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T11:56:15.203Z
+date: 2023-02-08T12:17:21.695Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -629,7 +629,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Understanding Kotlin's Extension Functions and Properties](/Knowledge-base/Kotlin/understanding-kotlin-s-extension-functions-and-properties)
 - [x] [Utilizing Kotlin's Higher-Order Functions](/Knowledge-base/Kotlin/utilizing-kotlin-s-higher-order-functions)
 - [ ] Mastering Lambdas in Kotlin|Kotlin
-- [ ] Using Type Aliases in Kotlin|Kotlin
+- [x] [Using Type Aliases in Kotlin](/Knowledge-base/Kotlin/using-type-aliases-in-kotlin)
 - [ ] Interoperability Between Kotlin and Java|Kotlin
 - [x] [Building Applications with Kotlin Coroutines](/Knowledge-base/Kotlin/building-applications-with-kotlin-coroutines)
 - [ ] Understanding the CoroutineScope in Kotlin|Kotlin
