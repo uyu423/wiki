@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T13:56:37.821Z
+date: 2023-02-08T14:17:38.882Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -769,7 +769,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Building a Deployment Pipeline for Backend Applications|Backend
 - [x] [DevOps Best Practices for Backend Infrastructure](/Knowledge-base/Backend/devops-best-practices-for-backend-infrastructure)
 - [x] [Infrastructure as Code for Backend Applications](/Knowledge-base/Backend/infrastructure-as-code-for-backend-applications)
-- [ ] Virtualization with Hypervisor and VMs|Backend
+- [x] [Virtualization with Hypervisor and VMs](/Knowledge-base/Backend/virtualization-with-hypervisor-and-vms)
 - [x] [Containers and Micro VMs for Backend Development](/Knowledge-base/Backend/containers-and-micro-vms-for-backend-development)
 - [x] [Migrating Databases for Scalable Applications](/Knowledge-base/Backend/migrating-databases-for-scalable-applications)
 - [x] [ORM and Auto-scaling for Backend Development](/Knowledge-base/Backend/orm-and-auto-scaling-for-backend-development)
