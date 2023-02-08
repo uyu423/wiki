@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T22:56:01.694Z
+date: 2023-02-08T23:17:43.897Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1585,7 +1585,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Switching](/Knowledge-base/Dictionary/switching)
 - [x] [Intrusion Detection](/Knowledge-base/Dictionary/intrusion-detection)
 - [x] [Intrusion Prevention](/Knowledge-base/Dictionary/intrusion-prevention)
-- [ ] Wide Area Network|Dictionary
+- [x] [Wide Area Network](/Knowledge-base/Dictionary/wide-area-network)
 - [x] [Local Area Network](/Knowledge-base/Dictionary/local-area-network)
 - [ ] Wireless Network|Dictionary
 - [x] [Network Management](/Knowledge-base/Dictionary/network-management)
