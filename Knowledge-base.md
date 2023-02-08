@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T09:17:35.814Z
+date: 2023-02-08T09:33:11.583Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -374,7 +374,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot and Spring Batch for Large-Scale Data Processing](/Knowledge-base/Spring-Boot/spring-boot-and-spring-batch-for-large-scale-data-processing)
 - [x] [The SOLID Principles in Spring Boot Development](/Knowledge-base/Spring-Boot/the-solid-principles-in-spring-boot-development)
 - [x] [Dependency Injection in Spring Boot](/Knowledge-base/Spring-Boot/dependency-injection-in-spring-boot)
-- [ ] Aspect-Oriented Programming in Spring Boot|Spring-Boot
+- [x] [Aspect-Oriented Programming in Spring Boot](/Knowledge-base/Spring-Boot/aspect-oriented-programming-in-spring-boot)
 - [ ] The Hollywood Principle in Spring Boot Development|Spring-Boot
 - [ ] The Liskov Substitution Principle in Spring Boot Development|Spring-Boot
 - [x] [The Single Responsibility Principle in Spring Boot Development](/Knowledge-base/Spring-Boot/the-single-responsibility-principle-in-spring-boot-development)
