@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T21:32:23.282Z
+date: 2023-02-08T21:56:18.859Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1634,7 +1634,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Java|Dictionary
 - [x] [C#](/Knowledge-base/Dictionary/c)
 - [ ] Swift|Dictionary
-- [ ] Kotlin|Dictionary
+- [x] [Kotlin](/Knowledge-base/Dictionary/kotlin)
 - [x] [Go](/Knowledge-base/Dictionary/go)
 - [x] [Rust](/Knowledge-base/Dictionary/rust)
 - [ ] Database Development|Dictionary
