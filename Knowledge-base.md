@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T02:18:08.291Z
+date: 2023-02-08T02:32:43.145Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -360,7 +360,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot and Docker for Microservices](/Knowledge-base/Spring-Boot/spring-boot-and-docker-for-microservices)
 - [x] [Spring Boot and Kubernetes for Microservices](/Knowledge-base/Spring-Boot/spring-boot-and-kubernetes-for-microservices)
 - [x] [Spring Boot and Serverless Architecture with AWS Lambda](/Knowledge-base/Spring-Boot/spring-boot-and-serverless-architecture-with-aws-lambda)
-- [ ] Spring Boot and Event-Driven Architecture with Kafka|Spring-Boot
+- [x] [Spring Boot and Event-Driven Architecture with Kafka](/Knowledge-base/Spring-Boot/spring-boot-and-event-driven-architecture-with-kafka)
 - [x] [Spring Boot and Reactive Programming with Spring WebFlux](/Knowledge-base/Spring-Boot/spring-boot-and-reactive-programming-with-spring-webflux)
 - [x] [Spring Boot and WebSockets for Real-Time Communication](/Knowledge-base/Spring-Boot/spring-boot-and-websockets-for-real-time-communication)
 - [x] [Spring Boot and Spring Cloud for Distributed Systems](/Knowledge-base/Spring-Boot/spring-boot-and-spring-cloud-for-distributed-systems)
