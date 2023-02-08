@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T19:17:49.360Z
+date: 2023-02-08T19:32:28.487Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -406,7 +406,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Deploying Stateful Applications on Kubernetes with Persistent Volumes](/Knowledge-base/Kubernetes/deploying-stateful-applications-on-kubernetes-with-persistent-volumes)
 - [x] [Rolling Updates and Rollbacks with Kubernetes Deployments](/Knowledge-base/Kubernetes/rolling-updates-and-rollbacks-with-kubernetes-deployments)
 - [x] [Kubernetes Autoscaling: Adapting to Changing Loads](/Knowledge-base/Kubernetes/kubernetes-autoscaling-adapting-to-changing-loads)
-- [ ] Monitoring and Logging in Kubernetes Clusters|Kubernetes
+- [x] [Monitoring and Logging in Kubernetes Clusters](/Knowledge-base/Kubernetes/monitoring-and-logging-in-kubernetes-clusters)
 - [x] [Debugging Kubernetes Applications: Understanding Events and Logs](/Knowledge-base/Kubernetes/debugging-kubernetes-applications-understanding-events-and-logs)
 - [ ] Kubernetes Networking: Communication Between Pods and Services|Kubernetes
 - [ ] Kubernetes Ingress: Exposing Your Services with Custom URLs|Kubernetes
