@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T15:33:35.709Z
+date: 2023-02-08T15:55:26.121Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -936,7 +936,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 032: Deep Learning](/Knowledge-base/Software-Development/Learning/software-development-032-deep-learning)
 - [ ] Software Development 033: TensorFlow and Keras|Software-Development/Learning
 - [ ] Software Development 034: Computer Graphics|Software-Development/Learning
-- [ ] Software Development 035: Game Development|Software-Development/Learning
+- [x] [Software Development 035: Game Development](/Knowledge-base/Software-Development/Learning/software-development-035-game-development)
 - [ ] Software Development 036: Virtual Reality (VR) and Augmented Reality (AR)|Software-Development/Learning
 - [ ] Software Development 037: Blockchain Technology|Software-Development/Learning
 - [x] [Software Development 038: Cryptography](/Knowledge-base/Software-Development/Learning/software-development-038-cryptography)
