@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T00:55:40.236Z
+date: 2023-02-08T01:18:54.750Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1905,7 +1905,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Hideo Kojima (Metal Gear Creator)|Dictionary/Person
 - [ ] Gabe Newell (Valve Co-founder)|Dictionary/Person
 - [ ] Palmer Luckey (Oculus VR Co-founder)|Dictionary/Person
-- [ ] Mark Cuban (Investor and Entrepreneur)|Dictionary/Person
+- [x] [Mark Cuban (Investor and Entrepreneur)](/Knowledge-base/Dictionary/Person/mark-cuban-investor-and-entrepreneur)
 - [ ] Peter Thiel (PayPal Co-founder)|Dictionary/Person
 - [ ] Reid Hoffman (LinkedIn Co-founder)|Dictionary/Person
 - [ ] Max Levchin (PayPal Co-founder)|Dictionary/Person
