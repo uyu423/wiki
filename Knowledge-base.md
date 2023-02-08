@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T03:32:27.555Z
+date: 2023-02-08T03:56:15.312Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1402,7 +1402,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Platform as a Service](/Knowledge-base/Dictionary/platform-as-a-service)
 - [x] [Software as a Service](/Knowledge-base/Dictionary/software-as-a-service)
 - [ ] Data Center|Dictionary
-- [ ] Data Warehousing|Dictionary
+- [x] [Data Warehousing](/Knowledge-base/Dictionary/data-warehousing)
 - [ ] Data Modeling|Dictionary
 - [ ] Data Analytics|Dictionary
 - [ ] Data Visualization|Dictionary
