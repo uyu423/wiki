@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T11:18:55.923Z
+date: 2023-02-08T11:32:20.666Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -378,7 +378,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Hollywood Principle in Spring Boot Development](/Knowledge-base/Spring-Boot/the-hollywood-principle-in-spring-boot-development)
 - [x] [The Liskov Substitution Principle in Spring Boot Development](/Knowledge-base/Spring-Boot/the-liskov-substitution-principle-in-spring-boot-development)
 - [x] [The Single Responsibility Principle in Spring Boot Development](/Knowledge-base/Spring-Boot/the-single-responsibility-principle-in-spring-boot-development)
-- [ ] The Open/Closed Principle in Spring Boot Development|Spring-Boot
+- [x] [The Open/Closed Principle in Spring Boot Development](/Knowledge-base/Spring-Boot/the-openclosed-principle-in-spring-boot-development)
 - [x] [The Interface Segregation Principle in Spring Boot Development](/Knowledge-base/Spring-Boot/the-interface-segregation-principle-in-spring-boot-development)
 - [x] [The Model-View-Controller (MVC) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-model-view-controller-mvc-pattern-in-spring-boot)
 - [x] [The Model-View-Presenter (MVP) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-model-view-presenter-mvp-pattern-in-spring-boot)
