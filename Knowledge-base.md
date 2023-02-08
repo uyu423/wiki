@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T18:55:46.458Z
+date: 2023-02-08T19:17:49.360Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1427,7 +1427,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Object-Relational Mapping|Dictionary
 - [ ] Network Security|Dictionary
 - [x] [Firewall](/Knowledge-base/Dictionary/firewall)
-- [ ] Intrusion Detection System|Dictionary
+- [x] [Intrusion Detection System](/Knowledge-base/Dictionary/intrusion-detection-system)
 - [ ] Intrusion Prevention System|Dictionary
 - [ ] Virtual Private Network|Dictionary
 - [x] [Public Key Infrastructure](/Knowledge-base/Dictionary/public-key-infrastructure)
