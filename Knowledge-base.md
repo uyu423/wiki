@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T18:18:54.505Z
+date: 2023-02-08T18:32:37.302Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -405,7 +405,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kubernetes ConfigMaps and Secrets: Managing Configuration Data](/Knowledge-base/Kubernetes/kubernetes-configmaps-and-secrets-managing-configuration-data)
 - [x] [Deploying Stateful Applications on Kubernetes with Persistent Volumes](/Knowledge-base/Kubernetes/deploying-stateful-applications-on-kubernetes-with-persistent-volumes)
 - [x] [Rolling Updates and Rollbacks with Kubernetes Deployments](/Knowledge-base/Kubernetes/rolling-updates-and-rollbacks-with-kubernetes-deployments)
-- [ ] Kubernetes Autoscaling: Adapting to Changing Loads|Kubernetes
+- [x] [Kubernetes Autoscaling: Adapting to Changing Loads](/Knowledge-base/Kubernetes/kubernetes-autoscaling-adapting-to-changing-loads)
 - [ ] Monitoring and Logging in Kubernetes Clusters|Kubernetes
 - [x] [Debugging Kubernetes Applications: Understanding Events and Logs](/Knowledge-base/Kubernetes/debugging-kubernetes-applications-understanding-events-and-logs)
 - [ ] Kubernetes Networking: Communication Between Pods and Services|Kubernetes
