@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T06:56:01.137Z
+date: 2023-02-08T07:17:50.751Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1011,7 +1011,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] How to Build a RESTful API with Node.js|Common
 - [ ] The Importance of Software Testing|Common
 - [ ] Linux System Administration: An Introduction|Common
-- [ ] A Guide to Machine Learning and Artificial Intelligence|Common
+- [x] [A Guide to Machine Learning and Artificial Intelligence](/Knowledge-base/Common/a-guide-to-machine-learning-and-artificial-intelligence)
 - [x] [Programming with Python: A Beginner's Guide](/Knowledge-base/Common/programming-with-python-a-beginner-s-guide)
 - [ ] How to Build a Chatbot with Dialogflow|Common
 - [x] [Introduction to Cybersecurity and Ethical Hacking](/Knowledge-base/Common/introduction-to-cybersecurity-and-ethical-hacking)
