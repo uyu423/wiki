@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T12:17:21.695Z
+date: 2023-02-08T12:32:42.148Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -382,7 +382,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Interface Segregation Principle in Spring Boot Development](/Knowledge-base/Spring-Boot/the-interface-segregation-principle-in-spring-boot-development)
 - [x] [The Model-View-Controller (MVC) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-model-view-controller-mvc-pattern-in-spring-boot)
 - [x] [The Model-View-Presenter (MVP) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-model-view-presenter-mvp-pattern-in-spring-boot)
-- [ ] The Model-View-ViewModel (MVVM) Pattern in Spring Boot|Spring-Boot
+- [x] [The Model-View-ViewModel (MVVM) Pattern in Spring Boot](/Knowledge-base/Spring-Boot/the-model-view-viewmodel-mvvm-pattern-in-spring-boot)
 - [ ] The Observer Pattern in Spring Boot Development|Spring-Boot
 - [x] [The Factory Method Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-factory-method-pattern-in-spring-boot-development)
 - [ ] The Abstract Factory Pattern in Spring Boot Development|Spring-Boot
