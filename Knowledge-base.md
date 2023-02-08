@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T23:17:43.897Z
+date: 2023-02-08T23:32:23.561Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -412,7 +412,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kubernetes Ingress: Exposing Your Services with Custom URLs](/Knowledge-base/Kubernetes/kubernetes-ingress-exposing-your-services-with-custom-urls)
 - [x] [Kubernetes Jobs and CronJobs: Running One-Off Tasks](/Knowledge-base/Kubernetes/kubernetes-jobs-and-cronjobs-running-one-off-tasks)
 - [x] [Kubernetes Resource Management: Setting Limits and Requests for Your Pods](/Knowledge-base/Kubernetes/kubernetes-resource-management-setting-limits-and-requests-for-your-pods)
-- [ ] Kubernetes Namespaces: Isolating Resources in Multi-Tenant Clusters|Kubernetes
+- [x] [Kubernetes Namespaces: Isolating Resources in Multi-Tenant Clusters](/Knowledge-base/Kubernetes/kubernetes-namespaces-isolating-resources-in-multi-tenant-clusters)
 - [ ] Kubernetes RBAC: Securing Access to Cluster Resources|Kubernetes
 - [ ] Kubernetes Security: Best Practices for Hardening Your Cluster|Kubernetes
 - [ ] Kubernetes Network Policies: Enforcing Communication Rules Between Pods|Kubernetes
