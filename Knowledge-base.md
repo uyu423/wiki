@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T03:56:15.312Z
+date: 2023-02-08T04:17:17.289Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -947,7 +947,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 043: Web Application Security|Software-Development/Learning
 - [ ] Software Development 044: Cloud Security|Software-Development/Learning
 - [ ] Software Development 045: Internet of Things (IoT)|Software-Development/Learning
-- [ ] Software Development 046: 5G Technology|Software-Development/Learning
+- [x] [Software Development 046: 5G Technology](/Knowledge-base/Software-Development/Learning/software-development-046-5g-technology)
 - [ ] Software Development 047: Big Data and Data Science|Software-Development/Learning
 - [ ] Software Development 048: Data Visualization|Software-Development/Learning
 - [x] [Software Development 049: Business Intelligence (BI)](/Knowledge-base/Software-Development/Learning/software-development-049-business-intelligence-bi)
