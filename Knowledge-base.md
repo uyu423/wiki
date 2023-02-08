@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T10:18:27.999Z
+date: 2023-02-08T10:32:35.050Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -376,7 +376,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Dependency Injection in Spring Boot](/Knowledge-base/Spring-Boot/dependency-injection-in-spring-boot)
 - [x] [Aspect-Oriented Programming in Spring Boot](/Knowledge-base/Spring-Boot/aspect-oriented-programming-in-spring-boot)
 - [x] [The Hollywood Principle in Spring Boot Development](/Knowledge-base/Spring-Boot/the-hollywood-principle-in-spring-boot-development)
-- [ ] The Liskov Substitution Principle in Spring Boot Development|Spring-Boot
+- [x] [The Liskov Substitution Principle in Spring Boot Development](/Knowledge-base/Spring-Boot/the-liskov-substitution-principle-in-spring-boot-development)
 - [x] [The Single Responsibility Principle in Spring Boot Development](/Knowledge-base/Spring-Boot/the-single-responsibility-principle-in-spring-boot-development)
 - [ ] The Open/Closed Principle in Spring Boot Development|Spring-Boot
 - [x] [The Interface Segregation Principle in Spring Boot Development](/Knowledge-base/Spring-Boot/the-interface-segregation-principle-in-spring-boot-development)
