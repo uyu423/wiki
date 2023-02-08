@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T14:32:44.252Z
+date: 2023-02-08T14:56:01.191Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1662,7 +1662,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] React Native|Dictionary
 - [ ] Flutter|Dictionary
 - [x] [Xamarin](/Knowledge-base/Dictionary/xamarin)
-- [ ] Hybrid Mobile Development|Dictionary
+- [x] [Hybrid Mobile Development](/Knowledge-base/Dictionary/hybrid-mobile-development)
 - [ ] Progressive Web Apps|Dictionary
 - [ ] Mobile Application Testing|Dictionary
 - [ ] User Experience Design|Dictionary
