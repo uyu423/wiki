@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T13:32:54.178Z
+date: 2023-02-08T13:56:37.821Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1464,7 +1464,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Adware|Dictionary
 - [x] [Root Access](/Knowledge-base/Dictionary/root-access)
 - [ ] Operating System|Dictionary
-- [ ] Linux|Dictionary
+- [x] [Linux](/Knowledge-base/Dictionary/linux)
 - [ ] Unix|Dictionary
 - [ ] Windows|Dictionary
 - [x] [macOS](/Knowledge-base/Dictionary/macos)
