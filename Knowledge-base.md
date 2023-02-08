@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T07:55:24.454Z
+date: 2023-02-08T08:17:53.170Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1925,7 +1925,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] David Heinemeier Hansson (Ruby on Rails Creator)|Dictionary/Person
 - [ ] Marten Mickos (MySQL CEO)|Dictionary/Person
 - [ ] Biz Stone (Twitter Co-founder)|Dictionary/Person
-- [ ] Evan Williams (Twitter Co-founder)|Dictionary/Person
+- [x] [Evan Williams (Twitter Co-founder)](/Knowledge-base/Dictionary/Person/evan-williams-twitter-co-founder)
 - [ ] Jack Dorsey (Twitter Co-founder)|Dictionary/Person
 - [ ] Kevin Systrom (Instagram Co-founder)|Dictionary/Person
 - [ ] Mike Krieger (Instagram Co-founder)|Dictionary/Person
