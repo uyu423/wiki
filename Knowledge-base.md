@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T01:18:54.750Z
+date: 2023-02-08T01:32:46.175Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -357,7 +357,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot and Hibernate Transactions](/Knowledge-base/Spring-Boot/spring-boot-and-hibernate-transactions)
 - [x] [Spring Boot and AOP for Cross-Cutting Concerns](/Knowledge-base/Spring-Boot/spring-boot-and-aop-for-cross-cutting-concerns)
 - [x] [Spring Boot Microservices with Netflix OSS](/Knowledge-base/Spring-Boot/spring-boot-microservices-with-netflix-oss)
-- [ ] Spring Boot and Docker for Microservices|Spring-Boot
+- [x] [Spring Boot and Docker for Microservices](/Knowledge-base/Spring-Boot/spring-boot-and-docker-for-microservices)
 - [x] [Spring Boot and Kubernetes for Microservices](/Knowledge-base/Spring-Boot/spring-boot-and-kubernetes-for-microservices)
 - [x] [Spring Boot and Serverless Architecture with AWS Lambda](/Knowledge-base/Spring-Boot/spring-boot-and-serverless-architecture-with-aws-lambda)
 - [ ] Spring Boot and Event-Driven Architecture with Kafka|Spring-Boot
