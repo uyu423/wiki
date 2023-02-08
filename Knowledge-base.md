@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T00:32:59.704Z
+date: 2023-02-08T00:55:40.236Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -950,7 +950,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 046: 5G Technology|Software-Development/Learning
 - [ ] Software Development 047: Big Data and Data Science|Software-Development/Learning
 - [ ] Software Development 048: Data Visualization|Software-Development/Learning
-- [ ] Software Development 049: Business Intelligence (BI)|Software-Development/Learning
+- [x] [Software Development 049: Business Intelligence (BI)](/Knowledge-base/Software-Development/Learning/software-development-049-business-intelligence-bi)
 - [x] [Software Development 050: Predictive Maintenance](/Knowledge-base/Software-Development/Learning/software-development-050-predictive-maintenance)
 - [x] [Software Development 051: Time Series Analysis](/Knowledge-base/Software-Development/Learning/software-development-051-time-series-analysis)
 - [x] [Software Development 052: Recommender Systems](/Knowledge-base/Software-Development/Learning/software-development-052-recommender-systems)
