@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T16:55:40.038Z
+date: 2023-02-08T17:17:58.312Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1486,7 +1486,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Assembly Language|Dictionary
 - [x] [High-Level Programming Language](/Knowledge-base/Dictionary/high-level-programming-language)
 - [ ] Low-Level Programming Language|Dictionary
-- [ ] Compiler|Dictionary
+- [x] [Compiler](/Knowledge-base/Dictionary/compiler)
 - [x] [Interpreter](/Knowledge-base/Dictionary/interpreter)
 - [ ] Debugging|Dictionary
 - [x] [Integrated Development Environment](/Knowledge-base/Dictionary/integrated-development-environment)
