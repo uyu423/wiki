@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T19:32:28.487Z
+date: 2023-02-08T19:55:24.428Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -633,7 +633,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Interoperability Between Kotlin and Java|Kotlin
 - [x] [Building Applications with Kotlin Coroutines](/Knowledge-base/Kotlin/building-applications-with-kotlin-coroutines)
 - [ ] Understanding the CoroutineScope in Kotlin|Kotlin
-- [ ] Concurrent Programming with Kotlin's Channels and Flow|Kotlin
+- [x] [Concurrent Programming with Kotlin's Channels and Flow](/Knowledge-base/Kotlin/concurrent-programming-with-kotlin-s-channels-and-flow)
 - [ ] Using Sealed Classes in Kotlin|Kotlin
 - [ ] Understanding the Delegation Pattern in Kotlin|Kotlin
 - [ ] Exploring the Power of Kotlin's Standard Library Functions|Kotlin
