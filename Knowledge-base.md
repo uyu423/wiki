@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T18:32:37.302Z
+date: 2023-02-08T18:55:46.458Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -867,7 +867,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AWS Lightsail: Launching Simple Websites and Applications with a Fully Managed PaaS](/Knowledge-base/Cloud/aws-lightsail-launching-simple-websites-and-applications-with-a-fully-managed-paas)
 - [ ] AWS Fargate: Running Containers without Managing Infrastructure|Cloud
 - [ ] Debugging Cloud Services: Best Practices for AWS and Azure|Cloud
-- [ ] Scaling Your Cloud Services: Best Practices for AWS and Azure|Cloud
+- [x] [Scaling Your Cloud Services: Best Practices for AWS and Azure](/Knowledge-base/Cloud/scaling-your-cloud-services-best-practices-for-aws-and-azure)
 - [ ] Managing Access and Security for Cloud Services|Cloud
 - [ ] Continuous Deployment with AWS and Azure|Cloud
 - [ ] Improving Performance of Cloud Services on AWS and Azure|Cloud
