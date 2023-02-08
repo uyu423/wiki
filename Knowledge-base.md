@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T05:18:15.725Z
+date: 2023-02-08T05:32:54.905Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -369,7 +369,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot and LDAP for Security and Authentication](/Knowledge-base/Spring-Boot/spring-boot-and-ldap-for-security-and-authentication)
 - [x] [Spring Boot and Spring Security for Secure Web Applications](/Knowledge-base/Spring-Boot/spring-boot-and-spring-security-for-secure-web-applications)
 - [x] [Spring Boot and HTTPS for Secure Web Communication](/Knowledge-base/Spring-Boot/spring-boot-and-https-for-secure-web-communication)
-- [ ] Spring Boot and SSL for Secure Web Communication|Spring-Boot
+- [x] [Spring Boot and SSL for Secure Web Communication](/Knowledge-base/Spring-Boot/spring-boot-and-ssl-for-secure-web-communication)
 - [ ] Spring Boot and Spring Data for Data Access and Persistence|Spring-Boot
 - [ ] Spring Boot and Spring Batch for Large-Scale Data Processing|Spring-Boot
 - [ ] The SOLID Principles in Spring Boot Development|Spring-Boot
