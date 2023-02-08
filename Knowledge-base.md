@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T07:17:50.751Z
+date: 2023-02-08T07:32:24.357Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -371,7 +371,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot and HTTPS for Secure Web Communication](/Knowledge-base/Spring-Boot/spring-boot-and-https-for-secure-web-communication)
 - [x] [Spring Boot and SSL for Secure Web Communication](/Knowledge-base/Spring-Boot/spring-boot-and-ssl-for-secure-web-communication)
 - [x] [Spring Boot and Spring Data for Data Access and Persistence](/Knowledge-base/Spring-Boot/spring-boot-and-spring-data-for-data-access-and-persistence)
-- [ ] Spring Boot and Spring Batch for Large-Scale Data Processing|Spring-Boot
+- [x] [Spring Boot and Spring Batch for Large-Scale Data Processing](/Knowledge-base/Spring-Boot/spring-boot-and-spring-batch-for-large-scale-data-processing)
 - [ ] The SOLID Principles in Spring Boot Development|Spring-Boot
 - [x] [Dependency Injection in Spring Boot](/Knowledge-base/Spring-Boot/dependency-injection-in-spring-boot)
 - [ ] Aspect-Oriented Programming in Spring Boot|Spring-Boot
