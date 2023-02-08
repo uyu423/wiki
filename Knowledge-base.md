@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T02:32:43.145Z
+date: 2023-02-08T02:55:30.809Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1231,7 +1231,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Working with Binary Data in TypeScript and Node.js|TypeScript
 - [ ] Building Chatbots with TypeScript and Dialogflow|TypeScript
 - [x] [Using TypeScript with AWS DynamoDB for NoSQL Database Management](/Knowledge-base/TypeScript/using-typescript-with-aws-dynamodb-for-nosql-database-management)
-- [ ] Integrating TypeScript with Google Cloud Functions for Serverless Development|TypeScript
+- [x] [Integrating TypeScript with Google Cloud Functions for Serverless Development](/Knowledge-base/TypeScript/integrating-typescript-with-google-cloud-functions-for-serverless-development)
 - [x] [Building a REST API with TypeScript and Nest.js](/Knowledge-base/TypeScript/building-a-rest-api-with-typescript-and-nest-js)
 - [x] [Integrating TypeScript with Next.js for Server-side Rendering](/Knowledge-base/TypeScript/integrating-typescript-with-next-js-for-server-side-rendering)
 - [x] [Managing Data with TypeScript and MongoDB](/Knowledge-base/TypeScript/managing-data-with-typescript-and-mongodb)
