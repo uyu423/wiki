@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T05:32:54.905Z
+date: 2023-02-08T05:56:24.243Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1849,7 +1849,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] DeNA Co., Ltd. (Japan)|Dictionary/Company
 - [x] [GREE, Inc. (Japan)](/Knowledge-base/Dictionary/Company/gree-inc-japan)
 - [ ] NHN Entertainment Corporation (South Korea)|Dictionary/Company
-- [ ] Com2uS Corporation (South Korea)|Dictionary/Company
+- [x] [Com2uS Corporation (South Korea)](/Knowledge-base/Dictionary/Company/com2us-corporation-south-korea)
 - [ ] Netmarble Corporation (South Korea)|Dictionary/Company
 - [ ] Nexon Co., Ltd. (South Korea)|Dictionary/Company
 - [ ] Gamevil (South Korea)|Dictionary/Company
