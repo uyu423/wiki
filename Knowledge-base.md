@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T17:55:35.590Z
+date: 2023-02-08T18:18:54.505Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1802,7 +1802,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Fujitsu Limited (Japan)](/Knowledge-base/Dictionary/Company/fujitsu-limited-japan)
 - [x] [NEC Corporation (Japan)](/Knowledge-base/Dictionary/Company/nec-corporation-japan)
 - [x] [NTT Data Corporation (Japan)](/Knowledge-base/Dictionary/Company/ntt-data-corporation-japan)
-- [ ] SK Hynix Inc. (South Korea)|Dictionary/Company
+- [x] [SK Hynix Inc. (South Korea)](/Knowledge-base/Dictionary/Company/sk-hynix-inc-south-korea)
 - [ ] LG Electronics Inc. (South Korea)|Dictionary/Company
 - [ ] Baidu, Inc. (China)|Dictionary/Company
 - [ ] Tencent Holdings Limited (China)|Dictionary/Company
