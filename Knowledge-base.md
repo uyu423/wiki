@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T16:17:49.893Z
+date: 2023-02-08T16:32:30.430Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -392,7 +392,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Adapter Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-adapter-pattern-in-spring-boot-development)
 - [x] [The Bridge Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-bridge-pattern-in-spring-boot-development)
 - [x] [The Composite Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-composite-pattern-in-spring-boot-development)
-- [ ] The Decorator Pattern in Spring Boot Development|Spring-Boot
+- [x] [The Decorator Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-decorator-pattern-in-spring-boot-development)
 - [x] [The Facade Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-facade-pattern-in-spring-boot-development)
 - [x] [The Flyweight Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-flyweight-pattern-in-spring-boot-development)
 - [x] [The Proxy Pattern in Spring Boot Development](/Knowledge-base/Spring-Boot/the-proxy-pattern-in-spring-boot-development)
