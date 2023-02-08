@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T10:32:35.050Z
+date: 2023-02-08T10:55:44.701Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -572,7 +572,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 050: Design Patterns in Kotlin: Applying Common Design Patterns to Your Code.|Kotlin/Learning
 - [ ] 051: The Kotlin Standard Library: Utilizing the Built-in Functions and Classes|Kotlin/Learning
 - [ ] 052: Nullability and Null Safety in Kotlin: Managing Null Values in Your Code|Kotlin/Learning
-- [ ] 053: Collection Operations in Kotlin: Sorting, Filtering, and Transforming Collections|Kotlin/Learning
+- [x] [053: Collection Operations in Kotlin: Sorting, Filtering, and Transforming Collections](/Knowledge-base/Kotlin/Learning/053-collection-operations-in-kotlin-sorting-filtering-and-transforming-collections)
 - [ ] 054: Functions as First-Class Citizens in Kotlin: Understanding Higher-Order Functions|Kotlin/Learning
 - [ ] 055: Delegation in Kotlin: Implementing Delegation Patterns with Delegated Properties|Kotlin/Learning
 - [ ] 056: The When Expression in Kotlin: A Comprehensive Guide|Kotlin/Learning
