@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T02:55:30.809Z
+date: 2023-02-08T03:19:12.539Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1901,7 +1901,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Brendan Eich (JavaScript Creator)|Dictionary/Person
 - [ ] John Carmack (id Software Co-founder)|Dictionary/Person
 - [x] [Sid Meier (Civilization Creator)](/Knowledge-base/Dictionary/Person/sid-meier-civilization-creator)
-- [ ] Shigeru Miyamoto (Nintendo Game Designer)|Dictionary/Person
+- [x] [Shigeru Miyamoto (Nintendo Game Designer)](/Knowledge-base/Dictionary/Person/shigeru-miyamoto-nintendo-game-designer)
 - [ ] Hideo Kojima (Metal Gear Creator)|Dictionary/Person
 - [ ] Gabe Newell (Valve Co-founder)|Dictionary/Person
 - [ ] Palmer Luckey (Oculus VR Co-founder)|Dictionary/Person
