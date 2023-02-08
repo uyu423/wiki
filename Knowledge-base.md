@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T04:32:51.807Z
+date: 2023-02-08T04:56:13.093Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1670,7 +1670,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Visual Design](/Knowledge-base/Dictionary/visual-design)
 - [ ] Web Design|Dictionary
 - [x] [Graphic Design](/Knowledge-base/Dictionary/graphic-design)
-- [ ] Branding|Dictionary
+- [x] [Branding](/Knowledge-base/Dictionary/branding)
 - [ ] Marketing|Dictionary
 - [ ] Digital Marketing|Dictionary
 - [ ] Search Engine Optimization|Dictionary
