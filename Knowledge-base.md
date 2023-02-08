@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T08:57:47.966Z
+date: 2023-02-08T09:17:35.814Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -687,7 +687,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and Spring Boot: Building a RESTful Web Service](/Knowledge-base/Kotlin/kotlin-and-spring-boot-building-a-restful-web-service)
 - [x] [Kotlin Coroutines for Asynchronous Server-side Development](/Knowledge-base/Kotlin/kotlin-coroutines-for-asynchronous-server-side-development)
 - [x] [Kotlin Multi-platform Development for the Web and Mobile](/Knowledge-base/Kotlin/kotlin-multi-platform-development-for-the-web-and-mobile)
-- [ ] Kotlin and Spring Data: Connecting to a Database|Kotlin
+- [x] [Kotlin and Spring Data: Connecting to a Database](/Knowledge-base/Kotlin/kotlin-and-spring-data-connecting-to-a-database)
 - [ ] Kotlin and JWT: Securing RESTful APIs|Kotlin
 - [ ] Kotlin and OAuth 2.0: Authentication and Authorization|Kotlin
 - [x] [Kotlin and Spring Security: Protecting Your Web Applications](/Knowledge-base/Kotlin/kotlin-and-spring-security-protecting-your-web-applications)
