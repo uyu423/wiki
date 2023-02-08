@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T21:18:32.283Z
+date: 2023-02-08T21:32:23.282Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -409,7 +409,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Monitoring and Logging in Kubernetes Clusters](/Knowledge-base/Kubernetes/monitoring-and-logging-in-kubernetes-clusters)
 - [x] [Debugging Kubernetes Applications: Understanding Events and Logs](/Knowledge-base/Kubernetes/debugging-kubernetes-applications-understanding-events-and-logs)
 - [x] [Kubernetes Networking: Communication Between Pods and Services](/Knowledge-base/Kubernetes/kubernetes-networking-communication-between-pods-and-services)
-- [ ] Kubernetes Ingress: Exposing Your Services with Custom URLs|Kubernetes
+- [x] [Kubernetes Ingress: Exposing Your Services with Custom URLs](/Knowledge-base/Kubernetes/kubernetes-ingress-exposing-your-services-with-custom-urls)
 - [ ] Kubernetes Jobs and CronJobs: Running One-Off Tasks|Kubernetes
 - [x] [Kubernetes Resource Management: Setting Limits and Requests for Your Pods](/Knowledge-base/Kubernetes/kubernetes-resource-management-setting-limits-and-requests-for-your-pods)
 - [ ] Kubernetes Namespaces: Isolating Resources in Multi-Tenant Clusters|Kubernetes
