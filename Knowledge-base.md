@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T22:32:47.764Z
+date: 2023-02-08T22:56:01.694Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -740,7 +740,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Monitoring Backend Applications with CloudWatch|Backend
 - [ ] Building BFF API for Frontend-Backend Communication|Backend
 - [ ] Agile Methodologies for Backend Development|Backend
-- [ ] Implementing A/B Testing for Backend Applications|Backend
+- [x] [Implementing A/B Testing for Backend Applications](/Knowledge-base/Backend/implementing-ab-testing-for-backend-applications)
 - [ ] Real-time Communication with Socket.io|Backend
 - [x] [Building NoSQL Applications with MongoDB](/Knowledge-base/Backend/building-nosql-applications-with-mongodb)
 - [x] [Setting up a Web Server with nginx and Apache2](/Knowledge-base/Backend/setting-up-a-web-server-with-nginx-and-apache2)
