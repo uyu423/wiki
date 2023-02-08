@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T17:17:58.312Z
+date: 2023-02-08T17:32:58.842Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -399,7 +399,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## Kubernetes
 
-- [ ] Getting Started with Kubernetes: Installation and Cluster Creation|Kubernetes
+- [x] [Getting Started with Kubernetes: Installation and Cluster Creation](/Knowledge-base/Kubernetes/getting-started-with-kubernetes-installation-and-cluster-creation)
 - [x] [Kubernetes Pods: The Building Blocks of Your Cluster](/Knowledge-base/Kubernetes/kubernetes-pods-the-building-blocks-of-your-cluster)
 - [x] [Kubernetes Services: Exposing Your Applications to the World](/Knowledge-base/Kubernetes/kubernetes-services-exposing-your-applications-to-the-world)
 - [x] [Kubernetes ConfigMaps and Secrets: Managing Configuration Data](/Knowledge-base/Kubernetes/kubernetes-configmaps-and-secrets-managing-configuration-data)
