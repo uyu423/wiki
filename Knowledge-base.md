@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T03:19:12.539Z
+date: 2023-02-08T03:32:27.555Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -364,7 +364,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spring Boot and Reactive Programming with Spring WebFlux](/Knowledge-base/Spring-Boot/spring-boot-and-reactive-programming-with-spring-webflux)
 - [x] [Spring Boot and WebSockets for Real-Time Communication](/Knowledge-base/Spring-Boot/spring-boot-and-websockets-for-real-time-communication)
 - [x] [Spring Boot and Spring Cloud for Distributed Systems](/Knowledge-base/Spring-Boot/spring-boot-and-spring-cloud-for-distributed-systems)
-- [ ] Spring Boot and OAuth2 for Security and Authentication|Spring-Boot
+- [x] [Spring Boot and OAuth2 for Security and Authentication](/Knowledge-base/Spring-Boot/spring-boot-and-oauth2-for-security-and-authentication)
 - [x] [Spring Boot and JWT for Security and Authentication](/Knowledge-base/Spring-Boot/spring-boot-and-jwt-for-security-and-authentication)
 - [ ] Spring Boot and LDAP for Security and Authentication|Spring-Boot
 - [x] [Spring Boot and Spring Security for Secure Web Applications](/Knowledge-base/Spring-Boot/spring-boot-and-spring-security-for-secure-web-applications)
