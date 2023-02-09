@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T02:17:51.504Z
+date: 2023-02-09T02:32:35.402Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -415,7 +415,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kubernetes Namespaces: Isolating Resources in Multi-Tenant Clusters](/Knowledge-base/Kubernetes/kubernetes-namespaces-isolating-resources-in-multi-tenant-clusters)
 - [x] [Kubernetes RBAC: Securing Access to Cluster Resources](/Knowledge-base/Kubernetes/kubernetes-rbac-securing-access-to-cluster-resources)
 - [x] [Kubernetes Security: Best Practices for Hardening Your Cluster](/Knowledge-base/Kubernetes/kubernetes-security-best-practices-for-hardening-your-cluster)
-- [ ] Kubernetes Network Policies: Enforcing Communication Rules Between Pods|Kubernetes
+- [x] [Kubernetes Network Policies: Enforcing Communication Rules Between Pods](/Knowledge-base/Kubernetes/kubernetes-network-policies-enforcing-communication-rules-between-pods)
 - [x] [Kubernetes Custom Resource Definitions: Extending the Kubernetes API](/Knowledge-base/Kubernetes/kubernetes-custom-resource-definitions-extending-the-kubernetes-api)
 - [ ] Kubernetes Operators: Automating Application Management with Custom Controllers|Kubernetes
 - [ ] Kubernetes Extension APIs: Enhancing the Functionality of Your Cluster|Kubernetes
