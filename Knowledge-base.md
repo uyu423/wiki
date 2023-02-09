@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T21:32:41.097Z
+date: 2023-02-09T21:55:37.235Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1833,7 +1833,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Adobe Experience Manager](/Knowledge-base/Dictionary/adobe-experience-manager)
 - [ ] Content Delivery Network|Dictionary
 - [ ] DNS|Dictionary
-- [ ] IP Address|Dictionary
+- [x] [IP Address](/Knowledge-base/Dictionary/ip-address)
 - [ ] Domain Name|Dictionary
 - [x] [URL](/Knowledge-base/Dictionary/url)
 - [ ] HTTP|Dictionary
