@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T05:32:32.453Z
+date: 2023-02-09T05:56:44.698Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1449,7 +1449,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Data Science](/Knowledge-base/Dictionary/data-science)
 - [ ] Big Data|Dictionary
 - [x] [Cybersecurity](/Knowledge-base/Dictionary/cybersecurity)
-- [ ] Web Development|Dictionary
+- [x] [Web Development](/Knowledge-base/Dictionary/web-development)
 - [x] [Mobile Development](/Knowledge-base/Dictionary/mobile-development)
 - [ ] Software Engineering|Dictionary
 - [ ] Systems Architecture|Dictionary
