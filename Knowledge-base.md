@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T07:55:35.229Z
+date: 2023-02-09T08:17:33.705Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -141,7 +141,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## Algorithm (use C Lang)
 - [ ] [C Language] 001: Asymptotic Analysis|Algorithm
-- [ ] [C Language] 002: Time Complexity|Algorithm
+- [x] [[C Language] 002: Time Complexity](/Knowledge-base/Algorithm/c-language-002-time-complexity)
 - [ ] [C Language] 003: Space Complexity|Algorithm
 - [ ] [C Language] 004: Divide and Conquer Algorithms|Algorithm
 - [ ] [C Language] 005: Dynamic Programming Algorithms|Algorithm
