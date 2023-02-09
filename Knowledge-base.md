@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T03:38:41.404Z
+date: 2023-02-09T03:59:49.266Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1917,7 +1917,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Infosys Limited (India)|Dictionary/Company
 - [ ] HCL Technologies Limited (India)|Dictionary/Company
 - [ ] Tata Consultancy Services (TCS) (India)|Dictionary/Company
-- [ ] Lenovo Group Limited (China)|Dictionary/Company
+- [x] [Lenovo Group Limited (China)](/Knowledge-base/Dictionary/Company/lenovo-group-limited-china)
 - [ ] Hitachi, Ltd. (Japan)|Dictionary/Company
 - [x] [Fujitsu Limited (Japan)](/Knowledge-base/Dictionary/Company/fujitsu-limited-japan)
 - [ ] NEC Corporation (Japan)|Dictionary/Company
