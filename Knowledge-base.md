@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T01:33:00.238Z
+date: 2023-02-09T01:55:32.380Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1957,5 +1957,5 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Robert Morris (UNIX Developer)](/Knowledge-base/Dictionary/Person/robert-morris-unix-developer)
 - [ ] Jaron Lanier (Virtual Reality Pioneer)|Dictionary/Person
 - [ ] Douglas Engelbart (Computer Mouse Inventor)|Dictionary/Person
-- [ ] Bob Taylor (ARPA Network Manager)|Dictionary/Person
+- [x] [Bob Taylor (ARPA Network Manager)](/Knowledge-base/Dictionary/Person/bob-taylor-arpa-network-manager)
 - [ ] Vint Cerf (Internet Pioneer)|Dictionary/Person
