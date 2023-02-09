@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T02:49:49.279Z
+date: 2023-02-09T02:55:48.409Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -454,7 +454,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 007: Creating services in Nest.js|Nest-js/Learning
 - [ ] 008: Working with databases in Nest.js|Nest-js/Learning
 - [ ] 009: Integrating with MongoDB in Nest.js|Nest-js/Learning
-- [ ] 010: Integrating with TypeORM in Nest.js|Nest-js/Learning
+- [x] [010: Integrating with TypeORM in Nest.js](/Knowledge-base/Nest-js/Learning/010-integrating-with-typeorm-in-nest-js)
 - [ ] 011: Implementing authentication in Nest.js|Nest-js/Learning
 - [ ] 012: Using guards for route protection in Nest.js|Nest-js/Learning
 - [ ] 013: Implementing authorization in Nest.js|Nest-js/Learning
