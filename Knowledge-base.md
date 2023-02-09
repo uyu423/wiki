@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T21:17:42.404Z
+date: 2023-02-09T21:32:41.097Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -66,7 +66,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[JavaScript] 016: Doubly Linked List](/Knowledge-base/Algorithm/javascript-016-doubly-linked-list)
 - [x] [[JavaScript] 017: Circular Linked List](/Knowledge-base/Algorithm/javascript-017-circular-linked-list)
 - [x] [[JavaScript] 018: Skip List](/Knowledge-base/Algorithm/javascript-018-skip-list)
-- [ ] [JavaScript] 019: Binary Tree|Algorithm
+- [x] [[JavaScript] 019: Binary Tree](/Knowledge-base/Algorithm/javascript-019-binary-tree)
 - [ ] [JavaScript] 020: AVL Tree|Algorithm
 - [ ] [JavaScript] 021: B-Tree|Algorithm
 - [ ] [JavaScript] 022: Trie|Algorithm
