@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T18:17:40.296Z
+date: 2023-02-09T18:32:36.635Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -63,7 +63,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[JavaScript] 013: Deque](/Knowledge-base/Algorithm/javascript-013-deque)
 - [x] [[JavaScript] 014: Priority Queue](/Knowledge-base/Algorithm/javascript-014-priority-queue)
 - [x] [[JavaScript] 015: Single Linked List](/Knowledge-base/Algorithm/javascript-015-single-linked-list)
-- [ ] [JavaScript] 016: Doubly Linked List|Algorithm
+- [x] [[JavaScript] 016: Doubly Linked List](/Knowledge-base/Algorithm/javascript-016-doubly-linked-list)
 - [ ] [JavaScript] 017: Circular Linked List|Algorithm
 - [ ] [JavaScript] 018: Skip List|Algorithm
 - [ ] [JavaScript] 019: Binary Tree|Algorithm
