@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T03:30:27.485Z
+date: 2023-02-09T03:30:55.448Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -49,7 +49,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## Algorithm
 
-- [ ] Learning in C 001: Asymptotic Analysis|Algorithm
+- [x] [Learning in C 001: Asymptotic Analysis](/Knowledge-base/Algorithm/learning-in-c-001-asymptotic-analysis)
 - [ ] Learning in C 002: Time Complexity|Algorithm
 - [ ] Learning in C 003: Space Complexity|Algorithm
 - [ ] Learning in C 004: Divide and Conquer Algorithms|Algorithm
