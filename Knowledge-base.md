@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T22:32:24.071Z
+date: 2023-02-09T22:55:39.100Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1174,7 +1174,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Importance of User Experience (UX) Design](/Knowledge-base/Common/the-importance-of-user-experience-ux-design)
 - [x] [How to Use Git and GitHub for Version Control](/Knowledge-base/Common/how-to-use-git-and-github-for-version-control)
 - [x] [The Benefits of Load Balancing and IP Addressing](/Knowledge-base/Common/the-benefits-of-load-balancing-and-ip-addressing)
-- [ ] Introduction to Machine Learning with TensorFlow and Keras|Common
+- [x] [Introduction to Machine Learning with TensorFlow and Keras](/Knowledge-base/Common/introduction-to-machine-learning-with-tensorflow-and-keras)
 - [ ] How to Build a Responsive Website with Bootstrap|Common
 - [x] [The Importance of Automated Testing and Continuous Integration](/Knowledge-base/Common/the-importance-of-automated-testing-and-continuous-integration)
 - [x] [How to Build a Real-Time Application with WebSockets](/Knowledge-base/Common/how-to-build-a-real-time-application-with-websockets)
