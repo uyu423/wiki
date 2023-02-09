@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T07:32:28.397Z
+date: 2023-02-09T07:55:35.229Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -799,7 +799,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and REST API: Building and Consuming RESTful Services|Kotlin
 - [x] [Kotlin and XML Processing: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-xml-processing-advanced-topics)
 - [ ] Kotlin and JSON Processing: Advanced Topics|Kotlin
-- [ ] Kotlin and Token-based Authentication|Kotlin
+- [x] [Kotlin and Token-based Authentication](/Knowledge-base/Kotlin/kotlin-and-token-based-authentication)
 - [ ] Kotlin and Session Management|Kotlin
 - [x] [Kotlin and Authorization: Implementing Role-Based Access](/Knowledge-base/Kotlin/kotlin-and-authorization-implementing-role-based-access)
 - [ ] Kotlin and RSA Encryption: Advanced Topics|Kotlin
