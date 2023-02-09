@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T20:55:26.960Z
+date: 2023-02-09T21:17:42.404Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1687,7 +1687,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Issue Tracking](/Knowledge-base/Dictionary/issue-tracking)
 - [x] [Agile Project Management](/Knowledge-base/Dictionary/agile-project-management)
 - [ ] Kanban|Dictionary
-- [ ] Lean Project Management|Dictionary
+- [x] [Lean Project Management](/Knowledge-base/Dictionary/lean-project-management)
 - [ ] Project Plan|Dictionary
 - [ ] Gantt Chart|Dictionary
 - [ ] Resource Allocation|Dictionary
