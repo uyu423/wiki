@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-08T23:55:36.240Z
+date: 2023-02-09T00:18:27.523Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1329,7 +1329,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Git](/Knowledge-base/Dictionary/git)
 - [ ] Agile|Dictionary
 - [ ] Scrum|Dictionary
-- [ ] Cloud Computing|Dictionary
+- [x] [Cloud Computing](/Knowledge-base/Dictionary/cloud-computing)
 - [ ] DevOps|Dictionary
 - [x] [UX/UI Design](/Knowledge-base/Dictionary/uxui-design)
 - [ ] AI/ML|Dictionary
