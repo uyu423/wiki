@@ -2,13 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T03:18:34.655Z
+date: 2023-02-09T03:19:10.709Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [ ] 008: Learning in C: Linked List|Algorithm
+- [x] [008: Learning in C: Linked List](/Knowledge-base/Algorithm/008-learning-in-c-linked-list)
 - [x] [Thread Dump Analysis and Examples in Java Applications](/Knowledge-base/Java/thread-dump-analysis-and-examples-in-java-applications)
 - [x] [NAVER SELECTIVE](/Knowledge-base/Dictionary/naver-selective)
 - [x] [Yanolja (South Korea)](/Knowledge-base/Dictionary/Company/yanolja-south-korea)
