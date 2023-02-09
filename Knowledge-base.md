@@ -2,12 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T03:30:55.448Z
+date: 2023-02-09T03:31:43.566Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
+- [ ] Learning in C 014: Priority Queue|Algorithm
 - [x] [Thread Dump Analysis and Examples in Java Applications](/Knowledge-base/Java/thread-dump-analysis-and-examples-in-java-applications)
 - [x] [NAVER SELECTIVE](/Knowledge-base/Dictionary/naver-selective)
 - [x] [Yanolja (South Korea)](/Knowledge-base/Dictionary/Company/yanolja-south-korea)
@@ -62,7 +63,6 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Learning in C 011: Stack|Algorithm
 - [ ] Learning in C 012: Queue|Algorithm
 - [ ] Learning in C 013: Deque|Algorithm
-- [ ] Learning in C 014: Priority Queue|Algorithm
 - [ ] Learning in C 015: Single Linked List|Algorithm
 - [ ] Learning in C 016: Doubly Linked List|Algorithm
 - [ ] Learning in C 017: Circular Linked List|Algorithm
