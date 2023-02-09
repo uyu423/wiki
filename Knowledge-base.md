@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T01:55:32.380Z
+date: 2023-02-09T02:17:51.504Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -756,7 +756,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Laravel: A PHP Framework for Backend Development](/Knowledge-base/Backend/laravel-a-php-framework-for-backend-development)
 - [x] [Securing Backend Applications with OAuth and JWT](/Knowledge-base/Backend/securing-backend-applications-with-oauth-and-jwt)
 - [x] [Managing User Sessions with Tokens and Cookies](/Knowledge-base/Backend/managing-user-sessions-with-tokens-and-cookies)
-- [ ] Implementing Authentication and Authorization for Backend Applications|Backend
+- [x] [Implementing Authentication and Authorization for Backend Applications](/Knowledge-base/Backend/implementing-authentication-and-authorization-for-backend-applications)
 - [ ] Securing Backend Applications with HTTPS and Encryption|Backend
 - [x] [Hash Functions and PBKDF2 for Secure Passwords](/Knowledge-base/Backend/hash-functions-and-pbkdf2-for-secure-passwords)
 - [x] [Scaling Backend Applications with Load Balancing](/Knowledge-base/Backend/scaling-backend-applications-with-load-balancing)
