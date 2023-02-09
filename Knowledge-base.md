@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T16:32:46.671Z
+date: 2023-02-09T16:55:42.054Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -993,7 +993,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AWS Direct Connect: Building High-Speed Network Connections to the Cloud](/Knowledge-base/Cloud/aws-direct-connect-building-high-speed-network-connections-to-the-cloud)
 - [x] [AWS Elastic IPs: Allocating Static IP Addresses for Cloud Resources](/Knowledge-base/Cloud/aws-elastic-ips-allocating-static-ip-addresses-for-cloud-resources)
 - [x] [AWS Auto Scaling: Automatically Scaling Cloud Resources Based on Load](/Knowledge-base/Cloud/aws-auto-scaling-automatically-scaling-cloud-resources-based-on-load)
-- [ ] AWS CloudWatch: Monitoring and Debugging Cloud Applications|Cloud
+- [x] [AWS CloudWatch: Monitoring and Debugging Cloud Applications](/Knowledge-base/Cloud/aws-cloudwatch-monitoring-and-debugging-cloud-applications)
 - [x] [AWS CloudTrail: Logging AWS API Calls for Compliance and Auditing](/Knowledge-base/Cloud/aws-cloudtrail-logging-aws-api-calls-for-compliance-and-auditing)
 - [x] [AWS Elasticache: Scaling Memcached or Redis Caching for Web Applications](/Knowledge-base/Cloud/aws-elasticache-scaling-memcached-or-redis-caching-for-web-applications)
 - [x] [AWS SES: Sending and Receiving Emails with Simple Email Service](/Knowledge-base/Cloud/aws-ses-sending-and-receiving-emails-with-simple-email-service)
