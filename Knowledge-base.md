@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T14:32:53.744Z
+date: 2023-02-09T14:56:47.158Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1731,7 +1731,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Intrusion Prevention](/Knowledge-base/Dictionary/intrusion-prevention)
 - [x] [Wide Area Network](/Knowledge-base/Dictionary/wide-area-network)
 - [x] [Local Area Network](/Knowledge-base/Dictionary/local-area-network)
-- [ ] Wireless Network|Dictionary
+- [x] [Wireless Network](/Knowledge-base/Dictionary/wireless-network)
 - [x] [Network Management](/Knowledge-base/Dictionary/network-management)
 - [x] [Traffic Management](/Knowledge-base/Dictionary/traffic-management)
 - [ ] Quality of Service|Dictionary
