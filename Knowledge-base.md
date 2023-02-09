@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T22:55:39.100Z
+date: 2023-02-09T23:17:59.172Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1921,7 +1921,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Shopify Inc.|Dictionary/Company
 - [x] [Dropbox, Inc.](/Knowledge-base/Dictionary/Company/dropbox-inc-)
 - [ ] AirBnB, Inc.|Dictionary/Company
-- [ ] Uber Technologies, Inc.|Dictionary/Company
+- [x] [Uber Technologies, Inc.](/Knowledge-base/Dictionary/Company/uber-technologies-inc-)
 - [ ] Tesla, Inc.|Dictionary/Company
 - [ ] Palantir Technologies Inc.|Dictionary/Company
 - [ ] NVIDIA Corporation|Dictionary/Company
