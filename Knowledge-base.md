@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T17:33:43.292Z
+date: 2023-02-09T17:55:46.403Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1575,7 +1575,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Intrusion Prevention System|Dictionary
 - [ ] Virtual Private Network|Dictionary
 - [x] [Public Key Infrastructure](/Knowledge-base/Dictionary/public-key-infrastructure)
-- [ ] Certificate Authority|Dictionary
+- [x] [Certificate Authority](/Knowledge-base/Dictionary/certificate-authority)
 - [x] [Encryption](/Knowledge-base/Dictionary/encryption)
 - [ ] Digital Signature|Dictionary
 - [x] [Authentication](/Knowledge-base/Dictionary/authentication)
