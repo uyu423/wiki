@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T00:32:33.487Z
+date: 2023-02-09T00:55:26.978Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1022,7 +1022,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] How to Implement a DevOps Workflow|Common
 - [x] [The Power of Parallel Processing and GPU Computing](/Knowledge-base/Common/the-power-of-parallel-processing-and-gpu-computing)
 - [ ] Introduction to Network Programming and Socket Programming|Common
-- [ ] The Advantages of Serverless Architecture and AWS Lambda|Common
+- [x] [The Advantages of Serverless Architecture and AWS Lambda](/Knowledge-base/Common/the-advantages-of-serverless-architecture-and-aws-lambda)
 - [x] [How to Optimize SQL Queries for Improved Performance](/Knowledge-base/Common/how-to-optimize-sql-queries-for-improved-performance)
 - [ ] The Fundamentals of Game Development with Unity|Common
 - [ ] How to Build a Scalable Web Application with Microservices|Common
