@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T12:18:17.424Z
+date: 2023-02-09T12:32:55.254Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -57,7 +57,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[JavaScript] 007: Backtracking Algorithms](/Knowledge-base/Algorithm/javascript-007-backtracking-algorithms)
 - [x] [[JavaScript] 008: Linked List](/Knowledge-base/Algorithm/javascript-008-linked-list)
 - [x] [[JavaScript] 009: Double Linked List](/Knowledge-base/Algorithm/javascript-009-double-linked-list)
-- [ ] [JavaScript] 010: Circular Linked List|Algorithm
+- [x] [[JavaScript] 010: Circular Linked List](/Knowledge-base/Algorithm/javascript-010-circular-linked-list)
 - [ ] [JavaScript] 011: Stack|Algorithm
 - [ ] [JavaScript] 012: Queue|Algorithm
 - [ ] [JavaScript] 013: Deque|Algorithm
