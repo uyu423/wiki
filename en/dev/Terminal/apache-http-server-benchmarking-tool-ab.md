@@ -2,13 +2,11 @@
 title: ab - Apache HTTP server benchmarking tool
 description: 
 published: true
-date: 2023-02-09T07:22:40.676Z
-tags: http, terminal, ab, benchmark, linux
+date: 2023-02-09T07:22:51.889Z
+tags: ab, benchmark, http, linux, terminal
 editor: markdown
 dateCreated: 2023-02-09T07:22:40.676Z
 ---
-
-# Apache HTTP Server Benchmarking Tool "ab"
 
 The Apache HTTP server benchmarking tool, also known as "ab", is a tool used to measure the performance of web servers. The tool simulates multiple client requests to a web server and provides information on the server's response time and its ability to handle a large number of requests. In this article, we will discuss the basics of using the ab tool, its features and a sample usage.
 
