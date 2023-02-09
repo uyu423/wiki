@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T07:18:18.749Z
+date: 2023-02-09T07:32:28.397Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -52,7 +52,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[Learning in JavaScript] 002: Time Complexity](/Knowledge-base/Algorithm/learning-in-javascript-002-time-complexity)
 - [x] [[JavaScript] 003: Space Complexity](/Knowledge-base/Algorithm/javascript-003-space-complexity)
 - [x] [[JavaScript] 004: Divide and Conquer Algorithms](/Knowledge-base/Algorithm/javascript-004-divide-and-conquer-algorithms)
-- [ ] [JavaScript] 005: Dynamic Programming Algorithms|Algorithm
+- [x] [[JavaScript] 005: Dynamic Programming Algorithms](/Knowledge-base/Algorithm/javascript-005-dynamic-programming-algorithms)
 - [ ] [JavaScript] 006: Greedy Algorithms|Algorithm
 - [ ] [JavaScript] 007: Backtracking Algorithms|Algorithm
 - [ ] [JavaScript] 008: Linked List|Algorithm
