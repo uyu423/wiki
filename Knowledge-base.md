@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T23:32:57.497Z
+date: 2023-02-09T23:56:02.571Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2075,7 +2075,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Mike Krieger (Instagram Co-founder)|Dictionary/Person
 - [x] [Noam Chomsky (Linguistics Professor and Author)](/Knowledge-base/Dictionary/Person/noam-chomsky-linguistics-professor-and-author)
 - [ ] Claude Shannon (Information Theory Pioneer)|Dictionary/Person
-- [ ] Norbert Wiener (Cybernetics Founder)|Dictionary/Person
+- [x] [Norbert Wiener (Cybernetics Founder)](/Knowledge-base/Dictionary/Person/norbert-wiener-cybernetics-founder)
 - [ ] John von Neumann (Computer Science Pioneer)|Dictionary/Person
 - [ ] Edsger W. Dijkstra (Computer Science Pioneer)|Dictionary/Person
 - [ ] John Backus (FORTRAN Creator)|Dictionary/Person
