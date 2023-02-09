@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T03:33:32.279Z
+date: 2023-02-09T03:37:02.484Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -48,7 +48,55 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [building-resilient-backend-systems-with-circuit-breakers](/ko/Knowledge-base/Backend/building-resilient-backend-systems-with-circuit-breakers)
 
 ## Algorithm
-
+- [ ] [Learning in JavaScript] 001: Asymptotic Analysis|Algorithm
+- [ ] [Learning in JavaScript] 002: Time Complexity|Algorithm
+- [ ] [Learning in JavaScript] 003: Space Complexity|Algorithm
+- [ ] [Learning in JavaScript] 004: Divide and Conquer Algorithms|Algorithm
+- [ ] [Learning in JavaScript] 005: Dynamic Programming Algorithms|Algorithm
+- [ ] [Learning in JavaScript] 006: Greedy Algorithms|Algorithm
+- [ ] [Learning in JavaScript] 007: Backtracking Algorithms|Algorithm
+- [ ] [Learning in JavaScript] 008: Linked List|Algorithm
+- [ ] [Learning in JavaScript] 009: Double Linked List|Algorithm
+- [ ] [Learning in JavaScript] 010: Circular Linked List|Algorithm
+- [ ] [Learning in JavaScript] 011: Stack|Algorithm
+- [ ] [Learning in JavaScript] 012: Queue|Algorithm
+- [ ] [Learning in JavaScript] 013: Deque|Algorithm
+- [ ] [Learning in JavaScript] 014: Priority Queue|Algorithm
+- [ ] [Learning in JavaScript] 015: Single Linked List|Algorithm
+- [ ] [Learning in JavaScript] 016: Doubly Linked List|Algorithm
+- [ ] [Learning in JavaScript] 017: Circular Linked List|Algorithm
+- [ ] [Learning in JavaScript] 018: Skip List|Algorithm
+- [ ] [Learning in JavaScript] 019: Binary Tree|Algorithm
+- [ ] [Learning in JavaScript] 020: AVL Tree|Algorithm
+- [ ] [Learning in JavaScript] 021: B-Tree|Algorithm
+- [ ] [Learning in JavaScript] 022: Trie|Algorithm
+- [ ] [Learning in JavaScript] 023: Graph Representation|Algorithm
+- [ ] [Learning in JavaScript] 024: Breadth-First Search|Algorithm
+- [ ] [Learning in JavaScript] 025: Depth-First Search|Algorithm
+- [ ] [Learning in JavaScript] 026: Topological Sort|Algorithm
+- [ ] [Learning in JavaScript] 027: Minimum Spanning Tree|Algorithm
+- [ ] [Learning in JavaScript] 028: Shortest Path Algorithms (Dijkstra, Bellman-Ford, etc.)|Algorithm
+- [ ] [Learning in JavaScript] 029: Bubble Sort|Algorithm
+- [ ] [Learning in JavaScript] 030: Insertion Sort|Algorithm
+- [ ] [Learning in JavaScript] 031: Selection Sort|Algorithm
+- [ ] [Learning in JavaScript] 032: Merge Sort|Algorithm
+- [ ] [Learning in JavaScript] 033: Quick Sort|Algorithm
+- [ ] [Learning in JavaScript] 034: Heap Sort|Algorithm
+- [ ] [Learning in JavaScript] 035: Radix Sort|Algorithm
+- [ ] [Learning in JavaScript] 036: Hash Table|Algorithm
+- [ ] [Learning in JavaScript] 037: Hash Function|Algorithm
+- [ ] [Learning in JavaScript] 038: Collision Resolution Techniques (Chaining, Open Addressing, etc.)|Algorithm
+- [ ] [Learning in JavaScript] 039: Heap-Based Priority Queue|Algorithm
+- [ ] [Learning in JavaScript] 040: Binary Heap|Algorithm
+- [ ] [Learning in JavaScript] 041: Fibonacci Heap|Algorithm
+- [ ] [Learning in JavaScript] 042: Red-Black Tree|Algorithm
+- [ ] [Learning in JavaScript] 043: Splay Tree|Algorithm
+- [ ] [Learning in JavaScript] 044: K-D Tree|Algorithm
+- [ ] [Learning in JavaScript] 045: R-Tree|Algorithm
+- [ ] [Learning in JavaScript] 046: Trie|Algorithm
+- [ ] [Learning in JavaScript] 047: Suffix Trie|Algorithm
+- [ ] [Learning in JavaScript] 048: Suffix Array|Algorithm
+- [ ] [Learning in JavaScript] 049: Radix Tree (Compact Trie)|Algorithm
 - [ ] [Learning in C] 001: Asymptotic Analysis|Algorithm
 - [ ] [Learning in C] 002: Time Complexity|Algorithm
 - [ ] [Learning in C] 003: Space Complexity|Algorithm
