@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T06:32:36.569Z
+date: 2023-02-09T06:56:01.224Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -611,7 +611,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 021: Creating custom pipes in Nest.js|Nest-js/Learning
 - [ ] 022: Implementing internationalization in Nest.js|Nest-js/Learning
 - [ ] 023: Using templates with Nest.js|Nest-js/Learning
-- [ ] 024: Creating and consuming REST APIs in Nest.js|Nest-js/Learning
+- [x] [024: Creating and consuming REST APIs in Nest.js](/Knowledge-base/Nest-js/Learning/024-creating-and-consuming-rest-apis-in-nest-js)
 - [ ] 025: Creating and consuming GraphQL APIs in Nest.js|Nest-js/Learning
 - [ ] 026: Understanding Nest.js microservices|Nest-js/Learning
 - [ ] 027: Implementing microservices with Nest.js|Nest-js/Learning
