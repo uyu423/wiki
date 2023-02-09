@@ -2,7 +2,7 @@
 title: ab - Apache HTTP server benchmarking tool
 description: 
 published: true
-date: 2023-02-09T07:48:07.166Z
+date: 2023-02-09T07:48:40.040Z
 tags: ab, benchmark, http, linux, terminal
 editor: markdown
 dateCreated: 2023-02-09T07:22:40.676Z
@@ -47,6 +47,9 @@ Suppose we want to test the performance of a web server located at `http://googl
 ```bash
 ab -n 500 -c 20 http://google.com/
 ```
+
+The output of this command will provide information about the server's response time, the number of requests per second, the time taken for the test, and various other performance metrics.
+
 ```
 This is ApacheBench, Version 2.3 <$Revision: 1901567 $>
 Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
@@ -98,8 +101,6 @@ Percentage of the requests served within a certain time (ms)
   99%    381
  100%    471 (longest request)
 ```
-
-The output of this command will provide information about the server's response time, the number of requests per second, the time taken for the test, and various other performance metrics.
 
 
 ## Conclusion
