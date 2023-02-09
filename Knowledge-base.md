@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T03:59:49.266Z
+date: 2023-02-09T04:18:36.176Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1229,7 +1229,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Node.js and Graph Databases: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-graph-databases-a-hands-on-guide)
 - [ ] Node.js and Machine Learning: A Hands-On Guide|Nodejs
 - [x] [Node.js and AI: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-ai-a-hands-on-guide)
-- [ ] Node.js and Computer Vision: A Hands-On Guide|Nodejs
+- [x] [Node.js and Computer Vision: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-computer-vision-a-hands-on-guide)
 - [x] [Node.js and Natural Language Processing: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-natural-language-processing-a-hands-on-guide)
 - [x] [Node.js and Speech Recognition: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-speech-recognition-a-hands-on-guide)
 
