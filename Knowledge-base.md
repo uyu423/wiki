@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T08:55:26.308Z
+date: 2023-02-09T09:17:52.575Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1202,7 +1202,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Mobile App Development with React Native](/Knowledge-base/Common/mobile-app-development-with-react-native)
 - [x] [Creating 3D Games with Unity](/Knowledge-base/Common/creating-3d-games-with-unity)
 - [ ] How to Secure Your Website with HTTPS and SSL Certificates|Common
-- [ ] Exploring the Internet of Things (IoT) and its Applications|Common
+- [x] [Exploring the Internet of Things (IoT) and its Applications](/Knowledge-base/Common/exploring-the-internet-of-things-iot-and-its-applications)
 - [ ] Using Microservices to Build Scalable Applications|Common
 - [ ] Building RESTful APIs with Node.js and Express|Common
 - [x] [Implementing Advanced Algorithms for Machine Learning](/Knowledge-base/Common/implementing-advanced-algorithms-for-machine-learning)
