@@ -2,13 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T02:47:42.205Z
+date: 2023-02-09T02:49:49.279Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [ ] Thread Dump Analysis and Examples in Java Applications|Java
+- [x] [Thread Dump Analysis and Examples in Java Applications](/Knowledge-base/Java/thread-dump-analysis-and-examples-in-java-applications)
 - [x] [NAVER SELECTIVE](/Knowledge-base/Dictionary/naver-selective)
 - [x] [Yanolja (South Korea)](/Knowledge-base/Dictionary/Company/yanolja-south-korea)
 - [x] [Wooahan Brothers (South Korea)](/Knowledge-base/Dictionary/Company/wooahan-brothers-south-korea)
