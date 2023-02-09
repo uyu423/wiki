@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T20:32:44.782Z
+date: 2023-02-09T20:55:26.960Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1036,7 +1036,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Working with AWS and Azure Databases|Cloud
 - [ ] Using AWS and Azure for Machine Learning and AI Workloads|Cloud
 - [ ] Integrating Cloud Services with DevOps Toolchains|Cloud
-- [ ] Exploring Advanced Features of AWS and Azure for IT Services|Cloud
+- [x] [Exploring Advanced Features of AWS and Azure for IT Services](/Knowledge-base/Cloud/exploring-advanced-features-of-aws-and-azure-for-it-services)
 - [x] [Building Hybrid Clouds with AWS and Azure](/Knowledge-base/Cloud/building-hybrid-clouds-with-aws-and-azure)
 - [ ] Managing Compliance and Governance on AWS and Azure|Cloud
 - [ ] Troubleshooting Common Issues with Cloud Services on AWS and Azure|Cloud
