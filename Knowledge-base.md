@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T03:19:10.709Z
+date: 2023-02-09T03:23:49.148Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -419,7 +419,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kubernetes Security: Best Practices for Hardening Your Cluster](/Knowledge-base/Kubernetes/kubernetes-security-best-practices-for-hardening-your-cluster)
 - [x] [Kubernetes Network Policies: Enforcing Communication Rules Between Pods](/Knowledge-base/Kubernetes/kubernetes-network-policies-enforcing-communication-rules-between-pods)
 - [x] [Kubernetes Custom Resource Definitions: Extending the Kubernetes API](/Knowledge-base/Kubernetes/kubernetes-custom-resource-definitions-extending-the-kubernetes-api)
-- [ ] Kubernetes Operators: Automating Application Management with Custom Controllers|Kubernetes
+- [x] [Kubernetes Operators: Automating Application Management with Custom Controllers](/Knowledge-base/Kubernetes/kubernetes-operators-automating-application-management-with-custom-controllers)
 - [ ] Kubernetes Extension APIs: Enhancing the Functionality of Your Cluster|Kubernetes
 - [ ] Kubernetes Web UI: Managing Your Cluster with the Dashboard|Kubernetes
 - [x] [Kubernetes CLI: Working with Your Cluster from the Command Line](/Knowledge-base/Kubernetes/kubernetes-cli-working-with-your-cluster-from-the-command-line)
