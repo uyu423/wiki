@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T11:56:10.189Z
+date: 2023-02-09T12:18:17.424Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -972,7 +972,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## Cloud
 
-- [ ] AWS Elastic Beanstalk: Deploying and Scaling a Simple Web Application|Cloud
+- [x] [AWS Elastic Beanstalk: Deploying and Scaling a Simple Web Application](/Knowledge-base/Cloud/aws-elastic-beanstalk-deploying-and-scaling-a-simple-web-application)
 - [ ] AWS Lambda: Building Serverless Functions for Event-Driven Applications|Cloud
 - [ ] AWS DynamoDB: Creating a NoSQL Database and Integrating with a Web Application|Cloud
 - [ ] AWS S3: Storing and Retrieving Files in the Cloud|Cloud
