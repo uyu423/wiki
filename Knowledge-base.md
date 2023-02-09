@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T00:18:27.523Z
+date: 2023-02-09T00:32:33.487Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -413,7 +413,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kubernetes Jobs and CronJobs: Running One-Off Tasks](/Knowledge-base/Kubernetes/kubernetes-jobs-and-cronjobs-running-one-off-tasks)
 - [x] [Kubernetes Resource Management: Setting Limits and Requests for Your Pods](/Knowledge-base/Kubernetes/kubernetes-resource-management-setting-limits-and-requests-for-your-pods)
 - [x] [Kubernetes Namespaces: Isolating Resources in Multi-Tenant Clusters](/Knowledge-base/Kubernetes/kubernetes-namespaces-isolating-resources-in-multi-tenant-clusters)
-- [ ] Kubernetes RBAC: Securing Access to Cluster Resources|Kubernetes
+- [x] [Kubernetes RBAC: Securing Access to Cluster Resources](/Knowledge-base/Kubernetes/kubernetes-rbac-securing-access-to-cluster-resources)
 - [ ] Kubernetes Security: Best Practices for Hardening Your Cluster|Kubernetes
 - [ ] Kubernetes Network Policies: Enforcing Communication Rules Between Pods|Kubernetes
 - [x] [Kubernetes Custom Resource Definitions: Extending the Kubernetes API](/Knowledge-base/Kubernetes/kubernetes-custom-resource-definitions-extending-the-kubernetes-api)
