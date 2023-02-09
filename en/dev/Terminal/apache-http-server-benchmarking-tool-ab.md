@@ -2,7 +2,7 @@
 title: ab - Apache HTTP server benchmarking tool
 description: 
 published: true
-date: 2023-02-09T11:43:54.579Z
+date: 2023-02-09T11:49:06.222Z
 tags: ab, benchmark, http, linux, terminal
 editor: markdown
 dateCreated: 2023-02-09T07:22:40.676Z
@@ -12,7 +12,7 @@ The Apache HTTP server benchmarking tool, also known as "ab", is a tool used to 
 
 ## Getting Started with ab
 
-The ab tool is included in the Apache HTTP Server package, which can be installed on a variety of operating systems, including Windows, macOS, and Linux. To use the ab tool, you must first have the Apache HTTP Server installed on your system.
+The ab tool is included in the Apache HTTP Server package, which can be installed on a variety of operating systems, including Windows, macOS, and Linux. To use the ab tool, you must first have the Apache HTTP Server or `apache2-utils` installed on your system.
 
 ## Usage
 
