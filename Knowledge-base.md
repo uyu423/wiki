@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T10:55:51.760Z
+date: 2023-02-09T11:17:39.278Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -111,7 +111,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Introduction to the Linux Kernel|Linux
 - [ ] Linux Memory Management|Linux
 - [ ] Linux Process Scheduling|Linux
-- [ ] Linux System Calls and Libraries|Linux
+- [x] [Linux System Calls and Libraries](/Knowledge-base/Linux/linux-system-calls-and-libraries)
 - [ ] Linux Interrupts and Signals|Linux
 - [ ] Linux Virtual Memory and Swapping|Linux
 - [ ] Linux File Systems: ext4, XFS, Btrfs, and more|Linux
