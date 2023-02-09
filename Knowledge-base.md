@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T09:17:52.575Z
+date: 2023-02-09T09:32:38.339Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -54,7 +54,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[JavaScript] 004: Divide and Conquer Algorithms](/Knowledge-base/Algorithm/javascript-004-divide-and-conquer-algorithms)
 - [x] [[JavaScript] 005: Dynamic Programming Algorithms](/Knowledge-base/Algorithm/javascript-005-dynamic-programming-algorithms)
 - [x] [[JavaScript] 006: Greedy Algorithms](/Knowledge-base/Algorithm/javascript-006-greedy-algorithms)
-- [ ] [JavaScript] 007: Backtracking Algorithms|Algorithm
+- [x] [[JavaScript] 007: Backtracking Algorithms](/Knowledge-base/Algorithm/javascript-007-backtracking-algorithms)
 - [ ] [JavaScript] 008: Linked List|Algorithm
 - [ ] [JavaScript] 009: Double Linked List|Algorithm
 - [ ] [JavaScript] 010: Circular Linked List|Algorithm
