@@ -2,13 +2,12 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T03:26:13.302Z
+date: 2023-02-09T03:30:27.485Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [x] [008: Learning in C: Linked List](/Knowledge-base/Algorithm/008-learning-in-c-linked-list)
 - [x] [Thread Dump Analysis and Examples in Java Applications](/Knowledge-base/Java/thread-dump-analysis-and-examples-in-java-applications)
 - [x] [NAVER SELECTIVE](/Knowledge-base/Dictionary/naver-selective)
 - [x] [Yanolja (South Korea)](/Knowledge-base/Dictionary/Company/yanolja-south-korea)
@@ -47,6 +46,58 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [setting-up-a-backend-system-with-spring-boot](/ko/Knowledge-base/Backend/setting-up-a-backend-system-with-spring-boot)
 - [x] [building-backend-systems-with-grpc](/ko/Knowledge-base/Backend/building-backend-systems-with-grpc)
 - [x] [building-resilient-backend-systems-with-circuit-breakers](/ko/Knowledge-base/Backend/building-resilient-backend-systems-with-circuit-breakers)
+
+## Algorithm
+
+- [ ] Learning in C 001: Asymptotic Analysis|Algorithm
+- [ ] Learning in C 002: Time Complexity|Algorithm
+- [ ] Learning in C 003: Space Complexity|Algorithm
+- [ ] Learning in C 004: Divide and Conquer Algorithms|Algorithm
+- [ ] Learning in C 005: Dynamic Programming Algorithms|Algorithm
+- [ ] Learning in C 006: Greedy Algorithms|Algorithm
+- [ ] Learning in C 007: Backtracking Algorithms|Algorithm
+- [ ] Learning in C 008: Linked List|Algorithm
+- [ ] Learning in C 009: Double Linked List|Algorithm
+- [ ] Learning in C 010: Circular Linked List|Algorithm
+- [ ] Learning in C 011: Stack|Algorithm
+- [ ] Learning in C 012: Queue|Algorithm
+- [ ] Learning in C 013: Deque|Algorithm
+- [ ] Learning in C 014: Priority Queue|Algorithm
+- [ ] Learning in C 015: Single Linked List|Algorithm
+- [ ] Learning in C 016: Doubly Linked List|Algorithm
+- [ ] Learning in C 017: Circular Linked List|Algorithm
+- [ ] Learning in C 018: Skip List|Algorithm
+- [ ] Learning in C 019: Binary Tree|Algorithm
+- [ ] Learning in C 020: AVL Tree|Algorithm
+- [ ] Learning in C 021: B-Tree|Algorithm
+- [ ] Learning in C 022: Trie|Algorithm
+- [ ] Learning in C 023: Graph Representation|Algorithm
+- [ ] Learning in C 024: Breadth-First Search|Algorithm
+- [ ] Learning in C 025: Depth-First Search|Algorithm
+- [ ] Learning in C 026: Topological Sort|Algorithm
+- [ ] Learning in C 027: Minimum Spanning Tree|Algorithm
+- [ ] Learning in C 028: Shortest Path Algorithms (Dijkstra, Bellman-Ford, etc.)|Algorithm
+- [ ] Learning in C 029: Bubble Sort|Algorithm
+- [ ] Learning in C 030: Insertion Sort|Algorithm
+- [ ] Learning in C 031: Selection Sort|Algorithm
+- [ ] Learning in C 032: Merge Sort|Algorithm
+- [ ] Learning in C 033: Quick Sort|Algorithm
+- [ ] Learning in C 034: Heap Sort|Algorithm
+- [ ] Learning in C 035: Radix Sort|Algorithm
+- [ ] Learning in C 036: Hash Table|Algorithm
+- [ ] Learning in C 037: Hash Function|Algorithm
+- [ ] Learning in C 038: Collision Resolution Techniques (Chaining, Open Addressing, etc.)|Algorithm
+- [ ] Learning in C 039: Heap-Based Priority Queue|Algorithm
+- [ ] Learning in C 040: Binary Heap|Algorithm
+- [ ] Learning in C 041: Fibonacci Heap|Algorithm
+- [ ] Learning in C 042: Red-Black Tree|Algorithm
+- [ ] Learning in C 043: Splay Tree|Algorithm
+- [ ] Learning in C 044: K-D Tree|Algorithm
+- [ ] Learning in C 045: R-Tree|Algorithm
+- [ ] Learning in C 046: Trie|Algorithm
+- [ ] Learning in C 047: Suffix Trie|Algorithm
+- [ ] Learning in C 048: Suffix Array|Algorithm
+- [ ] Learning in C 049: Radix Tree (Compact Trie)|Algorithm
 
 ## MySQL Learning
 
