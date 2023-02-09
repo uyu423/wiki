@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T08:32:39.326Z
+date: 2023-02-09T08:55:26.308Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -774,7 +774,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Utilizing Kotlin's Higher-Order Functions](/Knowledge-base/Kotlin/utilizing-kotlin-s-higher-order-functions)
 - [ ] Mastering Lambdas in Kotlin|Kotlin
 - [x] [Using Type Aliases in Kotlin](/Knowledge-base/Kotlin/using-type-aliases-in-kotlin)
-- [ ] Interoperability Between Kotlin and Java|Kotlin
+- [x] [Interoperability Between Kotlin and Java](/Knowledge-base/Kotlin/interoperability-between-kotlin-and-java)
 - [x] [Building Applications with Kotlin Coroutines](/Knowledge-base/Kotlin/building-applications-with-kotlin-coroutines)
 - [ ] Understanding the CoroutineScope in Kotlin|Kotlin
 - [x] [Concurrent Programming with Kotlin's Channels and Flow](/Knowledge-base/Kotlin/concurrent-programming-with-kotlin-s-channels-and-flow)
