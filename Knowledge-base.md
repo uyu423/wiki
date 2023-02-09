@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T03:37:02.484Z
+date: 2023-02-09T03:38:41.404Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -48,7 +48,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [building-resilient-backend-systems-with-circuit-breakers](/ko/Knowledge-base/Backend/building-resilient-backend-systems-with-circuit-breakers)
 
 ## Algorithm
-- [ ] [Learning in JavaScript] 001: Asymptotic Analysis|Algorithm
+- [x] [[Learning in JavaScript] 001: Asymptotic Analysis](/Knowledge-base/Algorithm/learning-in-javascript-001-asymptotic-analysis)
 - [ ] [Learning in JavaScript] 002: Time Complexity|Algorithm
 - [ ] [Learning in JavaScript] 003: Space Complexity|Algorithm
 - [ ] [Learning in JavaScript] 004: Divide and Conquer Algorithms|Algorithm
