@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T12:56:32.353Z
+date: 2023-02-09T13:32:35.655Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -58,7 +58,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[JavaScript] 008: Linked List](/Knowledge-base/Algorithm/javascript-008-linked-list)
 - [x] [[JavaScript] 009: Double Linked List](/Knowledge-base/Algorithm/javascript-009-double-linked-list)
 - [x] [[JavaScript] 010: Circular Linked List](/Knowledge-base/Algorithm/javascript-010-circular-linked-list)
-- [ ] [JavaScript] 011: Stack|Algorithm
+- [x] [[JavaScript] 011: Stack](/Knowledge-base/Algorithm/javascript-011-stack)
 - [ ] [JavaScript] 012: Queue|Algorithm
 - [ ] [JavaScript] 013: Deque|Algorithm
 - [ ] [JavaScript] 014: Priority Queue|Algorithm
