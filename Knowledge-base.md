@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T13:32:35.655Z
+date: 2023-02-09T14:18:40.481Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1830,7 +1830,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Drupal|Dictionary
 - [x] [Joomla](/Knowledge-base/Dictionary/joomla)
 - [x] [Sitecore](/Knowledge-base/Dictionary/sitecore)
-- [ ] Adobe Experience Manager|Dictionary
+- [x] [Adobe Experience Manager](/Knowledge-base/Dictionary/adobe-experience-manager)
 - [ ] Content Delivery Network|Dictionary
 - [ ] DNS|Dictionary
 - [ ] IP Address|Dictionary
