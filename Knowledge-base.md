@@ -2,13 +2,13 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T03:31:43.566Z
+date: 2023-02-09T03:32:22.838Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
 ---
 
-- [ ] Learning in C 014: Priority Queue|Algorithm
+- [x] [Learning in C 014: Priority Queue](/Knowledge-base/Algorithm/learning-in-c-014-priority-queue)
 - [x] [Thread Dump Analysis and Examples in Java Applications](/Knowledge-base/Java/thread-dump-analysis-and-examples-in-java-applications)
 - [x] [NAVER SELECTIVE](/Knowledge-base/Dictionary/naver-selective)
 - [x] [Yanolja (South Korea)](/Knowledge-base/Dictionary/Company/yanolja-south-korea)
