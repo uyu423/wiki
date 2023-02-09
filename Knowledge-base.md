@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T04:54:29.227Z
+date: 2023-02-09T04:56:27.594Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1738,7 +1738,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin](/Knowledge-base/Dictionary/kotlin)
 - [x] [Go](/Knowledge-base/Dictionary/go)
 - [x] [Rust](/Knowledge-base/Dictionary/rust)
-- [ ] Database Development|Dictionary
+- [x] [Database Development](/Knowledge-base/Dictionary/database-development)
 - [x] [MySQL](/Knowledge-base/Dictionary/mysql)
 - [x] [PostgreSQL](/Knowledge-base/Dictionary/postgresql)
 - [x] [MongoDB](/Knowledge-base/Dictionary/mongodb)
