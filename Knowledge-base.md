@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T04:33:16.266Z
+date: 2023-02-09T04:54:29.227Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -50,102 +50,102 @@ dateCreated: 2023-01-29T21:39:43.512Z
 ## Algorithm
 - [x] [[Learning in JavaScript] 001: Asymptotic Analysis](/Knowledge-base/Algorithm/learning-in-javascript-001-asymptotic-analysis)
 - [x] [[Learning in JavaScript] 002: Time Complexity](/Knowledge-base/Algorithm/learning-in-javascript-002-time-complexity)
-- [ ] [Learning in JavaScript] 003: Space Complexity|Algorithm
-- [ ] [Learning in JavaScript] 004: Divide and Conquer Algorithms|Algorithm
-- [ ] [Learning in JavaScript] 005: Dynamic Programming Algorithms|Algorithm
-- [ ] [Learning in JavaScript] 006: Greedy Algorithms|Algorithm
-- [ ] [Learning in JavaScript] 007: Backtracking Algorithms|Algorithm
-- [ ] [Learning in JavaScript] 008: Linked List|Algorithm
-- [ ] [Learning in JavaScript] 009: Double Linked List|Algorithm
-- [ ] [Learning in JavaScript] 010: Circular Linked List|Algorithm
-- [ ] [Learning in JavaScript] 011: Stack|Algorithm
-- [ ] [Learning in JavaScript] 012: Queue|Algorithm
-- [ ] [Learning in JavaScript] 013: Deque|Algorithm
-- [ ] [Learning in JavaScript] 014: Priority Queue|Algorithm
-- [ ] [Learning in JavaScript] 015: Single Linked List|Algorithm
-- [ ] [Learning in JavaScript] 016: Doubly Linked List|Algorithm
-- [ ] [Learning in JavaScript] 017: Circular Linked List|Algorithm
-- [ ] [Learning in JavaScript] 018: Skip List|Algorithm
-- [ ] [Learning in JavaScript] 019: Binary Tree|Algorithm
-- [ ] [Learning in JavaScript] 020: AVL Tree|Algorithm
-- [ ] [Learning in JavaScript] 021: B-Tree|Algorithm
-- [ ] [Learning in JavaScript] 022: Trie|Algorithm
-- [ ] [Learning in JavaScript] 023: Graph Representation|Algorithm
-- [ ] [Learning in JavaScript] 024: Breadth-First Search|Algorithm
-- [ ] [Learning in JavaScript] 025: Depth-First Search|Algorithm
-- [ ] [Learning in JavaScript] 026: Topological Sort|Algorithm
-- [ ] [Learning in JavaScript] 027: Minimum Spanning Tree|Algorithm
-- [ ] [Learning in JavaScript] 028: Shortest Path Algorithms (Dijkstra, Bellman-Ford, etc.)|Algorithm
-- [ ] [Learning in JavaScript] 029: Bubble Sort|Algorithm
-- [ ] [Learning in JavaScript] 030: Insertion Sort|Algorithm
-- [ ] [Learning in JavaScript] 031: Selection Sort|Algorithm
-- [ ] [Learning in JavaScript] 032: Merge Sort|Algorithm
-- [ ] [Learning in JavaScript] 033: Quick Sort|Algorithm
-- [ ] [Learning in JavaScript] 034: Heap Sort|Algorithm
-- [ ] [Learning in JavaScript] 035: Radix Sort|Algorithm
-- [ ] [Learning in JavaScript] 036: Hash Table|Algorithm
-- [ ] [Learning in JavaScript] 037: Hash Function|Algorithm
-- [ ] [Learning in JavaScript] 038: Collision Resolution Techniques (Chaining, Open Addressing, etc.)|Algorithm
-- [ ] [Learning in JavaScript] 039: Heap-Based Priority Queue|Algorithm
-- [ ] [Learning in JavaScript] 040: Binary Heap|Algorithm
-- [ ] [Learning in JavaScript] 041: Fibonacci Heap|Algorithm
-- [ ] [Learning in JavaScript] 042: Red-Black Tree|Algorithm
-- [ ] [Learning in JavaScript] 043: Splay Tree|Algorithm
-- [ ] [Learning in JavaScript] 044: K-D Tree|Algorithm
-- [ ] [Learning in JavaScript] 045: R-Tree|Algorithm
-- [ ] [Learning in JavaScript] 046: Trie|Algorithm
-- [ ] [Learning in JavaScript] 047: Suffix Trie|Algorithm
-- [ ] [Learning in JavaScript] 048: Suffix Array|Algorithm
-- [ ] [Learning in JavaScript] 049: Radix Tree (Compact Trie)|Algorithm
-- [ ] [Learning in C] 001: Asymptotic Analysis|Algorithm
-- [ ] [Learning in C] 002: Time Complexity|Algorithm
-- [ ] [Learning in C] 003: Space Complexity|Algorithm
-- [ ] [Learning in C] 004: Divide and Conquer Algorithms|Algorithm
-- [ ] [Learning in C] 005: Dynamic Programming Algorithms|Algorithm
-- [ ] [Learning in C] 006: Greedy Algorithms|Algorithm
-- [ ] [Learning in C] 007: Backtracking Algorithms|Algorithm
-- [ ] [Learning in C] 008: Linked List|Algorithm
-- [ ] [Learning in C] 009: Double Linked List|Algorithm
-- [ ] [Learning in C] 010: Circular Linked List|Algorithm
-- [ ] [Learning in C] 011: Stack|Algorithm
-- [ ] [Learning in C] 012: Queue|Algorithm
-- [ ] [Learning in C] 013: Deque|Algorithm
-- [ ] [Learning in C] 014: Priority Queue|Algorithm
-- [ ] [Learning in C] 015: Single Linked List|Algorithm
-- [ ] [Learning in C] 016: Doubly Linked List|Algorithm
-- [ ] [Learning in C] 017: Circular Linked List|Algorithm
-- [ ] [Learning in C] 018: Skip List|Algorithm
-- [ ] [Learning in C] 019: Binary Tree|Algorithm
-- [ ] [Learning in C] 020: AVL Tree|Algorithm
-- [ ] [Learning in C] 021: B-Tree|Algorithm
-- [ ] [Learning in C] 022: Trie|Algorithm
-- [ ] [Learning in C] 023: Graph Representation|Algorithm
-- [ ] [Learning in C] 024: Breadth-First Search|Algorithm
-- [ ] [Learning in C] 025: Depth-First Search|Algorithm
-- [ ] [Learning in C] 026: Topological Sort|Algorithm
-- [ ] [Learning in C] 027: Minimum Spanning Tree|Algorithm
-- [ ] [Learning in C] 028: Shortest Path Algorithms (Dijkstra, Bellman-Ford, etc.)|Algorithm
-- [ ] [Learning in C] 029: Bubble Sort|Algorithm
-- [ ] [Learning in C] 030: Insertion Sort|Algorithm
-- [ ] [Learning in C] 031: Selection Sort|Algorithm
-- [ ] [Learning in C] 032: Merge Sort|Algorithm
-- [ ] [Learning in C] 033: Quick Sort|Algorithm
-- [ ] [Learning in C] 034: Heap Sort|Algorithm
-- [ ] [Learning in C] 035: Radix Sort|Algorithm
-- [ ] [Learning in C] 036: Hash Table|Algorithm
-- [ ] [Learning in C] 037: Hash Function|Algorithm
-- [ ] [Learning in C] 038: Collision Resolution Techniques (Chaining, Open Addressing, etc.)|Algorithm
-- [ ] [Learning in C] 039: Heap-Based Priority Queue|Algorithm
-- [ ] [Learning in C] 040: Binary Heap|Algorithm
-- [ ] [Learning in C] 041: Fibonacci Heap|Algorithm
-- [ ] [Learning in C] 042: Red-Black Tree|Algorithm
-- [ ] [Learning in C] 043: Splay Tree|Algorithm
-- [ ] [Learning in C] 044: K-D Tree|Algorithm
-- [ ] [Learning in C] 045: R-Tree|Algorithm
-- [ ] [Learning in C] 046: Trie|Algorithm
-- [ ] [Learning in C] 047: Suffix Trie|Algorithm
-- [ ] [Learning in C] 048: Suffix Array|Algorithm
-- [ ] [Learning in C] 049: Radix Tree (Compact Trie)|Algorithm
+- [ ] [JavaScript] 003: Space Complexity|Algorithm
+- [ ] [JavaScript] 004: Divide and Conquer Algorithms|Algorithm
+- [ ] [JavaScript] 005: Dynamic Programming Algorithms|Algorithm
+- [ ] [JavaScript] 006: Greedy Algorithms|Algorithm
+- [ ] [JavaScript] 007: Backtracking Algorithms|Algorithm
+- [ ] [JavaScript] 008: Linked List|Algorithm
+- [ ] [JavaScript] 009: Double Linked List|Algorithm
+- [ ] [JavaScript] 010: Circular Linked List|Algorithm
+- [ ] [JavaScript] 011: Stack|Algorithm
+- [ ] [JavaScript] 012: Queue|Algorithm
+- [ ] [JavaScript] 013: Deque|Algorithm
+- [ ] [JavaScript] 014: Priority Queue|Algorithm
+- [ ] [JavaScript] 015: Single Linked List|Algorithm
+- [ ] [JavaScript] 016: Doubly Linked List|Algorithm
+- [ ] [JavaScript] 017: Circular Linked List|Algorithm
+- [ ] [JavaScript] 018: Skip List|Algorithm
+- [ ] [JavaScript] 019: Binary Tree|Algorithm
+- [ ] [JavaScript] 020: AVL Tree|Algorithm
+- [ ] [JavaScript] 021: B-Tree|Algorithm
+- [ ] [JavaScript] 022: Trie|Algorithm
+- [ ] [JavaScript] 023: Graph Representation|Algorithm
+- [ ] [JavaScript] 024: Breadth-First Search|Algorithm
+- [ ] [JavaScript] 025: Depth-First Search|Algorithm
+- [ ] [JavaScript] 026: Topological Sort|Algorithm
+- [ ] [JavaScript] 027: Minimum Spanning Tree|Algorithm
+- [ ] [JavaScript] 028: Shortest Path Algorithms (Dijkstra, Bellman-Ford, etc.)|Algorithm
+- [ ] [JavaScript] 029: Bubble Sort|Algorithm
+- [ ] [JavaScript] 030: Insertion Sort|Algorithm
+- [ ] [JavaScript] 031: Selection Sort|Algorithm
+- [ ] [JavaScript] 032: Merge Sort|Algorithm
+- [ ] [JavaScript] 033: Quick Sort|Algorithm
+- [ ] [JavaScript] 034: Heap Sort|Algorithm
+- [ ] [JavaScript] 035: Radix Sort|Algorithm
+- [ ] [JavaScript] 036: Hash Table|Algorithm
+- [ ] [JavaScript] 037: Hash Function|Algorithm
+- [ ] [JavaScript] 038: Collision Resolution Techniques (Chaining, Open Addressing, etc.)|Algorithm
+- [ ] [JavaScript] 039: Heap-Based Priority Queue|Algorithm
+- [ ] [JavaScript] 040: Binary Heap|Algorithm
+- [ ] [JavaScript] 041: Fibonacci Heap|Algorithm
+- [ ] [JavaScript] 042: Red-Black Tree|Algorithm
+- [ ] [JavaScript] 043: Splay Tree|Algorithm
+- [ ] [JavaScript] 044: K-D Tree|Algorithm
+- [ ] [JavaScript] 045: R-Tree|Algorithm
+- [ ] [JavaScript] 046: Trie|Algorithm
+- [ ] [JavaScript] 047: Suffix Trie|Algorithm
+- [ ] [JavaScript] 048: Suffix Array|Algorithm
+- [ ] [JavaScript] 049: Radix Tree (Compact Trie)|Algorithm
+- [ ] [C Language] 001: Asymptotic Analysis|Algorithm
+- [ ] [C Language] 002: Time Complexity|Algorithm
+- [ ] [C Language] 003: Space Complexity|Algorithm
+- [ ] [C Language] 004: Divide and Conquer Algorithms|Algorithm
+- [ ] [C Language] 005: Dynamic Programming Algorithms|Algorithm
+- [ ] [C Language] 006: Greedy Algorithms|Algorithm
+- [ ] [C Language] 007: Backtracking Algorithms|Algorithm
+- [ ] [C Language] 008: Linked List|Algorithm
+- [ ] [C Language] 009: Double Linked List|Algorithm
+- [ ] [C Language] 010: Circular Linked List|Algorithm
+- [ ] [C Language] 011: Stack|Algorithm
+- [ ] [C Language] 012: Queue|Algorithm
+- [ ] [C Language] 013: Deque|Algorithm
+- [ ] [C Language] 014: Priority Queue|Algorithm
+- [ ] [C Language] 015: Single Linked List|Algorithm
+- [ ] [C Language] 016: Doubly Linked List|Algorithm
+- [ ] [C Language] 017: Circular Linked List|Algorithm
+- [ ] [C Language] 018: Skip List|Algorithm
+- [ ] [C Language] 019: Binary Tree|Algorithm
+- [ ] [C Language] 020: AVL Tree|Algorithm
+- [ ] [C Language] 021: B-Tree|Algorithm
+- [ ] [C Language] 022: Trie|Algorithm
+- [ ] [C Language] 023: Graph Representation|Algorithm
+- [ ] [C Language] 024: Breadth-First Search|Algorithm
+- [ ] [C Language] 025: Depth-First Search|Algorithm
+- [ ] [C Language] 026: Topological Sort|Algorithm
+- [ ] [C Language] 027: Minimum Spanning Tree|Algorithm
+- [ ] [C Language] 028: Shortest Path Algorithms (Dijkstra, Bellman-Ford, etc.)|Algorithm
+- [ ] [C Language] 029: Bubble Sort|Algorithm
+- [ ] [C Language] 030: Insertion Sort|Algorithm
+- [ ] [C Language] 031: Selection Sort|Algorithm
+- [ ] [C Language] 032: Merge Sort|Algorithm
+- [ ] [C Language] 033: Quick Sort|Algorithm
+- [ ] [C Language] 034: Heap Sort|Algorithm
+- [ ] [C Language] 035: Radix Sort|Algorithm
+- [ ] [C Language] 036: Hash Table|Algorithm
+- [ ] [C Language] 037: Hash Function|Algorithm
+- [ ] [C Language] 038: Collision Resolution Techniques (Chaining, Open Addressing, etc.)|Algorithm
+- [ ] [C Language] 039: Heap-Based Priority Queue|Algorithm
+- [ ] [C Language] 040: Binary Heap|Algorithm
+- [ ] [C Language] 041: Fibonacci Heap|Algorithm
+- [ ] [C Language] 042: Red-Black Tree|Algorithm
+- [ ] [C Language] 043: Splay Tree|Algorithm
+- [ ] [C Language] 044: K-D Tree|Algorithm
+- [ ] [C Language] 045: R-Tree|Algorithm
+- [ ] [C Language] 046: Trie|Algorithm
+- [ ] [C Language] 047: Suffix Trie|Algorithm
+- [ ] [C Language] 048: Suffix Array|Algorithm
+- [ ] [C Language] 049: Radix Tree (Compact Trie)|Algorithm
 
 ## MySQL Learning
 
