@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T09:55:46.287Z
+date: 2023-02-09T10:32:35.279Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -55,7 +55,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[JavaScript] 005: Dynamic Programming Algorithms](/Knowledge-base/Algorithm/javascript-005-dynamic-programming-algorithms)
 - [x] [[JavaScript] 006: Greedy Algorithms](/Knowledge-base/Algorithm/javascript-006-greedy-algorithms)
 - [x] [[JavaScript] 007: Backtracking Algorithms](/Knowledge-base/Algorithm/javascript-007-backtracking-algorithms)
-- [ ] [JavaScript] 008: Linked List|Algorithm
+- [x] [[JavaScript] 008: Linked List](/Knowledge-base/Algorithm/javascript-008-linked-list)
 - [ ] [JavaScript] 009: Double Linked List|Algorithm
 - [ ] [JavaScript] 010: Circular Linked List|Algorithm
 - [ ] [JavaScript] 011: Stack|Algorithm
