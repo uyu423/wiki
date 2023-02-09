@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T04:56:27.594Z
+date: 2023-02-09T05:18:15.714Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1478,7 +1478,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [User Interface](/Knowledge-base/Dictionary/user-interface)
 - [x] [Accessibility](/Knowledge-base/Dictionary/accessibility)
 - [ ] User Testing|Dictionary
-- [ ] User Acceptance Testing|Dictionary
+- [x] [User Acceptance Testing](/Knowledge-base/Dictionary/user-acceptance-testing)
 - [x] [Performance Testing](/Knowledge-base/Dictionary/performance-testing)
 - [ ] Stress Testing|Dictionary
 - [x] [Load Testing](/Knowledge-base/Dictionary/load-testing)
