@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T04:18:36.176Z
+date: 2023-02-09T04:33:16.266Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -49,7 +49,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## Algorithm
 - [x] [[Learning in JavaScript] 001: Asymptotic Analysis](/Knowledge-base/Algorithm/learning-in-javascript-001-asymptotic-analysis)
-- [ ] [Learning in JavaScript] 002: Time Complexity|Algorithm
+- [x] [[Learning in JavaScript] 002: Time Complexity](/Knowledge-base/Algorithm/learning-in-javascript-002-time-complexity)
 - [ ] [Learning in JavaScript] 003: Space Complexity|Algorithm
 - [ ] [Learning in JavaScript] 004: Divide and Conquer Algorithms|Algorithm
 - [ ] [Learning in JavaScript] 005: Dynamic Programming Algorithms|Algorithm
