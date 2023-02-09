@@ -2,7 +2,7 @@
 title: ab - Apache HTTP server benchmarking tool
 description: 
 published: true
-date: 2023-02-09T07:47:18.102Z
+date: 2023-02-09T07:48:04.866Z
 tags: ab, benchmark, http, linux, terminal
 editor: markdown
 dateCreated: 2023-02-09T07:22:40.676Z
@@ -42,7 +42,7 @@ The following are some of the most commonly used options with the ab tool:
 
 ## Sample Usage
 
-Suppose we want to test the performance of a web server located at `http://www.example.com`. We can use the following command to perform 1000 requests with 100 concurrent requests:
+Suppose we want to test the performance of a web server located at `http://google.com`. We can use the following command to perform 500 requests with 20ß concurrent requests:
 
 ```bash
 ab -n 500 -c 20 http://google.com/
