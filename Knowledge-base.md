@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T19:33:15.562Z
+date: 2023-02-09T19:56:15.862Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -162,7 +162,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] [C Language] 020: AVL Tree|Algorithm
 - [ ] [C Language] 021: B-Tree|Algorithm
 - [ ] [C Language] 022: Trie|Algorithm
-- [ ] [C Language] 023: Graph Representation|Algorithm
+- [x] [[C Language] 023: Graph Representation](/Knowledge-base/Algorithm/c-language-023-graph-representation)
 - [ ] [C Language] 024: Breadth-First Search|Algorithm
 - [ ] [C Language] 025: Depth-First Search|Algorithm
 - [ ] [C Language] 026: Topological Sort|Algorithm
