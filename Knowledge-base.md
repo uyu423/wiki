@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T06:17:18.469Z
+date: 2023-02-09T06:22:19.427Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -47,7 +47,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [building-backend-systems-with-grpc](/ko/Knowledge-base/Backend/building-backend-systems-with-grpc)
 - [x] [building-resilient-backend-systems-with-circuit-breakers](/ko/Knowledge-base/Backend/building-resilient-backend-systems-with-circuit-breakers)
 
-## Algorithm
+## Algorithm (use JavsScript)
 - [x] [[Learning in JavaScript] 001: Asymptotic Analysis](/Knowledge-base/Algorithm/learning-in-javascript-001-asymptotic-analysis)
 - [x] [[Learning in JavaScript] 002: Time Complexity](/Knowledge-base/Algorithm/learning-in-javascript-002-time-complexity)
 - [x] [[JavaScript] 003: Space Complexity](/Knowledge-base/Algorithm/javascript-003-space-complexity)
@@ -97,6 +97,49 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] [JavaScript] 047: Suffix Trie|Algorithm
 - [ ] [JavaScript] 048: Suffix Array|Algorithm
 - [ ] [JavaScript] 049: Radix Tree (Compact Trie)|Algorithm
+
+## Linux
+
+- [ ] An Introduction to Linux Operating System|Linux
+- [ ] Understanding the Linux File System|Linux
+- [ ] The Linux Command Line Interface|Linux
+- [ ] Managing Processes in Linux|Linux
+- [ ] File Permissions and Ownership in Linux|Linux
+- [ ] The Linux Network Stack|Linux
+- [ ] Advanced Bash Scripting|Linux
+- [ ] System Administration with Linux|Linux
+- [ ] Introduction to the Linux Kernel|Linux
+- [ ] Linux Memory Management|Linux
+- [ ] Linux Process Scheduling|Linux
+- [ ] Linux System Calls and Libraries|Linux
+- [ ] Linux Interrupts and Signals|Linux
+- [ ] Linux Virtual Memory and Swapping|Linux
+- [ ] Linux File Systems: ext4, XFS, Btrfs, and more|Linux
+- [ ] Linux System Startup and Initialization|Linux
+- [ ] Linux Kernel Modules and Loadable Kernel Objects|Linux
+- [ ] Linux I/O Scheduling and Disk Management|Linux
+- [ ] Linux Kernel Synchronization and Concurrency|Linux
+- [ ] Debugging Linux Systems|Linux
+- [ ] Linux Security and Permissions|Linux
+- [ ] Linux Kernel Debugging Techniques|Linux
+- [ ] Linux Networking Stack and Protocols|Linux
+- [ ] Linux Networking and Firewall Configuration|Linux
+- [ ] Linux Sockets and Network Programming|Linux
+- [ ] Linux Performance Tuning and Optimization|Linux
+- [ ] Linux Containerization with Docker|Linux
+- [ ] Kubernetes and Linux Container Orchestration|Linux
+- [ ] Linux Virtualization with KVM and libvirt|Linux
+- [ ] Linux High Availability and Clustering|Linux
+- [ ] Linux Backup and Disaster Recovery|Linux
+- [ ] Linux Shell Scripting and Automation|Linux
+- [ ] Linux Shells: bash, zsh, and more|Linux
+- [ ] Linux Text Processing and Regular Expressions|Linux
+- [ ] Linux Package Management with apt and yum|Linux
+- [ ] Linux System Monitoring and Logging|Linux
+- [ ] Linux Web Server and Database Administration|Linux
+- [ ] Linux Scripting for DevOps|Linux
+
+## Algorithm (use C Lang)
 - [ ] [C Language] 001: Asymptotic Analysis|Algorithm
 - [ ] [C Language] 002: Time Complexity|Algorithm
 - [ ] [C Language] 003: Space Complexity|Algorithm
