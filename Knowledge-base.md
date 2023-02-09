@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T15:56:28.946Z
+date: 2023-02-09T16:17:40.776Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -892,7 +892,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Designing Databases for Scalable Applications|Backend
 - [x] [Implementing Domain Driven Development (DDD) for Backend](/Knowledge-base/Backend/implementing-domain-driven-development-ddd-for-backend)
 - [ ] Adopting Test Driven Development (TDD) for Backend Development|Backend
-- [ ] Streamlining the Development Process for Backend Applications|Backend
+- [x] [Streamlining the Development Process for Backend Applications](/Knowledge-base/Backend/streamlining-the-development-process-for-backend-applications)
 - [x] [Building RESTful APIs with Microservices](/Knowledge-base/Backend/building-restful-apis-with-microservices)
 - [x] [Exploring GraphQL for API Development](/Knowledge-base/Backend/exploring-graphql-for-api-development)
 - [ ] Python for Backend Development: Django and Flask|Backend
