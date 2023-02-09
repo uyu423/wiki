@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T19:56:15.862Z
+date: 2023-02-09T20:17:37.834Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2095,7 +2095,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Brian Kernighan (UNIX Developer)|Dictionary/Person
 - [ ] Dennis Ritchie (UNIX Developer)|Dictionary/Person
 - [ ] Ken Thompson (UNIX Developer)|Dictionary/Person
-- [ ] Tom Igoe (Arduino Creator)|Dictionary/Person
+- [x] [Tom Igoe (Arduino Creator)](/Knowledge-base/Dictionary/Person/tom-igoe-arduino-creator)
 - [ ] Limor Fried (Adafruit Industries Founder)|Dictionary/Person
 - [ ] Woz (Apple Co-founder)|Dictionary/Person
 - [x] [Robert Morris (UNIX Developer)](/Knowledge-base/Dictionary/Person/robert-morris-unix-developer)
