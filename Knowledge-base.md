@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T15:32:35.017Z
+date: 2023-02-09T15:56:28.946Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1075,7 +1075,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 027: Machine Learning and Artificial Intelligence|Software-Development/Learning
 - [ ] Software Development 028: Neural Networks|Software-Development/Learning
 - [ ] Software Development 029: Computer Vision|Software-Development/Learning
-- [ ] Software Development 030: Natural Language Processing (NLP)|Software-Development/Learning
+- [x] [Software Development 030: Natural Language Processing (NLP)](/Knowledge-base/Software-Development/Learning/software-development-030-natural-language-processing-nlp)
 - [ ] Software Development 031: Predictive Analytics|Software-Development/Learning
 - [x] [Software Development 032: Deep Learning](/Knowledge-base/Software-Development/Learning/software-development-032-deep-learning)
 - [ ] Software Development 033: TensorFlow and Keras|Software-Development/Learning
