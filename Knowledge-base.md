@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T22:32:23.556Z
+date: 2023-02-10T22:55:31.057Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -745,7 +745,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 079: The Iterator Pattern in Kotlin: Traversing Collections with a Common Interface|Kotlin/Learning
 - [ ] 080: The Visitor Pattern in Kotlin: Separating Algorithms from Data Structures|Kotlin/Learning
 - [ ] 081: Reflection in Kotlin: Understanding the Reflection API for Introspection and Manipulation|Kotlin/Learning
-- [ ] 082: Testing in Kotlin: Writing and Running Tests for Your Kotlin Code|Kotlin/Learning
+- [x] [082: Testing in Kotlin: Writing and Running Tests for Your Kotlin Code](/Knowledge-base/Kotlin/Learning/082-testing-in-kotlin-writing-and-running-tests-for-your-kotlin-code)
 - [ ] 083: Advanced Features of Kotlin: Exploring the More Advanced Features of the Language|Kotlin/Learning
 - [ ] 084: Debugging in Kotlin: Debugging Your Kotlin Code with Breakpoints, Watches, and Logs|Kotlin/Learning
 - [x] [085: The Kotlin Ecosystem: Understanding the Tools and Frameworks Surrounding Kotlin](/Knowledge-base/Kotlin/Learning/085-the-kotlin-ecosystem-understanding-the-tools-and-frameworks-surrounding-kotlin)
