@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T11:32:34.267Z
+date: 2023-02-10T11:55:25.443Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1169,7 +1169,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Advantages of Serverless Architecture and AWS Lambda](/Knowledge-base/Common/the-advantages-of-serverless-architecture-and-aws-lambda)
 - [x] [How to Optimize SQL Queries for Improved Performance](/Knowledge-base/Common/how-to-optimize-sql-queries-for-improved-performance)
 - [ ] The Fundamentals of Game Development with Unity|Common
-- [ ] How to Build a Scalable Web Application with Microservices|Common
+- [x] [How to Build a Scalable Web Application with Microservices](/Knowledge-base/Common/how-to-build-a-scalable-web-application-with-microservices)
 - [x] [An Overview of Blockchain and Cryptocurrency](/Knowledge-base/Common/an-overview-of-blockchain-and-cryptocurrency)
 - [x] [The Importance of User Experience (UX) Design](/Knowledge-base/Common/the-importance-of-user-experience-ux-design)
 - [x] [How to Use Git and GitHub for Version Control](/Knowledge-base/Common/how-to-use-git-and-github-for-version-control)
