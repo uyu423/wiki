@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T20:33:26.590Z
+date: 2023-02-10T20:55:33.380Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1704,7 +1704,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Configuration Management|Dictionary
 - [x] [Release Management](/Knowledge-base/Dictionary/release-management)
 - [ ] Deployment|Dictionary
-- [ ] Rollout|Dictionary
+- [x] [Rollout](/Knowledge-base/Dictionary/rollout)
 - [ ] Production Deployment|Dictionary
 - [ ] Continuous Operations|Dictionary
 - [ ] IT Operations|Dictionary
