@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T17:55:20.934Z
+date: 2023-02-10T18:17:31.747Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1113,7 +1113,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 065: High Performance Computing (HPC)|Software-Development/Learning
 - [ ] Software Development 066: Real-Time Analytics|Software-Development/Learning
 - [ ] Software Development 067: Streaming Analytics|Software-Development/Learning
-- [ ] Software Development 068: Event-Driven Architecture|Software-Development/Learning
+- [x] [Software Development 068: Event-Driven Architecture](/Knowledge-base/Software-Development/Learning/software-development-068-event-driven-architecture)
 - [x] [Software Development 069: Event Sourcing and CQRS](/Knowledge-base/Software-Development/Learning/software-development-069-event-sourcing-and-cqrs)
 - [ ] Software Development 070: Service-Oriented Architecture (SOA)|Software-Development/Learning
 - [x] [Software Development 071: Domain-Driven Design (DDD)](/Knowledge-base/Software-Development/Learning/software-development-071-domain-driven-design-ddd)
