@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T01:55:40.707Z
+date: 2023-02-10T02:17:52.769Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2010,7 +2010,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Larry Page (Google Co-founder)|Dictionary/Person
 - [ ] Sergey Brin (Google Co-founder)|Dictionary/Person
 - [ ] Jeff Bezos (Amazon Founder and CEO)|Dictionary/Person
-- [ ] Elon Musk (Tesla CEO)|Dictionary/Person
+- [x] [Elon Musk (Tesla CEO)](/Knowledge-base/Dictionary/Person/elon-musk-tesla-ceo)
 - [x] [Jack Ma (Alibaba Founder)](/Knowledge-base/Dictionary/Person/jack-ma-alibaba-founder)
 - [x] [Tim Cook (Apple CEO)](/Knowledge-base/Dictionary/Person/tim-cook-apple-ceo)
 - [ ] Linus Torvalds (Linux Creator)|Dictionary/Person
