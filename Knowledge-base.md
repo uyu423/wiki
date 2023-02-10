@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T00:55:56.309Z
+date: 2023-02-10T01:17:45.592Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2074,7 +2074,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kevin Systrom (Instagram Co-founder)|Dictionary/Person
 - [ ] Mike Krieger (Instagram Co-founder)|Dictionary/Person
 - [x] [Noam Chomsky (Linguistics Professor and Author)](/Knowledge-base/Dictionary/Person/noam-chomsky-linguistics-professor-and-author)
-- [ ] Claude Shannon (Information Theory Pioneer)|Dictionary/Person
+- [x] [Claude Shannon (Information Theory Pioneer)](/Knowledge-base/Dictionary/Person/claude-shannon-information-theory-pioneer)
 - [x] [Norbert Wiener (Cybernetics Founder)](/Knowledge-base/Dictionary/Person/norbert-wiener-cybernetics-founder)
 - [ ] John von Neumann (Computer Science Pioneer)|Dictionary/Person
 - [ ] Edsger W. Dijkstra (Computer Science Pioneer)|Dictionary/Person
