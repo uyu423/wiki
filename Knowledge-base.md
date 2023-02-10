@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T14:33:11.580Z
+date: 2023-02-10T14:55:46.535Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1579,7 +1579,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Encryption](/Knowledge-base/Dictionary/encryption)
 - [ ] Digital Signature|Dictionary
 - [x] [Authentication](/Knowledge-base/Dictionary/authentication)
-- [ ] Authorization|Dictionary
+- [x] [Authorization](/Knowledge-base/Dictionary/authorization)
 - [ ] Access Control|Dictionary
 - [x] [Role-Based Access Control](/Knowledge-base/Dictionary/role-based-access-control)
 - [x] [Multifactor Authentication](/Knowledge-base/Dictionary/multifactor-authentication)
