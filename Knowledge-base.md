@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T22:55:31.057Z
+date: 2023-02-10T23:17:34.266Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2013,7 +2013,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Elon Musk (Tesla CEO)](/Knowledge-base/Dictionary/Person/elon-musk-tesla-ceo)
 - [x] [Jack Ma (Alibaba Founder)](/Knowledge-base/Dictionary/Person/jack-ma-alibaba-founder)
 - [x] [Tim Cook (Apple CEO)](/Knowledge-base/Dictionary/Person/tim-cook-apple-ceo)
-- [ ] Linus Torvalds (Linux Creator)|Dictionary/Person
+- [x] [Linus Torvalds (Linux Creator)](/Knowledge-base/Dictionary/Person/linus-torvalds-linux-creator)
 - [ ] Richard Stallman (Free Software Movement Founder)|Dictionary/Person
 - [x] [Eric Schmidt (Google Chairman)](/Knowledge-base/Dictionary/Person/eric-schmidt-google-chairman)
 - [x] [Larry Ellison (Oracle CEO)](/Knowledge-base/Dictionary/Person/larry-ellison-oracle-ceo)
