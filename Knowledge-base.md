@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T15:32:43.107Z
+date: 2023-02-10T15:56:08.052Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1629,7 +1629,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Procedural Programming|Dictionary
 - [ ] Assembly Language|Dictionary
 - [x] [High-Level Programming Language](/Knowledge-base/Dictionary/high-level-programming-language)
-- [ ] Low-Level Programming Language|Dictionary
+- [x] [Low-Level Programming Language](/Knowledge-base/Dictionary/low-level-programming-language)
 - [x] [Compiler](/Knowledge-base/Dictionary/compiler)
 - [x] [Interpreter](/Knowledge-base/Dictionary/interpreter)
 - [ ] Debugging|Dictionary
