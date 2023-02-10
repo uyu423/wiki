@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T19:17:27.976Z
+date: 2023-02-10T19:32:34.846Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -88,7 +88,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[JavaScript] 038: Collision Resolution Techniques (Chaining, Open Addressing, etc.)](/Knowledge-base/Algorithm/javascript-038-collision-resolution-techniques-chaining-open-addressing-etc-)
 - [x] [[JavaScript] 039: Heap-Based Priority Queue](/Knowledge-base/Algorithm/javascript-039-heap-based-priority-queue)
 - [x] [[JavaScript] 040: Binary Heap](/Knowledge-base/Algorithm/javascript-040-binary-heap)
-- [ ] [JavaScript] 041: Fibonacci Heap|Algorithm
+- [x] [[JavaScript] 041: Fibonacci Heap](/Knowledge-base/Algorithm/javascript-041-fibonacci-heap)
 - [ ] [JavaScript] 042: Red-Black Tree|Algorithm
 - [ ] [JavaScript] 043: Splay Tree|Algorithm
 - [ ] [JavaScript] 044: K-D Tree|Algorithm
