@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T01:32:35.091Z
+date: 2023-02-10T01:55:40.707Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -881,7 +881,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Exploring Node.js and TypeScript for Backend Development|Backend
 - [x] [Building REST APIs with Express.js](/Knowledge-base/Backend/building-rest-apis-with-express-js)
 - [x] [Scaling Applications with ElastiCache and ElasticBeanstalk](/Knowledge-base/Backend/scaling-applications-with-elasticache-and-elasticbeanstalk)
-- [ ] Monitoring Backend Applications with CloudWatch|Backend
+- [x] [Monitoring Backend Applications with CloudWatch](/Knowledge-base/Backend/monitoring-backend-applications-with-cloudwatch)
 - [ ] Building BFF API for Frontend-Backend Communication|Backend
 - [ ] Agile Methodologies for Backend Development|Backend
 - [x] [Implementing A/B Testing for Backend Applications](/Knowledge-base/Backend/implementing-ab-testing-for-backend-applications)
