@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T10:32:33.882Z
+date: 2023-02-10T10:56:25.014Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -648,7 +648,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 058: Implementing offline-first applications with Nest.js and Service Workers|Nest-js/Learning
 - [ ] 059: Using Nest.js with IndexedDB|Nest-js/Learning
 - [x] [060: Building high-performance applications with Nest.js and IndexedDB](/Knowledge-base/Nest-js/Learning/060-building-high-performance-applications-with-nest-js-and-indexeddb)
-- [ ] 061: Using Nest.js with the Filesystem API|Nest-js/Learning
+- [x] [061: Using Nest.js with the Filesystem API](/Knowledge-base/Nest-js/Learning/061-using-nest-js-with-the-filesystem-api)
 - [x] [062: Implementing file uploads and downloads in Nest.js](/Knowledge-base/Nest-js/Learning/062-implementing-file-uploads-and-downloads-in-nest-js)
 
 ## Docker
