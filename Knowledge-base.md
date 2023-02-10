@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T09:56:12.838Z
+date: 2023-02-10T10:17:30.948Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1186,7 +1186,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [How to Build a Progressive Web App (PWA) with Angular](/Knowledge-base/Common/how-to-build-a-progressive-web-app-pwa-with-angular)
 - [ ] The Benefits of Distributed Systems and Apache Cassandra|Common
 - [x] [How to Build a Cross-Platform Mobile App with React Native](/Knowledge-base/Common/how-to-build-a-cross-platform-mobile-app-with-react-native)
-- [ ] The Importance of Agile Project Management|Common
+- [x] [The Importance of Agile Project Management](/Knowledge-base/Common/the-importance-of-agile-project-management)
 - [x] [How to Build a Real-Time Application with Firebase](/Knowledge-base/Common/how-to-build-a-real-time-application-with-firebase)
 - [x] [The Advantages of In-Memory Databases and Apache Spark](/Knowledge-base/Common/the-advantages-of-in-memory-databases-and-apache-spark)
 - [x] [How to Build a Secure Application with OAuth and OpenID Connect](/Knowledge-base/Common/how-to-build-a-secure-application-with-oauth-and-openid-connect)
