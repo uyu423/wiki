@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T13:55:50.606Z
+date: 2023-02-10T14:17:25.111Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1252,7 +1252,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 - [ ] Using Node.js Clustering for Scalability and Performance|Nodejs
 - [ ] Exploring Node.js Debugging with the V8 Inspector|Nodejs
-- [ ] Node.js and Typescript: A Match Made in Heaven|Nodejs
+- [x] [Node.js and Typescript: A Match Made in Heaven](/Knowledge-base/Nodejs/node-js-and-typescript-a-match-made-in-heaven)
 - [x] [Streams and Piping in Node.js: A Hands-On Guide](/Knowledge-base/Nodejs/streams-and-piping-in-node-js-a-hands-on-guide)
 - [ ] Mastering Node.js Event Loops for Asynchronous Operations|Nodejs
 - [x] [Leveraging Async Hooks in Node.js for Performance Optimization](/Knowledge-base/Nodejs/leveraging-async-hooks-in-node-js-for-performance-optimization)
