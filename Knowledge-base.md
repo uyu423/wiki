@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T17:32:57.459Z
+date: 2023-02-10T17:55:20.934Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -694,7 +694,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [028: Infix Functions in Kotlin: Calling Functions Like Operators](/Knowledge-base/Kotlin/Learning/028-infix-functions-in-kotlin-calling-functions-like-operators)
 - [x] [029: Standard Library Functions in Kotlin: Utilizing Commonly Used Functions](/Knowledge-base/Kotlin/Learning/029-standard-library-functions-in-kotlin-utilizing-commonly-used-functions)
 - [x] [030: String Templates in Kotlin: Interpolating Strings with Expressions](/Knowledge-base/Kotlin/Learning/030-string-templates-in-kotlin-interpolating-strings-with-expressions)
-- [ ] 031: Ranges in Kotlin: Representing and Iterating Over Ranges of Values|Kotlin/Learning
+- [x] [031: Ranges in Kotlin: Representing and Iterating Over Ranges of Values](/Knowledge-base/Kotlin/Learning/031-ranges-in-kotlin-representing-and-iterating-over-ranges-of-values)
 - [x] [032: Raw Strings in Kotlin: Creating Multi-Line Strings Without Escaping](/Knowledge-base/Kotlin/Learning/032-raw-strings-in-kotlin-creating-multi-line-strings-without-escaping)
 - [x] [033: Default and Named Arguments in Kotlin: Providing Default Values and Named Parameters](/Knowledge-base/Kotlin/Learning/033-default-and-named-arguments-in-kotlin-providing-default-values-and-named-parameters)
 - [ ] 034: vararg Functions in Kotlin: Creating Functions that Accept a Variable Number of Arguments|Kotlin/Learning
