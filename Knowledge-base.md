@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T14:17:25.111Z
+date: 2023-02-10T14:33:11.580Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -83,7 +83,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[JavaScript] 033: Quick Sort](/Knowledge-base/Algorithm/javascript-033-quick-sort)
 - [x] [[JavaScript] 034: Heap Sort](/Knowledge-base/Algorithm/javascript-034-heap-sort)
 - [x] [[JavaScript] 035: Radix Sort](/Knowledge-base/Algorithm/javascript-035-radix-sort)
-- [ ] [JavaScript] 036: Hash Table|Algorithm
+- [x] [[JavaScript] 036: Hash Table](/Knowledge-base/Algorithm/javascript-036-hash-table)
 - [ ] [JavaScript] 037: Hash Function|Algorithm
 - [ ] [JavaScript] 038: Collision Resolution Techniques (Chaining, Open Addressing, etc.)|Algorithm
 - [ ] [JavaScript] 039: Heap-Based Priority Queue|Algorithm
