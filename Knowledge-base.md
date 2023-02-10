@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T08:32:44.214Z
+date: 2023-02-10T08:55:59.000Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1821,7 +1821,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Pay-Per-Click Advertising](/Knowledge-base/Dictionary/pay-per-click-advertising)
 - [ ] Social Media Marketing|Dictionary
 - [x] [Content Marketing](/Knowledge-base/Dictionary/content-marketing)
-- [ ] Email Marketing|Dictionary
+- [x] [Email Marketing](/Knowledge-base/Dictionary/email-marketing)
 - [x] [Influencer Marketing](/Knowledge-base/Dictionary/influencer-marketing)
 - [ ] Affiliate Marketing|Dictionary
 - [ ] Video Marketing|Dictionary
