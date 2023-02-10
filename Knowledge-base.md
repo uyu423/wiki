@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T19:55:57.802Z
+date: 2023-02-10T20:17:50.424Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1934,7 +1934,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] SanDisk Corporation|Dictionary/Company
 - [ ] Kingston Technology Corporation|Dictionary/Company
 - [ ] Corsair Components, Inc.|Dictionary/Company
-- [ ] Razer Inc.|Dictionary/Company
+- [x] [Razer Inc.](/Knowledge-base/Dictionary/Company/razer-inc-)
 - [x] [Samsung Electronics Co., Ltd. (South Korea)](/Knowledge-base/Dictionary/Company/samsung-electronics-co-ltd-south-korea)
 - [ ] Huawei Technologies Co., Ltd. (China)|Dictionary/Company
 - [x] [WIPRO Limited (India)](/Knowledge-base/Dictionary/Company/wipro-limited-india)
