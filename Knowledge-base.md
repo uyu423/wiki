@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T06:32:35.103Z
+date: 2023-02-10T06:55:48.681Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1461,7 +1461,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Ryzen CPU|Dictionary
 - [ ] USB|Dictionary
 - [ ] bash|Dictionary
-- [ ] zsh|Dictionary
+- [x] [zsh](/Knowledge-base/Dictionary/zsh)
 - [ ] Jenkins|Dictionary
 - [ ] Node.js|Dictionary
 - [x] [Spring Framework](/Knowledge-base/Dictionary/spring-framework)
