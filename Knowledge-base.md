@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T20:55:33.380Z
+date: 2023-02-10T21:17:46.888Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1597,7 +1597,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Cross-Site Scripting|Dictionary
 - [x] [SQL Injection](/Knowledge-base/Dictionary/sql-injection)
 - [x] [Buffer Overflow](/Knowledge-base/Dictionary/buffer-overflow)
-- [ ] Denial-of-Service Attack|Dictionary
+- [x] [Denial-of-Service Attack](/Knowledge-base/Dictionary/denial-of-service-attack)
 - [x] [Distributed Denial-of-Service Attack](/Knowledge-base/Dictionary/distributed-denial-of-service-attack)
 - [x] [Rootkit](/Knowledge-base/Dictionary/rootkit)
 - [ ] Botnet|Dictionary
