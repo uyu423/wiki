@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T16:55:38.730Z
+date: 2023-02-10T17:17:49.286Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1738,7 +1738,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Bandwidth Management](/Knowledge-base/Dictionary/bandwidth-management)
 - [ ] Public Cloud|Dictionary
 - [ ] Private Cloud|Dictionary
-- [ ] Hybrid Cloud|Dictionary
+- [x] [Hybrid Cloud](/Knowledge-base/Dictionary/hybrid-cloud)
 - [x] [Function as a Service](/Knowledge-base/Dictionary/function-as-a-service)
 - [ ] Database as a Service|Dictionary
 - [ ] Backup as a Service|Dictionary
