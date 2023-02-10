@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T02:56:10.324Z
+date: 2023-02-10T03:17:48.055Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1052,7 +1052,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 004: Object-Oriented Programming|Software-Development/Learning
 - [x] [Software Development 005: Database Management](/Knowledge-base/Software-Development/Learning/software-development-005-database-management)
 - [ ] Software Development 006: Web Development Basics|Software-Development/Learning
-- [ ] Software Development 007: HTML, CSS and JavaScript|Software-Development/Learning
+- [x] [Software Development 007: HTML, CSS and JavaScript](/Knowledge-base/Software-Development/Learning/software-development-007-html-css-and-javascript)
 - [ ] Software Development 008: Responsive Web Design|Software-Development/Learning
 - [ ] Software Development 009: Server-Side Development with PHP|Software-Development/Learning
 - [x] [Software Development 010: Ruby on Rails](/Knowledge-base/Software-Development/Learning/software-development-010-ruby-on-rails)
