@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-09T23:56:02.571Z
+date: 2023-02-10T00:17:47.892Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2086,7 +2086,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Andrew S. Tanenbaum (Computer Networking Pioneer)|Dictionary/Person
 - [x] [John Warnock (PostScript Creator)](/Knowledge-base/Dictionary/Person/john-warnock-postscript-creator)
 - [ ] Charles P. Thacker (Computer Hardware Pioneer)|Dictionary/Person
-- [ ] Robert Noyce (Intel Co-founder)|Dictionary/Person
+- [x] [Robert Noyce (Intel Co-founder)](/Knowledge-base/Dictionary/Person/robert-noyce-intel-co-founder)
 - [ ] Gordon Moore (Intel Co-founder)|Dictionary/Person
 - [x] [Andrew Grove (Intel CEO)](/Knowledge-base/Dictionary/Person/andrew-grove-intel-ceo)
 - [x] [Vinod Khosla (Sun Microsystems Co-founder)](/Knowledge-base/Dictionary/Person/vinod-khosla-sun-microsystems-co-founder)
