@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T03:17:48.055Z
+date: 2023-02-10T03:32:35.652Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -72,7 +72,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[JavaScript] 022: Trie](/Knowledge-base/Algorithm/javascript-022-trie)
 - [x] [[JavaScript] 023: Graph Representation](/Knowledge-base/Algorithm/javascript-023-graph-representation)
 - [x] [[JavaScript] 024: Breadth-First Search](/Knowledge-base/Algorithm/javascript-024-breadth-first-search)
-- [ ] [JavaScript] 025: Depth-First Search|Algorithm
+- [x] [[JavaScript] 025: Depth-First Search](/Knowledge-base/Algorithm/javascript-025-depth-first-search)
 - [ ] [JavaScript] 026: Topological Sort|Algorithm
 - [ ] [JavaScript] 027: Minimum Spanning Tree|Algorithm
 - [ ] [JavaScript] 028: Shortest Path Algorithms (Dijkstra, Bellman-Ford, etc.)|Algorithm
