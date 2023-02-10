@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T01:17:45.592Z
+date: 2023-02-10T01:32:35.091Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -70,7 +70,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[JavaScript] 020: AVL Tree](/Knowledge-base/Algorithm/javascript-020-avl-tree)
 - [x] [[JavaScript] 021: B-Tree](/Knowledge-base/Algorithm/javascript-021-b-tree)
 - [x] [[JavaScript] 022: Trie](/Knowledge-base/Algorithm/javascript-022-trie)
-- [ ] [JavaScript] 023: Graph Representation|Algorithm
+- [x] [[JavaScript] 023: Graph Representation](/Knowledge-base/Algorithm/javascript-023-graph-representation)
 - [ ] [JavaScript] 024: Breadth-First Search|Algorithm
 - [ ] [JavaScript] 025: Depth-First Search|Algorithm
 - [ ] [JavaScript] 026: Topological Sort|Algorithm
