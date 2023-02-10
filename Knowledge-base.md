@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T02:32:45.194Z
+date: 2023-02-10T02:56:10.324Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1978,7 +1978,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Oppo (China)|Dictionary/Company
 - [ ] Vivo (China)|Dictionary/Company
 - [ ] ZTE Corporation (China)|Dictionary/Company
-- [ ] Huawei Cloud (China)|Dictionary/Company
+- [x] [Huawei Cloud (China)](/Knowledge-base/Dictionary/Company/huawei-cloud-china)
 - [x] [Tencent Cloud (China)](/Knowledge-base/Dictionary/Company/tencent-cloud-china)
 - [ ] Alibaba Cloud (China)|Dictionary/Company
 - [x] [JD Cloud & AI (China)](/Knowledge-base/Dictionary/Company/jd-cloud--ai-china)
