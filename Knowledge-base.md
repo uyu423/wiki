@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T07:32:37.342Z
+date: 2023-02-10T07:55:40.570Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -182,7 +182,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] [C Language] 040: Binary Heap|Algorithm
 - [ ] [C Language] 041: Fibonacci Heap|Algorithm
 - [ ] [C Language] 042: Red-Black Tree|Algorithm
-- [ ] [C Language] 043: Splay Tree|Algorithm
+- [x] [[C Language] 043: Splay Tree](/Knowledge-base/Algorithm/c-language-043-splay-tree)
 - [ ] [C Language] 044: K-D Tree|Algorithm
 - [ ] [C Language] 045: R-Tree|Algorithm
 - [ ] [C Language] 046: Trie|Algorithm
