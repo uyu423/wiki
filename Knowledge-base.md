@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T16:32:37.503Z
+date: 2023-02-10T16:55:38.730Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1531,7 +1531,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Penetration Testing](/Knowledge-base/Dictionary/penetration-testing)
 - [ ] Vulnerability Assessment|Dictionary
 - [ ] Security Testing|Dictionary
-- [ ] Risk Assessment|Dictionary
+- [x] [Risk Assessment](/Knowledge-base/Dictionary/risk-assessment)
 - [x] [Threat Modeling](/Knowledge-base/Dictionary/threat-modeling)
 - [ ] Disaster Recovery|Dictionary
 - [ ] Backup and Recovery|Dictionary
