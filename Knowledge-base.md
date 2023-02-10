@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T08:55:59.000Z
+date: 2023-02-10T09:17:45.705Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1372,7 +1372,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Using TypeScript with Knex.js for SQL Database Management|TypeScript
 - [x] [Building Virtual Reality Applications with TypeScript and A-Frame](/Knowledge-base/TypeScript/building-virtual-reality-applications-with-typescript-and-a-frame)
 - [x] [Integrating TypeScript with Google Maps API for Location-Based Services](/Knowledge-base/TypeScript/integrating-typescript-with-google-maps-api-for-location-based-services)
-- [ ] Working with Binary Data in TypeScript and Node.js|TypeScript
+- [x] [Working with Binary Data in TypeScript and Node.js](/Knowledge-base/TypeScript/working-with-binary-data-in-typescript-and-node-js)
 - [ ] Building Chatbots with TypeScript and Dialogflow|TypeScript
 - [x] [Using TypeScript with AWS DynamoDB for NoSQL Database Management](/Knowledge-base/TypeScript/using-typescript-with-aws-dynamodb-for-nosql-database-management)
 - [x] [Integrating TypeScript with Google Cloud Functions for Serverless Development](/Knowledge-base/TypeScript/integrating-typescript-with-google-cloud-functions-for-serverless-development)
