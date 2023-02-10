@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T20:17:50.424Z
+date: 2023-02-10T20:33:26.590Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -89,7 +89,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[JavaScript] 039: Heap-Based Priority Queue](/Knowledge-base/Algorithm/javascript-039-heap-based-priority-queue)
 - [x] [[JavaScript] 040: Binary Heap](/Knowledge-base/Algorithm/javascript-040-binary-heap)
 - [x] [[JavaScript] 041: Fibonacci Heap](/Knowledge-base/Algorithm/javascript-041-fibonacci-heap)
-- [ ] [JavaScript] 042: Red-Black Tree|Algorithm
+- [x] [[JavaScript] 042: Red-Black Tree](/Knowledge-base/Algorithm/javascript-042-red-black-tree)
 - [ ] [JavaScript] 043: Splay Tree|Algorithm
 - [ ] [JavaScript] 044: K-D Tree|Algorithm
 - [ ] [JavaScript] 045: R-Tree|Algorithm
