@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T03:32:35.652Z
+date: 2023-02-10T03:55:32.817Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -949,7 +949,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Implementing Serverless Functions with AWS Lambda and Google Cloud Functions|Backend
 - [x] [Understanding Backend as a Service (BaaS)](/Knowledge-base/Backend/understanding-backend-as-a-service-baas)
 - [x] [Real-time Communication in Backend Development with WebSockets and Server-Sent Events](/Knowledge-base/Backend/real-time-communication-in-backend-development-with-websockets-and-server-sent-events)
-- [ ] Implementing Command Query Responsibility Segregation (CQRS)|Backend
+- [x] [Implementing Command Query Responsibility Segregation (CQRS)](/Knowledge-base/Backend/implementing-command-query-responsibility-segregation-cqrs)
 - [x] [Enabling Cross-Origin Resource Sharing (CORS) for Secure API Access](/Knowledge-base/Backend/enabling-cross-origin-resource-sharing-cors-for-secure-api-access)
 - [ ] Implementing HTTP/2 for Faster Backend Communication|Backend
 - [x] [Building Serverless Architecture for Scalable Backends](/Knowledge-base/Backend/building-serverless-architecture-for-scalable-backends)
