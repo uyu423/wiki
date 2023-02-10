@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T11:55:25.443Z
+date: 2023-02-10T12:17:51.906Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1303,7 +1303,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Leveraging Java's Date and Time API for Precise Time Management|Java
 - [x] [Building Custom Java Logging Handlers](/Knowledge-base/Java/building-custom-java-logging-handlers)
 - [ ] Java's ConcurrentHashMap for Parallel Hash Table Operations|Java
-- [ ] Java's java.util.concurrent.locks Package for Locking and Synchronization|Java
+- [x] [Java's java.util.concurrent.locks Package for Locking and Synchronization](/Knowledge-base/Java/java-s-java-util-concurrent-locks-package-for-locking-and-synchronization)
 - [x] [Leveraging Java's java.util.stream Package for Stream Processing](/Knowledge-base/Java/leveraging-java-s-java-util-stream-package-for-stream-processing)
 - [ ] Java's Executor Framework for Task Scheduling and Execution|Java
 - [ ] Java's Reflection-based Dynamic Proxies for Dynamic Method Invocation|Java
