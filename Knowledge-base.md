@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T14:55:46.535Z
+date: 2023-02-10T15:17:52.526Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -187,7 +187,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] [C Language] 045: R-Tree|Algorithm
 - [ ] [C Language] 046: Trie|Algorithm
 - [ ] [C Language] 047: Suffix Trie|Algorithm
-- [ ] [C Language] 048: Suffix Array|Algorithm
+- [x] [[C Language] 048: Suffix Array](/Knowledge-base/Algorithm/c-language-048-suffix-array)
 - [x] [[C Language] 049: Radix Tree (Compact Trie)](/Knowledge-base/Algorithm/c-language-049-radix-tree-compact-trie)
 
 ## MySQL Learning
