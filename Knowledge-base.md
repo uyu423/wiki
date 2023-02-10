@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T21:33:32.701Z
+date: 2023-02-10T21:55:42.860Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1957,7 +1957,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [SoftBank Group Corp. (Japan)](/Knowledge-base/Dictionary/Company/softbank-group-corp-japan)
 - [ ] Huawei Technologies Co., Ltd. (China)|Dictionary/Company
 - [ ] WIPRO Limited (India)|Dictionary/Company
-- [ ] Infosys Limited (India)|Dictionary/Company
+- [x] [Infosys Limited (India)](/Knowledge-base/Dictionary/Company/infosys-limited-india)
 - [ ] HCL Technologies Limited (India)|Dictionary/Company
 - [ ] Tata Consultancy Services (TCS) (India)|Dictionary/Company
 - [x] [Lenovo Group Limited (China)](/Knowledge-base/Dictionary/Company/lenovo-group-limited-china)
