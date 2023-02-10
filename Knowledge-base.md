@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-10T03:55:32.817Z
+date: 2023-02-10T04:17:41.296Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -905,7 +905,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Hash Functions and PBKDF2 for Secure Passwords](/Knowledge-base/Backend/hash-functions-and-pbkdf2-for-secure-passwords)
 - [x] [Scaling Backend Applications with Load Balancing](/Knowledge-base/Backend/scaling-backend-applications-with-load-balancing)
 - [x] [Caching Strategies for Improved Performance](/Knowledge-base/Backend/caching-strategies-for-improved-performance)
-- [ ] Validating User Data for Security|Backend
+- [x] [Validating User Data for Security](/Knowledge-base/Backend/validating-user-data-for-security)
 - [ ] Error Handling Best Practices for Backend Applications|Backend
 - [ ] Logging for Debugging and Monitoring|Backend
 - [x] [Testing Backend Applications with Continuous Integration](/Knowledge-base/Backend/testing-backend-applications-with-continuous-integration)
