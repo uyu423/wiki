@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T16:17:55.624Z
+date: 2023-02-11T16:32:25.716Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -116,7 +116,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Linux Virtual Memory and Swapping](/Knowledge-base/Linux/linux-virtual-memory-and-swapping)
 - [x] [Linux File Systems: ext4, XFS, Btrfs, and more](/Knowledge-base/Linux/linux-file-systems-ext4-xfs-btrfs-and-more)
 - [x] [Linux System Startup and Initialization](/Knowledge-base/Linux/linux-system-startup-and-initialization)
-- [ ] Linux Kernel Modules and Loadable Kernel Objects|Linux
+- [x] [Linux Kernel Modules and Loadable Kernel Objects](/Knowledge-base/Linux/linux-kernel-modules-and-loadable-kernel-objects)
 - [ ] Linux I/O Scheduling and Disk Management|Linux
 - [ ] Linux Kernel Synchronization and Concurrency|Linux
 - [ ] Debugging Linux Systems|Linux
