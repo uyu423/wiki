@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T07:56:40.473Z
+date: 2023-02-11T08:18:17.137Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1577,7 +1577,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Public Key Infrastructure](/Knowledge-base/Dictionary/public-key-infrastructure)
 - [x] [Certificate Authority](/Knowledge-base/Dictionary/certificate-authority)
 - [x] [Encryption](/Knowledge-base/Dictionary/encryption)
-- [ ] Digital Signature|Dictionary
+- [x] [Digital Signature](/Knowledge-base/Dictionary/digital-signature)
 - [x] [Authentication](/Knowledge-base/Dictionary/authentication)
 - [x] [Authorization](/Knowledge-base/Dictionary/authorization)
 - [ ] Access Control|Dictionary
