@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T00:55:26.030Z
+date: 2023-02-11T01:17:32.507Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -602,7 +602,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 012: Using guards for route protection in Nest.js|Nest-js/Learning
 - [ ] 013: Implementing authorization in Nest.js|Nest-js/Learning
 - [ ] 014: Using middlewares in Nest.js|Nest-js/Learning
-- [ ] 015: Error handling in Nest.js|Nest-js/Learning
+- [x] [015: Error handling in Nest.js](/Knowledge-base/Nest-js/Learning/015-error-handling-in-nest-js)
 - [ ] 016: Debugging Nest.js applications|Nest-js/Learning
 - [x] [017: Testing Nest.js applications](/Knowledge-base/Nest-js/Learning/017-testing-nest-js-applications)
 - [x] [018: Creating reusable components in Nest.js](/Knowledge-base/Nest-js/Learning/018-creating-reusable-components-in-nest-js)
