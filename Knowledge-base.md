@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T20:19:01.547Z
+date: 2023-02-11T20:32:36.859Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -120,7 +120,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Linux I/O Scheduling and Disk Management](/Knowledge-base/Linux/linux-io-scheduling-and-disk-management)
 - [x] [Linux Kernel Synchronization and Concurrency](/Knowledge-base/Linux/linux-kernel-synchronization-and-concurrency)
 - [x] [Debugging Linux Systems](/Knowledge-base/Linux/debugging-linux-systems)
-- [ ] Linux Security and Permissions|Linux
+- [x] [Linux Security and Permissions](/Knowledge-base/Linux/linux-security-and-permissions)
 - [ ] Linux Kernel Debugging Techniques|Linux
 - [ ] Linux Networking Stack and Protocols|Linux
 - [ ] Linux Networking and Firewall Configuration|Linux
