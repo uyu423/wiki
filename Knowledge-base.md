@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T08:18:17.137Z
+date: 2023-02-11T08:32:29.932Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -104,7 +104,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Understanding the Linux File System](/Knowledge-base/Linux/understanding-the-linux-file-system)
 - [x] [The Linux Command Line Interface](/Knowledge-base/Linux/the-linux-command-line-interface)
 - [x] [Managing Processes in Linux](/Knowledge-base/Linux/managing-processes-in-linux)
-- [ ] File Permissions and Ownership in Linux|Linux
+- [x] [File Permissions and Ownership in Linux](/Knowledge-base/Linux/file-permissions-and-ownership-in-linux)
 - [ ] The Linux Network Stack|Linux
 - [ ] Advanced Bash Scripting|Linux
 - [ ] System Administration with Linux|Linux
