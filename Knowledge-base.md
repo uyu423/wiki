@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T19:17:54.012Z
+date: 2023-02-11T19:32:25.824Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -119,7 +119,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Linux Kernel Modules and Loadable Kernel Objects](/Knowledge-base/Linux/linux-kernel-modules-and-loadable-kernel-objects)
 - [x] [Linux I/O Scheduling and Disk Management](/Knowledge-base/Linux/linux-io-scheduling-and-disk-management)
 - [x] [Linux Kernel Synchronization and Concurrency](/Knowledge-base/Linux/linux-kernel-synchronization-and-concurrency)
-- [ ] Debugging Linux Systems|Linux
+- [x] [Debugging Linux Systems](/Knowledge-base/Linux/debugging-linux-systems)
 - [ ] Linux Security and Permissions|Linux
 - [ ] Linux Kernel Debugging Techniques|Linux
 - [ ] Linux Networking Stack and Protocols|Linux
