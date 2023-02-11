@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T12:18:04.026Z
+date: 2023-02-11T12:32:24.525Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -108,7 +108,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Linux Network Stack](/Knowledge-base/Linux/the-linux-network-stack)
 - [x] [Advanced Bash Scripting](/Knowledge-base/Linux/advanced-bash-scripting)
 - [x] [System Administration with Linux](/Knowledge-base/Linux/system-administration-with-linux)
-- [ ] Introduction to the Linux Kernel|Linux
+- [x] [Introduction to the Linux Kernel](/Knowledge-base/Linux/introduction-to-the-linux-kernel)
 - [x] [Linux Memory Management](/Knowledge-base/Linux/linux-memory-management)
 - [ ] Linux Process Scheduling|Linux
 - [x] [Linux System Calls and Libraries](/Knowledge-base/Linux/linux-system-calls-and-libraries)
