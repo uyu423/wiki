@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T08:32:29.932Z
+date: 2023-02-11T08:55:19.118Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -979,7 +979,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AWS RDS: Setting Up a Relational Database in the Cloud](/Knowledge-base/Cloud/aws-rds-setting-up-a-relational-database-in-the-cloud)
 - [ ] AWS EC2: Launching and Configuring a Virtual Machine in the Cloud|Cloud
 - [x] [AWS VPC: Securing a Web Application with Virtual Private Clouds](/Knowledge-base/Cloud/aws-vpc-securing-a-web-application-with-virtual-private-clouds)
-- [ ] AWS SNS: Building a Pub/Sub Notification System in the Cloud|Cloud
+- [x] [AWS SNS: Building a Pub/Sub Notification System in the Cloud](/Knowledge-base/Cloud/aws-sns-building-a-pubsub-notification-system-in-the-cloud)
 - [x] [AWS SQS: Building a Distributed Task Queue System in the Cloud](/Knowledge-base/Cloud/aws-sqs-building-a-distributed-task-queue-system-in-the-cloud)
 - [x] [AWS IAM: Managing User Access and Permissions in the Cloud](/Knowledge-base/Cloud/aws-iam-managing-user-access-and-permissions-in-the-cloud)
 - [ ] AWS Kinesis: Processing Real-Time Streaming Data in the Cloud|Cloud
