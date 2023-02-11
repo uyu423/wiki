@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T11:55:29.992Z
+date: 2023-02-11T12:18:04.026Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2096,7 +2096,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Dennis Ritchie (UNIX Developer)|Dictionary/Person
 - [ ] Ken Thompson (UNIX Developer)|Dictionary/Person
 - [x] [Tom Igoe (Arduino Creator)](/Knowledge-base/Dictionary/Person/tom-igoe-arduino-creator)
-- [ ] Limor Fried (Adafruit Industries Founder)|Dictionary/Person
+- [x] [Limor Fried (Adafruit Industries Founder)](/Knowledge-base/Dictionary/Person/limor-fried-adafruit-industries-founder)
 - [ ] Woz (Apple Co-founder)|Dictionary/Person
 - [x] [Robert Morris (UNIX Developer)](/Knowledge-base/Dictionary/Person/robert-morris-unix-developer)
 - [ ] Jaron Lanier (Virtual Reality Pioneer)|Dictionary/Person
