@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T14:32:27.978Z
+date: 2023-02-11T14:55:38.931Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1647,7 +1647,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Design Pattern|Dictionary
 - [ ] Model-View-Controller|Dictionary
 - [x] [Service-Oriented Architecture](/Knowledge-base/Dictionary/service-oriented-architecture)
-- [ ] Microservices|Dictionary
+- [x] [Microservices](/Knowledge-base/Dictionary/microservices)
 - [ ] Service Bus|Dictionary
 - [x] [Enterprise Service Bus](/Knowledge-base/Dictionary/enterprise-service-bus)
 - [ ] Event-Driven Architecture|Dictionary
