@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T17:17:42.728Z
+date: 2023-02-11T17:32:39.482Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -117,7 +117,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Linux File Systems: ext4, XFS, Btrfs, and more](/Knowledge-base/Linux/linux-file-systems-ext4-xfs-btrfs-and-more)
 - [x] [Linux System Startup and Initialization](/Knowledge-base/Linux/linux-system-startup-and-initialization)
 - [x] [Linux Kernel Modules and Loadable Kernel Objects](/Knowledge-base/Linux/linux-kernel-modules-and-loadable-kernel-objects)
-- [ ] Linux I/O Scheduling and Disk Management|Linux
+- [x] [Linux I/O Scheduling and Disk Management](/Knowledge-base/Linux/linux-io-scheduling-and-disk-management)
 - [ ] Linux Kernel Synchronization and Concurrency|Linux
 - [ ] Debugging Linux Systems|Linux
 - [ ] Linux Security and Permissions|Linux
