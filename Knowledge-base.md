@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T03:32:26.889Z
+date: 2023-02-11T03:56:19.071Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1031,7 +1031,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Integrating Cloud Services with External APIs and Services](/Knowledge-base/Cloud/integrating-cloud-services-with-external-apis-and-services)
 - [x] [Securing Data in the Cloud on AWS and Azure](/Knowledge-base/Cloud/securing-data-in-the-cloud-on-aws-and-azure)
 - [x] [Continuous Integration and Continuous Deployment on AWS and Azure](/Knowledge-base/Cloud/continuous-integration-and-continuous-deployment-on-aws-and-azure)
-- [ ] Managing Application Life Cycle on AWS and Azure|Cloud
+- [x] [Managing Application Life Cycle on AWS and Azure](/Knowledge-base/Cloud/managing-application-life-cycle-on-aws-and-azure)
 - [x] [Optimizing Resource Usage and Cost on AWS and Azure](/Knowledge-base/Cloud/optimizing-resource-usage-and-cost-on-aws-and-azure)
 - [ ] Working with AWS and Azure Databases|Cloud
 - [x] [Using AWS and Azure for Machine Learning and AI Workloads](/Knowledge-base/Cloud/using-aws-and-azure-for-machine-learning-and-ai-workloads)
