@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T04:17:50.220Z
+date: 2023-02-11T04:32:22.862Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -100,7 +100,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## Linux
 
-- [ ] An Introduction to Linux Operating System|Linux
+- [x] [An Introduction to Linux Operating System](/Knowledge-base/Linux/an-introduction-to-linux-operating-system)
 - [ ] Understanding the Linux File System|Linux
 - [ ] The Linux Command Line Interface|Linux
 - [ ] Managing Processes in Linux|Linux
