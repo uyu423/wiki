@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T06:18:07.979Z
+date: 2023-02-11T06:32:18.806Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -102,7 +102,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 - [x] [An Introduction to Linux Operating System](/Knowledge-base/Linux/an-introduction-to-linux-operating-system)
 - [x] [Understanding the Linux File System](/Knowledge-base/Linux/understanding-the-linux-file-system)
-- [ ] The Linux Command Line Interface|Linux
+- [x] [The Linux Command Line Interface](/Knowledge-base/Linux/the-linux-command-line-interface)
 - [ ] Managing Processes in Linux|Linux
 - [ ] File Permissions and Ownership in Linux|Linux
 - [ ] The Linux Network Stack|Linux
