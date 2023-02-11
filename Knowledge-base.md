@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T14:55:38.931Z
+date: 2023-02-11T15:33:01.923Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -113,7 +113,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Linux Process Scheduling](/Knowledge-base/Linux/linux-process-scheduling)
 - [x] [Linux System Calls and Libraries](/Knowledge-base/Linux/linux-system-calls-and-libraries)
 - [x] [Linux Interrupts and Signals](/Knowledge-base/Linux/linux-interrupts-and-signals)
-- [ ] Linux Virtual Memory and Swapping|Linux
+- [x] [Linux Virtual Memory and Swapping](/Knowledge-base/Linux/linux-virtual-memory-and-swapping)
 - [x] [Linux File Systems: ext4, XFS, Btrfs, and more](/Knowledge-base/Linux/linux-file-systems-ext4-xfs-btrfs-and-more)
 - [x] [Linux System Startup and Initialization](/Knowledge-base/Linux/linux-system-startup-and-initialization)
 - [ ] Linux Kernel Modules and Loadable Kernel Objects|Linux
