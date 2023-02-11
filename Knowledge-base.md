@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T10:55:32.505Z
+date: 2023-02-11T11:32:27.594Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -107,7 +107,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [File Permissions and Ownership in Linux](/Knowledge-base/Linux/file-permissions-and-ownership-in-linux)
 - [x] [The Linux Network Stack](/Knowledge-base/Linux/the-linux-network-stack)
 - [x] [Advanced Bash Scripting](/Knowledge-base/Linux/advanced-bash-scripting)
-- [ ] System Administration with Linux|Linux
+- [x] [System Administration with Linux](/Knowledge-base/Linux/system-administration-with-linux)
 - [ ] Introduction to the Linux Kernel|Linux
 - [x] [Linux Memory Management](/Knowledge-base/Linux/linux-memory-management)
 - [ ] Linux Process Scheduling|Linux
