@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T02:55:44.550Z
+date: 2023-02-11T03:17:45.762Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1515,7 +1515,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Service Design|Dictionary
 - [ ] Product Design|Dictionary
 - [x] [Interaction Design](/Knowledge-base/Dictionary/interaction-design)
-- [ ] Industrial Design|Dictionary
+- [x] [Industrial Design](/Knowledge-base/Dictionary/industrial-design)
 - [ ] User-Centered Design|Dictionary
 - [ ] Human-Computer Interaction|Dictionary
 - [x] [User Interface](/Knowledge-base/Dictionary/user-interface)
