@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T04:55:18.190Z
+date: 2023-02-11T05:18:11.749Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -920,7 +920,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [SaaS, PaaS, and IaaS for Backend Applications](/Knowledge-base/Backend/saas-paas-and-iaas-for-backend-applications)
 - [ ] Object Storage, Block Storage, and File Storage for Backend|Backend
 - [ ] Networking Fundamentals for Backend Developers|Backend
-- [ ] Understanding the Domain Name System (DNS)|Backend
+- [x] [Understanding the Domain Name System (DNS)](/Knowledge-base/Backend/understanding-the-domain-name-system-dns)
 - [x] [IP Addressing for Backend Applications](/Knowledge-base/Backend/ip-addressing-for-backend-applications)
 - [x] [Load Balancing for Scalable Backend Applications](/Knowledge-base/Backend/load-balancing-for-scalable-backend-applications)
 - [ ] Reverse Proxy for Improved Performance|Backend
