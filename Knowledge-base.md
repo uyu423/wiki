@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T05:32:30.200Z
+date: 2023-02-11T05:55:49.707Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2054,7 +2054,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Reid Hoffman (LinkedIn Co-founder)|Dictionary/Person
 - [ ] Max Levchin (PayPal Co-founder)|Dictionary/Person
 - [ ] Marc Andreessen (Netscape Co-founder)|Dictionary/Person
-- [ ] Jim Clark (Netscape Co-founder)|Dictionary/Person
+- [x] [Jim Clark (Netscape Co-founder)](/Knowledge-base/Dictionary/Person/jim-clark-netscape-co-founder)
 - [ ] Marc Benioff (Salesforce CEO)|Dictionary/Person
 - [ ] John McAfee (McAfee Anti-Virus Founder)|Dictionary/Person
 - [x] [Bob Metcalfe (Ethernet Inventor)](/Knowledge-base/Dictionary/Person/bob-metcalfe-ethernet-inventor)
