@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T22:55:34.951Z
+date: 2023-02-11T23:17:30.667Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -910,7 +910,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Logging for Debugging and Monitoring|Backend
 - [x] [Testing Backend Applications with Continuous Integration](/Knowledge-base/Backend/testing-backend-applications-with-continuous-integration)
 - [x] [Continuous Deployment for Scalable Backend Applications](/Knowledge-base/Backend/continuous-deployment-for-scalable-backend-applications)
-- [ ] Building a Deployment Pipeline for Backend Applications|Backend
+- [x] [Building a Deployment Pipeline for Backend Applications](/Knowledge-base/Backend/building-a-deployment-pipeline-for-backend-applications)
 - [x] [DevOps Best Practices for Backend Infrastructure](/Knowledge-base/Backend/devops-best-practices-for-backend-infrastructure)
 - [x] [Infrastructure as Code for Backend Applications](/Knowledge-base/Backend/infrastructure-as-code-for-backend-applications)
 - [x] [Virtualization with Hypervisor and VMs](/Knowledge-base/Backend/virtualization-with-hypervisor-and-vms)
