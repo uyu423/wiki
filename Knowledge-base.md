@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T00:33:13.842Z
+date: 2023-02-11T00:55:26.030Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2057,7 +2057,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Jim Clark (Netscape Co-founder)|Dictionary/Person
 - [ ] Marc Benioff (Salesforce CEO)|Dictionary/Person
 - [ ] John McAfee (McAfee Anti-Virus Founder)|Dictionary/Person
-- [ ] Bob Metcalfe (Ethernet Inventor)|Dictionary/Person
+- [x] [Bob Metcalfe (Ethernet Inventor)](/Knowledge-base/Dictionary/Person/bob-metcalfe-ethernet-inventor)
 - [ ] Dave Cutler (Windows NT Architect)|Dictionary/Person
 - [ ] Bob Frankston (VisiCalc Creator)|Dictionary/Person
 - [ ] Douglas Engelbart (Computer Mouse Inventor)|Dictionary/Person
