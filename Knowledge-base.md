@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T08:55:19.118Z
+date: 2023-02-11T09:17:19.751Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1127,7 +1127,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 079: User Experience (UX) Design|Software-Development/Learning
 - [ ] Software Development 080: User Interface (UI) Design|Software-Development/Learning
 - [ ] Software Development 081: Information Architecture (IA)|Software-Development/Learning
-- [ ] Software Development 082: User Research|Software-Development/Learning
+- [x] [Software Development 082: User Research](/Knowledge-base/Software-Development/Learning/software-development-082-user-research)
 - [ ] Software Development 083: Usability Testing|Software-Development/Learning
 - [x] [Software Development 084: Conversion Rate Optimization (CRO)](/Knowledge-base/Software-Development/Learning/software-development-084-conversion-rate-optimization-cro)
 - [ ] Software Development 085: Growth Hacking|Software-Development/Learning
