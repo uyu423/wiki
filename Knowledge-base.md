@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T01:32:19.177Z
+date: 2023-02-11T01:55:30.747Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1034,7 +1034,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Managing Application Life Cycle on AWS and Azure|Cloud
 - [x] [Optimizing Resource Usage and Cost on AWS and Azure](/Knowledge-base/Cloud/optimizing-resource-usage-and-cost-on-aws-and-azure)
 - [ ] Working with AWS and Azure Databases|Cloud
-- [ ] Using AWS and Azure for Machine Learning and AI Workloads|Cloud
+- [x] [Using AWS and Azure for Machine Learning and AI Workloads](/Knowledge-base/Cloud/using-aws-and-azure-for-machine-learning-and-ai-workloads)
 - [ ] Integrating Cloud Services with DevOps Toolchains|Cloud
 - [x] [Exploring Advanced Features of AWS and Azure for IT Services](/Knowledge-base/Cloud/exploring-advanced-features-of-aws-and-azure-for-it-services)
 - [x] [Building Hybrid Clouds with AWS and Azure](/Knowledge-base/Cloud/building-hybrid-clouds-with-aws-and-azure)
