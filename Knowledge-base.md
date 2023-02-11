@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T09:32:24.184Z
+date: 2023-02-11T09:56:08.376Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1400,7 +1400,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Phoenix|Dictionary
 - [ ] Meteor|Dictionary
 - [ ] Hadoop|Dictionary
-- [ ] Spark|Dictionary
+- [x] [Spark](/Knowledge-base/Dictionary/spark)
 - [ ] TensorFlow|Dictionary
 - [ ] PyTorch|Dictionary
 - [ ] Keras|Dictionary
