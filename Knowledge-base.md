@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T04:32:22.862Z
+date: 2023-02-11T04:55:18.190Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -115,7 +115,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Linux Interrupts and Signals|Linux
 - [ ] Linux Virtual Memory and Swapping|Linux
 - [x] [Linux File Systems: ext4, XFS, Btrfs, and more](/Knowledge-base/Linux/linux-file-systems-ext4-xfs-btrfs-and-more)
-- [ ] Linux System Startup and Initialization|Linux
+- [x] [Linux System Startup and Initialization](/Knowledge-base/Linux/linux-system-startup-and-initialization)
 - [ ] Linux Kernel Modules and Loadable Kernel Objects|Linux
 - [ ] Linux I/O Scheduling and Disk Management|Linux
 - [ ] Linux Kernel Synchronization and Concurrency|Linux
