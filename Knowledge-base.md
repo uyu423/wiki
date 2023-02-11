@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T15:56:05.400Z
+date: 2023-02-11T16:17:55.624Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1088,7 +1088,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 040: Ethical Hacking](/Knowledge-base/Software-Development/Learning/software-development-040-ethical-hacking)
 - [ ] Software Development 041: Network Security|Software-Development/Learning
 - [ ] Software Development 042: Database Security|Software-Development/Learning
-- [ ] Software Development 043: Web Application Security|Software-Development/Learning
+- [x] [Software Development 043: Web Application Security](/Knowledge-base/Software-Development/Learning/software-development-043-web-application-security)
 - [ ] Software Development 044: Cloud Security|Software-Development/Learning
 - [ ] Software Development 045: Internet of Things (IoT)|Software-Development/Learning
 - [x] [Software Development 046: 5G Technology](/Knowledge-base/Software-Development/Learning/software-development-046-5g-technology)
