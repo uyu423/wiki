@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T03:56:19.071Z
+date: 2023-02-11T04:17:50.220Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1638,7 +1638,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Binary Code|Dictionary
 - [x] [Object Code](/Knowledge-base/Dictionary/object-code)
 - [ ] Library|Dictionary
-- [ ] Framework|Dictionary
+- [x] [Framework](/Knowledge-base/Dictionary/framework)
 - [ ] Platform|Dictionary
 - [x] [Software Library](/Knowledge-base/Dictionary/software-library)
 - [ ] Software Platform|Dictionary
