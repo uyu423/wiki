@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T13:56:07.601Z
+date: 2023-02-11T14:17:47.566Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1412,7 +1412,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] D3.js|Dictionary
 - [x] [Plotly](/Knowledge-base/Dictionary/plotly)
 - [x] [Bokeh](/Knowledge-base/Dictionary/bokeh)
-- [ ] Plotly Dash|Dictionary
+- [x] [Plotly Dash](/Knowledge-base/Dictionary/plotly-dash)
 - [ ] Jupyter Notebook|Dictionary
 - [x] [Tkinter](/Knowledge-base/Dictionary/tkinter)
 - [x] [PyQt](/Knowledge-base/Dictionary/pyqt)
