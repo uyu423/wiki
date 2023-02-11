@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T01:17:32.507Z
+date: 2023-02-11T01:32:19.177Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -94,7 +94,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[JavaScript] 044: K-D Tree](/Knowledge-base/Algorithm/javascript-044-k-d-tree)
 - [x] [[JavaScript] 045: R-Tree](/Knowledge-base/Algorithm/javascript-045-r-tree)
 - [x] [[JavaScript] 046: Trie](/Knowledge-base/Algorithm/javascript-046-trie)
-- [ ] [JavaScript] 047: Suffix Trie|Algorithm
+- [x] [[JavaScript] 047: Suffix Trie](/Knowledge-base/Algorithm/javascript-047-suffix-trie)
 - [ ] [JavaScript] 048: Suffix Array|Algorithm
 - [ ] [JavaScript] 049: Radix Tree (Compact Trie)|Algorithm
 
