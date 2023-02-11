@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T20:32:36.859Z
+date: 2023-02-11T20:55:33.619Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2035,7 +2035,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Sanjay Kumar (Computer Associates CEO)|Dictionary/Person
 - [ ] Vinod Dham (Intel Engineer)|Dictionary/Person
 - [ ] Rajeev Suri (Nokia CEO)|Dictionary/Person
-- [ ] Pradeep Sindhu (Juniper Networks Co-founder)|Dictionary/Person
+- [x] [Pradeep Sindhu (Juniper Networks Co-founder)](/Knowledge-base/Dictionary/Person/pradeep-sindhu-juniper-networks-co-founder)
 - [ ] Andy Bechtolsheim (Sun Microsystems Co-founder)|Dictionary/Person
 - [ ] Ken Thompson (UNIX Developer)|Dictionary/Person
 - [x] [Dennis Ritchie (UNIX Developer)](/Knowledge-base/Dictionary/Person/dennis-ritchie-unix-developer)
