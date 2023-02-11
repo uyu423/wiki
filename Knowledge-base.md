@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T12:32:24.525Z
+date: 2023-02-11T12:55:34.770Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -704,7 +704,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [038: Reified Types in Kotlin: Accessing Types at Runtime](/Knowledge-base/Kotlin/Learning/038-reified-types-in-kotlin-accessing-types-at-runtime)
 - [ ] 039: Constructors in Kotlin: Initializing Classes with Different Constructors|Kotlin/Learning
 - [ ] 040: Companion Objects in Kotlin: Implementing Static Members|Kotlin/Learning
-- [ ] 041: Object Declarations in Kotlin: Creating Singleton Instances|Kotlin/Learning
+- [x] [041: Object Declarations in Kotlin: Creating Singleton Instances](/Knowledge-base/Kotlin/Learning/041-object-declarations-in-kotlin-creating-singleton-instances)
 - [x] [042: Sealed Classes in Kotlin: Restricting Class Hierarchies](/Knowledge-base/Kotlin/Learning/042-sealed-classes-in-kotlin-restricting-class-hierarchies)
 - [ ] 043: Nested and Inner Classes in Kotlin: Creating Classes within Classes|Kotlin/Learning
 - [ ] 044: Anonymous Inner Classes in Kotlin: Creating Classes Without Names|Kotlin/Learning
