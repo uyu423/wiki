@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T18:32:26.016Z
+date: 2023-02-11T18:55:45.467Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2070,7 +2070,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Marten Mickos (MySQL CEO)|Dictionary/Person
 - [ ] Biz Stone (Twitter Co-founder)|Dictionary/Person
 - [x] [Evan Williams (Twitter Co-founder)](/Knowledge-base/Dictionary/Person/evan-williams-twitter-co-founder)
-- [ ] Jack Dorsey (Twitter Co-founder)|Dictionary/Person
+- [x] [Jack Dorsey (Twitter Co-founder)](/Knowledge-base/Dictionary/Person/jack-dorsey-twitter-co-founder)
 - [ ] Kevin Systrom (Instagram Co-founder)|Dictionary/Person
 - [ ] Mike Krieger (Instagram Co-founder)|Dictionary/Person
 - [x] [Noam Chomsky (Linguistics Professor and Author)](/Knowledge-base/Dictionary/Person/noam-chomsky-linguistics-professor-and-author)
