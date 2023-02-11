@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T18:55:45.467Z
+date: 2023-02-11T19:17:54.012Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1948,7 +1948,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [NTT Data Corporation (Japan)](/Knowledge-base/Dictionary/Company/ntt-data-corporation-japan)
 - [x] [SK Hynix Inc. (South Korea)](/Knowledge-base/Dictionary/Company/sk-hynix-inc-south-korea)
 - [ ] LG Electronics Inc. (South Korea)|Dictionary/Company
-- [ ] Baidu, Inc. (China)|Dictionary/Company
+- [x] [Baidu, Inc. (China)](/Knowledge-base/Dictionary/Company/baidu-inc-china)
 - [ ] Tencent Holdings Limited (China)|Dictionary/Company
 - [ ] Alibaba Group Holding Limited (China)|Dictionary/Company
 - [x] [Xiaomi Corporation (China)](/Knowledge-base/Dictionary/Company/xiaomi-corporation-china)
