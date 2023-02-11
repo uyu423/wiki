@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T07:32:34.566Z
+date: 2023-02-11T07:56:40.473Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1925,7 +1925,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Tesla, Inc.|Dictionary/Company
 - [ ] Palantir Technologies Inc.|Dictionary/Company
 - [ ] NVIDIA Corporation|Dictionary/Company
-- [ ] AMD, Inc.|Dictionary/Company
+- [x] [AMD, Inc.](/Knowledge-base/Dictionary/Company/amd-inc-)
 - [ ] Intel Corporation|Dictionary/Company
 - [ ] Micron Technology, Inc.|Dictionary/Company
 - [ ] Western Digital Corporation|Dictionary/Company
