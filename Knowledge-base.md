@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T12:55:34.770Z
+date: 2023-02-11T13:20:59.733Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2081,7 +2081,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] John Backus (FORTRAN Creator)|Dictionary/Person
 - [x] [Grace Hopper (COBOL Creator)](/Knowledge-base/Dictionary/Person/grace-hopper-cobol-creator)
 - [ ] Donald Knuth (Computer Science Author)|Dictionary/Person
-- [ ] Richard Hamming (Error-Correcting Code Creator)|Dictionary/Person
+- [x] [Richard Hamming (Error-Correcting Code Creator)](/Knowledge-base/Dictionary/Person/richard-hamming-error-correcting-code-creator)
 - [ ] Michael Stonebraker (Database Management System Pioneer)|Dictionary/Person
 - [ ] Andrew S. Tanenbaum (Computer Networking Pioneer)|Dictionary/Person
 - [x] [John Warnock (PostScript Creator)](/Knowledge-base/Dictionary/Person/john-warnock-postscript-creator)
