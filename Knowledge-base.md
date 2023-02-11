@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T22:32:22.210Z
+date: 2023-02-11T22:55:34.951Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -633,7 +633,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 043: Using Nest.js with Docker|Nest-js/Learning
 - [ ] 044: Using Nest.js with Kubernetes|Nest-js/Learning
 - [x] [045: Using Nest.js with cloud-based solutions such as Heroku, DigitalOcean, and more](/Knowledge-base/Nest-js/Learning/045-using-nest-js-with-cloud-based-solutions-such-as-heroku-digitalocean-and-more)
-- [ ] 046: Using Nest.js with serverless databases such as AWS DynamoDB, Google Cloud Firestore, and more|Nest-js/Learning
+- [x] [046: Using Nest.js with serverless databases such as AWS DynamoDB, Google Cloud Firestore, and more](/Knowledge-base/Nest-js/Learning/046-using-nest-js-with-serverless-databases-such-as-aws-dynamodb-google-cloud-firestore-and-more)
 - [ ] 047: Building and deploying scalable and performant applications with Nest.js|Nest-js/Learning
 - [x] [048: Best practices for writing Nest.js code](/Knowledge-base/Nest-js/Learning/048-best-practices-for-writing-nest-js-code)
 - [x] [049: Common pitfalls to avoid when using Nest.js](/Knowledge-base/Nest-js/Learning/049-common-pitfalls-to-avoid-when-using-nest-js)
