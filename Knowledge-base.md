@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T23:32:35.563Z
+date: 2023-02-11T23:55:46.033Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1807,7 +1807,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Flutter](/Knowledge-base/Dictionary/flutter)
 - [x] [Xamarin](/Knowledge-base/Dictionary/xamarin)
 - [x] [Hybrid Mobile Development](/Knowledge-base/Dictionary/hybrid-mobile-development)
-- [ ] Progressive Web Apps|Dictionary
+- [x] [Progressive Web Apps](/Knowledge-base/Dictionary/progressive-web-apps)
 - [ ] Mobile Application Testing|Dictionary
 - [ ] User Experience Design|Dictionary
 - [ ] User Interface Design|Dictionary
