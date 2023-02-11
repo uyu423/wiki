@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T05:55:49.707Z
+date: 2023-02-11T06:18:07.979Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1998,7 +1998,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Nexon Co., Ltd. (South Korea)|Dictionary/Company
 - [ ] Gamevil (South Korea)|Dictionary/Company
 - [x] [PUBG Corporation (South Korea)](/Knowledge-base/Dictionary/Company/pubg-corporation-south-korea)
-- [ ] NCSoft Corporation (South Korea)|Dictionary/Company
+- [x] [NCSoft Corporation (South Korea)](/Knowledge-base/Dictionary/Company/ncsoft-corporation-south-korea)
 
 ## Person
 
