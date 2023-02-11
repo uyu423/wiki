@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T16:56:03.006Z
+date: 2023-02-11T17:17:42.728Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -727,7 +727,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 061: The Factory Method Pattern in Kotlin: Creating Objects with a Factory Method|Kotlin/Learning
 - [ ] 062: The Singleton Pattern in Kotlin: Ensuring Only One Instance of a Class Exists|Kotlin/Learning
 - [ ] 063: The Observer Pattern in Kotlin: Implementing the Observer Design Pattern|Kotlin/Learning
-- [ ] 064: The Decorator Pattern in Kotlin: Enhancing Objects with Additional Behavior|Kotlin/Learning
+- [x] [064: The Decorator Pattern in Kotlin: Enhancing Objects with Additional Behavior](/Knowledge-base/Kotlin/Learning/064-the-decorator-pattern-in-kotlin-enhancing-objects-with-additional-behavior)
 - [ ] 065: The Template Method Pattern in Kotlin: Defining a Common Algorithm with Custom Steps|Kotlin/Learning
 - [x] [066: The Prototype Pattern in Kotlin: Creating New Objects from Existing Ones](/Knowledge-base/Kotlin/Learning/066-the-prototype-pattern-in-kotlin-creating-new-objects-from-existing-ones)
 - [x] [067: The Abstract Factory Pattern in Kotlin: Creating Objects Through Abstract Interfaces](/Knowledge-base/Kotlin/Learning/067-the-abstract-factory-pattern-in-kotlin-creating-objects-through-abstract-interfaces)
