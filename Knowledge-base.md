@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-11T21:32:59.414Z
+date: 2023-02-11T21:55:45.471Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1802,7 +1802,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Game Development|Dictionary
 - [ ] iOS Development|Dictionary
 - [ ] Android Development|Dictionary
-- [ ] Cross-Platform Development|Dictionary
+- [x] [Cross-Platform Development](/Knowledge-base/Dictionary/cross-platform-development)
 - [ ] React Native|Dictionary
 - [x] [Flutter](/Knowledge-base/Dictionary/flutter)
 - [x] [Xamarin](/Knowledge-base/Dictionary/xamarin)
