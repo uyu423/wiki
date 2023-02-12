@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T15:18:02.918Z
+date: 2023-02-12T15:32:24.586Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -143,7 +143,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[C Language] 001: Asymptotic Analysis](/Knowledge-base/Algorithm/c-language-001-asymptotic-analysis)
 - [x] [[C Language] 002: Time Complexity](/Knowledge-base/Algorithm/c-language-002-time-complexity)
 - [x] [[C Language] 003: Space Complexity](/Knowledge-base/Algorithm/c-language-003-space-complexity)
-- [ ] [C Language] 004: Divide and Conquer Algorithms|Algorithm
+- [x] [[C Language] 004: Divide and Conquer Algorithms](/Knowledge-base/Algorithm/c-language-004-divide-and-conquer-algorithms)
 - [ ] [C Language] 005: Dynamic Programming Algorithms|Algorithm
 - [ ] [C Language] 006: Greedy Algorithms|Algorithm
 - [ ] [C Language] 007: Backtracking Algorithms|Algorithm
