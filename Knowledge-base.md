@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T12:56:44.074Z
+date: 2023-02-12T13:19:09.706Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1949,7 +1949,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [SK Hynix Inc. (South Korea)](/Knowledge-base/Dictionary/Company/sk-hynix-inc-south-korea)
 - [ ] LG Electronics Inc. (South Korea)|Dictionary/Company
 - [x] [Baidu, Inc. (China)](/Knowledge-base/Dictionary/Company/baidu-inc-china)
-- [ ] Tencent Holdings Limited (China)|Dictionary/Company
+- [x] [Tencent Holdings Limited (China)](/Knowledge-base/Dictionary/Company/tencent-holdings-limited-china)
 - [ ] Alibaba Group Holding Limited (China)|Dictionary/Company
 - [x] [Xiaomi Corporation (China)](/Knowledge-base/Dictionary/Company/xiaomi-corporation-china)
 - [x] [ByteDance (China)](/Knowledge-base/Dictionary/Company/bytedance-china)
