@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T22:17:16.249Z
+date: 2023-02-12T22:32:43.205Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -152,7 +152,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[C Language] 010: Circular Linked List](/Knowledge-base/Algorithm/c-language-010-circular-linked-list)
 - [x] [[C Language] 011: Stack](/Knowledge-base/Algorithm/c-language-011-stack)
 - [x] [[C Language] 012: Queue](/Knowledge-base/Algorithm/c-language-012-queue)
-- [ ] [C Language] 013: Deque|Algorithm
+- [x] [[C Language] 013: Deque](/Knowledge-base/Algorithm/c-language-013-deque)
 - [ ] [C Language] 014: Priority Queue|Algorithm
 - [ ] [C Language] 015: Single Linked List|Algorithm
 - [x] [[C Language] 016: Doubly Linked List](/Knowledge-base/Algorithm/c-language-016-doubly-linked-list)
