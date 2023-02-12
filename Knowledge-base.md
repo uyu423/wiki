@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T09:32:25.712Z
+date: 2023-02-12T09:55:40.198Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -619,7 +619,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [029: Deploying Nest.js applications to production](/Knowledge-base/Nest-js/Learning/029-deploying-nest-js-applications-to-production)
 - [ ] 030: Scaling Nest.js applications|Nest-js/Learning
 - [ ] 031: Integrating with other technologies such as Redis, RabbitMQ, and more|Nest-js/Learning
-- [ ] 032: Using Nest.js with TypeScript|Nest-js/Learning
+- [x] [032: Using Nest.js with TypeScript](/Knowledge-base/Nest-js/Learning/032-using-nest-js-with-typescript)
 - [ ] 033: Using Nest.js with JavaScript|Nest-js/Learning
 - [ ] 034: Using Nest.js with Angular|Nest-js/Learning
 - [x] [035: Using Nest.js with React](/Knowledge-base/Nest-js/Learning/035-using-nest-js-with-react)
