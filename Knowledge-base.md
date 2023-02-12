@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T00:55:34.810Z
+date: 2023-02-12T01:17:46.105Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -827,7 +827,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and Authorization: Advanced Topics and Best Practices|Kotlin
 - [x] [Kotlin and Input Validation: Best Practices and Common Pitfalls](/Knowledge-base/Kotlin/kotlin-and-input-validation-best-practices-and-common-pitfalls)
 - [x] [Kotlin Testing: Best Practices and Common Pitfalls](/Knowledge-base/Kotlin/kotlin-testing-best-practices-and-common-pitfalls)
-- [ ] Kotlin Continuous Deployment: Best Practices|Kotlin
+- [x] [Kotlin Continuous Deployment: Best Practices](/Knowledge-base/Kotlin/kotlin-continuous-deployment-best-practices)
 - [x] [Kotlin and Spring Boot: Building a RESTful Web Service](/Knowledge-base/Kotlin/kotlin-and-spring-boot-building-a-restful-web-service)
 - [x] [Kotlin Coroutines for Asynchronous Server-side Development](/Knowledge-base/Kotlin/kotlin-coroutines-for-asynchronous-server-side-development)
 - [x] [Kotlin Multi-platform Development for the Web and Mobile](/Knowledge-base/Kotlin/kotlin-multi-platform-development-for-the-web-and-mobile)
