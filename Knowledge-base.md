@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T05:17:28.711Z
+date: 2023-02-12T05:33:01.823Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -130,7 +130,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kubernetes and Linux Container Orchestration](/Knowledge-base/Linux/kubernetes-and-linux-container-orchestration)
 - [x] [Linux Virtualization with KVM and libvirt](/Knowledge-base/Linux/linux-virtualization-with-kvm-and-libvirt)
 - [x] [Linux High Availability and Clustering](/Knowledge-base/Linux/linux-high-availability-and-clustering)
-- [ ] Linux Backup and Disaster Recovery|Linux
+- [x] [Linux Backup and Disaster Recovery](/Knowledge-base/Linux/linux-backup-and-disaster-recovery)
 - [ ] Linux Shell Scripting and Automation|Linux
 - [ ] Linux Shells: bash, zsh, and more|Linux
 - [ ] Linux Text Processing and Regular Expressions|Linux
