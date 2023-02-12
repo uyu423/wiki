@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T06:56:12.263Z
+date: 2023-02-12T07:17:31.192Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1160,7 +1160,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] How to Build a Chatbot with Dialogflow|Common
 - [x] [Introduction to Cybersecurity and Ethical Hacking](/Knowledge-base/Common/introduction-to-cybersecurity-and-ethical-hacking)
 - [ ] The Future of Virtual Reality and Augmented Reality|Common
-- [ ] Data Visualization with D3.js and Tableau|Common
+- [x] [Data Visualization with D3.js and Tableau](/Knowledge-base/Common/data-visualization-with-d3-js-and-tableau)
 - [x] [The Benefits of Docker and Containerization](/Knowledge-base/Common/the-benefits-of-docker-and-containerization)
 - [ ] The Evolution of Big Data and Hadoop|Common
 - [ ] How to Implement a DevOps Workflow|Common
