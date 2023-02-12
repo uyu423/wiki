@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T13:19:09.706Z
+date: 2023-02-12T13:32:28.429Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -140,7 +140,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Linux Scripting for DevOps](/Knowledge-base/Linux/linux-scripting-for-devops)
 
 ## Algorithm (use C Lang)
-- [ ] [C Language] 001: Asymptotic Analysis|Algorithm
+- [x] [[C Language] 001: Asymptotic Analysis](/Knowledge-base/Algorithm/c-language-001-asymptotic-analysis)
 - [x] [[C Language] 002: Time Complexity](/Knowledge-base/Algorithm/c-language-002-time-complexity)
 - [ ] [C Language] 003: Space Complexity|Algorithm
 - [ ] [C Language] 004: Divide and Conquer Algorithms|Algorithm
