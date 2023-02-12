@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T20:33:47.066Z
+date: 2023-02-12T20:55:29.892Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -940,7 +940,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Enhancing User Experience with Content Delivery Network (CDN)](/Knowledge-base/Backend/enhancing-user-experience-with-content-delivery-network-cdn)
 - [ ] Implementing Distributed File Systems in Infrastructure Development|Backend
 - [ ] Resource Allocation and Scheduling in Backend Development|Backend
-- [ ] Managing Clusters for High Availability|Backend
+- [x] [Managing Clusters for High Availability](/Knowledge-base/Backend/managing-clusters-for-high-availability)
 - [ ] Service Discovery in Microservice Architecture|Backend
 - [ ] Task Orchestration for Improved Workflow Management|Backend
 - [ ] gRPC for High-Performance Communication in Backend Development|Backend
