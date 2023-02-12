@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T17:32:32.206Z
+date: 2023-02-12T17:55:35.570Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -962,7 +962,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Real-time Communication in Backend Development with WebSockets and Server-Sent Events](/Knowledge-base/Backend/real-time-communication-in-backend-development-with-websockets-and-server-sent-events)
 - [ ] Debugging and Troubleshooting in Backend Development|Backend
 - [x] [Monitoring and Logging in Infrastructure Development](/Knowledge-base/Backend/monitoring-and-logging-in-infrastructure-development)
-- [ ] Implementing Error Handling for Better User Experience|Backend
+- [x] [Implementing Error Handling for Better User Experience](/Knowledge-base/Backend/implementing-error-handling-for-better-user-experience)
 - [ ] Data Validation Techniques in Backend Development|Backend
 - [ ] Session Management for Improved User Experience|Backend
 - [x] [Caching Techniques for Better Performance in Backend Development](/Knowledge-base/Backend/caching-techniques-for-better-performance-in-backend-development)
