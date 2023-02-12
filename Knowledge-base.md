@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T20:55:29.892Z
+date: 2023-02-12T21:17:29.763Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1105,7 +1105,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 057: Autonomous Systems](/Knowledge-base/Software-Development/Learning/software-development-057-autonomous-systems)
 - [ ] Software Development 058: Internet of Drones (IoD)|Software-Development/Learning
 - [x] [Software Development 059: Industrial IoT (IIoT)](/Knowledge-base/Software-Development/Learning/software-development-059-industrial-iot-iiot)
-- [ ] Software Development 060: Edge Computing|Software-Development/Learning
+- [x] [Software Development 060: Edge Computing](/Knowledge-base/Software-Development/Learning/software-development-060-edge-computing)
 - [x] [Software Development 061: Distributed Systems](/Knowledge-base/Software-Development/Learning/software-development-061-distributed-systems)
 - [ ] Software Development 062: Containerization with Docker|Software-Development/Learning
 - [x] [Software Development 063: Kubernetes and Cluster Management](/Knowledge-base/Software-Development/Learning/software-development-063-kubernetes-and-cluster-management)
