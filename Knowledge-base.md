@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T12:32:28.662Z
+date: 2023-02-12T12:56:44.074Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1755,7 +1755,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Distributed Systems|Dictionary
 - [ ] Cloud Storage|Dictionary
 - [x] [Object Storage](/Knowledge-base/Dictionary/object-storage)
-- [ ] Block Storage|Dictionary
+- [x] [Block Storage](/Knowledge-base/Dictionary/block-storage)
 - [x] [File Storage](/Knowledge-base/Dictionary/file-storage)
 - [ ] Backup Solutions|Dictionary
 - [ ] Data Replication|Dictionary
