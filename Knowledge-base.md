@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T18:17:47.915Z
+date: 2023-02-12T18:34:07.360Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -146,7 +146,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[C Language] 004: Divide and Conquer Algorithms](/Knowledge-base/Algorithm/c-language-004-divide-and-conquer-algorithms)
 - [x] [[C Language] 005: Dynamic Programming Algorithms](/Knowledge-base/Algorithm/c-language-005-dynamic-programming-algorithms)
 - [x] [[C Language] 006: Greedy Algorithms](/Knowledge-base/Algorithm/c-language-006-greedy-algorithms)
-- [ ] [C Language] 007: Backtracking Algorithms|Algorithm
+- [x] [[C Language] 007: Backtracking Algorithms](/Knowledge-base/Algorithm/c-language-007-backtracking-algorithms)
 - [ ] [C Language] 008: Linked List|Algorithm
 - [ ] [C Language] 009: Double Linked List|Algorithm
 - [x] [[C Language] 010: Circular Linked List](/Knowledge-base/Algorithm/c-language-010-circular-linked-list)
