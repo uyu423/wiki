@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T17:55:35.570Z
+date: 2023-02-12T18:17:47.915Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2029,7 +2029,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Jan Koum (WhatsApp Co-founder)|Dictionary/Person
 - [x] [Daniel Ek (Spotify CEO)](/Knowledge-base/Dictionary/Person/daniel-ek-spotify-ceo)
 - [x] [Drew Houston (Dropbox CEO)](/Knowledge-base/Dictionary/Person/drew-houston-dropbox-ceo)
-- [ ] Aaron Levie (Box CEO)|Dictionary/Person
+- [x] [Aaron Levie (Box CEO)](/Knowledge-base/Dictionary/Person/aaron-levie-box-ceo)
 - [ ] John Donahoe (eBay CEO)|Dictionary/Person
 - [ ] Brad Smith (Microsoft President)|Dictionary/Person
 - [ ] Sanjay Kumar (Computer Associates CEO)|Dictionary/Person
