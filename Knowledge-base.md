@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T07:32:25.974Z
+date: 2023-02-12T07:56:07.311Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1666,7 +1666,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Development Life Cycle](/Knowledge-base/Dictionary/development-life-cycle)
 - [ ] Software Requirements|Dictionary
 - [ ] User Stories|Dictionary
-- [ ] User Story Mapping|Dictionary
+- [x] [User Story Mapping](/Knowledge-base/Dictionary/user-story-mapping)
 - [ ] Business Requirements|Dictionary
 - [x] [Technical Requirements](/Knowledge-base/Dictionary/technical-requirements)
 - [ ] System Requirements|Dictionary
