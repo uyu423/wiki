@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T05:55:47.848Z
+date: 2023-02-12T06:17:32.343Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2060,7 +2060,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Bob Metcalfe (Ethernet Inventor)](/Knowledge-base/Dictionary/Person/bob-metcalfe-ethernet-inventor)
 - [ ] Dave Cutler (Windows NT Architect)|Dictionary/Person
 - [ ] Bob Frankston (VisiCalc Creator)|Dictionary/Person
-- [ ] Douglas Engelbart (Computer Mouse Inventor)|Dictionary/Person
+- [x] [Douglas Engelbart (Computer Mouse Inventor)](/Knowledge-base/Dictionary/Person/douglas-engelbart-computer-mouse-inventor)
 - [ ] Ted Nelson (Hypertext Pioneer)|Dictionary/Person
 - [ ] Ivan Sutherland (Sketchpad Creator)|Dictionary/Person
 - [x] [John Warnock (Adobe Co-founder)](/Knowledge-base/Dictionary/Person/john-warnock-adobe-co-founder)
