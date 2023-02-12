@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T09:55:40.198Z
+date: 2023-02-12T10:18:24.757Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -181,7 +181,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] [C Language] 039: Heap-Based Priority Queue|Algorithm
 - [ ] [C Language] 040: Binary Heap|Algorithm
 - [ ] [C Language] 041: Fibonacci Heap|Algorithm
-- [ ] [C Language] 042: Red-Black Tree|Algorithm
+- [x] [[C Language] 042: Red-Black Tree](/Knowledge-base/Algorithm/c-language-042-red-black-tree)
 - [x] [[C Language] 043: Splay Tree](/Knowledge-base/Algorithm/c-language-043-splay-tree)
 - [ ] [C Language] 044: K-D Tree|Algorithm
 - [ ] [C Language] 045: R-Tree|Algorithm
