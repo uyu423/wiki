@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T16:18:08.832Z
+date: 2023-02-12T16:32:30.171Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -144,7 +144,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[C Language] 002: Time Complexity](/Knowledge-base/Algorithm/c-language-002-time-complexity)
 - [x] [[C Language] 003: Space Complexity](/Knowledge-base/Algorithm/c-language-003-space-complexity)
 - [x] [[C Language] 004: Divide and Conquer Algorithms](/Knowledge-base/Algorithm/c-language-004-divide-and-conquer-algorithms)
-- [ ] [C Language] 005: Dynamic Programming Algorithms|Algorithm
+- [x] [[C Language] 005: Dynamic Programming Algorithms](/Knowledge-base/Algorithm/c-language-005-dynamic-programming-algorithms)
 - [ ] [C Language] 006: Greedy Algorithms|Algorithm
 - [ ] [C Language] 007: Backtracking Algorithms|Algorithm
 - [ ] [C Language] 008: Linked List|Algorithm
