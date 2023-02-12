@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T11:17:58.378Z
+date: 2023-02-12T11:33:46.570Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -136,7 +136,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Linux Text Processing and Regular Expressions](/Knowledge-base/Linux/linux-text-processing-and-regular-expressions)
 - [x] [Linux Package Management with apt and yum](/Knowledge-base/Linux/linux-package-management-with-apt-and-yum)
 - [x] [Linux System Monitoring and Logging](/Knowledge-base/Linux/linux-system-monitoring-and-logging)
-- [ ] Linux Web Server and Database Administration|Linux
+- [x] [Linux Web Server and Database Administration](/Knowledge-base/Linux/linux-web-server-and-database-administration)
 - [ ] Linux Scripting for DevOps|Linux
 
 ## Algorithm (use C Lang)
