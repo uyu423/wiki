@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T07:17:31.192Z
+date: 2023-02-12T07:32:25.974Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -132,7 +132,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Linux High Availability and Clustering](/Knowledge-base/Linux/linux-high-availability-and-clustering)
 - [x] [Linux Backup and Disaster Recovery](/Knowledge-base/Linux/linux-backup-and-disaster-recovery)
 - [x] [Linux Shell Scripting and Automation](/Knowledge-base/Linux/linux-shell-scripting-and-automation)
-- [ ] Linux Shells: bash, zsh, and more|Linux
+- [x] [Linux Shells: bash, zsh, and more](/Knowledge-base/Linux/linux-shells-bash-zsh-and-more)
 - [ ] Linux Text Processing and Regular Expressions|Linux
 - [ ] Linux Package Management with apt and yum|Linux
 - [ ] Linux System Monitoring and Logging|Linux
