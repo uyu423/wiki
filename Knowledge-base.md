@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T21:55:56.894Z
+date: 2023-02-12T22:17:16.249Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -588,7 +588,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## Nest.js Learning
 
-- [ ] 001: Introduction to Nest.js and its benefits as a web framework|Nest-js/Learning
+- [x] [001: Introduction to Nest.js and its benefits as a web framework](/Knowledge-base/Nest-js/Learning/001-introduction-to-nest-js-and-its-benefits-as-a-web-framework)
 - [ ] 002: Setting up a development environment for Nest.js|Nest-js/Learning
 - [ ] 003: Creating your first Nest.js application|Nest-js/Learning
 - [ ] 004: Understanding the architecture of a Nest.js application|Nest-js/Learning
