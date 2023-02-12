@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T10:32:20.841Z
+date: 2023-02-12T10:57:12.267Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2080,7 +2080,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Edsger W. Dijkstra (Computer Science Pioneer)|Dictionary/Person
 - [ ] John Backus (FORTRAN Creator)|Dictionary/Person
 - [x] [Grace Hopper (COBOL Creator)](/Knowledge-base/Dictionary/Person/grace-hopper-cobol-creator)
-- [ ] Donald Knuth (Computer Science Author)|Dictionary/Person
+- [x] [Donald Knuth (Computer Science Author)](/Knowledge-base/Dictionary/Person/donald-knuth-computer-science-author)
 - [x] [Richard Hamming (Error-Correcting Code Creator)](/Knowledge-base/Dictionary/Person/richard-hamming-error-correcting-code-creator)
 - [ ] Michael Stonebraker (Database Management System Pioneer)|Dictionary/Person
 - [ ] Andrew S. Tanenbaum (Computer Networking Pioneer)|Dictionary/Person
