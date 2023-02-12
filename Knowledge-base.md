@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T19:56:06.944Z
+date: 2023-02-12T20:17:36.182Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2068,7 +2068,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Alan Cooper (Visual Basic Creator)|Dictionary/Person
 - [ ] David Heinemeier Hansson (Ruby on Rails Creator)|Dictionary/Person
 - [ ] Marten Mickos (MySQL CEO)|Dictionary/Person
-- [ ] Biz Stone (Twitter Co-founder)|Dictionary/Person
+- [x] [Biz Stone (Twitter Co-founder)](/Knowledge-base/Dictionary/Person/biz-stone-twitter-co-founder)
 - [x] [Evan Williams (Twitter Co-founder)](/Knowledge-base/Dictionary/Person/evan-williams-twitter-co-founder)
 - [x] [Jack Dorsey (Twitter Co-founder)](/Knowledge-base/Dictionary/Person/jack-dorsey-twitter-co-founder)
 - [ ] Kevin Systrom (Instagram Co-founder)|Dictionary/Person
