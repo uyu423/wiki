@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T12:17:48.680Z
+date: 2023-02-12T12:32:28.662Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -137,7 +137,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Linux Package Management with apt and yum](/Knowledge-base/Linux/linux-package-management-with-apt-and-yum)
 - [x] [Linux System Monitoring and Logging](/Knowledge-base/Linux/linux-system-monitoring-and-logging)
 - [x] [Linux Web Server and Database Administration](/Knowledge-base/Linux/linux-web-server-and-database-administration)
-- [ ] Linux Scripting for DevOps|Linux
+- [x] [Linux Scripting for DevOps](/Knowledge-base/Linux/linux-scripting-for-devops)
 
 ## Algorithm (use C Lang)
 - [ ] [C Language] 001: Asymptotic Analysis|Algorithm
