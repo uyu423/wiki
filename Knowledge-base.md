@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T11:33:46.570Z
+date: 2023-02-12T12:17:48.680Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1801,7 +1801,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Virtual Reality|Dictionary
 - [ ] Game Development|Dictionary
 - [ ] iOS Development|Dictionary
-- [ ] Android Development|Dictionary
+- [x] [Android Development](/Knowledge-base/Dictionary/android-development)
 - [x] [Cross-Platform Development](/Knowledge-base/Dictionary/cross-platform-development)
 - [ ] React Native|Dictionary
 - [x] [Flutter](/Knowledge-base/Dictionary/flutter)
