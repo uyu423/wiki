@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T08:32:41.139Z
+date: 2023-02-12T08:58:57.877Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1924,7 +1924,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Uber Technologies, Inc.](/Knowledge-base/Dictionary/Company/uber-technologies-inc-)
 - [ ] Tesla, Inc.|Dictionary/Company
 - [ ] Palantir Technologies Inc.|Dictionary/Company
-- [ ] NVIDIA Corporation|Dictionary/Company
+- [x] [NVIDIA Corporation](/Knowledge-base/Dictionary/Company/nvidia-corporation)
 - [x] [AMD, Inc.](/Knowledge-base/Dictionary/Company/amd-inc-)
 - [ ] Intel Corporation|Dictionary/Company
 - [ ] Micron Technology, Inc.|Dictionary/Company
