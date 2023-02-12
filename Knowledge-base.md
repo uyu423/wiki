@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T20:17:36.182Z
+date: 2023-02-12T20:33:47.066Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -148,7 +148,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[C Language] 006: Greedy Algorithms](/Knowledge-base/Algorithm/c-language-006-greedy-algorithms)
 - [x] [[C Language] 007: Backtracking Algorithms](/Knowledge-base/Algorithm/c-language-007-backtracking-algorithms)
 - [x] [[C Language] 008: Linked List](/Knowledge-base/Algorithm/c-language-008-linked-list)
-- [ ] [C Language] 009: Double Linked List|Algorithm
+- [x] [[C Language] 009: Double Linked List](/Knowledge-base/Algorithm/c-language-009-double-linked-list)
 - [x] [[C Language] 010: Circular Linked List](/Knowledge-base/Algorithm/c-language-010-circular-linked-list)
 - [x] [[C Language] 011: Stack](/Knowledge-base/Algorithm/c-language-011-stack)
 - [ ] [C Language] 012: Queue|Algorithm
