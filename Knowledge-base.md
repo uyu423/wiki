@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T06:32:39.249Z
+date: 2023-02-12T06:56:12.263Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -863,7 +863,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and Serverless Functions: Building Scalable and Cost-Effective Applications](/Knowledge-base/Kotlin/kotlin-and-serverless-functions-building-scalable-and-cost-effective-applications)
 - [x] [Kotlin and Event-driven Architecture: Building Responsive and Reactive Systems](/Knowledge-base/Kotlin/kotlin-and-event-driven-architecture-building-responsive-and-reactive-systems)
 - [x] [Kotlin and Real-time Communication: Building Chat and Notification Systems](/Knowledge-base/Kotlin/kotlin-and-real-time-communication-building-chat-and-notification-systems)
-- [ ] Kotlin and CORS: A Guide to Cross-Origin Resource Sharing|Kotlin
+- [x] [Kotlin and CORS: A Guide to Cross-Origin Resource Sharing](/Knowledge-base/Kotlin/kotlin-and-cors-a-guide-to-cross-origin-resource-sharing)
 - [ ] Kotlin and HTTP/2: A Guide to the Next Generation of HTTP|Kotlin
 - [ ] Kotlin and Serverless Architecture: A Guide to Building Scalable Applications|Kotlin
 - [x] [Kotlin and Event Sourcing: A Guide to Building Resilient Systems](/Knowledge-base/Kotlin/kotlin-and-event-sourcing-a-guide-to-building-resilient-systems)
