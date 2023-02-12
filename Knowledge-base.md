@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T13:32:28.429Z
+date: 2023-02-12T14:18:02.895Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -625,7 +625,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [035: Using Nest.js with React](/Knowledge-base/Nest-js/Learning/035-using-nest-js-with-react)
 - [x] [036: Real-time communication with WebSockets in Nest.js](/Knowledge-base/Nest-js/Learning/036-real-time-communication-with-websockets-in-nest-js)
 - [x] [037: Implementing real-time chat with Nest.js and WebSockets](/Knowledge-base/Nest-js/Learning/037-implementing-real-time-chat-with-nest-js-and-websockets)
-- [ ] 038: Building and deploying serverless applications with Nest.js|Nest-js/Learning
+- [x] [038: Building and deploying serverless applications with Nest.js](/Knowledge-base/Nest-js/Learning/038-building-and-deploying-serverless-applications-with-nest-js)
 - [x] [039: Using Nest.js with AWS Lambda](/Knowledge-base/Nest-js/Learning/039-using-nest-js-with-aws-lambda)
 - [ ] 040: Using Nest.js with Google Cloud Functions|Nest-js/Learning
 - [ ] 041: Using Nest.js with Firebase Functions|Nest-js/Learning
