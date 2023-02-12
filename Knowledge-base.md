@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T01:55:28.947Z
+date: 2023-02-12T02:17:43.014Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -583,7 +583,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kubernetes with CSI: Managing Storage for Your Clusters|Kubernetes
 - [x] [Kubernetes with Istio: Implementing Service Mesh for Your Applications](/Knowledge-base/Kubernetes/kubernetes-with-istio-implementing-service-mesh-for-your-applications)
 - [ ] Kubernetes with Envoy: Managing Traffic for Your Services|Kubernetes
-- [ ] Kubernetes with Knative: Building and Deploying Serverless Applications|Kubernetes
+- [x] [Kubernetes with Knative: Building and Deploying Serverless Applications](/Knowledge-base/Kubernetes/kubernetes-with-knative-building-and-deploying-serverless-applications)
 - [ ] Kubernetes with Tekton: Implementing CI/CD Pipelines for Your Applications|Kubernetes
 
 ## Nest.js Learning
