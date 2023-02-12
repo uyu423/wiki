@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T08:58:57.877Z
+date: 2023-02-12T09:17:37.731Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1181,7 +1181,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Advantages of Virtual Private Clouds (VPCs) and Amazon Web Services (AWS)](/Knowledge-base/Common/the-advantages-of-virtual-private-clouds-vpcs-and-amazon-web-services-aws)
 - [ ] How to Build a Secure Web Application with OWASP Top 10|Common
 - [ ] The Benefits of Artificial Neural Networks (ANNs) and Deep Learning|Common
-- [ ] How to Build a Chatbot with Microsoft Bot Framework|Common
+- [x] [How to Build a Chatbot with Microsoft Bot Framework](/Knowledge-base/Common/how-to-build-a-chatbot-with-microsoft-bot-framework)
 - [x] [The Importance of Information Security and Compliance](/Knowledge-base/Common/the-importance-of-information-security-and-compliance)
 - [x] [How to Build a Progressive Web App (PWA) with Angular](/Knowledge-base/Common/how-to-build-a-progressive-web-app-pwa-with-angular)
 - [ ] The Benefits of Distributed Systems and Apache Cassandra|Common
