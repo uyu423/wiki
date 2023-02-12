@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T15:55:53.333Z
+date: 2023-02-12T16:18:08.832Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -844,7 +844,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and XML: Parsing and Generating XML Data](/Knowledge-base/Kotlin/kotlin-and-xml-parsing-and-generating-xml-data)
 - [x] [Kotlin and Test Driven Development (TDD): A Hands-on Guide](/Knowledge-base/Kotlin/kotlin-and-test-driven-development-tdd-a-hands-on-guide)
 - [x] [Kotlin and Continuous Deployment: Automating Your Deployment Workflow](/Knowledge-base/Kotlin/kotlin-and-continuous-deployment-automating-your-deployment-workflow)
-- [ ] Kotlin and Kubernetes: Deploying and Scaling Your Applications|Kotlin
+- [x] [Kotlin and Kubernetes: Deploying and Scaling Your Applications](/Knowledge-base/Kotlin/kotlin-and-kubernetes-deploying-and-scaling-your-applications)
 - [x] [Kotlin and Docker: Packaging and Running Your Applications](/Knowledge-base/Kotlin/kotlin-and-docker-packaging-and-running-your-applications)
 - [x] [Kotlin and Jenkins: Automating Your Build and Deployment Workflow](/Knowledge-base/Kotlin/kotlin-and-jenkins-automating-your-build-and-deployment-workflow)
 - [x] [Kotlin and IntelliJ: A Guide to the Kotlin Development Environment](/Knowledge-base/Kotlin/kotlin-and-intellij-a-guide-to-the-kotlin-development-environment)
