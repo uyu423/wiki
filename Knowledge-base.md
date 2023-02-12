@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T19:32:47.352Z
+date: 2023-02-12T19:56:06.944Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1264,7 +1264,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Working with Node.js and WebSockets for Real-Time Communication|Nodejs
 - [x] [Node.js and Serverless Computing: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-serverless-computing-a-hands-on-guide)
 - [x] [Building RESTful APIs with Node.js and Express](/Knowledge-base/Nodejs/building-restful-apis-with-node-js-and-express)
-- [ ] Node.js and NoSQL Databases: A Hands-On Guide|Nodejs
+- [x] [Node.js and NoSQL Databases: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-nosql-databases-a-hands-on-guide)
 - [ ] Node.js and Redis: A Hands-On Guide to Caching and Session Management|Nodejs
 - [x] [Node.js and MongoDB: A Hands-On Guide to Data Persistence](/Knowledge-base/Nodejs/node-js-and-mongodb-a-hands-on-guide-to-data-persistence)
 - [ ] Node.js and Elasticsearch: A Hands-On Guide to Search and Analytics|Nodejs
