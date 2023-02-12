@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T22:55:39.617Z
+date: 2023-02-12T23:17:41.721Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -582,7 +582,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kubernetes with CNI: Configuring Networking for Your Clusters](/Knowledge-base/Kubernetes/kubernetes-with-cni-configuring-networking-for-your-clusters)
 - [ ] Kubernetes with CSI: Managing Storage for Your Clusters|Kubernetes
 - [x] [Kubernetes with Istio: Implementing Service Mesh for Your Applications](/Knowledge-base/Kubernetes/kubernetes-with-istio-implementing-service-mesh-for-your-applications)
-- [ ] Kubernetes with Envoy: Managing Traffic for Your Services|Kubernetes
+- [x] [Kubernetes with Envoy: Managing Traffic for Your Services](/Knowledge-base/Kubernetes/kubernetes-with-envoy-managing-traffic-for-your-services)
 - [x] [Kubernetes with Knative: Building and Deploying Serverless Applications](/Knowledge-base/Kubernetes/kubernetes-with-knative-building-and-deploying-serverless-applications)
 - [ ] Kubernetes with Tekton: Implementing CI/CD Pipelines for Your Applications|Kubernetes
 
