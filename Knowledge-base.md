@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T04:32:43.448Z
+date: 2023-02-12T04:56:23.906Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1450,7 +1450,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] NAVER|Dictionary
 - [x] [Robert C. Martin](/Knowledge-base/Dictionary/robert-c-martin)
 - [ ] Linus Torvalds|Dictionary
-- [ ] Web Assembly|Dictionary
+- [x] [Web Assembly](/Knowledge-base/Dictionary/web-assembly)
 - [x] [Realforce Keyboard](/Knowledge-base/Dictionary/realforce-keyboard)
 - [x] [Happy Hacking Keyboard](/Knowledge-base/Dictionary/happy-hacking-keyboard)
 - [ ] Graphic Card|Dictionary
