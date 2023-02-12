@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T02:32:27.270Z
+date: 2023-02-12T02:55:32.316Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1319,7 +1319,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [A Guide to Java's java.util.concurrent.Exchanger for Concurrent Data Exchange](/Knowledge-base/Java/a-guide-to-java-s-java-util-concurrent-exchanger-for-concurrent-data-exchange)
 - [x] [Working with Java's java.util.concurrent.Phaser for Concurrent Phased Operations](/Knowledge-base/Java/working-with-java-s-java-util-concurrent-phaser-for-concurrent-phased-operations)
 - [ ] Leveraging Java's java.util.concurrent.BrokenBarrierException for Exception Handling|Java
-- [ ] Java's java.util.concurrent.locks.ReentrantLock for Reentrant Locking|Java
+- [x] [Java's java.util.concurrent.locks.ReentrantLock for Reentrant Locking](/Knowledge-base/Java/java-s-java-util-concurrent-locks-reentrantlock-for-reentrant-locking)
 - [ ] Java's ReentrantReadWriteLock for Read-Write Concurrent Locking|Java
 - [x] [Using Java's java.util.concurrent.locks.StampedLock for Optimistic Locking](/Knowledge-base/Java/using-java-s-java-util-concurrent-locks-stampedlock-for-optimistic-locking)
 - [x] [A Guide to Java's java.util.concurrent.locks.Condition for Thread Signaling](/Knowledge-base/Java/a-guide-to-java-s-java-util-concurrent-locks-condition-for-thread-signaling)
