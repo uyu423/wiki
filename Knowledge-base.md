@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T18:34:07.360Z
+date: 2023-02-12T19:18:28.146Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1231,7 +1231,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Building a Secure Online Payment System|Common
 - [x] [Using Machine Learning for Predictive Analytics](/Knowledge-base/Common/using-machine-learning-for-predictive-analytics)
 - [ ] The Future of Artificial Intelligence (AI) in Financial Services|Common
-- [ ] Developing Chatbots with Microsoft Bot Framework|Common
+- [x] [Developing Chatbots with Microsoft Bot Framework](/Knowledge-base/Common/developing-chatbots-with-microsoft-bot-framework)
 - [x] [Using Machine Learning for Sentiment Analysis](/Knowledge-base/Common/using-machine-learning-for-sentiment-analysis)
 - [ ] How to Build a High-Performance Web Application|Common
 - [x] [The Role of Artificial Intelligence (AI) in Education](/Knowledge-base/Common/the-role-of-artificial-intelligence-ai-in-education)
