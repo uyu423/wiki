@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T03:17:59.274Z
+date: 2023-02-12T03:32:21.681Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -127,7 +127,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Linux Sockets and Network Programming](/Knowledge-base/Linux/linux-sockets-and-network-programming)
 - [x] [Linux Performance Tuning and Optimization](/Knowledge-base/Linux/linux-performance-tuning-and-optimization)
 - [x] [Linux Containerization with Docker](/Knowledge-base/Linux/linux-containerization-with-docker)
-- [ ] Kubernetes and Linux Container Orchestration|Linux
+- [x] [Kubernetes and Linux Container Orchestration](/Knowledge-base/Linux/kubernetes-and-linux-container-orchestration)
 - [ ] Linux Virtualization with KVM and libvirt|Linux
 - [x] [Linux High Availability and Clustering](/Knowledge-base/Linux/linux-high-availability-and-clustering)
 - [ ] Linux Backup and Disaster Recovery|Linux
