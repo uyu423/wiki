@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T09:17:37.731Z
+date: 2023-02-12T09:32:25.712Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -134,7 +134,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Linux Shell Scripting and Automation](/Knowledge-base/Linux/linux-shell-scripting-and-automation)
 - [x] [Linux Shells: bash, zsh, and more](/Knowledge-base/Linux/linux-shells-bash-zsh-and-more)
 - [x] [Linux Text Processing and Regular Expressions](/Knowledge-base/Linux/linux-text-processing-and-regular-expressions)
-- [ ] Linux Package Management with apt and yum|Linux
+- [x] [Linux Package Management with apt and yum](/Knowledge-base/Linux/linux-package-management-with-apt-and-yum)
 - [ ] Linux System Monitoring and Logging|Linux
 - [ ] Linux Web Server and Database Administration|Linux
 - [ ] Linux Scripting for DevOps|Linux
