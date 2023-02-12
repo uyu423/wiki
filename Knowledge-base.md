@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T16:32:30.171Z
+date: 2023-02-12T17:17:48.736Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1290,7 +1290,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Working with Java's StrictMath Class for Precise Calculations|Java
 - [x] [Java's java.util.concurrent Package for Parallel Programming](/Knowledge-base/Java/java-s-java-util-concurrent-package-for-parallel-programming)
 - [x] [The Power of Java's Serialization API](/Knowledge-base/Java/the-power-of-java-s-serialization-api)
-- [ ] Building Custom Class Loaders in Java|Java
+- [x] [Building Custom Class Loaders in Java](/Knowledge-base/Java/building-custom-class-loaders-in-java)
 - [x] [Java's Support for Asynchronous Processing with CompletableFuture](/Knowledge-base/Java/java-s-support-for-asynchronous-processing-with-completablefuture)
 - [ ] Understanding Java's Attach API for Dynamic Instrumentation|Java
 - [x] [Java's Dynamic Proxies for Dynamic Object Oriented Programming](/Knowledge-base/Java/java-s-dynamic-proxies-for-dynamic-object-oriented-programming)
