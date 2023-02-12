@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T23:32:27.810Z
+date: 2023-02-12T23:55:49.548Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2083,7 +2083,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Donald Knuth (Computer Science Author)](/Knowledge-base/Dictionary/Person/donald-knuth-computer-science-author)
 - [x] [Richard Hamming (Error-Correcting Code Creator)](/Knowledge-base/Dictionary/Person/richard-hamming-error-correcting-code-creator)
 - [ ] Michael Stonebraker (Database Management System Pioneer)|Dictionary/Person
-- [ ] Andrew S. Tanenbaum (Computer Networking Pioneer)|Dictionary/Person
+- [x] [Andrew S. Tanenbaum (Computer Networking Pioneer)](/Knowledge-base/Dictionary/Person/andrew-s-tanenbaum-computer-networking-pioneer)
 - [x] [John Warnock (PostScript Creator)](/Knowledge-base/Dictionary/Person/john-warnock-postscript-creator)
 - [ ] Charles P. Thacker (Computer Hardware Pioneer)|Dictionary/Person
 - [x] [Robert Noyce (Intel Co-founder)](/Knowledge-base/Dictionary/Person/robert-noyce-intel-co-founder)
