@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T21:32:47.360Z
+date: 2023-02-12T21:55:56.894Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2092,7 +2092,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Vinod Khosla (Sun Microsystems Co-founder)](/Knowledge-base/Dictionary/Person/vinod-khosla-sun-microsystems-co-founder)
 - [x] [Andy Hertzfeld (Apple Engineer)](/Knowledge-base/Dictionary/Person/andy-hertzfeld-apple-engineer)
 - [ ] Guy L. Steele Jr. (Programming Language Designer)|Dictionary/Person
-- [ ] Brian Kernighan (UNIX Developer)|Dictionary/Person
+- [x] [Brian Kernighan (UNIX Developer)](/Knowledge-base/Dictionary/Person/brian-kernighan-unix-developer)
 - [ ] Dennis Ritchie (UNIX Developer)|Dictionary/Person
 - [ ] Ken Thompson (UNIX Developer)|Dictionary/Person
 - [x] [Tom Igoe (Arduino Creator)](/Knowledge-base/Dictionary/Person/tom-igoe-arduino-creator)
