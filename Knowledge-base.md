@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T07:56:07.311Z
+date: 2023-02-12T08:17:44.994Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1624,7 +1624,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Shareware](/Knowledge-base/Dictionary/shareware)
 - [ ] Coding Standards|Dictionary
 - [x] [Code Reuse](/Knowledge-base/Dictionary/code-reuse)
-- [ ] Object-Oriented Programming|Dictionary
+- [x] [Object-Oriented Programming](/Knowledge-base/Dictionary/object-oriented-programming)
 - [x] [Functional Programming](/Knowledge-base/Dictionary/functional-programming)
 - [ ] Procedural Programming|Dictionary
 - [ ] Assembly Language|Dictionary
