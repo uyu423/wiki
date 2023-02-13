@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T14:33:12.924Z
+date: 2023-02-13T14:55:28.069Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1059,7 +1059,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 011: Node.js and Express.js|Software-Development/Learning
 - [ ] Software Development 012: Single Page Application (SPA) Development|Software-Development/Learning
 - [x] [Software Development 013: Cross-Platform Mobile Development with React Native](/Knowledge-base/Software-Development/Learning/software-development-013-cross-platform-mobile-development-with-react-native)
-- [ ] Software Development 014: iOS and Swift Development|Software-Development/Learning
+- [x] [Software Development 014: iOS and Swift Development](/Knowledge-base/Software-Development/Learning/software-development-014-ios-and-swift-development)
 - [ ] Software Development 015: Android Development with Java|Software-Development/Learning
 - [ ] Software Development 016: Cloud Computing and AWS|Software-Development/Learning
 - [x] [Software Development 017: DevOps and Continuous Integration/Continuous Deployment (CI/CD)](/Knowledge-base/Software-Development/Learning/software-development-017-devops-and-continuous-integrationcontinuous-deployment-cicd)
