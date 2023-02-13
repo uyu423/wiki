@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T22:17:55.240Z
+date: 2023-02-13T22:32:25.796Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -183,7 +183,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[C Language] 041: Fibonacci Heap](/Knowledge-base/Algorithm/c-language-041-fibonacci-heap)
 - [x] [[C Language] 042: Red-Black Tree](/Knowledge-base/Algorithm/c-language-042-red-black-tree)
 - [x] [[C Language] 043: Splay Tree](/Knowledge-base/Algorithm/c-language-043-splay-tree)
-- [ ] [C Language] 044: K-D Tree|Algorithm
+- [x] [[C Language] 044: K-D Tree](/Knowledge-base/Algorithm/c-language-044-k-d-tree)
 - [ ] [C Language] 045: R-Tree|Algorithm
 - [x] [[C Language] 046: Trie](/Knowledge-base/Algorithm/c-language-046-trie)
 - [ ] [C Language] 047: Suffix Trie|Algorithm
