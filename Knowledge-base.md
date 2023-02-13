@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T13:32:41.470Z
+date: 2023-02-13T13:56:44.482Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2062,7 +2062,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Bob Frankston (VisiCalc Creator)|Dictionary/Person
 - [x] [Douglas Engelbart (Computer Mouse Inventor)](/Knowledge-base/Dictionary/Person/douglas-engelbart-computer-mouse-inventor)
 - [ ] Ted Nelson (Hypertext Pioneer)|Dictionary/Person
-- [ ] Ivan Sutherland (Sketchpad Creator)|Dictionary/Person
+- [x] [Ivan Sutherland (Sketchpad Creator)](/Knowledge-base/Dictionary/Person/ivan-sutherland-sketchpad-creator)
 - [x] [John Warnock (Adobe Co-founder)](/Knowledge-base/Dictionary/Person/john-warnock-adobe-co-founder)
 - [ ] Charles Geschke (Adobe Co-founder)|Dictionary/Person
 - [ ] Alan Cooper (Visual Basic Creator)|Dictionary/Person
