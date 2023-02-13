@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T05:33:51.327Z
+date: 2023-02-13T05:55:43.696Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1852,7 +1852,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Telecommuting|Dictionary
 - [ ] Digital Certificate|Dictionary
 - [ ] Two-Factor Authentication|Dictionary
-- [ ] User Management|Dictionary
+- [x] [User Management](/Knowledge-base/Dictionary/user-management)
 - [x] [Compliance](/Knowledge-base/Dictionary/compliance)
 - [ ] Privacy|Dictionary
 - [ ] Data Protection|Dictionary
