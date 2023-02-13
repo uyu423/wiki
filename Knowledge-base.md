@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T00:17:38.492Z
+date: 2023-02-13T00:32:34.214Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -154,7 +154,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[C Language] 012: Queue](/Knowledge-base/Algorithm/c-language-012-queue)
 - [x] [[C Language] 013: Deque](/Knowledge-base/Algorithm/c-language-013-deque)
 - [x] [[C Language] 014: Priority Queue](/Knowledge-base/Algorithm/c-language-014-priority-queue)
-- [ ] [C Language] 015: Single Linked List|Algorithm
+- [x] [[C Language] 015: Single Linked List](/Knowledge-base/Algorithm/c-language-015-single-linked-list)
 - [x] [[C Language] 016: Doubly Linked List](/Knowledge-base/Algorithm/c-language-016-doubly-linked-list)
 - [ ] [C Language] 017: Circular Linked List|Algorithm
 - [ ] [C Language] 018: Skip List|Algorithm
