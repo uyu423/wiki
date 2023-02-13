@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T12:18:03.797Z
+date: 2023-02-13T12:34:06.010Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -171,7 +171,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[C Language] 029: Bubble Sort](/Knowledge-base/Algorithm/c-language-029-bubble-sort)
 - [x] [[C Language] 030: Insertion Sort](/Knowledge-base/Algorithm/c-language-030-insertion-sort)
 - [x] [[C Language] 031: Selection Sort](/Knowledge-base/Algorithm/c-language-031-selection-sort)
-- [ ] [C Language] 032: Merge Sort|Algorithm
+- [x] [[C Language] 032: Merge Sort](/Knowledge-base/Algorithm/c-language-032-merge-sort)
 - [ ] [C Language] 033: Quick Sort|Algorithm
 - [ ] [C Language] 034: Heap Sort|Algorithm
 - [ ] [C Language] 035: Radix Sort|Algorithm
