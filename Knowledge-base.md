@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T11:32:18.221Z
+date: 2023-02-13T11:55:37.054Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1233,7 +1233,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Future of Artificial Intelligence (AI) in Financial Services|Common
 - [x] [Developing Chatbots with Microsoft Bot Framework](/Knowledge-base/Common/developing-chatbots-with-microsoft-bot-framework)
 - [x] [Using Machine Learning for Sentiment Analysis](/Knowledge-base/Common/using-machine-learning-for-sentiment-analysis)
-- [ ] How to Build a High-Performance Web Application|Common
+- [x] [How to Build a High-Performance Web Application](/Knowledge-base/Common/how-to-build-a-high-performance-web-application)
 - [x] [The Role of Artificial Intelligence (AI) in Education](/Knowledge-base/Common/the-role-of-artificial-intelligence-ai-in-education)
 - [x] [Using Artificial Intelligence (AI) for Fraud Detection](/Knowledge-base/Common/using-artificial-intelligence-ai-for-fraud-detection)
 - [x] [The Future of Artificial Intelligence (AI) in Retail](/Knowledge-base/Common/the-future-of-artificial-intelligence-ai-in-retail)
