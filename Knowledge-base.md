@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T15:33:05.761Z
+date: 2023-02-13T15:55:33.071Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -956,7 +956,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Understanding Event Sourcing in Infrastructure Development](/Knowledge-base/Backend/understanding-event-sourcing-in-infrastructure-development)
 - [x] [Implementing gRPC in Your Backend](/Knowledge-base/Backend/implementing-grpc-in-your-backend)
 - [ ] Understanding Graph Databases for Better Data Management|Backend
-- [ ] Building Event-Driven Architecture in Infrastructure Development|Backend
+- [x] [Building Event-Driven Architecture in Infrastructure Development](/Knowledge-base/Backend/building-event-driven-architecture-in-infrastructure-development)
 - [ ] Implementing Serverless Functions with AWS Lambda and Google Cloud Functions|Backend
 - [x] [Understanding Backend as a Service (BaaS)](/Knowledge-base/Backend/understanding-backend-as-a-service-baas)
 - [x] [Real-time Communication in Backend Development with WebSockets and Server-Sent Events](/Knowledge-base/Backend/real-time-communication-in-backend-development-with-websockets-and-server-sent-events)
