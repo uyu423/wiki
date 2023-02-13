@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T21:55:39.467Z
+date: 2023-02-13T22:17:55.240Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1972,7 +1972,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] ByteDance (China)|Dictionary/Company
 - [ ] Meituan (China)|Dictionary/Company
 - [ ] SoftBank Group Corp. (Japan)|Dictionary/Company
-- [ ] JD.com, Inc. (China)|Dictionary/Company
+- [x] [JD.com, Inc. (China)](/Knowledge-base/Dictionary/Company/jd-com-inc-china)
 - [x] [Pinduoduo (China)](/Knowledge-base/Dictionary/Company/pinduoduo-china)
 - [ ] Honor (China)|Dictionary/Company
 - [ ] Oppo (China)|Dictionary/Company
