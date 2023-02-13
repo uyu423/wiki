@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T23:32:20.337Z
+date: 2023-02-13T23:55:36.347Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1142,7 +1142,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 094: Payment Gateway Integration|Software-Development/Learning
 - [ ] Software Development 095: Order Management|Software-Development/Learning
 - [ ] Software Development 096: Inventory Management|Software-Development/Learning
-- [ ] Software Development 097: Customer Relationship Management|Software-Development/Learning
+- [x] [Software Development 097: Customer Relationship Management](/Knowledge-base/Software-Development/Learning/software-development-097-customer-relationship-management)
 
 ## Common
 
