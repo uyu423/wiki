@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T19:56:20.014Z
+date: 2023-02-13T20:17:26.538Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -621,7 +621,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 031: Integrating with other technologies such as Redis, RabbitMQ, and more|Nest-js/Learning
 - [x] [032: Using Nest.js with TypeScript](/Knowledge-base/Nest-js/Learning/032-using-nest-js-with-typescript)
 - [ ] 033: Using Nest.js with JavaScript|Nest-js/Learning
-- [ ] 034: Using Nest.js with Angular|Nest-js/Learning
+- [x] [034: Using Nest.js with Angular](/Knowledge-base/Nest-js/Learning/034-using-nest-js-with-angular)
 - [x] [035: Using Nest.js with React](/Knowledge-base/Nest-js/Learning/035-using-nest-js-with-react)
 - [x] [036: Real-time communication with WebSockets in Nest.js](/Knowledge-base/Nest-js/Learning/036-real-time-communication-with-websockets-in-nest-js)
 - [x] [037: Implementing real-time chat with Nest.js and WebSockets](/Knowledge-base/Nest-js/Learning/037-implementing-real-time-chat-with-nest-js-and-websockets)
