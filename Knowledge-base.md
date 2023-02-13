@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T18:32:37.499Z
+date: 2023-02-13T18:55:47.687Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -697,7 +697,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [031: Ranges in Kotlin: Representing and Iterating Over Ranges of Values](/Knowledge-base/Kotlin/Learning/031-ranges-in-kotlin-representing-and-iterating-over-ranges-of-values)
 - [x] [032: Raw Strings in Kotlin: Creating Multi-Line Strings Without Escaping](/Knowledge-base/Kotlin/Learning/032-raw-strings-in-kotlin-creating-multi-line-strings-without-escaping)
 - [x] [033: Default and Named Arguments in Kotlin: Providing Default Values and Named Parameters](/Knowledge-base/Kotlin/Learning/033-default-and-named-arguments-in-kotlin-providing-default-values-and-named-parameters)
-- [ ] 034: vararg Functions in Kotlin: Creating Functions that Accept a Variable Number of Arguments|Kotlin/Learning
+- [x] [034: vararg Functions in Kotlin: Creating Functions that Accept a Variable Number of Arguments](/Knowledge-base/Kotlin/Learning/034-vararg-functions-in-kotlin-creating-functions-that-accept-a-variable-number-of-arguments)
 - [ ] 035: Tailrec Functions in Kotlin: Optimizing Recursive Functions|Kotlin/Learning
 - [ ] 036: Operator Overloading in Kotlin: Overloading Common Operators for Custom Types|Kotlin/Learning
 - [ ] 037: Inline Functions in Kotlin: Improving Performance with Inlined Functions|Kotlin/Learning
