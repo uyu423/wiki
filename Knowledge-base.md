@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T21:17:52.412Z
+date: 2023-02-13T21:32:58.846Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -180,7 +180,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[C Language] 038: Collision Resolution Techniques (Chaining, Open Addressing, etc.)](/Knowledge-base/Algorithm/c-language-038-collision-resolution-techniques-chaining-open-addressing-etc-)
 - [x] [[C Language] 039: Heap-Based Priority Queue](/Knowledge-base/Algorithm/c-language-039-heap-based-priority-queue)
 - [x] [[C Language] 040: Binary Heap](/Knowledge-base/Algorithm/c-language-040-binary-heap)
-- [ ] [C Language] 041: Fibonacci Heap|Algorithm
+- [x] [[C Language] 041: Fibonacci Heap](/Knowledge-base/Algorithm/c-language-041-fibonacci-heap)
 - [x] [[C Language] 042: Red-Black Tree](/Knowledge-base/Algorithm/c-language-042-red-black-tree)
 - [x] [[C Language] 043: Splay Tree](/Knowledge-base/Algorithm/c-language-043-splay-tree)
 - [ ] [C Language] 044: K-D Tree|Algorithm
