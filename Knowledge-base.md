@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T05:55:43.696Z
+date: 2023-02-13T06:18:28.857Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1926,7 +1926,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Palantir Technologies Inc.|Dictionary/Company
 - [x] [NVIDIA Corporation](/Knowledge-base/Dictionary/Company/nvidia-corporation)
 - [x] [AMD, Inc.](/Knowledge-base/Dictionary/Company/amd-inc-)
-- [ ] Intel Corporation|Dictionary/Company
+- [x] [Intel Corporation](/Knowledge-base/Dictionary/Company/intel-corporation)
 - [ ] Micron Technology, Inc.|Dictionary/Company
 - [ ] Western Digital Corporation|Dictionary/Company
 - [x] [Seagate Technology PLC](/Knowledge-base/Dictionary/Company/seagate-technology-plc)
