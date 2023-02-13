@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T01:33:05.309Z
+date: 2023-02-13T01:55:23.960Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1175,7 +1175,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [How to Use Git and GitHub for Version Control](/Knowledge-base/Common/how-to-use-git-and-github-for-version-control)
 - [x] [The Benefits of Load Balancing and IP Addressing](/Knowledge-base/Common/the-benefits-of-load-balancing-and-ip-addressing)
 - [x] [Introduction to Machine Learning with TensorFlow and Keras](/Knowledge-base/Common/introduction-to-machine-learning-with-tensorflow-and-keras)
-- [ ] How to Build a Responsive Website with Bootstrap|Common
+- [x] [How to Build a Responsive Website with Bootstrap](/Knowledge-base/Common/how-to-build-a-responsive-website-with-bootstrap)
 - [x] [The Importance of Automated Testing and Continuous Integration](/Knowledge-base/Common/the-importance-of-automated-testing-and-continuous-integration)
 - [x] [How to Build a Real-Time Application with WebSockets](/Knowledge-base/Common/how-to-build-a-real-time-application-with-websockets)
 - [x] [The Advantages of Virtual Private Clouds (VPCs) and Amazon Web Services (AWS)](/Knowledge-base/Common/the-advantages-of-virtual-private-clouds-vpcs-and-amazon-web-services-aws)
