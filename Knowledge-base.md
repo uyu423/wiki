@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T02:32:46.179Z
+date: 2023-02-13T02:55:57.403Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1627,7 +1627,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Object-Oriented Programming](/Knowledge-base/Dictionary/object-oriented-programming)
 - [x] [Functional Programming](/Knowledge-base/Dictionary/functional-programming)
 - [ ] Procedural Programming|Dictionary
-- [ ] Assembly Language|Dictionary
+- [x] [Assembly Language](/Knowledge-base/Dictionary/assembly-language)
 - [x] [High-Level Programming Language](/Knowledge-base/Dictionary/high-level-programming-language)
 - [x] [Low-Level Programming Language](/Knowledge-base/Dictionary/low-level-programming-language)
 - [x] [Compiler](/Knowledge-base/Dictionary/compiler)
