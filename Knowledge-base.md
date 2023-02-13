@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T20:55:35.067Z
+date: 2023-02-13T21:17:52.412Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1527,7 +1527,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Load Testing](/Knowledge-base/Dictionary/load-testing)
 - [ ] Scalability Testing|Dictionary
 - [x] [Compliance Testing](/Knowledge-base/Dictionary/compliance-testing)
-- [ ] Automated Testing|Dictionary
+- [x] [Automated Testing](/Knowledge-base/Dictionary/automated-testing)
 - [x] [Penetration Testing](/Knowledge-base/Dictionary/penetration-testing)
 - [ ] Vulnerability Assessment|Dictionary
 - [x] [Security Testing](/Knowledge-base/Dictionary/security-testing)
