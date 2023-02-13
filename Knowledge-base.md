@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T11:55:37.054Z
+date: 2023-02-13T12:18:03.797Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1501,7 +1501,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Quality Assurance|Dictionary
 - [x] [Project Management](/Knowledge-base/Dictionary/project-management)
 - [x] [Business Analysis](/Knowledge-base/Dictionary/business-analysis)
-- [ ] Business Intelligence|Dictionary
+- [x] [Business Intelligence](/Knowledge-base/Dictionary/business-intelligence)
 - [ ] Software Testing|Dictionary
 - [x] [User Research](/Knowledge-base/Dictionary/user-research)
 - [x] [Product Management](/Knowledge-base/Dictionary/product-management)
