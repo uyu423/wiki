@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T22:32:25.796Z
+date: 2023-02-13T22:55:20.687Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1042,7 +1042,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Troubleshooting Common Issues with Cloud Services on AWS and Azure|Cloud
 - [x] [Building High-Availability and Scalable Services on AWS and Azure](/Knowledge-base/Cloud/building-high-availability-and-scalable-services-on-aws-and-azure)
 - [x] [Developing Multi-Region Applications on AWS and Azure](/Knowledge-base/Cloud/developing-multi-region-applications-on-aws-and-azure)
-- [ ] Using AWS and Azure for Edge Computing and IoT Workloads|Cloud
+- [x] [Using AWS and Azure for Edge Computing and IoT Workloads](/Knowledge-base/Cloud/using-aws-and-azure-for-edge-computing-and-iot-workloads)
 
 ## Software Development Learning
 
