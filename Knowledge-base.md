@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T03:32:25.967Z
+date: 2023-02-13T03:55:39.737Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1345,7 +1345,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Combining Nest.js, Express.js, and Next.js for Full-Stack Development](/Knowledge-base/TypeScript/combining-nest-js-express-js-and-next-js-for-full-stack-development)
 - [ ] Building Reactive Applications with TypeScript and RxJS|TypeScript
 - [ ] Implementing Caching and Performance Optimization in TypeScript Applications|TypeScript
-- [ ] Testing TypeScript Applications with Jest and Supertest|TypeScript
+- [x] [Testing TypeScript Applications with Jest and Supertest](/Knowledge-base/TypeScript/testing-typescript-applications-with-jest-and-supertest)
 - [x] [Using TypeScript with GraphQL for API Development](/Knowledge-base/TypeScript/using-typescript-with-graphql-for-api-development)
 - [ ] Developing Microservices with TypeScript and Nest.js|TypeScript
 - [ ] Integrating TypeScript with AWS Services for Serverless Development|TypeScript
