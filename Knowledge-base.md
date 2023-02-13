@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T15:55:33.071Z
+date: 2023-02-13T16:18:30.162Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2055,7 +2055,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Max Levchin (PayPal Co-founder)|Dictionary/Person
 - [ ] Marc Andreessen (Netscape Co-founder)|Dictionary/Person
 - [x] [Jim Clark (Netscape Co-founder)](/Knowledge-base/Dictionary/Person/jim-clark-netscape-co-founder)
-- [ ] Marc Benioff (Salesforce CEO)|Dictionary/Person
+- [x] [Marc Benioff (Salesforce CEO)](/Knowledge-base/Dictionary/Person/marc-benioff-salesforce-ceo)
 - [ ] John McAfee (McAfee Anti-Virus Founder)|Dictionary/Person
 - [x] [Bob Metcalfe (Ethernet Inventor)](/Knowledge-base/Dictionary/Person/bob-metcalfe-ethernet-inventor)
 - [ ] Dave Cutler (Windows NT Architect)|Dictionary/Person
