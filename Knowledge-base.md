@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T11:18:15.767Z
+date: 2023-02-13T11:32:18.221Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -170,7 +170,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[C Language] 028: Shortest Path Algorithms (Dijkstra, Bellman-Ford, etc.)](/Knowledge-base/Algorithm/c-language-028-shortest-path-algorithms-dijkstra-bellman-ford-etc-)
 - [x] [[C Language] 029: Bubble Sort](/Knowledge-base/Algorithm/c-language-029-bubble-sort)
 - [x] [[C Language] 030: Insertion Sort](/Knowledge-base/Algorithm/c-language-030-insertion-sort)
-- [ ] [C Language] 031: Selection Sort|Algorithm
+- [x] [[C Language] 031: Selection Sort](/Knowledge-base/Algorithm/c-language-031-selection-sort)
 - [ ] [C Language] 032: Merge Sort|Algorithm
 - [ ] [C Language] 033: Quick Sort|Algorithm
 - [ ] [C Language] 034: Heap Sort|Algorithm
