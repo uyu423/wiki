@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T12:56:22.746Z
+date: 2023-02-13T13:18:15.707Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -876,7 +876,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Building a Spring Batch Application for Data Processing|Backend
 - [x] [Integrating Kafka with Spring Boot for Real-time Processing](/Knowledge-base/Backend/integrating-kafka-with-spring-boot-for-real-time-processing)
 - [ ] Database Management with MySQL and Redis|Backend
-- [ ] Setting up a Continuous Integration Pipeline with Jenkins and IntelliJ|Backend
+- [x] [Setting up a Continuous Integration Pipeline with Jenkins and IntelliJ](/Knowledge-base/Backend/setting-up-a-continuous-integration-pipeline-with-jenkins-and-intellij)
 - [x] [Deploying Backend Applications with Kubernetes and Docker](/Knowledge-base/Backend/deploying-backend-applications-with-kubernetes-and-docker)
 - [ ] Exploring Node.js and TypeScript for Backend Development|Backend
 - [x] [Building REST APIs with Express.js](/Knowledge-base/Backend/building-rest-apis-with-express-js)
