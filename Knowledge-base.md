@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T09:33:00.902Z
+date: 2023-02-13T09:55:27.983Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1014,7 +1014,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Scaling Your Cloud Services: Best Practices for AWS and Azure](/Knowledge-base/Cloud/scaling-your-cloud-services-best-practices-for-aws-and-azure)
 - [ ] Managing Access and Security for Cloud Services|Cloud
 - [ ] Continuous Deployment with AWS and Azure|Cloud
-- [ ] Improving Performance of Cloud Services on AWS and Azure|Cloud
+- [x] [Improving Performance of Cloud Services on AWS and Azure](/Knowledge-base/Cloud/improving-performance-of-cloud-services-on-aws-and-azure)
 - [x] [Cost Optimization for Cloud Services on AWS and Azure](/Knowledge-base/Cloud/cost-optimization-for-cloud-services-on-aws-and-azure)
 - [x] [Integrating Cloud Services with On-Premises Systems](/Knowledge-base/Cloud/integrating-cloud-services-with-on-premises-systems)
 - [ ] Automated Testing for Cloud Services on AWS and Azure|Cloud
