@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T16:32:49.367Z
+date: 2023-02-13T16:59:20.148Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1986,7 +1986,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kuaishou Technology (China)|Dictionary/Company
 - [x] [JDE Peet's (Netherlands)](/Knowledge-base/Dictionary/Company/jde-peet-s-netherlands)
 - [ ] Coca-Cola Beverages (Japan)|Dictionary/Company
-- [ ] Fancl Corporation (Japan)|Dictionary/Company
+- [x] [Fancl Corporation (Japan)](/Knowledge-base/Dictionary/Company/fancl-corporation-japan)
 - [ ] Rakuten, Inc. (Japan)|Dictionary/Company
 - [x] [Bandai Namco Holdings (Japan)](/Knowledge-base/Dictionary/Company/bandai-namco-holdings-japan)
 - [x] [CyberAgent, Inc. (Japan)](/Knowledge-base/Dictionary/Company/cyberagent-inc-japan)
