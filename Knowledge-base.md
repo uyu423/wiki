@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T04:18:04.165Z
+date: 2023-02-13T04:33:15.271Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -159,7 +159,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[C Language] 017: Circular Linked List](/Knowledge-base/Algorithm/c-language-017-circular-linked-list)
 - [x] [[C Language] 018: Skip List](/Knowledge-base/Algorithm/c-language-018-skip-list)
 - [x] [[C Language] 019: Binary Tree](/Knowledge-base/Algorithm/c-language-019-binary-tree)
-- [ ] [C Language] 020: AVL Tree|Algorithm
+- [x] [[C Language] 020: AVL Tree](/Knowledge-base/Algorithm/c-language-020-avl-tree)
 - [ ] [C Language] 021: B-Tree|Algorithm
 - [x] [[C Language] 022: Trie](/Knowledge-base/Algorithm/c-language-022-trie)
 - [x] [[C Language] 023: Graph Representation](/Knowledge-base/Algorithm/c-language-023-graph-representation)
