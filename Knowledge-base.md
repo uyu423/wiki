@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T13:56:44.482Z
+date: 2023-02-13T14:33:12.924Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -173,7 +173,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[C Language] 031: Selection Sort](/Knowledge-base/Algorithm/c-language-031-selection-sort)
 - [x] [[C Language] 032: Merge Sort](/Knowledge-base/Algorithm/c-language-032-merge-sort)
 - [x] [[C Language] 033: Quick Sort](/Knowledge-base/Algorithm/c-language-033-quick-sort)
-- [ ] [C Language] 034: Heap Sort|Algorithm
+- [x] [[C Language] 034: Heap Sort](/Knowledge-base/Algorithm/c-language-034-heap-sort)
 - [ ] [C Language] 035: Radix Sort|Algorithm
 - [ ] [C Language] 036: Hash Table|Algorithm
 - [ ] [C Language] 037: Hash Function|Algorithm
