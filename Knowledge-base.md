@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T08:56:38.424Z
+date: 2023-02-13T09:17:42.491Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -946,7 +946,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] gRPC for High-Performance Communication in Backend Development|Backend
 - [x] [Understanding Graph Databases for Better Data Management](/Knowledge-base/Backend/understanding-graph-databases-for-better-data-management)
 - [x] [Building Event-Driven Architecture in Infrastructure Development](/Knowledge-base/Backend/building-event-driven-architecture-in-infrastructure-development)
-- [ ] Implementing Serverless Functions with AWS Lambda and Google Cloud Functions|Backend
+- [x] [Implementing Serverless Functions with AWS Lambda and Google Cloud Functions](/Knowledge-base/Backend/implementing-serverless-functions-with-aws-lambda-and-google-cloud-functions)
 - [x] [Understanding Backend as a Service (BaaS)](/Knowledge-base/Backend/understanding-backend-as-a-service-baas)
 - [x] [Real-time Communication in Backend Development with WebSockets and Server-Sent Events](/Knowledge-base/Backend/real-time-communication-in-backend-development-with-websockets-and-server-sent-events)
 - [x] [Implementing Command Query Responsibility Segregation (CQRS)](/Knowledge-base/Backend/implementing-command-query-responsibility-segregation-cqrs)
