@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T17:17:37.819Z
+date: 2023-02-13T17:32:38.286Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -176,7 +176,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[C Language] 034: Heap Sort](/Knowledge-base/Algorithm/c-language-034-heap-sort)
 - [x] [[C Language] 035: Radix Sort](/Knowledge-base/Algorithm/c-language-035-radix-sort)
 - [x] [[C Language] 036: Hash Table](/Knowledge-base/Algorithm/c-language-036-hash-table)
-- [ ] [C Language] 037: Hash Function|Algorithm
+- [x] [[C Language] 037: Hash Function](/Knowledge-base/Algorithm/c-language-037-hash-function)
 - [ ] [C Language] 038: Collision Resolution Techniques (Chaining, Open Addressing, etc.)|Algorithm
 - [ ] [C Language] 039: Heap-Based Priority Queue|Algorithm
 - [ ] [C Language] 040: Binary Heap|Algorithm
