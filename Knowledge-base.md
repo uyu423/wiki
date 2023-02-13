@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T16:59:20.148Z
+date: 2023-02-13T17:17:37.819Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1299,7 +1299,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [A Deep Dive into Java's Security Manager](/Knowledge-base/Java/a-deep-dive-into-java-s-security-manager)
 - [ ] Building Custom Security Providers in Java|Java
 - [x] [Exploring Java's Networking API for Network Programming](/Knowledge-base/Java/exploring-java-s-networking-api-for-network-programming)
-- [ ] Working with Java's Regular Expressions API|Java
+- [x] [Working with Java's Regular Expressions API](/Knowledge-base/Java/working-with-java-s-regular-expressions-api)
 - [ ] Leveraging Java's Date and Time API for Precise Time Management|Java
 - [x] [Building Custom Java Logging Handlers](/Knowledge-base/Java/building-custom-java-logging-handlers)
 - [ ] Java's ConcurrentHashMap for Parallel Hash Table Operations|Java
