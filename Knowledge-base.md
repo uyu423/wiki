@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T20:32:24.368Z
+date: 2023-02-13T20:55:35.067Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2031,7 +2031,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Drew Houston (Dropbox CEO)](/Knowledge-base/Dictionary/Person/drew-houston-dropbox-ceo)
 - [x] [Aaron Levie (Box CEO)](/Knowledge-base/Dictionary/Person/aaron-levie-box-ceo)
 - [ ] John Donahoe (eBay CEO)|Dictionary/Person
-- [ ] Brad Smith (Microsoft President)|Dictionary/Person
+- [x] [Brad Smith (Microsoft President)](/Knowledge-base/Dictionary/Person/brad-smith-microsoft-president)
 - [ ] Sanjay Kumar (Computer Associates CEO)|Dictionary/Person
 - [ ] Vinod Dham (Intel Engineer)|Dictionary/Person
 - [ ] Rajeev Suri (Nokia CEO)|Dictionary/Person
