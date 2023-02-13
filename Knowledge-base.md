@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-12T23:55:49.548Z
+date: 2023-02-13T00:17:38.492Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -169,7 +169,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] [C Language] 027: Minimum Spanning Tree|Algorithm
 - [ ] [C Language] 028: Shortest Path Algorithms (Dijkstra, Bellman-Ford, etc.)|Algorithm
 - [ ] [C Language] 029: Bubble Sort|Algorithm
-- [ ] [C Language] 030: Insertion Sort|Algorithm
+- [x] [[C Language] 030: Insertion Sort](/Knowledge-base/Algorithm/c-language-030-insertion-sort)
 - [ ] [C Language] 031: Selection Sort|Algorithm
 - [ ] [C Language] 032: Merge Sort|Algorithm
 - [ ] [C Language] 033: Quick Sort|Algorithm
