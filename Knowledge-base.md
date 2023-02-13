@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T09:55:27.983Z
+date: 2023-02-13T10:18:29.612Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1572,7 +1572,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Network Security|Dictionary
 - [x] [Firewall](/Knowledge-base/Dictionary/firewall)
 - [x] [Intrusion Detection System](/Knowledge-base/Dictionary/intrusion-detection-system)
-- [ ] Intrusion Prevention System|Dictionary
+- [x] [Intrusion Prevention System](/Knowledge-base/Dictionary/intrusion-prevention-system)
 - [ ] Virtual Private Network|Dictionary
 - [x] [Public Key Infrastructure](/Knowledge-base/Dictionary/public-key-infrastructure)
 - [x] [Certificate Authority](/Knowledge-base/Dictionary/certificate-authority)
