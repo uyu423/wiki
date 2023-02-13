@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T10:33:06.043Z
+date: 2023-02-13T10:55:57.992Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -943,7 +943,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Managing Clusters for High Availability](/Knowledge-base/Backend/managing-clusters-for-high-availability)
 - [ ] Service Discovery in Microservice Architecture|Backend
 - [ ] Task Orchestration for Improved Workflow Management|Backend
-- [ ] gRPC for High-Performance Communication in Backend Development|Backend
+- [x] [gRPC for High-Performance Communication in Backend Development](/Knowledge-base/Backend/grpc-for-high-performance-communication-in-backend-development)
 - [x] [Understanding Graph Databases for Better Data Management](/Knowledge-base/Backend/understanding-graph-databases-for-better-data-management)
 - [x] [Building Event-Driven Architecture in Infrastructure Development](/Knowledge-base/Backend/building-event-driven-architecture-in-infrastructure-development)
 - [x] [Implementing Serverless Functions with AWS Lambda and Google Cloud Functions](/Knowledge-base/Backend/implementing-serverless-functions-with-aws-lambda-and-google-cloud-functions)
