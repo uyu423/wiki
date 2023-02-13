@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T08:18:06.380Z
+date: 2023-02-13T08:34:09.258Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -166,7 +166,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[C Language] 024: Breadth-First Search](/Knowledge-base/Algorithm/c-language-024-breadth-first-search)
 - [x] [[C Language] 025: Depth-First Search](/Knowledge-base/Algorithm/c-language-025-depth-first-search)
 - [x] [[C Language] 026: Topological Sort](/Knowledge-base/Algorithm/c-language-026-topological-sort)
-- [ ] [C Language] 027: Minimum Spanning Tree|Algorithm
+- [x] [[C Language] 027: Minimum Spanning Tree](/Knowledge-base/Algorithm/c-language-027-minimum-spanning-tree)
 - [ ] [C Language] 028: Shortest Path Algorithms (Dijkstra, Bellman-Ford, etc.)|Algorithm
 - [ ] [C Language] 029: Bubble Sort|Algorithm
 - [x] [[C Language] 030: Insertion Sort](/Knowledge-base/Algorithm/c-language-030-insertion-sort)
