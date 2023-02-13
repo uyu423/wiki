@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T06:18:28.857Z
+date: 2023-02-13T06:32:56.879Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -163,7 +163,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[C Language] 021: B-Tree](/Knowledge-base/Algorithm/c-language-021-b-tree)
 - [x] [[C Language] 022: Trie](/Knowledge-base/Algorithm/c-language-022-trie)
 - [x] [[C Language] 023: Graph Representation](/Knowledge-base/Algorithm/c-language-023-graph-representation)
-- [ ] [C Language] 024: Breadth-First Search|Algorithm
+- [x] [[C Language] 024: Breadth-First Search](/Knowledge-base/Algorithm/c-language-024-breadth-first-search)
 - [x] [[C Language] 025: Depth-First Search](/Knowledge-base/Algorithm/c-language-025-depth-first-search)
 - [ ] [C Language] 026: Topological Sort|Algorithm
 - [ ] [C Language] 027: Minimum Spanning Tree|Algorithm
