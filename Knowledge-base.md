@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T22:55:20.687Z
+date: 2023-02-13T23:17:40.546Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -848,7 +848,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and Docker: Packaging and Running Your Applications](/Knowledge-base/Kotlin/kotlin-and-docker-packaging-and-running-your-applications)
 - [x] [Kotlin and Jenkins: Automating Your Build and Deployment Workflow](/Knowledge-base/Kotlin/kotlin-and-jenkins-automating-your-build-and-deployment-workflow)
 - [x] [Kotlin and IntelliJ: A Guide to the Kotlin Development Environment](/Knowledge-base/Kotlin/kotlin-and-intellij-a-guide-to-the-kotlin-development-environment)
-- [ ] Kotlin and Redis: A Guide to Caching and Session Management|Kotlin
+- [x] [Kotlin and Redis: A Guide to Caching and Session Management](/Knowledge-base/Kotlin/kotlin-and-redis-a-guide-to-caching-and-session-management)
 - [ ] Kotlin and MySQL: Connecting to a Relational Database|Kotlin
 - [x] [Kotlin and MongoDB: Connecting to a Document-Oriented Database](/Knowledge-base/Kotlin/kotlin-and-mongodb-connecting-to-a-document-oriented-database)
 - [ ] Kotlin and Neo4j: Connecting to a Graph Database|Kotlin
