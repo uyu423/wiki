@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T17:55:34.705Z
+date: 2023-02-14T18:17:28.508Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -744,7 +744,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [078: The Strategy Pattern in Kotlin: Encapsulating Algorithms as Objects](/Knowledge-base/Kotlin/Learning/078-the-strategy-pattern-in-kotlin-encapsulating-algorithms-as-objects)
 - [x] [079: The Iterator Pattern in Kotlin: Traversing Collections with a Common Interface](/Knowledge-base/Kotlin/Learning/079-the-iterator-pattern-in-kotlin-traversing-collections-with-a-common-interface)
 - [ ] 080: The Visitor Pattern in Kotlin: Separating Algorithms from Data Structures|Kotlin/Learning
-- [ ] 081: Reflection in Kotlin: Understanding the Reflection API for Introspection and Manipulation|Kotlin/Learning
+- [x] [081: Reflection in Kotlin: Understanding the Reflection API for Introspection and Manipulation](/Knowledge-base/Kotlin/Learning/081-reflection-in-kotlin-understanding-the-reflection-api-for-introspection-and-manipulation)
 - [x] [082: Testing in Kotlin: Writing and Running Tests for Your Kotlin Code](/Knowledge-base/Kotlin/Learning/082-testing-in-kotlin-writing-and-running-tests-for-your-kotlin-code)
 - [ ] 083: Advanced Features of Kotlin: Exploring the More Advanced Features of the Language|Kotlin/Learning
 - [ ] 084: Debugging in Kotlin: Debugging Your Kotlin Code with Breakpoints, Watches, and Logs|Kotlin/Learning
