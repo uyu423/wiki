@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T23:17:22.978Z
+date: 2023-02-14T23:32:27.112Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -600,7 +600,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [010: Integrating with TypeORM in Nest.js](/Knowledge-base/Nest-js/Learning/010-integrating-with-typeorm-in-nest-js)
 - [x] [011: Implementing authentication in Nest.js](/Knowledge-base/Nest-js/Learning/011-implementing-authentication-in-nest-js)
 - [x] [012: Using guards for route protection in Nest.js](/Knowledge-base/Nest-js/Learning/012-using-guards-for-route-protection-in-nest-js)
-- [ ] 013: Implementing authorization in Nest.js|Nest-js/Learning
+- [x] [013: Implementing authorization in Nest.js](/Knowledge-base/Nest-js/Learning/013-implementing-authorization-in-nest-js)
 - [ ] 014: Using middlewares in Nest.js|Nest-js/Learning
 - [x] [015: Error handling in Nest.js](/Knowledge-base/Nest-js/Learning/015-error-handling-in-nest-js)
 - [ ] 016: Debugging Nest.js applications|Nest-js/Learning
