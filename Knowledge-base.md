@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T18:32:25.722Z
+date: 2023-02-14T19:32:45.714Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -595,7 +595,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [005: Routing and controllers in Nest.js](/Knowledge-base/Nest-js/Learning/005-routing-and-controllers-in-nest-js)
 - [x] [006: Handling requests and responses in Nest.js](/Knowledge-base/Nest-js/Learning/006-handling-requests-and-responses-in-nest-js)
 - [x] [007: Creating services in Nest.js](/Knowledge-base/Nest-js/Learning/007-creating-services-in-nest-js)
-- [ ] 008: Working with databases in Nest.js|Nest-js/Learning
+- [x] [008: Working with databases in Nest.js](/Knowledge-base/Nest-js/Learning/008-working-with-databases-in-nest-js)
 - [ ] 009: Integrating with MongoDB in Nest.js|Nest-js/Learning
 - [x] [010: Integrating with TypeORM in Nest.js](/Knowledge-base/Nest-js/Learning/010-integrating-with-typeorm-in-nest-js)
 - [ ] 011: Implementing authentication in Nest.js|Nest-js/Learning
