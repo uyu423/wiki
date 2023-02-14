@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T08:33:13.877Z
+date: 2023-02-14T08:59:15.819Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1707,7 +1707,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Rollout](/Knowledge-base/Dictionary/rollout)
 - [x] [Production Deployment](/Knowledge-base/Dictionary/production-deployment)
 - [x] [Continuous Operations](/Knowledge-base/Dictionary/continuous-operations)
-- [ ] IT Operations|Dictionary
+- [x] [IT Operations](/Knowledge-base/Dictionary/it-operations)
 - [x] [IT Service Management](/Knowledge-base/Dictionary/it-service-management)
 - [x] [ITIL](/Knowledge-base/Dictionary/itil)
 - [ ] COBIT|Dictionary
