@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T02:17:45.467Z
+date: 2023-02-14T02:32:33.383Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -563,7 +563,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kubernetes Custom Resource Definitions: Extending the Kubernetes API](/Knowledge-base/Kubernetes/kubernetes-custom-resource-definitions-extending-the-kubernetes-api)
 - [x] [Kubernetes Operators: Automating Application Management with Custom Controllers](/Knowledge-base/Kubernetes/kubernetes-operators-automating-application-management-with-custom-controllers)
 - [x] [Kubernetes Extension APIs: Enhancing the Functionality of Your Cluster](/Knowledge-base/Kubernetes/kubernetes-extension-apis-enhancing-the-functionality-of-your-cluster)
-- [ ] Kubernetes Web UI: Managing Your Cluster with the Dashboard|Kubernetes
+- [x] [Kubernetes Web UI: Managing Your Cluster with the Dashboard](/Knowledge-base/Kubernetes/kubernetes-web-ui-managing-your-cluster-with-the-dashboard)
 - [x] [Kubernetes CLI: Working with Your Cluster from the Command Line](/Knowledge-base/Kubernetes/kubernetes-cli-working-with-your-cluster-from-the-command-line)
 - [ ] Kubernetes API: Interacting with Your Cluster with REST Requests|Kubernetes
 - [x] [Kubernetes Plugins: Adding Custom Functionality to kubectl](/Knowledge-base/Kubernetes/kubernetes-plugins-adding-custom-functionality-to-kubectl)
