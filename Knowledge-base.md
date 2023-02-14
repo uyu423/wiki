@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T20:56:05.048Z
+date: 2023-02-14T21:17:26.185Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1003,7 +1003,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AWS Athena: Running SQL Queries on S3 Data with Serverless Computing](/Knowledge-base/Cloud/aws-athena-running-sql-queries-on-s3-data-with-serverless-computing)
 - [x] [AWS QuickSight: Visualizing and Analyzing Big Data in the Cloud](/Knowledge-base/Cloud/aws-quicksight-visualizing-and-analyzing-big-data-in-the-cloud)
 - [x] [AWS SageMaker: Building and Deploying Machine Learning Models in the Cloud](/Knowledge-base/Cloud/aws-sagemaker-building-and-deploying-machine-learning-models-in-the-cloud)
-- [ ] AWS Comprehend: Analyzing Text Data with Natural Language Processing|Cloud
+- [x] [AWS Comprehend: Analyzing Text Data with Natural Language Processing](/Knowledge-base/Cloud/aws-comprehend-analyzing-text-data-with-natural-language-processing)
 - [x] [AWS Rekognition: Analyzing Image and Video Data with Computer Vision](/Knowledge-base/Cloud/aws-rekognition-analyzing-image-and-video-data-with-computer-vision)
 - [ ] AWS Transcribe: Automating Speech-to-Text Transcription in the Cloud|Cloud
 - [ ] AWS Translate: Translating Text Across Languages in the Cloud|Cloud
