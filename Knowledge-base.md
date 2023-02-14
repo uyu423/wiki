@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T13:55:39.091Z
+date: 2023-02-14T14:19:01.743Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -967,7 +967,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Session Management for Improved User Experience|Backend
 - [x] [Caching Techniques for Better Performance in Backend Development](/Knowledge-base/Backend/caching-techniques-for-better-performance-in-backend-development)
 - [ ] Auto-scaling for Improved Resource Management|Backend
-- [ ] ORM for Better Data Management in Backend Development|Backend
+- [x] [ORM for Better Data Management in Backend Development](/Knowledge-base/Backend/orm-for-better-data-management-in-backend-development)
 - [ ] Database Migration for Improved Data Management.|Backend
 
 ## Cloud
