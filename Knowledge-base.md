@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-13T23:55:36.347Z
+date: 2023-02-14T00:17:42.987Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2051,7 +2051,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Palmer Luckey (Oculus VR Co-founder)|Dictionary/Person
 - [x] [Mark Cuban (Investor and Entrepreneur)](/Knowledge-base/Dictionary/Person/mark-cuban-investor-and-entrepreneur)
 - [ ] Peter Thiel (PayPal Co-founder)|Dictionary/Person
-- [ ] Reid Hoffman (LinkedIn Co-founder)|Dictionary/Person
+- [x] [Reid Hoffman (LinkedIn Co-founder)](/Knowledge-base/Dictionary/Person/reid-hoffman-linkedin-co-founder)
 - [ ] Max Levchin (PayPal Co-founder)|Dictionary/Person
 - [ ] Marc Andreessen (Netscape Co-founder)|Dictionary/Person
 - [x] [Jim Clark (Netscape Co-founder)](/Knowledge-base/Dictionary/Person/jim-clark-netscape-co-founder)
