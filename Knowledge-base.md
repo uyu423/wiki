@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T13:17:56.022Z
+date: 2023-02-14T13:33:42.078Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -584,7 +584,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kubernetes with Istio: Implementing Service Mesh for Your Applications](/Knowledge-base/Kubernetes/kubernetes-with-istio-implementing-service-mesh-for-your-applications)
 - [x] [Kubernetes with Envoy: Managing Traffic for Your Services](/Knowledge-base/Kubernetes/kubernetes-with-envoy-managing-traffic-for-your-services)
 - [x] [Kubernetes with Knative: Building and Deploying Serverless Applications](/Knowledge-base/Kubernetes/kubernetes-with-knative-building-and-deploying-serverless-applications)
-- [ ] Kubernetes with Tekton: Implementing CI/CD Pipelines for Your Applications|Kubernetes
+- [x] [Kubernetes with Tekton: Implementing CI/CD Pipelines for Your Applications](/Knowledge-base/Kubernetes/kubernetes-with-tekton-implementing-cicd-pipelines-for-your-applications)
 
 ## Nest.js Learning
 
