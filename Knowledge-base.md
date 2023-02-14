@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T09:32:29.465Z
+date: 2023-02-14T09:55:29.355Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -941,7 +941,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Implementing Distributed File Systems in Infrastructure Development|Backend
 - [ ] Resource Allocation and Scheduling in Backend Development|Backend
 - [x] [Managing Clusters for High Availability](/Knowledge-base/Backend/managing-clusters-for-high-availability)
-- [ ] Service Discovery in Microservice Architecture|Backend
+- [x] [Service Discovery in Microservice Architecture](/Knowledge-base/Backend/service-discovery-in-microservice-architecture)
 - [ ] Task Orchestration for Improved Workflow Management|Backend
 - [x] [gRPC for High-Performance Communication in Backend Development](/Knowledge-base/Backend/grpc-for-high-performance-communication-in-backend-development)
 - [x] [Understanding Graph Databases for Better Data Management](/Knowledge-base/Backend/understanding-graph-databases-for-better-data-management)
