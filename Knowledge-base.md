@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T05:33:12.997Z
+date: 2023-02-14T05:56:34.163Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2047,7 +2047,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Sid Meier (Civilization Creator)](/Knowledge-base/Dictionary/Person/sid-meier-civilization-creator)
 - [x] [Shigeru Miyamoto (Nintendo Game Designer)](/Knowledge-base/Dictionary/Person/shigeru-miyamoto-nintendo-game-designer)
 - [ ] Hideo Kojima (Metal Gear Creator)|Dictionary/Person
-- [ ] Gabe Newell (Valve Co-founder)|Dictionary/Person
+- [x] [Gabe Newell (Valve Co-founder)](/Knowledge-base/Dictionary/Person/gabe-newell-valve-co-founder)
 - [ ] Palmer Luckey (Oculus VR Co-founder)|Dictionary/Person
 - [x] [Mark Cuban (Investor and Entrepreneur)](/Knowledge-base/Dictionary/Person/mark-cuban-investor-and-entrepreneur)
 - [ ] Peter Thiel (PayPal Co-founder)|Dictionary/Person
