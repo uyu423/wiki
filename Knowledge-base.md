@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T10:57:31.336Z
+date: 2023-02-14T11:18:41.315Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1534,7 +1534,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Risk Assessment](/Knowledge-base/Dictionary/risk-assessment)
 - [x] [Threat Modeling](/Knowledge-base/Dictionary/threat-modeling)
 - [ ] Disaster Recovery|Dictionary
-- [ ] Backup and Recovery|Dictionary
+- [x] [Backup and Recovery](/Knowledge-base/Dictionary/backup-and-recovery)
 - [x] [High Availability](/Knowledge-base/Dictionary/high-availability)
 - [ ] Data Backup|Dictionary
 - [x] [Data Recovery](/Knowledge-base/Dictionary/data-recovery)
