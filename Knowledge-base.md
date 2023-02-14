@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T21:56:11.788Z
+date: 2023-02-14T22:17:22.269Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -747,7 +747,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [081: Reflection in Kotlin: Understanding the Reflection API for Introspection and Manipulation](/Knowledge-base/Kotlin/Learning/081-reflection-in-kotlin-understanding-the-reflection-api-for-introspection-and-manipulation)
 - [x] [082: Testing in Kotlin: Writing and Running Tests for Your Kotlin Code](/Knowledge-base/Kotlin/Learning/082-testing-in-kotlin-writing-and-running-tests-for-your-kotlin-code)
 - [ ] 083: Advanced Features of Kotlin: Exploring the More Advanced Features of the Language|Kotlin/Learning
-- [ ] 084: Debugging in Kotlin: Debugging Your Kotlin Code with Breakpoints, Watches, and Logs|Kotlin/Learning
+- [x] [084: Debugging in Kotlin: Debugging Your Kotlin Code with Breakpoints, Watches, and Logs](/Knowledge-base/Kotlin/Learning/084-debugging-in-kotlin-debugging-your-kotlin-code-with-breakpoints-watches-and-logs)
 - [x] [085: The Kotlin Ecosystem: Understanding the Tools and Frameworks Surrounding Kotlin](/Knowledge-base/Kotlin/Learning/085-the-kotlin-ecosystem-understanding-the-tools-and-frameworks-surrounding-kotlin)
 - [ ] 086: Kotlin on Android: Building Android Apps with Kotlin|Kotlin/Learning
 - [ ] 087: Reactive Programming in Kotlin: Writing Reactive Code with Kotlin Flow|Kotlin/Learning
