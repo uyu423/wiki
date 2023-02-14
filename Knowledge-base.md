@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T07:32:47.992Z
+date: 2023-02-14T07:55:25.519Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -776,7 +776,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Using Type Aliases in Kotlin](/Knowledge-base/Kotlin/using-type-aliases-in-kotlin)
 - [x] [Interoperability Between Kotlin and Java](/Knowledge-base/Kotlin/interoperability-between-kotlin-and-java)
 - [x] [Building Applications with Kotlin Coroutines](/Knowledge-base/Kotlin/building-applications-with-kotlin-coroutines)
-- [ ] Understanding the CoroutineScope in Kotlin|Kotlin
+- [x] [Understanding the CoroutineScope in Kotlin](/Knowledge-base/Kotlin/understanding-the-coroutinescope-in-kotlin)
 - [x] [Concurrent Programming with Kotlin's Channels and Flow](/Knowledge-base/Kotlin/concurrent-programming-with-kotlin-s-channels-and-flow)
 - [ ] Using Sealed Classes in Kotlin|Kotlin
 - [ ] Understanding the Delegation Pattern in Kotlin|Kotlin
