@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T15:57:06.538Z
+date: 2023-02-14T16:18:34.962Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1816,7 +1816,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Graphic Design](/Knowledge-base/Dictionary/graphic-design)
 - [x] [Branding](/Knowledge-base/Dictionary/branding)
 - [x] [Marketing](/Knowledge-base/Dictionary/marketing)
-- [ ] Digital Marketing|Dictionary
+- [x] [Digital Marketing](/Knowledge-base/Dictionary/digital-marketing)
 - [ ] Search Engine Optimization|Dictionary
 - [x] [Pay-Per-Click Advertising](/Knowledge-base/Dictionary/pay-per-click-advertising)
 - [ ] Social Media Marketing|Dictionary
