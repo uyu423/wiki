@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T19:55:22.580Z
+date: 2023-02-14T20:17:29.908Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -733,7 +733,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [067: The Abstract Factory Pattern in Kotlin: Creating Objects Through Abstract Interfaces](/Knowledge-base/Kotlin/Learning/067-the-abstract-factory-pattern-in-kotlin-creating-objects-through-abstract-interfaces)
 - [ ] 068: The Facade Pattern in Kotlin: Providing a Simple Interface to Complex Systems|Kotlin/Learning
 - [ ] 069: The Command Pattern in Kotlin: Encapsulating Invocations as Objects|Kotlin/Learning
-- [ ] 070: The State Pattern in Kotlin: Managing Object States with State Transitions|Kotlin/Learning
+- [x] [070: The State Pattern in Kotlin: Managing Object States with State Transitions](/Knowledge-base/Kotlin/Learning/070-the-state-pattern-in-kotlin-managing-object-states-with-state-transitions)
 - [ ] 071: The Chain of Responsibility Pattern in Kotlin: Delegating Requests Through a Chain of Objects|Kotlin/Learning
 - [x] [072: The Mediator Pattern in Kotlin: Encapsulating Object Communication](/Knowledge-base/Kotlin/Learning/072-the-mediator-pattern-in-kotlin-encapsulating-object-communication)
 - [x] [073: The Flyweight Pattern in Kotlin: Sharing Object Instances to Save Memory](/Knowledge-base/Kotlin/Learning/073-the-flyweight-pattern-in-kotlin-sharing-object-instances-to-save-memory)
