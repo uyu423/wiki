@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T12:32:46.352Z
+date: 2023-02-14T12:57:00.949Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1745,7 +1745,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Disaster Recovery as a Service|Dictionary
 - [ ] Infrastructure Management|Dictionary
 - [ ] Virtualization Management|Dictionary
-- [ ] Containerization|Dictionary
+- [x] [Containerization](/Knowledge-base/Dictionary/containerization)
 - [x] [Serverless](/Knowledge-base/Dictionary/serverless)
 - [ ] Functionality|Dictionary
 - [x] [REST](/Knowledge-base/Dictionary/rest)
