@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T22:55:28.867Z
+date: 2023-02-14T23:17:22.978Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -923,7 +923,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Understanding the Domain Name System (DNS)](/Knowledge-base/Backend/understanding-the-domain-name-system-dns)
 - [x] [IP Addressing for Backend Applications](/Knowledge-base/Backend/ip-addressing-for-backend-applications)
 - [x] [Load Balancing for Scalable Backend Applications](/Knowledge-base/Backend/load-balancing-for-scalable-backend-applications)
-- [ ] Reverse Proxy for Improved Performance|Backend
+- [x] [Reverse Proxy for Improved Performance](/Knowledge-base/Backend/reverse-proxy-for-improved-performance)
 - [x] [Securing Backend Applications with Firewall](/Knowledge-base/Backend/securing-backend-applications-with-firewall)
 - [ ] Virtual Private Network (VPN) for Secure Backend Communication|Backend
 - [ ] Content Delivery Network (CDN) for Scalable Backend Applications|Backend
