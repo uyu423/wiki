@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T22:32:20.328Z
+date: 2023-02-14T22:55:28.867Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -817,7 +817,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and Spring Boot: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-spring-boot-advanced-topics-and-best-practices)
 - [x] [Kotlin and Spring Data: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-spring-data-advanced-topics-and-best-practices)
 - [x] [Kotlin Security: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-security-advanced-topics-and-best-practices)
-- [ ] Kotlin and HTTPS: Advanced Topics and Best Practices|Kotlin
+- [x] [Kotlin and HTTPS: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-https-advanced-topics-and-best-practices)
 - [ ] Kotlin Encryption: Advanced Topics and Best Practices|Kotlin
 - [x] [Kotlin Hashing: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-hashing-advanced-topics-and-best-practices)
 - [x] [Kotlin and JWT: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-jwt-advanced-topics-and-best-practices)
