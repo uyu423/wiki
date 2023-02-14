@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T03:33:39.375Z
+date: 2023-02-14T03:55:56.816Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1210,7 +1210,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Future of Virtual Reality (VR) and Augmented Reality (AR) in Gaming|Common
 - [x] [Using Blockchain for Decentralized Applications](/Knowledge-base/Common/using-blockchain-for-decentralized-applications)
 - [ ] The Role of Cloud Computing in Enterprise Solutions|Common
-- [ ] Debugging and Troubleshooting in Software Development|Common
+- [x] [Debugging and Troubleshooting in Software Development](/Knowledge-base/Common/debugging-and-troubleshooting-in-software-development)
 - [x] [The Importance of User Experience (UX) Design in Software Development](/Knowledge-base/Common/the-importance-of-user-experience-ux-design-in-software-development)
 - [x] [How to Create a Virtual Private Network (VPN)](/Knowledge-base/Common/how-to-create-a-virtual-private-network-vpn)
 - [ ] Developing Mobile Apps with Flutter|Common
