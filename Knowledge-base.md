@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T22:17:22.269Z
+date: 2023-02-14T22:32:20.328Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -599,7 +599,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [009: Integrating with MongoDB in Nest.js](/Knowledge-base/Nest-js/Learning/009-integrating-with-mongodb-in-nest-js)
 - [x] [010: Integrating with TypeORM in Nest.js](/Knowledge-base/Nest-js/Learning/010-integrating-with-typeorm-in-nest-js)
 - [x] [011: Implementing authentication in Nest.js](/Knowledge-base/Nest-js/Learning/011-implementing-authentication-in-nest-js)
-- [ ] 012: Using guards for route protection in Nest.js|Nest-js/Learning
+- [x] [012: Using guards for route protection in Nest.js](/Knowledge-base/Nest-js/Learning/012-using-guards-for-route-protection-in-nest-js)
 - [ ] 013: Implementing authorization in Nest.js|Nest-js/Learning
 - [ ] 014: Using middlewares in Nest.js|Nest-js/Learning
 - [x] [015: Error handling in Nest.js](/Knowledge-base/Nest-js/Learning/015-error-handling-in-nest-js)
