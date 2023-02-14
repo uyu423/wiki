@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T05:56:34.163Z
+date: 2023-02-14T06:32:54.480Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -573,7 +573,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kubernetes on Azure: Deploying Clusters on Microsoft Azure](/Knowledge-base/Kubernetes/kubernetes-on-azure-deploying-clusters-on-microsoft-azure)
 - [x] [Kubernetes on Oracle Cloud: Deploying Clusters on Oracle Cloud Infrastructure](/Knowledge-base/Kubernetes/kubernetes-on-oracle-cloud-deploying-clusters-on-oracle-cloud-infrastructure)
 - [x] [Kubernetes on DigitalOcean: Deploying Clusters on DigitalOcean](/Knowledge-base/Kubernetes/kubernetes-on-digitalocean-deploying-clusters-on-digitalocean)
-- [ ] Kubernetes on OpenStack: Deploying Clusters on OpenStack|Kubernetes
+- [x] [Kubernetes on OpenStack: Deploying Clusters on OpenStack](/Knowledge-base/Kubernetes/kubernetes-on-openstack-deploying-clusters-on-openstack)
 - [ ] Kubernetes on Private Clouds: Deploying Clusters on Your Own Infrastructure|Kubernetes
 - [ ] Kubernetes on Bare Metal: Deploying Clusters on Physical Servers|Kubernetes
 - [ ] Kubernetes with CRI-O: Running Containers with an Alternative Container Runtime|Kubernetes
