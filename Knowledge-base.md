@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T19:32:45.714Z
+date: 2023-02-14T19:55:22.580Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1159,7 +1159,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Programming with Python: A Beginner's Guide](/Knowledge-base/Common/programming-with-python-a-beginner-s-guide)
 - [ ] How to Build a Chatbot with Dialogflow|Common
 - [x] [Introduction to Cybersecurity and Ethical Hacking](/Knowledge-base/Common/introduction-to-cybersecurity-and-ethical-hacking)
-- [ ] The Future of Virtual Reality and Augmented Reality|Common
+- [x] [The Future of Virtual Reality and Augmented Reality](/Knowledge-base/Common/the-future-of-virtual-reality-and-augmented-reality)
 - [x] [Data Visualization with D3.js and Tableau](/Knowledge-base/Common/data-visualization-with-d3-js-and-tableau)
 - [x] [The Benefits of Docker and Containerization](/Knowledge-base/Common/the-benefits-of-docker-and-containerization)
 - [ ] The Evolution of Big Data and Hadoop|Common
