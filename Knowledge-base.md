@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T00:32:31.074Z
+date: 2023-02-14T00:55:47.459Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1449,7 +1449,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Wooahan Brothers (South Korea Company)](/Knowledge-base/Dictionary/wooahan-brothers-south-korea-company)
 - [ ] NAVER|Dictionary
 - [x] [Robert C. Martin](/Knowledge-base/Dictionary/robert-c-martin)
-- [ ] Linus Torvalds|Dictionary
+- [x] [Linus Torvalds](/Knowledge-base/Dictionary/linus-torvalds)
 - [x] [Web Assembly](/Knowledge-base/Dictionary/web-assembly)
 - [x] [Realforce Keyboard](/Knowledge-base/Dictionary/realforce-keyboard)
 - [x] [Happy Hacking Keyboard](/Knowledge-base/Dictionary/happy-hacking-keyboard)
