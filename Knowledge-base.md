@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T17:32:35.842Z
+date: 2023-02-14T17:55:34.705Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -741,7 +741,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [075: Dynamic Programming in Kotlin: Optimizing Recursive Solutions with Memoization](/Knowledge-base/Kotlin/Learning/075-dynamic-programming-in-kotlin-optimizing-recursive-solutions-with-memoization)
 - [ ] 076: The Null Object Pattern in Kotlin: Providing a Non-Null Object in Place of Null|Kotlin/Learning
 - [ ] 077: The Memento Pattern in Kotlin: Preserving Object States for Future Restoration|Kotlin/Learning
-- [ ] 078: The Strategy Pattern in Kotlin: Encapsulating Algorithms as Objects|Kotlin/Learning
+- [x] [078: The Strategy Pattern in Kotlin: Encapsulating Algorithms as Objects](/Knowledge-base/Kotlin/Learning/078-the-strategy-pattern-in-kotlin-encapsulating-algorithms-as-objects)
 - [x] [079: The Iterator Pattern in Kotlin: Traversing Collections with a Common Interface](/Knowledge-base/Kotlin/Learning/079-the-iterator-pattern-in-kotlin-traversing-collections-with-a-common-interface)
 - [ ] 080: The Visitor Pattern in Kotlin: Separating Algorithms from Data Structures|Kotlin/Learning
 - [ ] 081: Reflection in Kotlin: Understanding the Reflection API for Introspection and Manipulation|Kotlin/Learning
