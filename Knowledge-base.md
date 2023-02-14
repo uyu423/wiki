@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T08:59:15.819Z
+date: 2023-02-14T09:32:29.465Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -576,7 +576,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kubernetes on OpenStack: Deploying Clusters on OpenStack](/Knowledge-base/Kubernetes/kubernetes-on-openstack-deploying-clusters-on-openstack)
 - [x] [Kubernetes on Private Clouds: Deploying Clusters on Your Own Infrastructure](/Knowledge-base/Kubernetes/kubernetes-on-private-clouds-deploying-clusters-on-your-own-infrastructure)
 - [x] [Kubernetes on Bare Metal: Deploying Clusters on Physical Servers](/Knowledge-base/Kubernetes/kubernetes-on-bare-metal-deploying-clusters-on-physical-servers)
-- [ ] Kubernetes with CRI-O: Running Containers with an Alternative Container Runtime|Kubernetes
+- [x] [Kubernetes with CRI-O: Running Containers with an Alternative Container Runtime](/Knowledge-base/Kubernetes/kubernetes-with-cri-o-running-containers-with-an-alternative-container-runtime)
 - [ ] Kubernetes with Containerd: Running Containers with Another Container Runtime|Kubernetes
 - [ ] Kubernetes with gVisor: Enhancing Container Security with a Sandboxed Runtime|Kubernetes
 - [x] [Kubernetes with CNI: Configuring Networking for Your Clusters](/Knowledge-base/Kubernetes/kubernetes-with-cni-configuring-networking-for-your-clusters)
