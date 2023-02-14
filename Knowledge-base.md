@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T21:32:54.130Z
+date: 2023-02-14T21:56:11.788Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1974,7 +1974,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] SoftBank Group Corp. (Japan)|Dictionary/Company
 - [x] [JD.com, Inc. (China)](/Knowledge-base/Dictionary/Company/jd-com-inc-china)
 - [x] [Pinduoduo (China)](/Knowledge-base/Dictionary/Company/pinduoduo-china)
-- [ ] Honor (China)|Dictionary/Company
+- [x] [Honor (China)](/Knowledge-base/Dictionary/Company/honor-china)
 - [ ] Oppo (China)|Dictionary/Company
 - [x] [Vivo (China)](/Knowledge-base/Dictionary/Company/vivo-china)
 - [ ] ZTE Corporation (China)|Dictionary/Company
