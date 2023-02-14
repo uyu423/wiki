@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T15:34:21.559Z
+date: 2023-02-14T15:57:06.538Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -924,7 +924,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [IP Addressing for Backend Applications](/Knowledge-base/Backend/ip-addressing-for-backend-applications)
 - [x] [Load Balancing for Scalable Backend Applications](/Knowledge-base/Backend/load-balancing-for-scalable-backend-applications)
 - [ ] Reverse Proxy for Improved Performance|Backend
-- [ ] Securing Backend Applications with Firewall|Backend
+- [x] [Securing Backend Applications with Firewall](/Knowledge-base/Backend/securing-backend-applications-with-firewall)
 - [ ] Virtual Private Network (VPN) for Secure Backend Communication|Backend
 - [ ] Content Delivery Network (CDN) for Scalable Backend Applications|Backend
 - [ ] Distributed File Systems for Backend Applications|Backend
