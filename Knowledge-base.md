@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T04:17:42.328Z
+date: 2023-02-14T04:32:37.768Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -567,7 +567,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kubernetes CLI: Working with Your Cluster from the Command Line](/Knowledge-base/Kubernetes/kubernetes-cli-working-with-your-cluster-from-the-command-line)
 - [x] [Kubernetes API: Interacting with Your Cluster with REST Requests](/Knowledge-base/Kubernetes/kubernetes-api-interacting-with-your-cluster-with-rest-requests)
 - [x] [Kubernetes Plugins: Adding Custom Functionality to kubectl](/Knowledge-base/Kubernetes/kubernetes-plugins-adding-custom-functionality-to-kubectl)
-- [ ] Kubernetes Multi-Cluster Management: Managing Multiple Clusters with kubefed|Kubernetes
+- [x] [Kubernetes Multi-Cluster Management: Managing Multiple Clusters with kubefed](/Knowledge-base/Kubernetes/kubernetes-multi-cluster-management-managing-multiple-clusters-with-kubefed)
 - [x] [Kubernetes on AWS: Deploying Clusters on Amazon Web Services](/Knowledge-base/Kubernetes/kubernetes-on-aws-deploying-clusters-on-amazon-web-services)
 - [ ] Kubernetes on Google Cloud: Deploying Clusters on Google Cloud Platform|Kubernetes
 - [x] [Kubernetes on Azure: Deploying Clusters on Microsoft Azure](/Knowledge-base/Kubernetes/kubernetes-on-azure-deploying-clusters-on-microsoft-azure)
