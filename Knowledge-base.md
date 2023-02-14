@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T10:32:36.553Z
+date: 2023-02-14T10:57:31.336Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2043,7 +2043,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Guido van Rossum (Python Creator)|Dictionary/Person
 - [ ] James Gosling (Java Creator)|Dictionary/Person
 - [ ] Brendan Eich (JavaScript Creator)|Dictionary/Person
-- [ ] John Carmack (id Software Co-founder)|Dictionary/Person
+- [x] [John Carmack (id Software Co-founder)](/Knowledge-base/Dictionary/Person/john-carmack-id-software-co-founder)
 - [x] [Sid Meier (Civilization Creator)](/Knowledge-base/Dictionary/Person/sid-meier-civilization-creator)
 - [x] [Shigeru Miyamoto (Nintendo Game Designer)](/Knowledge-base/Dictionary/Person/shigeru-miyamoto-nintendo-game-designer)
 - [ ] Hideo Kojima (Metal Gear Creator)|Dictionary/Person
