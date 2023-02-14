@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T11:55:27.448Z
+date: 2023-02-14T12:18:36.839Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -759,7 +759,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 093: Coroutines in Kotlin: Writing Asynchronous and Non-Blocking Code with Coroutines|Kotlin/Learning
 - [ ] 094: Kotlin on the Server: Building Server-Side Applications with Kotlin|Kotlin/Learning
 - [x] [095: Web Development in Kotlin: Building Web Applications with Kotlin and Spring](/Knowledge-base/Kotlin/Learning/095-web-development-in-kotlin-building-web-applications-with-kotlin-and-spring)
-- [ ] 096: Mobile Development in Kotlin: Building Mobile Apps with Kotlin and Android/iOS|Kotlin/Learning
+- [x] [096: Mobile Development in Kotlin: Building Mobile Apps with Kotlin and Android/iOS](/Knowledge-base/Kotlin/Learning/096-mobile-development-in-kotlin-building-mobile-apps-with-kotlin-and-androidios)
 - [x] [097: Game Development in Kotlin: Building Games with Kotlin and LibGDX](/Knowledge-base/Kotlin/Learning/097-game-development-in-kotlin-building-games-with-kotlin-and-libgdx)
 - [x] [098: Database Access in Kotlin: Connecting to and Querying Databases with Kotlin](/Knowledge-base/Kotlin/Learning/098-database-access-in-kotlin-connecting-to-and-querying-databases-with-kotlin)
 - [ ] 099: Network Programming in Kotlin: Making Network Requests and Building Network-based Applications|Kotlin/Learning
