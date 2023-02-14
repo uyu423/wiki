@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T16:18:34.962Z
+date: 2023-02-14T16:32:32.960Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -592,7 +592,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [002: Setting up a development environment for Nest.js](/Knowledge-base/Nest-js/Learning/002-setting-up-a-development-environment-for-nest-js)
 - [x] [003: Creating your first Nest.js application](/Knowledge-base/Nest-js/Learning/003-creating-your-first-nest-js-application)
 - [x] [004: Understanding the architecture of a Nest.js application](/Knowledge-base/Nest-js/Learning/004-understanding-the-architecture-of-a-nest-js-application)
-- [ ] 005: Routing and controllers in Nest.js|Nest-js/Learning
+- [x] [005: Routing and controllers in Nest.js](/Knowledge-base/Nest-js/Learning/005-routing-and-controllers-in-nest-js)
 - [ ] 006: Handling requests and responses in Nest.js|Nest-js/Learning
 - [ ] 007: Creating services in Nest.js|Nest-js/Learning
 - [ ] 008: Working with databases in Nest.js|Nest-js/Learning
