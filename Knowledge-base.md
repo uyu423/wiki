@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T00:17:42.987Z
+date: 2023-02-14T00:32:31.074Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -186,7 +186,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [[C Language] 044: K-D Tree](/Knowledge-base/Algorithm/c-language-044-k-d-tree)
 - [x] [[C Language] 045: R-Tree](/Knowledge-base/Algorithm/c-language-045-r-tree)
 - [x] [[C Language] 046: Trie](/Knowledge-base/Algorithm/c-language-046-trie)
-- [ ] [C Language] 047: Suffix Trie|Algorithm
+- [x] [[C Language] 047: Suffix Trie](/Knowledge-base/Algorithm/c-language-047-suffix-trie)
 - [x] [[C Language] 048: Suffix Array](/Knowledge-base/Algorithm/c-language-048-suffix-array)
 - [x] [[C Language] 049: Radix Tree (Compact Trie)](/Knowledge-base/Algorithm/c-language-049-radix-tree-compact-trie)
 
