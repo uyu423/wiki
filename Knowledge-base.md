@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-14T02:32:33.383Z
+date: 2023-02-14T02:55:26.844Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1065,7 +1065,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 017: DevOps and Continuous Integration/Continuous Deployment (CI/CD)](/Knowledge-base/Software-Development/Learning/software-development-017-devops-and-continuous-integrationcontinuous-deployment-cicd)
 - [ ] Software Development 018: Linux Administration|Software-Development/Learning
 - [x] [Software Development 019: Git and Version Control](/Knowledge-base/Software-Development/Learning/software-development-019-git-and-version-control)
-- [ ] Software Development 020: Agile Methodology|Software-Development/Learning
+- [x] [Software Development 020: Agile Methodology](/Knowledge-base/Software-Development/Learning/software-development-020-agile-methodology)
 - [ ] Software Development 021: Software Architecture and Design Patterns|Software-Development/Learning
 - [ ] Software Development 022: Network Fundamentals|Software-Development/Learning
 - [x] [Software Development 023: TCP/IP and HTTP](/Knowledge-base/Software-Development/Learning/software-development-023-tcpip-and-http)
