@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T21:33:09.443Z
+date: 2023-02-15T21:55:44.379Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -721,7 +721,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 055: Delegation in Kotlin: Implementing Delegation Patterns with Delegated Properties|Kotlin/Learning
 - [ ] 056: The When Expression in Kotlin: A Comprehensive Guide|Kotlin/Learning
 - [x] [057: Exception Handling in Kotlin: Dealing with Errors and Exceptions](/Knowledge-base/Kotlin/Learning/057-exception-handling-in-kotlin-dealing-with-errors-and-exceptions)
-- [ ] 058: Data Classes in Kotlin: Simplifying Object Declaration with Automatic Methods|Kotlin/Learning
+- [x] [058: Data Classes in Kotlin: Simplifying Object Declaration with Automatic Methods](/Knowledge-base/Kotlin/Learning/058-data-classes-in-kotlin-simplifying-object-declaration-with-automatic-methods)
 - [ ] 059: The Builder Pattern in Kotlin: Creating Complex Objects with a Clear Syntax|Kotlin/Learning
 - [ ] 060: Interoperability with Java in Kotlin: Working Seamlessly with Java Code|Kotlin/Learning
 - [ ] 061: The Factory Method Pattern in Kotlin: Creating Objects with a Factory Method|Kotlin/Learning
