@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T13:17:31.130Z
+date: 2023-02-15T13:33:27.309Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -628,7 +628,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [038: Building and deploying serverless applications with Nest.js](/Knowledge-base/Nest-js/Learning/038-building-and-deploying-serverless-applications-with-nest-js)
 - [x] [039: Using Nest.js with AWS Lambda](/Knowledge-base/Nest-js/Learning/039-using-nest-js-with-aws-lambda)
 - [x] [040: Using Nest.js with Google Cloud Functions](/Knowledge-base/Nest-js/Learning/040-using-nest-js-with-google-cloud-functions)
-- [ ] 041: Using Nest.js with Firebase Functions|Nest-js/Learning
+- [x] [041: Using Nest.js with Firebase Functions](/Knowledge-base/Nest-js/Learning/041-using-nest-js-with-firebase-functions)
 - [x] [042: Implementing real-time notifications with Nest.js and Firebase](/Knowledge-base/Nest-js/Learning/042-implementing-real-time-notifications-with-nest-js-and-firebase)
 - [ ] 043: Using Nest.js with Docker|Nest-js/Learning
 - [ ] 044: Using Nest.js with Kubernetes|Nest-js/Learning
