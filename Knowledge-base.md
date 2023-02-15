@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T04:18:07.618Z
+date: 2023-02-15T04:32:39.296Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -610,7 +610,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [020: Using pipes for data transformation in Nest.js](/Knowledge-base/Nest-js/Learning/020-using-pipes-for-data-transformation-in-nest-js)
 - [x] [021: Creating custom pipes in Nest.js](/Knowledge-base/Nest-js/Learning/021-creating-custom-pipes-in-nest-js)
 - [x] [022: Implementing internationalization in Nest.js](/Knowledge-base/Nest-js/Learning/022-implementing-internationalization-in-nest-js)
-- [ ] 023: Using templates with Nest.js|Nest-js/Learning
+- [x] [023: Using templates with Nest.js](/Knowledge-base/Nest-js/Learning/023-using-templates-with-nest-js)
 - [x] [024: Creating and consuming REST APIs in Nest.js](/Knowledge-base/Nest-js/Learning/024-creating-and-consuming-rest-apis-in-nest-js)
 - [ ] 025: Creating and consuming GraphQL APIs in Nest.js|Nest-js/Learning
 - [ ] 026: Understanding Nest.js microservices|Nest-js/Learning
