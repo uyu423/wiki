@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T13:56:51.985Z
+date: 2023-02-15T14:17:59.763Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -835,7 +835,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and JWT: Securing RESTful APIs](/Knowledge-base/Kotlin/kotlin-and-jwt-securing-restful-apis)
 - [ ] Kotlin and OAuth 2.0: Authentication and Authorization|Kotlin
 - [x] [Kotlin and Spring Security: Protecting Your Web Applications](/Knowledge-base/Kotlin/kotlin-and-spring-security-protecting-your-web-applications)
-- [ ] Kotlin and HTTPS: Encrypting Your Web Communication|Kotlin
+- [x] [Kotlin and HTTPS: Encrypting Your Web Communication](/Knowledge-base/Kotlin/kotlin-and-https-encrypting-your-web-communication)
 - [x] [Kotlin and RSA: A Hands-on Guide to Public-Key Cryptography](/Knowledge-base/Kotlin/kotlin-and-rsa-a-hands-on-guide-to-public-key-cryptography)
 - [x] [Kotlin and AES: Encrypting and Decrypting Data](/Knowledge-base/Kotlin/kotlin-and-aes-encrypting-and-decrypting-data)
 - [x] [Kotlin and Hashing: Securing Passwords and Sensitive Data](/Knowledge-base/Kotlin/kotlin-and-hashing-securing-passwords-and-sensitive-data)
