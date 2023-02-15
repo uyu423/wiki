@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T04:55:47.231Z
+date: 2023-02-15T05:32:34.105Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -612,7 +612,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [022: Implementing internationalization in Nest.js](/Knowledge-base/Nest-js/Learning/022-implementing-internationalization-in-nest-js)
 - [x] [023: Using templates with Nest.js](/Knowledge-base/Nest-js/Learning/023-using-templates-with-nest-js)
 - [x] [024: Creating and consuming REST APIs in Nest.js](/Knowledge-base/Nest-js/Learning/024-creating-and-consuming-rest-apis-in-nest-js)
-- [ ] 025: Creating and consuming GraphQL APIs in Nest.js|Nest-js/Learning
+- [x] [025: Creating and consuming GraphQL APIs in Nest.js](/Knowledge-base/Nest-js/Learning/025-creating-and-consuming-graphql-apis-in-nest-js)
 - [ ] 026: Understanding Nest.js microservices|Nest-js/Learning
 - [ ] 027: Implementing microservices with Nest.js|Nest-js/Learning
 - [ ] 028: Communication between microservices in Nest.js|Nest-js/Learning
