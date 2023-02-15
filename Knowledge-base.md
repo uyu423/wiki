@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T06:55:50.833Z
+date: 2023-02-15T07:19:47.729Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1810,7 +1810,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Progressive Web Apps](/Knowledge-base/Dictionary/progressive-web-apps)
 - [ ] Mobile Application Testing|Dictionary
 - [ ] User Experience Design|Dictionary
-- [ ] User Interface Design|Dictionary
+- [x] [User Interface Design](/Knowledge-base/Dictionary/user-interface-design)
 - [x] [Visual Design](/Knowledge-base/Dictionary/visual-design)
 - [x] [Web Design](/Knowledge-base/Dictionary/web-design)
 - [x] [Graphic Design](/Knowledge-base/Dictionary/graphic-design)
