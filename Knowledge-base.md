@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T00:17:24.393Z
+date: 2023-02-15T00:32:33.122Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -601,7 +601,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [011: Implementing authentication in Nest.js](/Knowledge-base/Nest-js/Learning/011-implementing-authentication-in-nest-js)
 - [x] [012: Using guards for route protection in Nest.js](/Knowledge-base/Nest-js/Learning/012-using-guards-for-route-protection-in-nest-js)
 - [x] [013: Implementing authorization in Nest.js](/Knowledge-base/Nest-js/Learning/013-implementing-authorization-in-nest-js)
-- [ ] 014: Using middlewares in Nest.js|Nest-js/Learning
+- [x] [014: Using middlewares in Nest.js](/Knowledge-base/Nest-js/Learning/014-using-middlewares-in-nest-js)
 - [x] [015: Error handling in Nest.js](/Knowledge-base/Nest-js/Learning/015-error-handling-in-nest-js)
 - [ ] 016: Debugging Nest.js applications|Nest-js/Learning
 - [x] [017: Testing Nest.js applications](/Knowledge-base/Nest-js/Learning/017-testing-nest-js-applications)
