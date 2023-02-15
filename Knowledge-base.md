@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T14:17:59.763Z
+date: 2023-02-15T14:32:57.972Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -630,7 +630,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [040: Using Nest.js with Google Cloud Functions](/Knowledge-base/Nest-js/Learning/040-using-nest-js-with-google-cloud-functions)
 - [x] [041: Using Nest.js with Firebase Functions](/Knowledge-base/Nest-js/Learning/041-using-nest-js-with-firebase-functions)
 - [x] [042: Implementing real-time notifications with Nest.js and Firebase](/Knowledge-base/Nest-js/Learning/042-implementing-real-time-notifications-with-nest-js-and-firebase)
-- [ ] 043: Using Nest.js with Docker|Nest-js/Learning
+- [x] [043: Using Nest.js with Docker](/Knowledge-base/Nest-js/Learning/043-using-nest-js-with-docker)
 - [ ] 044: Using Nest.js with Kubernetes|Nest-js/Learning
 - [x] [045: Using Nest.js with cloud-based solutions such as Heroku, DigitalOcean, and more](/Knowledge-base/Nest-js/Learning/045-using-nest-js-with-cloud-based-solutions-such-as-heroku-digitalocean-and-more)
 - [x] [046: Using Nest.js with serverless databases such as AWS DynamoDB, Google Cloud Firestore, and more](/Knowledge-base/Nest-js/Learning/046-using-nest-js-with-serverless-databases-such-as-aws-dynamodb-google-cloud-firestore-and-more)
