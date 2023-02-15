@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T01:56:37.950Z
+date: 2023-02-15T02:17:24.047Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -951,7 +951,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Real-time Communication in Backend Development with WebSockets and Server-Sent Events](/Knowledge-base/Backend/real-time-communication-in-backend-development-with-websockets-and-server-sent-events)
 - [x] [Implementing Command Query Responsibility Segregation (CQRS)](/Knowledge-base/Backend/implementing-command-query-responsibility-segregation-cqrs)
 - [x] [Enabling Cross-Origin Resource Sharing (CORS) for Secure API Access](/Knowledge-base/Backend/enabling-cross-origin-resource-sharing-cors-for-secure-api-access)
-- [ ] Implementing HTTP/2 for Faster Backend Communication|Backend
+- [x] [Implementing HTTP/2 for Faster Backend Communication](/Knowledge-base/Backend/implementing-http2-for-faster-backend-communication)
 - [x] [Building Serverless Architecture for Scalable Backends](/Knowledge-base/Backend/building-serverless-architecture-for-scalable-backends)
 - [x] [Understanding Event Sourcing in Infrastructure Development](/Knowledge-base/Backend/understanding-event-sourcing-in-infrastructure-development)
 - [x] [Implementing gRPC in Your Backend](/Knowledge-base/Backend/implementing-grpc-in-your-backend)
