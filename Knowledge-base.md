@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T20:55:42.898Z
+date: 2023-02-15T21:17:49.864Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2033,7 +2033,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] John Donahoe (eBay CEO)|Dictionary/Person
 - [x] [Brad Smith (Microsoft President)](/Knowledge-base/Dictionary/Person/brad-smith-microsoft-president)
 - [x] [Sanjay Kumar (Computer Associates CEO)](/Knowledge-base/Dictionary/Person/sanjay-kumar-computer-associates-ceo)
-- [ ] Vinod Dham (Intel Engineer)|Dictionary/Person
+- [x] [Vinod Dham (Intel Engineer)](/Knowledge-base/Dictionary/Person/vinod-dham-intel-engineer)
 - [ ] Rajeev Suri (Nokia CEO)|Dictionary/Person
 - [x] [Pradeep Sindhu (Juniper Networks Co-founder)](/Knowledge-base/Dictionary/Person/pradeep-sindhu-juniper-networks-co-founder)
 - [ ] Andy Bechtolsheim (Sun Microsystems Co-founder)|Dictionary/Person
