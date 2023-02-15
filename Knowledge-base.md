@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T22:32:38.915Z
+date: 2023-02-15T22:55:21.114Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1111,7 +1111,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 063: Kubernetes and Cluster Management](/Knowledge-base/Software-Development/Learning/software-development-063-kubernetes-and-cluster-management)
 - [ ] Software Development 064: Serverless Architecture|Software-Development/Learning
 - [ ] Software Development 065: High Performance Computing (HPC)|Software-Development/Learning
-- [ ] Software Development 066: Real-Time Analytics|Software-Development/Learning
+- [x] [Software Development 066: Real-Time Analytics](/Knowledge-base/Software-Development/Learning/software-development-066-real-time-analytics)
 - [ ] Software Development 067: Streaming Analytics|Software-Development/Learning
 - [x] [Software Development 068: Event-Driven Architecture](/Knowledge-base/Software-Development/Learning/software-development-068-event-driven-architecture)
 - [x] [Software Development 069: Event Sourcing and CQRS](/Knowledge-base/Software-Development/Learning/software-development-069-event-sourcing-and-cqrs)
