@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T15:19:03.563Z
+date: 2023-02-15T15:56:23.767Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1348,7 +1348,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Testing TypeScript Applications with Jest and Supertest](/Knowledge-base/TypeScript/testing-typescript-applications-with-jest-and-supertest)
 - [x] [Using TypeScript with GraphQL for API Development](/Knowledge-base/TypeScript/using-typescript-with-graphql-for-api-development)
 - [ ] Developing Microservices with TypeScript and Nest.js|TypeScript
-- [ ] Integrating TypeScript with AWS Services for Serverless Development|TypeScript
+- [x] [Integrating TypeScript with AWS Services for Serverless Development](/Knowledge-base/TypeScript/integrating-typescript-with-aws-services-for-serverless-development)
 - [ ] Building Real-Time Chat Applications with TypeScript and WebSockets|TypeScript
 - [ ] Using TypeScript with TypeORM for Object-Relational Mapping|TypeScript
 - [x] [Working with WebSockets in TypeScript and Express.js](/Knowledge-base/TypeScript/working-with-websockets-in-typescript-and-express-js)
