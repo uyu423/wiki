@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T14:55:47.083Z
+date: 2023-02-15T15:19:03.563Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1118,7 +1118,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 070: Service-Oriented Architecture (SOA)|Software-Development/Learning
 - [x] [Software Development 071: Domain-Driven Design (DDD)](/Knowledge-base/Software-Development/Learning/software-development-071-domain-driven-design-ddd)
 - [x] [Software Development 072: Test-Driven Development (TDD)](/Knowledge-base/Software-Development/Learning/software-development-072-test-driven-development-tdd)
-- [ ] Software Development 073: Behavior-Driven Development (BDD)|Software-Development/Learning
+- [x] [Software Development 073: Behavior-Driven Development (BDD)](/Knowledge-base/Software-Development/Learning/software-development-073-behavior-driven-development-bdd)
 - [x] [Software Development 074: Continuous Testing](/Knowledge-base/Software-Development/Learning/software-development-074-continuous-testing)
 - [x] [Software Development 075: Load Testing](/Knowledge-base/Software-Development/Learning/software-development-075-load-testing)
 - [ ] Software Development 076: Performance Testing|Software-Development/Learning
