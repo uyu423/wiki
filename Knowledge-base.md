@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T22:55:21.114Z
+date: 2023-02-15T23:17:53.747Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1675,7 +1675,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Test-Driven Development|Dictionary
 - [x] [Behavior-Driven Development](/Knowledge-base/Dictionary/behavior-driven-development)
 - [x] [Acceptance Criteria](/Knowledge-base/Dictionary/acceptance-criteria)
-- [ ] Test Cases|Dictionary
+- [x] [Test Cases](/Knowledge-base/Dictionary/test-cases)
 - [ ] Test Plan|Dictionary
 - [ ] Test Automation|Dictionary
 - [x] [Regression Testing](/Knowledge-base/Dictionary/regression-testing)
