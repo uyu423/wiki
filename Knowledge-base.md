@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T02:17:24.047Z
+date: 2023-02-15T02:32:25.036Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -608,7 +608,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [018: Creating reusable components in Nest.js](/Knowledge-base/Nest-js/Learning/018-creating-reusable-components-in-nest-js)
 - [x] [019: Modules and module organization in Nest.js](/Knowledge-base/Nest-js/Learning/019-modules-and-module-organization-in-nest-js)
 - [x] [020: Using pipes for data transformation in Nest.js](/Knowledge-base/Nest-js/Learning/020-using-pipes-for-data-transformation-in-nest-js)
-- [ ] 021: Creating custom pipes in Nest.js|Nest-js/Learning
+- [x] [021: Creating custom pipes in Nest.js](/Knowledge-base/Nest-js/Learning/021-creating-custom-pipes-in-nest-js)
 - [ ] 022: Implementing internationalization in Nest.js|Nest-js/Learning
 - [ ] 023: Using templates with Nest.js|Nest-js/Learning
 - [x] [024: Creating and consuming REST APIs in Nest.js](/Knowledge-base/Nest-js/Learning/024-creating-and-consuming-rest-apis-in-nest-js)
