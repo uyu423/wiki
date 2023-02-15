@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T09:32:29.645Z
+date: 2023-02-15T09:57:36.305Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1866,7 +1866,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Hybrid Project Management|Dictionary
 - [x] [Project Planning](/Knowledge-base/Dictionary/project-planning)
 - [x] [Project Budgeting](/Knowledge-base/Dictionary/project-budgeting)
-- [ ] Project Scheduling|Dictionary
+- [x] [Project Scheduling](/Knowledge-base/Dictionary/project-scheduling)
 - [x] [Project Monitoring](/Knowledge-base/Dictionary/project-monitoring)
 - [x] [Project Tracking](/Knowledge-base/Dictionary/project-tracking)
 - [ ] Project Review|Dictionary
