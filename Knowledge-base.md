@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T19:32:25.420Z
+date: 2023-02-15T19:56:08.620Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1149,7 +1149,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Object-Oriented Programming: Concepts and Best Practices](/Knowledge-base/Common/object-oriented-programming-concepts-and-best-practices)
 - [ ] Introduction to Data Structures and Algorithms|Common
 - [ ] The Basics of Database Design and Management|Common
-- [ ] Getting Started with Web Development: HTML, CSS, and JavaScript|Common
+- [x] [Getting Started with Web Development: HTML, CSS, and JavaScript](/Knowledge-base/Common/getting-started-with-web-development-html-css-and-javascript)
 - [x] [Mobile App Development: Android or iOS?](/Knowledge-base/Common/mobile-app-development-android-or-ios)
 - [ ] Cloud Computing: An Overview|Common
 - [ ] How to Build a RESTful API with Node.js|Common
