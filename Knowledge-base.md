@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T12:32:43.716Z
+date: 2023-02-15T12:56:10.164Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1267,7 +1267,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Node.js and NoSQL Databases: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-nosql-databases-a-hands-on-guide)
 - [ ] Node.js and Redis: A Hands-On Guide to Caching and Session Management|Nodejs
 - [x] [Node.js and MongoDB: A Hands-On Guide to Data Persistence](/Knowledge-base/Nodejs/node-js-and-mongodb-a-hands-on-guide-to-data-persistence)
-- [ ] Node.js and Elasticsearch: A Hands-On Guide to Search and Analytics|Nodejs
+- [x] [Node.js and Elasticsearch: A Hands-On Guide to Search and Analytics](/Knowledge-base/Nodejs/node-js-and-elasticsearch-a-hands-on-guide-to-search-and-analytics)
 - [x] [Node.js and RabbitMQ: A Hands-On Guide to Message Queues](/Knowledge-base/Nodejs/node-js-and-rabbitmq-a-hands-on-guide-to-message-queues)
 - [x] [Node.js and Graph Databases: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-graph-databases-a-hands-on-guide)
 - [ ] Node.js and Machine Learning: A Hands-On Guide|Nodejs
