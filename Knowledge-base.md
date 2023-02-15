@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T00:56:07.908Z
+date: 2023-02-15T01:18:28.769Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1659,7 +1659,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Continuous Monitoring](/Knowledge-base/Dictionary/continuous-monitoring)
 - [ ] Continuous Improvement|Dictionary
 - [x] [Incremental Development](/Knowledge-base/Dictionary/incremental-development)
-- [ ] Iterative Development|Dictionary
+- [x] [Iterative Development](/Knowledge-base/Dictionary/iterative-development)
 - [x] [Waterfall Model](/Knowledge-base/Dictionary/waterfall-model)
 - [x] [Spiral Model](/Knowledge-base/Dictionary/spiral-model)
 - [x] [Prototype Model](/Knowledge-base/Dictionary/prototype-model)
