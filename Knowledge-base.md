@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T06:32:25.052Z
+date: 2023-02-15T06:55:50.833Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1259,7 +1259,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Node.js Profiling with the Flame Graph](/Knowledge-base/Nodejs/node-js-profiling-with-the-flame-graph)
 - [x] [Working with Node.js Workers for Concurrent Processing](/Knowledge-base/Nodejs/working-with-node-js-workers-for-concurrent-processing)
 - [x] [Using Node.js Workers and Clustering for Scalable Background Jobs](/Knowledge-base/Nodejs/using-node-js-workers-and-clustering-for-scalable-background-jobs)
-- [ ] Node.js and Microservices: Building a Robust Architecture|Nodejs
+- [x] [Node.js and Microservices: Building a Robust Architecture](/Knowledge-base/Nodejs/node-js-and-microservices-building-a-robust-architecture)
 - [x] [Node.js, GraphQL and Apollo: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-graphql-and-apollo-a-hands-on-guide)
 - [ ] Working with Node.js and WebSockets for Real-Time Communication|Nodejs
 - [x] [Node.js and Serverless Computing: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-serverless-computing-a-hands-on-guide)
