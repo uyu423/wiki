@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T16:33:20.996Z
+date: 2023-02-15T16:55:51.442Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1740,7 +1740,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Private Cloud|Dictionary
 - [x] [Hybrid Cloud](/Knowledge-base/Dictionary/hybrid-cloud)
 - [x] [Function as a Service](/Knowledge-base/Dictionary/function-as-a-service)
-- [ ] Database as a Service|Dictionary
+- [x] [Database as a Service](/Knowledge-base/Dictionary/database-as-a-service)
 - [x] [Backup as a Service](/Knowledge-base/Dictionary/backup-as-a-service)
 - [ ] Disaster Recovery as a Service|Dictionary
 - [ ] Infrastructure Management|Dictionary
