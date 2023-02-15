@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T20:17:45.601Z
+date: 2023-02-15T20:32:43.009Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -644,7 +644,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [054: Using Nest.js with Progressive Web Apps (PWA)](/Knowledge-base/Nest-js/Learning/054-using-nest-js-with-progressive-web-apps-pwa)
 - [x] [055: Implementing real-time updates with Nest.js and PWA](/Knowledge-base/Nest-js/Learning/055-implementing-real-time-updates-with-nest-js-and-pwa)
 - [x] [056: Using Nest.js with progressive enhancement](/Knowledge-base/Nest-js/Learning/056-using-nest-js-with-progressive-enhancement)
-- [ ] 057: Using Nest.js with Service Workers|Nest-js/Learning
+- [x] [057: Using Nest.js with Service Workers](/Knowledge-base/Nest-js/Learning/057-using-nest-js-with-service-workers)
 - [ ] 058: Implementing offline-first applications with Nest.js and Service Workers|Nest-js/Learning
 - [ ] 059: Using Nest.js with IndexedDB|Nest-js/Learning
 - [x] [060: Building high-performance applications with Nest.js and IndexedDB](/Knowledge-base/Nest-js/Learning/060-building-high-performance-applications-with-nest-js-and-indexeddb)
