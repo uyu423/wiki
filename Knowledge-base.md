@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T21:17:49.864Z
+date: 2023-02-15T21:33:09.443Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -645,7 +645,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [055: Implementing real-time updates with Nest.js and PWA](/Knowledge-base/Nest-js/Learning/055-implementing-real-time-updates-with-nest-js-and-pwa)
 - [x] [056: Using Nest.js with progressive enhancement](/Knowledge-base/Nest-js/Learning/056-using-nest-js-with-progressive-enhancement)
 - [x] [057: Using Nest.js with Service Workers](/Knowledge-base/Nest-js/Learning/057-using-nest-js-with-service-workers)
-- [ ] 058: Implementing offline-first applications with Nest.js and Service Workers|Nest-js/Learning
+- [x] [058: Implementing offline-first applications with Nest.js and Service Workers](/Knowledge-base/Nest-js/Learning/058-implementing-offline-first-applications-with-nest-js-and-service-workers)
 - [ ] 059: Using Nest.js with IndexedDB|Nest-js/Learning
 - [x] [060: Building high-performance applications with Nest.js and IndexedDB](/Knowledge-base/Nest-js/Learning/060-building-high-performance-applications-with-nest-js-and-indexeddb)
 - [x] [061: Using Nest.js with the Filesystem API](/Knowledge-base/Nest-js/Learning/061-using-nest-js-with-the-filesystem-api)
