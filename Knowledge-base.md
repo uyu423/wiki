@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T15:56:23.767Z
+date: 2023-02-15T16:17:29.782Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1025,7 +1025,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Best Practices for Monitoring and Logging Cloud Services on AWS and Azure"|Cloud
 - [ ] Introduction to Serverless Architecture on AWS and Azure|Cloud
 - [ ] Building Microservices on AWS and Azure|Cloud
-- [ ] Managing Stateful Applications on AWS and Azure|Cloud
+- [x] [Managing Stateful Applications on AWS and Azure](/Knowledge-base/Cloud/managing-stateful-applications-on-aws-and-azure)
 - [x] [Dealing with Latency and Networking Issues in the Cloud](/Knowledge-base/Cloud/dealing-with-latency-and-networking-issues-in-the-cloud)
 - [x] [Implementing Disaster Recovery and Business Continuity on AWS and Azure](/Knowledge-base/Cloud/implementing-disaster-recovery-and-business-continuity-on-aws-and-azure)
 - [x] [Integrating Cloud Services with External APIs and Services](/Knowledge-base/Cloud/integrating-cloud-services-with-external-apis-and-services)
