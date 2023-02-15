@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T17:55:52.898Z
+date: 2023-02-15T18:18:04.682Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2021,7 +2021,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Steve Ballmer (Microsoft CEO)](/Knowledge-base/Dictionary/Person/steve-ballmer-microsoft-ceo)
 - [ ] Satya Nadella (Microsoft CEO)|Dictionary/Person
 - [x] [John Chambers (Cisco Systems CEO)](/Knowledge-base/Dictionary/Person/john-chambers-cisco-systems-ceo)
-- [ ] Meg Whitman (HP CEO)|Dictionary/Person
+- [x] [Meg Whitman (HP CEO)](/Knowledge-base/Dictionary/Person/meg-whitman-hp-ceo)
 - [x] [Brian Krzanich (Intel CEO)](/Knowledge-base/Dictionary/Person/brian-krzanich-intel-ceo)
 - [x] [Ginni Rometty (IBM CEO)](/Knowledge-base/Dictionary/Person/ginni-rometty-ibm-ceo)
 - [ ] Travis Kalanick (Uber Co-founder)|Dictionary/Person
