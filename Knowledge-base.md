@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T19:56:08.620Z
+date: 2023-02-15T20:17:45.601Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1307,7 +1307,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Leveraging Java's java.util.stream Package for Stream Processing](/Knowledge-base/Java/leveraging-java-s-java-util-stream-package-for-stream-processing)
 - [ ] Java's Executor Framework for Task Scheduling and Execution|Java
 - [ ] Java's Reflection-based Dynamic Proxies for Dynamic Method Invocation|Java
-- [ ] A Guide to Java's Dynamic Class Loading and Reloading|Java
+- [x] [A Guide to Java's Dynamic Class Loading and Reloading](/Knowledge-base/Java/a-guide-to-java-s-dynamic-class-loading-and-reloading)
 - [x] [Building Custom Java Security Managers](/Knowledge-base/Java/building-custom-java-security-managers)
 - [x] [Java's java.nio Package for Non-Blocking I/O Operations](/Knowledge-base/Java/java-s-java-nio-package-for-non-blocking-io-operations)
 - [ ] Working with Java's java.util.concurrent.atomic Package for Atomic Operations|Java
