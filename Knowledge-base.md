@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T09:19:28.221Z
+date: 2023-02-15T09:32:29.645Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -617,7 +617,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [027: Implementing microservices with Nest.js](/Knowledge-base/Nest-js/Learning/027-implementing-microservices-with-nest-js)
 - [x] [028: Communication between microservices in Nest.js](/Knowledge-base/Nest-js/Learning/028-communication-between-microservices-in-nest-js)
 - [x] [029: Deploying Nest.js applications to production](/Knowledge-base/Nest-js/Learning/029-deploying-nest-js-applications-to-production)
-- [ ] 030: Scaling Nest.js applications|Nest-js/Learning
+- [x] [030: Scaling Nest.js applications](/Knowledge-base/Nest-js/Learning/030-scaling-nest-js-applications)
 - [ ] 031: Integrating with other technologies such as Redis, RabbitMQ, and more|Nest-js/Learning
 - [x] [032: Using Nest.js with TypeScript](/Knowledge-base/Nest-js/Learning/032-using-nest-js-with-typescript)
 - [ ] 033: Using Nest.js with JavaScript|Nest-js/Learning
