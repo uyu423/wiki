@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T10:32:29.621Z
+date: 2023-02-15T10:55:48.238Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -778,7 +778,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Building Applications with Kotlin Coroutines](/Knowledge-base/Kotlin/building-applications-with-kotlin-coroutines)
 - [x] [Understanding the CoroutineScope in Kotlin](/Knowledge-base/Kotlin/understanding-the-coroutinescope-in-kotlin)
 - [x] [Concurrent Programming with Kotlin's Channels and Flow](/Knowledge-base/Kotlin/concurrent-programming-with-kotlin-s-channels-and-flow)
-- [ ] Using Sealed Classes in Kotlin|Kotlin
+- [x] [Using Sealed Classes in Kotlin](/Knowledge-base/Kotlin/using-sealed-classes-in-kotlin)
 - [x] [Understanding the Delegation Pattern in Kotlin](/Knowledge-base/Kotlin/understanding-the-delegation-pattern-in-kotlin)
 - [ ] Exploring the Power of Kotlin's Standard Library Functions|Kotlin
 - [ ] Kotlin for Web Development: Building REST APIs|Kotlin
