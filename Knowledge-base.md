@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T08:17:26.369Z
+date: 2023-02-15T08:32:29.626Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -615,7 +615,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [025: Creating and consuming GraphQL APIs in Nest.js](/Knowledge-base/Nest-js/Learning/025-creating-and-consuming-graphql-apis-in-nest-js)
 - [x] [026: Understanding Nest.js microservices](/Knowledge-base/Nest-js/Learning/026-understanding-nest-js-microservices)
 - [x] [027: Implementing microservices with Nest.js](/Knowledge-base/Nest-js/Learning/027-implementing-microservices-with-nest-js)
-- [ ] 028: Communication between microservices in Nest.js|Nest-js/Learning
+- [x] [028: Communication between microservices in Nest.js](/Knowledge-base/Nest-js/Learning/028-communication-between-microservices-in-nest-js)
 - [x] [029: Deploying Nest.js applications to production](/Knowledge-base/Nest-js/Learning/029-deploying-nest-js-applications-to-production)
 - [ ] 030: Scaling Nest.js applications|Nest-js/Learning
 - [ ] 031: Integrating with other technologies such as Redis, RabbitMQ, and more|Nest-js/Learning
