@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T05:32:34.105Z
+date: 2023-02-15T05:55:40.101Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2022,7 +2022,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Satya Nadella (Microsoft CEO)|Dictionary/Person
 - [x] [John Chambers (Cisco Systems CEO)](/Knowledge-base/Dictionary/Person/john-chambers-cisco-systems-ceo)
 - [ ] Meg Whitman (HP CEO)|Dictionary/Person
-- [ ] Brian Krzanich (Intel CEO)|Dictionary/Person
+- [x] [Brian Krzanich (Intel CEO)](/Knowledge-base/Dictionary/Person/brian-krzanich-intel-ceo)
 - [x] [Ginni Rometty (IBM CEO)](/Knowledge-base/Dictionary/Person/ginni-rometty-ibm-ceo)
 - [ ] Travis Kalanick (Uber Co-founder)|Dictionary/Person
 - [ ] Evan Spiegel (Snap Inc. CEO)|Dictionary/Person
