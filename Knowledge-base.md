@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T01:18:28.769Z
+date: 2023-02-15T01:32:26.336Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -603,7 +603,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [013: Implementing authorization in Nest.js](/Knowledge-base/Nest-js/Learning/013-implementing-authorization-in-nest-js)
 - [x] [014: Using middlewares in Nest.js](/Knowledge-base/Nest-js/Learning/014-using-middlewares-in-nest-js)
 - [x] [015: Error handling in Nest.js](/Knowledge-base/Nest-js/Learning/015-error-handling-in-nest-js)
-- [ ] 016: Debugging Nest.js applications|Nest-js/Learning
+- [x] [016: Debugging Nest.js applications](/Knowledge-base/Nest-js/Learning/016-debugging-nest-js-applications)
 - [x] [017: Testing Nest.js applications](/Knowledge-base/Nest-js/Learning/017-testing-nest-js-applications)
 - [x] [018: Creating reusable components in Nest.js](/Knowledge-base/Nest-js/Learning/018-creating-reusable-components-in-nest-js)
 - [x] [019: Modules and module organization in Nest.js](/Knowledge-base/Nest-js/Learning/019-modules-and-module-organization-in-nest-js)
