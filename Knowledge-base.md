@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T17:32:59.871Z
+date: 2023-02-15T17:55:52.898Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1569,7 +1569,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Columnar Database](/Knowledge-base/Dictionary/columnar-database)
 - [x] [In-Memory Database](/Knowledge-base/Dictionary/in-memory-database)
 - [ ] Object-Relational Mapping|Dictionary
-- [ ] Network Security|Dictionary
+- [x] [Network Security](/Knowledge-base/Dictionary/network-security)
 - [x] [Firewall](/Knowledge-base/Dictionary/firewall)
 - [x] [Intrusion Detection System](/Knowledge-base/Dictionary/intrusion-detection-system)
 - [x] [Intrusion Prevention System](/Knowledge-base/Dictionary/intrusion-prevention-system)
