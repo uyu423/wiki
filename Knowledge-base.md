@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T13:56:15.495Z
+date: 2023-02-16T14:17:59.839Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1396,7 +1396,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Laravel](/Knowledge-base/Dictionary/laravel)
 - [x] [Spring](/Knowledge-base/Dictionary/spring)
 - [x] [Flask](/Knowledge-base/Dictionary/flask)
-- [ ] ASP.NET|Dictionary
+- [x] [ASP.NET](/Knowledge-base/Dictionary/asp-net)
 - [ ] Phoenix|Dictionary
 - [x] [Meteor](/Knowledge-base/Dictionary/meteor)
 - [ ] Hadoop|Dictionary
