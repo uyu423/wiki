@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T15:18:48.039Z
+date: 2023-02-16T15:32:51.573Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -712,7 +712,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [046: SAM (Single Abstract Method) Interfaces in Kotlin: Converting Java Interfaces to Kotlin Interfaces](/Knowledge-base/Kotlin/Learning/046-sam-single-abstract-method-interfaces-in-kotlin-converting-java-interfaces-to-kotlin-interfaces)
 - [x] [047: Late-initialized Properties in Kotlin: Initializing Properties Lazy and Safe](/Knowledge-base/Kotlin/Learning/047-late-initialized-properties-in-kotlin-initializing-properties-lazy-and-safe)
 - [x] [048: The Elvis Operator in Kotlin: Dealing with Null Values in a Compact Way](/Knowledge-base/Kotlin/Learning/048-the-elvis-operator-in-kotlin-dealing-with-null-values-in-a-compact-way)
-- [ ] 049: Higher-Order Functions and Lambdas in Kotlin: Understanding Closures and Function Types|Kotlin/Learning
+- [x] [049: Higher-Order Functions and Lambdas in Kotlin: Understanding Closures and Function Types](/Knowledge-base/Kotlin/Learning/049-higher-order-functions-and-lambdas-in-kotlin-understanding-closures-and-function-types)
 - [ ] 050: Design Patterns in Kotlin: Applying Common Design Patterns to Your Code.|Kotlin/Learning
 - [ ] 051: The Kotlin Standard Library: Utilizing the Built-in Functions and Classes|Kotlin/Learning
 - [x] [052: Nullability and Null Safety in Kotlin: Managing Null Values in Your Code](/Knowledge-base/Kotlin/Learning/052-nullability-and-null-safety-in-kotlin-managing-null-values-in-your-code)
