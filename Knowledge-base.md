@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T17:56:00.825Z
+date: 2023-02-16T18:17:43.316Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2052,7 +2052,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Mark Cuban (Investor and Entrepreneur)](/Knowledge-base/Dictionary/Person/mark-cuban-investor-and-entrepreneur)
 - [ ] Peter Thiel (PayPal Co-founder)|Dictionary/Person
 - [x] [Reid Hoffman (LinkedIn Co-founder)](/Knowledge-base/Dictionary/Person/reid-hoffman-linkedin-co-founder)
-- [ ] Max Levchin (PayPal Co-founder)|Dictionary/Person
+- [x] [Max Levchin (PayPal Co-founder)](/Knowledge-base/Dictionary/Person/max-levchin-paypal-co-founder)
 - [ ] Marc Andreessen (Netscape Co-founder)|Dictionary/Person
 - [x] [Jim Clark (Netscape Co-founder)](/Knowledge-base/Dictionary/Person/jim-clark-netscape-co-founder)
 - [x] [Marc Benioff (Salesforce CEO)](/Knowledge-base/Dictionary/Person/marc-benioff-salesforce-ceo)
