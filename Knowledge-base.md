@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T02:18:10.648Z
+date: 2023-02-16T02:32:29.944Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -668,7 +668,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [002: Getting Started with Kotlin: Setting up Your Development Environment](/Knowledge-base/Kotlin/Learning/002-getting-started-with-kotlin-setting-up-your-development-environment)
 - [x] [003: Kotlin Basics: Variables, Data Types, and Operators](/Knowledge-base/Kotlin/Learning/003-kotlin-basics-variables-data-types-and-operators)
 - [x] [004: Control Flow in Kotlin: if-else Statements, Loops, and When Expressions](/Knowledge-base/Kotlin/Learning/004-control-flow-in-kotlin-if-else-statements-loops-and-when-expressions)
-- [ ] 005: Functions in Kotlin: Defining, Calling, and Returning Values|Kotlin/Learning
+- [x] [005: Functions in Kotlin: Defining, Calling, and Returning Values](/Knowledge-base/Kotlin/Learning/005-functions-in-kotlin-defining-calling-and-returning-values)
 - [ ] 006: Collections in Kotlin: Arrays, Lists, Sets, and Maps|Kotlin/Learning
 - [x] [007: Object-Oriented Programming in Kotlin: Classes, Objects, and Inheritance](/Knowledge-base/Kotlin/Learning/007-object-oriented-programming-in-kotlin-classes-objects-and-inheritance)
 - [x] [008: Null Safety in Kotlin: Understanding the ? Operator and Non-Null Types](/Knowledge-base/Kotlin/Learning/008-null-safety-in-kotlin-understanding-the--operator-and-non-null-types)
