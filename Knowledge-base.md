@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T11:55:42.913Z
+date: 2023-02-16T12:18:58.552Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1918,7 +1918,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Zoom Video Communications, Inc.|Dictionary/Company
 - [x] [DocuSign, Inc.](/Knowledge-base/Dictionary/Company/docusign-inc-)
 - [ ] Salesforce.com, Inc.|Dictionary/Company
-- [ ] Shopify Inc.|Dictionary/Company
+- [x] [Shopify Inc.](/Knowledge-base/Dictionary/Company/shopify-inc-)
 - [x] [Dropbox, Inc.](/Knowledge-base/Dictionary/Company/dropbox-inc-)
 - [ ] AirBnB, Inc.|Dictionary/Company
 - [x] [Uber Technologies, Inc.](/Knowledge-base/Dictionary/Company/uber-technologies-inc-)
