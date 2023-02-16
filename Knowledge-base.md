@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-15T23:56:03.053Z
+date: 2023-02-16T00:18:00.352Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -984,7 +984,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AWS IAM: Managing User Access and Permissions in the Cloud](/Knowledge-base/Cloud/aws-iam-managing-user-access-and-permissions-in-the-cloud)
 - [x] [AWS Kinesis: Processing Real-Time Streaming Data in the Cloud](/Knowledge-base/Cloud/aws-kinesis-processing-real-time-streaming-data-in-the-cloud)
 - [ ] AWS CloudFormation: Automating Cloud Infrastructure Deployment|Cloud
-- [ ] AWS ECS: Deploying and Managing Docker Containers in the Cloud|Cloud
+- [x] [AWS ECS: Deploying and Managing Docker Containers in the Cloud](/Knowledge-base/Cloud/aws-ecs-deploying-and-managing-docker-containers-in-the-cloud)
 - [x] [AWS Route 53: Building a Scalable and Resilient DNS System in the Cloud](/Knowledge-base/Cloud/aws-route-53-building-a-scalable-and-resilient-dns-system-in-the-cloud)
 - [x] [AWS CloudFront: Improving Content Delivery with a CDN](/Knowledge-base/Cloud/aws-cloudfront-improving-content-delivery-with-a-cdn)
 - [x] [AWS WAF: Securing Web Applications with Firewall Rules](/Knowledge-base/Cloud/aws-waf-securing-web-applications-with-firewall-rules)
