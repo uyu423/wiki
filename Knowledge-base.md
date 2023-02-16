@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T15:55:54.992Z
+date: 2023-02-16T16:18:06.751Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1797,7 +1797,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Internet of Things|Dictionary
 - [x] [Embedded Systems](/Knowledge-base/Dictionary/embedded-systems)
 - [ ] Wearable Technology|Dictionary
-- [ ] Augmented Reality|Dictionary
+- [x] [Augmented Reality](/Knowledge-base/Dictionary/augmented-reality)
 - [ ] Virtual Reality|Dictionary
 - [ ] Game Development|Dictionary
 - [x] [iOS Development](/Knowledge-base/Dictionary/ios-development)
