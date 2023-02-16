@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T03:17:49.375Z
+date: 2023-02-16T03:32:55.759Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -669,7 +669,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [003: Kotlin Basics: Variables, Data Types, and Operators](/Knowledge-base/Kotlin/Learning/003-kotlin-basics-variables-data-types-and-operators)
 - [x] [004: Control Flow in Kotlin: if-else Statements, Loops, and When Expressions](/Knowledge-base/Kotlin/Learning/004-control-flow-in-kotlin-if-else-statements-loops-and-when-expressions)
 - [x] [005: Functions in Kotlin: Defining, Calling, and Returning Values](/Knowledge-base/Kotlin/Learning/005-functions-in-kotlin-defining-calling-and-returning-values)
-- [ ] 006: Collections in Kotlin: Arrays, Lists, Sets, and Maps|Kotlin/Learning
+- [x] [006: Collections in Kotlin: Arrays, Lists, Sets, and Maps](/Knowledge-base/Kotlin/Learning/006-collections-in-kotlin-arrays-lists-sets-and-maps)
 - [x] [007: Object-Oriented Programming in Kotlin: Classes, Objects, and Inheritance](/Knowledge-base/Kotlin/Learning/007-object-oriented-programming-in-kotlin-classes-objects-and-inheritance)
 - [x] [008: Null Safety in Kotlin: Understanding the ? Operator and Non-Null Types](/Knowledge-base/Kotlin/Learning/008-null-safety-in-kotlin-understanding-the--operator-and-non-null-types)
 - [x] [009: Higher-Order Functions in Kotlin: Understanding Lambdas and Anonymous Functions](/Knowledge-base/Kotlin/Learning/009-higher-order-functions-in-kotlin-understanding-lambdas-and-anonymous-functions)
