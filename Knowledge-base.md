@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T20:55:44.399Z
+date: 2023-02-16T21:18:05.563Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1238,7 +1238,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Using Artificial Intelligence (AI) for Fraud Detection](/Knowledge-base/Common/using-artificial-intelligence-ai-for-fraud-detection)
 - [x] [The Future of Artificial Intelligence (AI) in Retail](/Knowledge-base/Common/the-future-of-artificial-intelligence-ai-in-retail)
 - [x] [Building a Recommendation Engine with Machine Learning](/Knowledge-base/Common/building-a-recommendation-engine-with-machine-learning)
-- [ ] How to Create a Virtual Reality (VR) Experience|Common
+- [x] [How to Create a Virtual Reality (VR) Experience](/Knowledge-base/Common/how-to-create-a-virtual-reality-vr-experience)
 - [x] [The Importance of Code Review in Software Development](/Knowledge-base/Common/the-importance-of-code-review-in-software-development)
 - [ ] Using Artificial Intelligence (AI) for Speech Recognition|Common
 - [ ] The Future of Artificial Intelligence (AI) in Transportation|Common
