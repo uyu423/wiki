@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T10:17:35.924Z
+date: 2023-02-16T10:32:29.843Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -700,7 +700,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [034: vararg Functions in Kotlin: Creating Functions that Accept a Variable Number of Arguments](/Knowledge-base/Kotlin/Learning/034-vararg-functions-in-kotlin-creating-functions-that-accept-a-variable-number-of-arguments)
 - [x] [035: Tailrec Functions in Kotlin: Optimizing Recursive Functions](/Knowledge-base/Kotlin/Learning/035-tailrec-functions-in-kotlin-optimizing-recursive-functions)
 - [x] [036: Operator Overloading in Kotlin: Overloading Common Operators for Custom Types](/Knowledge-base/Kotlin/Learning/036-operator-overloading-in-kotlin-overloading-common-operators-for-custom-types)
-- [ ] 037: Inline Functions in Kotlin: Improving Performance with Inlined Functions|Kotlin/Learning
+- [x] [037: Inline Functions in Kotlin: Improving Performance with Inlined Functions](/Knowledge-base/Kotlin/Learning/037-inline-functions-in-kotlin-improving-performance-with-inlined-functions)
 - [x] [038: Reified Types in Kotlin: Accessing Types at Runtime](/Knowledge-base/Kotlin/Learning/038-reified-types-in-kotlin-accessing-types-at-runtime)
 - [ ] 039: Constructors in Kotlin: Initializing Classes with Different Constructors|Kotlin/Learning
 - [ ] 040: Companion Objects in Kotlin: Implementing Static Members|Kotlin/Learning
