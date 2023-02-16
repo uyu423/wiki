@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T04:55:59.774Z
+date: 2023-02-16T05:18:21.459Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -753,7 +753,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 087: Reactive Programming in Kotlin: Writing Reactive Code with Kotlin Flow|Kotlin/Learning
 - [ ] 088: Multiplatform Development in Kotlin: Building Cross-Platform Apps with Kotlin|Kotlin/Learning
 - [ ] 089: DSLs in Kotlin: Creating Domain-Specific Languages with Kotlin|Kotlin/Learning
-- [ ] 090: Annotation Processing in Kotlin: Generating Code at Compile-Time with Annotation Processing|Kotlin/Learning
+- [x] [090: Annotation Processing in Kotlin: Generating Code at Compile-Time with Annotation Processing](/Knowledge-base/Kotlin/Learning/090-annotation-processing-in-kotlin-generating-code-at-compile-time-with-annotation-processing)
 - [ ] 091: The Gradle Build System in Kotlin: Building and Managing Projects with Gradle|Kotlin/Learning
 - [ ] 092: The IntelliJ IDEA in Kotlin: Developing Kotlin Code with the IntelliJ IDEA IDE|Kotlin/Learning
 - [ ] 093: Coroutines in Kotlin: Writing Asynchronous and Non-Blocking Code with Coroutines|Kotlin/Learning
