@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T20:17:59.118Z
+date: 2023-02-16T20:32:35.232Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -722,7 +722,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [056: The When Expression in Kotlin: A Comprehensive Guide](/Knowledge-base/Kotlin/Learning/056-the-when-expression-in-kotlin-a-comprehensive-guide)
 - [x] [057: Exception Handling in Kotlin: Dealing with Errors and Exceptions](/Knowledge-base/Kotlin/Learning/057-exception-handling-in-kotlin-dealing-with-errors-and-exceptions)
 - [x] [058: Data Classes in Kotlin: Simplifying Object Declaration with Automatic Methods](/Knowledge-base/Kotlin/Learning/058-data-classes-in-kotlin-simplifying-object-declaration-with-automatic-methods)
-- [ ] 059: The Builder Pattern in Kotlin: Creating Complex Objects with a Clear Syntax|Kotlin/Learning
+- [x] [059: The Builder Pattern in Kotlin: Creating Complex Objects with a Clear Syntax](/Knowledge-base/Kotlin/Learning/059-the-builder-pattern-in-kotlin-creating-complex-objects-with-a-clear-syntax)
 - [ ] 060: Interoperability with Java in Kotlin: Working Seamlessly with Java Code|Kotlin/Learning
 - [ ] 061: The Factory Method Pattern in Kotlin: Creating Objects with a Factory Method|Kotlin/Learning
 - [ ] 062: The Singleton Pattern in Kotlin: Ensuring Only One Instance of a Class Exists|Kotlin/Learning
