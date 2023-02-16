@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T11:17:35.908Z
+date: 2023-02-16T11:32:57.972Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -702,7 +702,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [036: Operator Overloading in Kotlin: Overloading Common Operators for Custom Types](/Knowledge-base/Kotlin/Learning/036-operator-overloading-in-kotlin-overloading-common-operators-for-custom-types)
 - [x] [037: Inline Functions in Kotlin: Improving Performance with Inlined Functions](/Knowledge-base/Kotlin/Learning/037-inline-functions-in-kotlin-improving-performance-with-inlined-functions)
 - [x] [038: Reified Types in Kotlin: Accessing Types at Runtime](/Knowledge-base/Kotlin/Learning/038-reified-types-in-kotlin-accessing-types-at-runtime)
-- [ ] 039: Constructors in Kotlin: Initializing Classes with Different Constructors|Kotlin/Learning
+- [x] [039: Constructors in Kotlin: Initializing Classes with Different Constructors](/Knowledge-base/Kotlin/Learning/039-constructors-in-kotlin-initializing-classes-with-different-constructors)
 - [ ] 040: Companion Objects in Kotlin: Implementing Static Members|Kotlin/Learning
 - [x] [041: Object Declarations in Kotlin: Creating Singleton Instances](/Knowledge-base/Kotlin/Learning/041-object-declarations-in-kotlin-creating-singleton-instances)
 - [x] [042: Sealed Classes in Kotlin: Restricting Class Hierarchies](/Knowledge-base/Kotlin/Learning/042-sealed-classes-in-kotlin-restricting-class-hierarchies)
