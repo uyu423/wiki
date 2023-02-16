@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T13:32:37.493Z
+date: 2023-02-16T13:56:15.495Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1239,7 +1239,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Future of Artificial Intelligence (AI) in Retail](/Knowledge-base/Common/the-future-of-artificial-intelligence-ai-in-retail)
 - [x] [Building a Recommendation Engine with Machine Learning](/Knowledge-base/Common/building-a-recommendation-engine-with-machine-learning)
 - [ ] How to Create a Virtual Reality (VR) Experience|Common
-- [ ] The Importance of Code Review in Software Development|Common
+- [x] [The Importance of Code Review in Software Development](/Knowledge-base/Common/the-importance-of-code-review-in-software-development)
 - [ ] Using Artificial Intelligence (AI) for Speech Recognition|Common
 - [ ] The Future of Artificial Intelligence (AI) in Transportation|Common
 - [ ] Building a Virtual Assistant with AI|Common
