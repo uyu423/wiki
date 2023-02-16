@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T07:33:05.956Z
+date: 2023-02-16T07:55:58.989Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1891,7 +1891,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Employee Referral Program](/Knowledge-base/Dictionary/employee-referral-program)
 - [x] [Employee Recognition](/Knowledge-base/Dictionary/employee-recognition)
 - [x] [Employee Training and Development](/Knowledge-base/Dictionary/employee-training-and-development)
-- [ ] Organizational Culture|Dictionary
+- [x] [Organizational Culture](/Knowledge-base/Dictionary/organizational-culture)
 - [ ] Employee Satisfaction Survey|Dictionary
 
 ## Company
