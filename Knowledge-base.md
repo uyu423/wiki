@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T02:56:33.623Z
+date: 2023-02-16T03:17:49.375Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1138,7 +1138,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 090: Email Marketing|Software-Development/Learning
 - [ ] Software Development 091: Influencer Marketing|Software-Development/Learning
 - [x] [Software Development 092: Affiliate Marketing](/Knowledge-base/Software-Development/Learning/software-development-092-affiliate-marketing)
-- [ ] Software Development 093: E-Commerce|Software-Development/Learning
+- [x] [Software Development 093: E-Commerce](/Knowledge-base/Software-Development/Learning/software-development-093-e-commerce)
 - [ ] Software Development 094: Payment Gateway Integration|Software-Development/Learning
 - [ ] Software Development 095: Order Management|Software-Development/Learning
 - [ ] Software Development 096: Inventory Management|Software-Development/Learning
