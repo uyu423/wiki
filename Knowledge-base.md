@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T19:32:34.410Z
+date: 2023-02-16T19:55:54.209Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1498,7 +1498,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Systems Architecture](/Knowledge-base/Dictionary/systems-architecture)
 - [ ] Database Management|Dictionary
 - [x] [Network Engineering](/Knowledge-base/Dictionary/network-engineering)
-- [ ] Quality Assurance|Dictionary
+- [x] [Quality Assurance](/Knowledge-base/Dictionary/quality-assurance)
 - [x] [Project Management](/Knowledge-base/Dictionary/project-management)
 - [x] [Business Analysis](/Knowledge-base/Dictionary/business-analysis)
 - [x] [Business Intelligence](/Knowledge-base/Dictionary/business-intelligence)
