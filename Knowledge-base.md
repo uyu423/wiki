@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T17:18:23.187Z
+date: 2023-02-16T17:33:16.412Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -714,7 +714,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [048: The Elvis Operator in Kotlin: Dealing with Null Values in a Compact Way](/Knowledge-base/Kotlin/Learning/048-the-elvis-operator-in-kotlin-dealing-with-null-values-in-a-compact-way)
 - [x] [049: Higher-Order Functions and Lambdas in Kotlin: Understanding Closures and Function Types](/Knowledge-base/Kotlin/Learning/049-higher-order-functions-and-lambdas-in-kotlin-understanding-closures-and-function-types)
 - [x] [050: Design Patterns in Kotlin: Applying Common Design Patterns to Your Code.](/Knowledge-base/Kotlin/Learning/050-design-patterns-in-kotlin-applying-common-design-patterns-to-your-code-)
-- [ ] 051: The Kotlin Standard Library: Utilizing the Built-in Functions and Classes|Kotlin/Learning
+- [x] [051: The Kotlin Standard Library: Utilizing the Built-in Functions and Classes](/Knowledge-base/Kotlin/Learning/051-the-kotlin-standard-library-utilizing-the-built-in-functions-and-classes)
 - [x] [052: Nullability and Null Safety in Kotlin: Managing Null Values in Your Code](/Knowledge-base/Kotlin/Learning/052-nullability-and-null-safety-in-kotlin-managing-null-values-in-your-code)
 - [x] [053: Collection Operations in Kotlin: Sorting, Filtering, and Transforming Collections](/Knowledge-base/Kotlin/Learning/053-collection-operations-in-kotlin-sorting-filtering-and-transforming-collections)
 - [ ] 054: Functions as First-Class Citizens in Kotlin: Understanding Higher-Order Functions|Kotlin/Learning
