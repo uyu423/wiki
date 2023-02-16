@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T18:33:04.682Z
+date: 2023-02-16T18:55:48.409Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1280,7 +1280,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 - [x] [The Benefits of Using the Memory Mapped File API](/Knowledge-base/Java/the-benefits-of-using-the-memory-mapped-file-api)
 - [x] [Understanding Java's Concurrent Mark Sweep Garbage Collector](/Knowledge-base/Java/understanding-java-s-concurrent-mark-sweep-garbage-collector)
-- [ ] Working with the Java Virtual Machine Tool Interface (JVMTI)|Java
+- [x] [Working with the Java Virtual Machine Tool Interface (JVMTI)](/Knowledge-base/Java/working-with-the-java-virtual-machine-tool-interface-jvmti)
 - [x] [Java's Low-Pause Garbage Collectors: Understanding G1GC](/Knowledge-base/Java/java-s-low-pause-garbage-collectors-understanding-g1gc)
 - [x] [Exploring the Java Native Interface (JNI) for Interoperability](/Knowledge-base/Java/exploring-the-java-native-interface-jni-for-interoperability)
 - [ ] Deep Dive into Java's System Class Loader|Java
