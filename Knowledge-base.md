@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T16:32:57.077Z
+date: 2023-02-16T16:56:10.389Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1588,7 +1588,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Mobile Application Security|Dictionary
 - [ ] Security Auditing|Dictionary
 - [ ] Vulnerability Scanning|Dictionary
-- [ ] Cybercrime|Dictionary
+- [x] [Cybercrime](/Knowledge-base/Dictionary/cybercrime)
 - [ ] Malware|Dictionary
 - [ ] Phishing|Dictionary
 - [x] [Spoofing](/Knowledge-base/Dictionary/spoofing)
