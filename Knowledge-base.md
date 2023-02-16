@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T05:55:41.425Z
+date: 2023-02-16T06:17:27.063Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -812,7 +812,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Kotlin and the Cloud: Advanced Topics and Best Practices|Kotlin
 - [ ] Kotlin REST API Design: Best Practices|Kotlin
 - [x] [Kotlin and Web Development: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-web-development-advanced-topics-and-best-practices)
-- [ ] Kotlin Microservices Architecture: Best Practices|Kotlin
+- [x] [Kotlin Microservices Architecture: Best Practices](/Knowledge-base/Kotlin/kotlin-microservices-architecture-best-practices)
 - [x] [Kotlin MVC Architecture: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-mvc-architecture-advanced-topics-and-best-practices)
 - [x] [Kotlin and Spring Boot: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-spring-boot-advanced-topics-and-best-practices)
 - [x] [Kotlin and Spring Data: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-spring-data-advanced-topics-and-best-practices)
