@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T09:55:52.229Z
+date: 2023-02-16T10:17:35.924Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -942,7 +942,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Resource Allocation and Scheduling in Backend Development|Backend
 - [x] [Managing Clusters for High Availability](/Knowledge-base/Backend/managing-clusters-for-high-availability)
 - [x] [Service Discovery in Microservice Architecture](/Knowledge-base/Backend/service-discovery-in-microservice-architecture)
-- [ ] Task Orchestration for Improved Workflow Management|Backend
+- [x] [Task Orchestration for Improved Workflow Management](/Knowledge-base/Backend/task-orchestration-for-improved-workflow-management)
 - [x] [gRPC for High-Performance Communication in Backend Development](/Knowledge-base/Backend/grpc-for-high-performance-communication-in-backend-development)
 - [x] [Understanding Graph Databases for Better Data Management](/Knowledge-base/Backend/understanding-graph-databases-for-better-data-management)
 - [x] [Building Event-Driven Architecture in Infrastructure Development](/Knowledge-base/Backend/building-event-driven-architecture-in-infrastructure-development)
