@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T22:55:34.920Z
+date: 2023-02-16T23:17:44.601Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1459,7 +1459,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Micro Architecture](/Knowledge-base/Dictionary/micro-architecture)
 - [x] [CPU](/Knowledge-base/Dictionary/cpu)
 - [ ] Ryzen CPU|Dictionary
-- [ ] USB|Dictionary
+- [x] [USB](/Knowledge-base/Dictionary/usb)
 - [ ] bash|Dictionary
 - [x] [zsh](/Knowledge-base/Dictionary/zsh)
 - [x] [Jenkins](/Knowledge-base/Dictionary/jenkins)
