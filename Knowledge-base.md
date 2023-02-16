@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T19:55:54.209Z
+date: 2023-02-16T20:17:59.118Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1883,7 +1883,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Succession Planning](/Knowledge-base/Dictionary/succession-planning)
 - [ ] Employee Engagement|Dictionary
 - [x] [Employee Retention](/Knowledge-base/Dictionary/employee-retention)
-- [ ] Employee Benefits|Dictionary
+- [x] [Employee Benefits](/Knowledge-base/Dictionary/employee-benefits)
 - [ ] Health Insurance|Dictionary
 - [x] [Life Insurance](/Knowledge-base/Dictionary/life-insurance)
 - [x] [Retirement Plans](/Knowledge-base/Dictionary/retirement-plans)
