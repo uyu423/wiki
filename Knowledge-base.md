@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T17:33:16.412Z
+date: 2023-02-16T17:56:00.825Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1109,7 +1109,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 061: Distributed Systems](/Knowledge-base/Software-Development/Learning/software-development-061-distributed-systems)
 - [ ] Software Development 062: Containerization with Docker|Software-Development/Learning
 - [x] [Software Development 063: Kubernetes and Cluster Management](/Knowledge-base/Software-Development/Learning/software-development-063-kubernetes-and-cluster-management)
-- [ ] Software Development 064: Serverless Architecture|Software-Development/Learning
+- [x] [Software Development 064: Serverless Architecture](/Knowledge-base/Software-Development/Learning/software-development-064-serverless-architecture)
 - [ ] Software Development 065: High Performance Computing (HPC)|Software-Development/Learning
 - [x] [Software Development 066: Real-Time Analytics](/Knowledge-base/Software-Development/Learning/software-development-066-real-time-analytics)
 - [ ] Software Development 067: Streaming Analytics|Software-Development/Learning
