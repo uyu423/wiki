@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T14:32:27.513Z
+date: 2023-02-16T14:55:40.264Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1073,7 +1073,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 025: GraphQL](/Knowledge-base/Software-Development/Learning/software-development-025-graphql)
 - [x] [Software Development 026: Microservices Architecture](/Knowledge-base/Software-Development/Learning/software-development-026-microservices-architecture)
 - [ ] Software Development 027: Machine Learning and Artificial Intelligence|Software-Development/Learning
-- [ ] Software Development 028: Neural Networks|Software-Development/Learning
+- [x] [Software Development 028: Neural Networks](/Knowledge-base/Software-Development/Learning/software-development-028-neural-networks)
 - [ ] Software Development 029: Computer Vision|Software-Development/Learning
 - [x] [Software Development 030: Natural Language Processing (NLP)](/Knowledge-base/Software-Development/Learning/software-development-030-natural-language-processing-nlp)
 - [ ] Software Development 031: Predictive Analytics|Software-Development/Learning
