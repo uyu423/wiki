@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T18:17:43.316Z
+date: 2023-02-16T18:33:04.682Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -717,7 +717,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [051: The Kotlin Standard Library: Utilizing the Built-in Functions and Classes](/Knowledge-base/Kotlin/Learning/051-the-kotlin-standard-library-utilizing-the-built-in-functions-and-classes)
 - [x] [052: Nullability and Null Safety in Kotlin: Managing Null Values in Your Code](/Knowledge-base/Kotlin/Learning/052-nullability-and-null-safety-in-kotlin-managing-null-values-in-your-code)
 - [x] [053: Collection Operations in Kotlin: Sorting, Filtering, and Transforming Collections](/Knowledge-base/Kotlin/Learning/053-collection-operations-in-kotlin-sorting-filtering-and-transforming-collections)
-- [ ] 054: Functions as First-Class Citizens in Kotlin: Understanding Higher-Order Functions|Kotlin/Learning
+- [x] [054: Functions as First-Class Citizens in Kotlin: Understanding Higher-Order Functions](/Knowledge-base/Kotlin/Learning/054-functions-as-first-class-citizens-in-kotlin-understanding-higher-order-functions)
 - [ ] 055: Delegation in Kotlin: Implementing Delegation Patterns with Delegated Properties|Kotlin/Learning
 - [ ] 056: The When Expression in Kotlin: A Comprehensive Guide|Kotlin/Learning
 - [x] [057: Exception Handling in Kotlin: Dealing with Errors and Exceptions](/Knowledge-base/Kotlin/Learning/057-exception-handling-in-kotlin-dealing-with-errors-and-exceptions)
