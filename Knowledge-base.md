@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T14:55:40.264Z
+date: 2023-02-16T15:18:48.039Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1509,7 +1509,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Digital Transformation](/Knowledge-base/Dictionary/digital-transformation)
 - [ ] Enterprise Architecture|Dictionary
 - [ ] User Experience|Dictionary
-- [ ] Business Process Automation|Dictionary
+- [x] [Business Process Automation](/Knowledge-base/Dictionary/business-process-automation)
 - [ ] Information Architecture|Dictionary
 - [x] [Content Management](/Knowledge-base/Dictionary/content-management)
 - [x] [Service Design](/Knowledge-base/Dictionary/service-design)
