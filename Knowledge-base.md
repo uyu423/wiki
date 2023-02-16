@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T07:55:58.989Z
+date: 2023-02-16T08:17:57.662Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1483,7 +1483,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Lean Startup|Dictionary
 - [x] [SaaS](/Knowledge-base/Dictionary/saas)
 - [x] [PaaS](/Knowledge-base/Dictionary/paas)
-- [ ] IaaS|Dictionary
+- [x] [IaaS](/Knowledge-base/Dictionary/iaas)
 - [ ] API|Dictionary
 - [ ] CI/CD|Dictionary
 - [x] [Code Review](/Knowledge-base/Dictionary/code-review)
