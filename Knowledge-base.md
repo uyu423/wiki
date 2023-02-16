@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T13:19:34.074Z
+date: 2023-02-16T13:32:37.493Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -706,7 +706,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [040: Companion Objects in Kotlin: Implementing Static Members](/Knowledge-base/Kotlin/Learning/040-companion-objects-in-kotlin-implementing-static-members)
 - [x] [041: Object Declarations in Kotlin: Creating Singleton Instances](/Knowledge-base/Kotlin/Learning/041-object-declarations-in-kotlin-creating-singleton-instances)
 - [x] [042: Sealed Classes in Kotlin: Restricting Class Hierarchies](/Knowledge-base/Kotlin/Learning/042-sealed-classes-in-kotlin-restricting-class-hierarchies)
-- [ ] 043: Nested and Inner Classes in Kotlin: Creating Classes within Classes|Kotlin/Learning
+- [x] [043: Nested and Inner Classes in Kotlin: Creating Classes within Classes](/Knowledge-base/Kotlin/Learning/043-nested-and-inner-classes-in-kotlin-creating-classes-within-classes)
 - [x] [044: Anonymous Inner Classes in Kotlin: Creating Classes Without Names](/Knowledge-base/Kotlin/Learning/044-anonymous-inner-classes-in-kotlin-creating-classes-without-names)
 - [x] [045: Local Functions in Kotlin: Creating Functions Within Functions](/Knowledge-base/Kotlin/Learning/045-local-functions-in-kotlin-creating-functions-within-functions)
 - [x] [046: SAM (Single Abstract Method) Interfaces in Kotlin: Converting Java Interfaces to Kotlin Interfaces](/Knowledge-base/Kotlin/Learning/046-sam-single-abstract-method-interfaces-in-kotlin-converting-java-interfaces-to-kotlin-interfaces)
