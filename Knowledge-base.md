@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T08:32:44.248Z
+date: 2023-02-16T08:56:28.027Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1720,7 +1720,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Federation](/Knowledge-base/Dictionary/federation)
 - [x] [Directory Services](/Knowledge-base/Dictionary/directory-services)
 - [x] [LDAP](/Knowledge-base/Dictionary/ldap)
-- [ ] Active Directory|Dictionary
+- [x] [Active Directory](/Knowledge-base/Dictionary/active-directory)
 - [x] [Domain Name System](/Knowledge-base/Dictionary/domain-name-system)
 - [ ] DHCP|Dictionary
 - [x] [IP Addressing](/Knowledge-base/Dictionary/ip-addressing)
