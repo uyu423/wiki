@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T02:32:29.944Z
+date: 2023-02-16T02:56:33.623Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1942,7 +1942,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [HCL Technologies Limited (India)](/Knowledge-base/Dictionary/Company/hcl-technologies-limited-india)
 - [x] [Tata Consultancy Services (TCS) (India)](/Knowledge-base/Dictionary/Company/tata-consultancy-services-tcs-india)
 - [x] [Lenovo Group Limited (China)](/Knowledge-base/Dictionary/Company/lenovo-group-limited-china)
-- [ ] Hitachi, Ltd. (Japan)|Dictionary/Company
+- [x] [Hitachi, Ltd. (Japan)](/Knowledge-base/Dictionary/Company/hitachi-ltd-japan)
 - [x] [Fujitsu Limited (Japan)](/Knowledge-base/Dictionary/Company/fujitsu-limited-japan)
 - [x] [NEC Corporation (Japan)](/Knowledge-base/Dictionary/Company/nec-corporation-japan)
 - [x] [NTT Data Corporation (Japan)](/Knowledge-base/Dictionary/Company/ntt-data-corporation-japan)
