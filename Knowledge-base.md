@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T16:56:10.389Z
+date: 2023-02-16T17:18:23.187Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1539,7 +1539,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Data Backup|Dictionary
 - [x] [Data Recovery](/Knowledge-base/Dictionary/data-recovery)
 - [x] [Virtualization](/Knowledge-base/Dictionary/virtualization)
-- [ ] Cloud Migration|Dictionary
+- [x] [Cloud Migration](/Knowledge-base/Dictionary/cloud-migration)
 - [x] [Cloud Security](/Knowledge-base/Dictionary/cloud-security)
 - [x] [Cloud Computing Services](/Knowledge-base/Dictionary/cloud-computing-services)
 - [x] [Infrastructure as a Service](/Knowledge-base/Dictionary/infrastructure-as-a-service)
