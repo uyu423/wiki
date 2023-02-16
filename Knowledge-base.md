@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T06:55:48.816Z
+date: 2023-02-16T07:18:05.312Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1605,7 +1605,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Trojan](/Knowledge-base/Dictionary/trojan)
 - [x] [Virus](/Knowledge-base/Dictionary/virus)
 - [x] [Spyware](/Knowledge-base/Dictionary/spyware)
-- [ ] Adware|Dictionary
+- [x] [Adware](/Knowledge-base/Dictionary/adware)
 - [x] [Root Access](/Knowledge-base/Dictionary/root-access)
 - [ ] Operating System|Dictionary
 - [x] [Linux](/Knowledge-base/Dictionary/linux)
