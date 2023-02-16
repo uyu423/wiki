@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T00:18:00.352Z
+date: 2023-02-16T00:33:08.495Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -665,7 +665,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 ## Kotlin/Learnin
 
 - [x] [001: Introduction to Kotlin: An Overview of the Language](/Knowledge-base/Kotlin/Learning/001-introduction-to-kotlin-an-overview-of-the-language)
-- [ ] 002: Getting Started with Kotlin: Setting up Your Development Environment|Kotlin/Learning
+- [x] [002: Getting Started with Kotlin: Setting up Your Development Environment](/Knowledge-base/Kotlin/Learning/002-getting-started-with-kotlin-setting-up-your-development-environment)
 - [x] [003: Kotlin Basics: Variables, Data Types, and Operators](/Knowledge-base/Kotlin/Learning/003-kotlin-basics-variables-data-types-and-operators)
 - [ ] 004: Control Flow in Kotlin: if-else Statements, Loops, and When Expressions|Kotlin/Learning
 - [ ] 005: Functions in Kotlin: Defining, Calling, and Returning Values|Kotlin/Learning
