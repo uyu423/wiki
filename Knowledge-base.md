@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T06:17:27.063Z
+date: 2023-02-16T06:33:37.925Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -683,7 +683,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [017: Generics in Kotlin: Writing Reusable Code with Type Parameters](/Knowledge-base/Kotlin/Learning/017-generics-in-kotlin-writing-reusable-code-with-type-parameters)
 - [x] [018: Companion Objects in Kotlin: Static Members in Classes](/Knowledge-base/Kotlin/Learning/018-companion-objects-in-kotlin-static-members-in-classes)
 - [x] [019: Data Classes in Kotlin: Automatically Generating Equals, HashCode, and ToString Methods](/Knowledge-base/Kotlin/Learning/019-data-classes-in-kotlin-automatically-generating-equals-hashcode-and-tostring-methods)
-- [ ] 020: Delegated Properties in Kotlin: Implementing Delegation Patterns|Kotlin/Learning
+- [x] [020: Delegated Properties in Kotlin: Implementing Delegation Patterns](/Knowledge-base/Kotlin/Learning/020-delegated-properties-in-kotlin-implementing-delegation-patterns)
 - [x] [021: Annotation Processing in Kotlin: Generating Code at Compile Time](/Knowledge-base/Kotlin/Learning/021-annotation-processing-in-kotlin-generating-code-at-compile-time)
 - [x] [022: Reflection in Kotlin: Reflecting on Classes, Properties, and Functions at Runtime](/Knowledge-base/Kotlin/Learning/022-reflection-in-kotlin-reflecting-on-classes-properties-and-functions-at-runtime)
 - [x] [023: Type Aliases in Kotlin: Shortening Long Class Names](/Knowledge-base/Kotlin/Learning/023-type-aliases-in-kotlin-shortening-long-class-names)
