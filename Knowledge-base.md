@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T03:32:55.759Z
+date: 2023-02-16T03:56:02.763Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1403,7 +1403,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Spark](/Knowledge-base/Dictionary/spark)
 - [x] [TensorFlow](/Knowledge-base/Dictionary/tensorflow)
 - [ ] PyTorch|Dictionary
-- [ ] Keras|Dictionary
+- [x] [Keras](/Knowledge-base/Dictionary/keras)
 - [ ] Scikit-learn|Dictionary
 - [x] [Pandas](/Knowledge-base/Dictionary/pandas)
 - [x] [Numpy](/Knowledge-base/Dictionary/numpy)
