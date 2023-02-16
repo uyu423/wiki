@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T08:17:57.662Z
+date: 2023-02-16T08:32:44.248Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -688,7 +688,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [022: Reflection in Kotlin: Reflecting on Classes, Properties, and Functions at Runtime](/Knowledge-base/Kotlin/Learning/022-reflection-in-kotlin-reflecting-on-classes-properties-and-functions-at-runtime)
 - [x] [023: Type Aliases in Kotlin: Shortening Long Class Names](/Knowledge-base/Kotlin/Learning/023-type-aliases-in-kotlin-shortening-long-class-names)
 - [x] [024: Enumerations in Kotlin: Creating Lists of Named Values](/Knowledge-base/Kotlin/Learning/024-enumerations-in-kotlin-creating-lists-of-named-values)
-- [ ] 025: Type Inference in Kotlin: Letting the Compiler Infer Types|Kotlin/Learning
+- [x] [025: Type Inference in Kotlin: Letting the Compiler Infer Types](/Knowledge-base/Kotlin/Learning/025-type-inference-in-kotlin-letting-the-compiler-infer-types)
 - [x] [026: Advanced Control Flow in Kotlin: Understanding the with and apply Functions](/Knowledge-base/Kotlin/Learning/026-advanced-control-flow-in-kotlin-understanding-the-with-and-apply-functions)
 - [x] [027: Destructuring Declarations in Kotlin: Breaking Down Complex Objects into Variables](/Knowledge-base/Kotlin/Learning/027-destructuring-declarations-in-kotlin-breaking-down-complex-objects-into-variables)
 - [x] [028: Infix Functions in Kotlin: Calling Functions Like Operators](/Knowledge-base/Kotlin/Learning/028-infix-functions-in-kotlin-calling-functions-like-operators)
