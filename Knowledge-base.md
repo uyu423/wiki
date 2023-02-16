@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T09:17:51.847Z
+date: 2023-02-16T09:32:34.606Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -698,7 +698,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [032: Raw Strings in Kotlin: Creating Multi-Line Strings Without Escaping](/Knowledge-base/Kotlin/Learning/032-raw-strings-in-kotlin-creating-multi-line-strings-without-escaping)
 - [x] [033: Default and Named Arguments in Kotlin: Providing Default Values and Named Parameters](/Knowledge-base/Kotlin/Learning/033-default-and-named-arguments-in-kotlin-providing-default-values-and-named-parameters)
 - [x] [034: vararg Functions in Kotlin: Creating Functions that Accept a Variable Number of Arguments](/Knowledge-base/Kotlin/Learning/034-vararg-functions-in-kotlin-creating-functions-that-accept-a-variable-number-of-arguments)
-- [ ] 035: Tailrec Functions in Kotlin: Optimizing Recursive Functions|Kotlin/Learning
+- [x] [035: Tailrec Functions in Kotlin: Optimizing Recursive Functions](/Knowledge-base/Kotlin/Learning/035-tailrec-functions-in-kotlin-optimizing-recursive-functions)
 - [x] [036: Operator Overloading in Kotlin: Overloading Common Operators for Custom Types](/Knowledge-base/Kotlin/Learning/036-operator-overloading-in-kotlin-overloading-common-operators-for-custom-types)
 - [ ] 037: Inline Functions in Kotlin: Improving Performance with Inlined Functions|Kotlin/Learning
 - [x] [038: Reified Types in Kotlin: Accessing Types at Runtime](/Knowledge-base/Kotlin/Learning/038-reified-types-in-kotlin-accessing-types-at-runtime)
