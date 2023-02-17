@@ -2,7 +2,7 @@
 title: Git Interactive Rebase
 description: 
 published: true
-date: 2023-02-17T17:19:33.517Z
+date: 2023-02-17T17:20:55.676Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:19:33.517Z
@@ -35,10 +35,6 @@ git rebase -i master
 This will open a text editor with a list of all the commits in the branch history. You can edit the actions to selectively remove, reorder, or combine commits as needed. For example, you can combine two commits by changing the action for the second commit to `squash`. This will combine the changes made in that commit with the previous commit.
 
 Once you have made the necessary changes, save and exit the text editor. This will re-write the branch history with the changes you made.
-
-## Conclusion
-
-Git interactive rebase is a powerful tool for maintaining a clean and organized Git history. It allows you to selectively edit, delete, or reorder commits in a branch history. However, it should be used carefully, especially if the branch history has already been shared with others. It's important to understand the potential risks and benefits of using Git interactive rebase before incorporating it into your workflow.
 
 > - Interactive rebase can be a powerful tool for maintaining a clean and organized Git history, but it should be used with caution.
 > - Changing the commit history of a shared branch can create confusion and issues for other team members.
