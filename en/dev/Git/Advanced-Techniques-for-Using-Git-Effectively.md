@@ -2,7 +2,7 @@
 title: Advanced Techniques for Using Git Effectively
 description: 
 published: true
-date: 2023-02-17T17:13:28.377Z
+date: 2023-02-17T17:22:41.019Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:13:28.377Z
@@ -22,17 +22,7 @@ To rebase a branch, use the following command:
 git rebase <new-base>
 ```
 
-## 2. Cherry-picking
-
-Cherry-picking is a technique for applying individual commits from one branch to another. This can be useful when you want to incorporate a specific change from one branch into another without merging the entire branch.
-
-To cherry-pick a commit, use the following command:
-
-```
-git cherry-pick <commit-hash>
-```
-
-## 3. Interactive Rebase
+## 2. Interactive Rebase
 
 Interactive rebase is a more advanced form of rebasing that allows you to selectively edit, delete, or reorder commits in a branch history. This can be useful for cleaning up commit messages, combining related commits, or removing unnecessary changes.
 
@@ -40,6 +30,16 @@ To start an interactive rebase, use the following command:
 
 ```
 git rebase -i <new-base>
+```
+
+## 3. Cherry-picking
+
+Cherry-picking is a technique for applying individual commits from one branch to another. This can be useful when you want to incorporate a specific change from one branch into another without merging the entire branch.
+
+To cherry-pick a commit, use the following command:
+
+```
+git cherry-pick <commit-hash>
 ```
 
 ## 4. Stash
