@@ -2,7 +2,7 @@
 title: Git Reflog
 description: 
 published: true
-date: 2023-02-17T17:22:03.886Z
+date: 2023-02-17T17:28:15.345Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:22:03.886Z
@@ -45,3 +45,5 @@ This will create a new branch at the lost commit, allowing you to recover the ch
 > - Reflog can be a powerful tool for recovering lost commits or branches, but it should be used with caution.
 > - Changing the commit history of a shared branch can create confusion and issues for other team members.
 > - It's important to understand the potential risks and benefits of using Git reflog before incorporating it into your workflow.
+
+![git-logo.png](/git-logo.png){.align-center}
