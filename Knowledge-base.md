@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T16:06:23.398Z
+date: 2023-02-17T16:32:52.180Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -162,7 +162,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [017: Implementing memoization in functional JavaScript applications](/Knowledge-base/Functional_JavaScript/Learning/017-implementing-memoization-in-functional-javascript-applications)
 - [x] [018: How to use functional programming to solve algorithmic problems in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/018-how-to-use-functional-programming-to-solve-algorithmic-problems-in-javascript)
 - [x] [019: Best practices for testing functional JavaScript code](/Knowledge-base/Functional_JavaScript/Learning/019-best-practices-for-testing-functional-javascript-code)
-- [ ] 020: Understanding the role of types in functional programming with JavaScript|Functional_JavaScript/Learning
+- [x] [020: Understanding the role of types in functional programming with JavaScript](/Knowledge-base/Functional_JavaScript/Learning/020-understanding-the-role-of-types-in-functional-programming-with-javascript)
 - [ ] 021: The difference between synchronous and asynchronous programming in functional JavaScript|Functional_JavaScript/Learning
 - [ ] 022: An introduction to monads in functional programming with JavaScript|Functional_JavaScript/Learning
 - [ ] 023: Building reactive user interfaces with functional programming in JavaScript|Functional_JavaScript/Learning
