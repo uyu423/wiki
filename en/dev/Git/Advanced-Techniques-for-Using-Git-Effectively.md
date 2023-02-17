@@ -2,7 +2,7 @@
 title: Advanced Techniques for Using Git Effectively
 description: 
 published: true
-date: 2023-02-17T17:25:12.978Z
+date: 2023-02-17T17:27:42.621Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:13:28.377Z
@@ -83,3 +83,5 @@ git reflog
 
 - [Git Reflog*wiki.yowu.dev*](/en/dev/Git/git-reflog)
 {.links-list}
+
+![git-logo.png](/git-logo.png){.align-center}
