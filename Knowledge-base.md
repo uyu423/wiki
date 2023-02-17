@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T17:06:47.264Z
+date: 2023-02-17T17:32:28.771Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -164,7 +164,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [019: Best practices for testing functional JavaScript code](/Knowledge-base/Functional_JavaScript/Learning/019-best-practices-for-testing-functional-javascript-code)
 - [x] [020: Understanding the role of types in functional programming with JavaScript](/Knowledge-base/Functional_JavaScript/Learning/020-understanding-the-role-of-types-in-functional-programming-with-javascript)
 - [x] [021: The difference between synchronous and asynchronous programming in functional JavaScript](/Knowledge-base/Functional_JavaScript/Learning/021-the-difference-between-synchronous-and-asynchronous-programming-in-functional-javascript)
-- [ ] 022: An introduction to monads in functional programming with JavaScript|Functional_JavaScript/Learning
+- [x] [022: An introduction to monads in functional programming with JavaScript](/Knowledge-base/Functional_JavaScript/Learning/022-an-introduction-to-monads-in-functional-programming-with-javascript)
 - [ ] 023: Building reactive user interfaces with functional programming in JavaScript|Functional_JavaScript/Learning
 - [ ] 024: A practical guide to using the Maybe monad in functional JavaScript|Functional_JavaScript/Learning
 - [ ] 025: Understanding the importance of composition over inheritance in functional JavaScript.|Functional_JavaScript/Learning
