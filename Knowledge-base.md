@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T04:18:34.275Z
+date: 2023-02-17T04:33:40.599Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -734,7 +734,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [068: The Facade Pattern in Kotlin: Providing a Simple Interface to Complex Systems](/Knowledge-base/Kotlin/Learning/068-the-facade-pattern-in-kotlin-providing-a-simple-interface-to-complex-systems)
 - [x] [069: The Command Pattern in Kotlin: Encapsulating Invocations as Objects](/Knowledge-base/Kotlin/Learning/069-the-command-pattern-in-kotlin-encapsulating-invocations-as-objects)
 - [x] [070: The State Pattern in Kotlin: Managing Object States with State Transitions](/Knowledge-base/Kotlin/Learning/070-the-state-pattern-in-kotlin-managing-object-states-with-state-transitions)
-- [ ] 071: The Chain of Responsibility Pattern in Kotlin: Delegating Requests Through a Chain of Objects|Kotlin/Learning
+- [x] [071: The Chain of Responsibility Pattern in Kotlin: Delegating Requests Through a Chain of Objects](/Knowledge-base/Kotlin/Learning/071-the-chain-of-responsibility-pattern-in-kotlin-delegating-requests-through-a-chain-of-objects)
 - [x] [072: The Mediator Pattern in Kotlin: Encapsulating Object Communication](/Knowledge-base/Kotlin/Learning/072-the-mediator-pattern-in-kotlin-encapsulating-object-communication)
 - [x] [073: The Flyweight Pattern in Kotlin: Sharing Object Instances to Save Memory](/Knowledge-base/Kotlin/Learning/073-the-flyweight-pattern-in-kotlin-sharing-object-instances-to-save-memory)
 - [x] [074: The Proxy Pattern in Kotlin: Providing a Surrogate or Placeholder for Another Object](/Knowledge-base/Kotlin/Learning/074-the-proxy-pattern-in-kotlin-providing-a-surrogate-or-placeholder-for-another-object)
