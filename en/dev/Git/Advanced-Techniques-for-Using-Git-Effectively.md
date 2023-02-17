@@ -2,7 +2,7 @@
 title: Advanced Techniques for Using Git Effectively
 description: 
 published: true
-date: 2023-02-17T17:22:41.019Z
+date: 2023-02-17T17:25:12.978Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:13:28.377Z
@@ -22,6 +22,9 @@ To rebase a branch, use the following command:
 git rebase <new-base>
 ```
 
+- [Git Rebase*wiki.yowu.dev*](/en/dev/Git/git-rebase)
+{.links-list}
+
 ## 2. Interactive Rebase
 
 Interactive rebase is a more advanced form of rebasing that allows you to selectively edit, delete, or reorder commits in a branch history. This can be useful for cleaning up commit messages, combining related commits, or removing unnecessary changes.
@@ -32,6 +35,10 @@ To start an interactive rebase, use the following command:
 git rebase -i <new-base>
 ```
 
+- [Git Interactive Rebase*wiki.yowu.dev*](/en/dev/Git/git-interactive-rebase)
+{.links-list}
+
+
 ## 3. Cherry-picking
 
 Cherry-picking is a technique for applying individual commits from one branch to another. This can be useful when you want to incorporate a specific change from one branch into another without merging the entire branch.
@@ -41,6 +48,9 @@ To cherry-pick a commit, use the following command:
 ```
 git cherry-pick <commit-hash>
 ```
+
+- [Git Cherry-pick*wiki.yowu.dev*](/en/dev/Git/git-cherry-pick)
+{.links-list}
 
 ## 4. Stash
 
@@ -58,6 +68,9 @@ To apply stashed changes, use the following command:
 git stash apply
 ```
 
+- [Git Stash*wiki.yowu.dev*](/en/dev/Git/git-stash)
+{.links-list}
+
 ## 5. Git Reflog
 
 Git reflog is a powerful tool for recovering lost commits or branches. Reflog keeps track of the history of your Git repository, including all the changes you've made, even if you've deleted them. This can be useful for recovering lost commits or branches that were accidentally deleted.
@@ -68,6 +81,5 @@ To view reflog, use the following command:
 git reflog
 ```
 
-## Conclusion
-
-Using Git effectively is essential for any developer, and these advanced techniques can help make Git even more powerful. However, it's important to use these techniques carefully and with caution, as they can have significant effects on your Git history. By using these techniques wisely, you can make the most of Git and improve your development workflow.
+- [Git Reflog*wiki.yowu.dev*](/en/dev/Git/git-reflog)
+{.links-list}
