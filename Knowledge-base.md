@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T01:32:42.062Z
+date: 2023-02-17T01:55:39.437Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1261,7 +1261,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Using Node.js Workers and Clustering for Scalable Background Jobs](/Knowledge-base/Nodejs/using-node-js-workers-and-clustering-for-scalable-background-jobs)
 - [x] [Node.js and Microservices: Building a Robust Architecture](/Knowledge-base/Nodejs/node-js-and-microservices-building-a-robust-architecture)
 - [x] [Node.js, GraphQL and Apollo: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-graphql-and-apollo-a-hands-on-guide)
-- [ ] Working with Node.js and WebSockets for Real-Time Communication|Nodejs
+- [x] [Working with Node.js and WebSockets for Real-Time Communication](/Knowledge-base/Nodejs/working-with-node-js-and-websockets-for-real-time-communication)
 - [x] [Node.js and Serverless Computing: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-serverless-computing-a-hands-on-guide)
 - [x] [Building RESTful APIs with Node.js and Express](/Knowledge-base/Nodejs/building-restful-apis-with-node-js-and-express)
 - [x] [Node.js and NoSQL Databases: A Hands-On Guide](/Knowledge-base/Nodejs/node-js-and-nosql-databases-a-hands-on-guide)
