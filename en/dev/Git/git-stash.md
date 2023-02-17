@@ -2,7 +2,7 @@
 title: Git Stash
 description: 
 published: true
-date: 2023-02-17T17:28:24.236Z
+date: 2023-02-17T17:30:42.391Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:20:38.575Z
