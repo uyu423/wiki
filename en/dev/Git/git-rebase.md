@@ -2,7 +2,7 @@
 title: Git Rebase
 description: 
 published: true
-date: 2023-02-17T17:17:02.867Z
+date: 2023-02-17T17:28:07.562Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:17:02.867Z
@@ -45,3 +45,5 @@ If the rebase is successful, you can merge the feature branch back into the main
 > - Rebase can be a powerful tool, but it can also be risky. It rewrites the branch history and can create conflicts and make it difficult to track down bugs.
 > - Rebasing shared branches can cause confusion and create issues for other team members.
 > - Rebasing should be used with caution, and it's a good practice to communicate with other team members before rebasing shared branches.
+
+![git-logo.png](/git-logo.png){.align-center}
