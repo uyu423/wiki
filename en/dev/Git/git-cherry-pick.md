@@ -2,7 +2,7 @@
 title: Git Cherry-picking
 description: 
 published: true
-date: 2023-02-17T17:18:25.616Z
+date: 2023-02-17T17:21:06.051Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:18:25.616Z
@@ -43,10 +43,6 @@ git cherry-pick abc123
 ```
 
 This will apply the changes made in that commit to the master branch.
-
-## Conclusion
-
-Git cherry-picking is a useful technique for applying individual commits from one branch to another. It allows you to incorporate specific changes without bringing in unwanted changes. However, it should be used carefully, especially if the commit involves significant changes or has dependencies on other changes in the branch. It's important to understand the potential risks and benefits of using Git cherry-picking before incorporating it into your workflow.
 
 > - Cherry-picking can be useful for applying specific changes, but it can also bring in unwanted changes if not used carefully.
 > - Cherry-picking a commit that has dependencies on other changes in the branch can create conflicts and make it difficult to track down bugs.
