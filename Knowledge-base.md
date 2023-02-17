@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T03:32:49.268Z
+date: 2023-02-17T03:56:05.722Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1344,7 +1344,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Integrating TypeScript with Stripe for Payments](/Knowledge-base/TypeScript/integrating-typescript-with-stripe-for-payments)
 - [x] [Combining Nest.js, Express.js, and Next.js for Full-Stack Development](/Knowledge-base/TypeScript/combining-nest-js-express-js-and-next-js-for-full-stack-development)
 - [x] [Building Reactive Applications with TypeScript and RxJS](/Knowledge-base/TypeScript/building-reactive-applications-with-typescript-and-rxjs)
-- [ ] Implementing Caching and Performance Optimization in TypeScript Applications|TypeScript
+- [x] [Implementing Caching and Performance Optimization in TypeScript Applications](/Knowledge-base/TypeScript/implementing-caching-and-performance-optimization-in-typescript-applications)
 - [x] [Testing TypeScript Applications with Jest and Supertest](/Knowledge-base/TypeScript/testing-typescript-applications-with-jest-and-supertest)
 - [x] [Using TypeScript with GraphQL for API Development](/Knowledge-base/TypeScript/using-typescript-with-graphql-for-api-development)
 - [ ] Developing Microservices with TypeScript and Nest.js|TypeScript
