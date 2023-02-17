@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T00:17:48.677Z
+date: 2023-02-17T00:32:41.869Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -726,7 +726,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [060: Interoperability with Java in Kotlin: Working Seamlessly with Java Code](/Knowledge-base/Kotlin/Learning/060-interoperability-with-java-in-kotlin-working-seamlessly-with-java-code)
 - [x] [061: The Factory Method Pattern in Kotlin: Creating Objects with a Factory Method](/Knowledge-base/Kotlin/Learning/061-the-factory-method-pattern-in-kotlin-creating-objects-with-a-factory-method)
 - [x] [062: The Singleton Pattern in Kotlin: Ensuring Only One Instance of a Class Exists](/Knowledge-base/Kotlin/Learning/062-the-singleton-pattern-in-kotlin-ensuring-only-one-instance-of-a-class-exists)
-- [ ] 063: The Observer Pattern in Kotlin: Implementing the Observer Design Pattern|Kotlin/Learning
+- [x] [063: The Observer Pattern in Kotlin: Implementing the Observer Design Pattern](/Knowledge-base/Kotlin/Learning/063-the-observer-pattern-in-kotlin-implementing-the-observer-design-pattern)
 - [x] [064: The Decorator Pattern in Kotlin: Enhancing Objects with Additional Behavior](/Knowledge-base/Kotlin/Learning/064-the-decorator-pattern-in-kotlin-enhancing-objects-with-additional-behavior)
 - [ ] 065: The Template Method Pattern in Kotlin: Defining a Common Algorithm with Custom Steps|Kotlin/Learning
 - [x] [066: The Prototype Pattern in Kotlin: Creating New Objects from Existing Ones](/Knowledge-base/Kotlin/Learning/066-the-prototype-pattern-in-kotlin-creating-new-objects-from-existing-ones)
