@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T14:32:51.637Z
+date: 2023-02-17T15:06:59.114Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -159,7 +159,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [014: Writing pure functions in JavaScript for safer code](/Knowledge-base/Functional_JavaScript/Learning/014-writing-pure-functions-in-javascript-for-safer-code)
 - [x] [015: Understanding the benefits of immutability in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/015-understanding-the-benefits-of-immutability-in-javascript)
 - [x] [016: Advanced topics in recursion for functional programming in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/016-advanced-topics-in-recursion-for-functional-programming-in-javascript)
-- [ ] 017: Implementing memoization in functional JavaScript applications|Functional_JavaScript/Learning
+- [x] [017: Implementing memoization in functional JavaScript applications](/Knowledge-base/Functional_JavaScript/Learning/017-implementing-memoization-in-functional-javascript-applications)
 - [ ] 018: How to use functional programming to solve algorithmic problems in JavaScript|Functional_JavaScript/Learning
 - [ ] 019: Best practices for testing functional JavaScript code|Functional_JavaScript/Learning
 - [ ] 020: Understanding the role of types in functional programming with JavaScript|Functional_JavaScript/Learning
