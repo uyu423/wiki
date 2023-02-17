@@ -2,7 +2,7 @@
 title: Git을 효율적으로 사용하는 추가 명령어들
 description: 
 published: true
-date: 2023-02-17T17:37:53.651Z
+date: 2023-02-17T17:38:25.460Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:37:53.651Z
@@ -35,7 +35,7 @@ git rebase <new-base>
 git rebase -i <new-base>
 ```
 
-- [Git Interactive Rebase*wiki.yowu.dev*](/en/dev/Git/git-interactive-rebase)
+- [Git Interactive Rebase*wiki.yowu.dev*](/ko/dev/Git/git-interactive-rebase)
 {.links-list}
 
 ## 3. Cherry-picking
@@ -48,7 +48,7 @@ git rebase -i <new-base>
 git cherry-pick <commit-hash>
 ```
 
-- [Git Cherry-pick*wiki.yowu.dev*](/en/dev/Git/git-cherry-pick)
+- [Git Cherry-pick*wiki.yowu.dev*](/ko/dev/Git/git-cherry-pick)
 {.links-list}
 
 ## 4. Stash
@@ -67,7 +67,7 @@ git stash save
 git stash apply
 ```
 
-- [Git Stash*wiki.yowu.dev*](/en/dev/Git/git-stash)
+- [Git Stash*wiki.yowu.dev*](/ko/dev/Git/git-stash)
 {.links-list}
 
 ## 5. Git Reflog
@@ -80,7 +80,7 @@ reflog를 보려면 다음 명령을 사용하십시오.
 git reflog
 ```
 
-- [Git Reflog*wiki.yowu.dev*](/en/dev/Git/git-reflog)
+- [Git Reflog*wiki.yowu.dev*](/ko/dev/Git/git-reflog)
 {.links-list}
 
 ![git-logo.png](/git-logo.png){.align-center}
