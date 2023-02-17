@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T11:07:00.780Z
+date: 2023-02-17T11:32:41.212Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -152,7 +152,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [007: Implementing a functional programming approach in JavaScript frameworks (e.g. React, Angular, Vue)](/Knowledge-base/Functional_JavaScript/Learning/007-implementing-a-functional-programming-approach-in-javascript-frameworks-e-g-react-angular-vue)
 - [x] [008: Using the Observer pattern in functional programming in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/008-using-the-observer-pattern-in-functional-programming-in-javascript)
 - [x] [009: Advanced topics in lazy evaluation in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/009-advanced-topics-in-lazy-evaluation-in-javascript)
-- [ ] 010: Functional programming for big data applications in JavaScript|Functional_JavaScript/Learning
+- [x] [010: Functional programming for big data applications in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/010-functional-programming-for-big-data-applications-in-javascript)
 - [ ] 011: The basics of reactive programming with JavaScript and Node.js|Functional_JavaScript/Learning
 - [ ] 012: Reactive programming with RxJS in JavaScript|Functional_JavaScript/Learning
 - [ ] 013: Implementing error handling strategies in functional JavaScript|Functional_JavaScript/Learning
