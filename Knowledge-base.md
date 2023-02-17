@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T22:06:27.425Z
+date: 2023-02-17T22:32:24.121Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -788,7 +788,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [091: The Gradle Build System in Kotlin: Building and Managing Projects with Gradle](/Knowledge-base/Kotlin/Learning/091-the-gradle-build-system-in-kotlin-building-and-managing-projects-with-gradle)
 - [x] [092: The IntelliJ IDEA in Kotlin: Developing Kotlin Code with the IntelliJ IDEA IDE](/Knowledge-base/Kotlin/Learning/092-the-intellij-idea-in-kotlin-developing-kotlin-code-with-the-intellij-idea-ide)
 - [x] [093: Coroutines in Kotlin: Writing Asynchronous and Non-Blocking Code with Coroutines](/Knowledge-base/Kotlin/Learning/093-coroutines-in-kotlin-writing-asynchronous-and-non-blocking-code-with-coroutines)
-- [ ] 094: Kotlin on the Server: Building Server-Side Applications with Kotlin|Kotlin/Learning
+- [x] [094: Kotlin on the Server: Building Server-Side Applications with Kotlin](/Knowledge-base/Kotlin/Learning/094-kotlin-on-the-server-building-server-side-applications-with-kotlin)
 - [x] [095: Web Development in Kotlin: Building Web Applications with Kotlin and Spring](/Knowledge-base/Kotlin/Learning/095-web-development-in-kotlin-building-web-applications-with-kotlin-and-spring)
 - [x] [096: Mobile Development in Kotlin: Building Mobile Apps with Kotlin and Android/iOS](/Knowledge-base/Kotlin/Learning/096-mobile-development-in-kotlin-building-mobile-apps-with-kotlin-and-androidios)
 - [x] [097: Game Development in Kotlin: Building Games with Kotlin and LibGDX](/Knowledge-base/Kotlin/Learning/097-game-development-in-kotlin-building-games-with-kotlin-and-libgdx)
