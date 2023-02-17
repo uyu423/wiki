@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T04:33:40.599Z
+date: 2023-02-17T04:56:42.421Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1242,7 +1242,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Importance of Code Review in Software Development](/Knowledge-base/Common/the-importance-of-code-review-in-software-development)
 - [ ] Using Artificial Intelligence (AI) for Speech Recognition|Common
 - [ ] The Future of Artificial Intelligence (AI) in Transportation|Common
-- [ ] Building a Virtual Assistant with AI|Common
+- [x] [Building a Virtual Assistant with AI](/Knowledge-base/Common/building-a-virtual-assistant-with-ai)
 - [x] [The Advantages of Using NoSQL Databases in Software Development](/Knowledge-base/Common/the-advantages-of-using-nosql-databases-in-software-development)
 - [x] [How to Create an E-commerce Website with WooCommerce](/Knowledge-base/Common/how-to-create-an-e-commerce-website-with-woocommerce)
 - [ ] The Future of Artificial Intelligence (AI) in Manufacturing|Common
