@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T22:32:24.121Z
+date: 2023-02-17T23:06:48.147Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -799,7 +799,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 ## Kotlin
 
 - [x] [Getting started with Kotlin for Java Developers](/Knowledge-base/Kotlin/getting-started-with-kotlin-for-java-developers)
-- [ ] Exploring Null Safety in Kotlin|Kotlin
+- [x] [Exploring Null Safety in Kotlin](/Knowledge-base/Kotlin/exploring-null-safety-in-kotlin)
 - [x] [Implementing Constructors and Properties in Kotlin](/Knowledge-base/Kotlin/implementing-constructors-and-properties-in-kotlin)
 - [x] [Understanding Kotlin's Extension Functions and Properties](/Knowledge-base/Kotlin/understanding-kotlin-s-extension-functions-and-properties)
 - [x] [Utilizing Kotlin's Higher-Order Functions](/Knowledge-base/Kotlin/utilizing-kotlin-s-higher-order-functions)
