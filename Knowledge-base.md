@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T12:07:15.746Z
+date: 2023-02-17T12:32:56.916Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -154,7 +154,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [009: Advanced topics in lazy evaluation in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/009-advanced-topics-in-lazy-evaluation-in-javascript)
 - [x] [010: Functional programming for big data applications in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/010-functional-programming-for-big-data-applications-in-javascript)
 - [x] [011: The basics of reactive programming with JavaScript and Node.js](/Knowledge-base/Functional_JavaScript/Learning/011-the-basics-of-reactive-programming-with-javascript-and-node-js)
-- [ ] 012: Reactive programming with RxJS in JavaScript|Functional_JavaScript/Learning
+- [x] [012: Reactive programming with RxJS in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/012-reactive-programming-with-rxjs-in-javascript)
 - [ ] 013: Implementing error handling strategies in functional JavaScript|Functional_JavaScript/Learning
 - [ ] 014: Writing pure functions in JavaScript for safer code|Functional_JavaScript/Learning
 - [ ] 015: Understanding the benefits of immutability in JavaScript|Functional_JavaScript/Learning
