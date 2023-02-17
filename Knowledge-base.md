@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T20:32:33.285Z
+date: 2023-02-17T21:06:41.674Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -785,7 +785,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [088: Multiplatform Development in Kotlin: Building Cross-Platform Apps with Kotlin](/Knowledge-base/Kotlin/Learning/088-multiplatform-development-in-kotlin-building-cross-platform-apps-with-kotlin)
 - [x] [089: DSLs in Kotlin: Creating Domain-Specific Languages with Kotlin](/Knowledge-base/Kotlin/Learning/089-dsls-in-kotlin-creating-domain-specific-languages-with-kotlin)
 - [x] [090: Annotation Processing in Kotlin: Generating Code at Compile-Time with Annotation Processing](/Knowledge-base/Kotlin/Learning/090-annotation-processing-in-kotlin-generating-code-at-compile-time-with-annotation-processing)
-- [ ] 091: The Gradle Build System in Kotlin: Building and Managing Projects with Gradle|Kotlin/Learning
+- [x] [091: The Gradle Build System in Kotlin: Building and Managing Projects with Gradle](/Knowledge-base/Kotlin/Learning/091-the-gradle-build-system-in-kotlin-building-and-managing-projects-with-gradle)
 - [ ] 092: The IntelliJ IDEA in Kotlin: Developing Kotlin Code with the IntelliJ IDEA IDE|Kotlin/Learning
 - [ ] 093: Coroutines in Kotlin: Writing Asynchronous and Non-Blocking Code with Coroutines|Kotlin/Learning
 - [ ] 094: Kotlin on the Server: Building Server-Side Applications with Kotlin|Kotlin/Learning
