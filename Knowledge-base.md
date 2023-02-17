@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T08:32:53.056Z
+date: 2023-02-17T09:07:24.125Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -147,7 +147,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [002: Understanding the basics of functional composition in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/002-understanding-the-basics-of-functional-composition-in-javascript)
 - [x] [003: Using recursion to solve common programming problems in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/003-using-recursion-to-solve-common-programming-problems-in-javascript)
 - [x] [004: Advanced techniques for function composition in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/004-advanced-techniques-for-function-composition-in-javascript)
-- [ ] 005: Building reusable code with higher-order functions in JavaScript|Functional_JavaScript/Learning
+- [x] [005: Building reusable code with higher-order functions in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/005-building-reusable-code-with-higher-order-functions-in-javascript)
 - [ ] 006: Introduction to functional design patterns in JavaScript|Functional_JavaScript/Learning
 - [ ] 007: Implementing a functional programming approach in JavaScript frameworks (e.g. React, Angular, Vue)|Functional_JavaScript/Learning
 - [ ] 008: Using the Observer pattern in functional programming in JavaScript|Functional_JavaScript/Learning
