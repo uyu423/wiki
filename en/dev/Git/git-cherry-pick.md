@@ -2,7 +2,7 @@
 title: Git Cherry-picking
 description: 
 published: true
-date: 2023-02-17T17:21:06.051Z
+date: 2023-02-17T17:27:51.245Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:18:25.616Z
@@ -47,3 +47,5 @@ This will apply the changes made in that commit to the master branch.
 > - Cherry-picking can be useful for applying specific changes, but it can also bring in unwanted changes if not used carefully.
 > - Cherry-picking a commit that has dependencies on other changes in the branch can create conflicts and make it difficult to track down bugs.
 > - Cherry-picking should be used sparingly and with caution.
+
+![git-logo.png](/git-logo.png){.align-center}
