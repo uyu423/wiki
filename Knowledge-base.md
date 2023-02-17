@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T06:55:48.066Z
+date: 2023-02-17T07:03:49.868Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -746,7 +746,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [080: The Visitor Pattern in Kotlin: Separating Algorithms from Data Structures](/Knowledge-base/Kotlin/Learning/080-the-visitor-pattern-in-kotlin-separating-algorithms-from-data-structures)
 - [x] [081: Reflection in Kotlin: Understanding the Reflection API for Introspection and Manipulation](/Knowledge-base/Kotlin/Learning/081-reflection-in-kotlin-understanding-the-reflection-api-for-introspection-and-manipulation)
 - [x] [082: Testing in Kotlin: Writing and Running Tests for Your Kotlin Code](/Knowledge-base/Kotlin/Learning/082-testing-in-kotlin-writing-and-running-tests-for-your-kotlin-code)
-- [ ] 083: Advanced Features of Kotlin: Exploring the More Advanced Features of the Language|Kotlin/Learning
+- [x] [083: Advanced Features of Kotlin: Exploring the More Advanced Features of the Language](/Knowledge-base/Kotlin/Learning/083-advanced-features-of-kotlin-exploring-the-more-advanced-features-of-the-language)
 - [x] [084: Debugging in Kotlin: Debugging Your Kotlin Code with Breakpoints, Watches, and Logs](/Knowledge-base/Kotlin/Learning/084-debugging-in-kotlin-debugging-your-kotlin-code-with-breakpoints-watches-and-logs)
 - [x] [085: The Kotlin Ecosystem: Understanding the Tools and Frameworks Surrounding Kotlin](/Knowledge-base/Kotlin/Learning/085-the-kotlin-ecosystem-understanding-the-tools-and-frameworks-surrounding-kotlin)
 - [x] [086: Kotlin on Android: Building Android Apps with Kotlin](/Knowledge-base/Kotlin/Learning/086-kotlin-on-android-building-android-apps-with-kotlin)
