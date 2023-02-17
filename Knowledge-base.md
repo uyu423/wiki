@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T02:17:25.907Z
+date: 2023-02-17T02:32:29.830Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -731,7 +731,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [065: The Template Method Pattern in Kotlin: Defining a Common Algorithm with Custom Steps](/Knowledge-base/Kotlin/Learning/065-the-template-method-pattern-in-kotlin-defining-a-common-algorithm-with-custom-steps)
 - [x] [066: The Prototype Pattern in Kotlin: Creating New Objects from Existing Ones](/Knowledge-base/Kotlin/Learning/066-the-prototype-pattern-in-kotlin-creating-new-objects-from-existing-ones)
 - [x] [067: The Abstract Factory Pattern in Kotlin: Creating Objects Through Abstract Interfaces](/Knowledge-base/Kotlin/Learning/067-the-abstract-factory-pattern-in-kotlin-creating-objects-through-abstract-interfaces)
-- [ ] 068: The Facade Pattern in Kotlin: Providing a Simple Interface to Complex Systems|Kotlin/Learning
+- [x] [068: The Facade Pattern in Kotlin: Providing a Simple Interface to Complex Systems](/Knowledge-base/Kotlin/Learning/068-the-facade-pattern-in-kotlin-providing-a-simple-interface-to-complex-systems)
 - [ ] 069: The Command Pattern in Kotlin: Encapsulating Invocations as Objects|Kotlin/Learning
 - [x] [070: The State Pattern in Kotlin: Managing Object States with State Transitions](/Knowledge-base/Kotlin/Learning/070-the-state-pattern-in-kotlin-managing-object-states-with-state-transitions)
 - [ ] 071: The Chain of Responsibility Pattern in Kotlin: Delegating Requests Through a Chain of Objects|Kotlin/Learning
