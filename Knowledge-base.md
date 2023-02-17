@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T20:06:26.176Z
+date: 2023-02-17T20:32:33.285Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -783,7 +783,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [086: Kotlin on Android: Building Android Apps with Kotlin](/Knowledge-base/Kotlin/Learning/086-kotlin-on-android-building-android-apps-with-kotlin)
 - [x] [087: Reactive Programming in Kotlin: Writing Reactive Code with Kotlin Flow](/Knowledge-base/Kotlin/Learning/087-reactive-programming-in-kotlin-writing-reactive-code-with-kotlin-flow)
 - [x] [088: Multiplatform Development in Kotlin: Building Cross-Platform Apps with Kotlin](/Knowledge-base/Kotlin/Learning/088-multiplatform-development-in-kotlin-building-cross-platform-apps-with-kotlin)
-- [ ] 089: DSLs in Kotlin: Creating Domain-Specific Languages with Kotlin|Kotlin/Learning
+- [x] [089: DSLs in Kotlin: Creating Domain-Specific Languages with Kotlin](/Knowledge-base/Kotlin/Learning/089-dsls-in-kotlin-creating-domain-specific-languages-with-kotlin)
 - [x] [090: Annotation Processing in Kotlin: Generating Code at Compile-Time with Annotation Processing](/Knowledge-base/Kotlin/Learning/090-annotation-processing-in-kotlin-generating-code-at-compile-time-with-annotation-processing)
 - [ ] 091: The Gradle Build System in Kotlin: Building and Managing Projects with Gradle|Kotlin/Learning
 - [ ] 092: The IntelliJ IDEA in Kotlin: Developing Kotlin Code with the IntelliJ IDEA IDE|Kotlin/Learning
