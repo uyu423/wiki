@@ -2,7 +2,7 @@
 title: Git Reflog
 description: 
 published: true
-date: 2023-02-17T17:28:15.345Z
+date: 2023-02-17T17:31:11.862Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:22:03.886Z
@@ -19,6 +19,8 @@ To view the Git reflog, use the following command:
 ```
 git reflog
 ```
+
+![git-reflog-sample.png](/git-reflog-sample.png)
 
 This will display a list of all the changes made to your Git repository, including commits, merges, and other operations. Each entry in the reflog includes the hash of the commit, the operation that was performed, and a description of the operation.
 
