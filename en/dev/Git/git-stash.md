@@ -2,7 +2,7 @@
 title: Git Stash
 description: 
 published: true
-date: 2023-02-17T17:20:38.575Z
+date: 2023-02-17T17:28:24.236Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:20:38.575Z
@@ -55,3 +55,5 @@ This will apply the changes you stashed and restore the working directory to the
 > - Stashing changes can be useful for temporarily saving changes that are not ready to be committed, but it's not a substitute for proper version control practices.
 > - Relying too heavily on Git stash can make it difficult to track changes and create confusion.
 > - Stashing changes that have conflicts can create issues when applying the changes later.
+
+![git-logo.png](/git-logo.png){.align-center}
