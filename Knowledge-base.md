@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T06:17:39.430Z
+date: 2023-02-17T06:32:49.667Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -743,7 +743,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [077: The Memento Pattern in Kotlin: Preserving Object States for Future Restoration](/Knowledge-base/Kotlin/Learning/077-the-memento-pattern-in-kotlin-preserving-object-states-for-future-restoration)
 - [x] [078: The Strategy Pattern in Kotlin: Encapsulating Algorithms as Objects](/Knowledge-base/Kotlin/Learning/078-the-strategy-pattern-in-kotlin-encapsulating-algorithms-as-objects)
 - [x] [079: The Iterator Pattern in Kotlin: Traversing Collections with a Common Interface](/Knowledge-base/Kotlin/Learning/079-the-iterator-pattern-in-kotlin-traversing-collections-with-a-common-interface)
-- [ ] 080: The Visitor Pattern in Kotlin: Separating Algorithms from Data Structures|Kotlin/Learning
+- [x] [080: The Visitor Pattern in Kotlin: Separating Algorithms from Data Structures](/Knowledge-base/Kotlin/Learning/080-the-visitor-pattern-in-kotlin-separating-algorithms-from-data-structures)
 - [x] [081: Reflection in Kotlin: Understanding the Reflection API for Introspection and Manipulation](/Knowledge-base/Kotlin/Learning/081-reflection-in-kotlin-understanding-the-reflection-api-for-introspection-and-manipulation)
 - [x] [082: Testing in Kotlin: Writing and Running Tests for Your Kotlin Code](/Knowledge-base/Kotlin/Learning/082-testing-in-kotlin-writing-and-running-tests-for-your-kotlin-code)
 - [ ] 083: Advanced Features of Kotlin: Exploring the More Advanced Features of the Language|Kotlin/Learning
