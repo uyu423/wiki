@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T15:06:59.114Z
+date: 2023-02-17T15:32:51.381Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -160,7 +160,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [015: Understanding the benefits of immutability in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/015-understanding-the-benefits-of-immutability-in-javascript)
 - [x] [016: Advanced topics in recursion for functional programming in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/016-advanced-topics-in-recursion-for-functional-programming-in-javascript)
 - [x] [017: Implementing memoization in functional JavaScript applications](/Knowledge-base/Functional_JavaScript/Learning/017-implementing-memoization-in-functional-javascript-applications)
-- [ ] 018: How to use functional programming to solve algorithmic problems in JavaScript|Functional_JavaScript/Learning
+- [x] [018: How to use functional programming to solve algorithmic problems in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/018-how-to-use-functional-programming-to-solve-algorithmic-problems-in-javascript)
 - [ ] 019: Best practices for testing functional JavaScript code|Functional_JavaScript/Learning
 - [ ] 020: Understanding the role of types in functional programming with JavaScript|Functional_JavaScript/Learning
 - [ ] 021: The difference between synchronous and asynchronous programming in functional JavaScript|Functional_JavaScript/Learning
