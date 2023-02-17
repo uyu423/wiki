@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T07:14:08.210Z
+date: 2023-02-17T07:15:04.149Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -143,7 +143,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ### Functional
 
-- [ ] 001: What is functional programming, and how does it work in JavaScript?|Functional_JavaScript/Learning
+- [x] [001: What is functional programming, and how does it work in JavaScript?](/Knowledge-base/Functional_JavaScript/Learning/001-what-is-functional-programming-and-how-does-it-work-in-javascript)
 - [ ] 002: Understanding the basics of functional composition in JavaScript|Functional_JavaScript/Learning
 - [ ] 003: Using recursion to solve common programming problems in JavaScript|Functional_JavaScript/Learning
 - [ ] 004: Advanced techniques for function composition in JavaScript|Functional_JavaScript/Learning
