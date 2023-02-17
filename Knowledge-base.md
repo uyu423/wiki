@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T07:03:49.868Z
+date: 2023-02-17T07:12:46.182Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -138,6 +138,36 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Linux System Monitoring and Logging](/Knowledge-base/Linux/linux-system-monitoring-and-logging)
 - [x] [Linux Web Server and Database Administration](/Knowledge-base/Linux/linux-web-server-and-database-administration)
 - [x] [Linux Scripting for DevOps](/Knowledge-base/Linux/linux-scripting-for-devops)
+
+## JavaScript
+
+### Functional
+
+- [ ] 001: What is functional programming, and how does it work in JavaScript?|JavaScript/Learning
+- [ ] 002: Understanding the basics of functional composition in JavaScript|JavaScript/Learning
+- [ ] 003: Using recursion to solve common programming problems in JavaScript|JavaScript/Learning
+- [ ] 004: Advanced techniques for function composition in JavaScript|JavaScript/Learning
+- [ ] 005: Building reusable code with higher-order functions in JavaScript|JavaScript/Learning
+- [ ] 006: Introduction to functional design patterns in JavaScript|JavaScript/Learning
+- [ ] 007: Implementing a functional programming approach in JavaScript frameworks (e.g. React, Angular, Vue)|JavaScript/Learning
+- [ ] 008: Using the Observer pattern in functional programming in JavaScript|JavaScript/Learning
+- [ ] 009: Advanced topics in lazy evaluation in JavaScript|JavaScript/Learning
+- [ ] 010: Functional programming for big data applications in JavaScript|JavaScript/Learning
+- [ ] 011: The basics of reactive programming with JavaScript and Node.js|JavaScript/Learning
+- [ ] 012: Reactive programming with RxJS in JavaScript|JavaScript/Learning
+- [ ] 013: Implementing error handling strategies in functional JavaScript|JavaScript/Learning
+- [ ] 014: Writing pure functions in JavaScript for safer code|JavaScript/Learning
+- [ ] 015: Understanding the benefits of immutability in JavaScript|JavaScript/Learning
+- [ ] 016: Advanced topics in recursion for functional programming in JavaScript|JavaScript/Learning
+- [ ] 017: Implementing memoization in functional JavaScript applications|JavaScript/Learning
+- [ ] 018: How to use functional programming to solve algorithmic problems in JavaScript|JavaScript/Learning
+- [ ] 019: Best practices for testing functional JavaScript code|JavaScript/Learning
+- [ ] 020: Understanding the role of types in functional programming with JavaScript|JavaScript/Learning
+- [ ] 021: The difference between synchronous and asynchronous programming in functional JavaScript|JavaScript/Learning
+- [ ] 022: An introduction to monads in functional programming with JavaScript|JavaScript/Learning
+- [ ] 023: Building reactive user interfaces with functional programming in JavaScript|JavaScript/Learning
+- [ ] 024: A practical guide to using the Maybe monad in functional JavaScript|JavaScript/Learning
+- [ ] 025: Understanding the importance of composition over inheritance in functional JavaScript.|JavaScript/Learning
 
 ## Algorithm (use C Lang)
 - [x] [[C Language] 001: Asymptotic Analysis](/Knowledge-base/Algorithm/c-language-001-asymptotic-analysis)
