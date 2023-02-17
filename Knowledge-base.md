@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T14:06:42.058Z
+date: 2023-02-17T14:32:51.637Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -158,7 +158,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [013: Implementing error handling strategies in functional JavaScript](/Knowledge-base/Functional_JavaScript/Learning/013-implementing-error-handling-strategies-in-functional-javascript)
 - [x] [014: Writing pure functions in JavaScript for safer code](/Knowledge-base/Functional_JavaScript/Learning/014-writing-pure-functions-in-javascript-for-safer-code)
 - [x] [015: Understanding the benefits of immutability in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/015-understanding-the-benefits-of-immutability-in-javascript)
-- [ ] 016: Advanced topics in recursion for functional programming in JavaScript|Functional_JavaScript/Learning
+- [x] [016: Advanced topics in recursion for functional programming in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/016-advanced-topics-in-recursion-for-functional-programming-in-javascript)
 - [ ] 017: Implementing memoization in functional JavaScript applications|Functional_JavaScript/Learning
 - [ ] 018: How to use functional programming to solve algorithmic problems in JavaScript|Functional_JavaScript/Learning
 - [ ] 019: Best practices for testing functional JavaScript code|Functional_JavaScript/Learning
