@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T10:06:38.323Z
+date: 2023-02-17T10:32:40.301Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -150,7 +150,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [005: Building reusable code with higher-order functions in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/005-building-reusable-code-with-higher-order-functions-in-javascript)
 - [x] [006: Introduction to functional design patterns in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/006-introduction-to-functional-design-patterns-in-javascript)
 - [x] [007: Implementing a functional programming approach in JavaScript frameworks (e.g. React, Angular, Vue)](/Knowledge-base/Functional_JavaScript/Learning/007-implementing-a-functional-programming-approach-in-javascript-frameworks-e-g-react-angular-vue)
-- [ ] 008: Using the Observer pattern in functional programming in JavaScript|Functional_JavaScript/Learning
+- [x] [008: Using the Observer pattern in functional programming in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/008-using-the-observer-pattern-in-functional-programming-in-javascript)
 - [ ] 009: Advanced topics in lazy evaluation in JavaScript|Functional_JavaScript/Learning
 - [ ] 010: Functional programming for big data applications in JavaScript|Functional_JavaScript/Learning
 - [ ] 011: The basics of reactive programming with JavaScript and Node.js|Functional_JavaScript/Learning
