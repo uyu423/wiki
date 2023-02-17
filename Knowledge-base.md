@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-16T23:56:18.122Z
+date: 2023-02-17T00:17:48.677Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1928,7 +1928,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AMD, Inc.](/Knowledge-base/Dictionary/Company/amd-inc-)
 - [x] [Intel Corporation](/Knowledge-base/Dictionary/Company/intel-corporation)
 - [ ] Micron Technology, Inc.|Dictionary/Company
-- [ ] Western Digital Corporation|Dictionary/Company
+- [x] [Western Digital Corporation](/Knowledge-base/Dictionary/Company/western-digital-corporation)
 - [x] [Seagate Technology PLC](/Knowledge-base/Dictionary/Company/seagate-technology-plc)
 - [ ] Toshiba Corporation|Dictionary/Company
 - [x] [SanDisk Corporation](/Knowledge-base/Dictionary/Company/sandisk-corporation)
