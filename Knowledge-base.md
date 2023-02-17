@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T05:55:51.959Z
+date: 2023-02-17T06:17:39.430Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -885,7 +885,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Building BFF API for Frontend-Backend Communication|Backend
 - [ ] Agile Methodologies for Backend Development|Backend
 - [x] [Implementing A/B Testing for Backend Applications](/Knowledge-base/Backend/implementing-ab-testing-for-backend-applications)
-- [ ] Real-time Communication with Socket.io|Backend
+- [x] [Real-time Communication with Socket.io](/Knowledge-base/Backend/real-time-communication-with-socket-io)
 - [x] [Building NoSQL Applications with MongoDB](/Knowledge-base/Backend/building-nosql-applications-with-mongodb)
 - [x] [Setting up a Web Server with nginx and Apache2](/Knowledge-base/Backend/setting-up-a-web-server-with-nginx-and-apache2)
 - [x] [Securing Backend Applications with SSL](/Knowledge-base/Backend/securing-backend-applications-with-ssl)
