@@ -2,7 +2,7 @@
 title: Git Interactive Rebase
 description: 
 published: true
-date: 2023-02-17T17:20:55.676Z
+date: 2023-02-17T17:28:00.061Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:19:33.517Z
@@ -39,3 +39,5 @@ Once you have made the necessary changes, save and exit the text editor. This wi
 > - Interactive rebase can be a powerful tool for maintaining a clean and organized Git history, but it should be used with caution.
 > - Changing the commit history of a shared branch can create confusion and issues for other team members.
 > - It's important to understand the potential risks and benefits of using interactive rebase before incorporating it into your workflow.
+
+![git-logo.png](/git-logo.png){.align-center}
