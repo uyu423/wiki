@@ -2,7 +2,7 @@
 title: Git Interactive Rebase
 description: 
 published: true
-date: 2023-02-17T17:28:00.061Z
+date: 2023-02-17T17:47:20.564Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:19:33.517Z
@@ -29,7 +29,7 @@ Each commit will have an action associated with it, such as `pick`, `edit`, `squ
 Let's say you have a feature branch with several commits that could be cleaned up or combined. To do this, first, switch to the feature branch and use the following command to start an interactive rebase:
 
 ```
-git rebase -i master
+git rebase -i main
 ```
 
 This will open a text editor with a list of all the commits in the branch history. You can edit the actions to selectively remove, reorder, or combine commits as needed. For example, you can combine two commits by changing the action for the second commit to `squash`. This will combine the changes made in that commit with the previous commit.
