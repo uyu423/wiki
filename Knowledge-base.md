@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T18:33:35.893Z
+date: 2023-02-17T19:06:22.306Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -167,7 +167,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [022: An introduction to monads in functional programming with JavaScript](/Knowledge-base/Functional_JavaScript/Learning/022-an-introduction-to-monads-in-functional-programming-with-javascript)
 - [x] [023: Building reactive user interfaces with functional programming in JavaScript](/Knowledge-base/Functional_JavaScript/Learning/023-building-reactive-user-interfaces-with-functional-programming-in-javascript)
 - [x] [024: A practical guide to using the Maybe monad in functional JavaScript](/Knowledge-base/Functional_JavaScript/Learning/024-a-practical-guide-to-using-the-maybe-monad-in-functional-javascript)
-- [ ] 025: Understanding the importance of composition over inheritance in functional JavaScript.|Functional_JavaScript/Learning
+- [x] [025: Understanding the importance of composition over inheritance in functional JavaScript.](/Knowledge-base/Functional_JavaScript/Learning/025-understanding-the-importance-of-composition-over-inheritance-in-functional-javascript-)
 
 
 ## Algorithm (use C Lang)
