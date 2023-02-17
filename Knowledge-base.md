@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T23:06:48.147Z
+date: 2023-02-17T23:32:47.234Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -803,7 +803,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Implementing Constructors and Properties in Kotlin](/Knowledge-base/Kotlin/implementing-constructors-and-properties-in-kotlin)
 - [x] [Understanding Kotlin's Extension Functions and Properties](/Knowledge-base/Kotlin/understanding-kotlin-s-extension-functions-and-properties)
 - [x] [Utilizing Kotlin's Higher-Order Functions](/Knowledge-base/Kotlin/utilizing-kotlin-s-higher-order-functions)
-- [ ] Mastering Lambdas in Kotlin|Kotlin
+- [x] [Mastering Lambdas in Kotlin](/Knowledge-base/Kotlin/mastering-lambdas-in-kotlin)
 - [x] [Using Type Aliases in Kotlin](/Knowledge-base/Kotlin/using-type-aliases-in-kotlin)
 - [x] [Interoperability Between Kotlin and Java](/Knowledge-base/Kotlin/interoperability-between-kotlin-and-java)
 - [x] [Building Applications with Kotlin Coroutines](/Knowledge-base/Kotlin/building-applications-with-kotlin-coroutines)
