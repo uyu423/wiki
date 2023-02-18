@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T08:33:08.447Z
+date: 2023-02-18T09:06:26.855Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -882,7 +882,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and Redis: A Guide to Caching and Session Management](/Knowledge-base/Kotlin/kotlin-and-redis-a-guide-to-caching-and-session-management)
 - [x] [Kotlin and MySQL: Connecting to a Relational Database](/Knowledge-base/Kotlin/kotlin-and-mysql-connecting-to-a-relational-database)
 - [x] [Kotlin and MongoDB: Connecting to a Document-Oriented Database](/Knowledge-base/Kotlin/kotlin-and-mongodb-connecting-to-a-document-oriented-database)
-- [ ] Kotlin and Neo4j: Connecting to a Graph Database|Kotlin
+- [x] [Kotlin and Neo4j: Connecting to a Graph Database](/Knowledge-base/Kotlin/kotlin-and-neo4j-connecting-to-a-graph-database)
 - [x] [Kotlin and Flask: Building a Simple Web Application](/Knowledge-base/Kotlin/kotlin-and-flask-building-a-simple-web-application)
 - [x] [Kotlin and Django: Building a Web Application with a Python Framework](/Knowledge-base/Kotlin/kotlin-and-django-building-a-web-application-with-a-python-framework)
 - [ ] Kotlin and Laravel: Building a Web Application with a PHP Framework|Kotlin
