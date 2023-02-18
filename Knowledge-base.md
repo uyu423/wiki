@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T21:06:26.436Z
+date: 2023-02-18T21:32:24.456Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -986,7 +986,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Building Serverless Architecture for Scalable Backends](/Knowledge-base/Backend/building-serverless-architecture-for-scalable-backends)
 - [x] [Understanding Event Sourcing in Infrastructure Development](/Knowledge-base/Backend/understanding-event-sourcing-in-infrastructure-development)
 - [x] [Implementing gRPC in Your Backend](/Knowledge-base/Backend/implementing-grpc-in-your-backend)
-- [ ] Understanding Graph Databases for Better Data Management|Backend
+- [x] [Understanding Graph Databases for Better Data Management](/Knowledge-base/Backend/understanding-graph-databases-for-better-data-management)
 - [x] [Building Event-Driven Architecture in Infrastructure Development](/Knowledge-base/Backend/building-event-driven-architecture-in-infrastructure-development)
 - [x] [Implementing Serverless Functions with AWS Lambda and Google Cloud Functions](/Knowledge-base/Backend/implementing-serverless-functions-with-aws-lambda-and-google-cloud-functions)
 - [x] [Understanding Backend as a Service (BaaS)](/Knowledge-base/Backend/understanding-backend-as-a-service-baas)
