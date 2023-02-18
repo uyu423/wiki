@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T16:32:43.702Z
+date: 2023-02-18T17:06:37.489Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -938,7 +938,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Caching Strategies for Improved Performance](/Knowledge-base/Backend/caching-strategies-for-improved-performance)
 - [x] [Validating User Data for Security](/Knowledge-base/Backend/validating-user-data-for-security)
 - [x] [Error Handling Best Practices for Backend Applications](/Knowledge-base/Backend/error-handling-best-practices-for-backend-applications)
-- [ ] Logging for Debugging and Monitoring|Backend
+- [x] [Logging for Debugging and Monitoring](/Knowledge-base/Backend/logging-for-debugging-and-monitoring)
 - [x] [Testing Backend Applications with Continuous Integration](/Knowledge-base/Backend/testing-backend-applications-with-continuous-integration)
 - [x] [Continuous Deployment for Scalable Backend Applications](/Knowledge-base/Backend/continuous-deployment-for-scalable-backend-applications)
 - [x] [Building a Deployment Pipeline for Backend Applications](/Knowledge-base/Backend/building-a-deployment-pipeline-for-backend-applications)
