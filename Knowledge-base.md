@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T13:32:45.565Z
+date: 2023-02-18T14:06:30.929Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -914,7 +914,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Scaling Applications with ElastiCache and ElasticBeanstalk](/Knowledge-base/Backend/scaling-applications-with-elasticache-and-elasticbeanstalk)
 - [x] [Monitoring Backend Applications with CloudWatch](/Knowledge-base/Backend/monitoring-backend-applications-with-cloudwatch)
 - [x] [Building BFF API for Frontend-Backend Communication](/Knowledge-base/Backend/building-bff-api-for-frontend-backend-communication)
-- [ ] Agile Methodologies for Backend Development|Backend
+- [x] [Agile Methodologies for Backend Development](/Knowledge-base/Backend/agile-methodologies-for-backend-development)
 - [x] [Implementing A/B Testing for Backend Applications](/Knowledge-base/Backend/implementing-ab-testing-for-backend-applications)
 - [x] [Real-time Communication with Socket.io](/Knowledge-base/Backend/real-time-communication-with-socket-io)
 - [x] [Building NoSQL Applications with MongoDB](/Knowledge-base/Backend/building-nosql-applications-with-mongodb)
