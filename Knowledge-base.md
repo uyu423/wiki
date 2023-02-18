@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T03:32:31.506Z
+date: 2023-02-18T04:06:30.543Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -835,7 +835,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and Authorization: Implementing Role-Based Access](/Knowledge-base/Kotlin/kotlin-and-authorization-implementing-role-based-access)
 - [x] [Kotlin and RSA Encryption: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-rsa-encryption-advanced-topics)
 - [x] [Kotlin and AES Encryption: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-aes-encryption-advanced-topics)
-- [ ] Kotlin and Bcrypt Hashing: Advanced Topics|Kotlin
+- [x] [Kotlin and Bcrypt Hashing: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-bcrypt-hashing-advanced-topics)
 - [x] [Kotlin and PBKDF2 Hashing: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-pbkdf2-hashing-advanced-topics)
 - [x] [Kotlin and Input Validation: Advanced Techniques](/Knowledge-base/Kotlin/kotlin-and-input-validation-advanced-techniques)
 - [x] [Kotlin Testing: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-testing-advanced-topics-and-best-practices)
