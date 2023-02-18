@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T14:06:30.929Z
+date: 2023-02-18T14:32:38.842Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -920,7 +920,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Building NoSQL Applications with MongoDB](/Knowledge-base/Backend/building-nosql-applications-with-mongodb)
 - [x] [Setting up a Web Server with nginx and Apache2](/Knowledge-base/Backend/setting-up-a-web-server-with-nginx-and-apache2)
 - [x] [Securing Backend Applications with SSL](/Knowledge-base/Backend/securing-backend-applications-with-ssl)
-- [ ] Designing Databases for Scalable Applications|Backend
+- [x] [Designing Databases for Scalable Applications](/Knowledge-base/Backend/designing-databases-for-scalable-applications)
 - [x] [Implementing Domain Driven Development (DDD) for Backend](/Knowledge-base/Backend/implementing-domain-driven-development-ddd-for-backend)
 - [x] [Adopting Test Driven Development (TDD) for Backend Development](/Knowledge-base/Backend/adopting-test-driven-development-tdd-for-backend-development)
 - [x] [Streamlining the Development Process for Backend Applications](/Knowledge-base/Backend/streamlining-the-development-process-for-backend-applications)
