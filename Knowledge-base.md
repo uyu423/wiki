@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T12:32:36.617Z
+date: 2023-02-18T13:06:35.184Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -909,7 +909,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Database Management with MySQL and Redis](/Knowledge-base/Backend/database-management-with-mysql-and-redis)
 - [x] [Setting up a Continuous Integration Pipeline with Jenkins and IntelliJ](/Knowledge-base/Backend/setting-up-a-continuous-integration-pipeline-with-jenkins-and-intellij)
 - [x] [Deploying Backend Applications with Kubernetes and Docker](/Knowledge-base/Backend/deploying-backend-applications-with-kubernetes-and-docker)
-- [ ] Exploring Node.js and TypeScript for Backend Development|Backend
+- [x] [Exploring Node.js and TypeScript for Backend Development](/Knowledge-base/Backend/exploring-node-js-and-typescript-for-backend-development)
 - [x] [Building REST APIs with Express.js](/Knowledge-base/Backend/building-rest-apis-with-express-js)
 - [x] [Scaling Applications with ElastiCache and ElasticBeanstalk](/Knowledge-base/Backend/scaling-applications-with-elasticache-and-elasticbeanstalk)
 - [x] [Monitoring Backend Applications with CloudWatch](/Knowledge-base/Backend/monitoring-backend-applications-with-cloudwatch)
