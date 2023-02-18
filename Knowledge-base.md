@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T11:06:40.531Z
+date: 2023-02-18T11:32:21.771Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -903,7 +903,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 - [x] [Introduction to Java for Backend Developers](/Knowledge-base/Backend/introduction-to-java-for-backend-developers)
 - [x] [Getting Started with Kotlin for Backend Development](/Knowledge-base/Backend/getting-started-with-kotlin-for-backend-development)
-- [ ] Understanding the Benefits of Spring Boot for Backend Development|Backend
+- [x] [Understanding the Benefits of Spring Boot for Backend Development](/Knowledge-base/Backend/understanding-the-benefits-of-spring-boot-for-backend-development)
 - [ ] Building a Spring Batch Application for Data Processing|Backend
 - [x] [Integrating Kafka with Spring Boot for Real-time Processing](/Knowledge-base/Backend/integrating-kafka-with-spring-boot-for-real-time-processing)
 - [ ] Database Management with MySQL and Redis|Backend
