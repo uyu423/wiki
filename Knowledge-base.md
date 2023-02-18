@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T20:06:21.837Z
+date: 2023-02-18T20:32:45.654Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -969,7 +969,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Securing Your Backend with Firewalls](/Knowledge-base/Backend/securing-your-backend-with-firewalls)
 - [x] [Setting Up a Virtual Private Network (VPN) for Secure Communication](/Knowledge-base/Backend/setting-up-a-virtual-private-network-vpn-for-secure-communication)
 - [x] [Enhancing User Experience with Content Delivery Network (CDN)](/Knowledge-base/Backend/enhancing-user-experience-with-content-delivery-network-cdn)
-- [ ] Implementing Distributed File Systems in Infrastructure Development|Backend
+- [x] [Implementing Distributed File Systems in Infrastructure Development](/Knowledge-base/Backend/implementing-distributed-file-systems-in-infrastructure-development)
 - [ ] Resource Allocation and Scheduling in Backend Development|Backend
 - [x] [Managing Clusters for High Availability](/Knowledge-base/Backend/managing-clusters-for-high-availability)
 - [x] [Service Discovery in Microservice Architecture](/Knowledge-base/Backend/service-discovery-in-microservice-architecture)
