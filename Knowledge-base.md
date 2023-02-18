@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T06:06:22.765Z
+date: 2023-02-18T06:32:17.860Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -854,7 +854,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and JWT: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-jwt-advanced-topics-and-best-practices)
 - [x] [Kotlin and OAuth: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-oauth-advanced-topics-and-best-practices)
 - [x] [Kotlin and Token-based Authentication: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-token-based-authentication-advanced-topics-and-best-practices)
-- [ ] Kotlin and Session Management: Advanced Topics and Best Practices|Kotlin
+- [x] [Kotlin and Session Management: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-session-management-advanced-topics-and-best-practices)
 - [ ] Kotlin and Authorization: Advanced Topics and Best Practices|Kotlin
 - [x] [Kotlin and Input Validation: Best Practices and Common Pitfalls](/Knowledge-base/Kotlin/kotlin-and-input-validation-best-practices-and-common-pitfalls)
 - [x] [Kotlin Testing: Best Practices and Common Pitfalls](/Knowledge-base/Kotlin/kotlin-testing-best-practices-and-common-pitfalls)
