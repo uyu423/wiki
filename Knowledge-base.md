@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T00:33:27.256Z
+date: 2023-02-18T01:06:35.230Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -815,7 +815,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin for Web Development: Building REST APIs](/Knowledge-base/Kotlin/kotlin-for-web-development-building-rest-apis)
 - [x] [Kotlin with Spring Boot: Auto-configuration and Actuator](/Knowledge-base/Kotlin/kotlin-with-spring-boot-auto-configuration-and-actuator)
 - [x] [Kotlin Microservices: Building and Deploying](/Knowledge-base/Kotlin/kotlin-microservices-building-and-deploying)
-- [ ] Kotlin MVC Architecture: Building a Web Application|Kotlin
+- [x] [Kotlin MVC Architecture: Building a Web Application](/Knowledge-base/Kotlin/kotlin-mvc-architecture-building-a-web-application)
 - [x] [Kotlin and Spring Data: Integrating with a Database](/Knowledge-base/Kotlin/kotlin-and-spring-data-integrating-with-a-database)
 - [x] [Kotlin Security: Implementing OAuth and JWT](/Knowledge-base/Kotlin/kotlin-security-implementing-oauth-and-jwt)
 - [x] [Kotlin and JSON: Parsing and Serializing Data](/Knowledge-base/Kotlin/kotlin-and-json-parsing-and-serializing-data)
