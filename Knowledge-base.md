@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T03:06:32.141Z
+date: 2023-02-18T03:32:31.506Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -831,7 +831,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and XML Processing: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-xml-processing-advanced-topics)
 - [x] [Kotlin and JSON Processing: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-json-processing-advanced-topics)
 - [x] [Kotlin and Token-based Authentication](/Knowledge-base/Kotlin/kotlin-and-token-based-authentication)
-- [ ] Kotlin and Session Management|Kotlin
+- [x] [Kotlin and Session Management](/Knowledge-base/Kotlin/kotlin-and-session-management)
 - [x] [Kotlin and Authorization: Implementing Role-Based Access](/Knowledge-base/Kotlin/kotlin-and-authorization-implementing-role-based-access)
 - [x] [Kotlin and RSA Encryption: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-rsa-encryption-advanced-topics)
 - [x] [Kotlin and AES Encryption: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-aes-encryption-advanced-topics)
