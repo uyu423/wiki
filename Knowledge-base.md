@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T00:06:31.142Z
+date: 2023-02-18T00:33:27.256Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -812,7 +812,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Using Sealed Classes in Kotlin](/Knowledge-base/Kotlin/using-sealed-classes-in-kotlin)
 - [x] [Understanding the Delegation Pattern in Kotlin](/Knowledge-base/Kotlin/understanding-the-delegation-pattern-in-kotlin)
 - [x] [Exploring the Power of Kotlin's Standard Library Functions](/Knowledge-base/Kotlin/exploring-the-power-of-kotlin-s-standard-library-functions)
-- [ ] Kotlin for Web Development: Building REST APIs|Kotlin
+- [x] [Kotlin for Web Development: Building REST APIs](/Knowledge-base/Kotlin/kotlin-for-web-development-building-rest-apis)
 - [x] [Kotlin with Spring Boot: Auto-configuration and Actuator](/Knowledge-base/Kotlin/kotlin-with-spring-boot-auto-configuration-and-actuator)
 - [x] [Kotlin Microservices: Building and Deploying](/Knowledge-base/Kotlin/kotlin-microservices-building-and-deploying)
 - [ ] Kotlin MVC Architecture: Building a Web Application|Kotlin
