@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T07:32:39.994Z
+date: 2023-02-18T08:06:26.252Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -870,7 +870,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and RSA: A Hands-on Guide to Public-Key Cryptography](/Knowledge-base/Kotlin/kotlin-and-rsa-a-hands-on-guide-to-public-key-cryptography)
 - [x] [Kotlin and AES: Encrypting and Decrypting Data](/Knowledge-base/Kotlin/kotlin-and-aes-encrypting-and-decrypting-data)
 - [x] [Kotlin and Hashing: Securing Passwords and Sensitive Data](/Knowledge-base/Kotlin/kotlin-and-hashing-securing-passwords-and-sensitive-data)
-- [ ] Kotlin and Bcrypt: A Better Alternative to Simple Hashing|Kotlin
+- [x] [Kotlin and Bcrypt: A Better Alternative to Simple Hashing](/Knowledge-base/Kotlin/kotlin-and-bcrypt-a-better-alternative-to-simple-hashing)
 - [ ] Kotlin and JSON: Processing and Generating JSON Data|Kotlin
 - [x] [Kotlin and XML: Parsing and Generating XML Data](/Knowledge-base/Kotlin/kotlin-and-xml-parsing-and-generating-xml-data)
 - [x] [Kotlin and Test Driven Development (TDD): A Hands-on Guide](/Knowledge-base/Kotlin/kotlin-and-test-driven-development-tdd-a-hands-on-guide)
