@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T04:06:30.543Z
+date: 2023-02-18T04:32:23.114Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -840,7 +840,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and Input Validation: Advanced Techniques](/Knowledge-base/Kotlin/kotlin-and-input-validation-advanced-techniques)
 - [x] [Kotlin Testing: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-testing-advanced-topics-and-best-practices)
 - [x] [Kotlin and Continuous Deployment: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-continuous-deployment-advanced-topics-and-best-practices)
-- [ ] Kotlin and the Cloud: Advanced Topics and Best Practices|Kotlin
+- [x] [Kotlin and the Cloud: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-the-cloud-advanced-topics-and-best-practices)
 - [ ] Kotlin REST API Design: Best Practices|Kotlin
 - [x] [Kotlin and Web Development: Advanced Topics and Best Practices](/Knowledge-base/Kotlin/kotlin-and-web-development-advanced-topics-and-best-practices)
 - [x] [Kotlin Microservices Architecture: Best Practices](/Knowledge-base/Kotlin/kotlin-microservices-architecture-best-practices)
