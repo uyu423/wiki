@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T01:32:22.557Z
+date: 2023-02-18T02:06:28.486Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -822,7 +822,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and XML: Parsing and Serializing Data](/Knowledge-base/Kotlin/kotlin-and-xml-parsing-and-serializing-data)
 - [x] [Kotlin and HTTPS: Implementing Secure Communication](/Knowledge-base/Kotlin/kotlin-and-https-implementing-secure-communication)
 - [x] [Kotlin Encryption: RSA and AES](/Knowledge-base/Kotlin/kotlin-encryption-rsa-and-aes)
-- [ ] Kotlin Hashing: PBKDF2 and Bcrypt|Kotlin
+- [x] [Kotlin Hashing: PBKDF2 and Bcrypt](/Knowledge-base/Kotlin/kotlin-hashing-pbkdf2-and-bcrypt)
 - [x] [Kotlin Validation: Input Validation Techniques](/Knowledge-base/Kotlin/kotlin-validation-input-validation-techniques)
 - [x] [Kotlin Testing: Unit and Integration Tests](/Knowledge-base/Kotlin/kotlin-testing-unit-and-integration-tests)
 - [x] [Kotlin Continuous Deployment: Automating the Deployment Process](/Knowledge-base/Kotlin/kotlin-continuous-deployment-automating-the-deployment-process)
