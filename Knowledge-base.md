@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T17:32:42.381Z
+date: 2023-02-18T18:06:30.027Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -950,7 +950,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [ORM and Auto-scaling for Backend Development](/Knowledge-base/Backend/orm-and-auto-scaling-for-backend-development)
 - [x] [SaaS, PaaS, and IaaS for Backend Applications](/Knowledge-base/Backend/saas-paas-and-iaas-for-backend-applications)
 - [x] [Object Storage, Block Storage, and File Storage for Backend](/Knowledge-base/Backend/object-storage-block-storage-and-file-storage-for-backend)
-- [ ] Networking Fundamentals for Backend Developers|Backend
+- [x] [Networking Fundamentals for Backend Developers](/Knowledge-base/Backend/networking-fundamentals-for-backend-developers)
 - [x] [Understanding the Domain Name System (DNS)](/Knowledge-base/Backend/understanding-the-domain-name-system-dns)
 - [x] [IP Addressing for Backend Applications](/Knowledge-base/Backend/ip-addressing-for-backend-applications)
 - [x] [Load Balancing for Scalable Backend Applications](/Knowledge-base/Backend/load-balancing-for-scalable-backend-applications)
