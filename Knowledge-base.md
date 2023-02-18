@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T08:06:26.252Z
+date: 2023-02-18T08:33:08.447Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -871,7 +871,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and AES: Encrypting and Decrypting Data](/Knowledge-base/Kotlin/kotlin-and-aes-encrypting-and-decrypting-data)
 - [x] [Kotlin and Hashing: Securing Passwords and Sensitive Data](/Knowledge-base/Kotlin/kotlin-and-hashing-securing-passwords-and-sensitive-data)
 - [x] [Kotlin and Bcrypt: A Better Alternative to Simple Hashing](/Knowledge-base/Kotlin/kotlin-and-bcrypt-a-better-alternative-to-simple-hashing)
-- [ ] Kotlin and JSON: Processing and Generating JSON Data|Kotlin
+- [x] [Kotlin and JSON: Processing and Generating JSON Data](/Knowledge-base/Kotlin/kotlin-and-json-processing-and-generating-json-data)
 - [x] [Kotlin and XML: Parsing and Generating XML Data](/Knowledge-base/Kotlin/kotlin-and-xml-parsing-and-generating-xml-data)
 - [x] [Kotlin and Test Driven Development (TDD): A Hands-on Guide](/Knowledge-base/Kotlin/kotlin-and-test-driven-development-tdd-a-hands-on-guide)
 - [x] [Kotlin and Continuous Deployment: Automating Your Deployment Workflow](/Knowledge-base/Kotlin/kotlin-and-continuous-deployment-automating-your-deployment-workflow)
