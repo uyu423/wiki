@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-17T23:32:47.234Z
+date: 2023-02-18T00:06:31.142Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -811,7 +811,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Concurrent Programming with Kotlin's Channels and Flow](/Knowledge-base/Kotlin/concurrent-programming-with-kotlin-s-channels-and-flow)
 - [x] [Using Sealed Classes in Kotlin](/Knowledge-base/Kotlin/using-sealed-classes-in-kotlin)
 - [x] [Understanding the Delegation Pattern in Kotlin](/Knowledge-base/Kotlin/understanding-the-delegation-pattern-in-kotlin)
-- [ ] Exploring the Power of Kotlin's Standard Library Functions|Kotlin
+- [x] [Exploring the Power of Kotlin's Standard Library Functions](/Knowledge-base/Kotlin/exploring-the-power-of-kotlin-s-standard-library-functions)
 - [ ] Kotlin for Web Development: Building REST APIs|Kotlin
 - [x] [Kotlin with Spring Boot: Auto-configuration and Actuator](/Knowledge-base/Kotlin/kotlin-with-spring-boot-auto-configuration-and-actuator)
 - [x] [Kotlin Microservices: Building and Deploying](/Knowledge-base/Kotlin/kotlin-microservices-building-and-deploying)
