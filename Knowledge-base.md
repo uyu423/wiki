@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T15:32:41.759Z
+date: 2023-02-18T16:06:27.554Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -932,7 +932,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Securing Backend Applications with OAuth and JWT](/Knowledge-base/Backend/securing-backend-applications-with-oauth-and-jwt)
 - [x] [Managing User Sessions with Tokens and Cookies](/Knowledge-base/Backend/managing-user-sessions-with-tokens-and-cookies)
 - [x] [Implementing Authentication and Authorization for Backend Applications](/Knowledge-base/Backend/implementing-authentication-and-authorization-for-backend-applications)
-- [ ] Securing Backend Applications with HTTPS and Encryption|Backend
+- [x] [Securing Backend Applications with HTTPS and Encryption](/Knowledge-base/Backend/securing-backend-applications-with-https-and-encryption)
 - [x] [Hash Functions and PBKDF2 for Secure Passwords](/Knowledge-base/Backend/hash-functions-and-pbkdf2-for-secure-passwords)
 - [x] [Scaling Backend Applications with Load Balancing](/Knowledge-base/Backend/scaling-backend-applications-with-load-balancing)
 - [x] [Caching Strategies for Improved Performance](/Knowledge-base/Backend/caching-strategies-for-improved-performance)
