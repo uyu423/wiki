@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T21:32:24.456Z
+date: 2023-02-18T22:06:32.424Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -991,7 +991,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Implementing Serverless Functions with AWS Lambda and Google Cloud Functions](/Knowledge-base/Backend/implementing-serverless-functions-with-aws-lambda-and-google-cloud-functions)
 - [x] [Understanding Backend as a Service (BaaS)](/Knowledge-base/Backend/understanding-backend-as-a-service-baas)
 - [x] [Real-time Communication in Backend Development with WebSockets and Server-Sent Events](/Knowledge-base/Backend/real-time-communication-in-backend-development-with-websockets-and-server-sent-events)
-- [ ] Debugging and Troubleshooting in Backend Development|Backend
+- [x] [Debugging and Troubleshooting in Backend Development](/Knowledge-base/Backend/debugging-and-troubleshooting-in-backend-development)
 - [x] [Monitoring and Logging in Infrastructure Development](/Knowledge-base/Backend/monitoring-and-logging-in-infrastructure-development)
 - [x] [Implementing Error Handling for Better User Experience](/Knowledge-base/Backend/implementing-error-handling-for-better-user-experience)
 - [ ] Data Validation Techniques in Backend Development|Backend
