@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T02:06:28.486Z
+date: 2023-02-18T02:32:32.045Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -827,7 +827,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin Testing: Unit and Integration Tests](/Knowledge-base/Kotlin/kotlin-testing-unit-and-integration-tests)
 - [x] [Kotlin Continuous Deployment: Automating the Deployment Process](/Knowledge-base/Kotlin/kotlin-continuous-deployment-automating-the-deployment-process)
 - [x] [Kotlin and the Cloud: Deploying to a Cloud Provider](/Knowledge-base/Kotlin/kotlin-and-the-cloud-deploying-to-a-cloud-provider)
-- [ ] Kotlin and REST API: Building and Consuming RESTful Services|Kotlin
+- [x] [Kotlin and REST API: Building and Consuming RESTful Services](/Knowledge-base/Kotlin/kotlin-and-rest-api-building-and-consuming-restful-services)
 - [x] [Kotlin and XML Processing: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-xml-processing-advanced-topics)
 - [ ] Kotlin and JSON Processing: Advanced Topics|Kotlin
 - [x] [Kotlin and Token-based Authentication](/Knowledge-base/Kotlin/kotlin-and-token-based-authentication)
