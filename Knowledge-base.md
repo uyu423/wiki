@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T20:32:45.654Z
+date: 2023-02-18T21:06:26.436Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -970,7 +970,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Setting Up a Virtual Private Network (VPN) for Secure Communication](/Knowledge-base/Backend/setting-up-a-virtual-private-network-vpn-for-secure-communication)
 - [x] [Enhancing User Experience with Content Delivery Network (CDN)](/Knowledge-base/Backend/enhancing-user-experience-with-content-delivery-network-cdn)
 - [x] [Implementing Distributed File Systems in Infrastructure Development](/Knowledge-base/Backend/implementing-distributed-file-systems-in-infrastructure-development)
-- [ ] Resource Allocation and Scheduling in Backend Development|Backend
+- [x] [Resource Allocation and Scheduling in Backend Development](/Knowledge-base/Backend/resource-allocation-and-scheduling-in-backend-development)
 - [x] [Managing Clusters for High Availability](/Knowledge-base/Backend/managing-clusters-for-high-availability)
 - [x] [Service Discovery in Microservice Architecture](/Knowledge-base/Backend/service-discovery-in-microservice-architecture)
 - [x] [Task Orchestration for Improved Workflow Management](/Knowledge-base/Backend/task-orchestration-for-improved-workflow-management)
