@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T23:06:24.008Z
+date: 2023-02-18T23:32:24.674Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -997,7 +997,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Data Validation Techniques in Backend Development](/Knowledge-base/Backend/data-validation-techniques-in-backend-development)
 - [x] [Session Management for Improved User Experience](/Knowledge-base/Backend/session-management-for-improved-user-experience)
 - [x] [Caching Techniques for Better Performance in Backend Development](/Knowledge-base/Backend/caching-techniques-for-better-performance-in-backend-development)
-- [ ] Auto-scaling for Improved Resource Management|Backend
+- [x] [Auto-scaling for Improved Resource Management](/Knowledge-base/Backend/auto-scaling-for-improved-resource-management)
 - [x] [ORM for Better Data Management in Backend Development](/Knowledge-base/Backend/orm-for-better-data-management-in-backend-development)
 - [ ] Database Migration for Improved Data Management.|Backend
 
