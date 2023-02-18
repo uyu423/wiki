@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T22:32:28.444Z
+date: 2023-02-18T23:06:24.008Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -995,7 +995,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Monitoring and Logging in Infrastructure Development](/Knowledge-base/Backend/monitoring-and-logging-in-infrastructure-development)
 - [x] [Implementing Error Handling for Better User Experience](/Knowledge-base/Backend/implementing-error-handling-for-better-user-experience)
 - [x] [Data Validation Techniques in Backend Development](/Knowledge-base/Backend/data-validation-techniques-in-backend-development)
-- [ ] Session Management for Improved User Experience|Backend
+- [x] [Session Management for Improved User Experience](/Knowledge-base/Backend/session-management-for-improved-user-experience)
 - [x] [Caching Techniques for Better Performance in Backend Development](/Knowledge-base/Backend/caching-techniques-for-better-performance-in-backend-development)
 - [ ] Auto-scaling for Improved Resource Management|Backend
 - [x] [ORM for Better Data Management in Backend Development](/Knowledge-base/Backend/orm-for-better-data-management-in-backend-development)
