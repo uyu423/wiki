@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T02:32:32.045Z
+date: 2023-02-18T03:06:32.141Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -829,7 +829,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and the Cloud: Deploying to a Cloud Provider](/Knowledge-base/Kotlin/kotlin-and-the-cloud-deploying-to-a-cloud-provider)
 - [x] [Kotlin and REST API: Building and Consuming RESTful Services](/Knowledge-base/Kotlin/kotlin-and-rest-api-building-and-consuming-restful-services)
 - [x] [Kotlin and XML Processing: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-xml-processing-advanced-topics)
-- [ ] Kotlin and JSON Processing: Advanced Topics|Kotlin
+- [x] [Kotlin and JSON Processing: Advanced Topics](/Knowledge-base/Kotlin/kotlin-and-json-processing-advanced-topics)
 - [x] [Kotlin and Token-based Authentication](/Knowledge-base/Kotlin/kotlin-and-token-based-authentication)
 - [ ] Kotlin and Session Management|Kotlin
 - [x] [Kotlin and Authorization: Implementing Role-Based Access](/Knowledge-base/Kotlin/kotlin-and-authorization-implementing-role-based-access)
