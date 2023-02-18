@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T12:07:50.569Z
+date: 2023-02-18T12:32:36.617Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -906,7 +906,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Understanding the Benefits of Spring Boot for Backend Development](/Knowledge-base/Backend/understanding-the-benefits-of-spring-boot-for-backend-development)
 - [x] [Building a Spring Batch Application for Data Processing](/Knowledge-base/Backend/building-a-spring-batch-application-for-data-processing)
 - [x] [Integrating Kafka with Spring Boot for Real-time Processing](/Knowledge-base/Backend/integrating-kafka-with-spring-boot-for-real-time-processing)
-- [ ] Database Management with MySQL and Redis|Backend
+- [x] [Database Management with MySQL and Redis](/Knowledge-base/Backend/database-management-with-mysql-and-redis)
 - [x] [Setting up a Continuous Integration Pipeline with Jenkins and IntelliJ](/Knowledge-base/Backend/setting-up-a-continuous-integration-pipeline-with-jenkins-and-intellij)
 - [x] [Deploying Backend Applications with Kubernetes and Docker](/Knowledge-base/Backend/deploying-backend-applications-with-kubernetes-and-docker)
 - [ ] Exploring Node.js and TypeScript for Backend Development|Backend
