@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T19:06:35.603Z
+date: 2023-02-18T19:32:31.870Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -958,7 +958,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Securing Backend Applications with Firewall](/Knowledge-base/Backend/securing-backend-applications-with-firewall)
 - [x] [Virtual Private Network (VPN) for Secure Backend Communication](/Knowledge-base/Backend/virtual-private-network-vpn-for-secure-backend-communication)
 - [x] [Content Delivery Network (CDN) for Scalable Backend Applications](/Knowledge-base/Backend/content-delivery-network-cdn-for-scalable-backend-applications)
-- [ ] Distributed File Systems for Backend Applications|Backend
+- [x] [Distributed File Systems for Backend Applications](/Knowledge-base/Backend/distributed-file-systems-for-backend-applications)
 - [ ] Resource Allocation and Scheduling for Backend Applications|Backend
 - [x] [Cluster Management for Scalable Backend Applications](/Knowledge-base/Backend/cluster-management-for-scalable-backend-applications)
 - [x] [Service Discovery for Microservices-based Backend Applications](/Knowledge-base/Backend/service-discovery-for-microservices-based-backend-applications)
