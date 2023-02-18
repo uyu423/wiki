@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T09:32:48.161Z
+date: 2023-02-18T10:06:38.110Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -890,7 +890,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Kotlin and TypeScript: Building a Web Application with a JavaScript Framework](/Knowledge-base/Kotlin/kotlin-and-typescript-building-a-web-application-with-a-javascript-framework)
 - [x] [Kotlin and Express.js: Building a Web Application with a Node.js Framework](/Knowledge-base/Kotlin/kotlin-and-express-js-building-a-web-application-with-a-node-js-framework)
 - [x] [Kotlin and GraphQL: A Hands-on Guide to Querying APIs](/Knowledge-base/Kotlin/kotlin-and-graphql-a-hands-on-guide-to-querying-apis)
-- [ ] Kotlin and gRPC: Building High-Performance APIs|Kotlin
+- [x] [Kotlin and gRPC: Building High-Performance APIs](/Knowledge-base/Kotlin/kotlin-and-grpc-building-high-performance-apis)
 - [x] [Kotlin and Serverless Functions: Building Scalable and Cost-Effective Applications](/Knowledge-base/Kotlin/kotlin-and-serverless-functions-building-scalable-and-cost-effective-applications)
 - [x] [Kotlin and Event-driven Architecture: Building Responsive and Reactive Systems](/Knowledge-base/Kotlin/kotlin-and-event-driven-architecture-building-responsive-and-reactive-systems)
 - [x] [Kotlin and Real-time Communication: Building Chat and Notification Systems](/Knowledge-base/Kotlin/kotlin-and-real-time-communication-building-chat-and-notification-systems)
