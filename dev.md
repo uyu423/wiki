@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2023-02-19T11:12:34.025Z
+date: 2023-02-19T11:47:00.050Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -133,6 +133,9 @@ dateCreated: 2022-11-24T03:26:46.738Z
 ### Wiki.js
 - [Using-AWS-S3-Save-Storage-for-Wiki](/dev/Wiki-js/Using-AWS-S3-Save-Storage-for-Wiki)
 - [How-to-add-temporary-sitemap-xml-to-Wiki-js](/dev/Wiki-js/How-to-add-temporary-sitemap-xml-to-Wiki-js)
+
+### Windows
+- [sftp-in-windows-explorer](/ko/dev/Windows/sftp-in-windows-explorer)
 
 ### Nest.js
 - [Nest-js](/dev/Nest-js)
