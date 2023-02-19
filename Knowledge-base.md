@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-18T23:32:24.674Z
+date: 2023-02-19T00:06:35.856Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -999,7 +999,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Caching Techniques for Better Performance in Backend Development](/Knowledge-base/Backend/caching-techniques-for-better-performance-in-backend-development)
 - [x] [Auto-scaling for Improved Resource Management](/Knowledge-base/Backend/auto-scaling-for-improved-resource-management)
 - [x] [ORM for Better Data Management in Backend Development](/Knowledge-base/Backend/orm-for-better-data-management-in-backend-development)
-- [ ] Database Migration for Improved Data Management.|Backend
+- [x] [Database Migration for Improved Data Management.](/Knowledge-base/Backend/database-migration-for-improved-data-management-)
 
 ## Cloud
 
