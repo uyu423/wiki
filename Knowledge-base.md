@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-19T03:32:30.682Z
+date: 2023-02-19T04:06:33.691Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1037,7 +1037,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AWS Comprehend: Analyzing Text Data with Natural Language Processing](/Knowledge-base/Cloud/aws-comprehend-analyzing-text-data-with-natural-language-processing)
 - [x] [AWS Rekognition: Analyzing Image and Video Data with Computer Vision](/Knowledge-base/Cloud/aws-rekognition-analyzing-image-and-video-data-with-computer-vision)
 - [x] [AWS Transcribe: Automating Speech-to-Text Transcription in the Cloud](/Knowledge-base/Cloud/aws-transcribe-automating-speech-to-text-transcription-in-the-cloud)
-- [ ] AWS Translate: Translating Text Across Languages in the Cloud|Cloud
+- [x] [AWS Translate: Translating Text Across Languages in the Cloud](/Knowledge-base/Cloud/aws-translate-translating-text-across-languages-in-the-cloud)
 - [x] [AWS Polly: Generating Speech from Text with Text-to-Speech Technology](/Knowledge-base/Cloud/aws-polly-generating-speech-from-text-with-text-to-speech-technology)
 - [x] [AWS Lightsail: Launching Simple Websites and Applications with a Fully Managed PaaS](/Knowledge-base/Cloud/aws-lightsail-launching-simple-websites-and-applications-with-a-fully-managed-paas)
 - [ ] AWS Fargate: Running Containers without Managing Infrastructure|Cloud
