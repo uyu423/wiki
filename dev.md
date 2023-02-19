@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2023-01-27T07:59:35.692Z
+date: 2023-02-19T11:12:34.025Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -114,6 +114,7 @@ dateCreated: 2022-11-24T03:26:46.738Z
 - [Registering-Executables-as-Ubuntu-Applications](/dev/Ubuntu/Registering-Executables-as-Ubuntu-Applications)
 - [Ubuntu-1804-initial-setup](/dev/Ubuntu/Ubuntu-1804-initial-setup)
 - [Using-Windows-Remote-Desktop-in-Ubuntu](/dev/Ubuntu/Using-Windows-Remote-Desktop-in-Ubuntu)
+- [ffmpeg-compile-with-nvidia-accelerator](/ko/dev/Ubuntu/ffmpeg-compile-with-nvidia-accelerator)
 
 ### Vim
 - [Building-a-Nodejs-development-environment-in-vim](/dev/Vim/Building-a-Nodejs-development-environment-in-vim)
