@@ -2,7 +2,7 @@
 title: 윈도우 탐색기에서 SFTP 폴더 사용하기
 description: 
 published: true
-date: 2023-02-19T11:44:01.082Z
+date: 2023-02-19T11:46:16.253Z
 tags: sftp, windows
 editor: markdown
 dateCreated: 2023-02-19T11:44:01.082Z
@@ -43,3 +43,10 @@ bindfs  --no-allow-other /media/tc1/origin_directory /home/yowu/link_directory
 ```bash
 sudo umount /home/yowu/link_directory
 ```
+
+### References
+
+- [[Windows] 외부 ssh 서버 폴더 연결*nuggy875.tistory.com*](https://nuggy875.tistory.com/160)
+- [How do I mount a folder from another partition?*askubuntu.com*](https://askubuntu.com/questions/205841/how-do-i-mount-a-folder-from-another-partition)
+- [bindfs, inverse operation?*stackoverflow.com*](https://stackoverflow.com/questions/19336170/bindfs-inverse-operation)
+{.links-list}
