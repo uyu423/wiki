@@ -2,16 +2,16 @@
 title: WSL2 Ubuntu에서 ffmpeg 컴파일 (with Nvidia Accelerator)
 description: 
 published: true
-date: 2023-02-19T11:07:40.667Z
+date: 2023-02-19T11:13:44.948Z
 tags: cuda, ffmpeg, nvidia
 editor: markdown
 dateCreated: 2023-02-19T11:04:04.971Z
 ---
 
 > - WSL2 Ubuntu 환경에서 ffmpeg 를 사용할 일이 생김
-> - APT 저장소의 ffmpeg는 영상 처리에 CPU를 사용한다
-> - ffmpeg가 Nvidia 그래픽카드의 하드웨어 가속을 사용하려면 ffmpeg를 다시 컴파일해야한다고 한다.
-> - 대충 아래 커맨드를 모두 때려넣었더니 된다.
+> - apt 저장소의 ffmpeg는 기본적으로 GPU가 아닌 CPU를 사용한다. (onyl WSL??)
+> - Nvidia 그래픽카드의 하드웨어 가속을 사용하려면 ffmpeg에 옵션을 추가해서 필요
+> - 아래 순서로 진행하니 큰 이슈 없이 완료되었음
 
 ## Nvida 관련 패키지 설치
 
