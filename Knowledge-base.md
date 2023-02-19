@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-19T02:06:20.891Z
+date: 2023-02-19T02:32:56.143Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1014,7 +1014,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AWS SQS: Building a Distributed Task Queue System in the Cloud](/Knowledge-base/Cloud/aws-sqs-building-a-distributed-task-queue-system-in-the-cloud)
 - [x] [AWS IAM: Managing User Access and Permissions in the Cloud](/Knowledge-base/Cloud/aws-iam-managing-user-access-and-permissions-in-the-cloud)
 - [x] [AWS Kinesis: Processing Real-Time Streaming Data in the Cloud](/Knowledge-base/Cloud/aws-kinesis-processing-real-time-streaming-data-in-the-cloud)
-- [ ] AWS CloudFormation: Automating Cloud Infrastructure Deployment|Cloud
+- [x] [AWS CloudFormation: Automating Cloud Infrastructure Deployment](/Knowledge-base/Cloud/aws-cloudformation-automating-cloud-infrastructure-deployment)
 - [x] [AWS ECS: Deploying and Managing Docker Containers in the Cloud](/Knowledge-base/Cloud/aws-ecs-deploying-and-managing-docker-containers-in-the-cloud)
 - [x] [AWS Route 53: Building a Scalable and Resilient DNS System in the Cloud](/Knowledge-base/Cloud/aws-route-53-building-a-scalable-and-resilient-dns-system-in-the-cloud)
 - [x] [AWS CloudFront: Improving Content Delivery with a CDN](/Knowledge-base/Cloud/aws-cloudfront-improving-content-delivery-with-a-cdn)
