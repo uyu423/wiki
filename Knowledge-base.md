@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-19T01:07:42.227Z
+date: 2023-02-19T01:32:48.844Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1006,7 +1006,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AWS Elastic Beanstalk: Deploying and Scaling a Simple Web Application](/Knowledge-base/Cloud/aws-elastic-beanstalk-deploying-and-scaling-a-simple-web-application)
 - [x] [AWS Lambda: Building Serverless Functions for Event-Driven Applications](/Knowledge-base/Cloud/aws-lambda-building-serverless-functions-for-event-driven-applications)
 - [x] [AWS DynamoDB: Creating a NoSQL Database and Integrating with a Web Application](/Knowledge-base/Cloud/aws-dynamodb-creating-a-nosql-database-and-integrating-with-a-web-application)
-- [ ] AWS S3: Storing and Retrieving Files in the Cloud|Cloud
+- [x] [AWS S3: Storing and Retrieving Files in the Cloud](/Knowledge-base/Cloud/aws-s3-storing-and-retrieving-files-in-the-cloud)
 - [x] [AWS RDS: Setting Up a Relational Database in the Cloud](/Knowledge-base/Cloud/aws-rds-setting-up-a-relational-database-in-the-cloud)
 - [ ] AWS EC2: Launching and Configuring a Virtual Machine in the Cloud|Cloud
 - [x] [AWS VPC: Securing a Web Application with Virtual Private Clouds](/Knowledge-base/Cloud/aws-vpc-securing-a-web-application-with-virtual-private-clouds)
