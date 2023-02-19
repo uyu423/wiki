@@ -2,8 +2,8 @@
 title: WSL2 Ubuntu에서 ffmpeg 컴파일 (with Nvidia Accelerator)
 description: 
 published: true
-date: 2023-02-19T11:04:04.971Z
-tags: ffmpeg, nvidia, cuda
+date: 2023-02-19T11:07:40.667Z
+tags: cuda, ffmpeg, nvidia
 editor: markdown
 dateCreated: 2023-02-19T11:04:04.971Z
 ---
@@ -101,7 +101,7 @@ ffmpeg -y -hwaccel cuda -i input.file output.file
 
 ## 기타
 
-- CPU(Ryzen 3700X)만 사용해서 ffmpeg를 실행했을 때보다 약 2배 정도 성능이 좋아졌다.
+- **GPU 옵션을 추가로 사용한 이후 CPU(Ryzen 3700X)만 사용해서 ffmpeg를 실행했을 때보다 약 2~3배 정도 성능이 좋아졌다.**
 - `nvidia-smi` 커맨드를 사용하면 현재 그래픽 카드를 사용 현황을 확인할 수 있다.
 
 ```bash
@@ -127,6 +127,10 @@ Sun Feb 19 19:53:48 2023
 |    0   N/A  N/A      5287      G   /ffmpeg                         N/A      |
 +-----------------------------------------------------------------------------+
 ```
+
+- 작업관리자를 확인해봐도 WSL2에서 ffmpeg를 실행시 GPU를 쓰고 있음이 정상적으로 확인된다.
+
+![ffmpeg-cuda-taskmgr.png](/ffmpeg-cuda-taskmgr.png)
 
 ### References
 
