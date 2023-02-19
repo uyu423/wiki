@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-19T00:06:35.856Z
+date: 2023-02-19T00:33:39.503Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1004,7 +1004,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 ## Cloud
 
 - [x] [AWS Elastic Beanstalk: Deploying and Scaling a Simple Web Application](/Knowledge-base/Cloud/aws-elastic-beanstalk-deploying-and-scaling-a-simple-web-application)
-- [ ] AWS Lambda: Building Serverless Functions for Event-Driven Applications|Cloud
+- [x] [AWS Lambda: Building Serverless Functions for Event-Driven Applications](/Knowledge-base/Cloud/aws-lambda-building-serverless-functions-for-event-driven-applications)
 - [ ] AWS DynamoDB: Creating a NoSQL Database and Integrating with a Web Application|Cloud
 - [ ] AWS S3: Storing and Retrieving Files in the Cloud|Cloud
 - [x] [AWS RDS: Setting Up a Relational Database in the Cloud](/Knowledge-base/Cloud/aws-rds-setting-up-a-relational-database-in-the-cloud)
