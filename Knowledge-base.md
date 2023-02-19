@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-19T04:32:25.235Z
+date: 2023-02-19T05:06:31.534Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1041,7 +1041,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AWS Polly: Generating Speech from Text with Text-to-Speech Technology](/Knowledge-base/Cloud/aws-polly-generating-speech-from-text-with-text-to-speech-technology)
 - [x] [AWS Lightsail: Launching Simple Websites and Applications with a Fully Managed PaaS](/Knowledge-base/Cloud/aws-lightsail-launching-simple-websites-and-applications-with-a-fully-managed-paas)
 - [x] [AWS Fargate: Running Containers without Managing Infrastructure](/Knowledge-base/Cloud/aws-fargate-running-containers-without-managing-infrastructure)
-- [ ] Debugging Cloud Services: Best Practices for AWS and Azure|Cloud
+- [x] [Debugging Cloud Services: Best Practices for AWS and Azure](/Knowledge-base/Cloud/debugging-cloud-services-best-practices-for-aws-and-azure)
 - [x] [Scaling Your Cloud Services: Best Practices for AWS and Azure](/Knowledge-base/Cloud/scaling-your-cloud-services-best-practices-for-aws-and-azure)
 - [ ] Managing Access and Security for Cloud Services|Cloud
 - [ ] Continuous Deployment with AWS and Azure|Cloud
