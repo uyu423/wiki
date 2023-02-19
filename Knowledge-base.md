@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-19T06:32:21.637Z
+date: 2023-02-19T07:06:34.358Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1050,7 +1050,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Integrating Cloud Services with On-Premises Systems](/Knowledge-base/Cloud/integrating-cloud-services-with-on-premises-systems)
 - [x] [Automated Testing for Cloud Services on AWS and Azure](/Knowledge-base/Cloud/automated-testing-for-cloud-services-on-aws-and-azure)
 - [x] [Case Study: Developing and Launching a Simple e-Commerce Service on AWS](/Knowledge-base/Cloud/case-study-developing-and-launching-a-simple-e-commerce-service-on-aws)
-- [ ] Case Study: Developing and Launching a Simple Chat Application on Azure|Cloud
+- [x] [Case Study: Developing and Launching a Simple Chat Application on Azure](/Knowledge-base/Cloud/case-study-developing-and-launching-a-simple-chat-application-on-azure)
 - [x] [Best Practices for Cloud DevOps on AWS and Azure](/Knowledge-base/Cloud/best-practices-for-cloud-devops-on-aws-and-azure)
 - [x] [Migrating Existing Applications to the Cloud on AWS and Azure](/Knowledge-base/Cloud/migrating-existing-applications-to-the-cloud-on-aws-and-azure)
 - [ ] Best Practices for Monitoring and Logging Cloud Services on AWS and Azure"|Cloud
