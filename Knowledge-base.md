@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-19T01:32:48.844Z
+date: 2023-02-19T02:06:20.891Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1008,7 +1008,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AWS DynamoDB: Creating a NoSQL Database and Integrating with a Web Application](/Knowledge-base/Cloud/aws-dynamodb-creating-a-nosql-database-and-integrating-with-a-web-application)
 - [x] [AWS S3: Storing and Retrieving Files in the Cloud](/Knowledge-base/Cloud/aws-s3-storing-and-retrieving-files-in-the-cloud)
 - [x] [AWS RDS: Setting Up a Relational Database in the Cloud](/Knowledge-base/Cloud/aws-rds-setting-up-a-relational-database-in-the-cloud)
-- [ ] AWS EC2: Launching and Configuring a Virtual Machine in the Cloud|Cloud
+- [x] [AWS EC2: Launching and Configuring a Virtual Machine in the Cloud](/Knowledge-base/Cloud/aws-ec2-launching-and-configuring-a-virtual-machine-in-the-cloud)
 - [x] [AWS VPC: Securing a Web Application with Virtual Private Clouds](/Knowledge-base/Cloud/aws-vpc-securing-a-web-application-with-virtual-private-clouds)
 - [x] [AWS SNS: Building a Pub/Sub Notification System in the Cloud](/Knowledge-base/Cloud/aws-sns-building-a-pubsub-notification-system-in-the-cloud)
 - [x] [AWS SQS: Building a Distributed Task Queue System in the Cloud](/Knowledge-base/Cloud/aws-sqs-building-a-distributed-task-queue-system-in-the-cloud)
