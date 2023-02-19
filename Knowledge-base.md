@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-19T05:06:31.534Z
+date: 2023-02-19T05:32:22.663Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1043,7 +1043,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [AWS Fargate: Running Containers without Managing Infrastructure](/Knowledge-base/Cloud/aws-fargate-running-containers-without-managing-infrastructure)
 - [x] [Debugging Cloud Services: Best Practices for AWS and Azure](/Knowledge-base/Cloud/debugging-cloud-services-best-practices-for-aws-and-azure)
 - [x] [Scaling Your Cloud Services: Best Practices for AWS and Azure](/Knowledge-base/Cloud/scaling-your-cloud-services-best-practices-for-aws-and-azure)
-- [ ] Managing Access and Security for Cloud Services|Cloud
+- [x] [Managing Access and Security for Cloud Services](/Knowledge-base/Cloud/managing-access-and-security-for-cloud-services)
 - [ ] Continuous Deployment with AWS and Azure|Cloud
 - [x] [Improving Performance of Cloud Services on AWS and Azure](/Knowledge-base/Cloud/improving-performance-of-cloud-services-on-aws-and-azure)
 - [x] [Cost Optimization for Cloud Services on AWS and Azure](/Knowledge-base/Cloud/cost-optimization-for-cloud-services-on-aws-and-azure)
