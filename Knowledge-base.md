@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-23T08:33:08.044Z
+date: 2023-02-23T09:33:25.817Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2002,7 +2002,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Xiaomi Corporation (China)](/Knowledge-base/Dictionary/Company/xiaomi-corporation-china)
 - [ ] ByteDance (China)|Dictionary/Company
 - [ ] Meituan (China)|Dictionary/Company
-- [ ] SoftBank Group Corp. (Japan)|Dictionary/Company
+- [x] [SoftBank Group Corp. (Japan)](/Knowledge-base/Dictionary/Company/softbank-group-corp-japan)
 - [x] [JD.com, Inc. (China)](/Knowledge-base/Dictionary/Company/jd-com-inc-china)
 - [x] [Pinduoduo (China)](/Knowledge-base/Dictionary/Company/pinduoduo-china)
 - [x] [Honor (China)](/Knowledge-base/Dictionary/Company/honor-china)
