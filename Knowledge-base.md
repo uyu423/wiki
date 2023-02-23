@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-23T02:31:36.898Z
+date: 2023-02-23T02:32:32.672Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1166,7 +1166,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 087: Search Engine Optimization (SEO)|Software-Development/Learning
 - [x] [Software Development 088: Social Media Marketing](/Knowledge-base/Software-Development/Learning/software-development-088-social-media-marketing)
 - [x] [Software Development 089: Content Marketing](/Knowledge-base/Software-Development/Learning/software-development-089-content-marketing)
-- [ ] Software Development 090: Email Marketing|Software-Development/Learning
+- [x] [Software Development 090: Email Marketing](/Knowledge-base/Software-Development/Learning/software-development-090-email-marketing)
 - [ ] Software Development 091: Influencer Marketing|Software-Development/Learning
 - [x] [Software Development 092: Affiliate Marketing](/Knowledge-base/Software-Development/Learning/software-development-092-affiliate-marketing)
 - [x] [Software Development 093: E-Commerce](/Knowledge-base/Software-Development/Learning/software-development-093-e-commerce)
