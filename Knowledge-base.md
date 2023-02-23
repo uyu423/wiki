@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-23T10:32:44.996Z
+date: 2023-02-23T11:32:33.673Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1115,7 +1115,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 036: Virtual Reality (VR) and Augmented Reality (AR)|Software-Development/Learning
 - [x] [Software Development 037: Blockchain Technology](/Knowledge-base/Software-Development/Learning/software-development-037-blockchain-technology)
 - [x] [Software Development 038: Cryptography](/Knowledge-base/Software-Development/Learning/software-development-038-cryptography)
-- [ ] Software Development 039: Cybersecurity|Software-Development/Learning
+- [x] [Software Development 039: Cybersecurity](/Knowledge-base/Software-Development/Learning/software-development-039-cybersecurity)
 - [x] [Software Development 040: Ethical Hacking](/Knowledge-base/Software-Development/Learning/software-development-040-ethical-hacking)
 - [ ] Software Development 041: Network Security|Software-Development/Learning
 - [x] [Software Development 042: Database Security](/Knowledge-base/Software-Development/Learning/software-development-042-database-security)
