@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-23T13:32:33.080Z
+date: 2023-02-23T14:33:05.002Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2035,7 +2035,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 
 - [ ] Steve Jobs (Apple Co-founder)|Dictionary/Person
-- [ ] Bill Gates (Microsoft Co-founder)|Dictionary/Person
+- [x] [Bill Gates (Microsoft Co-founder)](/Knowledge-base/Dictionary/Person/bill-gates-microsoft-co-founder)
 - [x] [Steve Wozniak (Apple Co-founder)](/Knowledge-base/Dictionary/Person/steve-wozniak-apple-co-founder)
 - [ ] Mark Zuckerberg (Facebook CEO)|Dictionary/Person
 - [x] [Larry Page (Google Co-founder)](/Knowledge-base/Dictionary/Person/larry-page-google-co-founder)
