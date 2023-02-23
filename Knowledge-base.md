@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-23T06:32:22.921Z
+date: 2023-02-23T07:33:32.227Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2039,7 +2039,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Steve Wozniak (Apple Co-founder)](/Knowledge-base/Dictionary/Person/steve-wozniak-apple-co-founder)
 - [ ] Mark Zuckerberg (Facebook CEO)|Dictionary/Person
 - [x] [Larry Page (Google Co-founder)](/Knowledge-base/Dictionary/Person/larry-page-google-co-founder)
-- [ ] Sergey Brin (Google Co-founder)|Dictionary/Person
+- [x] [Sergey Brin (Google Co-founder)](/Knowledge-base/Dictionary/Person/sergey-brin-google-co-founder)
 - [ ] Jeff Bezos (Amazon Founder and CEO)|Dictionary/Person
 - [x] [Elon Musk (Tesla CEO)](/Knowledge-base/Dictionary/Person/elon-musk-tesla-ceo)
 - [x] [Jack Ma (Alibaba Founder)](/Knowledge-base/Dictionary/Person/jack-ma-alibaba-founder)
