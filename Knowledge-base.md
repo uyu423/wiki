@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-23T02:32:32.672Z
+date: 2023-02-23T02:34:02.417Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1053,7 +1053,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Case Study: Developing and Launching a Simple Chat Application on Azure](/Knowledge-base/Cloud/case-study-developing-and-launching-a-simple-chat-application-on-azure)
 - [x] [Best Practices for Cloud DevOps on AWS and Azure](/Knowledge-base/Cloud/best-practices-for-cloud-devops-on-aws-and-azure)
 - [x] [Migrating Existing Applications to the Cloud on AWS and Azure](/Knowledge-base/Cloud/migrating-existing-applications-to-the-cloud-on-aws-and-azure)
-- [ ] Best Practices for Monitoring and Logging Cloud Services on AWS and Azure"|Cloud
+- [ ] Best Practices for Monitoring and Logging Cloud Services on AWS and Azure|Cloud
 - [ ] Introduction to Serverless Architecture on AWS and Azure|Cloud
 - [x] [Building Microservices on AWS and Azure](/Knowledge-base/Cloud/building-microservices-on-aws-and-azure)
 - [x] [Managing Stateful Applications on AWS and Azure](/Knowledge-base/Cloud/managing-stateful-applications-on-aws-and-azure)
@@ -1357,7 +1357,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Working with Java's java.util.concurrent.locks.LockSupport for Thread Blocking](/Knowledge-base/Java/working-with-java-s-java-util-concurrent-locks-locksupport-for-thread-blocking)
 - [x] [Leveraging Java's java.util.concurrent.ForkJoinPool for Recursive Task Processing](/Knowledge-base/Java/leveraging-java-s-java-util-concurrent-forkjoinpool-for-recursive-task-processing)
 - [x] [Java's java.util.concurrent.CompletionService for Asynchronous Task Management](/Knowledge-base/Java/java-s-java-util-concurrent-completionservice-for-asynchronous-task-management)
-- [ ] Building Custom Concurrent Data Structures in Java"|Java
+- [ ] Building Custom Concurrent Data Structures in Java|Java
 
 ## TypeScript: Deep Dive
 
