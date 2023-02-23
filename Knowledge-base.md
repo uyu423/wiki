@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-23T17:32:39.720Z
+date: 2023-02-23T18:32:47.110Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1830,7 +1830,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Wearable Technology|Dictionary
 - [x] [Augmented Reality](/Knowledge-base/Dictionary/augmented-reality)
 - [ ] Virtual Reality|Dictionary
-- [ ] Game Development|Dictionary
+- [x] [Game Development](/Knowledge-base/Dictionary/game-development)
 - [x] [iOS Development](/Knowledge-base/Dictionary/ios-development)
 - [x] [Android Development](/Knowledge-base/Dictionary/android-development)
 - [x] [Cross-Platform Development](/Knowledge-base/Dictionary/cross-platform-development)
