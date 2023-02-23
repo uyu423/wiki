@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-23T14:33:05.002Z
+date: 2023-02-23T15:33:11.181Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2130,7 +2130,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Limor Fried (Adafruit Industries Founder)](/Knowledge-base/Dictionary/Person/limor-fried-adafruit-industries-founder)
 - [ ] Woz (Apple Co-founder)|Dictionary/Person
 - [x] [Robert Morris (UNIX Developer)](/Knowledge-base/Dictionary/Person/robert-morris-unix-developer)
-- [ ] Jaron Lanier (Virtual Reality Pioneer)|Dictionary/Person
+- [x] [Jaron Lanier (Virtual Reality Pioneer)](/Knowledge-base/Dictionary/Person/jaron-lanier-virtual-reality-pioneer)
 - [ ] Douglas Engelbart (Computer Mouse Inventor)|Dictionary/Person
 - [x] [Bob Taylor (ARPA Network Manager)](/Knowledge-base/Dictionary/Person/bob-taylor-arpa-network-manager)
 - [ ] Vint Cerf (Internet Pioneer)|Dictionary/Person
