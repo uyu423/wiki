@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-23T21:32:37.414Z
+date: 2023-02-23T22:32:37.752Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1456,7 +1456,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [OpenCV](/Knowledge-base/Dictionary/opencv)
 - [x] [NumPy](/Knowledge-base/Dictionary/numpy)
 - [ ] SciPy|Dictionary
-- [ ] Beautiful Soup|Dictionary
+- [x] [Beautiful Soup](/Knowledge-base/Dictionary/beautiful-soup)
 - [x] [Requests](/Knowledge-base/Dictionary/requests)
 - [x] [Scrapy](/Knowledge-base/Dictionary/scrapy)
 - [x] [Selenium](/Knowledge-base/Dictionary/selenium)
