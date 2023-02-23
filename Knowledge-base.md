@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-19T07:06:34.358Z
+date: 2023-02-23T02:31:36.898Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2095,7 +2095,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Ted Nelson (Hypertext Pioneer)|Dictionary/Person
 - [x] [Ivan Sutherland (Sketchpad Creator)](/Knowledge-base/Dictionary/Person/ivan-sutherland-sketchpad-creator)
 - [x] [John Warnock (Adobe Co-founder)](/Knowledge-base/Dictionary/Person/john-warnock-adobe-co-founder)
-- [ ] Charles Geschke (Adobe Co-founder)|Dictionary/Person
+- [x] [Charles Geschke (Adobe Co-founder)](/Knowledge-base/Dictionary/Person/charles-geschke-adobe-co-founder)
 - [ ] Alan Cooper (Visual Basic Creator)|Dictionary/Person
 - [ ] David Heinemeier Hansson (Ruby on Rails Creator)|Dictionary/Person
 - [ ] Marten Mickos (MySQL CEO)|Dictionary/Person
