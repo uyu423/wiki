@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-23T11:32:33.673Z
+date: 2023-02-23T12:32:58.649Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1953,7 +1953,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Dropbox, Inc.](/Knowledge-base/Dictionary/Company/dropbox-inc-)
 - [ ] AirBnB, Inc.|Dictionary/Company
 - [x] [Uber Technologies, Inc.](/Knowledge-base/Dictionary/Company/uber-technologies-inc-)
-- [ ] Tesla, Inc.|Dictionary/Company
+- [x] [Tesla, Inc.](/Knowledge-base/Dictionary/Company/tesla-inc-)
 - [ ] Palantir Technologies Inc.|Dictionary/Company
 - [x] [NVIDIA Corporation](/Knowledge-base/Dictionary/Company/nvidia-corporation)
 - [x] [AMD, Inc.](/Knowledge-base/Dictionary/Company/amd-inc-)
