@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T11:32:50.748Z
+date: 2023-02-24T12:33:01.993Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1182,7 +1182,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Basics of Database Design and Management](/Knowledge-base/Common/the-basics-of-database-design-and-management)
 - [x] [Getting Started with Web Development: HTML, CSS, and JavaScript](/Knowledge-base/Common/getting-started-with-web-development-html-css-and-javascript)
 - [x] [Mobile App Development: Android or iOS?](/Knowledge-base/Common/mobile-app-development-android-or-ios)
-- [ ] Cloud Computing: An Overview|Common
+- [x] [Cloud Computing: An Overview](/Knowledge-base/Common/cloud-computing-an-overview)
 - [ ] How to Build a RESTful API with Node.js|Common
 - [ ] The Importance of Software Testing|Common
 - [ ] Linux System Administration: An Introduction|Common
