@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T21:32:28.406Z
+date: 2023-02-24T22:32:50.994Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1915,7 +1915,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Employee Engagement|Dictionary
 - [x] [Employee Retention](/Knowledge-base/Dictionary/employee-retention)
 - [x] [Employee Benefits](/Knowledge-base/Dictionary/employee-benefits)
-- [ ] Health Insurance|Dictionary
+- [x] [Health Insurance](/Knowledge-base/Dictionary/health-insurance)
 - [x] [Life Insurance](/Knowledge-base/Dictionary/life-insurance)
 - [x] [Retirement Plans](/Knowledge-base/Dictionary/retirement-plans)
 - [x] [Stock Options](/Knowledge-base/Dictionary/stock-options)
