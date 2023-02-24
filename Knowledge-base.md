@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T03:32:37.036Z
+date: 2023-02-24T04:32:23.731Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1370,7 +1370,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Using TypeScript with Passport.js for User Authentication](/Knowledge-base/TypeScript/using-typescript-with-passport-js-for-user-authentication)
 - [x] [Handling File Uploads and Downloads with TypeScript and Multer](/Knowledge-base/TypeScript/handling-file-uploads-and-downloads-with-typescript-and-multer)
 - [ ] Working with Sessions and Cookies in TypeScript and Express.js|TypeScript
-- [ ] Debugging and Troubleshooting TypeScript Applications|TypeScript
+- [x] [Debugging and Troubleshooting TypeScript Applications](/Knowledge-base/TypeScript/debugging-and-troubleshooting-typescript-applications)
 - [x] [Securing TypeScript Applications with JWT and Bcrypt](/Knowledge-base/TypeScript/securing-typescript-applications-with-jwt-and-bcrypt)
 - [x] [Integrating TypeScript with Stripe for Payments](/Knowledge-base/TypeScript/integrating-typescript-with-stripe-for-payments)
 - [x] [Combining Nest.js, Express.js, and Next.js for Full-Stack Development](/Knowledge-base/TypeScript/combining-nest-js-express-js-and-next-js-for-full-stack-development)
