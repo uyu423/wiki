@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T18:32:36.411Z
+date: 2023-02-24T19:32:40.073Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1873,7 +1873,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Shared Hosting](/Knowledge-base/Dictionary/shared-hosting)
 - [ ] VPS Hosting|Dictionary
 - [x] [Dedicated Hosting](/Knowledge-base/Dictionary/dedicated-hosting)
-- [ ] Cloud Hosting|Dictionary
+- [x] [Cloud Hosting](/Knowledge-base/Dictionary/cloud-hosting)
 - [ ] Colocation Hosting|Dictionary
 - [ ] Load Balancing|Dictionary
 - [ ] VPN|Dictionary
