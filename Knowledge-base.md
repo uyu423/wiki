@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T00:32:22.262Z
+date: 2023-02-24T01:32:26.132Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1386,7 +1386,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Implementing Role-Based Access Control in TypeScript Applications](/Knowledge-base/TypeScript/implementing-role-based-access-control-in-typescript-applications)
 - [ ] Using TypeScript with Redis for Data Caching and Management|TypeScript
 - [x] [Building Progressive Web Applications with TypeScript and Next.js](/Knowledge-base/TypeScript/building-progressive-web-applications-with-typescript-and-next-js)
-- [ ] Integrating TypeScript with SendGrid for Email Notifications|TypeScript
+- [x] [Integrating TypeScript with SendGrid for Email Notifications](/Knowledge-base/TypeScript/integrating-typescript-with-sendgrid-for-email-notifications)
 - [x] [Working with Data Streams in TypeScript and Node.js](/Knowledge-base/TypeScript/working-with-data-streams-in-typescript-and-node-js)
 - [ ] Building E-Commerce Applications with TypeScript and Next.js|TypeScript
 - [ ] Using TypeScript with Elasticsearch for Search and Analytics|TypeScript
