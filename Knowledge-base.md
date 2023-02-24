@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T12:33:01.993Z
+date: 2023-02-24T13:33:07.816Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1222,7 +1222,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Advantages of In-Memory Databases and Apache Spark](/Knowledge-base/Common/the-advantages-of-in-memory-databases-and-apache-spark)
 - [x] [How to Build a Secure Application with OAuth and OpenID Connect](/Knowledge-base/Common/how-to-build-a-secure-application-with-oauth-and-openid-connect)
 - [x] [The Benefits of Natural Language Processing (NLP) and Sentiment Analysis](/Knowledge-base/Common/the-benefits-of-natural-language-processing-nlp-and-sentiment-analysis)
-- [ ] How to Build a Responsive Website with CSS Grid and Flexbox|Common
+- [x] [How to Build a Responsive Website with CSS Grid and Flexbox](/Knowledge-base/Common/how-to-build-a-responsive-website-with-css-grid-and-flexbox)
 - [x] [The Importance of Accessibility and Web Content Accessibility Guidelines (WCAG)](/Knowledge-base/Common/the-importance-of-accessibility-and-web-content-accessibility-guidelines-wcag)
 - [x] [How to Build a Chatbot with IBM Watson and Node-RED](/Knowledge-base/Common/how-to-build-a-chatbot-with-ibm-watson-and-node-red)
 - [ ] The Benefits of Artificial General Intelligence (AGI) and Reinforcement Learning|Common
