@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T14:32:34.158Z
+date: 2023-02-24T15:32:55.345Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1507,7 +1507,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Cloud Computing](/Knowledge-base/Dictionary/cloud-computing)
 - [ ] DevOps|Dictionary
 - [x] [UX/UI Design](/Knowledge-base/Dictionary/uxui-design)
-- [ ] AI/ML|Dictionary
+- [x] [AI/ML](/Knowledge-base/Dictionary/aiml)
 - [ ] Blockchain|Dictionary
 - [x] [Full-Stack Development](/Knowledge-base/Dictionary/full-stack-development)
 - [x] [Prototyping](/Knowledge-base/Dictionary/prototyping)
