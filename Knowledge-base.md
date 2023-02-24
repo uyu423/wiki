@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T13:33:07.816Z
+date: 2023-02-24T14:32:34.158Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1098,7 +1098,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 019: Git and Version Control](/Knowledge-base/Software-Development/Learning/software-development-019-git-and-version-control)
 - [x] [Software Development 020: Agile Methodology](/Knowledge-base/Software-Development/Learning/software-development-020-agile-methodology)
 - [ ] Software Development 021: Software Architecture and Design Patterns|Software-Development/Learning
-- [ ] Software Development 022: Network Fundamentals|Software-Development/Learning
+- [x] [Software Development 022: Network Fundamentals](/Knowledge-base/Software-Development/Learning/software-development-022-network-fundamentals)
 - [x] [Software Development 023: TCP/IP and HTTP](/Knowledge-base/Software-Development/Learning/software-development-023-tcpip-and-http)
 - [x] [Software Development 024: RESTful API Design](/Knowledge-base/Software-Development/Learning/software-development-024-restful-api-design)
 - [x] [Software Development 025: GraphQL](/Knowledge-base/Software-Development/Learning/software-development-025-graphql)
