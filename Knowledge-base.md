@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T19:32:40.073Z
+date: 2023-02-24T20:32:50.047Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1380,7 +1380,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Using TypeScript with GraphQL for API Development](/Knowledge-base/TypeScript/using-typescript-with-graphql-for-api-development)
 - [ ] Developing Microservices with TypeScript and Nest.js|TypeScript
 - [x] [Integrating TypeScript with AWS Services for Serverless Development](/Knowledge-base/TypeScript/integrating-typescript-with-aws-services-for-serverless-development)
-- [ ] Building Real-Time Chat Applications with TypeScript and WebSockets|TypeScript
+- [x] [Building Real-Time Chat Applications with TypeScript and WebSockets](/Knowledge-base/TypeScript/building-real-time-chat-applications-with-typescript-and-websockets)
 - [ ] Using TypeScript with TypeORM for Object-Relational Mapping|TypeScript
 - [x] [Working with WebSockets in TypeScript and Express.js](/Knowledge-base/TypeScript/working-with-websockets-in-typescript-and-express-js)
 - [x] [Implementing Role-Based Access Control in TypeScript Applications](/Knowledge-base/TypeScript/implementing-role-based-access-control-in-typescript-applications)
