@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T09:32:42.336Z
+date: 2023-02-24T10:32:43.626Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1782,7 +1782,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [REST](/Knowledge-base/Dictionary/rest)
 - [x] [SOAP](/Knowledge-base/Dictionary/soap)
 - [x] [GraphQL](/Knowledge-base/Dictionary/graphql)
-- [ ] Web Services|Dictionary
+- [x] [Web Services](/Knowledge-base/Dictionary/web-services)
 - [x] [Distributed Systems](/Knowledge-base/Dictionary/distributed-systems)
 - [x] [Cloud Storage](/Knowledge-base/Dictionary/cloud-storage)
 - [x] [Object Storage](/Knowledge-base/Dictionary/object-storage)
