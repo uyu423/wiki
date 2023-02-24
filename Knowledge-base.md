@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T08:32:39.975Z
+date: 2023-02-24T09:32:42.336Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2122,7 +2122,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Andrew Grove (Intel CEO)](/Knowledge-base/Dictionary/Person/andrew-grove-intel-ceo)
 - [x] [Vinod Khosla (Sun Microsystems Co-founder)](/Knowledge-base/Dictionary/Person/vinod-khosla-sun-microsystems-co-founder)
 - [x] [Andy Hertzfeld (Apple Engineer)](/Knowledge-base/Dictionary/Person/andy-hertzfeld-apple-engineer)
-- [ ] Guy L. Steele Jr. (Programming Language Designer)|Dictionary/Person
+- [x] [Guy L. Steele Jr. (Programming Language Designer)](/Knowledge-base/Dictionary/Person/guy-l-steele-jr-programming-language-designer)
 - [x] [Brian Kernighan (UNIX Developer)](/Knowledge-base/Dictionary/Person/brian-kernighan-unix-developer)
 - [ ] Dennis Ritchie (UNIX Developer)|Dictionary/Person
 - [ ] Ken Thompson (UNIX Developer)|Dictionary/Person
