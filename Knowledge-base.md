@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-23T23:32:46.835Z
+date: 2023-02-24T00:32:22.262Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1163,7 +1163,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 084: Conversion Rate Optimization (CRO)](/Knowledge-base/Software-Development/Learning/software-development-084-conversion-rate-optimization-cro)
 - [ ] Software Development 085: Growth Hacking|Software-Development/Learning
 - [ ] Software Development 086: Digital Marketing|Software-Development/Learning
-- [ ] Software Development 087: Search Engine Optimization (SEO)|Software-Development/Learning
+- [x] [Software Development 087: Search Engine Optimization (SEO)](/Knowledge-base/Software-Development/Learning/software-development-087-search-engine-optimization-seo)
 - [x] [Software Development 088: Social Media Marketing](/Knowledge-base/Software-Development/Learning/software-development-088-social-media-marketing)
 - [x] [Software Development 089: Content Marketing](/Knowledge-base/Software-Development/Learning/software-development-089-content-marketing)
 - [x] [Software Development 090: Email Marketing](/Knowledge-base/Software-Development/Learning/software-development-090-email-marketing)
