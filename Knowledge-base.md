@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T10:32:43.626Z
+date: 2023-02-24T11:32:50.748Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1384,7 +1384,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Using TypeScript with TypeORM for Object-Relational Mapping|TypeScript
 - [x] [Working with WebSockets in TypeScript and Express.js](/Knowledge-base/TypeScript/working-with-websockets-in-typescript-and-express-js)
 - [x] [Implementing Role-Based Access Control in TypeScript Applications](/Knowledge-base/TypeScript/implementing-role-based-access-control-in-typescript-applications)
-- [ ] Using TypeScript with Redis for Data Caching and Management|TypeScript
+- [x] [Using TypeScript with Redis for Data Caching and Management](/Knowledge-base/TypeScript/using-typescript-with-redis-for-data-caching-and-management)
 - [x] [Building Progressive Web Applications with TypeScript and Next.js](/Knowledge-base/TypeScript/building-progressive-web-applications-with-typescript-and-next-js)
 - [x] [Integrating TypeScript with SendGrid for Email Notifications](/Knowledge-base/TypeScript/integrating-typescript-with-sendgrid-for-email-notifications)
 - [x] [Working with Data Streams in TypeScript and Node.js](/Knowledge-base/TypeScript/working-with-data-streams-in-typescript-and-node-js)
