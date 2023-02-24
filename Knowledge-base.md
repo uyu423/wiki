@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T06:32:41.413Z
+date: 2023-02-24T07:33:24.025Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1224,7 +1224,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Benefits of Natural Language Processing (NLP) and Sentiment Analysis](/Knowledge-base/Common/the-benefits-of-natural-language-processing-nlp-and-sentiment-analysis)
 - [ ] How to Build a Responsive Website with CSS Grid and Flexbox|Common
 - [x] [The Importance of Accessibility and Web Content Accessibility Guidelines (WCAG)](/Knowledge-base/Common/the-importance-of-accessibility-and-web-content-accessibility-guidelines-wcag)
-- [ ] How to Build a Chatbot with IBM Watson and Node-RED|Common
+- [x] [How to Build a Chatbot with IBM Watson and Node-RED](/Knowledge-base/Common/how-to-build-a-chatbot-with-ibm-watson-and-node-red)
 - [ ] The Benefits of Artificial General Intelligence (AGI) and Reinforcement Learning|Common
 - [x] [How to Build a Single-Page Application (SPA) with Vue](/Knowledge-base/Common/how-to-build-a-single-page-application-spa-with-vue)
 - [x] [Developing a Graphical User Interface (GUI) using Python](/Knowledge-base/Common/developing-a-graphical-user-interface-gui-using-python)
