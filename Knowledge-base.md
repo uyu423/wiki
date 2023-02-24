@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T05:32:39.742Z
+date: 2023-02-24T06:32:41.413Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2090,7 +2090,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] John McAfee (McAfee Anti-Virus Founder)|Dictionary/Person
 - [x] [Bob Metcalfe (Ethernet Inventor)](/Knowledge-base/Dictionary/Person/bob-metcalfe-ethernet-inventor)
 - [ ] Dave Cutler (Windows NT Architect)|Dictionary/Person
-- [ ] Bob Frankston (VisiCalc Creator)|Dictionary/Person
+- [x] [Bob Frankston (VisiCalc Creator)](/Knowledge-base/Dictionary/Person/bob-frankston-visicalc-creator)
 - [x] [Douglas Engelbart (Computer Mouse Inventor)](/Knowledge-base/Dictionary/Person/douglas-engelbart-computer-mouse-inventor)
 - [ ] Ted Nelson (Hypertext Pioneer)|Dictionary/Person
 - [x] [Ivan Sutherland (Sketchpad Creator)](/Knowledge-base/Dictionary/Person/ivan-sutherland-sketchpad-creator)
