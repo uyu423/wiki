@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T20:32:50.047Z
+date: 2023-02-24T21:32:28.406Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1172,7 +1172,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 093: E-Commerce](/Knowledge-base/Software-Development/Learning/software-development-093-e-commerce)
 - [ ] Software Development 094: Payment Gateway Integration|Software-Development/Learning
 - [ ] Software Development 095: Order Management|Software-Development/Learning
-- [ ] Software Development 096: Inventory Management|Software-Development/Learning
+- [x] [Software Development 096: Inventory Management](/Knowledge-base/Software-Development/Learning/software-development-096-inventory-management)
 - [x] [Software Development 097: Customer Relationship Management](/Knowledge-base/Software-Development/Learning/software-development-097-customer-relationship-management)
 
 ## Common
