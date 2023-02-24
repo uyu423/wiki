@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T02:32:49.550Z
+date: 2023-02-24T03:32:37.036Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1448,7 +1448,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Tkinter](/Knowledge-base/Dictionary/tkinter)
 - [x] [PyQt](/Knowledge-base/Dictionary/pyqt)
 - [x] [PyGTK](/Knowledge-base/Dictionary/pygtk)
-- [ ] wxPython|Dictionary
+- [x] [wxPython](/Knowledge-base/Dictionary/wxpython)
 - [x] [Pygame](/Knowledge-base/Dictionary/pygame)
 - [ ] Pyglet|Dictionary
 - [x] [PyOpenGL](/Knowledge-base/Dictionary/pyopengl)
