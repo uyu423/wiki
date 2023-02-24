@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-24T16:32:43.437Z
+date: 2023-02-24T17:32:23.384Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1215,7 +1215,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [How to Build a Chatbot with Microsoft Bot Framework](/Knowledge-base/Common/how-to-build-a-chatbot-with-microsoft-bot-framework)
 - [x] [The Importance of Information Security and Compliance](/Knowledge-base/Common/the-importance-of-information-security-and-compliance)
 - [x] [How to Build a Progressive Web App (PWA) with Angular](/Knowledge-base/Common/how-to-build-a-progressive-web-app-pwa-with-angular)
-- [ ] The Benefits of Distributed Systems and Apache Cassandra|Common
+- [x] [The Benefits of Distributed Systems and Apache Cassandra](/Knowledge-base/Common/the-benefits-of-distributed-systems-and-apache-cassandra)
 - [x] [How to Build a Cross-Platform Mobile App with React Native](/Knowledge-base/Common/how-to-build-a-cross-platform-mobile-app-with-react-native)
 - [x] [The Importance of Agile Project Management](/Knowledge-base/Common/the-importance-of-agile-project-management)
 - [x] [How to Build a Real-Time Application with Firebase](/Knowledge-base/Common/how-to-build-a-real-time-application-with-firebase)
