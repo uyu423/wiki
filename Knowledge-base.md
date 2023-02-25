@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-25T02:32:51.184Z
+date: 2023-02-25T03:32:57.959Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1328,7 +1328,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Leveraging Java's Method Handles for Dynamic Method Invocation|Java
 - [x] [Using Java's Traceable and Instrumented Classes for Monitoring](/Knowledge-base/Java/using-java-s-traceable-and-instrumented-classes-for-monitoring)
 - [x] [A Deep Dive into Java's Security Manager](/Knowledge-base/Java/a-deep-dive-into-java-s-security-manager)
-- [ ] Building Custom Security Providers in Java|Java
+- [x] [Building Custom Security Providers in Java](/Knowledge-base/Java/building-custom-security-providers-in-java)
 - [x] [Exploring Java's Networking API for Network Programming](/Knowledge-base/Java/exploring-java-s-networking-api-for-network-programming)
 - [x] [Working with Java's Regular Expressions API](/Knowledge-base/Java/working-with-java-s-regular-expressions-api)
 - [x] [Leveraging Java's Date and Time API for Precise Time Management](/Knowledge-base/Java/leveraging-java-s-date-and-time-api-for-precise-time-management)
