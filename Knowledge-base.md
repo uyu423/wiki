@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-25T12:32:24.293Z
+date: 2023-02-25T13:33:13.452Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1937,7 +1937,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Oracle Corporation|Dictionary/Company
 - [x] [Cisco Systems, Inc.](/Knowledge-base/Dictionary/Company/cisco-systems-inc-)
 - [x] [Hewlett Packard Enterprise (HPE)](/Knowledge-base/Dictionary/Company/hewlett-packard-enterprise-hpe)
-- [ ] SAP SE|Dictionary/Company
+- [x] [SAP SE](/Knowledge-base/Dictionary/Company/sap-se)
 - [ ] Accenture plc|Dictionary/Company
 - [ ] Dell Technologies|Dictionary/Company
 - [ ] Capgemini SE|Dictionary/Company
