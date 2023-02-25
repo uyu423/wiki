@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-25T18:32:38.642Z
+date: 2023-02-25T19:32:37.409Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1863,7 +1863,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Sitecore](/Knowledge-base/Dictionary/sitecore)
 - [x] [Adobe Experience Manager](/Knowledge-base/Dictionary/adobe-experience-manager)
 - [ ] Content Delivery Network|Dictionary
-- [ ] DNS|Dictionary
+- [x] [DNS](/Knowledge-base/Dictionary/dns)
 - [x] [IP Address](/Knowledge-base/Dictionary/ip-address)
 - [ ] Domain Name|Dictionary
 - [x] [URL](/Knowledge-base/Dictionary/url)
