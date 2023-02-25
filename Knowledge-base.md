@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-25T15:32:24.693Z
+date: 2023-02-25T16:32:39.867Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1232,7 +1232,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Coding with Test-Driven Development (TDD) Methodology|Common
 - [x] [Mobile App Development with React Native](/Knowledge-base/Common/mobile-app-development-with-react-native)
 - [x] [Creating 3D Games with Unity](/Knowledge-base/Common/creating-3d-games-with-unity)
-- [ ] How to Secure Your Website with HTTPS and SSL Certificates|Common
+- [x] [How to Secure Your Website with HTTPS and SSL Certificates](/Knowledge-base/Common/how-to-secure-your-website-with-https-and-ssl-certificates)
 - [x] [Exploring the Internet of Things (IoT) and its Applications](/Knowledge-base/Common/exploring-the-internet-of-things-iot-and-its-applications)
 - [ ] Using Microservices to Build Scalable Applications|Common
 - [ ] Building RESTful APIs with Node.js and Express|Common
