@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-25T17:32:38.125Z
+date: 2023-02-25T18:32:38.642Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1727,7 +1727,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Risk Management|Dictionary
 - [x] [Change Management](/Knowledge-base/Dictionary/change-management)
 - [x] [Git](/Knowledge-base/Dictionary/git)
-- [ ] Mercurial|Dictionary
+- [x] [Mercurial](/Knowledge-base/Dictionary/mercurial)
 - [x] [Subversion](/Knowledge-base/Dictionary/subversion)
 - [x] [Collaboration](/Knowledge-base/Dictionary/collaboration)
 - [x] [Pair Programming](/Knowledge-base/Dictionary/pair-programming)
