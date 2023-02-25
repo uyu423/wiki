@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-25T07:33:15.695Z
+date: 2023-02-25T08:32:43.039Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1515,7 +1515,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [SaaS](/Knowledge-base/Dictionary/saas)
 - [x] [PaaS](/Knowledge-base/Dictionary/paas)
 - [x] [IaaS](/Knowledge-base/Dictionary/iaas)
-- [ ] API|Dictionary
+- [x] [API](/Knowledge-base/Dictionary/api)
 - [ ] CI/CD|Dictionary
 - [x] [Code Review](/Knowledge-base/Dictionary/code-review)
 - [x] [Version Control](/Knowledge-base/Dictionary/version-control)
