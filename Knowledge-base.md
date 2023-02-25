@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-25T05:32:59.678Z
+date: 2023-02-25T06:32:49.594Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1998,7 +1998,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] NTT Data Corporation (Japan)|Dictionary/Company
 - [ ] Baidu, Inc. (China)|Dictionary/Company
 - [ ] Tencent Holdings Limited (China)|Dictionary/Company
-- [ ] Alibaba Group Holding Limited (China)|Dictionary/Company
+- [x] [Alibaba Group Holding Limited (China)](/Knowledge-base/Dictionary/Company/alibaba-group-holding-limited-china)
 - [x] [Xiaomi Corporation (China)](/Knowledge-base/Dictionary/Company/xiaomi-corporation-china)
 - [ ] ByteDance (China)|Dictionary/Company
 - [ ] Meituan (China)|Dictionary/Company
