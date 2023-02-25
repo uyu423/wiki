@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-25T22:33:17.401Z
+date: 2023-02-25T23:33:11.422Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1484,7 +1484,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Web Assembly](/Knowledge-base/Dictionary/web-assembly)
 - [x] [Realforce Keyboard](/Knowledge-base/Dictionary/realforce-keyboard)
 - [x] [Happy Hacking Keyboard](/Knowledge-base/Dictionary/happy-hacking-keyboard)
-- [ ] Graphic Card|Dictionary
+- [x] [Graphic Card](/Knowledge-base/Dictionary/graphic-card)
 - [x] [NVMe](/Knowledge-base/Dictionary/nvme)
 - [ ] RAM|Dictionary
 - [x] [Micro Architecture](/Knowledge-base/Dictionary/micro-architecture)
