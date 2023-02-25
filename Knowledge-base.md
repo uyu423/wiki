@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-25T08:32:43.039Z
+date: 2023-02-25T09:32:49.376Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1990,7 +1990,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] WIPRO Limited (India)|Dictionary/Company
 - [x] [Infosys Limited (India)](/Knowledge-base/Dictionary/Company/infosys-limited-india)
 - [ ] HCL Technologies Limited (India)|Dictionary/Company
-- [ ] Tata Consultancy Services (TCS) (India)|Dictionary/Company
+- [x] [Tata Consultancy Services (TCS) (India)](/Knowledge-base/Dictionary/Company/tata-consultancy-services-tcs-india)
 - [x] [Lenovo Group Limited (China)](/Knowledge-base/Dictionary/Company/lenovo-group-limited-china)
 - [ ] Hitachi, Ltd. (Japan)|Dictionary/Company
 - [x] [Fujitsu Limited (Japan)](/Knowledge-base/Dictionary/Company/fujitsu-limited-japan)
