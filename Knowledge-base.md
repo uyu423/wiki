@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-25T20:32:43.710Z
+date: 2023-02-25T21:32:41.147Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2116,7 +2116,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Michael Stonebraker (Database Management System Pioneer)|Dictionary/Person
 - [x] [Andrew S. Tanenbaum (Computer Networking Pioneer)](/Knowledge-base/Dictionary/Person/andrew-s-tanenbaum-computer-networking-pioneer)
 - [x] [John Warnock (PostScript Creator)](/Knowledge-base/Dictionary/Person/john-warnock-postscript-creator)
-- [ ] Charles P. Thacker (Computer Hardware Pioneer)|Dictionary/Person
+- [x] [Charles P. Thacker (Computer Hardware Pioneer)](/Knowledge-base/Dictionary/Person/charles-p-thacker-computer-hardware-pioneer)
 - [x] [Robert Noyce (Intel Co-founder)](/Knowledge-base/Dictionary/Person/robert-noyce-intel-co-founder)
 - [x] [Gordon Moore (Intel Co-founder)](/Knowledge-base/Dictionary/Person/gordon-moore-intel-co-founder)
 - [x] [Andrew Grove (Intel CEO)](/Knowledge-base/Dictionary/Person/andrew-grove-intel-ceo)
