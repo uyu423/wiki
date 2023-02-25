@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-25T21:32:41.147Z
+date: 2023-02-25T22:33:17.401Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1388,7 +1388,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Building Progressive Web Applications with TypeScript and Next.js](/Knowledge-base/TypeScript/building-progressive-web-applications-with-typescript-and-next-js)
 - [x] [Integrating TypeScript with SendGrid for Email Notifications](/Knowledge-base/TypeScript/integrating-typescript-with-sendgrid-for-email-notifications)
 - [x] [Working with Data Streams in TypeScript and Node.js](/Knowledge-base/TypeScript/working-with-data-streams-in-typescript-and-node-js)
-- [ ] Building E-Commerce Applications with TypeScript and Next.js|TypeScript
+- [x] [Building E-Commerce Applications with TypeScript and Next.js](/Knowledge-base/TypeScript/building-e-commerce-applications-with-typescript-and-next-js)
 - [ ] Using TypeScript with Elasticsearch for Search and Analytics|TypeScript
 - [x] [Integrating TypeScript with Firebase for Real-Time Database and Authentication](/Knowledge-base/TypeScript/integrating-typescript-with-firebase-for-real-time-database-and-authentication)
 - [ ] Building Multiplayer Games with TypeScript and WebSockets|TypeScript
