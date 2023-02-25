@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-25T10:32:48.151Z
+date: 2023-02-25T11:32:46.068Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1194,7 +1194,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Data Visualization with D3.js and Tableau](/Knowledge-base/Common/data-visualization-with-d3-js-and-tableau)
 - [x] [The Benefits of Docker and Containerization](/Knowledge-base/Common/the-benefits-of-docker-and-containerization)
 - [ ] The Evolution of Big Data and Hadoop|Common
-- [ ] How to Implement a DevOps Workflow|Common
+- [x] [How to Implement a DevOps Workflow](/Knowledge-base/Common/how-to-implement-a-devops-workflow)
 - [x] [The Power of Parallel Processing and GPU Computing](/Knowledge-base/Common/the-power-of-parallel-processing-and-gpu-computing)
 - [x] [Introduction to Network Programming and Socket Programming](/Knowledge-base/Common/introduction-to-network-programming-and-socket-programming)
 - [x] [The Advantages of Serverless Architecture and AWS Lambda](/Knowledge-base/Common/the-advantages-of-serverless-architecture-and-aws-lambda)
