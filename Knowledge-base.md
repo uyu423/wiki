@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-25T06:32:49.594Z
+date: 2023-02-25T07:33:15.695Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1333,7 +1333,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Working with Java's Regular Expressions API](/Knowledge-base/Java/working-with-java-s-regular-expressions-api)
 - [x] [Leveraging Java's Date and Time API for Precise Time Management](/Knowledge-base/Java/leveraging-java-s-date-and-time-api-for-precise-time-management)
 - [x] [Building Custom Java Logging Handlers](/Knowledge-base/Java/building-custom-java-logging-handlers)
-- [ ] Java's ConcurrentHashMap for Parallel Hash Table Operations|Java
+- [x] [Java's ConcurrentHashMap for Parallel Hash Table Operations](/Knowledge-base/Java/java-s-concurrenthashmap-for-parallel-hash-table-operations)
 - [x] [Java's java.util.concurrent.locks Package for Locking and Synchronization](/Knowledge-base/Java/java-s-java-util-concurrent-locks-package-for-locking-and-synchronization)
 - [x] [Leveraging Java's java.util.stream Package for Stream Processing](/Knowledge-base/Java/leveraging-java-s-java-util-stream-package-for-stream-processing)
 - [ ] Java's Executor Framework for Task Scheduling and Execution|Java
