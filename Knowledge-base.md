@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-25T04:32:42.337Z
+date: 2023-02-25T05:32:59.678Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1452,7 +1452,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Pygame](/Knowledge-base/Dictionary/pygame)
 - [ ] Pyglet|Dictionary
 - [x] [PyOpenGL](/Knowledge-base/Dictionary/pyopengl)
-- [ ] Pytorch Geometric|Dictionary
+- [x] [Pytorch Geometric](/Knowledge-base/Dictionary/pytorch-geometric)
 - [x] [OpenCV](/Knowledge-base/Dictionary/opencv)
 - [x] [NumPy](/Knowledge-base/Dictionary/numpy)
 - [ ] SciPy|Dictionary
