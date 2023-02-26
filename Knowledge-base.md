@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-26T12:32:58.350Z
+date: 2023-02-26T13:33:00.249Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1827,7 +1827,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Robotics](/Knowledge-base/Dictionary/robotics)
 - [ ] Internet of Things|Dictionary
 - [x] [Embedded Systems](/Knowledge-base/Dictionary/embedded-systems)
-- [ ] Wearable Technology|Dictionary
+- [x] [Wearable Technology](/Knowledge-base/Dictionary/wearable-technology)
 - [x] [Augmented Reality](/Knowledge-base/Dictionary/augmented-reality)
 - [ ] Virtual Reality|Dictionary
 - [x] [Game Development](/Knowledge-base/Dictionary/game-development)
