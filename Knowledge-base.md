@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-26T20:32:54.408Z
+date: 2023-02-26T21:32:44.520Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1676,7 +1676,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development Kit](/Knowledge-base/Dictionary/software-development-kit)
 - [x] [Application Programming Interface](/Knowledge-base/Dictionary/application-programming-interface)
 - [ ] Software Design Pattern|Dictionary
-- [ ] Model-View-Controller|Dictionary
+- [x] [Model-View-Controller](/Knowledge-base/Dictionary/model-view-controller)
 - [x] [Service-Oriented Architecture](/Knowledge-base/Dictionary/service-oriented-architecture)
 - [x] [Microservices](/Knowledge-base/Dictionary/microservices)
 - [ ] Service Bus|Dictionary
