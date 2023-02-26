@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-25T23:33:11.422Z
+date: 2023-02-26T00:32:26.169Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1120,7 +1120,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 041: Network Security|Software-Development/Learning
 - [x] [Software Development 042: Database Security](/Knowledge-base/Software-Development/Learning/software-development-042-database-security)
 - [x] [Software Development 043: Web Application Security](/Knowledge-base/Software-Development/Learning/software-development-043-web-application-security)
-- [ ] Software Development 044: Cloud Security|Software-Development/Learning
+- [x] [Software Development 044: Cloud Security](/Knowledge-base/Software-Development/Learning/software-development-044-cloud-security)
 - [ ] Software Development 045: Internet of Things (IoT)|Software-Development/Learning
 - [x] [Software Development 046: 5G Technology](/Knowledge-base/Software-Development/Learning/software-development-046-5g-technology)
 - [x] [Software Development 047: Big Data and Data Science](/Knowledge-base/Software-Development/Learning/software-development-047-big-data-and-data-science)
