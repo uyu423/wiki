@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-26T13:33:00.249Z
+date: 2023-02-26T14:33:10.872Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1961,7 +1961,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Micron Technology, Inc.|Dictionary/Company
 - [x] [Western Digital Corporation](/Knowledge-base/Dictionary/Company/western-digital-corporation)
 - [x] [Seagate Technology PLC](/Knowledge-base/Dictionary/Company/seagate-technology-plc)
-- [ ] Toshiba Corporation|Dictionary/Company
+- [x] [Toshiba Corporation](/Knowledge-base/Dictionary/Company/toshiba-corporation)
 - [x] [SanDisk Corporation](/Knowledge-base/Dictionary/Company/sandisk-corporation)
 - [ ] Kingston Technology Corporation|Dictionary/Company
 - [ ] Corsair Components, Inc.|Dictionary/Company
