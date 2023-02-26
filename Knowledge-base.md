@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-26T02:32:49.831Z
+date: 2023-02-26T03:32:32.476Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1256,7 +1256,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Developing Cross-Platform Mobile Apps with Xamarin](/Knowledge-base/Common/developing-cross-platform-mobile-apps-with-xamarin)
 - [x] [The Future of Automated Testing in Software Development](/Knowledge-base/Common/the-future-of-automated-testing-in-software-development)
 - [x] [Building a Chatbot with Dialogflow](/Knowledge-base/Common/building-a-chatbot-with-dialogflow)
-- [ ] Applying DevOps to Improve Software Delivery|Common
+- [x] [Applying DevOps to Improve Software Delivery](/Knowledge-base/Common/applying-devops-to-improve-software-delivery)
 - [x] [How to Use Git for Version Control in Software Development](/Knowledge-base/Common/how-to-use-git-for-version-control-in-software-development)
 - [x] [The Ethics of Artificial Intelligence (AI) and Machine Learning](/Knowledge-base/Common/the-ethics-of-artificial-intelligence-ai-and-machine-learning)
 - [ ] Building a Secure Online Payment System|Common
