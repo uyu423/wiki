@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-26T19:32:42.656Z
+date: 2023-02-26T20:32:54.408Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1723,7 +1723,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Gantt Chart](/Knowledge-base/Dictionary/gantt-chart)
 - [x] [Resource Allocation](/Knowledge-base/Dictionary/resource-allocation)
 - [x] [Budgeting](/Knowledge-base/Dictionary/budgeting)
-- [ ] Schedule Management|Dictionary
+- [x] [Schedule Management](/Knowledge-base/Dictionary/schedule-management)
 - [ ] Risk Management|Dictionary
 - [x] [Change Management](/Knowledge-base/Dictionary/change-management)
 - [x] [Git](/Knowledge-base/Dictionary/git)
