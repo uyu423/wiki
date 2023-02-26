@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-26T04:32:46.220Z
+date: 2023-02-26T05:32:41.303Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2096,7 +2096,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Ivan Sutherland (Sketchpad Creator)](/Knowledge-base/Dictionary/Person/ivan-sutherland-sketchpad-creator)
 - [x] [John Warnock (Adobe Co-founder)](/Knowledge-base/Dictionary/Person/john-warnock-adobe-co-founder)
 - [x] [Charles Geschke (Adobe Co-founder)](/Knowledge-base/Dictionary/Person/charles-geschke-adobe-co-founder)
-- [ ] Alan Cooper (Visual Basic Creator)|Dictionary/Person
+- [x] [Alan Cooper (Visual Basic Creator)](/Knowledge-base/Dictionary/Person/alan-cooper-visual-basic-creator)
 - [x] [David Heinemeier Hansson (Ruby on Rails Creator)](/Knowledge-base/Dictionary/Person/david-heinemeier-hansson-ruby-on-rails-creator)
 - [ ] Marten Mickos (MySQL CEO)|Dictionary/Person
 - [x] [Biz Stone (Twitter Co-founder)](/Knowledge-base/Dictionary/Person/biz-stone-twitter-co-founder)
