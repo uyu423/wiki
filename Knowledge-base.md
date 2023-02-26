@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-26T22:32:39.400Z
+date: 2023-02-26T23:32:54.913Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1503,7 +1503,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Fedora Linux](/Knowledge-base/Dictionary/fedora-linux)
 - [x] [Git](/Knowledge-base/Dictionary/git)
 - [ ] Agile|Dictionary
-- [ ] Scrum|Dictionary
+- [x] [Scrum](/Knowledge-base/Dictionary/scrum)
 - [x] [Cloud Computing](/Knowledge-base/Dictionary/cloud-computing)
 - [ ] DevOps|Dictionary
 - [x] [UX/UI Design](/Knowledge-base/Dictionary/uxui-design)
