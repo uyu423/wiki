@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-26T11:32:42.269Z
+date: 2023-02-26T12:32:58.350Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2092,7 +2092,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Dave Cutler (Windows NT Architect)|Dictionary/Person
 - [x] [Bob Frankston (VisiCalc Creator)](/Knowledge-base/Dictionary/Person/bob-frankston-visicalc-creator)
 - [x] [Douglas Engelbart (Computer Mouse Inventor)](/Knowledge-base/Dictionary/Person/douglas-engelbart-computer-mouse-inventor)
-- [ ] Ted Nelson (Hypertext Pioneer)|Dictionary/Person
+- [x] [Ted Nelson (Hypertext Pioneer)](/Knowledge-base/Dictionary/Person/ted-nelson-hypertext-pioneer)
 - [x] [Ivan Sutherland (Sketchpad Creator)](/Knowledge-base/Dictionary/Person/ivan-sutherland-sketchpad-creator)
 - [x] [John Warnock (Adobe Co-founder)](/Knowledge-base/Dictionary/Person/john-warnock-adobe-co-founder)
 - [x] [Charles Geschke (Adobe Co-founder)](/Knowledge-base/Dictionary/Person/charles-geschke-adobe-co-founder)
