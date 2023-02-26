@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-26T16:32:26.683Z
+date: 2023-02-26T17:32:34.841Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1778,7 +1778,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Virtualization Management](/Knowledge-base/Dictionary/virtualization-management)
 - [x] [Containerization](/Knowledge-base/Dictionary/containerization)
 - [x] [Serverless](/Knowledge-base/Dictionary/serverless)
-- [ ] Functionality|Dictionary
+- [x] [Functionality](/Knowledge-base/Dictionary/functionality)
 - [x] [REST](/Knowledge-base/Dictionary/rest)
 - [x] [SOAP](/Knowledge-base/Dictionary/soap)
 - [x] [GraphQL](/Knowledge-base/Dictionary/graphql)
