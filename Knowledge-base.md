@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-26T01:32:41.564Z
+date: 2023-02-26T02:32:49.831Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1902,7 +1902,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Project Tracking](/Knowledge-base/Dictionary/project-tracking)
 - [x] [Project Review](/Knowledge-base/Dictionary/project-review)
 - [x] [Project Retrospective](/Knowledge-base/Dictionary/project-retrospective)
-- [ ] Project Portfolio Management|Dictionary
+- [x] [Project Portfolio Management](/Knowledge-base/Dictionary/project-portfolio-management)
 - [ ] Program Management|Dictionary
 - [x] [Portfolio Management](/Knowledge-base/Dictionary/portfolio-management)
 - [x] [Stakeholder Management](/Knowledge-base/Dictionary/stakeholder-management)
