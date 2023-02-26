@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-26T00:32:26.169Z
+date: 2023-02-26T01:32:41.564Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2109,7 +2109,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Norbert Wiener (Cybernetics Founder)](/Knowledge-base/Dictionary/Person/norbert-wiener-cybernetics-founder)
 - [x] [John von Neumann (Computer Science Pioneer)](/Knowledge-base/Dictionary/Person/john-von-neumann-computer-science-pioneer)
 - [ ] Edsger W. Dijkstra (Computer Science Pioneer)|Dictionary/Person
-- [ ] John Backus (FORTRAN Creator)|Dictionary/Person
+- [x] [John Backus (FORTRAN Creator)](/Knowledge-base/Dictionary/Person/john-backus-fortran-creator)
 - [x] [Grace Hopper (COBOL Creator)](/Knowledge-base/Dictionary/Person/grace-hopper-cobol-creator)
 - [x] [Donald Knuth (Computer Science Author)](/Knowledge-base/Dictionary/Person/donald-knuth-computer-science-author)
 - [x] [Richard Hamming (Error-Correcting Code Creator)](/Knowledge-base/Dictionary/Person/richard-hamming-error-correcting-code-creator)
