@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-26T17:32:34.841Z
+date: 2023-02-26T18:33:01.445Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1996,7 +1996,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Fujitsu Limited (Japan)](/Knowledge-base/Dictionary/Company/fujitsu-limited-japan)
 - [ ] NEC Corporation (Japan)|Dictionary/Company
 - [ ] NTT Data Corporation (Japan)|Dictionary/Company
-- [ ] Baidu, Inc. (China)|Dictionary/Company
+- [x] [Baidu, Inc. (China)](/Knowledge-base/Dictionary/Company/baidu-inc-china)
 - [ ] Tencent Holdings Limited (China)|Dictionary/Company
 - [x] [Alibaba Group Holding Limited (China)](/Knowledge-base/Dictionary/Company/alibaba-group-holding-limited-china)
 - [x] [Xiaomi Corporation (China)](/Knowledge-base/Dictionary/Company/xiaomi-corporation-china)
