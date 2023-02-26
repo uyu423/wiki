@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-26T05:32:41.303Z
+date: 2023-02-26T06:32:42.860Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1584,7 +1584,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Data Mining](/Knowledge-base/Dictionary/data-mining)
 - [x] [Data Management](/Knowledge-base/Dictionary/data-management)
 - [ ] Data Governance|Dictionary
-- [ ] Data Security|Dictionary
+- [x] [Data Security](/Knowledge-base/Dictionary/data-security)
 - [x] [Data Privacy](/Knowledge-base/Dictionary/data-privacy)
 - [x] [Data Encryption](/Knowledge-base/Dictionary/data-encryption)
 - [x] [Data Backup and Recovery](/Knowledge-base/Dictionary/data-backup-and-recovery)
