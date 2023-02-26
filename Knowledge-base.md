@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-26T08:32:29.966Z
+date: 2023-02-26T09:33:24.030Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1934,7 +1934,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Facebook Inc.](/Knowledge-base/Dictionary/Company/facebook-inc-)
 - [x] [IBM Corporation](/Knowledge-base/Dictionary/Company/ibm-corporation)
 - [x] [Intel Corporation](/Knowledge-base/Dictionary/Company/intel-corporation)
-- [ ] Oracle Corporation|Dictionary/Company
+- [x] [Oracle Corporation](/Knowledge-base/Dictionary/Company/oracle-corporation)
 - [x] [Cisco Systems, Inc.](/Knowledge-base/Dictionary/Company/cisco-systems-inc-)
 - [x] [Hewlett Packard Enterprise (HPE)](/Knowledge-base/Dictionary/Company/hewlett-packard-enterprise-hpe)
 - [x] [SAP SE](/Knowledge-base/Dictionary/Company/sap-se)
