@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-27T01:32:49.933Z
+date: 2023-02-27T02:32:53.669Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1923,7 +1923,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Employee Recognition](/Knowledge-base/Dictionary/employee-recognition)
 - [x] [Employee Training and Development](/Knowledge-base/Dictionary/employee-training-and-development)
 - [x] [Organizational Culture](/Knowledge-base/Dictionary/organizational-culture)
-- [ ] Employee Satisfaction Survey|Dictionary
+- [x] [Employee Satisfaction Survey](/Knowledge-base/Dictionary/employee-satisfaction-survey)
 
 ## Company
 
