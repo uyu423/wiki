@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-27T00:32:49.220Z
+date: 2023-02-27T01:32:49.933Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2072,7 +2072,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Dennis Ritchie (UNIX Developer)](/Knowledge-base/Dictionary/Person/dennis-ritchie-unix-developer)
 - [x] [Bjarne Stroustrup (C++ Creator)](/Knowledge-base/Dictionary/Person/bjarne-stroustrup-c-creator)
 - [ ] Guido van Rossum (Python Creator)|Dictionary/Person
-- [ ] James Gosling (Java Creator)|Dictionary/Person
+- [x] [James Gosling (Java Creator)](/Knowledge-base/Dictionary/Person/james-gosling-java-creator)
 - [ ] Brendan Eich (JavaScript Creator)|Dictionary/Person
 - [x] [John Carmack (id Software Co-founder)](/Knowledge-base/Dictionary/Person/john-carmack-id-software-co-founder)
 - [x] [Sid Meier (Civilization Creator)](/Knowledge-base/Dictionary/Person/sid-meier-civilization-creator)
