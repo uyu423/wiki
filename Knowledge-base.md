@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-27T12:33:43.543Z
+date: 2023-02-27T13:33:15.620Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2008,7 +2008,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Honor (China)](/Knowledge-base/Dictionary/Company/honor-china)
 - [ ] Oppo (China)|Dictionary/Company
 - [x] [Vivo (China)](/Knowledge-base/Dictionary/Company/vivo-china)
-- [ ] ZTE Corporation (China)|Dictionary/Company
+- [x] [ZTE Corporation (China)](/Knowledge-base/Dictionary/Company/zte-corporation-china)
 - [x] [Huawei Cloud (China)](/Knowledge-base/Dictionary/Company/huawei-cloud-china)
 - [x] [Tencent Cloud (China)](/Knowledge-base/Dictionary/Company/tencent-cloud-china)
 - [x] [Alibaba Cloud (China)](/Knowledge-base/Dictionary/Company/alibaba-cloud-china)
