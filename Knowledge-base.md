@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-27T17:32:45.608Z
+date: 2023-02-27T18:32:43.175Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1511,7 +1511,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Blockchain|Dictionary
 - [x] [Full-Stack Development](/Knowledge-base/Dictionary/full-stack-development)
 - [x] [Prototyping](/Knowledge-base/Dictionary/prototyping)
-- [ ] Lean Startup|Dictionary
+- [x] [Lean Startup](/Knowledge-base/Dictionary/lean-startup)
 - [x] [SaaS](/Knowledge-base/Dictionary/saas)
 - [x] [PaaS](/Knowledge-base/Dictionary/paas)
 - [x] [IaaS](/Knowledge-base/Dictionary/iaas)
