@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-26T23:32:54.913Z
+date: 2023-02-27T00:32:49.220Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1946,7 +1946,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Adyen N.V.|Dictionary/Company
 - [ ] Square, Inc.|Dictionary/Company
 - [x] [Slack Technologies, Inc.](/Knowledge-base/Dictionary/Company/slack-technologies-inc-)
-- [ ] Zoom Video Communications, Inc.|Dictionary/Company
+- [x] [Zoom Video Communications, Inc.](/Knowledge-base/Dictionary/Company/zoom-video-communications-inc-)
 - [x] [DocuSign, Inc.](/Knowledge-base/Dictionary/Company/docusign-inc-)
 - [ ] Salesforce.com, Inc.|Dictionary/Company
 - [x] [Shopify Inc.](/Knowledge-base/Dictionary/Company/shopify-inc-)
