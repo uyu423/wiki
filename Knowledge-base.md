@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-27T16:32:46.662Z
+date: 2023-02-27T17:32:45.608Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1430,7 +1430,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [ASP.NET](/Knowledge-base/Dictionary/asp-net)
 - [ ] Phoenix|Dictionary
 - [x] [Meteor](/Knowledge-base/Dictionary/meteor)
-- [ ] Hadoop|Dictionary
+- [x] [Hadoop](/Knowledge-base/Dictionary/hadoop)
 - [x] [Spark](/Knowledge-base/Dictionary/spark)
 - [x] [TensorFlow](/Knowledge-base/Dictionary/tensorflow)
 - [x] [PyTorch](/Knowledge-base/Dictionary/pytorch)
