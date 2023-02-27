@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-27T07:32:58.104Z
+date: 2023-02-27T09:33:51.842Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1702,7 +1702,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Technical Requirements](/Knowledge-base/Dictionary/technical-requirements)
 - [x] [System Requirements](/Knowledge-base/Dictionary/system-requirements)
 - [x] [System Integration Testing](/Knowledge-base/Dictionary/system-integration-testing)
-- [ ] Unit Testing|Dictionary
+- [x] [Unit Testing](/Knowledge-base/Dictionary/unit-testing)
 - [ ] Test-Driven Development|Dictionary
 - [x] [Behavior-Driven Development](/Knowledge-base/Dictionary/behavior-driven-development)
 - [x] [Acceptance Criteria](/Knowledge-base/Dictionary/acceptance-criteria)
