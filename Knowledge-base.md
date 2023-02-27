@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-27T22:32:55.687Z
+date: 2023-02-27T23:32:45.628Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1653,7 +1653,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Commercial Software](/Knowledge-base/Dictionary/commercial-software)
 - [x] [Freeware](/Knowledge-base/Dictionary/freeware)
 - [x] [Shareware](/Knowledge-base/Dictionary/shareware)
-- [ ] Coding Standards|Dictionary
+- [x] [Coding Standards](/Knowledge-base/Dictionary/coding-standards)
 - [x] [Code Reuse](/Knowledge-base/Dictionary/code-reuse)
 - [x] [Object-Oriented Programming](/Knowledge-base/Dictionary/object-oriented-programming)
 - [x] [Functional Programming](/Knowledge-base/Dictionary/functional-programming)
