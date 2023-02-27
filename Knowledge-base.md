@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-27T15:32:55.712Z
+date: 2023-02-27T16:32:46.662Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2068,7 +2068,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Rajeev Suri (Nokia CEO)|Dictionary/Person
 - [x] [Pradeep Sindhu (Juniper Networks Co-founder)](/Knowledge-base/Dictionary/Person/pradeep-sindhu-juniper-networks-co-founder)
 - [ ] Andy Bechtolsheim (Sun Microsystems Co-founder)|Dictionary/Person
-- [ ] Ken Thompson (UNIX Developer)|Dictionary/Person
+- [x] [Ken Thompson (UNIX Developer)](/Knowledge-base/Dictionary/Person/ken-thompson-unix-developer)
 - [x] [Dennis Ritchie (UNIX Developer)](/Knowledge-base/Dictionary/Person/dennis-ritchie-unix-developer)
 - [x] [Bjarne Stroustrup (C++ Creator)](/Knowledge-base/Dictionary/Person/bjarne-stroustrup-c-creator)
 - [ ] Guido van Rossum (Python Creator)|Dictionary/Person
