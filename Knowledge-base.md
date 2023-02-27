@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-27T13:33:15.620Z
+date: 2023-02-27T14:32:26.566Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1085,7 +1085,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 006: Web Development Basics|Software-Development/Learning
 - [x] [Software Development 007: HTML, CSS and JavaScript](/Knowledge-base/Software-Development/Learning/software-development-007-html-css-and-javascript)
 - [x] [Software Development 008: Responsive Web Design](/Knowledge-base/Software-Development/Learning/software-development-008-responsive-web-design)
-- [ ] Software Development 009: Server-Side Development with PHP|Software-Development/Learning
+- [x] [Software Development 009: Server-Side Development with PHP](/Knowledge-base/Software-Development/Learning/software-development-009-server-side-development-with-php)
 - [x] [Software Development 010: Ruby on Rails](/Knowledge-base/Software-Development/Learning/software-development-010-ruby-on-rails)
 - [x] [Software Development 011: Node.js and Express.js](/Knowledge-base/Software-Development/Learning/software-development-011-node-js-and-express-js)
 - [x] [Software Development 012: Single Page Application (SPA) Development](/Knowledge-base/Software-Development/Learning/software-development-012-single-page-application-spa-development)
