@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-27T18:32:43.175Z
+date: 2023-02-27T19:32:42.824Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2057,7 +2057,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Ginni Rometty (IBM CEO)](/Knowledge-base/Dictionary/Person/ginni-rometty-ibm-ceo)
 - [ ] Travis Kalanick (Uber Co-founder)|Dictionary/Person
 - [x] [Evan Spiegel (Snap Inc. CEO)](/Knowledge-base/Dictionary/Person/evan-spiegel-snap-inc-ceo)
-- [ ] Jan Koum (WhatsApp Co-founder)|Dictionary/Person
+- [x] [Jan Koum (WhatsApp Co-founder)](/Knowledge-base/Dictionary/Person/jan-koum-whatsapp-co-founder)
 - [x] [Daniel Ek (Spotify CEO)](/Knowledge-base/Dictionary/Person/daniel-ek-spotify-ceo)
 - [x] [Drew Houston (Dropbox CEO)](/Knowledge-base/Dictionary/Person/drew-houston-dropbox-ceo)
 - [x] [Aaron Levie (Box CEO)](/Knowledge-base/Dictionary/Person/aaron-levie-box-ceo)
