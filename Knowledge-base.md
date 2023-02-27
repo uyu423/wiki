@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-27T21:32:52.066Z
+date: 2023-02-27T22:32:55.687Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1997,7 +1997,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] NEC Corporation (Japan)|Dictionary/Company
 - [ ] NTT Data Corporation (Japan)|Dictionary/Company
 - [x] [Baidu, Inc. (China)](/Knowledge-base/Dictionary/Company/baidu-inc-china)
-- [ ] Tencent Holdings Limited (China)|Dictionary/Company
+- [x] [Tencent Holdings Limited (China)](/Knowledge-base/Dictionary/Company/tencent-holdings-limited-china)
 - [x] [Alibaba Group Holding Limited (China)](/Knowledge-base/Dictionary/Company/alibaba-group-holding-limited-china)
 - [x] [Xiaomi Corporation (China)](/Knowledge-base/Dictionary/Company/xiaomi-corporation-china)
 - [ ] ByteDance (China)|Dictionary/Company
