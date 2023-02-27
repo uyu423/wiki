@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-27T03:32:59.453Z
+date: 2023-02-27T04:32:49.541Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1578,7 +1578,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software as a Service](/Knowledge-base/Dictionary/software-as-a-service)
 - [x] [Data Center](/Knowledge-base/Dictionary/data-center)
 - [x] [Data Warehousing](/Knowledge-base/Dictionary/data-warehousing)
-- [ ] Data Modeling|Dictionary
+- [x] [Data Modeling](/Knowledge-base/Dictionary/data-modeling)
 - [x] [Data Analytics](/Knowledge-base/Dictionary/data-analytics)
 - [x] [Data Visualization](/Knowledge-base/Dictionary/data-visualization)
 - [x] [Data Mining](/Knowledge-base/Dictionary/data-mining)
