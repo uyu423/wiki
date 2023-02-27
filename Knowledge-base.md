@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-27T09:33:51.842Z
+date: 2023-02-27T10:32:22.994Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1184,7 +1184,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Mobile App Development: Android or iOS?](/Knowledge-base/Common/mobile-app-development-android-or-ios)
 - [x] [Cloud Computing: An Overview](/Knowledge-base/Common/cloud-computing-an-overview)
 - [ ] How to Build a RESTful API with Node.js|Common
-- [ ] The Importance of Software Testing|Common
+- [x] [The Importance of Software Testing](/Knowledge-base/Common/the-importance-of-software-testing)
 - [x] [Linux System Administration: An Introduction](/Knowledge-base/Common/linux-system-administration-an-introduction)
 - [x] [A Guide to Machine Learning and Artificial Intelligence](/Knowledge-base/Common/a-guide-to-machine-learning-and-artificial-intelligence)
 - [x] [Programming with Python: A Beginner's Guide](/Knowledge-base/Common/programming-with-python-a-beginner-s-guide)
