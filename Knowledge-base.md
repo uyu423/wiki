@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-27T19:32:42.824Z
+date: 2023-02-27T20:32:51.899Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2061,7 +2061,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Daniel Ek (Spotify CEO)](/Knowledge-base/Dictionary/Person/daniel-ek-spotify-ceo)
 - [x] [Drew Houston (Dropbox CEO)](/Knowledge-base/Dictionary/Person/drew-houston-dropbox-ceo)
 - [x] [Aaron Levie (Box CEO)](/Knowledge-base/Dictionary/Person/aaron-levie-box-ceo)
-- [ ] John Donahoe (eBay CEO)|Dictionary/Person
+- [x] [John Donahoe (eBay CEO)](/Knowledge-base/Dictionary/Person/john-donahoe-ebay-ceo)
 - [x] [Brad Smith (Microsoft President)](/Knowledge-base/Dictionary/Person/brad-smith-microsoft-president)
 - [x] [Sanjay Kumar (Computer Associates CEO)](/Knowledge-base/Dictionary/Person/sanjay-kumar-computer-associates-ceo)
 - [x] [Vinod Dham (Intel Engineer)](/Knowledge-base/Dictionary/Person/vinod-dham-intel-engineer)
