@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-27T05:32:25.569Z
+date: 2023-02-27T06:32:45.523Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1210,7 +1210,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Importance of Automated Testing and Continuous Integration](/Knowledge-base/Common/the-importance-of-automated-testing-and-continuous-integration)
 - [x] [How to Build a Real-Time Application with WebSockets](/Knowledge-base/Common/how-to-build-a-real-time-application-with-websockets)
 - [x] [The Advantages of Virtual Private Clouds (VPCs) and Amazon Web Services (AWS)](/Knowledge-base/Common/the-advantages-of-virtual-private-clouds-vpcs-and-amazon-web-services-aws)
-- [ ] How to Build a Secure Web Application with OWASP Top 10|Common
+- [x] [How to Build a Secure Web Application with OWASP Top 10](/Knowledge-base/Common/how-to-build-a-secure-web-application-with-owasp-top-10)
 - [ ] The Benefits of Artificial Neural Networks (ANNs) and Deep Learning|Common
 - [x] [How to Build a Chatbot with Microsoft Bot Framework](/Knowledge-base/Common/how-to-build-a-chatbot-with-microsoft-bot-framework)
 - [x] [The Importance of Information Security and Compliance](/Knowledge-base/Common/the-importance-of-information-security-and-compliance)
