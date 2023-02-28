@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-28T03:32:57.783Z
+date: 2023-02-28T04:32:22.949Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1138,7 +1138,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 059: Industrial IoT (IIoT)](/Knowledge-base/Software-Development/Learning/software-development-059-industrial-iot-iiot)
 - [x] [Software Development 060: Edge Computing](/Knowledge-base/Software-Development/Learning/software-development-060-edge-computing)
 - [x] [Software Development 061: Distributed Systems](/Knowledge-base/Software-Development/Learning/software-development-061-distributed-systems)
-- [ ] Software Development 062: Containerization with Docker|Software-Development/Learning
+- [x] [Software Development 062: Containerization with Docker](/Knowledge-base/Software-Development/Learning/software-development-062-containerization-with-docker)
 - [x] [Software Development 063: Kubernetes and Cluster Management](/Knowledge-base/Software-Development/Learning/software-development-063-kubernetes-and-cluster-management)
 - [x] [Software Development 064: Serverless Architecture](/Knowledge-base/Software-Development/Learning/software-development-064-serverless-architecture)
 - [x] [Software Development 065: High Performance Computing (HPC)](/Knowledge-base/Software-Development/Learning/software-development-065-high-performance-computing-hpc)
