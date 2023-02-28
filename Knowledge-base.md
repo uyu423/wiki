@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-28T01:33:05.406Z
+date: 2023-02-28T02:32:53.925Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1822,7 +1822,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Machine Learning](/Knowledge-base/Dictionary/machine-learning)
 - [x] [Artificial Intelligence](/Knowledge-base/Dictionary/artificial-intelligence)
 - [ ] Deep Learning|Dictionary
-- [ ] Natural Language Processing|Dictionary
+- [x] [Natural Language Processing](/Knowledge-base/Dictionary/natural-language-processing)
 - [x] [Computer Vision](/Knowledge-base/Dictionary/computer-vision)
 - [x] [Robotics](/Knowledge-base/Dictionary/robotics)
 - [ ] Internet of Things|Dictionary
