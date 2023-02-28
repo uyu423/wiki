@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-28T06:33:00.105Z
+date: 2023-02-28T07:33:01.303Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1741,7 +1741,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [IT Operations](/Knowledge-base/Dictionary/it-operations)
 - [x] [IT Service Management](/Knowledge-base/Dictionary/it-service-management)
 - [x] [ITIL](/Knowledge-base/Dictionary/itil)
-- [ ] COBIT|Dictionary
+- [x] [COBIT](/Knowledge-base/Dictionary/cobit)
 - [x] [Business Continuity](/Knowledge-base/Dictionary/business-continuity)
 - [x] [Backup](/Knowledge-base/Dictionary/backup)
 - [ ] Recovery|Dictionary
