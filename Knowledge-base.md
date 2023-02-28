@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-28T12:32:49.227Z
+date: 2023-02-28T13:32:22.728Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1109,7 +1109,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 030: Natural Language Processing (NLP)](/Knowledge-base/Software-Development/Learning/software-development-030-natural-language-processing-nlp)
 - [ ] Software Development 031: Predictive Analytics|Software-Development/Learning
 - [x] [Software Development 032: Deep Learning](/Knowledge-base/Software-Development/Learning/software-development-032-deep-learning)
-- [ ] Software Development 033: TensorFlow and Keras|Software-Development/Learning
+- [x] [Software Development 033: TensorFlow and Keras](/Knowledge-base/Software-Development/Learning/software-development-033-tensorflow-and-keras)
 - [ ] Software Development 034: Computer Graphics|Software-Development/Learning
 - [x] [Software Development 035: Game Development](/Knowledge-base/Software-Development/Learning/software-development-035-game-development)
 - [x] [Software Development 036: Virtual Reality (VR) and Augmented Reality (AR)](/Knowledge-base/Software-Development/Learning/software-development-036-virtual-reality-vr-and-augmented-reality-ar)
