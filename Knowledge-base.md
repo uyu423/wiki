@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-28T11:32:38.718Z
+date: 2023-02-28T12:32:49.227Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1478,7 +1478,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Refactoring|Dictionary
 - [ ] Clean Software|Dictionary
 - [x] [Wooahan Brothers (South Korea Company)](/Knowledge-base/Dictionary/wooahan-brothers-south-korea-company)
-- [ ] NAVER|Dictionary
+- [x] [NAVER](/Knowledge-base/Dictionary/naver)
 - [x] [Robert C. Martin](/Knowledge-base/Dictionary/robert-c-martin)
 - [x] [Linus Torvalds](/Knowledge-base/Dictionary/linus-torvalds)
 - [x] [Web Assembly](/Knowledge-base/Dictionary/web-assembly)
