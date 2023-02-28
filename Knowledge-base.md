@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-28T10:32:49.618Z
+date: 2023-02-28T11:32:38.718Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1121,7 +1121,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 042: Database Security](/Knowledge-base/Software-Development/Learning/software-development-042-database-security)
 - [x] [Software Development 043: Web Application Security](/Knowledge-base/Software-Development/Learning/software-development-043-web-application-security)
 - [x] [Software Development 044: Cloud Security](/Knowledge-base/Software-Development/Learning/software-development-044-cloud-security)
-- [ ] Software Development 045: Internet of Things (IoT)|Software-Development/Learning
+- [x] [Software Development 045: Internet of Things (IoT)](/Knowledge-base/Software-Development/Learning/software-development-045-internet-of-things-iot)
 - [x] [Software Development 046: 5G Technology](/Knowledge-base/Software-Development/Learning/software-development-046-5g-technology)
 - [x] [Software Development 047: Big Data and Data Science](/Knowledge-base/Software-Development/Learning/software-development-047-big-data-and-data-science)
 - [x] [Software Development 048: Data Visualization](/Knowledge-base/Software-Development/Learning/software-development-048-data-visualization)
