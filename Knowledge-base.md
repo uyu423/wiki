@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-28T00:32:38.933Z
+date: 2023-02-28T01:33:05.406Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1944,7 +1944,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [DXC Technology Company](/Knowledge-base/Dictionary/Company/dxc-technology-company)
 - [x] [Atos SE](/Knowledge-base/Dictionary/Company/atos-se)
 - [ ] Adyen N.V.|Dictionary/Company
-- [ ] Square, Inc.|Dictionary/Company
+- [x] [Square, Inc.](/Knowledge-base/Dictionary/Company/square-inc-)
 - [x] [Slack Technologies, Inc.](/Knowledge-base/Dictionary/Company/slack-technologies-inc-)
 - [x] [Zoom Video Communications, Inc.](/Knowledge-base/Dictionary/Company/zoom-video-communications-inc-)
 - [x] [DocuSign, Inc.](/Knowledge-base/Dictionary/Company/docusign-inc-)
