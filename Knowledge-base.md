@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-28T16:32:47.450Z
+date: 2023-02-28T17:32:45.058Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1724,7 +1724,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Resource Allocation](/Knowledge-base/Dictionary/resource-allocation)
 - [x] [Budgeting](/Knowledge-base/Dictionary/budgeting)
 - [x] [Schedule Management](/Knowledge-base/Dictionary/schedule-management)
-- [ ] Risk Management|Dictionary
+- [x] [Risk Management](/Knowledge-base/Dictionary/risk-management)
 - [x] [Change Management](/Knowledge-base/Dictionary/change-management)
 - [x] [Git](/Knowledge-base/Dictionary/git)
 - [x] [Mercurial](/Knowledge-base/Dictionary/mercurial)
