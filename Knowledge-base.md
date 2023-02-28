@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-28T14:32:59.378Z
+date: 2023-02-28T15:32:44.764Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2113,7 +2113,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Grace Hopper (COBOL Creator)](/Knowledge-base/Dictionary/Person/grace-hopper-cobol-creator)
 - [x] [Donald Knuth (Computer Science Author)](/Knowledge-base/Dictionary/Person/donald-knuth-computer-science-author)
 - [x] [Richard Hamming (Error-Correcting Code Creator)](/Knowledge-base/Dictionary/Person/richard-hamming-error-correcting-code-creator)
-- [ ] Michael Stonebraker (Database Management System Pioneer)|Dictionary/Person
+- [x] [Michael Stonebraker (Database Management System Pioneer)](/Knowledge-base/Dictionary/Person/michael-stonebraker-database-management-system-pioneer)
 - [x] [Andrew S. Tanenbaum (Computer Networking Pioneer)](/Knowledge-base/Dictionary/Person/andrew-s-tanenbaum-computer-networking-pioneer)
 - [x] [John Warnock (PostScript Creator)](/Knowledge-base/Dictionary/Person/john-warnock-postscript-creator)
 - [x] [Charles P. Thacker (Computer Hardware Pioneer)](/Knowledge-base/Dictionary/Person/charles-p-thacker-computer-hardware-pioneer)
