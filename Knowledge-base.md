@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-28T02:32:53.925Z
+date: 2023-02-28T03:32:57.783Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1765,7 +1765,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Wireless Network](/Knowledge-base/Dictionary/wireless-network)
 - [x] [Network Management](/Knowledge-base/Dictionary/network-management)
 - [x] [Traffic Management](/Knowledge-base/Dictionary/traffic-management)
-- [ ] Quality of Service|Dictionary
+- [x] [Quality of Service](/Knowledge-base/Dictionary/quality-of-service)
 - [x] [Bandwidth Management](/Knowledge-base/Dictionary/bandwidth-management)
 - [ ] Public Cloud|Dictionary
 - [ ] Private Cloud|Dictionary
