@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-28T21:32:46.018Z
+date: 2023-02-28T22:32:41.777Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2084,7 +2084,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Peter Thiel (PayPal Co-founder)|Dictionary/Person
 - [x] [Reid Hoffman (LinkedIn Co-founder)](/Knowledge-base/Dictionary/Person/reid-hoffman-linkedin-co-founder)
 - [x] [Max Levchin (PayPal Co-founder)](/Knowledge-base/Dictionary/Person/max-levchin-paypal-co-founder)
-- [ ] Marc Andreessen (Netscape Co-founder)|Dictionary/Person
+- [x] [Marc Andreessen (Netscape Co-founder)](/Knowledge-base/Dictionary/Person/marc-andreessen-netscape-co-founder)
 - [x] [Jim Clark (Netscape Co-founder)](/Knowledge-base/Dictionary/Person/jim-clark-netscape-co-founder)
 - [x] [Marc Benioff (Salesforce CEO)](/Knowledge-base/Dictionary/Person/marc-benioff-salesforce-ceo)
 - [ ] John McAfee (McAfee Anti-Virus Founder)|Dictionary/Person
