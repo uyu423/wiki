@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-28T17:32:45.058Z
+date: 2023-02-28T18:33:04.862Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1940,7 +1940,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [SAP SE](/Knowledge-base/Dictionary/Company/sap-se)
 - [ ] Accenture plc|Dictionary/Company
 - [ ] Dell Technologies|Dictionary/Company
-- [ ] Capgemini SE|Dictionary/Company
+- [x] [Capgemini SE](/Knowledge-base/Dictionary/Company/capgemini-se)
 - [x] [DXC Technology Company](/Knowledge-base/Dictionary/Company/dxc-technology-company)
 - [x] [Atos SE](/Knowledge-base/Dictionary/Company/atos-se)
 - [ ] Adyen N.V.|Dictionary/Company
