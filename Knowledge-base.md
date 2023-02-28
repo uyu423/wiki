@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-28T07:33:01.303Z
+date: 2023-02-28T08:33:15.784Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2025,7 +2025,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [GREE, Inc. (Japan)](/Knowledge-base/Dictionary/Company/gree-inc-japan)
 - [ ] NHN Entertainment Corporation (South Korea)|Dictionary/Company
 - [x] [Com2uS Corporation (South Korea)](/Knowledge-base/Dictionary/Company/com2us-corporation-south-korea)
-- [ ] Netmarble Corporation (South Korea)|Dictionary/Company
+- [x] [Netmarble Corporation (South Korea)](/Knowledge-base/Dictionary/Company/netmarble-corporation-south-korea)
 - [ ] Nexon Co., Ltd. (South Korea)|Dictionary/Company
 - [ ] Gamevil (South Korea)|Dictionary/Company
 - [x] [PUBG Corporation (South Korea)](/Knowledge-base/Dictionary/Company/pubg-corporation-south-korea)
