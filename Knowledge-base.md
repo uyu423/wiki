@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-28T09:32:44.317Z
+date: 2023-02-28T10:32:49.618Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1909,7 +1909,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Team Management](/Knowledge-base/Dictionary/team-management)
 - [x] [Human Resource Management](/Knowledge-base/Dictionary/human-resource-management)
 - [x] [Talent Acquisition](/Knowledge-base/Dictionary/talent-acquisition)
-- [ ] Talent Development|Dictionary
+- [x] [Talent Development](/Knowledge-base/Dictionary/talent-development)
 - [ ] Performance Management|Dictionary
 - [x] [Succession Planning](/Knowledge-base/Dictionary/succession-planning)
 - [ ] Employee Engagement|Dictionary
