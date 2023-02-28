@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-02-28T08:33:15.784Z
+date: 2023-02-28T09:32:44.317Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2102,7 +2102,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Biz Stone (Twitter Co-founder)](/Knowledge-base/Dictionary/Person/biz-stone-twitter-co-founder)
 - [x] [Evan Williams (Twitter Co-founder)](/Knowledge-base/Dictionary/Person/evan-williams-twitter-co-founder)
 - [x] [Jack Dorsey (Twitter Co-founder)](/Knowledge-base/Dictionary/Person/jack-dorsey-twitter-co-founder)
-- [ ] Kevin Systrom (Instagram Co-founder)|Dictionary/Person
+- [x] [Kevin Systrom (Instagram Co-founder)](/Knowledge-base/Dictionary/Person/kevin-systrom-instagram-co-founder)
 - [ ] Mike Krieger (Instagram Co-founder)|Dictionary/Person
 - [x] [Noam Chomsky (Linguistics Professor and Author)](/Knowledge-base/Dictionary/Person/noam-chomsky-linguistics-professor-and-author)
 - [x] [Claude Shannon (Information Theory Pioneer)](/Knowledge-base/Dictionary/Person/claude-shannon-information-theory-pioneer)
