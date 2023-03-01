@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-01T02:32:30.509Z
+date: 2023-03-01T03:32:44.583Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1378,7 +1378,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Implementing Caching and Performance Optimization in TypeScript Applications](/Knowledge-base/TypeScript/implementing-caching-and-performance-optimization-in-typescript-applications)
 - [x] [Testing TypeScript Applications with Jest and Supertest](/Knowledge-base/TypeScript/testing-typescript-applications-with-jest-and-supertest)
 - [x] [Using TypeScript with GraphQL for API Development](/Knowledge-base/TypeScript/using-typescript-with-graphql-for-api-development)
-- [ ] Developing Microservices with TypeScript and Nest.js|TypeScript
+- [x] [Developing Microservices with TypeScript and Nest.js](/Knowledge-base/TypeScript/developing-microservices-with-typescript-and-nest-js)
 - [x] [Integrating TypeScript with AWS Services for Serverless Development](/Knowledge-base/TypeScript/integrating-typescript-with-aws-services-for-serverless-development)
 - [x] [Building Real-Time Chat Applications with TypeScript and WebSockets](/Knowledge-base/TypeScript/building-real-time-chat-applications-with-typescript-and-websockets)
 - [ ] Using TypeScript with TypeORM for Object-Relational Mapping|TypeScript
