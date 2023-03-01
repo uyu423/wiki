@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-01T05:33:11.622Z
+date: 2023-03-01T06:32:39.442Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2087,7 +2087,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Marc Andreessen (Netscape Co-founder)](/Knowledge-base/Dictionary/Person/marc-andreessen-netscape-co-founder)
 - [x] [Jim Clark (Netscape Co-founder)](/Knowledge-base/Dictionary/Person/jim-clark-netscape-co-founder)
 - [x] [Marc Benioff (Salesforce CEO)](/Knowledge-base/Dictionary/Person/marc-benioff-salesforce-ceo)
-- [ ] John McAfee (McAfee Anti-Virus Founder)|Dictionary/Person
+- [x] [John McAfee (McAfee Anti-Virus Founder)](/Knowledge-base/Dictionary/Person/john-mcafee-mcafee-anti-virus-founder)
 - [x] [Bob Metcalfe (Ethernet Inventor)](/Knowledge-base/Dictionary/Person/bob-metcalfe-ethernet-inventor)
 - [ ] Dave Cutler (Windows NT Architect)|Dictionary/Person
 - [x] [Bob Frankston (VisiCalc Creator)](/Knowledge-base/Dictionary/Person/bob-frankston-visicalc-creator)
