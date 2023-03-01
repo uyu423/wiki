@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-01T01:32:28.660Z
+date: 2023-03-01T02:32:30.509Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1110,7 +1110,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 031: Predictive Analytics|Software-Development/Learning
 - [x] [Software Development 032: Deep Learning](/Knowledge-base/Software-Development/Learning/software-development-032-deep-learning)
 - [x] [Software Development 033: TensorFlow and Keras](/Knowledge-base/Software-Development/Learning/software-development-033-tensorflow-and-keras)
-- [ ] Software Development 034: Computer Graphics|Software-Development/Learning
+- [x] [Software Development 034: Computer Graphics](/Knowledge-base/Software-Development/Learning/software-development-034-computer-graphics)
 - [x] [Software Development 035: Game Development](/Knowledge-base/Software-Development/Learning/software-development-035-game-development)
 - [x] [Software Development 036: Virtual Reality (VR) and Augmented Reality (AR)](/Knowledge-base/Software-Development/Learning/software-development-036-virtual-reality-vr-and-augmented-reality-ar)
 - [x] [Software Development 037: Blockchain Technology](/Knowledge-base/Software-Development/Learning/software-development-037-blockchain-technology)
