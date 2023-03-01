@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-01T14:32:43.109Z
+date: 2023-03-01T15:32:25.118Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1276,7 +1276,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Building a Virtual Assistant with AI](/Knowledge-base/Common/building-a-virtual-assistant-with-ai)
 - [x] [The Advantages of Using NoSQL Databases in Software Development](/Knowledge-base/Common/the-advantages-of-using-nosql-databases-in-software-development)
 - [x] [How to Create an E-commerce Website with WooCommerce](/Knowledge-base/Common/how-to-create-an-e-commerce-website-with-woocommerce)
-- [ ] The Future of Artificial Intelligence (AI) in Manufacturing|Common
+- [x] [The Future of Artificial Intelligence (AI) in Manufacturing](/Knowledge-base/Common/the-future-of-artificial-intelligence-ai-in-manufacturing)
 - [x] [Using Artificial Intelligence (AI) for Predictive Maintenance](/Knowledge-base/Common/using-artificial-intelligence-ai-for-predictive-maintenance)
 
 ## Node.js Deep Dive
