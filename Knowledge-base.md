@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-01T20:32:38.950Z
+date: 2023-03-01T21:32:37.458Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1839,7 +1839,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Xamarin](/Knowledge-base/Dictionary/xamarin)
 - [x] [Hybrid Mobile Development](/Knowledge-base/Dictionary/hybrid-mobile-development)
 - [x] [Progressive Web Apps](/Knowledge-base/Dictionary/progressive-web-apps)
-- [ ] Mobile Application Testing|Dictionary
+- [x] [Mobile Application Testing](/Knowledge-base/Dictionary/mobile-application-testing)
 - [x] [User Experience Design](/Knowledge-base/Dictionary/user-experience-design)
 - [x] [User Interface Design](/Knowledge-base/Dictionary/user-interface-design)
 - [x] [Visual Design](/Knowledge-base/Dictionary/visual-design)
