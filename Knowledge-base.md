@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-01T16:32:37.378Z
+date: 2023-03-01T17:32:39.051Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2065,7 +2065,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Brad Smith (Microsoft President)](/Knowledge-base/Dictionary/Person/brad-smith-microsoft-president)
 - [x] [Sanjay Kumar (Computer Associates CEO)](/Knowledge-base/Dictionary/Person/sanjay-kumar-computer-associates-ceo)
 - [x] [Vinod Dham (Intel Engineer)](/Knowledge-base/Dictionary/Person/vinod-dham-intel-engineer)
-- [ ] Rajeev Suri (Nokia CEO)|Dictionary/Person
+- [x] [Rajeev Suri (Nokia CEO)](/Knowledge-base/Dictionary/Person/rajeev-suri-nokia-ceo)
 - [x] [Pradeep Sindhu (Juniper Networks Co-founder)](/Knowledge-base/Dictionary/Person/pradeep-sindhu-juniper-networks-co-founder)
 - [ ] Andy Bechtolsheim (Sun Microsystems Co-founder)|Dictionary/Person
 - [x] [Ken Thompson (UNIX Developer)](/Knowledge-base/Dictionary/Person/ken-thompson-unix-developer)
