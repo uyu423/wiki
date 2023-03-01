@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-01T11:32:46.902Z
+date: 2023-03-01T12:32:39.075Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1486,7 +1486,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Happy Hacking Keyboard](/Knowledge-base/Dictionary/happy-hacking-keyboard)
 - [x] [Graphic Card](/Knowledge-base/Dictionary/graphic-card)
 - [x] [NVMe](/Knowledge-base/Dictionary/nvme)
-- [ ] RAM|Dictionary
+- [x] [RAM](/Knowledge-base/Dictionary/ram)
 - [x] [Micro Architecture](/Knowledge-base/Dictionary/micro-architecture)
 - [x] [CPU](/Knowledge-base/Dictionary/cpu)
 - [ ] Ryzen CPU|Dictionary
