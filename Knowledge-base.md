@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-01T17:32:39.051Z
+date: 2023-03-01T18:32:50.178Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1527,7 +1527,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Mobile Development](/Knowledge-base/Dictionary/mobile-development)
 - [x] [Software Engineering](/Knowledge-base/Dictionary/software-engineering)
 - [x] [Systems Architecture](/Knowledge-base/Dictionary/systems-architecture)
-- [ ] Database Management|Dictionary
+- [x] [Database Management](/Knowledge-base/Dictionary/database-management)
 - [x] [Network Engineering](/Knowledge-base/Dictionary/network-engineering)
 - [x] [Quality Assurance](/Knowledge-base/Dictionary/quality-assurance)
 - [x] [Project Management](/Knowledge-base/Dictionary/project-management)
