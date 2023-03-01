@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-01T08:32:18.354Z
+date: 2023-03-01T09:32:58.614Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1938,7 +1938,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Cisco Systems, Inc.](/Knowledge-base/Dictionary/Company/cisco-systems-inc-)
 - [x] [Hewlett Packard Enterprise (HPE)](/Knowledge-base/Dictionary/Company/hewlett-packard-enterprise-hpe)
 - [x] [SAP SE](/Knowledge-base/Dictionary/Company/sap-se)
-- [ ] Accenture plc|Dictionary/Company
+- [x] [Accenture plc](/Knowledge-base/Dictionary/Company/accenture-plc)
 - [ ] Dell Technologies|Dictionary/Company
 - [x] [Capgemini SE](/Knowledge-base/Dictionary/Company/capgemini-se)
 - [x] [DXC Technology Company](/Knowledge-base/Dictionary/Company/dxc-technology-company)
