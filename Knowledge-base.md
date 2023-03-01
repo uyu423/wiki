@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-01T18:32:50.178Z
+date: 2023-03-01T19:32:29.294Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2098,7 +2098,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Charles Geschke (Adobe Co-founder)](/Knowledge-base/Dictionary/Person/charles-geschke-adobe-co-founder)
 - [x] [Alan Cooper (Visual Basic Creator)](/Knowledge-base/Dictionary/Person/alan-cooper-visual-basic-creator)
 - [x] [David Heinemeier Hansson (Ruby on Rails Creator)](/Knowledge-base/Dictionary/Person/david-heinemeier-hansson-ruby-on-rails-creator)
-- [ ] Marten Mickos (MySQL CEO)|Dictionary/Person
+- [x] [Marten Mickos (MySQL CEO)](/Knowledge-base/Dictionary/Person/marten-mickos-mysql-ceo)
 - [x] [Biz Stone (Twitter Co-founder)](/Knowledge-base/Dictionary/Person/biz-stone-twitter-co-founder)
 - [x] [Evan Williams (Twitter Co-founder)](/Knowledge-base/Dictionary/Person/evan-williams-twitter-co-founder)
 - [x] [Jack Dorsey (Twitter Co-founder)](/Knowledge-base/Dictionary/Person/jack-dorsey-twitter-co-founder)
