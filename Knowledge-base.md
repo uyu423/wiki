@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-01T10:32:51.691Z
+date: 2023-03-01T11:32:46.902Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1631,7 +1631,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Denial-of-Service Attack](/Knowledge-base/Dictionary/denial-of-service-attack)
 - [x] [Distributed Denial-of-Service Attack](/Knowledge-base/Dictionary/distributed-denial-of-service-attack)
 - [x] [Rootkit](/Knowledge-base/Dictionary/rootkit)
-- [ ] Botnet|Dictionary
+- [x] [Botnet](/Knowledge-base/Dictionary/botnet)
 - [x] [Worm](/Knowledge-base/Dictionary/worm)
 - [x] [Trojan](/Knowledge-base/Dictionary/trojan)
 - [x] [Virus](/Knowledge-base/Dictionary/virus)
