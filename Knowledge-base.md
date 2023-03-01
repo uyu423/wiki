@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-01T07:32:19.077Z
+date: 2023-03-01T08:32:18.354Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1229,7 +1229,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [How to Build a Single-Page Application (SPA) with Vue](/Knowledge-base/Common/how-to-build-a-single-page-application-spa-with-vue)
 - [x] [Developing a Graphical User Interface (GUI) using Python](/Knowledge-base/Common/developing-a-graphical-user-interface-gui-using-python)
 - [x] [An Introduction to Natural Language Processing (NLP)](/Knowledge-base/Common/an-introduction-to-natural-language-processing-nlp)
-- [ ] Coding with Test-Driven Development (TDD) Methodology|Common
+- [x] [Coding with Test-Driven Development (TDD) Methodology](/Knowledge-base/Common/coding-with-test-driven-development-tdd-methodology)
 - [x] [Mobile App Development with React Native](/Knowledge-base/Common/mobile-app-development-with-react-native)
 - [x] [Creating 3D Games with Unity](/Knowledge-base/Common/creating-3d-games-with-unity)
 - [x] [How to Secure Your Website with HTTPS and SSL Certificates](/Knowledge-base/Common/how-to-secure-your-website-with-https-and-ssl-certificates)
