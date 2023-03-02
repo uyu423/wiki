@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T05:32:50.009Z
+date: 2023-03-02T06:32:44.310Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1539,7 +1539,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Marketing Automation|Dictionary
 - [x] [Digital Transformation](/Knowledge-base/Dictionary/digital-transformation)
 - [x] [Enterprise Architecture](/Knowledge-base/Dictionary/enterprise-architecture)
-- [ ] User Experience|Dictionary
+- [x] [User Experience](/Knowledge-base/Dictionary/user-experience)
 - [x] [Business Process Automation](/Knowledge-base/Dictionary/business-process-automation)
 - [x] [Information Architecture](/Knowledge-base/Dictionary/information-architecture)
 - [x] [Content Management](/Knowledge-base/Dictionary/content-management)
