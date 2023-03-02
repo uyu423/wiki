@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T08:35:10.982Z
+date: 2023-03-02T08:39:40.742Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -46,6 +46,64 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [setting-up-a-backend-system-with-spring-boot](/ko/Knowledge-base/Backend/setting-up-a-backend-system-with-spring-boot)
 - [x] [building-backend-systems-with-grpc](/ko/Knowledge-base/Backend/building-backend-systems-with-grpc)
 - [x] [building-resilient-backend-systems-with-circuit-breakers](/ko/Knowledge-base/Backend/building-resilient-backend-systems-with-circuit-breakers)
+
+## TypeScript Basic Learning
+
+- [ ] 001: An Introduction to TypeScript: Getting Started with Strongly Typed JavaScript|TyeeScript/Learning
+- [ ] 002: Basic Types in TypeScript: Understanding Variables and Data Types|TyeeScript/Learning
+- [ ] 003: Functions in TypeScript: How to Declare and Use Functions in Your Code|TyeeScript/Learning
+- [ ] 004: Interfaces in TypeScript: How to Define and Use Custom Types|TyeeScript/Learning
+- [ ] 005: Classes in TypeScript: Object-Oriented Programming in TypeScript|TyeeScript/Learning
+- [ ] 006: Inheritance and Polymorphism in TypeScript: How to Extend and Override Classes|TyeeScript/Learning
+- [ ] 007: Modules in TypeScript: How to Organize Your Code into Modules and Files|TyeeScript/Learning
+- [ ] 008: Generics in TypeScript: How to Write Reusable Code with Type Parameters|TyeeScript/Learning
+- [ ] 009: Decorators in TypeScript: How to Use Decorators to Add Functionality to Your Code|TyeeScript/Learning
+- [ ] 010: Namespaces in TypeScript: How to Organize Your Code into Namespaces|TyeeScript/Learning
+- [ ] 011: Advanced Types in TypeScript: How to Use Union Types, Intersection Types, and More|TyeeScript/Learning
+- [ ] 012: Type Inference in TypeScript: How TypeScript Infers Types in Your Code|TyeeScript/Learning
+- [ ] 013: Type Guards in TypeScript: How to Narrow Down Types with Conditionals|TyeeScript/Learning
+- [ ] 014: Enums in TypeScript: How to Define and Use Enumerated Types|TyeeScript/Learning
+- [ ] 015: Type Aliases in TypeScript: How to Define Custom Types with Aliases|TyeeScript/Learning
+- [ ] 016: Type Assertions in TypeScript: How to Override TypeScript's Type System|TyeeScript/Learning
+- [ ] 017: Tuples in TypeScript: How to Work with Fixed-Length Arrays with Typed Elements|TyeeScript/Learning
+- [ ] 018: Type Compatibility in TypeScript: How to Ensure Types Are Compatible in Your Code|TyeeScript/Learning
+- [ ] 019: Declaration Merging in TypeScript: How to Merge Multiple Declarations of the Same Entity|TyeeScript/Learning
+- [ ] 020: Intersection Types in TypeScript: How to Combine Types for More Complex Types|TyeeScript/Learning
+- [ ] 021: Type Reflection in TypeScript: How to Use TypeScript's Reflection Capabilities|TyeeScript/Learning
+- [ ] 022: Index Signatures in TypeScript: How to Work with Objects with Dynamic Properties|TyeeScript/Learning
+- [ ] 023: Mixing JavaScript and TypeScript: How to Use TypeScript with Existing JavaScript Code|TyeeScript/Learning
+- [ ] 024: Type Guards with Classes in TypeScript: How to Use Type Guards with Classes and Interfaces|TyeeScript/Learning
+- [ ] 025: Conditional Types in TypeScript: How to Create Types with Conditional Logic|TyeeScript/Learning
+- [ ] 026: String Literal Types in TypeScript: How to Define Types with Literal Values|TyeeScript/Learning
+- [ ] 027: Namespace Aliases in TypeScript: How to Use Aliases to Refer to Namespaces|TyeeScript/Learning
+- [ ] 028: Optional Chaining in TypeScript: How to Safely Access Nested Properties and Methods|TyeeScript/Learning
+- [ ] 029: Type Predicates in TypeScript: How to Write Custom Type Guards|TyeeScript/Learning
+- [ ] 030: Type-Driven Development in TypeScript: How to Use Types to Guide Development|TyeeScript/Learning
+- [ ] 031: Non-Nullable Types in TypeScript: How to Ensure Types Are Not Null or Undefined|TyeeScript/Learning
+- [ ] 032: Discriminated Unions in TypeScript: How to Create Types with Discriminators|TyeeScript/Learning
+- [ ] 033: This Types in TypeScript: How to Work with the 'this' Keyword in Classes and Functions|TyeeScript/Learning
+- [ ] 034: Function Overloading in TypeScript: How to Create Functions with Multiple Signatures|TyeeScript/Learning
+- [ ] 035: Namespaces vs. Modules in TypeScript: Understanding the Differences and When to Use Each|TyeeScript/Learning
+- [ ] 036: Mapped Types in TypeScript: How to Transform Types with Mappings|TyeeScript/Learning
+- [ ] 037: Nullish Coalescing in TypeScript: How to Use the Nullish Coalescing Operator|TyeeScript/Learning
+- [ ] 038: Global Declarations in TypeScript: How to Declare Global Variables and Functions|TyeeScript/Learning
+- [ ] 039: Readonly Properties in TypeScript: How to Create Immutable Objects|TyeeScript/Learning
+- [ ] 040: Augmenting Types in TypeScript: How to Add Properties and Methods to Existing Types|TyeeScript/Learning
+- [ ] 041: Type-Safe Event Handling in TypeScript: How to Ensure Event Handlers Receive the Correct Arguments|TyeeScript/Learning
+- [ ] 042: String Manipulation in TypeScript: How to Work with Strings in Your Code|TyeeScript/Learning
+- [ ] 043: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types|TyeeScript/Learning
+- [ ] 044: The Partial Type in TypeScript: How to Create Types with Optional Properties|TyeeScript/Learning
+- [ ] 045: String Manipulation in TypeScript: How to Work with Strings in Your Code|TyeeScript/Learning
+- [ ] 046: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types|TyeeScript/Learning
+- [ ] 047: The Partial Type in TypeScript: How to Create Types with Optional Properties|TyeeScript/Learning
+- [ ] 048: The Pick Type in TypeScript: How to Create Types by Picking Properties from Other Types|TyeeScript/Learning
+- [ ] 049: The Omit Type in TypeScript: How to Create Types by Removing Properties from Other Types|TyeeScript/Learning
+- [ ] 050: The Record Type in TypeScript: How to Create Types with Key-Value Pairs|TyeeScript/Learning
+- [ ] 051: Type-Safe APIs in TypeScript: How to Ensure Type Safety in Your API Design|TyeeScript/Learning
+- [ ] 052: The ReadonlyArray Type in TypeScript: How to Create Immutable Arrays|TyeeScript/Learning
+- [ ] 053: The Required Type in TypeScript: How to Create Types with Required Properties|TyeeScript/Learning
+- [ ] 054: Type-Driven Testing in TypeScript: How to Use Types to Improve Your Testing Strategy|TyeeScript/Learning
+
 
 ## Network
 - [ ] An Introduction to HTTP: Understanding the Basics of Web Protocols|Network
