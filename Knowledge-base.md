@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T19:32:18.391Z
+date: 2023-03-02T20:32:20.858Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1518,7 +1518,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Working with Java's java.util.concurrent.locks.LockSupport for Thread Blocking](/Knowledge-base/Java/working-with-java-s-java-util-concurrent-locks-locksupport-for-thread-blocking)
 - [x] [Leveraging Java's java.util.concurrent.ForkJoinPool for Recursive Task Processing](/Knowledge-base/Java/leveraging-java-s-java-util-concurrent-forkjoinpool-for-recursive-task-processing)
 - [x] [Java's java.util.concurrent.CompletionService for Asynchronous Task Management](/Knowledge-base/Java/java-s-java-util-concurrent-completionservice-for-asynchronous-task-management)
-- [ ] Building Custom Concurrent Data Structures in Java|Java
+- [x] [Building Custom Concurrent Data Structures in Java](/Knowledge-base/Java/building-custom-concurrent-data-structures-in-java)
 
 ## TypeScript: Deep Dive
 
