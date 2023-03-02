@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T08:22:36.104Z
+date: 2023-03-02T08:24:15.718Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1829,7 +1829,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Embedded Systems](/Knowledge-base/Dictionary/embedded-systems)
 - [x] [Wearable Technology](/Knowledge-base/Dictionary/wearable-technology)
 - [x] [Augmented Reality](/Knowledge-base/Dictionary/augmented-reality)
-- [ ] Virtual Reality|Dictionary
+- [x] [Virtual Reality](/Knowledge-base/Dictionary/virtual-reality)
 - [x] [Game Development](/Knowledge-base/Dictionary/game-development)
 - [x] [iOS Development](/Knowledge-base/Dictionary/ios-development)
 - [x] [Android Development](/Knowledge-base/Dictionary/android-development)
