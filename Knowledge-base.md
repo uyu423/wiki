@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T21:32:23.626Z
+date: 2023-03-02T22:32:19.878Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -76,7 +76,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 025: Conditional Types in TypeScript: How to Create Types with Conditional Logic|TypeScript/Learning
 - [ ] 026: String Literal Types in TypeScript: How to Define Types with Literal Values|TypeScript/Learning
 - [ ] 027: Namespace Aliases in TypeScript: How to Use Aliases to Refer to Namespaces|TypeScript/Learning
-- [ ] 028: Optional Chaining in TypeScript: How to Safely Access Nested Properties and Methods|TypeScript/Learning
+- [x] [028: Optional Chaining in TypeScript: How to Safely Access Nested Properties and Methods](/Knowledge-base/TypeScript/Learning/028-optional-chaining-in-typescript-how-to-safely-access-nested-properties-and-methods)
 - [ ] 029: Type Predicates in TypeScript: How to Write Custom Type Guards|TypeScript/Learning
 - [ ] 030: Type-Driven Development in TypeScript: How to Use Types to Guide Development|TypeScript/Learning
 - [ ] 031: Non-Nullable Types in TypeScript: How to Ensure Types Are Not Null or Undefined|TypeScript/Learning
