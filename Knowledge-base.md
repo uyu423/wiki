@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T20:32:20.858Z
+date: 2023-03-02T21:32:23.626Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2015,7 +2015,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Content Marketing](/Knowledge-base/Dictionary/content-marketing)
 - [x] [Email Marketing](/Knowledge-base/Dictionary/email-marketing)
 - [x] [Influencer Marketing](/Knowledge-base/Dictionary/influencer-marketing)
-- [ ] Affiliate Marketing|Dictionary
+- [x] [Affiliate Marketing](/Knowledge-base/Dictionary/affiliate-marketing)
 - [x] [Video Marketing](/Knowledge-base/Dictionary/video-marketing)
 - [x] [Content Management System](/Knowledge-base/Dictionary/content-management-system)
 - [x] [WordPress](/Knowledge-base/Dictionary/wordpress)
