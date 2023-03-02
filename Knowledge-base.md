@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T08:24:49.882Z
+date: 2023-03-02T08:26:03.527Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1494,7 +1494,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] bash|Dictionary
 - [x] [zsh](/Knowledge-base/Dictionary/zsh)
 - [x] [Jenkins](/Knowledge-base/Dictionary/jenkins)
-- [x] [Node.js](/Knowledge-base/Dictionary/node-js)
+- [ ] Node.js|Dictionary
 - [x] [Spring Framework](/Knowledge-base/Dictionary/spring-framework)
 - [x] [Subversion(SVN)](/Knowledge-base/Dictionary/subversionsvn)
 - [x] [Linux Kernel](/Knowledge-base/Dictionary/linux-kernel)
