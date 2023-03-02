@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T22:32:19.878Z
+date: 2023-03-02T23:32:21.919Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1782,7 +1782,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Vulnerability Scanning](/Knowledge-base/Dictionary/vulnerability-scanning)
 - [x] [Cybercrime](/Knowledge-base/Dictionary/cybercrime)
 - [ ] Malware|Dictionary
-- [ ] Phishing|Dictionary
+- [x] [Phishing](/Knowledge-base/Dictionary/phishing)
 - [x] [Spoofing](/Knowledge-base/Dictionary/spoofing)
 - [x] [Ransomware](/Knowledge-base/Dictionary/ransomware)
 - [x] [Man-in-the-Middle Attack](/Knowledge-base/Dictionary/man-in-the-middle-attack)
