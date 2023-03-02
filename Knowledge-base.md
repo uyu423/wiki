@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T08:39:46.573Z
+date: 2023-03-02T08:40:01.854Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -49,7 +49,60 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## TypeScript Basic Learning
 
-
+- [ ] 001: An Introduction to TypeScript: Getting Started with Strongly Typed JavaScript|TypeScript/Learning
+- [ ] 002: Basic Types in TypeScript: Understanding Variables and Data Types|TypeScript/Learning
+- [ ] 003: Functions in TypeScript: How to Declare and Use Functions in Your Code|TypeScript/Learning
+- [ ] 004: Interfaces in TypeScript: How to Define and Use Custom Types|TypeScript/Learning
+- [ ] 005: Classes in TypeScript: Object-Oriented Programming in TypeScript|TypeScript/Learning
+- [ ] 006: Inheritance and Polymorphism in TypeScript: How to Extend and Override Classes|TypeScript/Learning
+- [ ] 007: Modules in TypeScript: How to Organize Your Code into Modules and Files|TypeScript/Learning
+- [ ] 008: Generics in TypeScript: How to Write Reusable Code with Type Parameters|TypeScript/Learning
+- [ ] 009: Decorators in TypeScript: How to Use Decorators to Add Functionality to Your Code|TypeScript/Learning
+- [ ] 010: Namespaces in TypeScript: How to Organize Your Code into Namespaces|TypeScript/Learning
+- [ ] 011: Advanced Types in TypeScript: How to Use Union Types, Intersection Types, and More|TypeScript/Learning
+- [ ] 012: Type Inference in TypeScript: How TypeScript Infers Types in Your Code|TypeScript/Learning
+- [ ] 013: Type Guards in TypeScript: How to Narrow Down Types with Conditionals|TypeScript/Learning
+- [ ] 014: Enums in TypeScript: How to Define and Use Enumerated Types|TypeScript/Learning
+- [ ] 015: Type Aliases in TypeScript: How to Define Custom Types with Aliases|TypeScript/Learning
+- [ ] 016: Type Assertions in TypeScript: How to Override TypeScript's Type System|TypeScript/Learning
+- [ ] 017: Tuples in TypeScript: How to Work with Fixed-Length Arrays with Typed Elements|TypeScript/Learning
+- [ ] 018: Type Compatibility in TypeScript: How to Ensure Types Are Compatible in Your Code|TypeScript/Learning
+- [ ] 019: Declaration Merging in TypeScript: How to Merge Multiple Declarations of the Same Entity|TypeScript/Learning
+- [ ] 020: Intersection Types in TypeScript: How to Combine Types for More Complex Types|TypeScript/Learning
+- [ ] 021: Type Reflection in TypeScript: How to Use TypeScript's Reflection Capabilities|TypeScript/Learning
+- [ ] 022: Index Signatures in TypeScript: How to Work with Objects with Dynamic Properties|TypeScript/Learning
+- [ ] 023: Mixing JavaScript and TypeScript: How to Use TypeScript with Existing JavaScript Code|TypeScript/Learning
+- [ ] 024: Type Guards with Classes in TypeScript: How to Use Type Guards with Classes and Interfaces|TypeScript/Learning
+- [ ] 025: Conditional Types in TypeScript: How to Create Types with Conditional Logic|TypeScript/Learning
+- [ ] 026: String Literal Types in TypeScript: How to Define Types with Literal Values|TypeScript/Learning
+- [ ] 027: Namespace Aliases in TypeScript: How to Use Aliases to Refer to Namespaces|TypeScript/Learning
+- [ ] 028: Optional Chaining in TypeScript: How to Safely Access Nested Properties and Methods|TypeScript/Learning
+- [ ] 029: Type Predicates in TypeScript: How to Write Custom Type Guards|TypeScript/Learning
+- [ ] 030: Type-Driven Development in TypeScript: How to Use Types to Guide Development|TypeScript/Learning
+- [ ] 031: Non-Nullable Types in TypeScript: How to Ensure Types Are Not Null or Undefined|TypeScript/Learning
+- [ ] 032: Discriminated Unions in TypeScript: How to Create Types with Discriminators|TypeScript/Learning
+- [ ] 033: This Types in TypeScript: How to Work with the 'this' Keyword in Classes and Functions|TypeScript/Learning
+- [ ] 034: Function Overloading in TypeScript: How to Create Functions with Multiple Signatures|TypeScript/Learning
+- [ ] 035: Namespaces vs. Modules in TypeScript: Understanding the Differences and When to Use Each|TypeScript/Learning
+- [ ] 036: Mapped Types in TypeScript: How to Transform Types with Mappings|TypeScript/Learning
+- [ ] 037: Nullish Coalescing in TypeScript: How to Use the Nullish Coalescing Operator|TypeScript/Learning
+- [ ] 038: Global Declarations in TypeScript: How to Declare Global Variables and Functions|TypeScript/Learning
+- [ ] 039: Readonly Properties in TypeScript: How to Create Immutable Objects|TypeScript/Learning
+- [ ] 040: Augmenting Types in TypeScript: How to Add Properties and Methods to Existing Types|TypeScript/Learning
+- [ ] 041: Type-Safe Event Handling in TypeScript: How to Ensure Event Handlers Receive the Correct Arguments|TypeScript/Learning
+- [ ] 042: String Manipulation in TypeScript: How to Work with Strings in Your Code|TypeScript/Learning
+- [ ] 043: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types|TypeScript/Learning
+- [ ] 044: The Partial Type in TypeScript: How to Create Types with Optional Properties|TypeScript/Learning
+- [ ] 045: String Manipulation in TypeScript: How to Work with Strings in Your Code|TypeScript/Learning
+- [ ] 046: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types|TypeScript/Learning
+- [ ] 047: The Partial Type in TypeScript: How to Create Types with Optional Properties|TypeScript/Learning
+- [ ] 048: The Pick Type in TypeScript: How to Create Types by Picking Properties from Other Types|TypeScript/Learning
+- [ ] 049: The Omit Type in TypeScript: How to Create Types by Removing Properties from Other Types|TypeScript/Learning
+- [ ] 050: The Record Type in TypeScript: How to Create Types with Key-Value Pairs|TypeScript/Learning
+- [ ] 051: Type-Safe APIs in TypeScript: How to Ensure Type Safety in Your API Design|TypeScript/Learning
+- [ ] 052: The ReadonlyArray Type in TypeScript: How to Create Immutable Arrays|TypeScript/Learning
+- [ ] 053: The Required Type in TypeScript: How to Create Types with Required Properties|TypeScript/Learning
+- [ ] 054: Type-Driven Testing in TypeScript: How to Use Types to Improve Your Testing Strategy|TypeScript/Learning
 
 
 ## Network
