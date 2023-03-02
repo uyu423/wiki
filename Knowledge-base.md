@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T08:21:36.854Z
+date: 2023-03-02T08:22:36.104Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1681,7 +1681,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Microservices](/Knowledge-base/Dictionary/microservices)
 - [ ] Service Bus|Dictionary
 - [x] [Enterprise Service Bus](/Knowledge-base/Dictionary/enterprise-service-bus)
-- [ ] Event-Driven Architecture|Dictionary
+- [x] [Event-Driven Architecture](/Knowledge-base/Dictionary/event-driven-architecture)
 - [x] [Domain-Driven Design](/Knowledge-base/Dictionary/domain-driven-design)
 - [x] [Continuous Integration](/Knowledge-base/Dictionary/continuous-integration)
 - [x] [Continuous Delivery](/Knowledge-base/Dictionary/continuous-delivery)
