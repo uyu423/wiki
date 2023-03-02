@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T06:32:44.310Z
+date: 2023-03-02T07:32:39.791Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1463,7 +1463,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] PyAutoGUI|Dictionary
 - [x] [PyWin32](/Knowledge-base/Dictionary/pywin32)
 - [x] [PyInstaller](/Knowledge-base/Dictionary/pyinstaller)
-- [ ] PyTorch Geometric|Dictionary
+- [x] [PyTorch Geometric](/Knowledge-base/Dictionary/pytorch-geometric)
 - [x] [Canonical Ltd](/Knowledge-base/Dictionary/canonical-ltd)
 - [x] [Redhat](/Knowledge-base/Dictionary/redhat)
 - [ ] Amazon|Dictionary
