@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T08:40:01.854Z
+date: 2023-03-02T08:40:54.346Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -49,7 +49,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## TypeScript Basic Learning
 
-- [ ] 001: An Introduction to TypeScript: Getting Started with Strongly Typed JavaScript|TypeScript/Learning
+- [x] [001: An Introduction to TypeScript: Getting Started with Strongly Typed JavaScript](/Knowledge-base/TypeScript/Learning/001-an-introduction-to-typescript-getting-started-with-strongly-typed-javascript)
 - [ ] 002: Basic Types in TypeScript: Understanding Variables and Data Types|TypeScript/Learning
 - [ ] 003: Functions in TypeScript: How to Declare and Use Functions in Your Code|TypeScript/Learning
 - [ ] 004: Interfaces in TypeScript: How to Define and Use Custom Types|TypeScript/Learning
