@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T13:32:22.084Z
+date: 2023-03-02T14:32:23.682Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -90,7 +90,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 039: Readonly Properties in TypeScript: How to Create Immutable Objects|TypeScript/Learning
 - [ ] 040: Augmenting Types in TypeScript: How to Add Properties and Methods to Existing Types|TypeScript/Learning
 - [ ] 041: Type-Safe Event Handling in TypeScript: How to Ensure Event Handlers Receive the Correct Arguments|TypeScript/Learning
-- [ ] 042: String Manipulation in TypeScript: How to Work with Strings in Your Code|TypeScript/Learning
+- [x] [042: String Manipulation in TypeScript: How to Work with Strings in Your Code](/Knowledge-base/TypeScript/Learning/042-string-manipulation-in-typescript-how-to-work-with-strings-in-your-code)
 - [ ] 043: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types|TypeScript/Learning
 - [ ] 044: The Partial Type in TypeScript: How to Create Types with Optional Properties|TypeScript/Learning
 - [ ] 045: String Manipulation in TypeScript: How to Work with Strings in Your Code|TypeScript/Learning
