@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-01T23:32:46.838Z
+date: 2023-03-02T00:32:34.833Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2073,7 +2073,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Bjarne Stroustrup (C++ Creator)](/Knowledge-base/Dictionary/Person/bjarne-stroustrup-c-creator)
 - [ ] Guido van Rossum (Python Creator)|Dictionary/Person
 - [x] [James Gosling (Java Creator)](/Knowledge-base/Dictionary/Person/james-gosling-java-creator)
-- [ ] Brendan Eich (JavaScript Creator)|Dictionary/Person
+- [x] [Brendan Eich (JavaScript Creator)](/Knowledge-base/Dictionary/Person/brendan-eich-javascript-creator)
 - [x] [John Carmack (id Software Co-founder)](/Knowledge-base/Dictionary/Person/john-carmack-id-software-co-founder)
 - [x] [Sid Meier (Civilization Creator)](/Knowledge-base/Dictionary/Person/sid-meier-civilization-creator)
 - [x] [Shigeru Miyamoto (Nintendo Game Designer)](/Knowledge-base/Dictionary/Person/shigeru-miyamoto-nintendo-game-designer)
