@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T08:20:57.636Z
+date: 2023-03-02T08:21:36.854Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1054,7 +1054,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Best Practices for Cloud DevOps on AWS and Azure](/Knowledge-base/Cloud/best-practices-for-cloud-devops-on-aws-and-azure)
 - [x] [Migrating Existing Applications to the Cloud on AWS and Azure](/Knowledge-base/Cloud/migrating-existing-applications-to-the-cloud-on-aws-and-azure)
 - [x] [Best Practices for Monitoring and Logging Cloud Services on AWS and Azure](/Knowledge-base/Cloud/best-practices-for-monitoring-and-logging-cloud-services-on-aws-and-azure)
-- [ ] Introduction to Serverless Architecture on AWS and Azure|Cloud
+- [x] [Introduction to Serverless Architecture on AWS and Azure](/Knowledge-base/Cloud/introduction-to-serverless-architecture-on-aws-and-azure)
 - [x] [Building Microservices on AWS and Azure](/Knowledge-base/Cloud/building-microservices-on-aws-and-azure)
 - [x] [Managing Stateful Applications on AWS and Azure](/Knowledge-base/Cloud/managing-stateful-applications-on-aws-and-azure)
 - [x] [Dealing with Latency and Networking Issues in the Cloud](/Knowledge-base/Cloud/dealing-with-latency-and-networking-issues-in-the-cloud)
