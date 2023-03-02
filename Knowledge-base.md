@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T02:32:29.221Z
+date: 2023-03-02T03:32:24.137Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1369,7 +1369,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Integrating TypeScript with MongoDB for Data Persistence|TypeScript
 - [x] [Using TypeScript with Passport.js for User Authentication](/Knowledge-base/TypeScript/using-typescript-with-passport-js-for-user-authentication)
 - [x] [Handling File Uploads and Downloads with TypeScript and Multer](/Knowledge-base/TypeScript/handling-file-uploads-and-downloads-with-typescript-and-multer)
-- [ ] Working with Sessions and Cookies in TypeScript and Express.js|TypeScript
+- [x] [Working with Sessions and Cookies in TypeScript and Express.js](/Knowledge-base/TypeScript/working-with-sessions-and-cookies-in-typescript-and-express-js)
 - [x] [Debugging and Troubleshooting TypeScript Applications](/Knowledge-base/TypeScript/debugging-and-troubleshooting-typescript-applications)
 - [x] [Securing TypeScript Applications with JWT and Bcrypt](/Knowledge-base/TypeScript/securing-typescript-applications-with-jwt-and-bcrypt)
 - [x] [Integrating TypeScript with Stripe for Payments](/Knowledge-base/TypeScript/integrating-typescript-with-stripe-for-payments)
