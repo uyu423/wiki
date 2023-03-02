@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T17:32:23.390Z
+date: 2023-03-02T18:32:20.102Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1332,7 +1332,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 092: Affiliate Marketing](/Knowledge-base/Software-Development/Learning/software-development-092-affiliate-marketing)
 - [x] [Software Development 093: E-Commerce](/Knowledge-base/Software-Development/Learning/software-development-093-e-commerce)
 - [x] [Software Development 094: Payment Gateway Integration](/Knowledge-base/Software-Development/Learning/software-development-094-payment-gateway-integration)
-- [ ] Software Development 095: Order Management|Software-Development/Learning
+- [x] [Software Development 095: Order Management](/Knowledge-base/Software-Development/Learning/software-development-095-order-management)
 - [x] [Software Development 096: Inventory Management](/Knowledge-base/Software-Development/Learning/software-development-096-inventory-management)
 - [x] [Software Development 097: Customer Relationship Management](/Knowledge-base/Software-Development/Learning/software-development-097-customer-relationship-management)
 
