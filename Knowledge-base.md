@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T08:26:03.527Z
+date: 2023-03-02T08:26:32.403Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2081,7 +2081,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Gabe Newell (Valve Co-founder)](/Knowledge-base/Dictionary/Person/gabe-newell-valve-co-founder)
 - [ ] Palmer Luckey (Oculus VR Co-founder)|Dictionary/Person
 - [x] [Mark Cuban (Investor and Entrepreneur)](/Knowledge-base/Dictionary/Person/mark-cuban-investor-and-entrepreneur)
-- [ ] Peter Thiel (PayPal Co-founder)|Dictionary/Person
+- [x] [Peter Thiel (PayPal Co-founder)](/Knowledge-base/Dictionary/Person/peter-thiel-paypal-co-founder)
 - [x] [Reid Hoffman (LinkedIn Co-founder)](/Knowledge-base/Dictionary/Person/reid-hoffman-linkedin-co-founder)
 - [x] [Max Levchin (PayPal Co-founder)](/Knowledge-base/Dictionary/Person/max-levchin-paypal-co-founder)
 - [x] [Marc Andreessen (Netscape Co-founder)](/Knowledge-base/Dictionary/Person/marc-andreessen-netscape-co-founder)
