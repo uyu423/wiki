@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T08:41:24.331Z
+date: 2023-03-02T09:32:29.637Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -110,7 +110,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] TCP/IP Explained: Understanding the Building Blocks of the Internet|Network
 - [ ] DNS Fundamentals: How Domain Name Resolution Works|Network
 - [ ] HTTP Status Codes: What They Are and What They Mean|Network
-- [ ] The OSI Model: A Comprehensive Guide to Networking Layers|Network
+- [x] [The OSI Model: A Comprehensive Guide to Networking Layers](/Knowledge-base/Network/the-osi-model-a-comprehensive-guide-to-networking-layers)
 - [ ] How to Use cURL: A Command-Line Tool for Working with HTTP|Network
 - [ ] TCP/IP vs. UDP: Understanding the Differences and When to Use Each|Network
 - [ ] DNS Records: A Comprehensive Guide to DNS Resource Records|Network
