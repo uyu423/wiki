@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T00:32:34.833Z
+date: 2023-03-02T01:32:37.684Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1422,7 +1422,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Vue.js](/Knowledge-base/Dictionary/vue-js)
 - [x] [Node.js](/Knowledge-base/Dictionary/node-js)
 - [ ] Express.js|Dictionary
-- [ ] Django|Dictionary
+- [x] [Django](/Knowledge-base/Dictionary/django)
 - [x] [Ruby on Rails](/Knowledge-base/Dictionary/ruby-on-rails)
 - [x] [Laravel](/Knowledge-base/Dictionary/laravel)
 - [x] [Spring](/Knowledge-base/Dictionary/spring)
