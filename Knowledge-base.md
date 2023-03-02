@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T14:32:23.682Z
+date: 2023-03-02T15:32:24.044Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -118,7 +118,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The TCP Three-Way Handshake: How TCP Connections Are Established|Network
 - [ ] HTTP Headers: Understanding the Metadata of Web Requests and Responses|Network
 - [ ] IP Addressing: How IP Addresses Work and How to Manage Them|Network
-- [ ] RESTful APIs: An Introduction to Building Web Services with HTTP|Network
+- [x] [RESTful APIs: An Introduction to Building Web Services with HTTP](/Knowledge-base/Network/restful-apis-an-introduction-to-building-web-services-with-http)
 - [ ] The TCP Congestion Control Algorithm: How TCP Responds to Network Congestion|Network
 - [ ] DNSSEC: Securing DNS with Cryptography|Network
 - [ ] HTTP Cookies: Understanding How Websites Track Your Activity|Network
