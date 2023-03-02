@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T08:26:32.403Z
+date: 2023-03-02T08:32:12.991Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -46,6 +46,59 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [setting-up-a-backend-system-with-spring-boot](/ko/Knowledge-base/Backend/setting-up-a-backend-system-with-spring-boot)
 - [x] [building-backend-systems-with-grpc](/ko/Knowledge-base/Backend/building-backend-systems-with-grpc)
 - [x] [building-resilient-backend-systems-with-circuit-breakers](/ko/Knowledge-base/Backend/building-resilient-backend-systems-with-circuit-breakers)
+
+## NoSQL
+
+- [ ] An Introduction to NoSQL Databases: What They Are and Why They Matter|NoSQL
+- [ ] Getting Started with MongoDB: A Beginner's Guide|NoSQL
+- [ ] Redis Data Structures: What You Need to Know|NoSQL
+- [ ] MongoDB vs. MySQL: Comparing Two Popular Databases|NoSQL
+- [ ] How to Use Redis for Caching in Your Web Application|NoSQL
+- [ ] A Comprehensive Guide to Redis Commands and Syntax|NoSQL
+- [ ] MongoDB Atlas: How to Get Started with MongoDB in the Cloud|NoSQL
+- [ ] Redis Clustering: How to Build a Highly Available Redis Cluster|NoSQL
+- [ ] NoSQL vs. SQL: Which Database Type Is Right for You?|NoSQL
+- [ ] MongoDB Security: Best Practices for Keeping Your Data Safe|NoSQL
+- [ ] Redis Pub/Sub: Building a Real-Time Message Queue with Redis|NoSQL
+- [ ] How to Migrate from SQL to NoSQL: A Step-by-Step Guide|NoSQL
+- [ ] MongoDB Aggregation Framework: Exploring Powerful Querying Capabilities|NoSQL
+- [ ] Redis vs. Memcached: Which Caching System Is Best for You?|NoSQL
+- [ ] The Pros and Cons of Using a Document-Oriented NoSQL Database like MongoDB|NoSQL
+- [ ] Redis Data Persistence: How to Make Sure Your Data Is Always There|NoSQL
+- [ ] MongoDB Indexing: Tips and Best Practices for Faster Queries|NoSQL
+- [ ] NoSQL Database Design: How to Model Data in MongoDB and Redis|NoSQL
+- [ ] Redis Lua Scripting: Building Custom Redis Commands with Lua|NoSQL
+- [ ] MongoDB Replication: How to Ensure Data Availability and Durability|NoSQL
+- [ ] The Role of NoSQL Databases in Big Data Analytics|NoSQL
+- [ ] MongoDB Sharding: How to Scale Your MongoDB Cluster|NoSQL
+- [ ] Redis Key-Value Store: Understanding the Basics|NoSQL
+- [ ] MongoDB GridFS: How to Store and Retrieve Large Files|NoSQL
+- [ ] How to Use Redis Streams for Real-Time Data Processing|NoSQL
+- [ ] Redis Streams vs. Apache Kafka: Comparing Two Data Streaming Systems|NoSQL
+- [ ] MongoDB Transactions: ACID Transactions in a NoSQL Database|NoSQL
+- [ ] Redis Cache Patterns: Best Practices for Designing a High-Performance Cache|NoSQL
+- [ ] A Guide to Scaling MongoDB: Sharding vs. Replica Sets|NoSQL
+- [ ] Building a Search Engine with Redis: Implementing a Fast, Scalable Index|NoSQL
+- [ ] MongoDB Time-To-Live (TTL) Collections: Expiring Data Automatically|NoSQL
+- [ ] Using Redis for Rate Limiting: Protecting Your Web Application from Abuse|NoSQL
+- [ ] MongoDB Data Modeling Best Practices: Designing for Scalability and Performance|NoSQL
+- [ ] Redis Lua Scripting: Building More Advanced Redis Commands|NoSQL
+- [ ] A Guide to MongoDB Query Optimization: Best Practices and Tips|NoSQL
+- [ ] Redis Enterprise: Scaling Redis in the Cloud with High Availability|NoSQL
+- [ ] MongoDB and Node.js: Building a Modern Web Application Stack|NoSQL
+- [ ] Redis JSON Data Structures: Storing and Querying JSON Data in Redis|NoSQL
+- [ ] A Guide to MongoDB Atlas: Fully Managed MongoDB in the Cloud|NoSQL
+- [ ] Redis Sentinel vs. Redis Cluster: Comparing Two High-Availability Solutions|NoSQL
+- [ ] Building a Recommendation System with Redis: Collaborative Filtering and Beyond|NoSQL
+- [ ] MongoDB Backups and Disaster Recovery: Best Practices and Strategies|NoSQL
+- [ ] Redis Geo: A Guide to Storing and Querying Geospatial Data in Redis|NoSQL
+- [ ] MongoDB Aggregation Performance: Optimizing Complex Queries for Speed|NoSQL
+- [ ] Redis AI: Machine Learning and Deep Learning with Redis|NoSQL
+- [ ] A Guide to MongoDB Index Optimization: Improving Query Performance|NoSQL
+- [ ] Redis Time-Series Data: Storing and Querying Time-Stamped Data in Redis|NoSQL
+- [ ] MongoDB and Elasticsearch: Combining Two Powerful Data Technologies|NoSQL
+- [ ] Redis RediSearch: A Full-Text Search Solution for Redis|NoSQL
+- [ ] A Guide to MongoDB Realm: A Serverless Platform for Building Modern Applications|NoSQL
 
 ## Algorithm (use JavsScript)
 - [x] [[Learning in JavaScript] 001: Asymptotic Analysis](/Knowledge-base/Algorithm/learning-in-javascript-001-asymptotic-analysis)
