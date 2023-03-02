@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T15:32:24.044Z
+date: 2023-03-02T16:32:25.132Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -66,7 +66,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 015: Type Aliases in TypeScript: How to Define Custom Types with Aliases|TypeScript/Learning
 - [x] [016: Type Assertions in TypeScript: How to Override TypeScript's Type System](/Knowledge-base/TypeScript/Learning/016-type-assertions-in-typescript-how-to-override-typescript-s-type-system)
 - [ ] 017: Tuples in TypeScript: How to Work with Fixed-Length Arrays with Typed Elements|TypeScript/Learning
-- [ ] 018: Type Compatibility in TypeScript: How to Ensure Types Are Compatible in Your Code|TypeScript/Learning
+- [x] [018: Type Compatibility in TypeScript: How to Ensure Types Are Compatible in Your Code](/Knowledge-base/TypeScript/Learning/018-type-compatibility-in-typescript-how-to-ensure-types-are-compatible-in-your-code)
 - [ ] 019: Declaration Merging in TypeScript: How to Merge Multiple Declarations of the Same Entity|TypeScript/Learning
 - [ ] 020: Intersection Types in TypeScript: How to Combine Types for More Complex Types|TypeScript/Learning
 - [ ] 021: Type Reflection in TypeScript: How to Use TypeScript's Reflection Capabilities|TypeScript/Learning
