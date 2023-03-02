@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T03:32:24.137Z
+date: 2023-03-02T04:32:26.855Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1337,7 +1337,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Java's java.util.concurrent.locks Package for Locking and Synchronization](/Knowledge-base/Java/java-s-java-util-concurrent-locks-package-for-locking-and-synchronization)
 - [x] [Leveraging Java's java.util.stream Package for Stream Processing](/Knowledge-base/Java/leveraging-java-s-java-util-stream-package-for-stream-processing)
 - [ ] Java's Executor Framework for Task Scheduling and Execution|Java
-- [ ] Java's Reflection-based Dynamic Proxies for Dynamic Method Invocation|Java
+- [x] [Java's Reflection-based Dynamic Proxies for Dynamic Method Invocation](/Knowledge-base/Java/java-s-reflection-based-dynamic-proxies-for-dynamic-method-invocation)
 - [x] [A Guide to Java's Dynamic Class Loading and Reloading](/Knowledge-base/Java/a-guide-to-java-s-dynamic-class-loading-and-reloading)
 - [x] [Building Custom Java Security Managers](/Knowledge-base/Java/building-custom-java-security-managers)
 - [x] [Java's java.nio Package for Non-Blocking I/O Operations](/Knowledge-base/Java/java-s-java-nio-package-for-non-blocking-io-operations)
