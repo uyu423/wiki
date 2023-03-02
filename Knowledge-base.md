@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-02T10:32:26.629Z
+date: 2023-03-02T11:32:23.054Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -64,7 +64,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 013: Type Guards in TypeScript: How to Narrow Down Types with Conditionals|TypeScript/Learning
 - [ ] 014: Enums in TypeScript: How to Define and Use Enumerated Types|TypeScript/Learning
 - [ ] 015: Type Aliases in TypeScript: How to Define Custom Types with Aliases|TypeScript/Learning
-- [ ] 016: Type Assertions in TypeScript: How to Override TypeScript's Type System|TypeScript/Learning
+- [x] [016: Type Assertions in TypeScript: How to Override TypeScript's Type System](/Knowledge-base/TypeScript/Learning/016-type-assertions-in-typescript-how-to-override-typescript-s-type-system)
 - [ ] 017: Tuples in TypeScript: How to Work with Fixed-Length Arrays with Typed Elements|TypeScript/Learning
 - [ ] 018: Type Compatibility in TypeScript: How to Ensure Types Are Compatible in Your Code|TypeScript/Learning
 - [ ] 019: Declaration Merging in TypeScript: How to Merge Multiple Declarations of the Same Entity|TypeScript/Learning
