@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-03T01:32:29.848Z
+date: 2023-03-03T02:32:27.790Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1627,7 +1627,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [PyTorch Geometric](/Knowledge-base/Dictionary/pytorch-geometric)
 - [x] [Canonical Ltd](/Knowledge-base/Dictionary/canonical-ltd)
 - [x] [Redhat](/Knowledge-base/Dictionary/redhat)
-- [ ] Amazon|Dictionary
+- [x] [Amazon](/Knowledge-base/Dictionary/amazon)
 - [x] [Tesla](/Knowledge-base/Dictionary/tesla)
 - [x] [Open AI](/Knowledge-base/Dictionary/open-ai)
 - [x] [Google](/Knowledge-base/Dictionary/google)
