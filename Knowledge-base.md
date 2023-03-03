@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-03T20:32:29.928Z
+date: 2023-03-03T21:32:27.771Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -201,7 +201,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [MongoDB Backups and Disaster Recovery: Best Practices and Strategies](/Knowledge-base/NoSQL/mongodb-backups-and-disaster-recovery-best-practices-and-strategies)
 - [ ] Redis Geo: A Guide to Storing and Querying Geospatial Data in Redis|NoSQL
 - [ ] MongoDB Aggregation Performance: Optimizing Complex Queries for Speed|NoSQL
-- [ ] Redis AI: Machine Learning and Deep Learning with Redis|NoSQL
+- [x] [Redis AI: Machine Learning and Deep Learning with Redis](/Knowledge-base/NoSQL/redis-ai-machine-learning-and-deep-learning-with-redis)
 - [ ] A Guide to MongoDB Index Optimization: Improving Query Performance|NoSQL
 - [ ] Redis Time-Series Data: Storing and Querying Time-Stamped Data in Redis|NoSQL
 - [ ] MongoDB and Elasticsearch: Combining Two Powerful Data Technologies|NoSQL
