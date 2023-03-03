@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-03T08:32:34.374Z
+date: 2023-03-03T09:32:29.076Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -176,7 +176,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] MongoDB Indexing: Tips and Best Practices for Faster Queries|NoSQL
 - [ ] NoSQL Database Design: How to Model Data in MongoDB and Redis|NoSQL
 - [ ] Redis Lua Scripting: Building Custom Redis Commands with Lua|NoSQL
-- [ ] MongoDB Replication: How to Ensure Data Availability and Durability|NoSQL
+- [x] [MongoDB Replication: How to Ensure Data Availability and Durability](/Knowledge-base/NoSQL/mongodb-replication-how-to-ensure-data-availability-and-durability)
 - [ ] The Role of NoSQL Databases in Big Data Analytics|NoSQL
 - [ ] MongoDB Sharding: How to Scale Your MongoDB Cluster|NoSQL
 - [ ] Redis Key-Value Store: Understanding the Basics|NoSQL
