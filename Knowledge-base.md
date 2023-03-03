@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-03T21:32:27.771Z
+date: 2023-03-03T22:32:26.193Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1304,7 +1304,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 064: Serverless Architecture](/Knowledge-base/Software-Development/Learning/software-development-064-serverless-architecture)
 - [x] [Software Development 065: High Performance Computing (HPC)](/Knowledge-base/Software-Development/Learning/software-development-065-high-performance-computing-hpc)
 - [x] [Software Development 066: Real-Time Analytics](/Knowledge-base/Software-Development/Learning/software-development-066-real-time-analytics)
-- [ ] Software Development 067: Streaming Analytics|Software-Development/Learning
+- [x] [Software Development 067: Streaming Analytics](/Knowledge-base/Software-Development/Learning/software-development-067-streaming-analytics)
 - [x] [Software Development 068: Event-Driven Architecture](/Knowledge-base/Software-Development/Learning/software-development-068-event-driven-architecture)
 - [x] [Software Development 069: Event Sourcing and CQRS](/Knowledge-base/Software-Development/Learning/software-development-069-event-sourcing-and-cqrs)
 - [ ] Software Development 070: Service-Oriented Architecture (SOA)|Software-Development/Learning
