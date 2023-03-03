@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-03T17:32:30.393Z
+date: 2023-03-03T18:32:29.915Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -93,7 +93,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [042: String Manipulation in TypeScript: How to Work with Strings in Your Code](/Knowledge-base/TypeScript/Learning/042-string-manipulation-in-typescript-how-to-work-with-strings-in-your-code)
 - [ ] 043: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types|TypeScript/Learning
 - [ ] 044: The Partial Type in TypeScript: How to Create Types with Optional Properties|TypeScript/Learning
-- [ ] 045: String Manipulation in TypeScript: How to Work with Strings in Your Code|TypeScript/Learning
+- [x] [045: String Manipulation in TypeScript: How to Work with Strings in Your Code](/Knowledge-base/TypeScript/Learning/045-string-manipulation-in-typescript-how-to-work-with-strings-in-your-code)
 - [ ] 046: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types|TypeScript/Learning
 - [ ] 047: The Partial Type in TypeScript: How to Create Types with Optional Properties|TypeScript/Learning
 - [ ] 048: The Pick Type in TypeScript: How to Create Types by Picking Properties from Other Types|TypeScript/Learning
