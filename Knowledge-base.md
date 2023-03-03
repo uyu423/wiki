@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-03T11:32:49.410Z
+date: 2023-03-03T12:32:36.068Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2104,7 +2104,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Capgemini SE](/Knowledge-base/Dictionary/Company/capgemini-se)
 - [x] [DXC Technology Company](/Knowledge-base/Dictionary/Company/dxc-technology-company)
 - [x] [Atos SE](/Knowledge-base/Dictionary/Company/atos-se)
-- [ ] Adyen N.V.|Dictionary/Company
+- [x] [Adyen N.V.](/Knowledge-base/Dictionary/Company/adyen-n-v-)
 - [x] [Square, Inc.](/Knowledge-base/Dictionary/Company/square-inc-)
 - [x] [Slack Technologies, Inc.](/Knowledge-base/Dictionary/Company/slack-technologies-inc-)
 - [x] [Zoom Video Communications, Inc.](/Knowledge-base/Dictionary/Company/zoom-video-communications-inc-)
