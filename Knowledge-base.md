@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-03T09:32:29.076Z
+date: 2023-03-03T10:32:26.250Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1632,7 +1632,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Open AI](/Knowledge-base/Dictionary/open-ai)
 - [x] [Google](/Knowledge-base/Dictionary/google)
 - [x] [Facebook](/Knowledge-base/Dictionary/facebook)
-- [ ] Infrastructure Engineering|Dictionary
+- [x] [Infrastructure Engineering](/Knowledge-base/Dictionary/infrastructure-engineering)
 - [x] [Backend Programming](/Knowledge-base/Dictionary/backend-programming)
 - [x] [Frontend Programming](/Knowledge-base/Dictionary/frontend-programming)
 - [x] [Lean Startup](/Knowledge-base/Dictionary/lean-startup)
