@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-03T19:32:30.191Z
+date: 2023-03-03T20:32:29.928Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -132,7 +132,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] IPv6: Understanding the Next Generation of IP Addresses|Network
 - [ ] The TCP/IP Model: A Comparison to the OSI Model|Network
 - [ ] How to Use Nmap: A Beginner's Guide to Network Scanning|Network
-- [ ] HTTP Proxies: How Proxies Can Improve Web Performance and Security|Network
+- [x] [HTTP Proxies: How Proxies Can Improve Web Performance and Security](/Knowledge-base/Network/http-proxies-how-proxies-can-improve-web-performance-and-security)
 - [ ] How to Use Dig: A Command-Line Tool for DNS Queries|Network
 - [ ] The Transmission Control Protocol: A Deep Dive into TCP|Network
 - [ ] DNS Load Balancing: How to Distribute Traffic Across Multiple Servers|Network
