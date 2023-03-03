@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-03T13:32:20.251Z
+date: 2023-03-03T14:32:50.792Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -198,7 +198,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] A Guide to MongoDB Atlas: Fully Managed MongoDB in the Cloud|NoSQL
 - [ ] Redis Sentinel vs. Redis Cluster: Comparing Two High-Availability Solutions|NoSQL
 - [ ] Building a Recommendation System with Redis: Collaborative Filtering and Beyond|NoSQL
-- [ ] MongoDB Backups and Disaster Recovery: Best Practices and Strategies|NoSQL
+- [x] [MongoDB Backups and Disaster Recovery: Best Practices and Strategies](/Knowledge-base/NoSQL/mongodb-backups-and-disaster-recovery-best-practices-and-strategies)
 - [ ] Redis Geo: A Guide to Storing and Querying Geospatial Data in Redis|NoSQL
 - [ ] MongoDB Aggregation Performance: Optimizing Complex Queries for Speed|NoSQL
 - [ ] Redis AI: Machine Learning and Deep Learning with Redis|NoSQL
