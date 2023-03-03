@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-03T02:32:27.790Z
+date: 2023-03-03T03:32:28.176Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -141,7 +141,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] ICMP: Understanding the Internet Control Message Protocol|Network
 - [ ] DNS Hijacking: How Hackers Can Redirect Your Web Traffic|Network
 - [ ] How to Use Traceroute: A Command-Line Tool for Network Path Analysis|Network
-- [ ] HTTP/3: Understanding the Benefits of QUIC|Network
+- [x] [HTTP/3: Understanding the Benefits of QUIC](/Knowledge-base/Network/http3-understanding-the-benefits-of-quic)
 - [ ] The TCP Maximum Segment Size: How to Optimize TCP Performance|Network
 - [ ] DNS Spoofing: How to Protect Your Network from DNS Attacks|Network
 - [ ] HTTP Pipelining: How to Improve Web Performance with Multiple Requests|Network
