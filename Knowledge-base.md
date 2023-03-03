@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-03T00:32:24.238Z
+date: 2023-03-03T01:32:29.848Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -72,7 +72,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 021: Type Reflection in TypeScript: How to Use TypeScript's Reflection Capabilities|TypeScript/Learning
 - [ ] 022: Index Signatures in TypeScript: How to Work with Objects with Dynamic Properties|TypeScript/Learning
 - [ ] 023: Mixing JavaScript and TypeScript: How to Use TypeScript with Existing JavaScript Code|TypeScript/Learning
-- [ ] 024: Type Guards with Classes in TypeScript: How to Use Type Guards with Classes and Interfaces|TypeScript/Learning
+- [x] [024: Type Guards with Classes in TypeScript: How to Use Type Guards with Classes and Interfaces](/Knowledge-base/TypeScript/Learning/024-type-guards-with-classes-in-typescript-how-to-use-type-guards-with-classes-and-interfaces)
 - [ ] 025: Conditional Types in TypeScript: How to Create Types with Conditional Logic|TypeScript/Learning
 - [ ] 026: String Literal Types in TypeScript: How to Define Types with Literal Values|TypeScript/Learning
 - [ ] 027: Namespace Aliases in TypeScript: How to Use Aliases to Refer to Namespaces|TypeScript/Learning
