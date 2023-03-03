@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-03T22:32:26.193Z
+date: 2023-03-03T23:32:28.690Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -137,7 +137,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The Transmission Control Protocol: A Deep Dive into TCP|Network
 - [ ] DNS Load Balancing: How to Distribute Traffic Across Multiple Servers|Network
 - [ ] How to Use Netcat: A Command-Line Tool for Network Communications|Network
-- [ ] HTTP Compression: How to Reduce Web Page Load Times|Network
+- [x] [HTTP Compression: How to Reduce Web Page Load Times](/Knowledge-base/Network/http-compression-how-to-reduce-web-page-load-times)
 - [x] [ICMP: Understanding the Internet Control Message Protocol](/Knowledge-base/Network/icmp-understanding-the-internet-control-message-protocol)
 - [ ] DNS Hijacking: How Hackers Can Redirect Your Web Traffic|Network
 - [ ] How to Use Traceroute: A Command-Line Tool for Network Path Analysis|Network
