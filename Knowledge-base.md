@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-04T00:32:38.722Z
+date: 2023-03-04T01:32:37.951Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -135,7 +135,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [HTTP Proxies: How Proxies Can Improve Web Performance and Security](/Knowledge-base/Network/http-proxies-how-proxies-can-improve-web-performance-and-security)
 - [ ] How to Use Dig: A Command-Line Tool for DNS Queries|Network
 - [ ] The Transmission Control Protocol: A Deep Dive into TCP|Network
-- [ ] DNS Load Balancing: How to Distribute Traffic Across Multiple Servers|Network
+- [x] [DNS Load Balancing: How to Distribute Traffic Across Multiple Servers](/Knowledge-base/Network/dns-load-balancing-how-to-distribute-traffic-across-multiple-servers)
 - [ ] How to Use Netcat: A Command-Line Tool for Network Communications|Network
 - [x] [HTTP Compression: How to Reduce Web Page Load Times](/Knowledge-base/Network/http-compression-how-to-reduce-web-page-load-times)
 - [x] [ICMP: Understanding the Internet Control Message Protocol](/Knowledge-base/Network/icmp-understanding-the-internet-control-message-protocol)
