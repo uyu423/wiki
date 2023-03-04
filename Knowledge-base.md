@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-04T05:32:39.791Z
+date: 2023-03-04T06:32:37.405Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -60,7 +60,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 009: Decorators in TypeScript: How to Use Decorators to Add Functionality to Your Code|TypeScript/Learning
 - [ ] 010: Namespaces in TypeScript: How to Organize Your Code into Namespaces|TypeScript/Learning
 - [ ] 011: Advanced Types in TypeScript: How to Use Union Types, Intersection Types, and More|TypeScript/Learning
-- [ ] 012: Type Inference in TypeScript: How TypeScript Infers Types in Your Code|TypeScript/Learning
+- [x] [012: Type Inference in TypeScript: How TypeScript Infers Types in Your Code](/Knowledge-base/TypeScript/Learning/012-type-inference-in-typescript-how-typescript-infers-types-in-your-code)
 - [ ] 013: Type Guards in TypeScript: How to Narrow Down Types with Conditionals|TypeScript/Learning
 - [ ] 014: Enums in TypeScript: How to Define and Use Enumerated Types|TypeScript/Learning
 - [ ] 015: Type Aliases in TypeScript: How to Define Custom Types with Aliases|TypeScript/Learning
