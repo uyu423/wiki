@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-04T13:32:52.067Z
+date: 2023-03-04T14:32:43.409Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1840,7 +1840,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Model-View-Controller](/Knowledge-base/Dictionary/model-view-controller)
 - [x] [Service-Oriented Architecture](/Knowledge-base/Dictionary/service-oriented-architecture)
 - [x] [Microservices](/Knowledge-base/Dictionary/microservices)
-- [ ] Service Bus|Dictionary
+- [x] [Service Bus](/Knowledge-base/Dictionary/service-bus)
 - [x] [Enterprise Service Bus](/Knowledge-base/Dictionary/enterprise-service-bus)
 - [x] [Event-Driven Architecture](/Knowledge-base/Dictionary/event-driven-architecture)
 - [x] [Domain-Driven Design](/Knowledge-base/Dictionary/domain-driven-design)
