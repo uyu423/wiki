@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-04T16:32:42.121Z
+date: 2023-03-04T17:32:40.103Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -179,7 +179,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [MongoDB Replication: How to Ensure Data Availability and Durability](/Knowledge-base/NoSQL/mongodb-replication-how-to-ensure-data-availability-and-durability)
 - [ ] The Role of NoSQL Databases in Big Data Analytics|NoSQL
 - [ ] MongoDB Sharding: How to Scale Your MongoDB Cluster|NoSQL
-- [ ] Redis Key-Value Store: Understanding the Basics|NoSQL
+- [x] [Redis Key-Value Store: Understanding the Basics](/Knowledge-base/NoSQL/redis-key-value-store-understanding-the-basics)
 - [ ] MongoDB GridFS: How to Store and Retrieve Large Files|NoSQL
 - [ ] How to Use Redis Streams for Real-Time Data Processing|NoSQL
 - [ ] Redis Streams vs. Apache Kafka: Comparing Two Data Streaming Systems|NoSQL
