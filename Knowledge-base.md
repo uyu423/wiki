@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-04T22:32:42.159Z
+date: 2023-03-04T23:32:42.317Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -158,7 +158,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 ## NoSQL
 
 - [ ] An Introduction to NoSQL Databases: What They Are and Why They Matter|NoSQL
-- [ ] Getting Started with MongoDB: A Beginner's Guide|NoSQL
+- [x] [Getting Started with MongoDB: A Beginner's Guide](/Knowledge-base/NoSQL/getting-started-with-mongodb-a-beginner-s-guide)
 - [ ] Redis Data Structures: What You Need to Know|NoSQL
 - [ ] MongoDB vs. MySQL: Comparing Two Popular Databases|NoSQL
 - [ ] How to Use Redis for Caching in Your Web Application|NoSQL
