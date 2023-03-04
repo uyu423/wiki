@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-04T04:32:35.627Z
+date: 2023-03-04T05:32:39.791Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -205,7 +205,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] A Guide to MongoDB Index Optimization: Improving Query Performance|NoSQL
 - [ ] Redis Time-Series Data: Storing and Querying Time-Stamped Data in Redis|NoSQL
 - [ ] MongoDB and Elasticsearch: Combining Two Powerful Data Technologies|NoSQL
-- [ ] Redis RediSearch: A Full-Text Search Solution for Redis|NoSQL
+- [x] [Redis RediSearch: A Full-Text Search Solution for Redis](/Knowledge-base/NoSQL/redis-redisearch-a-full-text-search-solution-for-redis)
 - [ ] A Guide to MongoDB Realm: A Serverless Platform for Building Modern Applications|NoSQL
 
 ## Algorithm (use JavsScript)
