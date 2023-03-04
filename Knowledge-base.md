@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-04T08:32:37.049Z
+date: 2023-03-04T09:32:31.254Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1869,7 +1869,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Acceptance Criteria](/Knowledge-base/Dictionary/acceptance-criteria)
 - [x] [Test Cases](/Knowledge-base/Dictionary/test-cases)
 - [x] [Test Plan](/Knowledge-base/Dictionary/test-plan)
-- [ ] Test Automation|Dictionary
+- [x] [Test Automation](/Knowledge-base/Dictionary/test-automation)
 - [x] [Regression Testing](/Knowledge-base/Dictionary/regression-testing)
 - [x] [Usability Testing](/Knowledge-base/Dictionary/usability-testing)
 - [x] [Accessibility Testing](/Knowledge-base/Dictionary/accessibility-testing)
