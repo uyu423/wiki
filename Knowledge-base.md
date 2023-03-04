@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-04T12:32:40.567Z
+date: 2023-03-04T13:32:52.067Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -193,7 +193,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Redis Lua Scripting: Building More Advanced Redis Commands|NoSQL
 - [ ] A Guide to MongoDB Query Optimization: Best Practices and Tips|NoSQL
 - [ ] Redis Enterprise: Scaling Redis in the Cloud with High Availability|NoSQL
-- [ ] MongoDB and Node.js: Building a Modern Web Application Stack|NoSQL
+- [x] [MongoDB and Node.js: Building a Modern Web Application Stack](/Knowledge-base/NoSQL/mongodb-and-node-js-building-a-modern-web-application-stack)
 - [ ] Redis JSON Data Structures: Storing and Querying JSON Data in Redis|NoSQL
 - [ ] A Guide to MongoDB Atlas: Fully Managed MongoDB in the Cloud|NoSQL
 - [ ] Redis Sentinel vs. Redis Cluster: Comparing Two High-Availability Solutions|NoSQL
