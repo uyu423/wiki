@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-04T03:32:46.731Z
+date: 2023-03-04T04:32:35.627Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -120,7 +120,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] IP Addressing: How IP Addresses Work and How to Manage Them|Network
 - [x] [RESTful APIs: An Introduction to Building Web Services with HTTP](/Knowledge-base/Network/restful-apis-an-introduction-to-building-web-services-with-http)
 - [ ] The TCP Congestion Control Algorithm: How TCP Responds to Network Congestion|Network
-- [ ] DNSSEC: Securing DNS with Cryptography|Network
+- [x] [DNSSEC: Securing DNS with Cryptography](/Knowledge-base/Network/dnssec-securing-dns-with-cryptography)
 - [ ] HTTP Cookies: Understanding How Websites Track Your Activity|Network
 - [ ] The TCP Window Size: How TCP Adapts to Network Conditions|Network
 - [ ] Network Address Translation (NAT): How NAT Translates IP Addresses|Network
