@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-04T20:32:36.837Z
+date: 2023-03-04T21:32:33.015Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1705,7 +1705,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Information Architecture](/Knowledge-base/Dictionary/information-architecture)
 - [x] [Content Management](/Knowledge-base/Dictionary/content-management)
 - [x] [Service Design](/Knowledge-base/Dictionary/service-design)
-- [ ] Product Design|Dictionary
+- [x] [Product Design](/Knowledge-base/Dictionary/product-design)
 - [x] [Interaction Design](/Knowledge-base/Dictionary/interaction-design)
 - [x] [Industrial Design](/Knowledge-base/Dictionary/industrial-design)
 - [ ] User-Centered Design|Dictionary
