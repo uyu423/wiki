@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-04T15:32:39.481Z
+date: 2023-03-04T16:32:42.121Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -70,7 +70,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [019: Declaration Merging in TypeScript: How to Merge Multiple Declarations of the Same Entity](/Knowledge-base/TypeScript/Learning/019-declaration-merging-in-typescript-how-to-merge-multiple-declarations-of-the-same-entity)
 - [ ] 020: Intersection Types in TypeScript: How to Combine Types for More Complex Types|TypeScript/Learning
 - [ ] 021: Type Reflection in TypeScript: How to Use TypeScript's Reflection Capabilities|TypeScript/Learning
-- [ ] 022: Index Signatures in TypeScript: How to Work with Objects with Dynamic Properties|TypeScript/Learning
+- [x] [022: Index Signatures in TypeScript: How to Work with Objects with Dynamic Properties](/Knowledge-base/TypeScript/Learning/022-index-signatures-in-typescript-how-to-work-with-objects-with-dynamic-properties)
 - [ ] 023: Mixing JavaScript and TypeScript: How to Use TypeScript with Existing JavaScript Code|TypeScript/Learning
 - [x] [024: Type Guards with Classes in TypeScript: How to Use Type Guards with Classes and Interfaces](/Knowledge-base/TypeScript/Learning/024-type-guards-with-classes-in-typescript-how-to-use-type-guards-with-classes-and-interfaces)
 - [ ] 025: Conditional Types in TypeScript: How to Create Types with Conditional Logic|TypeScript/Learning
