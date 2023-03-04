@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-04T10:32:38.221Z
+date: 2023-03-04T11:32:33.825Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1278,7 +1278,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 038: Cryptography](/Knowledge-base/Software-Development/Learning/software-development-038-cryptography)
 - [x] [Software Development 039: Cybersecurity](/Knowledge-base/Software-Development/Learning/software-development-039-cybersecurity)
 - [x] [Software Development 040: Ethical Hacking](/Knowledge-base/Software-Development/Learning/software-development-040-ethical-hacking)
-- [ ] Software Development 041: Network Security|Software-Development/Learning
+- [x] [Software Development 041: Network Security](/Knowledge-base/Software-Development/Learning/software-development-041-network-security)
 - [x] [Software Development 042: Database Security](/Knowledge-base/Software-Development/Learning/software-development-042-database-security)
 - [x] [Software Development 043: Web Application Security](/Knowledge-base/Software-Development/Learning/software-development-043-web-application-security)
 - [x] [Software Development 044: Cloud Security](/Knowledge-base/Software-Development/Learning/software-development-044-cloud-security)
