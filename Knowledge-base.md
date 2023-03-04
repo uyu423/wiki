@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-04T21:32:33.015Z
+date: 2023-03-04T22:32:42.159Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1935,7 +1935,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Database as a Service](/Knowledge-base/Dictionary/database-as-a-service)
 - [x] [Backup as a Service](/Knowledge-base/Dictionary/backup-as-a-service)
 - [x] [Disaster Recovery as a Service](/Knowledge-base/Dictionary/disaster-recovery-as-a-service)
-- [ ] Infrastructure Management|Dictionary
+- [x] [Infrastructure Management](/Knowledge-base/Dictionary/infrastructure-management)
 - [x] [Virtualization Management](/Knowledge-base/Dictionary/virtualization-management)
 - [x] [Containerization](/Knowledge-base/Dictionary/containerization)
 - [x] [Serverless](/Knowledge-base/Dictionary/serverless)
