@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-05T08:32:47.037Z
+date: 2023-03-05T09:32:46.452Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -83,7 +83,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 032: Discriminated Unions in TypeScript: How to Create Types with Discriminators|TypeScript/Learning
 - [x] [033: This Types in TypeScript: How to Work with the 'this' Keyword in Classes and Functions](/Knowledge-base/TypeScript/Learning/033-this-types-in-typescript-how-to-work-with-the-this-keyword-in-classes-and-functions)
 - [ ] 034: Function Overloading in TypeScript: How to Create Functions with Multiple Signatures|TypeScript/Learning
-- [ ] 035: Namespaces vs. Modules in TypeScript: Understanding the Differences and When to Use Each|TypeScript/Learning
+- [x] [035: Namespaces vs. Modules in TypeScript: Understanding the Differences and When to Use Each](/Knowledge-base/TypeScript/Learning/035-namespaces-vs-modules-in-typescript-understanding-the-differences-and-when-to-use-each)
 - [x] [036: Mapped Types in TypeScript: How to Transform Types with Mappings](/Knowledge-base/TypeScript/Learning/036-mapped-types-in-typescript-how-to-transform-types-with-mappings)
 - [ ] 037: Nullish Coalescing in TypeScript: How to Use the Nullish Coalescing Operator|TypeScript/Learning
 - [ ] 038: Global Declarations in TypeScript: How to Declare Global Variables and Functions|TypeScript/Learning
