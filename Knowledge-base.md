@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-05T07:32:41.660Z
+date: 2023-03-05T08:32:47.037Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1230,7 +1230,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Integrating Cloud Services with DevOps Toolchains](/Knowledge-base/Cloud/integrating-cloud-services-with-devops-toolchains)
 - [x] [Exploring Advanced Features of AWS and Azure for IT Services](/Knowledge-base/Cloud/exploring-advanced-features-of-aws-and-azure-for-it-services)
 - [x] [Building Hybrid Clouds with AWS and Azure](/Knowledge-base/Cloud/building-hybrid-clouds-with-aws-and-azure)
-- [ ] Managing Compliance and Governance on AWS and Azure|Cloud
+- [x] [Managing Compliance and Governance on AWS and Azure](/Knowledge-base/Cloud/managing-compliance-and-governance-on-aws-and-azure)
 - [x] [Troubleshooting Common Issues with Cloud Services on AWS and Azure](/Knowledge-base/Cloud/troubleshooting-common-issues-with-cloud-services-on-aws-and-azure)
 - [x] [Building High-Availability and Scalable Services on AWS and Azure](/Knowledge-base/Cloud/building-high-availability-and-scalable-services-on-aws-and-azure)
 - [x] [Developing Multi-Region Applications on AWS and Azure](/Knowledge-base/Cloud/developing-multi-region-applications-on-aws-and-azure)
