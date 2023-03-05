@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-05T19:32:40.584Z
+date: 2023-03-05T20:32:41.071Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -186,7 +186,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] MongoDB Transactions: ACID Transactions in a NoSQL Database|NoSQL
 - [ ] Redis Cache Patterns: Best Practices for Designing a High-Performance Cache|NoSQL
 - [ ] A Guide to Scaling MongoDB: Sharding vs. Replica Sets|NoSQL
-- [ ] Building a Search Engine with Redis: Implementing a Fast, Scalable Index|NoSQL
+- [x] [Building a Search Engine with Redis: Implementing a Fast, Scalable Index](/Knowledge-base/NoSQL/building-a-search-engine-with-redis-implementing-a-fast-scalable-index)
 - [ ] MongoDB Time-To-Live (TTL) Collections: Expiring Data Automatically|NoSQL
 - [ ] Using Redis for Rate Limiting: Protecting Your Web Application from Abuse|NoSQL
 - [ ] MongoDB Data Modeling Best Practices: Designing for Scalability and Performance|NoSQL
