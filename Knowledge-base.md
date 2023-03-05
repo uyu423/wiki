@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-05T16:32:57.739Z
+date: 2023-03-05T17:32:52.655Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1478,7 +1478,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Deep Dive into Java's System Class Loader](/Knowledge-base/Java/deep-dive-into-java-s-system-class-loader)
 - [x] [Using Java's Service Provider Interface for Dynamic Configuration](/Knowledge-base/Java/using-java-s-service-provider-interface-for-dynamic-configuration)
 - [ ] A Guide to Java's Non-Blocking I/O API|Java
-- [ ] Leveraging Java's Reflection API for Dynamic Programming|Java
+- [x] [Leveraging Java's Reflection API for Dynamic Programming](/Knowledge-base/Java/leveraging-java-s-reflection-api-for-dynamic-programming)
 - [ ] Working with Java's StrictMath Class for Precise Calculations|Java
 - [x] [Java's java.util.concurrent Package for Parallel Programming](/Knowledge-base/Java/java-s-java-util-concurrent-package-for-parallel-programming)
 - [x] [The Power of Java's Serialization API](/Knowledge-base/Java/the-power-of-java-s-serialization-api)
