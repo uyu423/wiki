@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-05T00:32:34.207Z
+date: 2023-03-05T01:32:36.754Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2019,7 +2019,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Video Marketing](/Knowledge-base/Dictionary/video-marketing)
 - [x] [Content Management System](/Knowledge-base/Dictionary/content-management-system)
 - [x] [WordPress](/Knowledge-base/Dictionary/wordpress)
-- [ ] Drupal|Dictionary
+- [x] [Drupal](/Knowledge-base/Dictionary/drupal)
 - [x] [Joomla](/Knowledge-base/Dictionary/joomla)
 - [x] [Sitecore](/Knowledge-base/Dictionary/sitecore)
 - [x] [Adobe Experience Manager](/Knowledge-base/Dictionary/adobe-experience-manager)
