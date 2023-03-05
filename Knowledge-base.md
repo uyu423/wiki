@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-05T09:32:46.452Z
+date: 2023-03-05T10:32:48.739Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -126,7 +126,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Network Address Translation (NAT): How NAT Translates IP Addresses|Network
 - [x] [How to Use Wireshark: A Beginner's Guide to Network Protocol Analysis](/Knowledge-base/Network/how-to-use-wireshark-a-beginner-s-guide-to-network-protocol-analysis)
 - [ ] HTTP/2: Understanding the Improvements Over HTTP/1.x|Network
-- [ ] How to Troubleshoot TCP/IP Connectivity Issues|Network
+- [x] [How to Troubleshoot TCP/IP Connectivity Issues](/Knowledge-base/Network/how-to-troubleshoot-tcpip-connectivity-issues)
 - [x] [DNS Caching: How DNS Resolvers Speed Up Domain Name Resolution](/Knowledge-base/Network/dns-caching-how-dns-resolvers-speed-up-domain-name-resolution)
 - [ ] HTTP Authentication: How to Secure Your Web Services with Passwords and Tokens|Network
 - [ ] IPv6: Understanding the Next Generation of IP Addresses|Network
