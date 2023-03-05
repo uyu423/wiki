@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-05T17:32:52.655Z
+date: 2023-03-05T18:32:44.997Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1560,7 +1560,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Building Augmented Reality Applications with TypeScript and Three.js](/Knowledge-base/TypeScript/building-augmented-reality-applications-with-typescript-and-three-js)
 - [x] [Using TypeScript with NeDB for Lightweight NoSQL Database](/Knowledge-base/TypeScript/using-typescript-with-nedb-for-lightweight-nosql-database)
 - [x] [Integrating TypeScript with AWS Lambda for Serverless Functions](/Knowledge-base/TypeScript/integrating-typescript-with-aws-lambda-for-serverless-functions)
-- [ ] Building Social Media Applications with TypeScript and Next.js|TypeScript
+- [x] [Building Social Media Applications with TypeScript and Next.js](/Knowledge-base/TypeScript/building-social-media-applications-with-typescript-and-next-js)
 - [ ] Using TypeScript with Knex.js for SQL Database Management|TypeScript
 - [x] [Building Virtual Reality Applications with TypeScript and A-Frame](/Knowledge-base/TypeScript/building-virtual-reality-applications-with-typescript-and-a-frame)
 - [x] [Integrating TypeScript with Google Maps API for Location-Based Services](/Knowledge-base/TypeScript/integrating-typescript-with-google-maps-api-for-location-based-services)
