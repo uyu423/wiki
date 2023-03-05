@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-05T21:32:41.459Z
+date: 2023-03-05T22:32:40.444Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1396,7 +1396,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [How to Secure Your Website with HTTPS and SSL Certificates](/Knowledge-base/Common/how-to-secure-your-website-with-https-and-ssl-certificates)
 - [x] [Exploring the Internet of Things (IoT) and its Applications](/Knowledge-base/Common/exploring-the-internet-of-things-iot-and-its-applications)
 - [ ] Using Microservices to Build Scalable Applications|Common
-- [ ] Building RESTful APIs with Node.js and Express|Common
+- [x] [Building RESTful APIs with Node.js and Express](/Knowledge-base/Common/building-restful-apis-with-node-js-and-express)
 - [x] [Implementing Advanced Algorithms for Machine Learning](/Knowledge-base/Common/implementing-advanced-algorithms-for-machine-learning)
 - [x] [Big Data Analytics with Apache Spark](/Knowledge-base/Common/big-data-analytics-with-apache-spark)
 - [x] [The Future of Virtual Reality (VR) and Augmented Reality (AR) in Gaming](/Knowledge-base/Common/the-future-of-virtual-reality-vr-and-augmented-reality-ar-in-gaming)
