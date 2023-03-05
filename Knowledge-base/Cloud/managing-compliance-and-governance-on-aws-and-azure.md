@@ -2,7 +2,7 @@
 title: AWS 및 Azure에서 규정 준수 및 거버넌스 관리
 description: 
 published: true
-date: 2023-03-05T08:32:37.261Z
+date: 2023-03-05T09:11:51.787Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T08:32:37.261Z
@@ -15,6 +15,7 @@ dateCreated: 2023-03-05T08:32:37.261Z
 
 - [Managing Compliance and Governance on AWS and Azure***English** document is available*](/en/Knowledge-base/Cloud/managing-compliance-and-governance-on-aws-and-azure)
 {.links-list}
+
 AWS 및 Azure에서 규정 준수 및 거버넌스 관리
 
 기업이 계속해서 인프라를 클라우드 기반 플랫폼으로 이동함에 따라 규정 준수 및 거버넌스가 해결해야 하는 중요한 구성 요소가 되었습니다. AWS와 Azure는 규정 준수 및 거버넌스 관리를 위한 포괄적인 도구를 제공하는 널리 사용되는 두 가지 클라우드 플랫폼입니다. 이 기사에서는 AWS 및 Azure에서 규정 준수 및 거버넌스를 관리하는 방법을 살펴봅니다.
