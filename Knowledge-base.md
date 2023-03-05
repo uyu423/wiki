@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-05T12:32:38.130Z
+date: 2023-03-05T13:33:09.953Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2109,7 +2109,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Slack Technologies, Inc.](/Knowledge-base/Dictionary/Company/slack-technologies-inc-)
 - [x] [Zoom Video Communications, Inc.](/Knowledge-base/Dictionary/Company/zoom-video-communications-inc-)
 - [x] [DocuSign, Inc.](/Knowledge-base/Dictionary/Company/docusign-inc-)
-- [ ] Salesforce.com, Inc.|Dictionary/Company
+- [x] [Salesforce.com, Inc.](/Knowledge-base/Dictionary/Company/salesforce-com-inc-)
 - [x] [Shopify Inc.](/Knowledge-base/Dictionary/Company/shopify-inc-)
 - [x] [Dropbox, Inc.](/Knowledge-base/Dictionary/Company/dropbox-inc-)
 - [ ] AirBnB, Inc.|Dictionary/Company
