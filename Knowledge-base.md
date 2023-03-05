@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-05T06:32:30.745Z
+date: 2023-03-05T07:32:41.660Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2292,6 +2292,6 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Woz (Apple Co-founder)|Dictionary/Person
 - [x] [Robert Morris (UNIX Developer)](/Knowledge-base/Dictionary/Person/robert-morris-unix-developer)
 - [x] [Jaron Lanier (Virtual Reality Pioneer)](/Knowledge-base/Dictionary/Person/jaron-lanier-virtual-reality-pioneer)
-- [ ] Douglas Engelbart (Computer Mouse Inventor)|Dictionary/Person
+- [x] [Douglas Engelbart (Computer Mouse Inventor)](/Knowledge-base/Dictionary/Person/douglas-engelbart-computer-mouse-inventor)
 - [x] [Bob Taylor (ARPA Network Manager)](/Knowledge-base/Dictionary/Person/bob-taylor-arpa-network-manager)
 - [ ] Vint Cerf (Internet Pioneer)|Dictionary/Person
