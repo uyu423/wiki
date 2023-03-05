@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-05T05:32:35.561Z
+date: 2023-03-05T06:32:30.745Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2286,7 +2286,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Guy L. Steele Jr. (Programming Language Designer)](/Knowledge-base/Dictionary/Person/guy-l-steele-jr-programming-language-designer)
 - [x] [Brian Kernighan (UNIX Developer)](/Knowledge-base/Dictionary/Person/brian-kernighan-unix-developer)
 - [x] [Dennis Ritchie (UNIX Developer)](/Knowledge-base/Dictionary/Person/dennis-ritchie-unix-developer)
-- [ ] Ken Thompson (UNIX Developer)|Dictionary/Person
+- [x] [Ken Thompson (UNIX Developer)](/Knowledge-base/Dictionary/Person/ken-thompson-unix-developer)
 - [x] [Tom Igoe (Arduino Creator)](/Knowledge-base/Dictionary/Person/tom-igoe-arduino-creator)
 - [x] [Limor Fried (Adafruit Industries Founder)](/Knowledge-base/Dictionary/Person/limor-fried-adafruit-industries-founder)
 - [ ] Woz (Apple Co-founder)|Dictionary/Person
