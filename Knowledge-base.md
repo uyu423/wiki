@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-05T04:32:36.565Z
+date: 2023-03-05T05:32:35.561Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -55,7 +55,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 004: Interfaces in TypeScript: How to Define and Use Custom Types|TypeScript/Learning
 - [ ] 005: Classes in TypeScript: Object-Oriented Programming in TypeScript|TypeScript/Learning
 - [ ] 006: Inheritance and Polymorphism in TypeScript: How to Extend and Override Classes|TypeScript/Learning
-- [ ] 007: Modules in TypeScript: How to Organize Your Code into Modules and Files|TypeScript/Learning
+- [x] [007: Modules in TypeScript: How to Organize Your Code into Modules and Files](/Knowledge-base/TypeScript/Learning/007-modules-in-typescript-how-to-organize-your-code-into-modules-and-files)
 - [ ] 008: Generics in TypeScript: How to Write Reusable Code with Type Parameters|TypeScript/Learning
 - [ ] 009: Decorators in TypeScript: How to Use Decorators to Add Functionality to Your Code|TypeScript/Learning
 - [ ] 010: Namespaces in TypeScript: How to Organize Your Code into Namespaces|TypeScript/Learning
