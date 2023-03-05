@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-05T18:32:44.997Z
+date: 2023-03-05T19:32:40.584Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1372,7 +1372,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [How to Build a Real-Time Application with WebSockets](/Knowledge-base/Common/how-to-build-a-real-time-application-with-websockets)
 - [x] [The Advantages of Virtual Private Clouds (VPCs) and Amazon Web Services (AWS)](/Knowledge-base/Common/the-advantages-of-virtual-private-clouds-vpcs-and-amazon-web-services-aws)
 - [x] [How to Build a Secure Web Application with OWASP Top 10](/Knowledge-base/Common/how-to-build-a-secure-web-application-with-owasp-top-10)
-- [ ] The Benefits of Artificial Neural Networks (ANNs) and Deep Learning|Common
+- [x] [The Benefits of Artificial Neural Networks (ANNs) and Deep Learning](/Knowledge-base/Common/the-benefits-of-artificial-neural-networks-anns-and-deep-learning)
 - [x] [How to Build a Chatbot with Microsoft Bot Framework](/Knowledge-base/Common/how-to-build-a-chatbot-with-microsoft-bot-framework)
 - [x] [The Importance of Information Security and Compliance](/Knowledge-base/Common/the-importance-of-information-security-and-compliance)
 - [x] [How to Build a Progressive Web App (PWA) with Angular](/Knowledge-base/Common/how-to-build-a-progressive-web-app-pwa-with-angular)
