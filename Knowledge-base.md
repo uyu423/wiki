@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-05T20:32:41.071Z
+date: 2023-03-05T21:32:41.459Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -181,7 +181,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] MongoDB Sharding: How to Scale Your MongoDB Cluster|NoSQL
 - [x] [Redis Key-Value Store: Understanding the Basics](/Knowledge-base/NoSQL/redis-key-value-store-understanding-the-basics)
 - [ ] MongoDB GridFS: How to Store and Retrieve Large Files|NoSQL
-- [ ] How to Use Redis Streams for Real-Time Data Processing|NoSQL
+- [x] [How to Use Redis Streams for Real-Time Data Processing](/Knowledge-base/NoSQL/how-to-use-redis-streams-for-real-time-data-processing)
 - [ ] Redis Streams vs. Apache Kafka: Comparing Two Data Streaming Systems|NoSQL
 - [ ] MongoDB Transactions: ACID Transactions in a NoSQL Database|NoSQL
 - [ ] Redis Cache Patterns: Best Practices for Designing a High-Performance Cache|NoSQL
