@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-05T02:32:31.783Z
+date: 2023-03-05T03:32:38.070Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1650,7 +1650,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [RAM](/Knowledge-base/Dictionary/ram)
 - [x] [Micro Architecture](/Knowledge-base/Dictionary/micro-architecture)
 - [x] [CPU](/Knowledge-base/Dictionary/cpu)
-- [ ] Ryzen CPU|Dictionary
+- [x] [Ryzen CPU](/Knowledge-base/Dictionary/ryzen-cpu)
 - [x] [USB](/Knowledge-base/Dictionary/usb)
 - [ ] bash|Dictionary
 - [x] [zsh](/Knowledge-base/Dictionary/zsh)
