@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-06T04:32:43.454Z
+date: 2023-03-06T05:32:33.883Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1949,7 +1949,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Object Storage](/Knowledge-base/Dictionary/object-storage)
 - [x] [Block Storage](/Knowledge-base/Dictionary/block-storage)
 - [x] [File Storage](/Knowledge-base/Dictionary/file-storage)
-- [ ] Backup Solutions|Dictionary
+- [x] [Backup Solutions](/Knowledge-base/Dictionary/backup-solutions)
 - [x] [Data Replication](/Knowledge-base/Dictionary/data-replication)
 - [x] [Redundancy](/Knowledge-base/Dictionary/redundancy)
 - [x] [Scalability](/Knowledge-base/Dictionary/scalability)
