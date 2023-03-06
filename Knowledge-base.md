@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-05T23:32:31.630Z
+date: 2023-03-06T00:32:53.321Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -91,7 +91,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 040: Augmenting Types in TypeScript: How to Add Properties and Methods to Existing Types|TypeScript/Learning
 - [ ] 041: Type-Safe Event Handling in TypeScript: How to Ensure Event Handlers Receive the Correct Arguments|TypeScript/Learning
 - [x] [042: String Manipulation in TypeScript: How to Work with Strings in Your Code](/Knowledge-base/TypeScript/Learning/042-string-manipulation-in-typescript-how-to-work-with-strings-in-your-code)
-- [ ] 043: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types|TypeScript/Learning
+- [x] [043: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types](/Knowledge-base/TypeScript/Learning/043-type-driven-refactoring-in-typescript-how-to-refactor-your-code-with-types)
 - [ ] 044: The Partial Type in TypeScript: How to Create Types with Optional Properties|TypeScript/Learning
 - [x] [045: String Manipulation in TypeScript: How to Work with Strings in Your Code](/Knowledge-base/TypeScript/Learning/045-string-manipulation-in-typescript-how-to-work-with-strings-in-your-code)
 - [ ] 046: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types|TypeScript/Learning
