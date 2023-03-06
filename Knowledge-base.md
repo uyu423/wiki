@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-06T03:32:41.070Z
+date: 2023-03-06T04:32:43.454Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1484,7 +1484,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Power of Java's Serialization API](/Knowledge-base/Java/the-power-of-java-s-serialization-api)
 - [x] [Building Custom Class Loaders in Java](/Knowledge-base/Java/building-custom-class-loaders-in-java)
 - [x] [Java's Support for Asynchronous Processing with CompletableFuture](/Knowledge-base/Java/java-s-support-for-asynchronous-processing-with-completablefuture)
-- [ ] Understanding Java's Attach API for Dynamic Instrumentation|Java
+- [x] [Understanding Java's Attach API for Dynamic Instrumentation](/Knowledge-base/Java/understanding-java-s-attach-api-for-dynamic-instrumentation)
 - [x] [Java's Dynamic Proxies for Dynamic Object Oriented Programming](/Knowledge-base/Java/java-s-dynamic-proxies-for-dynamic-object-oriented-programming)
 - [ ] Leveraging Java's Method Handles for Dynamic Method Invocation|Java
 - [x] [Using Java's Traceable and Instrumented Classes for Monitoring](/Knowledge-base/Java/using-java-s-traceable-and-instrumented-classes-for-monitoring)
