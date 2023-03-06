@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-06T19:32:57.994Z
+date: 2023-03-06T20:33:21.893Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -128,7 +128,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] HTTP/2: Understanding the Improvements Over HTTP/1.x|Network
 - [x] [How to Troubleshoot TCP/IP Connectivity Issues](/Knowledge-base/Network/how-to-troubleshoot-tcpip-connectivity-issues)
 - [x] [DNS Caching: How DNS Resolvers Speed Up Domain Name Resolution](/Knowledge-base/Network/dns-caching-how-dns-resolvers-speed-up-domain-name-resolution)
-- [ ] HTTP Authentication: How to Secure Your Web Services with Passwords and Tokens|Network
+- [x] [HTTP Authentication: How to Secure Your Web Services with Passwords and Tokens](/Knowledge-base/Network/http-authentication-how-to-secure-your-web-services-with-passwords-and-tokens)
 - [ ] IPv6: Understanding the Next Generation of IP Addresses|Network
 - [ ] The TCP/IP Model: A Comparison to the OSI Model|Network
 - [ ] How to Use Nmap: A Beginner's Guide to Network Scanning|Network
