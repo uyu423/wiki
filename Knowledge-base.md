@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-06T16:32:52.197Z
+date: 2023-03-06T17:32:46.197Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -62,7 +62,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [011: Advanced Types in TypeScript: How to Use Union Types, Intersection Types, and More](/Knowledge-base/TypeScript/Learning/011-advanced-types-in-typescript-how-to-use-union-types-intersection-types-and-more)
 - [x] [012: Type Inference in TypeScript: How TypeScript Infers Types in Your Code](/Knowledge-base/TypeScript/Learning/012-type-inference-in-typescript-how-typescript-infers-types-in-your-code)
 - [ ] 013: Type Guards in TypeScript: How to Narrow Down Types with Conditionals|TypeScript/Learning
-- [ ] 014: Enums in TypeScript: How to Define and Use Enumerated Types|TypeScript/Learning
+- [x] [014: Enums in TypeScript: How to Define and Use Enumerated Types](/Knowledge-base/TypeScript/Learning/014-enums-in-typescript-how-to-define-and-use-enumerated-types)
 - [ ] 015: Type Aliases in TypeScript: How to Define Custom Types with Aliases|TypeScript/Learning
 - [x] [016: Type Assertions in TypeScript: How to Override TypeScript's Type System](/Knowledge-base/TypeScript/Learning/016-type-assertions-in-typescript-how-to-override-typescript-s-type-system)
 - [ ] 017: Tuples in TypeScript: How to Work with Fixed-Length Arrays with Typed Elements|TypeScript/Learning
