@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-06T12:32:46.387Z
+date: 2023-03-06T13:32:40.340Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -199,7 +199,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Redis Sentinel vs. Redis Cluster: Comparing Two High-Availability Solutions|NoSQL
 - [ ] Building a Recommendation System with Redis: Collaborative Filtering and Beyond|NoSQL
 - [x] [MongoDB Backups and Disaster Recovery: Best Practices and Strategies](/Knowledge-base/NoSQL/mongodb-backups-and-disaster-recovery-best-practices-and-strategies)
-- [ ] Redis Geo: A Guide to Storing and Querying Geospatial Data in Redis|NoSQL
+- [x] [Redis Geo: A Guide to Storing and Querying Geospatial Data in Redis](/Knowledge-base/NoSQL/redis-geo-a-guide-to-storing-and-querying-geospatial-data-in-redis)
 - [ ] MongoDB Aggregation Performance: Optimizing Complex Queries for Speed|NoSQL
 - [x] [Redis AI: Machine Learning and Deep Learning with Redis](/Knowledge-base/NoSQL/redis-ai-machine-learning-and-deep-learning-with-redis)
 - [ ] A Guide to MongoDB Index Optimization: Improving Query Performance|NoSQL
