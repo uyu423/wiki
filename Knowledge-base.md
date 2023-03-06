@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-06T21:32:46.566Z
+date: 2023-03-06T22:33:12.165Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -197,7 +197,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Redis JSON Data Structures: Storing and Querying JSON Data in Redis|NoSQL
 - [ ] A Guide to MongoDB Atlas: Fully Managed MongoDB in the Cloud|NoSQL
 - [ ] Redis Sentinel vs. Redis Cluster: Comparing Two High-Availability Solutions|NoSQL
-- [ ] Building a Recommendation System with Redis: Collaborative Filtering and Beyond|NoSQL
+- [x] [Building a Recommendation System with Redis: Collaborative Filtering and Beyond](/Knowledge-base/NoSQL/building-a-recommendation-system-with-redis-collaborative-filtering-and-beyond)
 - [x] [MongoDB Backups and Disaster Recovery: Best Practices and Strategies](/Knowledge-base/NoSQL/mongodb-backups-and-disaster-recovery-best-practices-and-strategies)
 - [x] [Redis Geo: A Guide to Storing and Querying Geospatial Data in Redis](/Knowledge-base/NoSQL/redis-geo-a-guide-to-storing-and-querying-geospatial-data-in-redis)
 - [ ] MongoDB Aggregation Performance: Optimizing Complex Queries for Speed|NoSQL
