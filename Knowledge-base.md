@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-06T01:32:45.919Z
+date: 2023-03-06T02:32:50.357Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -145,7 +145,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The TCP Maximum Segment Size: How to Optimize TCP Performance|Network
 - [x] [DNS Spoofing: How to Protect Your Network from DNS Attacks](/Knowledge-base/Network/dns-spoofing-how-to-protect-your-network-from-dns-attacks)
 - [ ] HTTP Pipelining: How to Improve Web Performance with Multiple Requests|Network
-- [ ] IP Subnetting: How to Divide IP Networks into Smaller Subnets|Network
+- [x] [IP Subnetting: How to Divide IP Networks into Smaller Subnets](/Knowledge-base/Network/ip-subnetting-how-to-divide-ip-networks-into-smaller-subnets)
 - [ ] DNS Failover: How to Ensure High Availability for Your DNS Servers|Network
 - [ ] How to Use Ping: A Command-Line Tool for Network Troubleshooting|Network
 - [ ] HTTP/1.x vs. HTTP/2: Understanding the Differences and Improvements|Network
