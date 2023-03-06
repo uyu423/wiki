@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-06T08:32:40.189Z
+date: 2023-03-06T09:32:45.345Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1264,7 +1264,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 024: RESTful API Design](/Knowledge-base/Software-Development/Learning/software-development-024-restful-api-design)
 - [x] [Software Development 025: GraphQL](/Knowledge-base/Software-Development/Learning/software-development-025-graphql)
 - [x] [Software Development 026: Microservices Architecture](/Knowledge-base/Software-Development/Learning/software-development-026-microservices-architecture)
-- [ ] Software Development 027: Machine Learning and Artificial Intelligence|Software-Development/Learning
+- [x] [Software Development 027: Machine Learning and Artificial Intelligence](/Knowledge-base/Software-Development/Learning/software-development-027-machine-learning-and-artificial-intelligence)
 - [x] [Software Development 028: Neural Networks](/Knowledge-base/Software-Development/Learning/software-development-028-neural-networks)
 - [x] [Software Development 029: Computer Vision](/Knowledge-base/Software-Development/Learning/software-development-029-computer-vision)
 - [x] [Software Development 030: Natural Language Processing (NLP)](/Knowledge-base/Software-Development/Learning/software-development-030-natural-language-processing-nlp)
