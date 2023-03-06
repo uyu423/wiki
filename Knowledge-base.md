@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-06T14:33:15.541Z
+date: 2023-03-06T15:33:05.923Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -54,7 +54,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [003: Functions in TypeScript: How to Declare and Use Functions in Your Code](/Knowledge-base/TypeScript/Learning/003-functions-in-typescript-how-to-declare-and-use-functions-in-your-code)
 - [ ] 004: Interfaces in TypeScript: How to Define and Use Custom Types|TypeScript/Learning
 - [ ] 005: Classes in TypeScript: Object-Oriented Programming in TypeScript|TypeScript/Learning
-- [ ] 006: Inheritance and Polymorphism in TypeScript: How to Extend and Override Classes|TypeScript/Learning
+- [x] [006: Inheritance and Polymorphism in TypeScript: How to Extend and Override Classes](/Knowledge-base/TypeScript/Learning/006-inheritance-and-polymorphism-in-typescript-how-to-extend-and-override-classes)
 - [x] [007: Modules in TypeScript: How to Organize Your Code into Modules and Files](/Knowledge-base/TypeScript/Learning/007-modules-in-typescript-how-to-organize-your-code-into-modules-and-files)
 - [ ] 008: Generics in TypeScript: How to Write Reusable Code with Type Parameters|TypeScript/Learning
 - [ ] 009: Decorators in TypeScript: How to Use Decorators to Add Functionality to Your Code|TypeScript/Learning
