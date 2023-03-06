@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-06T18:32:46.808Z
+date: 2023-03-06T19:32:57.994Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -102,7 +102,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [051: Type-Safe APIs in TypeScript: How to Ensure Type Safety in Your API Design](/Knowledge-base/TypeScript/Learning/051-type-safe-apis-in-typescript-how-to-ensure-type-safety-in-your-api-design)
 - [ ] 052: The ReadonlyArray Type in TypeScript: How to Create Immutable Arrays|TypeScript/Learning
 - [x] [053: The Required Type in TypeScript: How to Create Types with Required Properties](/Knowledge-base/TypeScript/Learning/053-the-required-type-in-typescript-how-to-create-types-with-required-properties)
-- [ ] 054: Type-Driven Testing in TypeScript: How to Use Types to Improve Your Testing Strategy|TypeScript/Learning
+- [x] [054: Type-Driven Testing in TypeScript: How to Use Types to Improve Your Testing Strategy](/Knowledge-base/TypeScript/Learning/054-type-driven-testing-in-typescript-how-to-use-types-to-improve-your-testing-strategy)
 
 
 ## Network
