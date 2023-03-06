@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-06T06:32:46.987Z
+date: 2023-03-06T07:32:52.462Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1928,7 +1928,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Traffic Management](/Knowledge-base/Dictionary/traffic-management)
 - [x] [Quality of Service](/Knowledge-base/Dictionary/quality-of-service)
 - [x] [Bandwidth Management](/Knowledge-base/Dictionary/bandwidth-management)
-- [ ] Public Cloud|Dictionary
+- [x] [Public Cloud](/Knowledge-base/Dictionary/public-cloud)
 - [ ] Private Cloud|Dictionary
 - [x] [Hybrid Cloud](/Knowledge-base/Dictionary/hybrid-cloud)
 - [x] [Function as a Service](/Knowledge-base/Dictionary/function-as-a-service)
