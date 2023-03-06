@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-06T00:32:53.321Z
+date: 2023-03-06T01:32:45.919Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1660,7 +1660,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Subversion(SVN)](/Knowledge-base/Dictionary/subversionsvn)
 - [x] [Linux Kernel](/Knowledge-base/Dictionary/linux-kernel)
 - [x] [CentOS Linux](/Knowledge-base/Dictionary/centos-linux)
-- [ ] OpenSUSE Linux|Dictionary
+- [x] [OpenSUSE Linux](/Knowledge-base/Dictionary/opensuse-linux)
 - [x] [Fedora Linux](/Knowledge-base/Dictionary/fedora-linux)
 - [x] [Git](/Knowledge-base/Dictionary/git)
 - [x] [Agile](/Knowledge-base/Dictionary/agile)
