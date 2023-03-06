@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-06T20:33:21.893Z
+date: 2023-03-06T21:32:46.566Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -96,7 +96,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [045: String Manipulation in TypeScript: How to Work with Strings in Your Code](/Knowledge-base/TypeScript/Learning/045-string-manipulation-in-typescript-how-to-work-with-strings-in-your-code)
 - [ ] 046: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types|TypeScript/Learning
 - [ ] 047: The Partial Type in TypeScript: How to Create Types with Optional Properties|TypeScript/Learning
-- [ ] 048: The Pick Type in TypeScript: How to Create Types by Picking Properties from Other Types|TypeScript/Learning
+- [x] [048: The Pick Type in TypeScript: How to Create Types by Picking Properties from Other Types](/Knowledge-base/TypeScript/Learning/048-the-pick-type-in-typescript-how-to-create-types-by-picking-properties-from-other-types)
 - [ ] 049: The Omit Type in TypeScript: How to Create Types by Removing Properties from Other Types|TypeScript/Learning
 - [ ] 050: The Record Type in TypeScript: How to Create Types with Key-Value Pairs|TypeScript/Learning
 - [x] [051: Type-Safe APIs in TypeScript: How to Ensure Type Safety in Your API Design](/Knowledge-base/TypeScript/Learning/051-type-safe-apis-in-typescript-how-to-ensure-type-safety-in-your-api-design)
