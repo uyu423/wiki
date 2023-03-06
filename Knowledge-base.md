@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-06T17:32:46.197Z
+date: 2023-03-06T18:32:46.808Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2051,7 +2051,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [General Data Protection Regulation](/Knowledge-base/Dictionary/general-data-protection-regulation)
 - [x] [California Consumer Privacy Act](/Knowledge-base/Dictionary/california-consumer-privacy-act)
 - [x] [Physical Security](/Knowledge-base/Dictionary/physical-security)
-- [ ] Incident Response|Dictionary
+- [x] [Incident Response](/Knowledge-base/Dictionary/incident-response)
 - [x] [Disaster Recovery Plan](/Knowledge-base/Dictionary/disaster-recovery-plan)
 - [x] [Business Continuity Plan](/Knowledge-base/Dictionary/business-continuity-plan)
 - [x] [Waterfall](/Knowledge-base/Dictionary/waterfall)
