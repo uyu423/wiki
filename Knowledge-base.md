@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-07T20:32:45.880Z
+date: 2023-03-07T21:33:10.030Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -206,7 +206,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Redis Time-Series Data: Storing and Querying Time-Stamped Data in Redis|NoSQL
 - [ ] MongoDB and Elasticsearch: Combining Two Powerful Data Technologies|NoSQL
 - [x] [Redis RediSearch: A Full-Text Search Solution for Redis](/Knowledge-base/NoSQL/redis-redisearch-a-full-text-search-solution-for-redis)
-- [ ] A Guide to MongoDB Realm: A Serverless Platform for Building Modern Applications|NoSQL
+- [x] [A Guide to MongoDB Realm: A Serverless Platform for Building Modern Applications](/Knowledge-base/NoSQL/a-guide-to-mongodb-realm-a-serverless-platform-for-building-modern-applications)
 
 ## Algorithm (use JavsScript)
 - [x] [[Learning in JavaScript] 001: Asymptotic Analysis](/Knowledge-base/Algorithm/learning-in-javascript-001-asymptotic-analysis)
