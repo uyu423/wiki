@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-07T03:32:47.088Z
+date: 2023-03-07T04:32:46.491Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -57,7 +57,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [006: Inheritance and Polymorphism in TypeScript: How to Extend and Override Classes](/Knowledge-base/TypeScript/Learning/006-inheritance-and-polymorphism-in-typescript-how-to-extend-and-override-classes)
 - [x] [007: Modules in TypeScript: How to Organize Your Code into Modules and Files](/Knowledge-base/TypeScript/Learning/007-modules-in-typescript-how-to-organize-your-code-into-modules-and-files)
 - [ ] 008: Generics in TypeScript: How to Write Reusable Code with Type Parameters|TypeScript/Learning
-- [ ] 009: Decorators in TypeScript: How to Use Decorators to Add Functionality to Your Code|TypeScript/Learning
+- [x] [009: Decorators in TypeScript: How to Use Decorators to Add Functionality to Your Code](/Knowledge-base/TypeScript/Learning/009-decorators-in-typescript-how-to-use-decorators-to-add-functionality-to-your-code)
 - [ ] 010: Namespaces in TypeScript: How to Organize Your Code into Namespaces|TypeScript/Learning
 - [x] [011: Advanced Types in TypeScript: How to Use Union Types, Intersection Types, and More](/Knowledge-base/TypeScript/Learning/011-advanced-types-in-typescript-how-to-use-union-types-intersection-types-and-more)
 - [x] [012: Type Inference in TypeScript: How TypeScript Infers Types in Your Code](/Knowledge-base/TypeScript/Learning/012-type-inference-in-typescript-how-typescript-infers-types-in-your-code)
