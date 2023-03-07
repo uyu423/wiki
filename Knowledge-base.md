@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-07T12:33:13.636Z
+date: 2023-03-07T13:32:44.344Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1292,7 +1292,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 052: Recommender Systems](/Knowledge-base/Software-Development/Learning/software-development-052-recommender-systems)
 - [x] [Software Development 053: A/B Testing](/Knowledge-base/Software-Development/Learning/software-development-053-ab-testing)
 - [x] [Software Development 054: Sentiment Analysis](/Knowledge-base/Software-Development/Learning/software-development-054-sentiment-analysis)
-- [ ] Software Development 055: Chatbots|Software-Development/Learning
+- [x] [Software Development 055: Chatbots](/Knowledge-base/Software-Development/Learning/software-development-055-chatbots)
 - [x] [Software Development 056: Robotics](/Knowledge-base/Software-Development/Learning/software-development-056-robotics)
 - [x] [Software Development 057: Autonomous Systems](/Knowledge-base/Software-Development/Learning/software-development-057-autonomous-systems)
 - [x] [Software Development 058: Internet of Drones (IoD)](/Knowledge-base/Software-Development/Learning/software-development-058-internet-of-drones-iod)
