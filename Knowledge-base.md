@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-07T17:32:53.578Z
+date: 2023-03-07T18:32:46.867Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -71,7 +71,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [020: Intersection Types in TypeScript: How to Combine Types for More Complex Types](/Knowledge-base/TypeScript/Learning/020-intersection-types-in-typescript-how-to-combine-types-for-more-complex-types)
 - [ ] 021: Type Reflection in TypeScript: How to Use TypeScript's Reflection Capabilities|TypeScript/Learning
 - [x] [022: Index Signatures in TypeScript: How to Work with Objects with Dynamic Properties](/Knowledge-base/TypeScript/Learning/022-index-signatures-in-typescript-how-to-work-with-objects-with-dynamic-properties)
-- [ ] 023: Mixing JavaScript and TypeScript: How to Use TypeScript with Existing JavaScript Code|TypeScript/Learning
+- [x] [023: Mixing JavaScript and TypeScript: How to Use TypeScript with Existing JavaScript Code](/Knowledge-base/TypeScript/Learning/023-mixing-javascript-and-typescript-how-to-use-typescript-with-existing-javascript-code)
 - [x] [024: Type Guards with Classes in TypeScript: How to Use Type Guards with Classes and Interfaces](/Knowledge-base/TypeScript/Learning/024-type-guards-with-classes-in-typescript-how-to-use-type-guards-with-classes-and-interfaces)
 - [ ] 025: Conditional Types in TypeScript: How to Create Types with Conditional Logic|TypeScript/Learning
 - [ ] 026: String Literal Types in TypeScript: How to Define Types with Literal Values|TypeScript/Learning
