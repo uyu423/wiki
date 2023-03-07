@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-07T10:32:46.313Z
+date: 2023-03-07T12:33:13.636Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -142,7 +142,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] DNS Hijacking: How Hackers Can Redirect Your Web Traffic|Network
 - [ ] How to Use Traceroute: A Command-Line Tool for Network Path Analysis|Network
 - [x] [HTTP/3: Understanding the Benefits of QUIC](/Knowledge-base/Network/http3-understanding-the-benefits-of-quic)
-- [ ] The TCP Maximum Segment Size: How to Optimize TCP Performance|Network
+- [x] [The TCP Maximum Segment Size: How to Optimize TCP Performance](/Knowledge-base/Network/the-tcp-maximum-segment-size-how-to-optimize-tcp-performance)
 - [x] [DNS Spoofing: How to Protect Your Network from DNS Attacks](/Knowledge-base/Network/dns-spoofing-how-to-protect-your-network-from-dns-attacks)
 - [ ] HTTP Pipelining: How to Improve Web Performance with Multiple Requests|Network
 - [x] [IP Subnetting: How to Divide IP Networks into Smaller Subnets](/Knowledge-base/Network/ip-subnetting-how-to-divide-ip-networks-into-smaller-subnets)
