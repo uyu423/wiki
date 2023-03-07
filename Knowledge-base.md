@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-07T22:33:01.689Z
+date: 2023-03-07T23:32:44.082Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -116,7 +116,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] DNS Records: A Comprehensive Guide to DNS Resource Records|Network
 - [ ] A Beginner's Guide to HTTPS: How to Secure Your Web Traffic|Network
 - [x] [The TCP Three-Way Handshake: How TCP Connections Are Established](/Knowledge-base/Network/the-tcp-three-way-handshake-how-tcp-connections-are-established)
-- [ ] HTTP Headers: Understanding the Metadata of Web Requests and Responses|Network
+- [x] [HTTP Headers: Understanding the Metadata of Web Requests and Responses](/Knowledge-base/Network/http-headers-understanding-the-metadata-of-web-requests-and-responses)
 - [x] [IP Addressing: How IP Addresses Work and How to Manage Them](/Knowledge-base/Network/ip-addressing-how-ip-addresses-work-and-how-to-manage-them)
 - [x] [RESTful APIs: An Introduction to Building Web Services with HTTP](/Knowledge-base/Network/restful-apis-an-introduction-to-building-web-services-with-http)
 - [x] [The TCP Congestion Control Algorithm: How TCP Responds to Network Congestion](/Knowledge-base/Network/the-tcp-congestion-control-algorithm-how-tcp-responds-to-network-congestion)
