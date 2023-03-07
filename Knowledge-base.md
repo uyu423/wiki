@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-07T13:32:44.344Z
+date: 2023-03-07T14:32:46.285Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -100,7 +100,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 049: The Omit Type in TypeScript: How to Create Types by Removing Properties from Other Types|TypeScript/Learning
 - [ ] 050: The Record Type in TypeScript: How to Create Types with Key-Value Pairs|TypeScript/Learning
 - [x] [051: Type-Safe APIs in TypeScript: How to Ensure Type Safety in Your API Design](/Knowledge-base/TypeScript/Learning/051-type-safe-apis-in-typescript-how-to-ensure-type-safety-in-your-api-design)
-- [ ] 052: The ReadonlyArray Type in TypeScript: How to Create Immutable Arrays|TypeScript/Learning
+- [x] [052: The ReadonlyArray Type in TypeScript: How to Create Immutable Arrays](/Knowledge-base/TypeScript/Learning/052-the-readonlyarray-type-in-typescript-how-to-create-immutable-arrays)
 - [x] [053: The Required Type in TypeScript: How to Create Types with Required Properties](/Knowledge-base/TypeScript/Learning/053-the-required-type-in-typescript-how-to-create-types-with-required-properties)
 - [x] [054: Type-Driven Testing in TypeScript: How to Use Types to Improve Your Testing Strategy](/Knowledge-base/TypeScript/Learning/054-type-driven-testing-in-typescript-how-to-use-types-to-improve-your-testing-strategy)
 
