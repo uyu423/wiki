@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-07T16:33:01.526Z
+date: 2023-03-07T17:32:53.578Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2184,7 +2184,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [CyberAgent, Inc. (Japan)](/Knowledge-base/Dictionary/Company/cyberagent-inc-japan)
 - [ ] DeNA Co., Ltd. (Japan)|Dictionary/Company
 - [x] [GREE, Inc. (Japan)](/Knowledge-base/Dictionary/Company/gree-inc-japan)
-- [ ] NHN Entertainment Corporation (South Korea)|Dictionary/Company
+- [x] [NHN Entertainment Corporation (South Korea)](/Knowledge-base/Dictionary/Company/nhn-entertainment-corporation-south-korea)
 - [x] [Com2uS Corporation (South Korea)](/Knowledge-base/Dictionary/Company/com2us-corporation-south-korea)
 - [x] [Netmarble Corporation (South Korea)](/Knowledge-base/Dictionary/Company/netmarble-corporation-south-korea)
 - [ ] Nexon Co., Ltd. (South Korea)|Dictionary/Company
