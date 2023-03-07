@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-07T05:32:41.879Z
+date: 2023-03-07T06:32:45.784Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1777,7 +1777,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Multifactor Authentication](/Knowledge-base/Dictionary/multifactor-authentication)
 - [x] [Single Sign-On](/Knowledge-base/Dictionary/single-sign-on)
 - [x] [Web Application Security](/Knowledge-base/Dictionary/web-application-security)
-- [ ] Mobile Application Security|Dictionary
+- [x] [Mobile Application Security](/Knowledge-base/Dictionary/mobile-application-security)
 - [ ] Security Auditing|Dictionary
 - [x] [Vulnerability Scanning](/Knowledge-base/Dictionary/vulnerability-scanning)
 - [x] [Cybercrime](/Knowledge-base/Dictionary/cybercrime)
