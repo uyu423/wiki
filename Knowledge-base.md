@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-07T15:32:43.675Z
+date: 2023-03-07T16:33:01.526Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2167,7 +2167,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [JD.com, Inc. (China)](/Knowledge-base/Dictionary/Company/jd-com-inc-china)
 - [x] [Pinduoduo (China)](/Knowledge-base/Dictionary/Company/pinduoduo-china)
 - [x] [Honor (China)](/Knowledge-base/Dictionary/Company/honor-china)
-- [ ] Oppo (China)|Dictionary/Company
+- [x] [Oppo (China)](/Knowledge-base/Dictionary/Company/oppo-china)
 - [x] [Vivo (China)](/Knowledge-base/Dictionary/Company/vivo-china)
 - [x] [ZTE Corporation (China)](/Knowledge-base/Dictionary/Company/zte-corporation-china)
 - [x] [Huawei Cloud (China)](/Knowledge-base/Dictionary/Company/huawei-cloud-china)
