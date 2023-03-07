@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-07T09:33:04.632Z
+date: 2023-03-07T10:32:46.313Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -162,7 +162,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Redis Data Structures: What You Need to Know|NoSQL
 - [x] [MongoDB vs. MySQL: Comparing Two Popular Databases](/Knowledge-base/NoSQL/mongodb-vs-mysql-comparing-two-popular-databases)
 - [ ] How to Use Redis for Caching in Your Web Application|NoSQL
-- [ ] A Comprehensive Guide to Redis Commands and Syntax|NoSQL
+- [x] [A Comprehensive Guide to Redis Commands and Syntax](/Knowledge-base/NoSQL/a-comprehensive-guide-to-redis-commands-and-syntax)
 - [ ] MongoDB Atlas: How to Get Started with MongoDB in the Cloud|NoSQL
 - [x] [Redis Clustering: How to Build a Highly Available Redis Cluster](/Knowledge-base/NoSQL/redis-clustering-how-to-build-a-highly-available-redis-cluster)
 - [x] [NoSQL vs. SQL: Which Database Type Is Right for You?](/Knowledge-base/NoSQL/nosql-vs-sql-which-database-type-is-right-for-you)
