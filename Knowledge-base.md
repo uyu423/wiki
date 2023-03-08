@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-08T16:32:45.974Z
+date: 2023-03-08T17:32:37.419Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2294,4 +2294,4 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Jaron Lanier (Virtual Reality Pioneer)](/Knowledge-base/Dictionary/Person/jaron-lanier-virtual-reality-pioneer)
 - [x] [Douglas Engelbart (Computer Mouse Inventor)](/Knowledge-base/Dictionary/Person/douglas-engelbart-computer-mouse-inventor)
 - [x] [Bob Taylor (ARPA Network Manager)](/Knowledge-base/Dictionary/Person/bob-taylor-arpa-network-manager)
-- [ ] Vint Cerf (Internet Pioneer)|Dictionary/Person
+- [x] [Vint Cerf (Internet Pioneer)](/Knowledge-base/Dictionary/Person/vint-cerf-internet-pioneer)
