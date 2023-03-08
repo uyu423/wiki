@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-08T18:33:13.655Z
+date: 2023-03-08T19:33:01.994Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2028,7 +2028,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [IP Address](/Knowledge-base/Dictionary/ip-address)
 - [ ] Domain Name|Dictionary
 - [x] [URL](/Knowledge-base/Dictionary/url)
-- [ ] HTTP|Dictionary
+- [x] [HTTP](/Knowledge-base/Dictionary/http)
 - [x] [HTTPS](/Knowledge-base/Dictionary/https)
 - [ ] Web Hosting|Dictionary
 - [x] [Shared Hosting](/Knowledge-base/Dictionary/shared-hosting)
