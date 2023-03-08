@@ -1,8 +1,8 @@
 ---
-title: MySQL의 EXPLAIN SELECT를 활용한 쿼리 성능 향상
+title: MySQL의 EXPLAIN SELECT를 활용한 쿼리 성능 분석
 description: 
 published: true
-date: 2023-03-08T19:20:24.179Z
+date: 2023-03-08T19:22:34.400Z
 tags: database, mysql
 editor: markdown
 dateCreated: 2023-03-08T19:19:33.299Z
