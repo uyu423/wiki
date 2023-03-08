@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-07T23:32:44.082Z
+date: 2023-03-08T00:32:42.895Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -152,7 +152,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] IP Routing: How Routers Forward IP Packets|Network
 - [ ] DNS Anycast: How to Improve DNS Performance and Resilience|Network
 - [ ] How to Use Tcpdump: A Command-Line Tool for Packet Capturing|Network
-- [ ] HTTP Content Negotiation: How to Serve Different Content for Different Clients|Network
+- [x] [HTTP Content Negotiation: How to Serve Different Content for Different Clients](/Knowledge-base/Network/http-content-negotiation-how-to-serve-different-content-for-different-clients)
 - [ ] The TCP Slow Start Algorithm: How TCP Controls Congestion|Network
 
 ## NoSQL
