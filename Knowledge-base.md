@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-08T00:32:42.895Z
+date: 2023-03-08T01:32:50.869Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2201,7 +2201,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Mark Zuckerberg (Facebook CEO)|Dictionary/Person
 - [x] [Larry Page (Google Co-founder)](/Knowledge-base/Dictionary/Person/larry-page-google-co-founder)
 - [x] [Sergey Brin (Google Co-founder)](/Knowledge-base/Dictionary/Person/sergey-brin-google-co-founder)
-- [ ] Jeff Bezos (Amazon Founder and CEO)|Dictionary/Person
+- [x] [Jeff Bezos (Amazon Founder and CEO)](/Knowledge-base/Dictionary/Person/jeff-bezos-amazon-founder-and-ceo)
 - [x] [Elon Musk (Tesla CEO)](/Knowledge-base/Dictionary/Person/elon-musk-tesla-ceo)
 - [x] [Jack Ma (Alibaba Founder)](/Knowledge-base/Dictionary/Person/jack-ma-alibaba-founder)
 - [x] [Tim Cook (Apple CEO)](/Knowledge-base/Dictionary/Person/tim-cook-apple-ceo)
