@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-08T06:32:53.508Z
+date: 2023-03-08T07:32:47.454Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2289,7 +2289,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Ken Thompson (UNIX Developer)](/Knowledge-base/Dictionary/Person/ken-thompson-unix-developer)
 - [x] [Tom Igoe (Arduino Creator)](/Knowledge-base/Dictionary/Person/tom-igoe-arduino-creator)
 - [x] [Limor Fried (Adafruit Industries Founder)](/Knowledge-base/Dictionary/Person/limor-fried-adafruit-industries-founder)
-- [ ] Woz (Apple Co-founder)|Dictionary/Person
+- [x] [Woz (Apple Co-founder)](/Knowledge-base/Dictionary/Person/woz-apple-co-founder)
 - [x] [Robert Morris (UNIX Developer)](/Knowledge-base/Dictionary/Person/robert-morris-unix-developer)
 - [x] [Jaron Lanier (Virtual Reality Pioneer)](/Knowledge-base/Dictionary/Person/jaron-lanier-virtual-reality-pioneer)
 - [x] [Douglas Engelbart (Computer Mouse Inventor)](/Knowledge-base/Dictionary/Person/douglas-engelbart-computer-mouse-inventor)
