@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-08T14:32:50.505Z
+date: 2023-03-08T15:32:54.502Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -88,7 +88,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 037: Nullish Coalescing in TypeScript: How to Use the Nullish Coalescing Operator|TypeScript/Learning
 - [ ] 038: Global Declarations in TypeScript: How to Declare Global Variables and Functions|TypeScript/Learning
 - [ ] 039: Readonly Properties in TypeScript: How to Create Immutable Objects|TypeScript/Learning
-- [ ] 040: Augmenting Types in TypeScript: How to Add Properties and Methods to Existing Types|TypeScript/Learning
+- [x] [040: Augmenting Types in TypeScript: How to Add Properties and Methods to Existing Types](/Knowledge-base/TypeScript/Learning/040-augmenting-types-in-typescript-how-to-add-properties-and-methods-to-existing-types)
 - [ ] 041: Type-Safe Event Handling in TypeScript: How to Ensure Event Handlers Receive the Correct Arguments|TypeScript/Learning
 - [x] [042: String Manipulation in TypeScript: How to Work with Strings in Your Code](/Knowledge-base/TypeScript/Learning/042-string-manipulation-in-typescript-how-to-work-with-strings-in-your-code)
 - [x] [043: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types](/Knowledge-base/TypeScript/Learning/043-type-driven-refactoring-in-typescript-how-to-refactor-your-code-with-types)
