@@ -2,7 +2,7 @@
 title: Alphabet Inc. (Google)
 description: 
 published: true
-date: 2023-03-02T05:32:42.549Z
+date: 2023-03-02T05:32:43.924Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T05:32:42.549Z

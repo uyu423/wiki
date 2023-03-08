@@ -2,7 +2,7 @@
 title: 050: Patrones de diseño en Kotlin: aplicación de patrones de diseño comunes a su código.
 description: 
 published: true
-date: 2023-02-16T16:32:48.682Z
+date: 2023-02-16T16:32:51.071Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T16:32:48.682Z

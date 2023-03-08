@@ -2,7 +2,7 @@
 title: Full-Stack Development
 description: 
 published: true
-date: 2023-01-31T21:43:46.620Z
+date: 2023-01-31T21:43:48.285Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T21:43:46.620Z

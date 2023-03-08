@@ -2,7 +2,7 @@
 title: 在基础设施开发中构建事件驱动架构
 description: 
 published: true
-date: 2023-02-04T15:55:24.179Z
+date: 2023-02-04T15:55:25.699Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T15:55:24.179Z

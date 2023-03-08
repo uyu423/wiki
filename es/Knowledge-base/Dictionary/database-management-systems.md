@@ -2,7 +2,7 @@
 title: Database Management Systems
 description: 
 published: true
-date: 2023-02-06T05:56:39.553Z
+date: 2023-02-06T05:56:41.425Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T05:56:39.553Z

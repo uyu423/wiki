@@ -2,7 +2,7 @@
 title: Scaling Applications with ElastiCache and ElasticBeanstalk
 description: 
 published: true
-date: 2023-01-30T21:23:16.326Z
+date: 2023-02-17T18:14:15.148Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T21:23:16.326Z

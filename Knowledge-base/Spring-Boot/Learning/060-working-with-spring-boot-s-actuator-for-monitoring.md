@@ -2,7 +2,7 @@
 title: 060: 모니터링을 위한 Spring Boot의 액추에이터 작업
 description: 
 published: true
-date: 2023-02-04T23:32:23.531Z
+date: 2023-02-04T23:32:25.116Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T23:32:23.531Z

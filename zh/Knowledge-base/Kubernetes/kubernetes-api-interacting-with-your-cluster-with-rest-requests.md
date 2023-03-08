@@ -2,7 +2,7 @@
 title: Kubernetes API：通过 REST 请求与集群交互
 description: 
 published: true
-date: 2023-02-14T03:33:30.961Z
+date: 2023-02-14T03:33:33.231Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T03:33:30.961Z

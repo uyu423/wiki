@@ -2,7 +2,7 @@
 title: Spring Boot의 예외 처리
 description: 
 published: true
-date: 2023-01-31T05:17:22.155Z
+date: 2023-01-31T05:17:23.704Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T05:17:22.155Z

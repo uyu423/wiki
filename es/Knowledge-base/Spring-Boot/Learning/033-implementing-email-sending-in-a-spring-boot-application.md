@@ -2,7 +2,7 @@
 title: 033: Implementación del envío de correo electrónico en una aplicación Spring Boot
 description: 
 published: true
-date: 2023-02-04T01:32:44.103Z
+date: 2023-02-04T01:32:45.725Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T01:32:44.103Z

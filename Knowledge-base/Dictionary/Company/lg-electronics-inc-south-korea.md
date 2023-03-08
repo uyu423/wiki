@@ -2,7 +2,7 @@
 title: LG Electronics Inc. (South Korea)
 description: 
 published: true
-date: 2023-02-02T07:00:37.351Z
+date: 2023-02-02T07:00:38.624Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T06:59:00.366Z

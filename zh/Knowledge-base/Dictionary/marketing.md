@@ -2,7 +2,7 @@
 title: Marketing
 description: 
 published: true
-date: 2023-02-12T05:55:40.124Z
+date: 2023-02-12T05:55:42.495Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T05:55:40.124Z

@@ -2,7 +2,7 @@
 title: AWS Certificate Manager: 보안 웹 애플리케이션용 SSL 인증서 관리
 description: 
 published: true
-date: 2023-02-19T03:06:28.452Z
+date: 2023-02-19T03:06:29.832Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T03:06:28.452Z

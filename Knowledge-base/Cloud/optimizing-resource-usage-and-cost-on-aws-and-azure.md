@@ -2,7 +2,7 @@
 title: AWS 및 Azure에서 리소스 사용 및 비용 최적화
 description: 
 published: true
-date: 2023-02-01T13:43:23.151Z
+date: 2023-02-01T13:43:24.590Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T13:43:23.151Z

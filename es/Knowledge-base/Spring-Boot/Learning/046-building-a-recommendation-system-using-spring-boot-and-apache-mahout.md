@@ -2,7 +2,7 @@
 title: 046: Construyendo un sistema de recomendación usando Spring Boot y Apache Mahout
 description: 
 published: true
-date: 2023-02-04T12:32:18.669Z
+date: 2023-02-04T12:32:20.373Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T12:32:18.669Z

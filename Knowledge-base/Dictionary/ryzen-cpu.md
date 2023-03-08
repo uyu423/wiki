@@ -2,7 +2,7 @@
 title: Ryzen CPU
 description: 
 published: true
-date: 2023-03-05T03:32:30.638Z
+date: 2023-03-05T03:32:31.975Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T03:32:30.638Z

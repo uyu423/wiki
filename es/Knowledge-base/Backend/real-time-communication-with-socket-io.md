@@ -2,7 +2,7 @@
 title: Comunicación en tiempo real con Socket.io
 description: 
 published: true
-date: 2023-02-17T06:17:28.348Z
+date: 2023-02-17T06:17:30.030Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T06:17:28.348Z

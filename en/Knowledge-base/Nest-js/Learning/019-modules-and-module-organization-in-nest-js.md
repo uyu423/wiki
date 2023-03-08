@@ -2,7 +2,7 @@
 title: 019: Modules and module organization in Nest.js
 description: 
 published: true
-date: 2023-02-06T01:17:47.640Z
+date: 2023-02-06T01:17:49.360Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T01:17:47.640Z

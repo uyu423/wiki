@@ -2,7 +2,7 @@
 title: Cloud Hosting
 description: 
 published: true
-date: 2023-02-24T19:32:28.424Z
+date: 2023-02-24T19:32:39.849Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-24T19:32:28.424Z

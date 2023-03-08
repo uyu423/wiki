@@ -2,7 +2,7 @@
 title: 소프트웨어 개발 074: 지속적인 테스트
 description: 
 published: true
-date: 2023-02-02T10:23:19.380Z
+date: 2023-02-02T10:23:20.923Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T10:23:19.380Z

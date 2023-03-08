@@ -2,7 +2,7 @@
 title: Evan Spiegel (Snap Inc. CEO)
 description: 
 published: true
-date: 2023-02-25T12:32:17.180Z
+date: 2023-02-25T12:32:18.572Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-25T12:32:17.180Z

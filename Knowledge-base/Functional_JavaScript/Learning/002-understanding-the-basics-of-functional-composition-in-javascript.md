@@ -2,7 +2,7 @@
 title: 002: JavaScript의 기능적 구성의 기본 이해
 description: 
 published: true
-date: 2023-02-17T07:32:15.673Z
+date: 2023-02-17T07:32:16.993Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T07:32:15.673Z

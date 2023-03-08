@@ -2,7 +2,7 @@
 title: Docker Image Management: Tagging and Pushing to a Registry
 description: 
 published: true
-date: 2023-02-01T21:43:18.428Z
+date: 2023-02-01T21:43:20.030Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T21:43:18.428Z

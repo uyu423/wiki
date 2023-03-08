@@ -2,7 +2,7 @@
 title: Brad Smith (Microsoft President)
 description: 
 published: true
-date: 2023-02-13T20:55:26.842Z
+date: 2023-02-13T20:55:29.054Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T20:55:26.842Z

@@ -2,7 +2,7 @@
 title: 009: Using Spring Boot with NoSQL databases (MongoDB)
 description: 
 published: true
-date: 2023-02-03T08:36:50.440Z
+date: 2023-02-03T08:36:52.142Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T08:36:50.440Z

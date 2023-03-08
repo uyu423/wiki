@@ -2,7 +2,7 @@
 title: Creación de un asistente virtual con IA
 description: 
 published: true
-date: 2023-02-17T04:56:32.286Z
+date: 2023-02-17T04:56:34.098Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T04:56:32.286Z

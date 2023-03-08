@@ -2,7 +2,7 @@
 title: MySQL and Data Manipulation: Best Practices for Planners and Marketers
 description: 
 published: true
-date: 2023-02-06T19:32:58.762Z
+date: 2023-02-06T19:33:00.495Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T19:32:58.762Z

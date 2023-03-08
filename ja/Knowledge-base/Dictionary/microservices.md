@@ -2,7 +2,7 @@
 title: Microservices
 description: 
 published: true
-date: 2023-02-11T14:55:31.453Z
+date: 2023-02-11T14:55:33.226Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T14:55:31.453Z

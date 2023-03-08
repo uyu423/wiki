@@ -2,7 +2,7 @@
 title: 024：在 Nest.js 中创建和使用 REST API
 description: 
 published: true
-date: 2023-02-09T06:55:54.959Z
+date: 2023-02-09T06:55:56.621Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T06:55:54.959Z

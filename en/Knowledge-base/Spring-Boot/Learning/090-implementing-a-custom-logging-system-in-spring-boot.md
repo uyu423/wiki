@@ -2,7 +2,7 @@
 title: 090: Implementing a Custom Logging System in Spring Boot
 description: 
 published: true
-date: 2023-02-05T20:32:19.516Z
+date: 2023-02-05T20:32:21.174Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T20:32:19.516Z

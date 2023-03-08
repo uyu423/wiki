@@ -2,7 +2,7 @@
 title: Spring Boot and Spring Cloud for Distributed Systems
 description: 
 published: true
-date: 2023-02-03T19:17:22.856Z
+date: 2023-02-03T19:17:24.514Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T19:17:22.856Z

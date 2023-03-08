@@ -2,7 +2,7 @@
 title: Spring Boot Caching with EhCache
 description: 
 published: true
-date: 2023-02-07T16:32:36.254Z
+date: 2023-02-07T16:32:37.860Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T16:32:36.254Z

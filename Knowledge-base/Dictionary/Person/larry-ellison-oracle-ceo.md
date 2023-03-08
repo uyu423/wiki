@@ -2,7 +2,7 @@
 title: Larry Ellison (Oracle CEO)
 description: 
 published: true
-date: 2023-02-07T10:17:46.969Z
+date: 2023-02-07T10:17:49.149Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T10:17:46.969Z

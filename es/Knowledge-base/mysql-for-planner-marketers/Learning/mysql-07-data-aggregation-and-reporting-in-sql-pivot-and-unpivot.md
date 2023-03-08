@@ -2,7 +2,7 @@
 title: MySQL 07: Agregación de datos y generación de informes en SQL: PIVOT y UNPIVOT
 description: 
 published: true
-date: 2023-02-06T13:32:35.890Z
+date: 2023-02-06T13:32:37.509Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T13:32:35.890Z

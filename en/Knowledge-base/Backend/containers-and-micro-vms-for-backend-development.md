@@ -2,7 +2,7 @@
 title: Containers and Micro VMs for Backend Development
 description: 
 published: true
-date: 2023-02-05T05:55:10.373Z
+date: 2023-02-05T05:55:11.986Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T05:55:10.373Z

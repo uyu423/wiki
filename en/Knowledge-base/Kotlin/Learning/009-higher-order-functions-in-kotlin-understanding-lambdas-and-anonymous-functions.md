@@ -2,7 +2,7 @@
 title: 009: Higher-Order Functions in Kotlin: Understanding Lambdas and Anonymous Functions
 description: 
 published: true
-date: 2023-01-31T05:36:02.755Z
+date: 2023-01-31T05:36:04.908Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T05:36:02.755Z

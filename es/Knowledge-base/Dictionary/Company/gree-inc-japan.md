@@ -2,7 +2,7 @@
 title: GREE, Inc. (Japan)
 description: 
 published: true
-date: 2023-02-06T17:17:50.619Z
+date: 2023-02-06T17:17:53.154Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T17:17:50.619Z

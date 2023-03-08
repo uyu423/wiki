@@ -2,7 +2,7 @@
 title: 047: Creación e implementación de aplicaciones escalables y de alto rendimiento con Nest.js
 description: 
 published: true
-date: 2023-02-15T17:32:52.152Z
+date: 2023-02-15T17:32:54.227Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T17:32:52.152Z

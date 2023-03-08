@@ -2,7 +2,7 @@
 title: Project Management
 description: 
 published: true
-date: 2023-01-30T23:17:26.731Z
+date: 2023-02-17T18:15:28.712Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T23:17:26.731Z

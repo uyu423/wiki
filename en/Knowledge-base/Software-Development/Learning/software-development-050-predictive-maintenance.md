@@ -2,7 +2,7 @@
 title: Software Development 050: Predictive Maintenance
 description: 
 published: true
-date: 2023-02-05T15:55:19.432Z
+date: 2023-02-05T15:55:21.124Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T15:55:19.432Z

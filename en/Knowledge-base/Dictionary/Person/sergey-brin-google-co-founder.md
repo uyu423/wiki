@@ -2,7 +2,7 @@
 title: Sergey Brin (Google Co-founder)
 description: 
 published: true
-date: 2023-02-23T07:33:24.869Z
+date: 2023-02-23T07:33:26.242Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-23T07:33:24.869Z

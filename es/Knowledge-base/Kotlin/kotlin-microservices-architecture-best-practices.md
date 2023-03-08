@@ -2,7 +2,7 @@
 title: Arquitectura de microservicios de Kotlin: mejores prácticas
 description: 
 published: true
-date: 2023-02-16T06:17:17.769Z
+date: 2023-02-16T06:17:21.267Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T06:17:17.769Z

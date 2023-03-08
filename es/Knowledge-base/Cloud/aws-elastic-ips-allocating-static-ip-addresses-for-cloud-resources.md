@@ -2,7 +2,7 @@
 title: IP elásticas de AWS: asignación de direcciones IP estáticas para recursos en la nube
 description: 
 published: true
-date: 2023-02-06T19:17:36.383Z
+date: 2023-02-06T19:17:38.068Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T19:17:36.383Z

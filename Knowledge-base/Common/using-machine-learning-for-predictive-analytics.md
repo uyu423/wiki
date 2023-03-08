@@ -2,7 +2,7 @@
 title: 예측 분석을 위한 기계 학습 사용
 description: 
 published: true
-date: 2023-01-30T06:32:21.686Z
+date: 2023-02-17T18:01:59.369Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T06:32:21.686Z

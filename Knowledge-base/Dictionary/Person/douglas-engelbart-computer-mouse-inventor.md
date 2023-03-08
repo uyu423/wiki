@@ -2,7 +2,7 @@
 title: Douglas Engelbart (Computer Mouse Inventor)
 description: 
 published: true
-date: 2023-02-12T06:17:24.206Z
+date: 2023-02-12T06:17:25.978Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T06:17:24.206Z

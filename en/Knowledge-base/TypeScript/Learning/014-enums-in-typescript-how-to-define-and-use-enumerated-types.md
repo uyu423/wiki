@@ -2,7 +2,7 @@
 title: 014: Enums in TypeScript: How to Define and Use Enumerated Types
 description: 
 published: true
-date: 2023-03-06T17:32:38.673Z
+date: 2023-03-06T17:32:40.042Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-06T17:32:38.673Z

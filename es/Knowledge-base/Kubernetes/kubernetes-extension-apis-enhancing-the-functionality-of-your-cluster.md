@@ -2,7 +2,7 @@
 title: API de extensión de Kubernetes: mejora de la funcionalidad de su clúster
 description: 
 published: true
-date: 2023-02-14T01:33:39.403Z
+date: 2023-02-14T01:33:40.808Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T01:33:39.403Z

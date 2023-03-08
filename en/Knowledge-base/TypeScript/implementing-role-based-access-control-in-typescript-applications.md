@@ -2,7 +2,7 @@
 title: Implementing Role-Based Access Control in TypeScript Applications
 description: 
 published: true
-date: 2023-02-01T08:05:46.873Z
+date: 2023-02-01T08:05:48.410Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T08:05:46.873Z

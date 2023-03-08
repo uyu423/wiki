@@ -2,7 +2,7 @@
 title: 034: Kotlin의 vararg 함수: 가변 개수의 인수를 허용하는 함수 만들기
 description: 
 published: true
-date: 2023-02-13T18:55:40.241Z
+date: 2023-02-13T18:55:41.925Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T18:55:40.241Z

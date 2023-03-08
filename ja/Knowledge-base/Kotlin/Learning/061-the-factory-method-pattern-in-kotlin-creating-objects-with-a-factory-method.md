@@ -2,7 +2,7 @@
 title: 061: Kotlin のファクトリー メソッド パターン: ファクトリー メソッドでオブジェクトを作成する
 description: 
 published: true
-date: 2023-01-31T09:04:57.098Z
+date: 2023-01-31T09:04:58.712Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T09:04:57.098Z

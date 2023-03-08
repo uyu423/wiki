@@ -2,7 +2,7 @@
 title: 013: Integrating with external systems using Spring Boot and REST
 description: 
 published: true
-date: 2023-02-01T21:36:31.850Z
+date: 2023-02-01T21:36:34.270Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T21:36:31.850Z

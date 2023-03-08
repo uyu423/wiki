@@ -2,7 +2,7 @@
 title: Kotlin의 위임 패턴 이해
 description: 
 published: true
-date: 2023-02-15T04:55:39.179Z
+date: 2023-02-15T04:55:40.936Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T04:55:39.179Z

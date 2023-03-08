@@ -2,7 +2,7 @@
 title: Kevin Systrom (Instagram Co-founder)
 description: 
 published: true
-date: 2023-02-28T09:32:36.688Z
+date: 2023-02-28T09:32:38.057Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T09:32:36.688Z

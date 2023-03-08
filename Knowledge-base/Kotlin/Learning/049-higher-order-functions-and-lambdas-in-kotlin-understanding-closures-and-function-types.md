@@ -2,7 +2,7 @@
 title: 049: Kotlin의 고차 함수 및 람다: 클로저 및 함수 유형 이해
 description: 
 published: true
-date: 2023-02-16T15:32:41.058Z
+date: 2023-02-16T15:32:43.297Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T15:32:41.058Z

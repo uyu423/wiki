@@ -2,7 +2,7 @@
 title: 006: Inheritance and Polymorphism in TypeScript: How to Extend and Override Classes
 description: 
 published: true
-date: 2023-03-06T15:32:58.466Z
+date: 2023-03-06T15:32:59.828Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-06T15:32:58.466Z

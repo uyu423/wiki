@@ -2,7 +2,7 @@
 title: La importancia del diseño de la experiencia del usuario (UX)
 description: 
 published: true
-date: 2023-02-03T03:57:31.827Z
+date: 2023-02-03T03:57:33.440Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T03:57:31.827Z

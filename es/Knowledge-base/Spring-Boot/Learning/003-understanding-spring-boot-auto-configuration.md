@@ -2,7 +2,7 @@
 title: 003: comprensión de la configuración automática de Spring Boot
 description: 
 published: true
-date: 2023-02-03T07:17:15.502Z
+date: 2023-02-03T07:17:17.044Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T07:17:15.502Z

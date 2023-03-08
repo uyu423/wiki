@@ -2,7 +2,7 @@
 title: El patrón Modelo-Vista-Controlador (MVC) en Spring Boot
 description: 
 published: true
-date: 2023-02-08T07:55:19.676Z
+date: 2023-02-08T07:55:20.941Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T07:55:19.676Z

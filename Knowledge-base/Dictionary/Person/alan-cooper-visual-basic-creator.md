@@ -2,7 +2,7 @@
 title: Alan Cooper (Visual Basic Creator)
 description: 
 published: true
-date: 2023-02-26T05:32:33.919Z
+date: 2023-02-26T05:32:35.302Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T05:32:33.919Z

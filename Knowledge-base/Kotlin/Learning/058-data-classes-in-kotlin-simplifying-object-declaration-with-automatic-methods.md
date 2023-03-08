@@ -2,7 +2,7 @@
 title: 058: Kotlin의 데이터 클래스: 자동 메서드로 개체 선언 간소화
 description: 
 published: true
-date: 2023-02-15T21:55:36.351Z
+date: 2023-02-15T21:55:37.988Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T21:55:36.351Z

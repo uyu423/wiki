@@ -2,7 +2,7 @@
 title: California Consumer Privacy Act
 description: 
 published: true
-date: 2023-01-30T17:23:27.656Z
+date: 2023-02-17T18:09:44.792Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T17:23:27.656Z

@@ -2,7 +2,7 @@
 title: Building a Web Scraper with Python
 description: 
 published: true
-date: 2023-02-23T19:32:16.281Z
+date: 2023-02-23T19:32:17.620Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-23T19:32:16.281Z

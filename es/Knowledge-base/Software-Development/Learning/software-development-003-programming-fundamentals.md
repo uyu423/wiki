@@ -2,7 +2,7 @@
 title: Desarrollo de Software 003: Fundamentos de Programación
 description: 
 published: true
-date: 2023-02-01T20:50:14.453Z
+date: 2023-02-01T20:50:16.047Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T20:50:14.453Z

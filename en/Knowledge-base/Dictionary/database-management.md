@@ -2,7 +2,7 @@
 title: Database Management
 description: 
 published: true
-date: 2023-03-01T18:32:42.721Z
+date: 2023-03-01T18:32:44.059Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-01T18:32:42.721Z

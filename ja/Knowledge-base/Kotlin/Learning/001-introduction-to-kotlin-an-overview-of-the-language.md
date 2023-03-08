@@ -2,7 +2,7 @@
 title: 001: Kotlin の紹介: 言語の概要
 description: 
 published: true
-date: 2023-01-31T06:04:16.538Z
+date: 2023-01-31T06:04:18.123Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T06:04:16.538Z

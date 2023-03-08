@@ -2,7 +2,7 @@
 title: RESTful APIs: An Introduction to Building Web Services with HTTP
 description: 
 published: true
-date: 2023-03-02T15:32:16.123Z
+date: 2023-03-02T15:32:17.532Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T15:32:16.123Z

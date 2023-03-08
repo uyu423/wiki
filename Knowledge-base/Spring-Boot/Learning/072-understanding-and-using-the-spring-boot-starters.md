@@ -2,7 +2,7 @@
 title: 072: 스프링 부트 스타터 이해 및 사용
 description: 
 published: true
-date: 2023-02-05T05:32:13.924Z
+date: 2023-02-05T05:32:15.561Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T05:32:13.924Z

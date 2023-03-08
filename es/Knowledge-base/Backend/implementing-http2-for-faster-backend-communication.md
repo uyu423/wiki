@@ -2,7 +2,7 @@
 title: Implementación de HTTP/2 para una comunicación back-end más rápida
 description: 
 published: true
-date: 2023-02-15T02:17:16.213Z
+date: 2023-02-15T02:17:18.075Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T02:17:16.213Z

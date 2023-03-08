@@ -2,7 +2,7 @@
 title: OpenSUSE Linux
 description: 
 published: true
-date: 2023-03-06T01:32:38.314Z
+date: 2023-03-06T01:32:39.698Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-06T01:32:38.314Z

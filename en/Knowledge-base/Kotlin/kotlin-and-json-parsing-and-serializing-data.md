@@ -2,7 +2,7 @@
 title: Kotlin and JSON: Parsing and Serializing Data
 description: 
 published: true
-date: 2023-02-01T18:04:43.857Z
+date: 2023-02-01T18:04:45.794Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T18:04:43.857Z

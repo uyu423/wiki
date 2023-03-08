@@ -2,7 +2,7 @@
 title: 032: TypeScript의 구별된 공용체: 판별자를 사용하여 유형을 만드는 방법
 description: 
 published: true
-date: 2023-03-07T07:32:59.298Z
+date: 2023-03-07T07:33:00.674Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T07:32:59.298Z

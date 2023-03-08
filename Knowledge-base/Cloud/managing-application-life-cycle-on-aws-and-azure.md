@@ -2,7 +2,7 @@
 title: AWS 및 Azure에서 애플리케이션 수명 주기 관리
 description: 
 published: true
-date: 2023-02-11T03:56:12.419Z
+date: 2023-02-11T03:56:14.147Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T03:56:12.419Z

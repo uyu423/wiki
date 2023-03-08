@@ -2,7 +2,7 @@
 title: 소프트웨어 개발 042: 데이터베이스 보안
 description: 
 published: true
-date: 2023-02-15T00:17:15.715Z
+date: 2023-02-15T00:17:17.980Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T00:17:15.715Z

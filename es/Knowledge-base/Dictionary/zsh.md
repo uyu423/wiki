@@ -2,7 +2,7 @@
 title: zsh
 description: 
 published: true
-date: 2023-02-10T06:55:41.569Z
+date: 2023-02-10T06:55:43.829Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T06:55:41.569Z

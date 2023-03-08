@@ -2,7 +2,7 @@
 title: Kubernetes Operators: 맞춤형 컨트롤러로 애플리케이션 관리 자동화
 description: 
 published: true
-date: 2023-02-09T03:23:42.742Z
+date: 2023-02-09T03:23:44.316Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T03:23:42.742Z

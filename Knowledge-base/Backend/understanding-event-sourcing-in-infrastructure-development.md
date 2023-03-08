@@ -2,7 +2,7 @@
 title: 인프라 개발의 이벤트 소싱 이해
 description: 
 published: true
-date: 2023-01-31T08:36:19.135Z
+date: 2023-01-31T08:36:20.686Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T08:36:19.135Z

@@ -2,7 +2,7 @@
 title: Pygame
 description: 
 published: true
-date: 2023-02-05T05:17:34.124Z
+date: 2023-02-05T05:17:36.024Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T05:17:34.124Z

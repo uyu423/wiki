@@ -2,7 +2,7 @@
 title: 041：Kotlin 中的对象声明：创建单例实例
 description: 
 published: true
-date: 2023-02-11T12:55:26.926Z
+date: 2023-02-11T12:55:28.625Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:55:26.926Z

@@ -2,7 +2,7 @@
 title: Software Development 062: Containerization with Docker
 description: 
 published: true
-date: 2023-02-28T04:32:15.452Z
+date: 2023-02-28T04:32:16.851Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T04:32:15.452Z

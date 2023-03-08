@@ -2,7 +2,7 @@
 title: Shigeru Miyamoto (Nintendo Game Designer)
 description: 
 published: true
-date: 2023-02-08T03:19:05.608Z
+date: 2023-02-08T03:19:07.609Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T03:19:05.608Z

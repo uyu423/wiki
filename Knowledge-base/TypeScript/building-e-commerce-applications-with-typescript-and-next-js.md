@@ -2,7 +2,7 @@
 title: TypeScript 및 Next.js로 전자 상거래 애플리케이션 구축
 description: 
 published: true
-date: 2023-02-25T22:33:09.964Z
+date: 2023-02-25T22:33:11.408Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-25T22:33:09.964Z

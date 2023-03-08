@@ -2,7 +2,7 @@
 title: Working with Asynchronous Programming in TypeScript and Node.js
 description: 
 published: true
-date: 2023-02-16T13:19:23.160Z
+date: 2023-02-16T13:19:25.307Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T13:19:23.160Z

@@ -2,7 +2,7 @@
 title: Creación de aplicaciones de procesamiento de imágenes y videos con TypeScript y Node.js
 description: 
 published: true
-date: 2023-02-08T20:17:40.461Z
+date: 2023-02-08T20:17:42.107Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T20:17:40.461Z

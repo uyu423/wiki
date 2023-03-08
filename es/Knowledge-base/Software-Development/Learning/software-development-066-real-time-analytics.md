@@ -2,7 +2,7 @@
 title: Desarrollo de software 066: Análisis en tiempo real
 description: 
 published: true
-date: 2023-02-15T22:55:13.041Z
+date: 2023-02-15T22:55:14.626Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T22:55:13.041Z

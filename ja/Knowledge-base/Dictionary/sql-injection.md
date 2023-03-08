@@ -2,7 +2,7 @@
 title: SQL Injection
 description: 
 published: true
-date: 2023-02-07T07:17:42.079Z
+date: 2023-02-07T07:17:44.160Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T07:17:42.079Z

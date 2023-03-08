@@ -2,7 +2,7 @@
 title: PUBG Corporation (South Korea)
 description: 
 published: true
-date: 2023-02-02T02:08:34.044Z
+date: 2023-02-02T02:08:35.322Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T22:24:05.784Z

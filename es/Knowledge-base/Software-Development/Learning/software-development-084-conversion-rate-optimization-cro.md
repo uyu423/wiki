@@ -2,7 +2,7 @@
 title: Desarrollo de software 084: Optimización de la tasa de conversión (CRO)
 description: 
 published: true
-date: 2023-02-04T04:17:20.227Z
+date: 2023-02-04T04:17:21.934Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T04:17:20.227Z

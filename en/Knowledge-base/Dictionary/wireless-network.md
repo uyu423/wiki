@@ -2,7 +2,7 @@
 title: Wireless Network
 description: 
 published: true
-date: 2023-02-09T14:56:39.974Z
+date: 2023-02-09T14:56:42.111Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T14:56:39.974Z

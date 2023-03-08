@@ -2,7 +2,7 @@
 title: 050: Spring Boot(Twilio, Slack)를 사용하여 알림 서비스와 통합
 description: 
 published: true
-date: 2023-02-04T16:32:25.327Z
+date: 2023-02-04T16:32:26.915Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T16:32:25.327Z

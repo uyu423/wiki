@@ -2,7 +2,7 @@
 title: Kotlin y HTTPS: implementando una comunicación segura
 description: 
 published: true
-date: 2023-02-03T05:23:53.401Z
+date: 2023-02-03T05:23:55.062Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T05:23:53.401Z

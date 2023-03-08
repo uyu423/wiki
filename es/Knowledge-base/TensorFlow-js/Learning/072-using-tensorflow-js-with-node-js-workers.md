@@ -2,7 +2,7 @@
 title: 072: Uso de TensorFlow.js con trabajadores de Node.js
 description: 
 published: true
-date: 2023-02-02T23:37:01.830Z
+date: 2023-02-02T23:37:03.464Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T23:37:01.830Z

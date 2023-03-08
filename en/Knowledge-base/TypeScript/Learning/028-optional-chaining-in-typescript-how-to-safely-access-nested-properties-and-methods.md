@@ -2,7 +2,7 @@
 title: 028: Optional Chaining in TypeScript: How to Safely Access Nested Properties and Methods
 description: 
 published: true
-date: 2023-03-02T22:32:12.439Z
+date: 2023-03-02T22:32:13.791Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T22:32:12.439Z

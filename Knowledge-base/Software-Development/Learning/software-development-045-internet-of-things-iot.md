@@ -2,7 +2,7 @@
 title: 소프트웨어 개발 045: 사물 인터넷(IoT)
 description: 
 published: true
-date: 2023-02-28T11:32:31.117Z
+date: 2023-02-28T11:32:32.554Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T11:32:31.116Z

@@ -2,7 +2,7 @@
 title: 039: Uso de Nest.js con AWS Lambda
 description: 
 published: true
-date: 2023-02-09T03:17:43.709Z
+date: 2023-02-09T03:17:45.418Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T03:17:43.709Z

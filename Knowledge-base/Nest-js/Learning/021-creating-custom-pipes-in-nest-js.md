@@ -2,7 +2,7 @@
 title: 021: Nest.js에서 커스텀 파이프 만들기
 description: 
 published: true
-date: 2023-02-15T02:32:17.104Z
+date: 2023-02-15T02:32:19.000Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T02:32:17.104Z

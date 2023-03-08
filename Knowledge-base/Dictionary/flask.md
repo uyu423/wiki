@@ -2,7 +2,7 @@
 title: Flask
 description: 
 published: true
-date: 2023-02-01T10:04:37.596Z
+date: 2023-02-01T10:04:39.028Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T10:04:37.596Z

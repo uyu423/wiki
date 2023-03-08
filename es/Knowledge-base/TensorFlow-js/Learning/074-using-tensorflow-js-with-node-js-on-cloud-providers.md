@@ -2,7 +2,7 @@
 title: 074: Uso de TensorFlow.js con Node.js en proveedores de la nube
 description: 
 published: true
-date: 2023-02-03T00:04:37.993Z
+date: 2023-02-03T00:04:39.645Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T00:04:37.993Z

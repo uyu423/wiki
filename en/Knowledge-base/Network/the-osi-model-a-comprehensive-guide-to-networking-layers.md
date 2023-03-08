@@ -2,7 +2,7 @@
 title: The OSI Model: A Comprehensive Guide to Networking Layers
 description: 
 published: true
-date: 2023-03-02T09:32:21.885Z
+date: 2023-03-02T09:32:23.799Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T09:32:21.885Z

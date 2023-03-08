@@ -2,8 +2,8 @@
 title: WSL2 Ubuntu에서 ffmpeg 컴파일 (with Nvidia Accelerator)
 description: 
 published: true
-date: 2023-02-19T11:14:04.964Z
-tags: cuda, ffmpeg, nvidia
+date: 2023-02-19T11:14:06.246Z
+tags: ffmpeg, nvidia, cuda
 editor: markdown
 dateCreated: 2023-02-19T11:04:04.971Z
 ---

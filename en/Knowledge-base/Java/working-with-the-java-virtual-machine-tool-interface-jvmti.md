@@ -2,7 +2,7 @@
 title: Working with the Java Virtual Machine Tool Interface (JVMTI)
 description: 
 published: true
-date: 2023-02-16T18:55:40.362Z
+date: 2023-02-16T18:55:42.499Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T18:55:40.362Z

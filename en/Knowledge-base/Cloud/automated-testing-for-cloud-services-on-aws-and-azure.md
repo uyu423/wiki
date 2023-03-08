@@ -2,7 +2,7 @@
 title: Automated Testing for Cloud Services on AWS and Azure
 description: 
 published: true
-date: 2023-02-19T06:32:13.437Z
+date: 2023-02-19T06:32:14.848Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T06:32:13.437Z

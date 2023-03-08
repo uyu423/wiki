@@ -2,7 +2,7 @@
 title: 084: Implementación de un proveedor de autenticación personalizado en Spring Boot
 description: 
 published: true
-date: 2023-02-05T14:32:24.489Z
+date: 2023-02-05T14:32:26.078Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T14:32:24.489Z

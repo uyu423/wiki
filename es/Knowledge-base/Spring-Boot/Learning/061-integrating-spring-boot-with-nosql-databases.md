@@ -2,7 +2,7 @@
 title: 061: Integración de Spring Boot con bases de datos NoSQL
 description: 
 published: true
-date: 2023-02-05T00:32:19.645Z
+date: 2023-02-05T00:32:21.220Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T00:32:19.645Z

@@ -2,7 +2,7 @@
 title: 019：在 Spring Boot 中创建和使用自定义配置
 description: 
 published: true
-date: 2023-02-03T11:32:30.807Z
+date: 2023-02-03T11:32:32.407Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T11:32:30.807Z

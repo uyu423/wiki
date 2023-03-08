@@ -2,7 +2,7 @@
 title: Oracle Corporation
 description: 
 published: true
-date: 2023-02-26T09:33:16.697Z
+date: 2023-02-26T09:33:18.044Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T09:33:16.697Z

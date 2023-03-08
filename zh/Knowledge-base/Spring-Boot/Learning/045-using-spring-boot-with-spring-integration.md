@@ -2,7 +2,7 @@
 title: 045：将 Spring Boot 与 Spring Integration 结合使用
 description: 
 published: true
-date: 2023-02-04T11:32:15.441Z
+date: 2023-02-04T11:32:17.052Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T11:32:15.441Z

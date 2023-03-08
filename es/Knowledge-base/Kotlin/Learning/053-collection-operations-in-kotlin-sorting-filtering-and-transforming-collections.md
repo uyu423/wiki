@@ -2,7 +2,7 @@
 title: 053: Operaciones de colección en Kotlin: ordenar, filtrar y transformar colecciones
 description: 
 published: true
-date: 2023-02-08T10:55:38.727Z
+date: 2023-02-08T10:55:40.371Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T10:55:38.727Z

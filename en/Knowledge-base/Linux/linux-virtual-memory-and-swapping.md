@@ -2,7 +2,7 @@
 title: Linux Virtual Memory and Swapping
 description: 
 published: true
-date: 2023-02-11T15:32:54.640Z
+date: 2023-02-11T15:32:56.909Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T15:32:54.640Z

@@ -2,7 +2,7 @@
 title: 마이크로서비스용 Spring Boot 및 Kubernetes
 description: 
 published: true
-date: 2023-02-01T09:43:27.714Z
+date: 2023-02-01T09:43:29.190Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T09:43:27.714Z

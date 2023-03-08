@@ -2,7 +2,7 @@
 title: Creación de una canalización de implementación para aplicaciones back-end
 description: 
 published: true
-date: 2023-02-11T23:17:23.788Z
+date: 2023-02-11T23:17:25.387Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T23:17:23.788Z

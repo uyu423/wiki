@@ -2,7 +2,7 @@
 title: Features of Kotlin
 description: 
 published: true
-date: 2022-12-24T19:22:21.726Z
+date: 2023-02-17T18:00:10.921Z
 tags: kotlin
 editor: markdown
 dateCreated: 2022-12-24T19:07:03.704Z

@@ -2,7 +2,7 @@
 title: Introducción a estructuras de datos y algoritmos
 description: 
 published: true
-date: 2023-02-17T00:55:16.353Z
+date: 2023-02-17T00:55:17.918Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T00:55:16.353Z

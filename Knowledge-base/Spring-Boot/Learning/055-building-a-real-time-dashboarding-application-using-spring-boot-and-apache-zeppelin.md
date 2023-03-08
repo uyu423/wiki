@@ -2,7 +2,7 @@
 title: 055: Spring Boot와 Apache Zeppelin을 사용하여 실시간 대시보드 애플리케이션 구축
 description: 
 published: true
-date: 2023-02-04T19:33:11.174Z
+date: 2023-02-04T19:33:12.989Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T19:33:11.174Z

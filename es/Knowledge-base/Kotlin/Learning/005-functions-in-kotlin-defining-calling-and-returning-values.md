@@ -2,7 +2,7 @@
 title: 005: Funciones en Kotlin: definición, llamada y devolución de valores
 description: 
 published: true
-date: 2023-02-16T02:32:22.071Z
+date: 2023-02-16T02:32:24.050Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T02:32:22.071Z

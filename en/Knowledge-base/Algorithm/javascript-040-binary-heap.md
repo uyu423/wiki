@@ -2,7 +2,7 @@
 title: [JavaScript] 040: Binary Heap
 description: 
 published: true
-date: 2023-02-10T18:32:34.939Z
+date: 2023-02-10T18:32:36.584Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T18:32:34.939Z

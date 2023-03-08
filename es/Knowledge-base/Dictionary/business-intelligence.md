@@ -2,7 +2,7 @@
 title: Business Intelligence
 description: 
 published: true
-date: 2023-02-13T12:17:55.232Z
+date: 2023-02-13T12:17:57.896Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T12:17:55.232Z

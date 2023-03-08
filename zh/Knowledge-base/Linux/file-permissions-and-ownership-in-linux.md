@@ -2,7 +2,7 @@
 title: Linux 中的文件权限和所有权
 description: 
 published: true
-date: 2023-02-11T08:32:23.258Z
+date: 2023-02-11T08:32:24.913Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T08:32:23.258Z

@@ -2,7 +2,7 @@
 title: CentOS Linux
 description: 
 published: true
-date: 2023-03-04T00:32:31.079Z
+date: 2023-03-04T00:32:32.551Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-04T00:32:31.079Z

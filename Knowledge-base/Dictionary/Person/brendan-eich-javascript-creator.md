@@ -2,7 +2,7 @@
 title: Brendan Eich (JavaScript Creator)
 description: 
 published: true
-date: 2023-03-02T00:32:27.189Z
+date: 2023-03-02T00:32:29.052Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T00:32:27.189Z

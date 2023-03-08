@@ -2,7 +2,7 @@
 title: 可访问性和 Web 内容可访问性指南 (WCAG) 的重要性
 description: 
 published: true
-date: 2023-02-01T00:24:36.969Z
+date: 2023-02-01T00:24:38.573Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T00:24:36.969Z

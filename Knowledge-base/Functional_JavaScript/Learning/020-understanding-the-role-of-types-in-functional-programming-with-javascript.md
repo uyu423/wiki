@@ -2,7 +2,7 @@
 title: 020: JavaScript를 사용한 함수형 프로그래밍에서 유형의 역할 이해
 description: 
 published: true
-date: 2023-02-17T16:32:44.927Z
+date: 2023-02-17T16:32:46.404Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T16:32:44.927Z

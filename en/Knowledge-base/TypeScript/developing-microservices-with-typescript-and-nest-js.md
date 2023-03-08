@@ -2,7 +2,7 @@
 title: Developing Microservices with TypeScript and Nest.js
 description: 
 published: true
-date: 2023-03-01T03:32:37.076Z
+date: 2023-03-01T03:32:38.802Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-01T03:32:37.076Z

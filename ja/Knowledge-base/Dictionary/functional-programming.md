@@ -2,7 +2,7 @@
 title: Functional Programming
 description: 
 published: true
-date: 2023-01-31T10:04:58.298Z
+date: 2023-01-31T10:04:59.897Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T10:04:58.298Z

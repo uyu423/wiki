@@ -2,7 +2,7 @@
 title: Object Storage, Block Storage, and File Storage for Backend
 description: 
 published: true
-date: 2023-02-18T17:32:35.040Z
+date: 2023-02-18T17:32:36.452Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T17:32:35.040Z

@@ -2,7 +2,7 @@
 title: Spring Boot开发中的工厂方法模式
 description: 
 published: true
-date: 2023-02-01T03:04:19.857Z
+date: 2023-02-01T03:04:21.418Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T03:04:19.857Z

@@ -2,7 +2,7 @@
 title: Waterfall Model
 description: 
 published: true
-date: 2023-01-31T22:05:02.007Z
+date: 2023-01-31T22:05:03.617Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T22:05:02.007Z

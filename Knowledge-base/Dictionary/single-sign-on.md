@@ -2,7 +2,7 @@
 title: Single Sign-On
 description: 
 published: true
-date: 2023-02-01T16:04:55.240Z
+date: 2023-02-01T16:04:56.843Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T16:04:55.240Z

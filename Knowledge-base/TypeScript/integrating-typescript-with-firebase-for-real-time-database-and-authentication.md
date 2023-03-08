@@ -2,7 +2,7 @@
 title: 실시간 데이터베이스 및 인증을 위해 TypeScript를 Firebase와 통합
 description: 
 published: true
-date: 2023-01-30T21:37:39.138Z
+date: 2023-02-17T18:14:30.607Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T21:37:39.138Z

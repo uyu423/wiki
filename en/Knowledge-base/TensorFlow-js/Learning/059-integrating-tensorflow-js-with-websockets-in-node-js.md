@@ -2,7 +2,7 @@
 title: 059: Integrating TensorFlow.js with WebSockets in Node.js
 description: 
 published: true
-date: 2023-02-02T20:44:11.380Z
+date: 2023-02-02T20:44:13.063Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T20:44:11.380Z

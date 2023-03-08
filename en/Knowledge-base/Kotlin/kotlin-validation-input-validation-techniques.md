@@ -2,7 +2,7 @@
 title: Kotlin Validation: Input Validation Techniques
 description: 
 published: true
-date: 2023-02-01T16:36:37.224Z
+date: 2023-02-01T16:36:39.604Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T16:36:37.224Z

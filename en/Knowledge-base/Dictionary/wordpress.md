@@ -2,7 +2,7 @@
 title: WordPress
 description: 
 published: true
-date: 2023-02-04T09:55:40.520Z
+date: 2023-02-04T09:55:42.547Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T09:55:40.520Z

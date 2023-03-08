@@ -2,7 +2,7 @@
 title: 043: Implementing a scheduled task in a Spring Boot application
 description: 
 published: true
-date: 2023-02-04T09:32:12.342Z
+date: 2023-02-04T09:32:13.984Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T09:32:12.342Z

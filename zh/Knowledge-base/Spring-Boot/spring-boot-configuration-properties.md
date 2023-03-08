@@ -2,7 +2,7 @@
 title: Spring Boot 配置属性
 description: 
 published: true
-date: 2023-02-01T21:23:38.943Z
+date: 2023-02-01T21:23:40.624Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T21:23:38.943Z

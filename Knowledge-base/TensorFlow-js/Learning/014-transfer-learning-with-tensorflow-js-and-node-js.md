@@ -2,7 +2,7 @@
 title: 014: TensorFlow.js 및 Node.js를 사용한 전이 학습
 description: 
 published: true
-date: 2023-02-02T10:04:39.809Z
+date: 2023-02-02T10:04:41.398Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T10:04:39.809Z

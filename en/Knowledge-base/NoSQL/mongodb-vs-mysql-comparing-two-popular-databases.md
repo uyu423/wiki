@@ -2,7 +2,7 @@
 title: MongoDB vs. MySQL: Comparing Two Popular Databases
 description: 
 published: true
-date: 2023-03-06T16:32:44.568Z
+date: 2023-03-06T16:32:45.964Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-06T16:32:44.568Z

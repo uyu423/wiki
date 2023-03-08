@@ -2,7 +2,7 @@
 title: 044: Descenso de gradiente con TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-02T17:18:32.060Z
+date: 2023-02-02T17:18:33.793Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T17:18:32.060Z

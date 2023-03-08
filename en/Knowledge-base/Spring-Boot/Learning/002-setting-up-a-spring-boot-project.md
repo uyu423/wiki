@@ -2,7 +2,7 @@
 title: 002: Setting up a Spring Boot project
 description: 
 published: true
-date: 2023-02-03T07:05:18.593Z
+date: 2023-02-03T07:05:20.341Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T07:05:18.593Z

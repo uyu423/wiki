@@ -2,7 +2,7 @@
 title: Amazon.com Inc.
 description: 
 published: true
-date: 2023-02-10T18:55:44.595Z
+date: 2023-02-10T18:55:46.885Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T18:55:44.595Z

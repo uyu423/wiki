@@ -2,7 +2,7 @@
 title: 060: Interoperabilidad con Java en Kotlin: trabajar sin problemas con código Java
 description: 
 published: true
-date: 2023-02-16T21:32:41.774Z
+date: 2023-02-16T21:32:44.029Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T21:32:41.774Z

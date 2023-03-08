@@ -2,7 +2,7 @@
 title: James Gosling (Java Creator)
 description: 
 published: true
-date: 2023-02-27T01:32:40.898Z
+date: 2023-02-27T01:32:42.302Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T01:32:40.898Z

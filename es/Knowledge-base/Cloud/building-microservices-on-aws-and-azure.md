@@ -2,7 +2,7 @@
 title: Creación de microservicios en AWS y Azure
 description: 
 published: true
-date: 2023-02-17T01:17:22.396Z
+date: 2023-02-17T01:17:23.997Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T01:17:22.396Z

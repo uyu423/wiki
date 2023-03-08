@@ -2,7 +2,7 @@
 title: Netflix OSS를 사용한 Spring Boot 마이크로서비스
 description: 
 published: true
-date: 2023-02-08T00:32:53.647Z
+date: 2023-02-08T00:32:55.345Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T00:32:53.647Z

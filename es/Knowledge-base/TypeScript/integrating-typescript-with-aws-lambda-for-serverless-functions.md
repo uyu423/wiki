@@ -2,7 +2,7 @@
 title: Integración de TypeScript con AWS Lambda para funciones sin servidor
 description: 
 published: true
-date: 2023-02-11T02:17:21.924Z
+date: 2023-02-11T02:17:23.605Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T02:17:21.924Z

@@ -2,7 +2,7 @@
 title: COBIT
 description: 
 published: true
-date: 2023-02-28T07:32:53.579Z
+date: 2023-02-28T07:32:54.917Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T07:32:53.579Z

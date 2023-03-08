@@ -2,7 +2,7 @@
 title: [C언어] 019: 이진 트리
 description: 
 published: true
-date: 2023-02-13T03:32:17.826Z
+date: 2023-02-13T03:32:20.103Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T03:32:17.826Z

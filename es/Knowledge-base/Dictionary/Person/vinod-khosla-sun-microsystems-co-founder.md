@@ -2,7 +2,7 @@
 title: Vinod Khosla (Sun Microsystems Co-founder)
 description: 
 published: true
-date: 2023-02-02T00:43:45.136Z
+date: 2023-02-02T00:43:47.072Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T00:43:45.136Z

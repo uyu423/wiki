@@ -2,7 +2,7 @@
 title: 096: TensorFlow.js 및 Node.js에서 게이트 반복 단위(GRU) 빌드
 description: 
 published: true
-date: 2023-02-03T05:37:59.459Z
+date: 2023-02-03T05:38:01.336Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T05:37:59.459Z

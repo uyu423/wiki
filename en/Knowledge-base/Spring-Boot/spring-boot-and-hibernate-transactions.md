@@ -2,7 +2,7 @@
 title: Spring Boot and Hibernate Transactions
 description: 
 published: true
-date: 2023-02-07T23:32:29.489Z
+date: 2023-02-07T23:32:31.147Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T23:32:29.489Z

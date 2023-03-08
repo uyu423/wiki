@@ -2,7 +2,7 @@
 title: The Benefits of Using the Memory Mapped File API
 description: 
 published: true
-date: 2023-02-09T10:55:45.591Z
+date: 2023-02-09T10:55:47.274Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T10:55:45.591Z

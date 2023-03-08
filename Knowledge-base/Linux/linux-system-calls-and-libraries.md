@@ -2,7 +2,7 @@
 title: Linux 시스템 호출 및 라이브러리
 description: 
 published: true
-date: 2023-02-09T11:56:05.592Z
+date: 2023-02-09T11:56:07.592Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T11:17:32.952Z

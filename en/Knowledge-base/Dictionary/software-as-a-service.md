@@ -2,7 +2,7 @@
 title: Software as a Service
 description: 
 published: true
-date: 2023-02-01T01:43:47.766Z
+date: 2023-02-01T01:43:49.384Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T01:43:47.766Z

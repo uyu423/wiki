@@ -2,7 +2,7 @@
 title: Two-Factor Authentication
 description: 
 published: true
-date: 2023-03-03T06:32:20.789Z
+date: 2023-03-03T06:32:22.151Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-03T06:32:20.789Z

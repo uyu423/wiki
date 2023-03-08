@@ -2,7 +2,7 @@
 title: Redis JSON Data Structures: Storing and Querying JSON Data in Redis
 description: 
 published: true
-date: 2023-03-07T22:32:53.849Z
+date: 2023-03-07T22:32:55.274Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T22:32:53.849Z

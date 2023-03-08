@@ -2,7 +2,7 @@
 title: Testing Backend Applications with Continuous Integration
 description: 
 published: true
-date: 2023-01-31T03:17:27.508Z
+date: 2023-01-31T03:17:29.122Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T03:17:27.508Z

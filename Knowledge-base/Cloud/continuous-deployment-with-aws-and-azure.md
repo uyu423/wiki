@@ -2,7 +2,7 @@
 title: AWS 및 Azure를 통한 지속적인 배포
 description: 
 published: true
-date: 2023-02-19T06:06:26.400Z
+date: 2023-02-19T06:06:27.793Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T06:06:26.400Z

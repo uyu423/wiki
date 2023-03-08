@@ -2,7 +2,7 @@
 title: TypeScript
 description: 
 published: true
-date: 2023-02-01T00:57:35.961Z
+date: 2023-02-01T00:57:37.596Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T00:57:35.961Z

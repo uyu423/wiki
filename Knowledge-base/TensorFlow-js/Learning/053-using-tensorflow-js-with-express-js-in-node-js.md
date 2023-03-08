@@ -2,7 +2,7 @@
 title: 053: Node.js에서 Express.js와 함께 TensorFlow.js 사용
 description: 
 published: true
-date: 2023-02-02T19:17:21.181Z
+date: 2023-02-02T19:17:22.832Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T19:17:21.181Z

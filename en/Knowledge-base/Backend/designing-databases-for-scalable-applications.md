@@ -2,7 +2,7 @@
 title: Designing Databases for Scalable Applications
 description: 
 published: true
-date: 2023-02-18T14:32:31.768Z
+date: 2023-02-18T14:32:33.159Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T14:32:31.768Z

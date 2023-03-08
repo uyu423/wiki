@@ -2,7 +2,7 @@
 title: 소프트웨어 개발 080: 사용자 인터페이스(UI) 설계
 description: 
 published: true
-date: 2023-03-05T04:32:28.953Z
+date: 2023-03-05T04:32:30.312Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T04:32:28.953Z

@@ -2,7 +2,7 @@
 title: 使用 Spring Boot Actuator 进行监控
 description: 
 published: true
-date: 2023-02-07T01:32:45.194Z
+date: 2023-02-07T01:32:46.884Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T01:32:45.194Z

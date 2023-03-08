@@ -2,7 +2,7 @@
 title: MySQL 성능 최적화: 비개발자를 위한 팁과 요령
 description: 
 published: true
-date: 2023-02-06T21:32:41.589Z
+date: 2023-02-06T21:32:43.222Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T21:32:41.589Z

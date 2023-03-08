@@ -2,7 +2,7 @@
 title: AWS QuickSight: Visualización y análisis de Big Data en la nube
 description: 
 published: true
-date: 2023-02-06T22:55:19.758Z
+date: 2023-02-06T22:55:21.503Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T22:55:19.758Z

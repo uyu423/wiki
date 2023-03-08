@@ -2,7 +2,7 @@
 title: Optimizing ffmpeg performance with Java
 description: Small tips for using ffmpeg in Java environment
 published: true
-date: 2023-01-25T13:32:50.862Z
+date: 2023-02-17T18:00:47.081Z
 tags: english, ffmpeg, java
 editor: markdown
 dateCreated: 2023-01-25T13:29:26.894Z

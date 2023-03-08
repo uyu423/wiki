@@ -2,7 +2,7 @@
 title: Kubernetes 확장 API: 클러스터의 기능 향상
 description: 
 published: true
-date: 2023-01-31T02:23:22.397Z
+date: 2023-02-17T18:17:22.513Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T02:23:22.397Z

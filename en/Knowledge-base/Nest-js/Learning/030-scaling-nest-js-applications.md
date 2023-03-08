@@ -2,7 +2,7 @@
 title: 030: Scaling Nest.js applications
 description: 
 published: true
-date: 2023-02-15T09:32:21.976Z
+date: 2023-02-15T09:32:23.702Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T09:32:21.976Z

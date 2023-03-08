@@ -2,7 +2,7 @@
 title: Kafka를 사용한 Spring Boot 및 이벤트 기반 아키텍처
 description: 
 published: true
-date: 2023-02-08T02:32:37.164Z
+date: 2023-02-08T02:32:38.737Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T02:32:37.164Z

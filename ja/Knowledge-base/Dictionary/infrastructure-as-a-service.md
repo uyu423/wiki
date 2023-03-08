@@ -2,7 +2,7 @@
 title: Infrastructure as a Service
 description: 
 published: true
-date: 2023-01-31T22:23:46.818Z
+date: 2023-01-31T22:23:48.380Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T22:23:46.818Z

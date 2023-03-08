@@ -2,7 +2,7 @@
 title: 060: Uso de TensorFlow.js con WebRTC en Node.js
 description: 
 published: true
-date: 2023-02-02T21:05:30.664Z
+date: 2023-02-02T21:05:32.406Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T21:05:30.664Z

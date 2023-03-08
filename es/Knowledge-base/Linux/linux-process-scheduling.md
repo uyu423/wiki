@@ -2,7 +2,7 @@
 title: Programación de procesos de Linux
 description: 
 published: true
-date: 2023-02-11T13:32:44.899Z
+date: 2023-02-11T13:32:46.637Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T13:32:44.899Z

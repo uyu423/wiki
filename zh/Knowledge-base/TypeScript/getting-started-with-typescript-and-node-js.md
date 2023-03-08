@@ -2,7 +2,7 @@
 title: 开始使用 TypeScript 和 Node.js
 description: 
 published: true
-date: 2023-02-01T10:57:22.329Z
+date: 2023-02-01T10:57:23.771Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T10:57:22.329Z

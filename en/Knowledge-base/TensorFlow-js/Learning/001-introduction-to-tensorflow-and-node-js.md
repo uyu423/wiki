@@ -2,7 +2,7 @@
 title: 001: Introduction to TensorFlow and Node.js
 description: 
 published: true
-date: 2023-02-02T07:04:19.892Z
+date: 2023-02-02T07:04:21.613Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T07:04:19.892Z

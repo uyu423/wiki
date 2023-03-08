@@ -2,7 +2,7 @@
 title: 014: 안전한 코드를 위해 JavaScript로 순수 함수 작성
 description: 
 published: true
-date: 2023-02-17T13:32:36.128Z
+date: 2023-02-17T13:32:37.445Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T13:32:36.128Z

@@ -2,7 +2,7 @@
 title: Managing Stateful Applications on AWS and Azure
 description: 
 published: true
-date: 2023-02-15T16:17:21.596Z
+date: 2023-02-15T16:17:23.641Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T16:17:21.596Z

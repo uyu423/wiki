@@ -2,7 +2,7 @@
 title: [C언어] 016: 이중 연결 리스트
 description: 
 published: true
-date: 2023-02-11T21:18:14.575Z
+date: 2023-02-11T21:18:16.259Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T21:18:14.575Z

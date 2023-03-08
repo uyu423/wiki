@@ -2,7 +2,7 @@
 title: Redis RediSearch: A Full-Text Search Solution for Redis
 description: 
 published: true
-date: 2023-03-04T05:32:32.329Z
+date: 2023-03-04T05:32:33.715Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-04T05:32:32.329Z

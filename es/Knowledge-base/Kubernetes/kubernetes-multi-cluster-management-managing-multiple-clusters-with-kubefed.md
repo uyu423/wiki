@@ -2,7 +2,7 @@
 title: Gestión de varios clústeres de Kubernetes: gestión de varios clústeres con kubefed
 description: 
 published: true
-date: 2023-02-14T04:32:29.983Z
+date: 2023-02-14T04:32:31.803Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T04:32:29.983Z

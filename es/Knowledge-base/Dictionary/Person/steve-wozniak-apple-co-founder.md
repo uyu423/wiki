@@ -2,7 +2,7 @@
 title: Steve Wozniak (Apple Co-founder)
 description: 
 published: true
-date: 2023-02-03T17:17:51.525Z
+date: 2023-02-03T17:17:53.468Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:17:51.525Z

@@ -2,7 +2,7 @@
 title: Recolectores de basura de baja pausa de Java: comprensión de G1GC
 description: 
 published: true
-date: 2023-02-13T07:17:25.027Z
+date: 2023-02-13T07:17:26.605Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T07:17:25.027Z

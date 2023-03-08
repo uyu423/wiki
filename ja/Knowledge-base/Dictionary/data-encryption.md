@@ -2,7 +2,7 @@
 title: Data Encryption
 description: 
 published: true
-date: 2023-02-15T18:56:42.100Z
+date: 2023-02-15T18:56:44.379Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T18:56:42.100Z

@@ -2,7 +2,7 @@
 title: Spring Boot 개발의 어댑터 패턴
 description: 
 published: true
-date: 2023-02-01T18:18:11.344Z
+date: 2023-02-01T18:18:12.993Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T18:18:11.344Z

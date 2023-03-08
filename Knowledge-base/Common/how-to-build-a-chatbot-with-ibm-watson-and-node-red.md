@@ -2,7 +2,7 @@
 title: IBM Watson 및 Node-RED로 챗봇을 구축하는 방법
 description: 
 published: true
-date: 2023-02-24T07:33:16.672Z
+date: 2023-02-24T07:33:18.047Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-24T07:33:16.672Z

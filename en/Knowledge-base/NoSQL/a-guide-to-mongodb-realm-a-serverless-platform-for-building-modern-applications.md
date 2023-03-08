@@ -2,7 +2,7 @@
 title: A Guide to MongoDB Realm: A Serverless Platform for Building Modern Applications
 description: 
 published: true
-date: 2023-03-07T21:33:02.419Z
+date: 2023-03-07T21:33:03.915Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T21:33:02.419Z

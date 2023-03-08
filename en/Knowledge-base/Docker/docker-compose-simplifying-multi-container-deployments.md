@@ -2,7 +2,7 @@
 title: Docker Compose: Simplifying Multi-Container Deployments
 description: 
 published: true
-date: 2023-02-01T12:57:38.042Z
+date: 2023-02-01T12:57:39.505Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T12:57:38.042Z

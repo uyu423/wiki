@@ -2,7 +2,7 @@
 title: Desarrollo de Software 051: Análisis de Series Temporales
 description: 
 published: true
-date: 2023-02-04T05:55:28.414Z
+date: 2023-02-04T05:55:30.081Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T05:55:28.414Z

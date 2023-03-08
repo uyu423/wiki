@@ -2,7 +2,7 @@
 title: 038: TensorFlow.js 및 Node.js를 사용한 데이터 전처리
 description: 
 published: true
-date: 2023-02-02T15:43:29.356Z
+date: 2023-02-02T15:43:30.920Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T15:43:29.356Z

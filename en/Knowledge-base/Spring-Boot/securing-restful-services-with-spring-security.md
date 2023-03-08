@@ -2,7 +2,7 @@
 title: Securing RESTful Services with Spring Security
 description: 
 published: true
-date: 2023-02-06T23:32:21.942Z
+date: 2023-02-06T23:32:23.588Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T23:32:21.942Z

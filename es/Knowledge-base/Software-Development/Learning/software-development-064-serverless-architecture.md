@@ -2,7 +2,7 @@
 title: Desarrollo de software 064: arquitectura sin servidor
 description: 
 published: true
-date: 2023-02-16T17:55:52.727Z
+date: 2023-02-16T17:55:54.773Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T17:55:52.727Z

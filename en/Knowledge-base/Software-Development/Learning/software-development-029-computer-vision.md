@@ -2,7 +2,7 @@
 title: Software Development 029: Computer Vision
 description: 
 published: true
-date: 2023-03-01T00:32:15.526Z
+date: 2023-03-01T00:32:16.889Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-01T00:32:15.526Z

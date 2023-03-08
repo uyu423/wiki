@@ -2,7 +2,7 @@
 title: Spring Initializer: Jumpstarting Your Project
 description: 
 published: true
-date: 2023-02-04T23:55:14.549Z
+date: 2023-02-04T23:55:16.224Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T23:55:14.549Z

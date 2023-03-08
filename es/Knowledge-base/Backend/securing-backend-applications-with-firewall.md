@@ -2,7 +2,7 @@
 title: Protección de aplicaciones back-end con cortafuegos
 description: 
 published: true
-date: 2023-02-14T15:56:57.705Z
+date: 2023-02-14T15:57:00.019Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T15:56:57.705Z

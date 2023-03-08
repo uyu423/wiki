@@ -2,7 +2,7 @@
 title: 윈도우 탐색기에서 SFTP 폴더 사용하기
 description: 
 published: true
-date: 2023-02-19T11:46:16.253Z
+date: 2023-02-19T11:46:17.565Z
 tags: sftp, windows
 editor: markdown
 dateCreated: 2023-02-19T11:44:01.082Z

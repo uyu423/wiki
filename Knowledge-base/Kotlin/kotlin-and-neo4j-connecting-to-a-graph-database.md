@@ -2,7 +2,7 @@
 title: Kotlin 및 Neo4j: 그래프 데이터베이스에 연결
 description: 
 published: true
-date: 2023-02-18T09:06:19.365Z
+date: 2023-02-18T09:06:20.776Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T09:06:19.365Z

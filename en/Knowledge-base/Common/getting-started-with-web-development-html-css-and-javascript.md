@@ -2,7 +2,7 @@
 title: Getting Started with Web Development: HTML, CSS, and JavaScript
 description: 
 published: true
-date: 2023-02-15T19:55:59.774Z
+date: 2023-02-15T19:56:01.680Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T19:55:59.774Z

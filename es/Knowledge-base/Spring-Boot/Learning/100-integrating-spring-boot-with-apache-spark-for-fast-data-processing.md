@@ -2,7 +2,7 @@
 title: 100: Integración de Spring Boot con Apache Spark para un procesamiento rápido de datos
 description: 
 published: true
-date: 2023-02-06T04:32:28.732Z
+date: 2023-02-06T04:32:30.358Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T04:32:28.732Z

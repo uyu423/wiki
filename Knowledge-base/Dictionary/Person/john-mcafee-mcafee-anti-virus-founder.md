@@ -2,7 +2,7 @@
 title: John McAfee (McAfee Anti-Virus Founder)
 description: 
 published: true
-date: 2023-03-01T06:32:31.535Z
+date: 2023-03-01T06:32:32.884Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-01T06:32:31.535Z

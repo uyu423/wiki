@@ -2,7 +2,7 @@
 title: Kotlin and IntelliJ: A Guide to the Kotlin Development Environment
 description: 
 published: true
-date: 2023-02-01T12:23:37.497Z
+date: 2023-02-01T12:23:38.993Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T12:23:37.497Z

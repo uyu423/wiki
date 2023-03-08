@@ -2,7 +2,7 @@
 title: Industrial Design
 description: 
 published: true
-date: 2023-02-11T03:17:38.036Z
+date: 2023-02-11T03:17:39.849Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T03:17:38.036Z

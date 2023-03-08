@@ -2,7 +2,7 @@
 title: Managing Processes in Linux
 description: 
 published: true
-date: 2023-02-11T07:32:27.730Z
+date: 2023-02-11T07:32:29.538Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T07:32:27.730Z

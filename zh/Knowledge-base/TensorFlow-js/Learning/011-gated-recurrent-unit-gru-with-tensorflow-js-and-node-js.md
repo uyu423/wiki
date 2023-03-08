@@ -2,7 +2,7 @@
 title: 011：使用 TensorFlow.js 和 Node.js 的门控循环单元 (GRU)
 description: 
 published: true
-date: 2023-02-02T09:17:20.860Z
+date: 2023-02-02T09:17:22.444Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T09:17:20.860Z

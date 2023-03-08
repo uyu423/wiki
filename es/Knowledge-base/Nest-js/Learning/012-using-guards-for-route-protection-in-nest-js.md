@@ -2,7 +2,7 @@
 title: 012: uso de guardias para la protección de rutas en Nest.js
 description: 
 published: true
-date: 2023-02-14T22:32:12.576Z
+date: 2023-02-14T22:32:14.192Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T22:32:12.576Z

@@ -2,7 +2,7 @@
 title: Embedded Systems
 description: 
 published: true
-date: 2023-01-31T07:05:00.452Z
+date: 2023-01-31T07:05:02.022Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T07:05:00.452Z

@@ -2,7 +2,7 @@
 title: [JavaScript] 022: Trio
 description: 
 published: true
-date: 2023-02-10T00:32:30.716Z
+date: 2023-02-10T00:32:32.374Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T00:32:30.716Z

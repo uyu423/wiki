@@ -2,7 +2,7 @@
 title: 실제 세계의 MySQL: 고객 세분화 및 제품 분석을 위한 사례 연구
 description: 
 published: true
-date: 2023-02-06T20:32:16.414Z
+date: 2023-02-06T20:32:18.008Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T20:32:16.414Z

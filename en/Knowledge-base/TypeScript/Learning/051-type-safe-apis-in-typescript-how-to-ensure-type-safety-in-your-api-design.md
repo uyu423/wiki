@@ -2,7 +2,7 @@
 title: 051: Type-Safe APIs in TypeScript: How to Ensure Type Safety in Your API Design
 description: 
 published: true
-date: 2023-03-03T15:32:25.562Z
+date: 2023-03-03T15:32:26.914Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-03T15:32:25.562Z

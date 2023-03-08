@@ -2,7 +2,7 @@
 title: Cómo construir un sitio web receptivo con Bootstrap
 description: 
 published: true
-date: 2023-02-13T01:55:16.635Z
+date: 2023-02-13T01:55:18.229Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T01:55:16.635Z

@@ -2,7 +2,7 @@
 title: 065: 메시징을 위해 Spring Boot와 RabbitMQ 통합
 description: 
 published: true
-date: 2023-02-03T19:55:28.245Z
+date: 2023-02-03T19:55:29.964Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T19:55:28.245Z

@@ -2,7 +2,7 @@
 title: Uso de alias de tipo en Kotlin
 description: 
 published: true
-date: 2023-02-08T12:17:15.703Z
+date: 2023-02-08T12:17:17.403Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T12:17:15.703Z

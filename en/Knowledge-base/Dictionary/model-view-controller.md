@@ -2,7 +2,7 @@
 title: Model-View-Controller
 description: 
 published: true
-date: 2023-02-26T21:32:34.724Z
+date: 2023-02-26T21:32:38.397Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T21:32:34.724Z

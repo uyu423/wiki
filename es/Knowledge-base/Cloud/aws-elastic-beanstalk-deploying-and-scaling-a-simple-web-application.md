@@ -2,7 +2,7 @@
 title: AWS Elastic Beanstalk: implementación y escalado de una aplicación web simple
 description: 
 published: true
-date: 2023-02-09T12:18:10.842Z
+date: 2023-02-09T12:18:12.620Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T12:18:10.842Z

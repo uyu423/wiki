@@ -2,7 +2,7 @@
 title: Software Requirements
 description: 
 published: true
-date: 2023-02-25T01:32:29.431Z
+date: 2023-02-25T01:32:30.782Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-25T01:32:29.431Z

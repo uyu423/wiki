@@ -2,7 +2,7 @@
 title: Framework
 description: 
 published: true
-date: 2023-02-11T04:17:42.874Z
+date: 2023-02-11T04:17:45.165Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T04:17:42.874Z

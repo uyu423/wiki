@@ -2,7 +2,7 @@
 title: 054: Creación de API REST con TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-02T19:36:25.588Z
+date: 2023-02-02T19:36:27.280Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T19:36:25.588Z

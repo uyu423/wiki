@@ -2,7 +2,7 @@
 title: 동적 구성을 위해 Java의 서비스 공급자 인터페이스 사용
 description: 
 published: true
-date: 2023-03-01T07:32:11.669Z
+date: 2023-03-01T07:32:13.027Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-01T07:32:11.669Z

@@ -2,7 +2,7 @@
 title: 062: The Singleton Pattern in Kotlin: Ensuring Only One Instance of a Class Exists
 description: 
 published: true
-date: 2023-02-16T23:32:18.302Z
+date: 2023-02-16T23:32:20.281Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T23:32:18.302Z

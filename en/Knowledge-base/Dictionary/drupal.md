@@ -2,7 +2,7 @@
 title: Drupal
 description: 
 published: true
-date: 2023-03-05T01:32:29.246Z
+date: 2023-03-05T01:32:30.624Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T01:32:29.246Z

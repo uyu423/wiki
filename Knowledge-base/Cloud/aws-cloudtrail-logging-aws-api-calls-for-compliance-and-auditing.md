@@ -2,7 +2,7 @@
 title: AWS CloudTrail: 규정 준수 및 감사를 위해 AWS API 호출 로깅
 description: 
 published: true
-date: 2023-02-05T07:56:01.428Z
+date: 2023-02-05T07:56:03.204Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T07:56:01.428Z

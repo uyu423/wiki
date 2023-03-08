@@ -2,7 +2,7 @@
 title: AWS DynamoDB: NoSQL 데이터베이스 생성 및 웹 애플리케이션과 통합
 description: 
 published: true
-date: 2023-02-19T01:07:34.628Z
+date: 2023-02-19T01:07:36.077Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T01:07:34.628Z

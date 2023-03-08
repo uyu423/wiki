@@ -2,7 +2,7 @@
 title: Desarrollo de Software 032: Aprendizaje Profundo
 description: 
 published: true
-date: 2023-02-03T22:17:21.384Z
+date: 2023-02-03T22:17:22.981Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T22:17:21.384Z

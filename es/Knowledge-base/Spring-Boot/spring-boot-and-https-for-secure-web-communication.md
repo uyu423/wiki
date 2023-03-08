@@ -2,7 +2,7 @@
 title: Spring Boot y HTTPS para una comunicación web segura
 description: 
 published: true
-date: 2023-02-07T00:17:18.464Z
+date: 2023-02-07T00:17:20.074Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T00:17:18.464Z

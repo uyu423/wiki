@@ -2,7 +2,7 @@
 title: El patrón de fachada en el desarrollo de Spring Boot
 description: 
 published: true
-date: 2023-02-06T07:17:45.139Z
+date: 2023-02-06T07:17:46.805Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T07:17:45.139Z

@@ -2,7 +2,7 @@
 title: 015: Understanding the benefits of immutability in JavaScript
 description: 
 published: true
-date: 2023-02-17T14:06:34.577Z
+date: 2023-02-17T14:06:35.914Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T14:06:34.577Z

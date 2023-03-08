@@ -2,7 +2,7 @@
 title: 019: Clases de datos en Kotlin: generación automática de métodos Equals, HashCode y ToString
 description: 
 published: true
-date: 2023-02-12T01:55:21.802Z
+date: 2023-02-12T01:55:23.425Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T01:55:21.802Z

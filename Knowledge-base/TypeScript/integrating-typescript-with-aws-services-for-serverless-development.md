@@ -2,7 +2,7 @@
 title: 서버리스 개발을 위해 TypeScript를 AWS 서비스와 통합
 description: 
 published: true
-date: 2023-02-15T15:56:15.437Z
+date: 2023-02-15T15:56:17.445Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T15:56:15.437Z

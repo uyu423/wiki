@@ -2,7 +2,7 @@
 title: Product Management
 description: 
 published: true
-date: 2023-01-31T20:43:47.560Z
+date: 2023-01-31T20:43:49.149Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T20:43:47.560Z

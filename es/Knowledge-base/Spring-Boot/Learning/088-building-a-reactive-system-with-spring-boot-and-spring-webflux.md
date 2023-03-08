@@ -2,7 +2,7 @@
 title: 088: Creación de un sistema reactivo con Spring Boot y Spring WebFlux
 description: 
 published: true
-date: 2023-02-05T18:32:31.613Z
+date: 2023-02-05T18:32:33.224Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T18:32:31.613Z

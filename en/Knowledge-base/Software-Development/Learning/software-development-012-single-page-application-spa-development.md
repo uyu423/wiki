@@ -2,7 +2,7 @@
 title: Software Development 012: Single Page Application (SPA) Development
 description: 
 published: true
-date: 2023-02-23T06:32:15.573Z
+date: 2023-02-23T06:32:16.918Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-23T06:32:15.573Z

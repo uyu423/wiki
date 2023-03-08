@@ -2,7 +2,7 @@
 title: The Future of Artificial Intelligence (AI) in Manufacturing
 description: 
 published: true
-date: 2023-03-01T15:32:17.430Z
+date: 2023-03-01T15:32:18.791Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-01T15:32:17.430Z

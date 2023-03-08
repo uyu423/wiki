@@ -2,7 +2,7 @@
 title: 035: TypeScript의 네임스페이스 대 모듈: 차이점 이해 및 사용 시기
 description: 
 published: true
-date: 2023-03-05T09:32:38.737Z
+date: 2023-03-05T09:32:40.095Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T09:32:38.737Z

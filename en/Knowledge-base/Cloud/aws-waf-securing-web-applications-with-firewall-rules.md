@@ -2,7 +2,7 @@
 title: AWS WAF: Securing Web Applications with Firewall Rules
 description: 
 published: true
-date: 2023-01-31T15:57:39.160Z
+date: 2023-01-31T15:57:40.794Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T15:57:39.160Z

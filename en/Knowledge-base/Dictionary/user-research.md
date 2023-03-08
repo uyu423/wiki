@@ -2,7 +2,7 @@
 title: User Research
 description: 
 published: true
-date: 2023-01-30T14:43:43.183Z
+date: 2023-02-17T18:05:52.454Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T14:43:43.183Z

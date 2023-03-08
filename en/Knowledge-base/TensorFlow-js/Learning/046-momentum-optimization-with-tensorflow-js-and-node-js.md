@@ -2,7 +2,7 @@
 title: 046: Momentum Optimization with TensorFlow.js and Node.js
 description: 
 published: true
-date: 2023-02-02T17:43:28.649Z
+date: 2023-02-02T17:43:30.380Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T17:43:28.649Z

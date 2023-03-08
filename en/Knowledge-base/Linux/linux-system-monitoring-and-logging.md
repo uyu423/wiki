@@ -2,7 +2,7 @@
 title: Linux System Monitoring and Logging
 description: 
 published: true
-date: 2023-02-12T10:32:13.963Z
+date: 2023-02-12T10:32:15.614Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T10:32:13.963Z

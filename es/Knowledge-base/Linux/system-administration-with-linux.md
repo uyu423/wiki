@@ -2,7 +2,7 @@
 title: Administración de sistemas con Linux
 description: 
 published: true
-date: 2023-02-11T11:32:20.720Z
+date: 2023-02-11T11:32:22.332Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T11:32:20.720Z

@@ -2,7 +2,7 @@
 title: Kubernetes con gVisor: mejora de la seguridad de los contenedores con un tiempo de ejecución en espacio aislado
 description: 
 published: true
-date: 2023-02-14T11:33:08.990Z
+date: 2023-02-14T11:33:10.643Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T11:33:08.990Z

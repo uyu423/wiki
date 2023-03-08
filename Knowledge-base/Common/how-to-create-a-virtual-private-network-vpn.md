@@ -2,7 +2,7 @@
 title: VPN(가상 사설망)을 만드는 방법
 description: 
 published: true
-date: 2023-01-31T07:23:46.166Z
+date: 2023-01-31T07:23:47.490Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T06:57:45.096Z

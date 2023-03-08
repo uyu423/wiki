@@ -2,7 +2,7 @@
 title: 014: Kotlin의 확장 기능: 추가 기능으로 클래스 향상
 description: 
 published: true
-date: 2023-01-31T16:57:23.408Z
+date: 2023-01-31T16:57:24.979Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T16:57:23.408Z

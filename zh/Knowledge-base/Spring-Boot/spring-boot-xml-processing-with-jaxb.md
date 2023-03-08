@@ -2,7 +2,7 @@
 title: 使用 JAXB 进行 Spring Boot XML 处理
 description: 
 published: true
-date: 2023-02-03T05:58:43.289Z
+date: 2023-02-03T05:58:44.955Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T05:58:43.289Z

@@ -2,7 +2,7 @@
 title: MySQL 09: mejores prácticas para optimizar el rendimiento y la escalabilidad de SQL
 description: 
 published: true
-date: 2023-02-06T15:32:43.201Z
+date: 2023-02-06T15:32:44.897Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T15:32:43.201Z

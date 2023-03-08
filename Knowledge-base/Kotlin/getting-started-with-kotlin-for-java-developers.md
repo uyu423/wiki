@@ -2,7 +2,7 @@
 title: 자바 개발자를 위한 Kotlin 시작하기
 description: 
 published: true
-date: 2023-02-05T06:55:15.718Z
+date: 2023-02-05T06:55:17.309Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T06:55:15.718Z

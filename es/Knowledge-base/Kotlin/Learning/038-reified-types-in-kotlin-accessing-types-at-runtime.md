@@ -2,7 +2,7 @@
 title: 038: Tipos cosificados en Kotlin: Acceso a tipos en tiempo de ejecución
 description: 
 published: true
-date: 2023-02-02T01:57:37.405Z
+date: 2023-02-02T01:57:39.033Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T01:57:37.405Z

@@ -2,7 +2,7 @@
 title: Arranque de primavera con MongoDB
 description: 
 published: true
-date: 2023-02-07T10:32:34.922Z
+date: 2023-02-07T10:32:36.629Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T10:32:34.922Z

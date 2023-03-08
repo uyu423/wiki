@@ -2,7 +2,7 @@
 title: AWS Route 53: 클라우드에서 확장 가능하고 탄력적인 DNS 시스템 구축
 description: 
 published: true
-date: 2023-02-06T00:55:52.142Z
+date: 2023-02-06T00:55:53.727Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T00:55:52.142Z

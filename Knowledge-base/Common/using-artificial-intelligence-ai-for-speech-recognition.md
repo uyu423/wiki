@@ -2,7 +2,7 @@
 title: 음성 인식에 인공 지능(AI) 사용
 description: 
 published: true
-date: 2023-02-23T10:32:36.550Z
+date: 2023-02-23T10:32:37.913Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-23T10:32:36.550Z

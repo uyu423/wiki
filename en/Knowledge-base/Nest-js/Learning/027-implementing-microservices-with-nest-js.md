@@ -2,7 +2,7 @@
 title: 027: Implementing microservices with Nest.js
 description: 
 published: true
-date: 2023-02-15T07:32:27.453Z
+date: 2023-02-15T07:32:29.448Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T07:32:27.453Z

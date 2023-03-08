@@ -2,7 +2,7 @@
 title: 011: Implementing authentication in Nest.js
 description: 
 published: true
-date: 2023-02-14T21:32:46.280Z
+date: 2023-02-14T21:32:48.365Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T21:32:46.280Z

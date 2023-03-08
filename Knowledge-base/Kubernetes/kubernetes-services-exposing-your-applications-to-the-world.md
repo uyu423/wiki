@@ -2,7 +2,7 @@
 title: Kubernetes Services: 애플리케이션을 전 세계에 노출
 description: 
 published: true
-date: 2023-02-06T08:55:26.478Z
+date: 2023-02-06T08:55:28.070Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T08:55:26.478Z

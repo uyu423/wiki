@@ -2,7 +2,7 @@
 title: Technical Requirements
 description: 
 published: true
-date: 2023-01-30T20:04:49.042Z
+date: 2023-02-17T18:13:06.664Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T20:04:49.042Z

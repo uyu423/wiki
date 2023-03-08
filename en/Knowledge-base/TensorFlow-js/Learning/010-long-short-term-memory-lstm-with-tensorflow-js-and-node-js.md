@@ -2,7 +2,7 @@
 title: 010: Long Short-Term Memory (LSTM) with TensorFlow.js and Node.js
 description: 
 published: true
-date: 2023-02-02T09:04:24.716Z
+date: 2023-02-02T09:04:26.359Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T09:04:24.716Z

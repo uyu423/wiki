@@ -2,7 +2,7 @@
 title: NHN Entertainment Corporation (South Korea)
 description: 
 published: true
-date: 2023-03-07T17:32:45.851Z
+date: 2023-03-07T17:32:47.266Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T17:32:45.851Z

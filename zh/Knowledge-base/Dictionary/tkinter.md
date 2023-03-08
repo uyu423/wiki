@@ -2,7 +2,7 @@
 title: Tkinter
 description: 
 published: true
-date: 2023-02-07T16:56:20.515Z
+date: 2023-02-07T16:56:22.631Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T16:56:20.515Z

@@ -2,7 +2,7 @@
 title: Integrating TypeScript with Stripe for Payments
 description: 
 published: true
-date: 2023-02-05T01:55:42.294Z
+date: 2023-02-05T01:55:44.030Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T01:55:42.294Z

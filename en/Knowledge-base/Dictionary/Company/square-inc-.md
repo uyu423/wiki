@@ -2,7 +2,7 @@
 title: Square, Inc.
 description: 
 published: true
-date: 2023-02-28T01:32:57.098Z
+date: 2023-02-28T01:32:58.484Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T01:32:57.098Z

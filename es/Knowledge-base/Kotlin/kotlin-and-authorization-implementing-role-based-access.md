@@ -2,7 +2,7 @@
 title: Kotlin y la autorización: implementación del acceso basado en roles
 description: 
 published: true
-date: 2023-02-05T20:55:19.869Z
+date: 2023-02-05T20:55:21.479Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T20:55:19.869Z

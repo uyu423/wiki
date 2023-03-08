@@ -2,7 +2,7 @@
 title: 005: Routing and controllers in Nest.js
 description: 
 published: true
-date: 2023-02-14T16:32:24.579Z
+date: 2023-02-14T16:32:26.679Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T16:32:24.579Z

@@ -2,7 +2,7 @@
 title: 012: Interfaces in Kotlin: Implementing Multiple Inheritance
 description: 
 published: true
-date: 2023-01-31T05:42:53.572Z
+date: 2023-01-31T05:42:55.217Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T05:42:53.572Z

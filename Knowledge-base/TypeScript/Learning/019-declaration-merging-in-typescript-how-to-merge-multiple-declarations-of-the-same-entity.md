@@ -2,7 +2,7 @@
 title: 019: TypeScript에서 선언 병합: 동일한 엔티티의 여러 선언을 병합하는 방법
 description: 
 published: true
-date: 2023-03-04T15:32:32.182Z
+date: 2023-03-04T15:32:33.534Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-04T15:32:32.182Z

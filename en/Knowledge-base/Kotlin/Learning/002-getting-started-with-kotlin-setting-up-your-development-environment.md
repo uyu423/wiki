@@ -2,7 +2,7 @@
 title: 002: Getting Started with Kotlin: Setting up Your Development Environment
 description: 
 published: true
-date: 2023-02-16T00:32:59.913Z
+date: 2023-02-16T00:33:02.726Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T00:32:59.913Z

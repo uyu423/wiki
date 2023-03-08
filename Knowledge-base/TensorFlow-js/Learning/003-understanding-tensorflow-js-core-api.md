@@ -2,7 +2,7 @@
 title: 003: TensorFlow.js 핵심 API 이해하기
 description: 
 published: true
-date: 2023-02-02T07:23:26.577Z
+date: 2023-02-02T07:23:28.188Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T07:23:26.577Z

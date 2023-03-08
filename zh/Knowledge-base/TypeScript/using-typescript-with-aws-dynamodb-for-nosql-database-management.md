@@ -2,7 +2,7 @@
 title: 使用 TypeScript 和 AWS DynamoDB 进行 NoSQL 数据库管理
 description: 
 published: true
-date: 2023-01-31T21:04:47.788Z
+date: 2023-01-31T21:04:49.405Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T21:04:47.788Z

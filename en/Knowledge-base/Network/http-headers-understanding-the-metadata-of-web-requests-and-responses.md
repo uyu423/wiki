@@ -2,7 +2,7 @@
 title: HTTP Headers: Understanding the Metadata of Web Requests and Responses
 description: 
 published: true
-date: 2023-03-07T23:32:36.413Z
+date: 2023-03-07T23:32:37.817Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T23:32:36.413Z

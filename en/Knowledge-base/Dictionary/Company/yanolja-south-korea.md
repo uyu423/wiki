@@ -2,7 +2,7 @@
 title: Yanolja (South Korea)
 description: 
 published: true
-date: 2023-02-02T06:10:32.494Z
+date: 2023-02-02T06:10:33.789Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T06:09:05.813Z

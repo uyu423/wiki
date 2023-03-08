@@ -2,7 +2,7 @@
 title: Vue.js
 description: 
 published: true
-date: 2023-02-07T23:55:34.996Z
+date: 2023-02-07T23:55:36.938Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T23:55:34.996Z

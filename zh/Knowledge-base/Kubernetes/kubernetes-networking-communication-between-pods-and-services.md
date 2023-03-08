@@ -2,7 +2,7 @@
 title: Kubernetes 网络：Pod 和服务之间的通信
 description: 
 published: true
-date: 2023-02-08T20:32:14.553Z
+date: 2023-02-08T20:32:16.122Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T20:32:14.553Z

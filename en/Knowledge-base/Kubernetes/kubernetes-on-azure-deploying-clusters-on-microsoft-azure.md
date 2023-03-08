@@ -2,7 +2,7 @@
 title: Kubernetes on Azure: Deploying Clusters on Microsoft Azure
 description: 
 published: true
-date: 2023-02-01T16:17:58.187Z
+date: 2023-02-01T16:17:59.813Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T16:17:58.187Z

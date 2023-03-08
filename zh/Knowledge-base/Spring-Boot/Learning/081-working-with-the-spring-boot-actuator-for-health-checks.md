@@ -2,7 +2,7 @@
 title: 081：使用 Spring Boot Actuator 进行健康检查
 description: 
 published: true
-date: 2023-02-05T12:32:16.946Z
+date: 2023-02-05T12:32:18.494Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T12:32:16.946Z

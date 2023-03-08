@@ -2,7 +2,7 @@
 title: 029：将 Nest.js 应用程序部署到生产环境
 description: 
 published: true
-date: 2023-02-09T18:17:33.930Z
+date: 2023-02-09T18:17:35.617Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T18:17:33.930Z

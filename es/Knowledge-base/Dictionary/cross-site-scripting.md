@@ -2,7 +2,7 @@
 title: Cross-Site Scripting
 description: 
 published: true
-date: 2023-02-16T20:55:34.826Z
+date: 2023-02-16T20:55:37.408Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T20:55:34.826Z

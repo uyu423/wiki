@@ -2,7 +2,7 @@
 title: Video Marketing
 description: 
 published: true
-date: 2023-02-10T09:56:05.586Z
+date: 2023-02-10T09:56:07.373Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T09:56:05.586Z

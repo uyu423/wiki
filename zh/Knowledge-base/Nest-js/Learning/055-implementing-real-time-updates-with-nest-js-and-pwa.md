@@ -2,7 +2,7 @@
 title: 055：使用 Nest.js 和 PWA 实现实时更新
 description: 
 published: true
-date: 2023-02-10T06:18:25.424Z
+date: 2023-02-10T06:18:27.163Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T06:18:25.424Z

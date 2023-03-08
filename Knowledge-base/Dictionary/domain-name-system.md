@@ -2,7 +2,7 @@
 title: Domain Name System
 description: 
 published: true
-date: 2023-01-31T16:06:11.324Z
+date: 2023-01-31T16:06:12.902Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T16:06:11.324Z

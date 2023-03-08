@@ -2,7 +2,7 @@
 title: Sitecore
 description: 
 published: true
-date: 2023-01-31T00:17:23.005Z
+date: 2023-02-17T18:16:03.986Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T00:17:23.005Z

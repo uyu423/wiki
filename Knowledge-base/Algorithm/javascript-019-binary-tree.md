@@ -2,7 +2,7 @@
 title: [JavaScript] 019: 이진 트리
 description: 
 published: true
-date: 2023-02-09T21:32:34.691Z
+date: 2023-02-09T21:32:36.321Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T21:32:34.691Z

@@ -2,7 +2,7 @@
 title: [JavaScript] 024: Búsqueda en amplitud
 description: 
 published: true
-date: 2023-02-10T02:32:38.692Z
+date: 2023-02-10T02:32:40.298Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T02:32:38.692Z

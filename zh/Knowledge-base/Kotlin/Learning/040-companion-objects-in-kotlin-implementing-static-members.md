@@ -2,7 +2,7 @@
 title: 040：Kotlin 中的伴随对象：实现静态成员
 description: 
 published: true
-date: 2023-02-16T12:32:58.121Z
+date: 2023-02-16T12:32:59.909Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T12:32:58.121Z

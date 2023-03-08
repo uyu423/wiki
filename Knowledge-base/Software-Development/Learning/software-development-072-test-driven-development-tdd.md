@@ -2,7 +2,7 @@
 title: 소프트웨어 개발 072: 테스트 주도 개발(TDD)
 description: 
 published: true
-date: 2023-02-02T02:36:22.463Z
+date: 2023-02-02T02:36:24.067Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T02:36:22.463Z

@@ -2,7 +2,7 @@
 title: 054: TypeScript의 유형 기반 테스트: 유형을 사용하여 테스트 전략을 개선하는 방법
 description: 
 published: true
-date: 2023-03-06T19:32:50.358Z
+date: 2023-03-06T19:32:51.734Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-06T19:32:50.358Z

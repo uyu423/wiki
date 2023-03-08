@@ -2,7 +2,7 @@
 title: 021: Creación y prueba de una aplicación Spring Boot con Junit
 description: 
 published: true
-date: 2023-02-03T13:34:17.069Z
+date: 2023-02-03T13:34:18.757Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T13:34:17.069Z

@@ -2,7 +2,7 @@
 title: 024: TypeScript에서 클래스가 있는 Type Guard: 클래스 및 인터페이스에서 Type Guard를 사용하는 방법
 description: 
 published: true
-date: 2023-03-03T01:32:22.111Z
+date: 2023-03-03T01:32:23.562Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-03T01:32:22.111Z

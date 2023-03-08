@@ -2,7 +2,7 @@
 title: 092: Using Variational Autoencoders (VAEs) in TensorFlow.js and Node.js
 description: 
 published: true
-date: 2023-02-03T04:36:27.085Z
+date: 2023-02-03T04:36:28.799Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T04:36:27.085Z

@@ -2,7 +2,7 @@
 title: 018: Creating reusable components in Nest.js
 description: 
 published: true
-date: 2023-02-07T21:17:16.602Z
+date: 2023-02-07T21:17:18.180Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T21:17:16.602Z

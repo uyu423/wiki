@@ -2,7 +2,7 @@
 title: Understanding the Domain Name System (DNS)
 description: 
 published: true
-date: 2023-02-11T05:18:05.083Z
+date: 2023-02-11T05:18:06.827Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T05:18:05.083Z

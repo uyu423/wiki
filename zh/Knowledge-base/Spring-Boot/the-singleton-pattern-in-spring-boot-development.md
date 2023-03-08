@@ -2,7 +2,7 @@
 title: Spring Boot开发中的单例模式
 description: 
 published: true
-date: 2023-02-01T10:17:32.737Z
+date: 2023-02-01T10:17:34.125Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T10:17:32.737Z

@@ -2,7 +2,7 @@
 title: 백엔드 개발을 위한 테스트 주도 개발(TDD) 채택
 description: 
 published: true
-date: 2023-02-16T11:17:27.325Z
+date: 2023-02-16T11:17:29.259Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T11:17:27.325Z

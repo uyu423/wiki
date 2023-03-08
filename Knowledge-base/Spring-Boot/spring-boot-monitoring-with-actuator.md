@@ -2,7 +2,7 @@
 title: 액추에이터를 사용한 스프링 부트 모니터링
 description: 
 published: true
-date: 2023-02-07T15:33:14.971Z
+date: 2023-02-07T15:33:16.630Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T15:33:14.971Z

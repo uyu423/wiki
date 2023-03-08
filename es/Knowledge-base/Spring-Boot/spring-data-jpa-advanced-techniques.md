@@ -2,7 +2,7 @@
 title: Spring Data JPA: Técnicas Avanzadas
 description: 
 published: true
-date: 2023-02-06T23:17:40.925Z
+date: 2023-02-06T23:17:42.549Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T23:17:40.925Z

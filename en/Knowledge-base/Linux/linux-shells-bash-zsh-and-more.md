@@ -2,7 +2,7 @@
 title: Linux Shells: bash, zsh, and more
 description: 
 published: true
-date: 2023-02-12T07:32:19.087Z
+date: 2023-02-12T07:32:20.677Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T07:32:19.087Z

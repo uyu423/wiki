@@ -2,7 +2,7 @@
 title: 소프트웨어 개발 090: 이메일 마케팅
 description: 
 published: true
-date: 2023-02-23T02:32:23.852Z
+date: 2023-02-23T02:32:25.244Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-23T02:32:23.852Z

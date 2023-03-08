@@ -2,7 +2,7 @@
 title: 스프링 MVC의 이점
 description: 
 published: true
-date: 2023-02-06T06:32:19.157Z
+date: 2023-02-06T06:32:20.778Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T06:32:19.157Z

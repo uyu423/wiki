@@ -2,7 +2,7 @@
 title: Implementación de Spring Boot en Heroku
 description: 
 published: true
-date: 2023-02-07T12:32:29.660Z
+date: 2023-02-07T12:32:31.884Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T12:32:29.660Z

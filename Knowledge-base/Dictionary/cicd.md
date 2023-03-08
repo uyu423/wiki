@@ -2,7 +2,7 @@
 title: CI/CD
 description: 
 published: true
-date: 2023-02-26T19:32:35.120Z
+date: 2023-02-26T19:32:36.485Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T19:32:35.120Z

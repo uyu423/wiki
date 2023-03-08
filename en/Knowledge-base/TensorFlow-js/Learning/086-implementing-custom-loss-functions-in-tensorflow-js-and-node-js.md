@@ -2,7 +2,7 @@
 title: 086: Implementing Custom Loss Functions in TensorFlow.js and Node.js
 description: 
 published: true
-date: 2023-02-03T03:04:33.677Z
+date: 2023-02-03T03:04:35.447Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T03:04:33.677Z

@@ -2,7 +2,7 @@
 title: Desarrollo de Software 058: Internet de Drones (IoD)
 description: 
 published: true
-date: 2023-02-14T11:55:20.124Z
+date: 2023-02-14T11:55:21.754Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T11:55:20.124Z

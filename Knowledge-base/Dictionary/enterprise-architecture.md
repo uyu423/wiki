@@ -2,7 +2,7 @@
 title: Enterprise Architecture
 description: 
 published: true
-date: 2023-02-24T08:32:32.683Z
+date: 2023-02-24T08:32:34.037Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-24T08:32:32.683Z

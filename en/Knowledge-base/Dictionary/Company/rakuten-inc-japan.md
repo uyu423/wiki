@@ -2,7 +2,7 @@
 title: Rakuten, Inc. (Japan)
 description: 
 published: true
-date: 2023-02-16T22:18:09.881Z
+date: 2023-02-16T22:18:13.283Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T22:18:09.881Z

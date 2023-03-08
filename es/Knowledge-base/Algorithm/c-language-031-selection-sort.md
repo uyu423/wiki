@@ -2,7 +2,7 @@
 title: [Lenguaje C] 031: Clasificación de selección
 description: 
 published: true
-date: 2023-02-13T11:32:10.886Z
+date: 2023-02-13T11:32:12.453Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T11:32:10.886Z

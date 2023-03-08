@@ -2,7 +2,7 @@
 title: 使用 AWS Lambda 和 Google Cloud Functions 实现无服务器函数
 description: 
 published: true
-date: 2023-02-13T09:17:35.284Z
+date: 2023-02-13T09:17:36.915Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T09:17:35.284Z

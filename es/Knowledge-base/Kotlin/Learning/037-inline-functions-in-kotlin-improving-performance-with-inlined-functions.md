@@ -2,7 +2,7 @@
 title: 037: Funciones en línea en Kotlin: Mejora del rendimiento con funciones en línea
 description: 
 published: true
-date: 2023-02-16T10:32:21.639Z
+date: 2023-02-16T10:32:23.722Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T10:32:21.639Z

@@ -2,7 +2,7 @@
 title: 040: Uso de Nest.js con las funciones de Google Cloud
 description: 
 published: true
-date: 2023-02-15T12:32:36.062Z
+date: 2023-02-15T12:32:37.764Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T12:32:36.062Z

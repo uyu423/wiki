@@ -2,7 +2,7 @@
 title: Things to know when using Elastic Beanstalk in a VPC environment
 description: 
 published: true
-date: 2022-12-24T21:00:07.477Z
+date: 2023-02-17T18:00:22.965Z
 tags: aws, elasticbeanstalk, elasticip, english, vpc
 editor: markdown
 dateCreated: 2022-12-24T20:49:42.720Z

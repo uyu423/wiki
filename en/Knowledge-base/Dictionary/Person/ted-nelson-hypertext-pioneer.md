@@ -2,7 +2,7 @@
 title: Ted Nelson (Hypertext Pioneer)
 description: 
 published: true
-date: 2023-02-26T12:32:50.049Z
+date: 2023-02-26T12:32:51.444Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T12:32:50.049Z

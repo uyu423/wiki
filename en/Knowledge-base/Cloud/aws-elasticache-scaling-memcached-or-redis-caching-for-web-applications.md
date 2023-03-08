@@ -2,7 +2,7 @@
 title: AWS Elasticache: Scaling Memcached or Redis Caching for Web Applications
 description: 
 published: true
-date: 2023-01-30T21:43:20.545Z
+date: 2023-02-17T18:14:42.776Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T21:43:20.545Z

@@ -2,7 +2,7 @@
 title: Data Modeling
 description: 
 published: true
-date: 2023-02-27T04:32:42.094Z
+date: 2023-02-27T04:32:43.491Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T04:32:42.094Z

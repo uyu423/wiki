@@ -2,7 +2,7 @@
 title: 자바에서 롬복 사용하기
 description: 
 published: true
-date: 2023-01-31T09:05:35.712Z
+date: 2023-01-31T09:05:37.446Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T09:05:35.712Z

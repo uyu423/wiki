@@ -2,7 +2,7 @@
 title: Spring Boot Profiling with VisualVM
 description: 
 published: true
-date: 2023-01-31T20:57:35.629Z
+date: 2023-01-31T20:57:37.246Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T20:57:35.629Z

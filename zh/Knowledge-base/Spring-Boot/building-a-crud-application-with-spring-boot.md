@@ -2,7 +2,7 @@
 title: 使用 Spring Boot 构建 CRUD 应用程序
 description: 
 published: true
-date: 2023-02-06T08:33:24.335Z
+date: 2023-02-06T08:33:26.044Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T08:33:24.335Z

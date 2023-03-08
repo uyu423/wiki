@@ -2,7 +2,7 @@
 title: Spring Boot y SSL para comunicación web segura
 description: 
 published: true
-date: 2023-02-08T05:32:39.359Z
+date: 2023-02-08T05:32:40.799Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T05:32:39.359Z

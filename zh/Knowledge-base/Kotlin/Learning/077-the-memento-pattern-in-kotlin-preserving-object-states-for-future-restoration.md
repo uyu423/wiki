@@ -2,7 +2,7 @@
 title: 077：Kotlin 中的 Memento 模式：为将来的恢复保留对象状态
 description: 
 published: true
-date: 2023-02-16T22:55:26.914Z
+date: 2023-02-16T22:55:28.711Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T22:55:26.914Z

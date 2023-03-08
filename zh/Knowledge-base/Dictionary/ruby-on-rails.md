@@ -2,7 +2,7 @@
 title: Ruby on Rails
 description: 
 published: true
-date: 2023-02-02T09:23:45.837Z
+date: 2023-02-02T09:23:48.293Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T09:23:45.837Z

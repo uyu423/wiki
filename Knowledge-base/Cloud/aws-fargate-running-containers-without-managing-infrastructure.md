@@ -2,7 +2,7 @@
 title: AWS Fargate: 인프라 관리 없이 컨테이너 실행
 description: 
 published: true
-date: 2023-02-19T04:32:17.672Z
+date: 2023-02-19T04:32:19.081Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T04:32:17.672Z

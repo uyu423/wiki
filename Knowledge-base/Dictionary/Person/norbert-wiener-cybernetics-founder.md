@@ -2,7 +2,7 @@
 title: Norbert Wiener (Cybernetics Founder)
 description: 
 published: true
-date: 2023-02-09T23:55:55.388Z
+date: 2023-02-09T23:55:57.450Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T23:55:55.388Z

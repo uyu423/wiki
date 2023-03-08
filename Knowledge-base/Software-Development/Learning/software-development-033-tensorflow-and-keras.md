@@ -2,7 +2,7 @@
 title: 소프트웨어 개발 033: TensorFlow 및 Keras
 description: 
 published: true
-date: 2023-02-28T13:32:15.082Z
+date: 2023-02-28T13:32:16.451Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T13:32:15.082Z

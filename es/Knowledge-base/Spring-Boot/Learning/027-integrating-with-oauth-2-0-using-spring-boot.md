@@ -2,7 +2,7 @@
 title: 027: Integración con OAuth 2.0 usando Spring Boot
 description: 
 published: true
-date: 2023-02-03T19:32:35.440Z
+date: 2023-02-03T19:32:37.063Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T19:32:35.440Z

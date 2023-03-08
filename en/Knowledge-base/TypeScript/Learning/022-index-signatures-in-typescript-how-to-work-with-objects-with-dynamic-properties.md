@@ -2,7 +2,7 @@
 title: 022: Index Signatures in TypeScript: How to Work with Objects with Dynamic Properties
 description: 
 published: true
-date: 2023-03-04T16:32:34.641Z
+date: 2023-03-04T16:32:36.005Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-04T16:32:34.641Z

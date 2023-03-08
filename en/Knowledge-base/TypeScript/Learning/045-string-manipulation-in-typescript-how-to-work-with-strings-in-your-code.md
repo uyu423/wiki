@@ -2,7 +2,7 @@
 title: 045: String Manipulation in TypeScript: How to Work with Strings in Your Code
 description: 
 published: true
-date: 2023-03-03T18:32:22.337Z
+date: 2023-03-03T18:32:23.719Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-03T18:32:22.337Z

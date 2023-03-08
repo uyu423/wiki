@@ -2,7 +2,7 @@
 title: 001: An Introduction to TypeScript: Getting Started with Strongly Typed JavaScript
 description: 
 published: true
-date: 2023-03-02T08:40:46.552Z
+date: 2023-03-02T08:40:47.973Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T08:40:46.552Z

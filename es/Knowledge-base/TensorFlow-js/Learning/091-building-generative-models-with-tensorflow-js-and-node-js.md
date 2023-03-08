@@ -2,7 +2,7 @@
 title: 091: Creación de modelos generativos con TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-03T04:17:26.939Z
+date: 2023-02-03T04:17:28.544Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T04:17:26.939Z

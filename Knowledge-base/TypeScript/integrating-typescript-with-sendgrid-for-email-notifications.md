@@ -2,7 +2,7 @@
 title: 이메일 알림을 위해 TypeScript와 SendGrid 통합
 description: 
 published: true
-date: 2023-02-24T01:32:18.749Z
+date: 2023-02-24T01:32:20.149Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-24T01:32:18.749Z

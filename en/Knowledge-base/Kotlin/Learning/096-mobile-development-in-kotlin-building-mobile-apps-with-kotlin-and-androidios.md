@@ -2,7 +2,7 @@
 title: 096: Mobile Development in Kotlin: Building Mobile Apps with Kotlin and Android/iOS
 description: 
 published: true
-date: 2023-02-14T12:18:29.047Z
+date: 2023-02-14T12:18:30.920Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T12:18:29.047Z

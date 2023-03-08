@@ -2,7 +2,7 @@
 title: 053: The Required Type in TypeScript: How to Create Types with Required Properties
 description: 
 published: true
-date: 2023-03-04T08:32:29.501Z
+date: 2023-03-04T08:32:30.882Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-04T08:32:29.501Z

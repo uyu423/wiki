@@ -2,7 +2,7 @@
 title: Sid Meier (Civilization Creator)
 description: 
 published: true
-date: 2023-02-02T05:59:02.398Z
+date: 2023-02-02T05:59:03.696Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T05:04:54.255Z

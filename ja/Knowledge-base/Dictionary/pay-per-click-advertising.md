@@ -2,7 +2,7 @@
 title: Pay-Per-Click Advertising
 description: 
 published: true
-date: 2023-02-07T20:18:12.146Z
+date: 2023-02-07T20:18:14.388Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T20:18:12.146Z

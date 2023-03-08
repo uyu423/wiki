@@ -2,7 +2,7 @@
 title: Kubernetes en OpenStack: implementación de clústeres en OpenStack
 description: 
 published: true
-date: 2023-02-14T06:32:47.090Z
+date: 2023-02-14T06:32:48.795Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T06:32:47.090Z

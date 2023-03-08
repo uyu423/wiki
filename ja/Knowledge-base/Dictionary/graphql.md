@@ -2,7 +2,7 @@
 title: GraphQL
 description: 
 published: true
-date: 2023-02-11T18:17:43.538Z
+date: 2023-02-11T18:17:45.805Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T18:17:43.538Z

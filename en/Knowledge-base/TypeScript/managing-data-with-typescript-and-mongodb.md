@@ -2,7 +2,7 @@
 title: Managing Data with TypeScript and MongoDB
 description: 
 published: true
-date: 2023-02-01T02:36:42.940Z
+date: 2023-02-01T02:36:44.880Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T02:36:42.940Z

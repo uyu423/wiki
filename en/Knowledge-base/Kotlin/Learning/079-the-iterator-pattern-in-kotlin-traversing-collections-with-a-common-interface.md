@@ -2,7 +2,7 @@
 title: 079: The Iterator Pattern in Kotlin: Traversing Collections with a Common Interface
 description: 
 published: true
-date: 2023-02-14T05:17:29.034Z
+date: 2023-02-14T05:17:31.019Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T05:17:29.034Z

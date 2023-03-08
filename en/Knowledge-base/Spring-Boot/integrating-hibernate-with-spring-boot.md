@@ -2,7 +2,7 @@
 title: Integrating Hibernate with Spring Boot
 description: 
 published: true
-date: 2023-02-06T07:32:29.635Z
+date: 2023-02-06T07:32:31.339Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T07:32:29.635Z

@@ -2,7 +2,7 @@
 title: Kubernetes en Bare Metal: Implementación de clústeres en servidores físicos
 description: 
 published: true
-date: 2023-02-14T08:33:06.025Z
+date: 2023-02-14T08:33:07.782Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T08:33:06.025Z

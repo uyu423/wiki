@@ -2,7 +2,7 @@
 title: Gabe Newell (Valve Co-founder)
 description: 
 published: true
-date: 2023-02-14T05:56:25.685Z
+date: 2023-02-14T05:56:28.036Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T05:56:25.685Z

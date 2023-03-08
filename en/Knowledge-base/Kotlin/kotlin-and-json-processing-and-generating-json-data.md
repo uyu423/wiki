@@ -2,7 +2,7 @@
 title: Kotlin and JSON: Processing and Generating JSON Data
 description: 
 published: true
-date: 2023-02-18T08:33:01.045Z
+date: 2023-02-18T08:33:02.539Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T08:33:01.045Z

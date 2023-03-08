@@ -2,7 +2,7 @@
 title: 021: Kotlin의 주석 처리: 컴파일 시 코드 생성
 description: 
 published: true
-date: 2023-02-01T16:44:19.777Z
+date: 2023-02-01T16:44:21.482Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T16:44:19.777Z

@@ -2,7 +2,7 @@
 title: Kakao Corporation (South Korea)
 description: 
 published: true
-date: 2023-02-06T16:10:38.591Z
+date: 2023-02-06T16:10:39.890Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T05:36:49.500Z

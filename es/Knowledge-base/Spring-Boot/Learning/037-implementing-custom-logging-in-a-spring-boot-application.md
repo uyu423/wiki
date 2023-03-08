@@ -2,7 +2,7 @@
 title: 037: Implementación de registro personalizado en una aplicación Spring Boot
 description: 
 published: true
-date: 2023-02-04T05:32:24.128Z
+date: 2023-02-04T05:32:25.785Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T05:32:24.128Z

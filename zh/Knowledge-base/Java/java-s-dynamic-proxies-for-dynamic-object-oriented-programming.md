@@ -2,7 +2,7 @@
 title: 用于动态面向对象编程的 Java 动态代理
 description: 
 published: true
-date: 2023-02-03T06:23:33.658Z
+date: 2023-02-03T06:23:35.292Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T06:23:33.658Z

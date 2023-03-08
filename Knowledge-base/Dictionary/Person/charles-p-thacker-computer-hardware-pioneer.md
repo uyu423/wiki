@@ -2,7 +2,7 @@
 title: Charles P. Thacker (Computer Hardware Pioneer)
 description: 
 published: true
-date: 2023-02-25T21:32:33.944Z
+date: 2023-02-25T21:32:35.338Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-25T21:32:33.944Z

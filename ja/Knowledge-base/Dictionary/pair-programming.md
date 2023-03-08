@@ -2,7 +2,7 @@
 title: Pair Programming
 description: 
 published: true
-date: 2023-01-31T18:43:54.405Z
+date: 2023-01-31T18:43:56.011Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T18:43:54.405Z

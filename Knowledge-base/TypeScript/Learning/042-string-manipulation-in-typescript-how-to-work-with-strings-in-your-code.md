@@ -2,7 +2,7 @@
 title: 042: TypeScript에서 문자열 조작: 코드에서 문자열로 작업하는 방법
 description: 
 published: true
-date: 2023-03-02T14:32:16.127Z
+date: 2023-03-02T14:32:17.488Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T14:32:16.127Z

@@ -2,7 +2,7 @@
 title: 013：使用 TensorFlow.js 和 Node.js 的生成对抗网络 (GAN)
 description: 
 published: true
-date: 2023-02-02T09:44:13.589Z
+date: 2023-02-02T09:44:15.298Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T09:44:13.589Z

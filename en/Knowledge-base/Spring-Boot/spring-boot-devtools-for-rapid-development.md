@@ -2,7 +2,7 @@
 title: Spring Boot DevTools for Rapid Development
 description: 
 published: true
-date: 2023-02-07T20:32:20.973Z
+date: 2023-02-07T20:32:22.570Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T20:32:20.973Z

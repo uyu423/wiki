@@ -2,7 +2,7 @@
 title: 062: Creación de una API REST con Spring Boot
 description: 
 published: true
-date: 2023-02-03T02:57:28.431Z
+date: 2023-02-03T02:57:30.112Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T02:57:28.431Z

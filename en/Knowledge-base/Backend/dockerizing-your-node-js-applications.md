@@ -2,7 +2,7 @@
 title: Dockerizing Your Node.js Applications
 description: 
 published: true
-date: 2023-02-01T19:45:10.463Z
+date: 2023-02-01T19:45:11.802Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T19:38:41.120Z

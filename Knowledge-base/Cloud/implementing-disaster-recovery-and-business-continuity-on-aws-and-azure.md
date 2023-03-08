@@ -2,7 +2,7 @@
 title: AWS 및 Azure에서 재해 복구 및 비즈니스 연속성 구현
 description: 
 published: true
-date: 2023-02-01T14:58:16.792Z
+date: 2023-02-01T14:58:18.332Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T14:58:16.792Z

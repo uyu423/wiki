@@ -2,7 +2,7 @@
 title: Kubernetes with CRI-O: Running Containers with an Alternative Container Runtime
 description: 
 published: true
-date: 2023-02-14T09:32:22.075Z
+date: 2023-02-14T09:32:23.736Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T09:32:22.075Z

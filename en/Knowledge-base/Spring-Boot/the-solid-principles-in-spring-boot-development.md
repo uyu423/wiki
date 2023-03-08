@@ -2,7 +2,7 @@
 title: The SOLID Principles in Spring Boot Development
 description: 
 published: true
-date: 2023-02-08T08:32:38.405Z
+date: 2023-02-08T08:32:40.071Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T08:32:38.405Z

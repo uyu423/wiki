@@ -2,7 +2,7 @@
 title: 056: Using Nest.js with progressive enhancement
 description: 
 published: true
-date: 2023-02-15T19:32:17.540Z
+date: 2023-02-15T19:32:19.401Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T19:32:17.540Z

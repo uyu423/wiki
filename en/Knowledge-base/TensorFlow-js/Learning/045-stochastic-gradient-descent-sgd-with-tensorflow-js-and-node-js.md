@@ -2,7 +2,7 @@
 title: 045: Stochastic Gradient Descent (SGD) with TensorFlow.js and Node.js
 description: 
 published: true
-date: 2023-02-02T17:36:41.307Z
+date: 2023-02-02T17:36:43.491Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T17:36:41.307Z

@@ -2,7 +2,7 @@
 title: 코틀린 특징
 description: 
 published: true
-date: 2022-12-27T02:50:58.512Z
+date: 2023-02-17T18:00:06.759Z
 tags: kotlin
 editor: markdown
 dateCreated: 2022-12-23T04:35:18.925Z

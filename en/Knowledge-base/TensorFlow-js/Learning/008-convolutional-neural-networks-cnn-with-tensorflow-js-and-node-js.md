@@ -2,7 +2,7 @@
 title: 008: Convolutional Neural Networks (CNN) with TensorFlow.js and Node.js
 description: 
 published: true
-date: 2023-02-02T08:36:59.310Z
+date: 2023-02-02T08:37:01.005Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T08:36:59.310Z

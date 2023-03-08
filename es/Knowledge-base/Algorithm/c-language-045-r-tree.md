@@ -2,7 +2,7 @@
 title: [Lenguaje C] 045: R-Árbol
 description: 
 published: true
-date: 2023-02-13T23:32:12.956Z
+date: 2023-02-13T23:32:14.675Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T23:32:12.956Z

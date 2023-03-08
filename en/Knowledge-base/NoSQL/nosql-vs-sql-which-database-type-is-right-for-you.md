@@ -2,7 +2,7 @@
 title: NoSQL vs. SQL: Which Database Type Is Right for You?
 description: 
 published: true
-date: 2023-03-05T15:32:37.463Z
+date: 2023-03-05T15:32:38.849Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T15:32:37.463Z

@@ -2,7 +2,7 @@
 title: 068: Integrating TensorFlow.js with Databases in Node.js
 description: 
 published: true
-date: 2023-02-02T22:43:38.875Z
+date: 2023-02-02T22:43:40.502Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T22:43:38.875Z

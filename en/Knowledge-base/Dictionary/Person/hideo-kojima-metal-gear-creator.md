@@ -2,7 +2,7 @@
 title: Hideo Kojima (Metal Gear Creator)
 description: 
 published: true
-date: 2023-02-16T02:18:00.861Z
+date: 2023-02-16T02:18:04.073Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T02:18:00.861Z

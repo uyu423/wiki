@@ -2,7 +2,7 @@
 title: 기계 학습 및 인공 지능 가이드
 description: 
 published: true
-date: 2023-02-08T07:17:44.605Z
+date: 2023-02-08T07:17:46.213Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T07:17:44.605Z

@@ -2,7 +2,7 @@
 title: AWS CloudFormation: 클라우드 인프라 배포 자동화
 description: 
 published: true
-date: 2023-02-19T02:32:48.970Z
+date: 2023-02-19T02:32:50.365Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T02:32:48.970Z

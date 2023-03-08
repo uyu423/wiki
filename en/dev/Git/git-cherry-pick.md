@@ -2,7 +2,7 @@
 title: Git Cherry-picking
 description: 
 published: true
-date: 2023-02-17T17:27:51.245Z
+date: 2023-02-17T17:27:52.482Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:18:25.616Z

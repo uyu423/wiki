@@ -2,7 +2,7 @@
 title: Fundamentos de MySQL para no desarrolladores: cómo aprovechar al máximo sus datos
 description: 
 published: true
-date: 2023-02-06T18:32:19.424Z
+date: 2023-02-06T18:32:21.598Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T18:32:19.424Z

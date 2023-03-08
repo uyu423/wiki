@@ -2,7 +2,7 @@
 title: Espacios de nombres de Kubernetes: aislamiento de recursos en clústeres de múltiples inquilinos
 description: 
 published: true
-date: 2023-02-08T23:32:17.375Z
+date: 2023-02-08T23:32:19.227Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T23:32:17.375Z

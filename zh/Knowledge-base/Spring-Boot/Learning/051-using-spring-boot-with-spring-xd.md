@@ -2,7 +2,7 @@
 title: 051：将 Spring Boot 与 Spring XD 结合使用
 description: 
 published: true
-date: 2023-02-04T17:32:29.566Z
+date: 2023-02-04T17:32:31.246Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T17:32:29.566Z

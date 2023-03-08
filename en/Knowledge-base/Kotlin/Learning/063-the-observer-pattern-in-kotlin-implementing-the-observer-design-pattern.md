@@ -2,7 +2,7 @@
 title: 063: The Observer Pattern in Kotlin: Implementing the Observer Design Pattern
 description: 
 published: true
-date: 2023-02-17T00:32:33.165Z
+date: 2023-02-17T00:32:35.625Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T00:32:33.165Z

@@ -2,7 +2,7 @@
 title: Using Artificial Intelligence (AI) in Game Development
 description: 
 published: true
-date: 2023-02-07T12:55:33.176Z
+date: 2023-02-07T12:55:34.779Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T12:55:33.176Z

@@ -2,7 +2,7 @@
 title: [JavaScript] 027: 최소 스패닝 트리
 description: 
 published: true
-date: 2023-02-10T05:33:06.758Z
+date: 2023-02-10T05:33:08.401Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T05:33:06.758Z

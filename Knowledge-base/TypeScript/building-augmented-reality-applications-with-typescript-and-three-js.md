@@ -2,7 +2,7 @@
 title: TypeScript 및 Three.js로 증강 현실 애플리케이션 구축
 description: 
 published: true
-date: 2023-01-31T17:17:17.446Z
+date: 2023-01-31T17:17:19.080Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T17:17:17.446Z

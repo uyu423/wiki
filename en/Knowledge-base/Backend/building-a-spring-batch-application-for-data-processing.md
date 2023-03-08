@@ -2,7 +2,7 @@
 title: Building a Spring Batch Application for Data Processing
 description: 
 published: true
-date: 2023-02-18T12:07:43.346Z
+date: 2023-02-18T12:07:44.797Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T12:07:43.346Z

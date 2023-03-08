@@ -2,7 +2,7 @@
 title: Stock Options
 description: 
 published: true
-date: 2023-02-04T19:55:43.167Z
+date: 2023-02-04T19:55:45.047Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T19:55:43.167Z

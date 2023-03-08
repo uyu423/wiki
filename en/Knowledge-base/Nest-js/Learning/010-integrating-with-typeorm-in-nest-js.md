@@ -2,7 +2,7 @@
 title: 010: Integrating with TypeORM in Nest.js
 description: 
 published: true
-date: 2023-02-09T02:55:42.275Z
+date: 2023-02-09T02:55:43.965Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T02:55:42.275Z

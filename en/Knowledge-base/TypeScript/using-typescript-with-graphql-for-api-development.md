@@ -2,7 +2,7 @@
 title: Using TypeScript with GraphQL for API Development
 description: 
 published: true
-date: 2023-02-01T19:17:52.567Z
+date: 2023-02-01T19:17:54.275Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T19:17:52.567Z

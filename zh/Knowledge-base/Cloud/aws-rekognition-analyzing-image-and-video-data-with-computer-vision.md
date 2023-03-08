@@ -2,7 +2,7 @@
 title: AWS Rekognition：使用计算机视觉分析图像和视频数据
 description: 
 published: true
-date: 2023-02-05T17:55:20.298Z
+date: 2023-02-05T17:55:21.865Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T17:55:20.298Z

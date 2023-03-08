@@ -2,7 +2,7 @@
 title: ASP.NET
 description: 
 published: true
-date: 2023-02-16T14:17:47.218Z
+date: 2023-02-16T14:17:52.742Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T14:17:47.218Z

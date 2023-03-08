@@ -2,7 +2,7 @@
 title: 069: Customizing the Spring Boot CLI for Advanced Development
 description: 
 published: true
-date: 2023-02-05T03:32:21.538Z
+date: 2023-02-05T03:32:23.186Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T03:32:21.538Z

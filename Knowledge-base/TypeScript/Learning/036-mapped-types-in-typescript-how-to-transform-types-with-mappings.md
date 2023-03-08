@@ -2,7 +2,7 @@
 title: 036: TypeScript의 매핑된 유형: 매핑으로 유형을 변환하는 방법
 description: 
 published: true
-date: 2023-03-03T07:32:24.540Z
+date: 2023-03-03T07:32:25.941Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-03T07:32:24.540Z

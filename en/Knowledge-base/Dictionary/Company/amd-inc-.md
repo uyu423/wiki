@@ -2,7 +2,7 @@
 title: AMD, Inc.
 description: 
 published: true
-date: 2023-02-11T07:56:32.866Z
+date: 2023-02-11T07:56:35.301Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T07:56:32.866Z

@@ -2,7 +2,7 @@
 title: Open AI
 description: 
 published: true
-date: 2023-01-30T17:43:25.522Z
+date: 2023-02-17T18:10:11.983Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T17:43:25.522Z

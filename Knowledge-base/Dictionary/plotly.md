@@ -2,7 +2,7 @@
 title: Plotly
 description: 
 published: true
-date: 2023-02-02T23:23:30.905Z
+date: 2023-02-02T23:23:32.783Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T23:23:30.905Z

@@ -2,7 +2,7 @@
 title: 096: Spring Boot에서 사용자 지정 오류 처리 시스템 구현
 description: 
 published: true
-date: 2023-02-06T01:32:33.706Z
+date: 2023-02-06T01:32:35.380Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T01:32:33.706Z

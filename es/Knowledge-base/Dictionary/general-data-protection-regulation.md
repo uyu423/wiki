@@ -2,7 +2,7 @@
 title: General Data Protection Regulation
 description: 
 published: true
-date: 2023-02-02T06:04:44.528Z
+date: 2023-02-02T06:04:46.513Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T06:04:44.528Z

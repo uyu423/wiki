@@ -2,7 +2,7 @@
 title: 인공지능(AI)과 머신러닝의 윤리
 description: 
 published: true
-date: 2023-02-07T21:55:37.957Z
+date: 2023-02-07T21:55:39.517Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T21:55:37.957Z

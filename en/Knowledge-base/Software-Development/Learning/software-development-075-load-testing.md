@@ -2,7 +2,7 @@
 title: Software Development 075: Load Testing
 description: 
 published: true
-date: 2023-02-04T20:17:24.211Z
+date: 2023-02-04T20:17:25.951Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T20:17:24.211Z

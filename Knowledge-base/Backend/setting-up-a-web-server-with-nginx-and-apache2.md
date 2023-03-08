@@ -2,7 +2,7 @@
 title: nginx 및 Apache2로 웹 서버 설정
 description: 
 published: true
-date: 2023-01-30T03:32:19.828Z
+date: 2023-02-17T18:01:40.579Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T03:32:19.828Z

@@ -2,7 +2,7 @@
 title: Comprender las funciones y propiedades de extensión de Kotlin
 description: 
 published: true
-date: 2023-02-02T03:36:26.957Z
+date: 2023-02-02T03:36:28.555Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T03:36:26.957Z

@@ -2,7 +2,7 @@
 title: Desarrollo de Software 093: Comercio Electrónico
 description: 
 published: true
-date: 2023-02-16T03:17:41.399Z
+date: 2023-02-16T03:17:43.225Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T03:17:41.399Z

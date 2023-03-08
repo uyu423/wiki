@@ -2,7 +2,7 @@
 title: 028：Kotlin 中的中缀函数：像运算符一样调用函数
 description: 
 published: true
-date: 2023-02-01T17:23:28.882Z
+date: 2023-02-01T17:23:30.396Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T17:23:28.882Z

@@ -2,7 +2,7 @@
 title: AWS SNS: creación de un sistema de notificación de Pub/Sub en la nube
 description: 
 published: true
-date: 2023-02-11T08:55:12.292Z
+date: 2023-02-11T08:55:13.912Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T08:55:12.292Z

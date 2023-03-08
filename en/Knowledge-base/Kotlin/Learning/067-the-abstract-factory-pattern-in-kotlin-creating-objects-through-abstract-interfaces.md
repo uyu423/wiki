@@ -2,7 +2,7 @@
 title: 067: The Abstract Factory Pattern in Kotlin: Creating Objects Through Abstract Interfaces
 description: 
 published: true
-date: 2023-02-06T22:17:33.773Z
+date: 2023-02-06T22:17:35.408Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T22:17:33.773Z

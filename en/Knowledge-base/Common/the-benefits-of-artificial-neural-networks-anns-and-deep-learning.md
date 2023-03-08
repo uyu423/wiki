@@ -2,7 +2,7 @@
 title: The Benefits of Artificial Neural Networks (ANNs) and Deep Learning
 description: 
 published: true
-date: 2023-03-05T19:32:32.907Z
+date: 2023-03-05T19:32:34.277Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T19:32:32.907Z

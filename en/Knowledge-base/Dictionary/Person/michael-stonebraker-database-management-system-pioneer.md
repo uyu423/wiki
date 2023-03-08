@@ -2,7 +2,7 @@
 title: Michael Stonebraker (Database Management System Pioneer)
 description: 
 published: true
-date: 2023-02-28T15:32:36.936Z
+date: 2023-02-28T15:32:38.360Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T15:32:36.936Z

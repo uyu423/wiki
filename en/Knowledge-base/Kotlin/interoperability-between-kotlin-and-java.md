@@ -2,7 +2,7 @@
 title: Interoperability Between Kotlin and Java
 description: 
 published: true
-date: 2023-02-09T08:55:20.015Z
+date: 2023-02-09T08:55:21.728Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T08:55:20.015Z

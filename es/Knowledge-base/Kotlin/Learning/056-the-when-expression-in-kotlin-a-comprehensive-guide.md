@@ -2,7 +2,7 @@
 title: 056: La expresión When en Kotlin: una guía completa
 description: 
 published: true
-date: 2023-02-16T19:17:30.010Z
+date: 2023-02-16T19:17:32.134Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T19:17:30.010Z

@@ -2,6 +2,16 @@
 title: Introducción a Kubernetes: instalación y creación de clústeres
 description: 
 published: true
+date: 2023-02-08T17:33:01.911Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-08T17:32:52.671Z
+---
+
+---
+title: Introducción a Kubernetes: instalación y creación de clústeres
+description: 
+published: true
 date: 2023-02-08T17:32:52.671Z
 tags: 
 editor: markdown

@@ -2,7 +2,7 @@
 title: Desarrollo de Software 043: Seguridad de Aplicaciones Web
 description: 
 published: true
-date: 2023-02-11T16:17:48.779Z
+date: 2023-02-11T16:17:50.435Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T16:17:48.779Z

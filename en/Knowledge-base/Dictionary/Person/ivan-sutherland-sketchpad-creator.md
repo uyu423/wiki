@@ -2,7 +2,7 @@
 title: Ivan Sutherland (Sketchpad Creator)
 description: 
 published: true
-date: 2023-02-13T13:56:36.031Z
+date: 2023-02-13T13:56:38.984Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T13:56:36.031Z

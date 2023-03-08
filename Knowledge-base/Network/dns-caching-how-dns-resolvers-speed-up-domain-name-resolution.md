@@ -2,7 +2,7 @@
 title: DNS 캐싱: DNS 확인자가 도메인 이름 확인 속도를 높이는 방법
 description: 
 published: true
-date: 2023-03-05T00:32:26.804Z
+date: 2023-03-05T00:32:28.157Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T00:32:26.804Z

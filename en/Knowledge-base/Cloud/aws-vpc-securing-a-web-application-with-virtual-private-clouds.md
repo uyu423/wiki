@@ -2,7 +2,7 @@
 title: AWS VPC: Securing a Web Application with Virtual Private Clouds
 description: 
 published: true
-date: 2023-02-01T04:44:16.683Z
+date: 2023-02-01T04:44:18.407Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T04:44:16.683Z

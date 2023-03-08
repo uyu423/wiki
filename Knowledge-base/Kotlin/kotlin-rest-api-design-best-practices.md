@@ -2,7 +2,7 @@
 title: Kotlin REST API 설계: 모범 사례
 description: 
 published: true
-date: 2023-02-18T05:06:13.660Z
+date: 2023-02-18T05:06:14.997Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T05:06:13.660Z

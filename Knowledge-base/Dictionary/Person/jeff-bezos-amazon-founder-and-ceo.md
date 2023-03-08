@@ -2,7 +2,7 @@
 title: Jeff Bezos (Amazon Founder and CEO)
 description: 
 published: true
-date: 2023-03-08T01:32:43.209Z
+date: 2023-03-08T01:32:44.561Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-08T01:32:43.209Z

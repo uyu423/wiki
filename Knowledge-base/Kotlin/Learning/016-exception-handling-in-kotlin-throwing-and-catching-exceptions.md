@@ -2,7 +2,7 @@
 title: 016: Kotlin의 예외 처리: 예외 발생 및 포착
 description: 
 published: true
-date: 2023-02-05T10:17:19.261Z
+date: 2023-02-05T10:17:20.838Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T10:17:19.261Z

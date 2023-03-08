@@ -2,7 +2,7 @@
 title: Kotlin 및 HTTP/2: 차세대 HTTP 가이드
 description: 
 published: true
-date: 2023-02-18T10:32:20.926Z
+date: 2023-02-18T10:32:22.339Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T10:32:20.926Z

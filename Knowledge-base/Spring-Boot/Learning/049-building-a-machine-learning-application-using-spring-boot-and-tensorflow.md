@@ -2,7 +2,7 @@
 title: 049: Spring Boot와 TensorFlow를 사용하여 기계 학습 애플리케이션 구축
 description: 
 published: true
-date: 2023-02-04T15:32:43.907Z
+date: 2023-02-04T15:32:45.609Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T15:32:43.907Z

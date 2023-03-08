@@ -2,7 +2,7 @@
 title: 使用 Kubernetes 部署进行滚动更新和回滚
 description: 
 published: true
-date: 2023-01-31T11:36:18.139Z
+date: 2023-01-31T11:36:19.674Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T11:36:18.139Z

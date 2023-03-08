@@ -2,7 +2,7 @@
 title: 097: TensorFlow.js 및 Node.js에서 어텐션 메커니즘 구축
 description: 
 published: true
-date: 2023-02-03T05:43:46.648Z
+date: 2023-02-03T05:43:48.263Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T05:43:46.648Z

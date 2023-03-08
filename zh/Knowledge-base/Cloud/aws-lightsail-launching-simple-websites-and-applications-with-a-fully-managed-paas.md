@@ -2,7 +2,7 @@
 title: AWS Lightsail：使用完全托管的 PaaS 启动简单的网站和应用程序
 description: 
 published: true
-date: 2023-02-06T11:55:58.664Z
+date: 2023-02-06T11:56:00.308Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T11:55:58.664Z

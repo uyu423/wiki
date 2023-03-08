@@ -2,7 +2,7 @@
 title: 소프트웨어 개발 040: 윤리적 해킹
 description: 
 published: true
-date: 2023-02-06T01:55:13.299Z
+date: 2023-02-06T01:55:14.895Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T01:55:13.299Z

@@ -2,7 +2,7 @@
 title: Python for Backend Development: Django and Flask
 description: 
 published: true
-date: 2023-02-18T15:07:27.887Z
+date: 2023-02-18T15:07:29.395Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T15:07:27.887Z

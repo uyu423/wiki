@@ -2,7 +2,7 @@
 title: 086: Kotlin en Android: creación de aplicaciones de Android con Kotlin
 description: 
 published: true
-date: 2023-02-15T12:17:59.347Z
+date: 2023-02-15T12:18:01.796Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T12:17:59.347Z

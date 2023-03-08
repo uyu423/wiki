@@ -2,7 +2,7 @@
 title: OpenCV
 description: 
 published: true
-date: 2023-02-01T15:05:48.885Z
+date: 2023-02-01T15:05:50.344Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T15:05:48.885Z

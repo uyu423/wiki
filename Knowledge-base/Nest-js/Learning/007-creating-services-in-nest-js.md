@@ -2,7 +2,7 @@
 title: 007: Nest.js에서 서비스 만들기
 description: 
 published: true
-date: 2023-02-14T18:32:18.066Z
+date: 2023-02-14T18:32:19.744Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T18:32:18.066Z

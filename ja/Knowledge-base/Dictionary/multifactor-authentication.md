@@ -2,7 +2,7 @@
 title: Multifactor Authentication
 description: 
 published: true
-date: 2023-02-01T03:43:56.053Z
+date: 2023-02-01T03:43:57.645Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T03:43:56.053Z

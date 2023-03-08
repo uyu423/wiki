@@ -2,7 +2,7 @@
 title: Spiral Model
 description: 
 published: true
-date: 2023-02-04T11:55:49.408Z
+date: 2023-02-04T11:55:51.508Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T11:55:49.408Z

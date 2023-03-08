@@ -2,7 +2,7 @@
 title: USB
 description: 
 published: true
-date: 2023-02-16T23:17:35.418Z
+date: 2023-02-16T23:17:37.588Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T23:17:35.418Z

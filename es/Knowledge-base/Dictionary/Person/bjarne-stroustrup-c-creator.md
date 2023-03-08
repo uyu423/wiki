@@ -2,7 +2,7 @@
 title: Bjarne Stroustrup (C++ Creator)
 description: 
 published: true
-date: 2023-02-04T16:17:42.545Z
+date: 2023-02-04T16:17:44.316Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T16:17:42.545Z

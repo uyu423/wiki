@@ -2,7 +2,7 @@
 title: Root Access
 description: 
 published: true
-date: 2023-02-01T02:23:47.601Z
+date: 2023-02-01T02:23:49.122Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T02:23:47.601Z

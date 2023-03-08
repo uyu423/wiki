@@ -2,7 +2,7 @@
 title: Event-Driven Architecture
 description: 
 published: true
-date: 2023-03-02T08:22:28.527Z
+date: 2023-03-02T08:22:29.912Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T08:22:28.527Z

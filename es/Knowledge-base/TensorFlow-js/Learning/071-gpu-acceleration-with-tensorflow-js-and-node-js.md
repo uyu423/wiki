@@ -2,7 +2,7 @@
 title: 071: aceleración de GPU con TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-02T20:24:31.993Z
+date: 2023-02-02T20:24:33.649Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T20:24:31.993Z

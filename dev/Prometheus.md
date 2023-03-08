@@ -2,7 +2,7 @@
 title: Prometheus (프로메테우스)
 description: 
 published: true
-date: 2023-01-12T06:07:56.116Z
+date: 2023-02-17T18:00:31.319Z
 tags: prometheus
 editor: markdown
 dateCreated: 2022-12-26T07:30:09.774Z

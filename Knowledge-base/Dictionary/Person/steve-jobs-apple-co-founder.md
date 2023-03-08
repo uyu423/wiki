@@ -2,7 +2,7 @@
 title: Steve Jobs (Apple Co-founder)
 description: 
 published: true
-date: 2023-03-05T16:32:49.422Z
+date: 2023-03-05T16:32:50.782Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T16:32:49.422Z

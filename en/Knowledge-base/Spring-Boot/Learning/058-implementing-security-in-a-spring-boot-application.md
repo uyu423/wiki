@@ -2,7 +2,7 @@
 title: 058: Implementing Security in a Spring Boot Application
 description: 
 published: true
-date: 2023-02-04T21:32:25.019Z
+date: 2023-02-04T21:32:26.644Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T21:32:25.019Z

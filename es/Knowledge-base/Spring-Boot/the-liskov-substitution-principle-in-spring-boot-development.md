@@ -2,7 +2,7 @@
 title: El principio de sustitución de Liskov en el desarrollo de Spring Boot
 description: 
 published: true
-date: 2023-02-08T10:32:28.991Z
+date: 2023-02-08T10:32:30.592Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T10:32:28.991Z

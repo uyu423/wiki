@@ -2,7 +2,7 @@
 title: 005: JavaScript에서 고차 함수로 재사용 가능한 코드 작성
 description: 
 published: true
-date: 2023-02-17T09:07:17.018Z
+date: 2023-02-17T09:07:18.453Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T09:07:17.018Z

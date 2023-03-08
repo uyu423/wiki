@@ -2,7 +2,7 @@
 title: Service Design
 description: 
 published: true
-date: 2023-02-11T07:18:25.683Z
+date: 2023-02-11T07:18:28.225Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T07:18:25.683Z

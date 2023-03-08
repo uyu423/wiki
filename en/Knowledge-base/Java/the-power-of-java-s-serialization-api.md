@@ -2,7 +2,7 @@
 title: The Power of Java's Serialization API
 description: 
 published: true
-date: 2023-01-30T18:04:14.306Z
+date: 2023-02-17T18:10:47.399Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T18:04:14.306Z

@@ -2,7 +2,7 @@
 title: Xamarin
 description: 
 published: true
-date: 2023-01-31T04:57:29.118Z
+date: 2023-01-31T04:57:30.655Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T04:57:29.118Z

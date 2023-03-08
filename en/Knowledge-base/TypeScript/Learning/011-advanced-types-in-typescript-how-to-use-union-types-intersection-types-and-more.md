@@ -2,7 +2,7 @@
 title: 011: Advanced Types in TypeScript: How to Use Union Types, Intersection Types, and More
 description: 
 published: true
-date: 2023-03-06T14:33:07.655Z
+date: 2023-03-06T14:33:09.097Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-06T14:33:07.655Z

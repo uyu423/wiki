@@ -2,7 +2,7 @@
 title: Meg Whitman (HP CEO)
 description: 
 published: true
-date: 2023-02-15T18:17:55.471Z
+date: 2023-02-15T18:17:58.165Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T18:17:55.471Z

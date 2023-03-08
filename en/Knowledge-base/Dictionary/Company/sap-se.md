@@ -2,7 +2,7 @@
 title: SAP SE
 description: 
 published: true
-date: 2023-02-25T13:33:06.083Z
+date: 2023-02-25T13:33:07.530Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-25T13:33:06.083Z

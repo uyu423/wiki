@@ -2,7 +2,7 @@
 title: KakaoTalk
 description: 
 published: true
-date: 2023-02-01T06:57:52.859Z
+date: 2023-02-01T06:57:54.514Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T06:57:52.859Z

@@ -2,7 +2,7 @@
 title: 043: Early Stopping with TensorFlow.js and Node.js
 description: 
 published: true
-date: 2023-02-02T17:04:37.006Z
+date: 2023-02-02T17:04:38.644Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T17:04:37.006Z

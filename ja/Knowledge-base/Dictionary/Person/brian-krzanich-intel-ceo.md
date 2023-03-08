@@ -2,7 +2,7 @@
 title: Brian Krzanich (Intel CEO)
 description: 
 published: true
-date: 2023-02-15T05:55:31.186Z
+date: 2023-02-15T05:55:33.297Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T05:55:31.186Z

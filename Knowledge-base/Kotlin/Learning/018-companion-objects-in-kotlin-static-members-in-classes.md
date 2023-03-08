@@ -2,7 +2,7 @@
 title: 018: Kotlin의 컴패니언 객체: 클래스의 정적 멤버
 description: 
 published: true
-date: 2023-02-16T05:32:14.980Z
+date: 2023-02-16T05:32:16.536Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T05:32:14.980Z

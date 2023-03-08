@@ -2,7 +2,7 @@
 title: Acceptance Criteria
 description: 
 published: true
-date: 2023-02-01T19:44:31.409Z
+date: 2023-02-01T19:44:33.551Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T19:44:31.409Z

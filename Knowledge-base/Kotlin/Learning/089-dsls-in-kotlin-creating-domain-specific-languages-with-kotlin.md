@@ -2,7 +2,7 @@
 title: 089: Kotlin의 DSL: Kotlin으로 도메인별 언어 만들기
 description: 
 published: true
-date: 2023-02-17T20:32:26.196Z
+date: 2023-02-17T20:32:27.569Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T20:32:26.196Z

@@ -2,7 +2,7 @@
 title: Spring Boot의 MVVM(Model-View-ViewModel) 패턴
 description: 
 published: true
-date: 2023-02-08T12:32:36.158Z
+date: 2023-02-08T12:32:37.756Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T12:32:36.158Z

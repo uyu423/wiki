@@ -2,7 +2,7 @@
 title: Kubernetes with Knative: Building and Deploying Serverless Applications
 description: 
 published: true
-date: 2023-02-12T02:17:36.018Z
+date: 2023-02-12T02:17:37.666Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T02:17:36.018Z

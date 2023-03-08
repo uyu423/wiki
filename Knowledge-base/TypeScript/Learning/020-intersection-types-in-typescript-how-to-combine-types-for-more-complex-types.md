@@ -2,7 +2,7 @@
 title: 020: TypeScript의 교차 유형: 더 복잡한 유형을 위해 유형을 결합하는 방법
 description: 
 published: true
-date: 2023-03-07T05:32:34.311Z
+date: 2023-03-07T05:32:35.671Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T05:32:34.311Z

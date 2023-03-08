@@ -2,7 +2,7 @@
 title: 025: Understanding the importance of composition over inheritance in functional JavaScript.
 description: 
 published: true
-date: 2023-02-17T19:06:15.420Z
+date: 2023-02-17T19:06:16.897Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T19:06:15.420Z

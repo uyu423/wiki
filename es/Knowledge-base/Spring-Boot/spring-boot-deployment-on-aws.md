@@ -2,7 +2,7 @@
 title: Implementación de Spring Boot en AWS
 description: 
 published: true
-date: 2023-02-07T13:32:39.552Z
+date: 2023-02-07T13:32:41.209Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T13:32:39.552Z

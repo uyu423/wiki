@@ -2,7 +2,7 @@
 title: HTTP 콘텐츠 협상: 서로 다른 클라이언트에 서로 다른 콘텐츠를 제공하는 방법
 description: 
 published: true
-date: 2023-03-08T00:32:35.084Z
+date: 2023-03-08T00:32:36.619Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-08T00:32:35.084Z

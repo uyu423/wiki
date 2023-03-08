@@ -2,7 +2,7 @@
 title: 002: Basic Types in TypeScript: Understanding Variables and Data Types
 description: 
 published: true
-date: 2023-03-02T08:41:16.763Z
+date: 2023-03-02T08:41:18.168Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T08:41:16.763Z

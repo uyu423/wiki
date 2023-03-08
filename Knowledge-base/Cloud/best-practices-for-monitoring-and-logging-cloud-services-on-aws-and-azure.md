@@ -2,7 +2,7 @@
 title: AWS 및 Azure에서 클라우드 서비스 모니터링 및 로깅 모범 사례
 description: 
 published: true
-date: 2023-03-02T08:20:49.960Z
+date: 2023-03-02T08:20:51.366Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T08:20:49.960Z

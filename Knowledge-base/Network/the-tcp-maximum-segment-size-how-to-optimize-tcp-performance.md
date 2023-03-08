@@ -2,7 +2,7 @@
 title: TCP 최대 세그먼트 크기: TCP 성능을 최적화하는 방법
 description: 
 published: true
-date: 2023-03-07T12:33:05.653Z
+date: 2023-03-07T12:33:07.091Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T12:33:05.653Z

@@ -2,7 +2,7 @@
 title: Responsive Design
 description: 
 published: true
-date: 2023-02-02T01:04:55.569Z
+date: 2023-02-02T01:04:57.271Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T01:04:55.569Z

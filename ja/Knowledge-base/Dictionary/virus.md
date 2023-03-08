@@ -2,7 +2,7 @@
 title: Virus
 description: 
 published: true
-date: 2023-01-31T04:04:42.818Z
+date: 2023-01-31T04:04:44.424Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T04:04:42.818Z

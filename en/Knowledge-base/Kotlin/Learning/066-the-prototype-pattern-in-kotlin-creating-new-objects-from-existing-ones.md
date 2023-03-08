@@ -2,7 +2,7 @@
 title: 066: The Prototype Pattern in Kotlin: Creating New Objects from Existing Ones
 description: 
 published: true
-date: 2023-01-31T10:17:32.299Z
+date: 2023-01-31T10:17:33.910Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T10:17:32.299Z

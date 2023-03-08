@@ -2,7 +2,7 @@
 title: [Lenguaje C] 046: Trio
 description: 
 published: true
-date: 2023-02-13T19:56:12.649Z
+date: 2023-02-13T19:56:14.228Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T19:56:12.649Z

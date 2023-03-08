@@ -2,8 +2,8 @@
 title: pom.xml
 description: 
 published: true
-date: 2022-12-26T11:46:23.373Z
-tags: java, maven, springboot
+date: 2023-02-17T18:00:08.122Z
+tags: springboot, maven, java
 editor: markdown
 dateCreated: 2022-12-23T09:49:18.780Z
 ---

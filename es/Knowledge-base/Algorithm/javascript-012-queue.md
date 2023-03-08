@@ -2,7 +2,7 @@
 title: [JavaScript] 012: Cola
 description: 
 published: true
-date: 2023-02-09T14:32:47.398Z
+date: 2023-02-09T14:32:49.046Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T14:32:47.398Z

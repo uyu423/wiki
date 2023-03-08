@@ -2,7 +2,7 @@
 title: Prueba de aplicaciones TypeScript con Jest y Supertest
 description: 
 published: true
-date: 2023-02-13T03:55:32.805Z
+date: 2023-02-13T03:55:34.491Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T03:55:32.805Z

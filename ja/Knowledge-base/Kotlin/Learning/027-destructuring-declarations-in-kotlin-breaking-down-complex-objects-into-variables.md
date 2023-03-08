@@ -2,7 +2,7 @@
 title: 027: Kotlin での宣言の構造化解除: 複雑なオブジェクトを変数に分解する
 description: 
 published: true
-date: 2023-02-01T05:23:36.983Z
+date: 2023-02-01T05:23:38.622Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T05:23:36.983Z

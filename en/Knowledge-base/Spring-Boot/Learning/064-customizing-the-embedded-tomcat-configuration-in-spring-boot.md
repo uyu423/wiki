@@ -2,7 +2,7 @@
 title: 064: Customizing the Embedded Tomcat Configuration in Spring Boot
 description: 
 published: true
-date: 2023-02-02T16:23:28.850Z
+date: 2023-02-02T16:23:30.484Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T16:23:28.850Z

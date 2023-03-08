@@ -2,7 +2,7 @@
 title: Redis
 description: 
 published: true
-date: 2023-03-02T12:32:13.830Z
+date: 2023-03-02T12:32:15.215Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T12:32:13.830Z

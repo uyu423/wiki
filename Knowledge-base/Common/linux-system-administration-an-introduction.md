@@ -2,7 +2,7 @@
 title: Linux 시스템 관리: 소개
 description: 
 published: true
-date: 2023-02-25T17:32:30.857Z
+date: 2023-02-25T17:32:32.240Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-25T17:32:30.857Z

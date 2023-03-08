@@ -2,7 +2,7 @@
 title: 소프트웨어 개발 078: 접근성과 포괄성
 description: 
 published: true
-date: 2023-02-07T14:55:23.761Z
+date: 2023-02-07T14:55:25.320Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T14:55:23.761Z

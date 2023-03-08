@@ -2,7 +2,7 @@
 title: SOLID Principles for Object-Oriented Programming
 description: 
 published: true
-date: 2022-12-26T11:35:46.085Z
+date: 2023-02-17T18:00:28.506Z
 tags: java, oop
 editor: markdown
 dateCreated: 2022-12-24T21:41:54.164Z

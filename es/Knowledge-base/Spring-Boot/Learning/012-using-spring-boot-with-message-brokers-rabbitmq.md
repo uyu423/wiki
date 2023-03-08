@@ -2,7 +2,7 @@
 title: 012: uso de Spring Boot con intermediarios de mensajes (RabbitMQ)
 description: 
 published: true
-date: 2023-02-01T20:26:38.532Z
+date: 2023-02-01T20:26:40.247Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T20:26:38.532Z

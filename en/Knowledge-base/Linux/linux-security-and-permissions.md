@@ -2,7 +2,7 @@
 title: Linux Security and Permissions
 description: 
 published: true
-date: 2023-02-11T20:32:29.521Z
+date: 2023-02-11T20:32:31.795Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T20:32:29.521Z

@@ -2,7 +2,7 @@
 title: 소프트웨어 개발 001: 컴퓨터 공학 입문
 description: 
 published: true
-date: 2023-02-06T04:55:22.309Z
+date: 2023-02-06T04:55:23.913Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T04:55:22.309Z

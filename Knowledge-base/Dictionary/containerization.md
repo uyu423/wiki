@@ -2,7 +2,7 @@
 title: Containerization
 description: 
 published: true
-date: 2023-02-14T12:56:52.179Z
+date: 2023-02-14T12:56:54.628Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T12:56:52.179Z

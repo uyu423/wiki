@@ -2,7 +2,7 @@
 title: Arquitectura Kotlin MVC: temas avanzados y mejores prácticas
 description: 
 published: true
-date: 2023-02-08T05:18:10.564Z
+date: 2023-02-08T05:18:11.922Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T05:18:10.564Z

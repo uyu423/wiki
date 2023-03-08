@@ -2,7 +2,7 @@
 title: Business Process Automation
 description: 
 published: true
-date: 2023-02-16T15:18:27.146Z
+date: 2023-02-16T15:18:42.427Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T15:18:27.146Z

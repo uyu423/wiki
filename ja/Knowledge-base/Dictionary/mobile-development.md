@@ -2,7 +2,7 @@
 title: Mobile Development
 description: 
 published: true
-date: 2023-02-07T22:56:09.533Z
+date: 2023-02-07T22:56:11.408Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T22:56:09.533Z

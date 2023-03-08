@@ -2,7 +2,7 @@
 title: AWS 및 Azure의 클라우드 서비스에 대한 비용 최적화
 description: 
 published: true
-date: 2023-02-01T12:17:48.172Z
+date: 2023-02-01T12:17:49.659Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T12:17:48.172Z

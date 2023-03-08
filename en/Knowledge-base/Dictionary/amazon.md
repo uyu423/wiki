@@ -2,7 +2,7 @@
 title: Amazon
 description: 
 published: true
-date: 2023-03-03T02:32:20.173Z
+date: 2023-03-03T02:32:21.533Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-03T02:32:20.173Z

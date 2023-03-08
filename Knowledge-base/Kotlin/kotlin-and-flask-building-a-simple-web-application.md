@@ -2,7 +2,7 @@
 title: Kotlin 및 Flask: 간단한 웹 애플리케이션 구축
 description: 
 published: true
-date: 2023-02-01T05:36:30.337Z
+date: 2023-02-01T05:36:31.958Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T05:36:30.337Z

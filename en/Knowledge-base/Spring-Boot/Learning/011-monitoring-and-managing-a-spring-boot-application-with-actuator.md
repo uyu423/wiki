@@ -2,7 +2,7 @@
 title: 011: Monitoring and managing a Spring Boot application with Actuator
 description: 
 published: true
-date: 2023-02-03T09:04:36.921Z
+date: 2023-02-03T09:04:38.769Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T09:04:36.921Z

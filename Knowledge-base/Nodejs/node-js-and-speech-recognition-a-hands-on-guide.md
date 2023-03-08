@@ -2,7 +2,7 @@
 title: Node.js 및 음성 인식: 실습 가이드
 description: 
 published: true
-date: 2023-02-02T06:36:43.019Z
+date: 2023-02-02T06:36:44.705Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T06:36:43.019Z

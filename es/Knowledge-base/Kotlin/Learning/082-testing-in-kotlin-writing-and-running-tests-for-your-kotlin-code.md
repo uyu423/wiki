@@ -2,7 +2,7 @@
 title: 082: Pruebas en Kotlin: escribir y ejecutar pruebas para su código Kotlin
 description: 
 published: true
-date: 2023-02-10T22:55:24.346Z
+date: 2023-02-10T22:55:25.937Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T22:55:24.346Z

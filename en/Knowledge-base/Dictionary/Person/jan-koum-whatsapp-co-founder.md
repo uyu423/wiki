@@ -2,7 +2,7 @@
 title: Jan Koum (WhatsApp Co-founder)
 description: 
 published: true
-date: 2023-02-27T19:32:34.988Z
+date: 2023-02-27T19:32:36.370Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T19:32:34.988Z

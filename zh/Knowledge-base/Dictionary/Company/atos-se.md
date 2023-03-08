@@ -2,7 +2,7 @@
 title: Atos SE
 description: 
 published: true
-date: 2023-02-02T02:44:01.317Z
+date: 2023-02-02T02:44:02.629Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T00:58:12.918Z

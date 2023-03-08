@@ -2,7 +2,7 @@
 title: Desarrollo de software 019: Git y control de versiones
 description: 
 published: true
-date: 2023-02-13T08:56:31.066Z
+date: 2023-02-13T08:56:32.789Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T08:56:31.066Z

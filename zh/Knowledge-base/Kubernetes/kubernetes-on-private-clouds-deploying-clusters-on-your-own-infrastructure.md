@@ -2,7 +2,7 @@
 title: 私有云上的 Kubernetes：在您自己的基础设施上部署集群
 description: 
 published: true
-date: 2023-02-14T07:32:40.467Z
+date: 2023-02-14T07:32:42.017Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T07:32:40.467Z

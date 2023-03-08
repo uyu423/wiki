@@ -2,7 +2,7 @@
 title: Bob Metcalfe (Ethernet Inventor)
 description: 
 published: true
-date: 2023-02-11T00:55:18.641Z
+date: 2023-02-11T00:55:20.788Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T00:55:18.641Z

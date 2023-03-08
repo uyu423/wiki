@@ -2,7 +2,7 @@
 title: Spring Data JPA: Simplifying Data Access
 description: 
 published: true
-date: 2023-01-30T08:54:42.297Z
+date: 2023-02-17T18:02:08.932Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T08:54:42.297Z

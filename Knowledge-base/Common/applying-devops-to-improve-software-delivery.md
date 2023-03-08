@@ -2,7 +2,7 @@
 title: DevOps를 적용하여 소프트웨어 제공 개선
 description: 
 published: true
-date: 2023-02-26T03:32:25.189Z
+date: 2023-02-26T03:32:26.529Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T03:32:25.188Z

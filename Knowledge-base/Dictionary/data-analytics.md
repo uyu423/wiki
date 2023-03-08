@@ -2,7 +2,7 @@
 title: Data Analytics
 description: 
 published: true
-date: 2023-02-11T06:55:41.947Z
+date: 2023-02-11T06:55:43.969Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T06:55:41.947Z

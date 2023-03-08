@@ -2,7 +2,7 @@
 title: WSL2에 GitKraken 설치하기
 description: 
 published: true
-date: 2023-02-26T10:40:06.640Z
+date: 2023-02-26T10:40:07.933Z
 tags: git, gitkraken, wsl2
 editor: markdown
 dateCreated: 2023-02-26T10:40:06.640Z

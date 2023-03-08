@@ -2,7 +2,7 @@
 title: JD.com, Inc. (China)
 description: 
 published: true
-date: 2023-02-13T22:17:46.492Z
+date: 2023-02-13T22:17:48.570Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T22:17:46.492Z

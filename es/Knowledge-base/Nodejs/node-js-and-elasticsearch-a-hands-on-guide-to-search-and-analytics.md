@@ -2,7 +2,7 @@
 title: Node.js y Elasticsearch: una guía práctica de búsqueda y análisis
 description: 
 published: true
-date: 2023-02-15T12:56:02.175Z
+date: 2023-02-15T12:56:03.936Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T12:56:02.175Z

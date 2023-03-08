@@ -2,7 +2,7 @@
 title: 080: The Visitor Pattern in Kotlin: Separating Algorithms from Data Structures
 description: 
 published: true
-date: 2023-02-17T06:32:41.675Z
+date: 2023-02-17T06:32:43.792Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T06:32:41.675Z

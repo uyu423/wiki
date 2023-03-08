@@ -2,7 +2,7 @@
 title: Spring Boot Starter Project Templates
 description: 
 published: true
-date: 2023-02-01T18:57:48.584Z
+date: 2023-02-01T18:57:50.337Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T18:57:48.584Z

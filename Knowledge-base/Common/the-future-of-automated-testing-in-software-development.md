@@ -2,7 +2,7 @@
 title: 소프트웨어 개발에서 자동화된 테스트의 미래
 description: 
 published: true
-date: 2023-01-31T12:57:22.874Z
+date: 2023-01-31T12:57:24.427Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T12:57:22.874Z

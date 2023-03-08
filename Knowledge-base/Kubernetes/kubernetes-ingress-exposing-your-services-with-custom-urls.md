@@ -2,7 +2,7 @@
 title: Kubernetes Ingress: 사용자 지정 URL로 서비스 노출
 description: 
 published: true
-date: 2023-02-08T21:32:16.706Z
+date: 2023-02-08T21:32:18.537Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T21:32:16.706Z

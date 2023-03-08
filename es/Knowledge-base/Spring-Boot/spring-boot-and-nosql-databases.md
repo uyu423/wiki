@@ -2,7 +2,7 @@
 title: Bases de datos Spring Boot y NoSQL
 description: 
 published: true
-date: 2023-02-07T02:55:49.929Z
+date: 2023-02-07T02:55:51.579Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T02:55:49.929Z

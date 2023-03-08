@@ -2,7 +2,7 @@
 title: Organizational Culture
 description: 
 published: true
-date: 2023-02-16T07:55:48.947Z
+date: 2023-02-16T07:55:51.607Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T07:55:48.947Z

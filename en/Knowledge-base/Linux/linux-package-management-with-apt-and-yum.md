@@ -2,7 +2,7 @@
 title: Linux Package Management with apt and yum
 description: 
 published: true
-date: 2023-02-12T09:32:18.638Z
+date: 2023-02-12T09:32:20.578Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T09:32:18.638Z

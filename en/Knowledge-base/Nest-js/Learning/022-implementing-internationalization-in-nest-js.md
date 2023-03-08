@@ -2,7 +2,7 @@
 title: 022: Implementing internationalization in Nest.js
 description: 
 published: true
-date: 2023-02-15T03:32:36.017Z
+date: 2023-02-15T03:32:38.351Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T03:32:36.017Z

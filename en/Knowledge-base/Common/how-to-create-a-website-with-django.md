@@ -2,7 +2,7 @@
 title: How to Create a Website with Django
 description: 
 published: true
-date: 2023-02-02T22:58:16.466Z
+date: 2023-02-02T22:58:18.143Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T22:58:16.466Z

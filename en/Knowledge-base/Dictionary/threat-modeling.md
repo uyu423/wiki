@@ -2,7 +2,7 @@
 title: Threat Modeling
 description: 
 published: true
-date: 2023-01-30T19:17:27.555Z
+date: 2023-02-17T18:12:17.142Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T19:17:27.555Z

@@ -2,7 +2,7 @@
 title: Mockito를 사용한 스프링 부트 테스트
 description: 
 published: true
-date: 2023-02-02T00:23:20.928Z
+date: 2023-02-02T00:23:22.553Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T00:23:20.928Z

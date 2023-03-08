@@ -2,7 +2,7 @@
 title: 성능 향상을 위한 캐싱 전략
 description: 
 published: true
-date: 2023-02-01T01:23:18.318Z
+date: 2023-02-01T01:23:19.562Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T23:17:22.036Z

@@ -2,7 +2,7 @@
 title: Cloud Storage
 description: 
 published: true
-date: 2023-02-15T13:56:42.742Z
+date: 2023-02-15T13:56:45.430Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T13:56:42.742Z

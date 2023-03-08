@@ -2,7 +2,7 @@
 title: 019: 기능적 JavaScript 코드 테스트를 위한 모범 사례
 description: 
 published: true
-date: 2023-02-17T16:06:15.856Z
+date: 2023-02-17T16:06:17.231Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T16:06:15.856Z

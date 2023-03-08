@@ -2,7 +2,7 @@
 title: [JavaScript] 006: Algoritmos codiciosos
 description: 
 published: true
-date: 2023-02-09T08:32:33.202Z
+date: 2023-02-09T08:32:34.803Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T08:32:33.202Z

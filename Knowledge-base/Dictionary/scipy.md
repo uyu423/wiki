@@ -2,7 +2,7 @@
 title: SciPy
 description: 
 published: true
-date: 2023-02-28T21:32:38.400Z
+date: 2023-02-28T21:32:39.713Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T21:32:38.400Z

@@ -2,7 +2,7 @@
 title: 001: Introducción a Nest.js y sus ventajas como framework web
 description: 
 published: true
-date: 2023-02-12T22:17:09.057Z
+date: 2023-02-12T22:17:10.628Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T22:17:09.057Z

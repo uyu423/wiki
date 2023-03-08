@@ -2,7 +2,7 @@
 title: Building a Search Engine with Redis: Implementing a Fast, Scalable Index
 description: 
 published: true
-date: 2023-03-05T20:32:33.467Z
+date: 2023-03-05T20:32:34.818Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T20:32:33.467Z

@@ -2,7 +2,7 @@
 title: 在 AWS 和 Azure 上监控和记录云服务的最佳实践”
 description: 
 published: true
-date: 2023-02-11T15:17:18.825Z
+date: 2023-02-11T15:17:20.110Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T15:17:18.825Z

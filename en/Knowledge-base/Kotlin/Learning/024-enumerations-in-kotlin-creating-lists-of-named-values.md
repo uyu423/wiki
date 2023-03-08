@@ -2,7 +2,7 @@
 title: 024: Enumerations in Kotlin: Creating Lists of Named Values
 description: 
 published: true
-date: 2023-02-16T07:32:57.683Z
+date: 2023-02-16T07:32:59.510Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T07:32:57.683Z

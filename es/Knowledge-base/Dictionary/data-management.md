@@ -2,7 +2,7 @@
 title: Data Management
 description: 
 published: true
-date: 2023-02-03T11:18:11.462Z
+date: 2023-02-03T11:18:13.408Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T11:18:11.462Z

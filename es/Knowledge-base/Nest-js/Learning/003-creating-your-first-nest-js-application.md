@@ -2,7 +2,7 @@
 title: 003: Creando tu primera aplicación Nest.js
 description: 
 published: true
-date: 2023-02-14T15:34:13.201Z
+date: 2023-02-14T15:34:15.386Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T15:34:13.201Z

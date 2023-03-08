@@ -2,7 +2,7 @@
 title: IP 서브넷팅: IP 네트워크를 더 작은 서브넷으로 나누는 방법
 description: 
 published: true
-date: 2023-03-06T02:32:42.706Z
+date: 2023-03-06T02:32:44.086Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-06T02:32:42.706Z

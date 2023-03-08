@@ -2,7 +2,7 @@
 title: 055: Kotlin의 위임: 위임된 속성으로 위임 패턴 구현
 description: 
 published: true
-date: 2023-02-16T19:32:26.213Z
+date: 2023-02-16T19:32:28.275Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T19:32:26.213Z

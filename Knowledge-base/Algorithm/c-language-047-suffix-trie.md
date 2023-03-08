@@ -2,7 +2,7 @@
 title: [ C언어 ] 047 : 접미사 트라이
 description: 
 published: true
-date: 2023-02-14T00:32:23.589Z
+date: 2023-02-14T00:32:25.173Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T00:32:23.589Z

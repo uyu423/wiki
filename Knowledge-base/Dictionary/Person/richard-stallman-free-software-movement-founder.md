@@ -2,7 +2,7 @@
 title: Richard Stallman (Free Software Movement Founder)
 description: 
 published: true
-date: 2023-02-15T19:18:22.672Z
+date: 2023-02-15T19:18:24.801Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T19:18:22.672Z

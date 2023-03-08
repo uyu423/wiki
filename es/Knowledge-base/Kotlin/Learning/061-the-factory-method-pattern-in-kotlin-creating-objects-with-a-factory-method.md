@@ -2,7 +2,7 @@
 title: 061: El patrón del método de fábrica en Kotlin: creación de objetos con un método de fábrica
 description: 
 published: true
-date: 2023-02-16T22:32:29.909Z
+date: 2023-02-16T22:32:31.224Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T22:32:29.909Z

@@ -2,7 +2,7 @@
 title: Netmarble Corporation (South Korea)
 description: 
 published: true
-date: 2023-02-28T08:33:08.212Z
+date: 2023-02-28T08:33:09.628Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T08:33:08.212Z

@@ -2,7 +2,7 @@
 title: Claude Shannon (Information Theory Pioneer)
 description: 
 published: true
-date: 2023-02-10T01:17:38.199Z
+date: 2023-02-10T01:17:40.362Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T01:17:38.199Z

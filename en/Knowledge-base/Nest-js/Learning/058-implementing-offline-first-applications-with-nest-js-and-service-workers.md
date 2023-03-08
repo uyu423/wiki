@@ -2,7 +2,7 @@
 title: 058: Implementing offline-first applications with Nest.js and Service Workers
 description: 
 published: true
-date: 2023-02-15T21:33:00.826Z
+date: 2023-02-15T21:33:03.589Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T21:33:00.826Z

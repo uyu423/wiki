@@ -2,7 +2,7 @@
 title: How do Kotlin's lazy collection operations help performance?
 description: 
 published: true
-date: 2022-12-24T19:47:45.342Z
+date: 2023-02-17T18:00:14.972Z
 tags: english, kotlin, lambda
 editor: markdown
 dateCreated: 2022-12-24T19:27:57.210Z

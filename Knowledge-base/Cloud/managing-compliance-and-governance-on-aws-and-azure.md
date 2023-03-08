@@ -2,7 +2,7 @@
 title: AWS 및 Azure에서 규정 준수 및 거버넌스 관리
 description: 
 published: true
-date: 2023-03-05T09:11:51.787Z
+date: 2023-03-05T09:11:53.072Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T08:32:37.261Z

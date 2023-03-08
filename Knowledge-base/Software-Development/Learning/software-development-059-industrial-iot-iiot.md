@@ -2,7 +2,7 @@
 title: 소프트웨어 개발 059: 산업용 IoT(IIoT)
 description: 
 published: true
-date: 2023-02-03T14:17:25.540Z
+date: 2023-02-03T14:17:27.112Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T14:17:25.540Z

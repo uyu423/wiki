@@ -2,7 +2,7 @@
 title: 004: Tensores y Operaciones en TensorFlow.js
 description: 
 published: true
-date: 2023-02-02T07:36:25.431Z
+date: 2023-02-02T07:36:26.999Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T07:36:25.431Z

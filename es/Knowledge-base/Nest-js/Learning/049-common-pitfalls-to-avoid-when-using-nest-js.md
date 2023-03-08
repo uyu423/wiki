@@ -2,7 +2,7 @@
 title: 049: Errores comunes que se deben evitar al usar Nest.js
 description: 
 published: true
-date: 2023-02-02T04:17:37.612Z
+date: 2023-02-02T04:17:39.230Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T04:17:37.612Z

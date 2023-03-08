@@ -2,7 +2,7 @@
 title: 006: Regresión logística con TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-02T08:04:25.797Z
+date: 2023-02-02T08:04:27.378Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T08:04:25.797Z

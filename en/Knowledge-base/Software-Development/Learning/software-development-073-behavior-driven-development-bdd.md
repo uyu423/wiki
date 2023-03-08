@@ -2,7 +2,7 @@
 title: Software Development 073: Behavior-Driven Development (BDD)
 description: 
 published: true
-date: 2023-02-15T15:18:55.847Z
+date: 2023-02-15T15:18:57.539Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T15:18:55.847Z

@@ -2,7 +2,7 @@
 title: 064: El patrón Decorator en Kotlin: mejora de objetos con comportamiento adicional
 description: 
 published: true
-date: 2023-02-11T17:17:35.839Z
+date: 2023-02-11T17:17:37.468Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T17:17:35.839Z

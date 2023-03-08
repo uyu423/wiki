@@ -2,7 +2,7 @@
 title: 임베디드 Tomcat으로 Spring Boot 애플리케이션 실행
 description: 
 published: true
-date: 2023-01-30T09:54:39.274Z
+date: 2023-02-17T18:02:39.556Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T09:54:39.274Z

@@ -2,7 +2,7 @@
 title: 031：使用 TensorFlow.js 和 Node.js 训练和微调模型
 description: 
 published: true
-date: 2023-02-02T14:17:55.374Z
+date: 2023-02-02T14:17:56.966Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T14:17:55.374Z

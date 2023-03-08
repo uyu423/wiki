@@ -2,7 +2,7 @@
 title: Operating System
 description: 
 published: true
-date: 2023-02-28T00:32:31.372Z
+date: 2023-02-28T00:32:32.708Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T00:32:31.372Z

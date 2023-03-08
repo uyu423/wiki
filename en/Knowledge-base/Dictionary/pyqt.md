@@ -2,7 +2,7 @@
 title: PyQt
 description: 
 published: true
-date: 2023-02-01T11:17:49.026Z
+date: 2023-02-01T11:17:50.489Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T11:17:49.026Z

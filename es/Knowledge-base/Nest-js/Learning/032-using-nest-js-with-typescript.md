@@ -2,7 +2,7 @@
 title: 032: Uso de Nest.js con TypeScript
 description: 
 published: true
-date: 2023-02-12T09:55:32.034Z
+date: 2023-02-12T09:55:33.730Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T09:55:32.034Z

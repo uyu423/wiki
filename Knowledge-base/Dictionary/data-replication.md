@@ -2,7 +2,7 @@
 title: Data Replication
 description: 
 published: true
-date: 2023-02-15T23:55:53.404Z
+date: 2023-02-15T23:55:55.264Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T23:55:53.404Z

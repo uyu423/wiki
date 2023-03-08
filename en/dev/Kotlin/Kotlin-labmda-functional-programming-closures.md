@@ -2,7 +2,7 @@
 title: Closures in Functional Programming with Kotlin Lambda Expressions
 description: 
 published: true
-date: 2022-12-24T19:33:33.423Z
+date: 2023-02-17T18:00:12.240Z
 tags: kotlin, closure, lambda, english
 editor: markdown
 dateCreated: 2022-12-24T19:15:11.615Z

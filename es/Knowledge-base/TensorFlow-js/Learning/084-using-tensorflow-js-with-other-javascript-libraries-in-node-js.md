@@ -2,7 +2,7 @@
 title: 084: uso de TensorFlow.js con otras bibliotecas de JavaScript en Node.js
 description: 
 published: true
-date: 2023-02-03T02:37:08.086Z
+date: 2023-02-03T02:37:09.759Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T02:37:08.086Z

@@ -2,7 +2,7 @@
 title: 094: TensorFlow.js 및 Node.js에서 순환 신경망(RNN) 구축
 description: 
 published: true
-date: 2023-02-03T05:05:02.678Z
+date: 2023-02-03T05:05:04.341Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T05:05:02.678Z

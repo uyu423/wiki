@@ -2,7 +2,7 @@
 title: Debugging
 description: 
 published: true
-date: 2023-02-13T18:18:18.427Z
+date: 2023-02-13T18:18:21.388Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T18:18:18.427Z

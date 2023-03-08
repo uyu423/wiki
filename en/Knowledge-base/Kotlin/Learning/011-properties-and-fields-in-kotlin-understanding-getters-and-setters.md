@@ -2,7 +2,7 @@
 title: 011: Properties and Fields in Kotlin: Understanding Getters and Setters
 description: 
 published: true
-date: 2023-01-31T05:36:54.284Z
+date: 2023-01-31T05:36:56.370Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T05:36:54.284Z

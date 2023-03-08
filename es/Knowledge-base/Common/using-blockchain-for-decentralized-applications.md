@@ -2,7 +2,7 @@
 title: Uso de Blockchain para aplicaciones descentralizadas
 description: 
 published: true
-date: 2023-02-12T05:17:21.787Z
+date: 2023-02-12T05:17:23.369Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T05:17:21.787Z

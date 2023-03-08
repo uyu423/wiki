@@ -2,7 +2,7 @@
 title: HCL Technologies Limited (India)
 description: 
 published: true
-date: 2023-02-10T22:17:54.330Z
+date: 2023-02-10T22:17:56.949Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T22:17:54.330Z

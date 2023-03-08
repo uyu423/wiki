@@ -2,7 +2,7 @@
 title: Graphic Design
 description: 
 published: true
-date: 2023-01-31T09:17:43.848Z
+date: 2023-01-31T09:17:45.474Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T09:17:43.848Z

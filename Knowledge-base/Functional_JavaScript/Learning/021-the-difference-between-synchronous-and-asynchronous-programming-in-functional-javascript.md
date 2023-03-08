@@ -2,7 +2,7 @@
 title: 021: 기능적 JavaScript에서 동기 프로그래밍과 비동기 프로그래밍의 차이점
 description: 
 published: true
-date: 2023-02-17T17:06:40.170Z
+date: 2023-02-17T17:06:41.507Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T17:06:40.170Z

@@ -2,7 +2,7 @@
 title: Tom Igoe (Arduino Creator)
 description: 
 published: true
-date: 2023-02-09T20:17:30.826Z
+date: 2023-02-09T20:17:32.880Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T20:17:30.826Z

@@ -2,7 +2,7 @@
 title: Linux Kernel
 description: 
 published: true
-date: 2023-02-16T06:55:39.391Z
+date: 2023-02-16T06:55:41.341Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T06:55:39.391Z

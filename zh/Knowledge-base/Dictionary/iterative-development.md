@@ -2,7 +2,7 @@
 title: Iterative Development
 description: 
 published: true
-date: 2023-02-15T01:18:19.802Z
+date: 2023-02-15T01:18:21.834Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T01:18:19.802Z

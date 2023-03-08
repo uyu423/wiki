@@ -2,7 +2,7 @@
 title: 061: Using Nest.js with the Filesystem API
 description: 
 published: true
-date: 2023-02-10T10:56:18.463Z
+date: 2023-02-10T10:56:20.190Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T10:56:18.463Z

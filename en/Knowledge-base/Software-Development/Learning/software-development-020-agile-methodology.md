@@ -2,7 +2,7 @@
 title: Software Development 020: Agile Methodology
 description: 
 published: true
-date: 2023-02-14T02:55:19.374Z
+date: 2023-02-14T02:55:21.612Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T02:55:19.374Z

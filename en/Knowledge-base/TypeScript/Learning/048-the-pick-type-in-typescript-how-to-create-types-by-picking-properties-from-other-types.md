@@ -2,7 +2,7 @@
 title: 048: The Pick Type in TypeScript: How to Create Types by Picking Properties from Other Types
 description: 
 published: true
-date: 2023-03-06T21:32:39.041Z
+date: 2023-03-06T21:32:40.386Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-06T21:32:39.041Z

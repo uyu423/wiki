@@ -2,7 +2,7 @@
 title: 기계 학습 및 AI 워크로드에 AWS 및 Azure 사용
 description: 
 published: true
-date: 2023-02-11T01:55:23.295Z
+date: 2023-02-11T01:55:24.893Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T01:55:23.295Z

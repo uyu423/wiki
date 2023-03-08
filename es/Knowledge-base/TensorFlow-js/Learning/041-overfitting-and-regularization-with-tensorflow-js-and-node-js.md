@@ -2,7 +2,7 @@
 title: 041: Overfitting y Regularización con TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-02T16:36:21.772Z
+date: 2023-02-02T16:36:23.356Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T16:36:21.772Z

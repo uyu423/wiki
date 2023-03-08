@@ -2,7 +2,7 @@
 title: 使用 Nest.js 和 TypeScript 构建 RESTful API
 description: 
 published: true
-date: 2023-02-15T14:55:39.208Z
+date: 2023-02-15T14:55:40.863Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T14:55:39.208Z

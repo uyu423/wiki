@@ -2,7 +2,7 @@
 title: 057: Using Nest.js with Service Workers
 description: 
 published: true
-date: 2023-02-15T20:32:35.152Z
+date: 2023-02-15T20:32:37.229Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T20:32:35.152Z

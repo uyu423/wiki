@@ -2,7 +2,7 @@
 title: 033：将 Nest.js 与 JavaScript 结合使用
 description: 
 published: true
-date: 2023-02-15T11:32:40.167Z
+date: 2023-02-15T11:32:41.979Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T11:32:40.167Z

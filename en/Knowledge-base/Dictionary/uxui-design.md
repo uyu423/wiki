@@ -2,7 +2,7 @@
 title: UX/UI Design
 description: 
 published: true
-date: 2023-01-31T15:17:47.845Z
+date: 2023-01-31T15:17:49.503Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T15:17:47.845Z

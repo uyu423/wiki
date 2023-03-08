@@ -2,7 +2,7 @@
 title: HTTP 압축: 웹 페이지 로드 시간을 줄이는 방법
 description: 
 published: true
-date: 2023-03-03T23:32:21.250Z
+date: 2023-03-03T23:32:22.617Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-03T23:32:21.250Z

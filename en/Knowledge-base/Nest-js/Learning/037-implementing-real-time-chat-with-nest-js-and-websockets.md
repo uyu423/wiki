@@ -2,7 +2,7 @@
 title: 037: Implementing real-time chat with Nest.js and WebSockets
 description: 
 published: true
-date: 2023-02-02T05:51:25.513Z
+date: 2023-02-02T05:51:26.847Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T05:47:40.628Z

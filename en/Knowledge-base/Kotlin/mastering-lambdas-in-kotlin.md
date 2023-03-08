@@ -2,7 +2,7 @@
 title: Mastering Lambdas in Kotlin
 description: 
 published: true
-date: 2023-02-17T23:32:39.971Z
+date: 2023-02-17T23:32:41.352Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T23:32:39.971Z

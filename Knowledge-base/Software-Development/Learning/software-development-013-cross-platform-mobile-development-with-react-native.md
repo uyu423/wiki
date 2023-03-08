@@ -2,7 +2,7 @@
 title: 소프트웨어 개발 013: React Native를 사용한 크로스 플랫폼 모바일 개발
 description: 
 published: true
-date: 2023-02-03T09:57:30.120Z
+date: 2023-02-03T09:57:31.699Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T09:57:30.120Z

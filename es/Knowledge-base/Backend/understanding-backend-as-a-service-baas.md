@@ -2,7 +2,7 @@
 title: Comprender el backend como servicio (BaaS)
 description: 
 published: true
-date: 2023-02-02T05:23:30.318Z
+date: 2023-02-02T05:23:31.906Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T05:23:30.318Z

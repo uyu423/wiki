@@ -2,7 +2,7 @@
 title: Linux 시스템 시작 및 초기화
 description: 
 published: true
-date: 2023-02-11T04:55:11.367Z
+date: 2023-02-11T04:55:12.919Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T04:55:11.367Z

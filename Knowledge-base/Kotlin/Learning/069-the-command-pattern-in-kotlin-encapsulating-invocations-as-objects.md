@@ -2,7 +2,7 @@
 title: 069: Kotlin의 명령 패턴: 호출을 객체로 캡슐화
 description: 
 published: true
-date: 2023-02-17T03:32:40.635Z
+date: 2023-02-17T03:32:42.955Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T03:32:40.635Z

@@ -2,7 +2,7 @@
 title: Introduction to the Linux Kernel
 description: 
 published: true
-date: 2023-02-11T12:32:17.776Z
+date: 2023-02-11T12:32:19.440Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:32:17.776Z

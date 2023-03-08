@@ -2,7 +2,7 @@
 title: 076: The Null Object Pattern in Kotlin: Providing a Non-Null Object in Place of Null
 description: 
 published: true
-date: 2023-02-17T05:32:25.021Z
+date: 2023-02-17T05:32:27.177Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T05:32:25.021Z

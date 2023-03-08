@@ -2,7 +2,7 @@
 title: 035: Building and deploying a Spring Boot application to container orchestration platforms (Kubernetes, Docker Swarm)
 description: 
 published: true
-date: 2023-02-04T03:32:38.115Z
+date: 2023-02-04T03:32:39.892Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T03:32:38.115Z

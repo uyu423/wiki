@@ -2,7 +2,7 @@
 title: 020: Delegated Properties in Kotlin: Implementing Delegation Patterns
 description: 
 published: true
-date: 2023-02-16T06:33:28.389Z
+date: 2023-02-16T06:33:32.368Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T06:33:28.389Z

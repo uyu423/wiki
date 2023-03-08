@@ -2,7 +2,7 @@
 title: Jaron Lanier (Virtual Reality Pioneer)
 description: 
 published: true
-date: 2023-02-23T15:33:03.882Z
+date: 2023-02-23T15:33:05.267Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-23T15:33:03.882Z

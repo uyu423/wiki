@@ -2,7 +2,7 @@
 title: Gordon Moore (Intel Co-founder)
 description: 
 published: true
-date: 2023-02-24T23:32:16.581Z
+date: 2023-02-24T23:32:17.900Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-24T23:32:16.581Z

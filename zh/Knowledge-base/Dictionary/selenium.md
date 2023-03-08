@@ -2,7 +2,7 @@
 title: Selenium
 description: 
 published: true
-date: 2023-02-06T20:18:56.897Z
+date: 2023-02-06T20:18:58.790Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T20:18:56.897Z

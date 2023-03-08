@@ -2,7 +2,7 @@
 title: Implementación de desarrollo impulsado por dominio (DDD) para backend
 description: 
 published: true
-date: 2023-02-02T00:04:24.664Z
+date: 2023-02-02T00:04:26.266Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T00:04:24.664Z

@@ -2,7 +2,7 @@
 title: 백엔드 개발을 위한 민첩한 방법론
 description: 
 published: true
-date: 2023-02-18T14:06:23.715Z
+date: 2023-02-18T14:06:25.126Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T14:06:23.715Z

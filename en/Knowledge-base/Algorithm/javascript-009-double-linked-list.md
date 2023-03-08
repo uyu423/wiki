@@ -2,7 +2,7 @@
 title: [JavaScript] 009: Double Linked List
 description: 
 published: true
-date: 2023-02-09T11:32:47.804Z
+date: 2023-02-09T11:32:49.479Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T11:32:47.804Z

@@ -2,7 +2,7 @@
 title: 098: Acceso a la base de datos en Kotlin: conexión y consulta de bases de datos con Kotlin
 description: 
 published: true
-date: 2023-02-09T06:17:12.239Z
+date: 2023-02-09T06:17:13.867Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T06:17:12.239Z

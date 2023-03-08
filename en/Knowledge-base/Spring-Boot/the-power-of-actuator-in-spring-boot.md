@@ -2,7 +2,7 @@
 title: The Power of Actuator in Spring Boot
 description: 
 published: true
-date: 2023-01-30T08:58:13.472Z
+date: 2023-02-17T18:02:11.624Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T08:58:13.472Z

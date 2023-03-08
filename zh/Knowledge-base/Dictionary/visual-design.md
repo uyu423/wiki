@@ -2,7 +2,7 @@
 title: Visual Design
 description: 
 published: true
-date: 2023-01-31T23:24:23.323Z
+date: 2023-01-31T23:24:24.859Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T23:24:23.323Z

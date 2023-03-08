@@ -2,7 +2,7 @@
 title: Linus Torvalds
 description: 
 published: true
-date: 2023-02-14T00:55:38.947Z
+date: 2023-02-14T00:55:41.201Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T00:55:38.947Z

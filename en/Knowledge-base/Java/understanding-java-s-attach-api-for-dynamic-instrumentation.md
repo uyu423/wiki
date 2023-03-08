@@ -2,7 +2,7 @@
 title: Understanding Java's Attach API for Dynamic Instrumentation
 description: 
 published: true
-date: 2023-03-06T04:32:35.829Z
+date: 2023-03-06T04:32:37.252Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-06T04:32:35.829Z

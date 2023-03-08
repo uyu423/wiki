@@ -2,7 +2,7 @@
 title: Elasticity
 description: 
 published: true
-date: 2023-01-31T03:57:43.972Z
+date: 2023-01-31T03:57:45.545Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T03:57:43.972Z

@@ -2,7 +2,7 @@
 title: 044: Uso de Nest.js con Kubernetes
 description: 
 published: true
-date: 2023-02-15T16:33:13.078Z
+date: 2023-02-15T16:33:14.942Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T16:33:13.078Z

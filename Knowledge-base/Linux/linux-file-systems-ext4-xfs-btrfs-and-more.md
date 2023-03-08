@@ -2,7 +2,7 @@
 title: Linux 파일 시스템: ext4, XFS, Btrfs 등
 description: 
 published: true
-date: 2023-02-10T19:17:21.506Z
+date: 2023-02-10T19:17:23.121Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T19:17:21.506Z

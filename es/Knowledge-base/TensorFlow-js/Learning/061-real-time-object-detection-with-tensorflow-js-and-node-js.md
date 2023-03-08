@@ -2,7 +2,7 @@
 title: 061: Detección de objetos en tiempo real con TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-02T21:17:43.579Z
+date: 2023-02-02T21:17:45.222Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T21:17:43.579Z

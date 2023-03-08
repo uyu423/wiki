@@ -2,7 +2,7 @@
 title: 002: Nest.js용 개발 환경 설정
 description: 
 published: true
-date: 2023-02-14T14:32:28.915Z
+date: 2023-02-14T14:32:30.540Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T14:32:28.915Z

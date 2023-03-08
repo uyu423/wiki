@@ -2,7 +2,7 @@
 title: Kubernetes 포드: 클러스터의 빌딩 블록
 description: 
 published: true
-date: 2023-01-30T14:32:40.133Z
+date: 2023-02-17T18:05:33.541Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T14:32:40.133Z

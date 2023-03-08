@@ -2,7 +2,7 @@
 title: The Builder Pattern in Spring Boot Development
 description: 
 published: true
-date: 2023-01-30T21:04:35.294Z
+date: 2023-02-17T18:13:54.911Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T21:04:35.294Z

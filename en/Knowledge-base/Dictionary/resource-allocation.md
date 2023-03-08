@@ -2,7 +2,7 @@
 title: Resource Allocation
 description: 
 published: true
-date: 2023-02-15T06:18:20.428Z
+date: 2023-02-15T06:18:23.237Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T06:18:20.428Z

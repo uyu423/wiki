@@ -2,7 +2,7 @@
 title: User Story Mapping
 description: 
 published: true
-date: 2023-02-12T07:55:59.402Z
+date: 2023-02-12T07:56:01.766Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T07:55:59.402Z

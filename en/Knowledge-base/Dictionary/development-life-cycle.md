@@ -2,7 +2,7 @@
 title: Development Life Cycle
 description: 
 published: true
-date: 2023-02-07T13:17:41.197Z
+date: 2023-02-07T13:17:43.014Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T13:17:41.197Z

@@ -2,7 +2,7 @@
 title: 리눅스 메모리 관리
 description: 
 published: true
-date: 2023-02-10T04:55:17.606Z
+date: 2023-02-10T04:55:19.165Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T04:55:17.606Z

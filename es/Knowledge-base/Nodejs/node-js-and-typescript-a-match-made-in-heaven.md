@@ -2,7 +2,7 @@
 title: Node.js y TypeScript: una combinación hecha en el cielo
 description: 
 published: true
-date: 2023-02-10T14:17:18.621Z
+date: 2023-02-10T14:17:20.295Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T14:17:18.621Z

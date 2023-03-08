@@ -2,7 +2,7 @@
 title: CPU
 description: 
 published: true
-date: 2023-02-15T00:55:58.658Z
+date: 2023-02-15T00:56:00.413Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T00:55:58.658Z

@@ -2,7 +2,7 @@
 title: MySQL 02: Funciones básicas para instalar MySQL Workbench y practicar SQL
 description: 
 published: true
-date: 2023-02-06T09:20:09.241Z
+date: 2023-02-06T09:20:10.889Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T09:20:09.241Z

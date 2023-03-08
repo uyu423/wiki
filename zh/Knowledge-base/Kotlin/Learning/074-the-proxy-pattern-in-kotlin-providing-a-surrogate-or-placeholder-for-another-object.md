@@ -2,7 +2,7 @@
 title: 074：Kotlin 中的代理模式：为另一个对象提供代理项或占位符
 description: 
 published: true
-date: 2023-01-31T12:17:32.702Z
+date: 2023-01-31T12:17:34.349Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T12:17:32.702Z

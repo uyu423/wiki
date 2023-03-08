@@ -2,7 +2,7 @@
 title: 048: 아파치 스파크와 함께 스프링 부트 사용하기
 description: 
 published: true
-date: 2023-02-04T14:32:57.533Z
+date: 2023-02-04T14:32:59.188Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T14:32:57.533Z

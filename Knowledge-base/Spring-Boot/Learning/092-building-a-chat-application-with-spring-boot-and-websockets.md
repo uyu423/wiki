@@ -2,7 +2,7 @@
 title: 092: Spring Boot와 WebSocket으로 채팅 애플리케이션 만들기
 description: 
 published: true
-date: 2023-02-05T22:32:30.221Z
+date: 2023-02-05T22:32:31.875Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T22:32:30.221Z

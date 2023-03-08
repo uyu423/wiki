@@ -2,7 +2,7 @@
 title: 035: Uso de Nest.js con React
 description: 
 published: true
-date: 2023-02-02T00:18:29.882Z
+date: 2023-02-02T00:18:31.684Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T00:18:29.882Z

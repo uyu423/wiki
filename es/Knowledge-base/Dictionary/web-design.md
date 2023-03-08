@@ -2,7 +2,7 @@
 title: Web Design
 description: 
 published: true
-date: 2023-02-13T01:17:55.061Z
+date: 2023-02-13T01:17:57.119Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T01:17:55.061Z

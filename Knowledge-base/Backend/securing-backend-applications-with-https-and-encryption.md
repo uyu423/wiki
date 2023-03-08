@@ -2,7 +2,7 @@
 title: HTTPS 및 암호화로 백엔드 애플리케이션 보호
 description: 
 published: true
-date: 2023-02-18T16:06:20.365Z
+date: 2023-02-18T16:06:21.702Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T16:06:20.365Z

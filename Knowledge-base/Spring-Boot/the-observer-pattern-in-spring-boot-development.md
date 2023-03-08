@@ -2,7 +2,7 @@
 title: Spring Boot 개발의 관찰자 패턴
 description: 
 published: true
-date: 2023-02-08T13:32:47.575Z
+date: 2023-02-08T13:32:49.774Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T13:32:47.575Z

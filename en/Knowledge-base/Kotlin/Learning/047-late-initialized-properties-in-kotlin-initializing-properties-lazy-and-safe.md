@@ -2,7 +2,7 @@
 title: 047: Late-initialized Properties in Kotlin: Initializing Properties Lazy and Safe
 description: 
 published: true
-date: 2023-02-16T14:32:19.419Z
+date: 2023-02-16T14:32:21.381Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T14:32:19.419Z

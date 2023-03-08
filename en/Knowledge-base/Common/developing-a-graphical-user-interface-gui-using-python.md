@@ -2,7 +2,7 @@
 title: Developing a Graphical User Interface (GUI) using Python
 description: 
 published: true
-date: 2023-01-30T05:27:31.681Z
+date: 2023-02-17T18:01:52.692Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T05:27:31.681Z

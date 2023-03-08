@@ -2,7 +2,7 @@
 title: Data Visualization with D3.js and Tableau
 description: 
 published: true
-date: 2023-02-12T07:17:24.333Z
+date: 2023-02-12T07:17:25.916Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T07:17:24.333Z

@@ -2,7 +2,7 @@
 title: 012: TypeScript에서 유형 추론: TypeScript가 코드에서 유형을 추론하는 방법
 description: 
 published: true
-date: 2023-03-04T06:32:29.702Z
+date: 2023-03-04T06:32:31.063Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-04T06:32:29.701Z

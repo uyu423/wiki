@@ -2,7 +2,7 @@
 title: 045: Kotlin의 로컬 함수: 함수 내에 함수 만들기
 description: 
 published: true
-date: 2023-02-02T01:43:43.188Z
+date: 2023-02-02T01:43:44.725Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T01:43:43.188Z

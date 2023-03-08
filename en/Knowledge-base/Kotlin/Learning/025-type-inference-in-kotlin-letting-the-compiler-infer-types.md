@@ -2,7 +2,7 @@
 title: 025: Type Inference in Kotlin: Letting the Compiler Infer Types
 description: 
 published: true
-date: 2023-02-16T08:32:36.211Z
+date: 2023-02-16T08:32:38.212Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T08:32:36.211Z

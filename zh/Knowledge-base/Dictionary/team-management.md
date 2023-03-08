@@ -2,7 +2,7 @@
 title: Team Management
 description: 
 published: true
-date: 2023-02-01T00:17:27.655Z
+date: 2023-02-01T00:17:29.250Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T00:17:27.655Z

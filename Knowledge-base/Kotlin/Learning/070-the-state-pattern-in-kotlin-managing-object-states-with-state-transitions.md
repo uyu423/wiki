@@ -2,7 +2,7 @@
 title: 070: Kotlin의 상태 패턴: 상태 전환으로 객체 상태 관리
 description: 
 published: true
-date: 2023-02-14T20:17:22.216Z
+date: 2023-02-14T20:17:23.987Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T20:17:22.216Z

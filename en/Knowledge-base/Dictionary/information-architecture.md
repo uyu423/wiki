@@ -2,7 +2,7 @@
 title: Information Architecture
 description: 
 published: true
-date: 2023-02-28T19:32:26.571Z
+date: 2023-02-28T19:32:27.916Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T19:32:26.571Z

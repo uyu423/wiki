@@ -2,7 +2,7 @@
 title: 调试 Kubernetes 应用程序：了解事件和日志
 description: 
 published: true
-date: 2023-01-31T00:43:18.512Z
+date: 2023-02-17T18:16:19.882Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T00:43:18.512Z

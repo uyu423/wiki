@@ -2,7 +2,7 @@
 title: [JavaScript] 020: Árbol AVL
 description: 
 published: true
-date: 2023-02-09T22:32:17.614Z
+date: 2023-02-09T22:32:19.238Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T22:32:17.614Z

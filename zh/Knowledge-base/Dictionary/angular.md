@@ -2,7 +2,7 @@
 title: Angular
 description: 
 published: true
-date: 2023-02-10T11:17:56.948Z
+date: 2023-02-10T11:17:58.896Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T11:17:56.948Z

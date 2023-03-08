@@ -2,7 +2,7 @@
 title: 023: Generación de Texto con TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-02T12:17:19.212Z
+date: 2023-02-02T12:17:20.864Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T12:17:19.212Z

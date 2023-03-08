@@ -2,7 +2,7 @@
 title: 027: TypeScript의 네임스페이스 별칭: 별칭을 사용하여 네임스페이스를 참조하는 방법
 description: 
 published: true
-date: 2023-03-05T02:32:24.102Z
+date: 2023-03-05T02:32:25.463Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T02:32:24.102Z

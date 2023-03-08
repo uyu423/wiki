@@ -2,7 +2,7 @@
 title: How to Build a Cross-Platform Mobile App with React Native
 description: 
 published: true
-date: 2023-02-07T23:17:27.863Z
+date: 2023-02-07T23:17:29.520Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T23:17:27.863Z

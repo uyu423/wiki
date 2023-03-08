@@ -2,7 +2,7 @@
 title: Hitachi, Ltd. (Japan)
 description: 
 published: true
-date: 2023-02-16T02:56:23.834Z
+date: 2023-02-16T02:56:26.930Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T02:56:23.834Z

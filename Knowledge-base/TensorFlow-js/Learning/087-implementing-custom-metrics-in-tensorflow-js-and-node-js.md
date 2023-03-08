@@ -2,7 +2,7 @@
 title: 087: TensorFlow.js 및 Node.js에서 맞춤 측정항목 구현
 description: 
 published: true
-date: 2023-02-03T03:17:25.101Z
+date: 2023-02-03T03:17:26.664Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T03:17:25.101Z

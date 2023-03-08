@@ -2,7 +2,7 @@
 title: 소프트웨어 개발 027: 기계 학습 및 인공 지능
 description: 
 published: true
-date: 2023-03-06T09:32:37.692Z
+date: 2023-03-06T09:32:39.184Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-06T09:32:37.692Z

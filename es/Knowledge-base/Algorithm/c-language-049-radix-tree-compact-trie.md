@@ -2,7 +2,7 @@
 title: [Lenguaje C] 049: Árbol Radix (Trie compacto)
 description: 
 published: true
-date: 2023-02-10T12:55:19.358Z
+date: 2023-02-10T12:55:21.027Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T12:55:19.358Z

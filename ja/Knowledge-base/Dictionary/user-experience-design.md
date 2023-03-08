@@ -2,7 +2,7 @@
 title: User Experience Design
 description: 
 published: true
-date: 2023-02-15T09:19:19.391Z
+date: 2023-02-15T09:19:21.671Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T09:19:19.391Z

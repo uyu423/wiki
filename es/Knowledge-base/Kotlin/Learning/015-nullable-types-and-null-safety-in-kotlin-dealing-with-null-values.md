@@ -2,7 +2,7 @@
 title: 015: Tipos anulables y seguridad nula en Kotlin: manejo de valores nulos
 description: 
 published: true
-date: 2023-02-16T04:32:54.824Z
+date: 2023-02-16T04:32:56.531Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T04:32:54.824Z

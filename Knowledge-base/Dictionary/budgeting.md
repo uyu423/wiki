@@ -2,7 +2,7 @@
 title: Budgeting
 description: 
 published: true
-date: 2023-02-01T07:24:16.809Z
+date: 2023-02-01T07:24:18.382Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T07:24:16.809Z

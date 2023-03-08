@@ -2,7 +2,7 @@
 title: Authorization
 description: 
 published: true
-date: 2023-02-10T14:55:38.126Z
+date: 2023-02-10T14:55:40.079Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T14:55:38.126Z

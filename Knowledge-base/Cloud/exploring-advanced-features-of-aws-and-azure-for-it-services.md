@@ -2,7 +2,7 @@
 title: IT 서비스를 위한 AWS 및 Azure의 고급 기능 살펴보기
 description: 
 published: true
-date: 2023-02-09T20:55:20.491Z
+date: 2023-02-09T20:55:22.202Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T20:55:20.491Z

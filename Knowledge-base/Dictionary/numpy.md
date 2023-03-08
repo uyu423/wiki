@@ -2,7 +2,7 @@
 title: Numpy
 description: 
 published: true
-date: 2023-01-31T06:36:40.420Z
+date: 2023-01-31T06:36:42.034Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T06:36:40.420Z

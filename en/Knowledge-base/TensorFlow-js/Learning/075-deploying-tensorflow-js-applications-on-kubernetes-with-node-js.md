@@ -2,7 +2,7 @@
 title: 075: Deploying TensorFlow.js Applications on Kubernetes with Node.js
 description: 
 published: true
-date: 2023-02-03T00:17:44.595Z
+date: 2023-02-03T00:17:46.237Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T00:17:44.595Z

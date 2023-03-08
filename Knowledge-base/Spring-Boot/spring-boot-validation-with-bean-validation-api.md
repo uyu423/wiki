@@ -2,7 +2,7 @@
 title: Bean 유효성 검사 API를 사용한 스프링 부트 유효성 검사
 description: 
 published: true
-date: 2023-02-07T18:32:44.561Z
+date: 2023-02-07T18:32:46.376Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T18:32:44.561Z

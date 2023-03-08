@@ -2,7 +2,7 @@
 title: Proxy inverso para mejorar el rendimiento
 description: 
 published: true
-date: 2023-02-14T23:17:14.909Z
+date: 2023-02-14T23:17:17.195Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T23:17:14.909Z

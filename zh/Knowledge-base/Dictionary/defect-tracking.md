@@ -2,7 +2,7 @@
 title: Defect Tracking
 description: 
 published: true
-date: 2023-02-01T05:43:51.964Z
+date: 2023-02-01T05:43:53.530Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T05:43:51.964Z

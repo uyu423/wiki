@@ -2,7 +2,7 @@
 title: How to Build a Responsive Website with CSS Grid and Flexbox
 description: 
 published: true
-date: 2023-02-24T13:32:59.860Z
+date: 2023-02-24T13:33:01.245Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-24T13:32:59.860Z

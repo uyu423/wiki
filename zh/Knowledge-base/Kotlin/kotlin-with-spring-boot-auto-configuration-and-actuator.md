@@ -2,7 +2,7 @@
 title: Kotlin with Spring Boot：自动配置和执行器
 description: 
 published: true
-date: 2023-02-02T18:23:15.019Z
+date: 2023-02-02T18:23:16.581Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T18:23:15.019Z

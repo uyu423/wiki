@@ -2,7 +2,7 @@
 title: Spring Boot를 사용한 웹 서비스
 description: 
 published: true
-date: 2023-02-01T18:05:26.355Z
+date: 2023-02-01T18:05:28.010Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T18:05:26.355Z

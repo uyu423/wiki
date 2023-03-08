@@ -2,7 +2,7 @@
 title: Using TypeScript with Redis for Data Caching and Management
 description: 
 published: true
-date: 2023-02-24T11:32:43.393Z
+date: 2023-02-24T11:32:44.742Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-24T11:32:43.393Z

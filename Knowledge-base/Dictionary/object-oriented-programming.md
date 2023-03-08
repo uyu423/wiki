@@ -2,7 +2,7 @@
 title: Object-Oriented Programming
 description: 
 published: true
-date: 2023-02-12T08:17:37.047Z
+date: 2023-02-12T08:17:39.569Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T08:17:37.047Z

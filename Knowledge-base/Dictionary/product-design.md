@@ -2,7 +2,7 @@
 title: Product Design
 description: 
 published: true
-date: 2023-03-04T21:32:25.697Z
+date: 2023-03-04T21:32:27.027Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-04T21:32:25.697Z

@@ -2,7 +2,7 @@
 title: 075: Building a Microservice Architecture with Spring Boot
 description: 
 published: true
-date: 2023-02-05T06:32:27.292Z
+date: 2023-02-05T06:32:29.281Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T06:32:27.292Z

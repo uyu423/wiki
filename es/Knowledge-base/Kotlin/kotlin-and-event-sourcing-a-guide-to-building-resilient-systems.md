@@ -2,7 +2,7 @@
 title: Kotlin y Event Sourcing: una guía para construir sistemas resilientes
 description: 
 published: true
-date: 2023-02-02T00:38:13.712Z
+date: 2023-02-02T00:38:15.323Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T00:38:13.712Z

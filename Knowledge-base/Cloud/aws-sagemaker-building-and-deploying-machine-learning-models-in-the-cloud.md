@@ -2,7 +2,7 @@
 title: AWS SageMaker: 클라우드에서 기계 학습 모델 구축 및 배포
 description: 
 published: true
-date: 2023-02-03T12:17:44.961Z
+date: 2023-02-03T12:17:46.590Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T12:17:44.961Z

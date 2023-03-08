@@ -2,7 +2,7 @@
 title: 030: Kotlin の文字列テンプレート: 式による文字列の補間
 description: 
 published: true
-date: 2023-02-01T05:04:46.509Z
+date: 2023-02-01T05:04:48.192Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T05:04:46.509Z

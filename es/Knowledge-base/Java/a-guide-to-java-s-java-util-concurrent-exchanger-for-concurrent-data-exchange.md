@@ -2,7 +2,7 @@
 title: Una guía para java.util.concurrent.Exchanger de Java para el intercambio de datos concurrente
 description: 
 published: true
-date: 2023-02-04T06:55:21.839Z
+date: 2023-02-04T06:55:23.651Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T06:55:21.839Z

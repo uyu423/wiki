@@ -2,7 +2,7 @@
 title: 079: 모바일 장치에서 Node.js와 함께 TensorFlow.js 사용
 description: 
 published: true
-date: 2023-02-03T01:17:40.285Z
+date: 2023-02-03T01:17:41.879Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T01:17:40.285Z

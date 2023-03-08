@@ -2,7 +2,7 @@
 title: Peter Thiel (PayPal Co-founder)
 description: 
 published: true
-date: 2023-03-02T08:26:24.899Z
+date: 2023-03-02T08:26:26.256Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T08:26:24.899Z

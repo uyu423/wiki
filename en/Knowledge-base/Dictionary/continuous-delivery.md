@@ -2,7 +2,7 @@
 title: Continuous Delivery
 description: 
 published: true
-date: 2023-02-01T20:44:34.263Z
+date: 2023-02-01T20:44:36.538Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T20:44:34.263Z

@@ -2,7 +2,7 @@
 title: Brian Kernighan (UNIX Developer)
 description: 
 published: true
-date: 2023-02-12T21:55:48.692Z
+date: 2023-02-12T21:55:50.454Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T21:55:48.692Z

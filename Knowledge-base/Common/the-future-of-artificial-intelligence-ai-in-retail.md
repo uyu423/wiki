@@ -2,7 +2,7 @@
 title: 소매 분야 인공 지능(AI)의 미래
 description: 
 published: true
-date: 2023-01-30T09:27:40.370Z
+date: 2023-02-17T18:02:31.313Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T09:27:40.370Z

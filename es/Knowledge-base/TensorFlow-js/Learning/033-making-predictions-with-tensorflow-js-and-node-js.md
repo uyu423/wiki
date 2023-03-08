@@ -2,7 +2,7 @@
 title: 033: Hacer predicciones con TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-02T14:44:33.867Z
+date: 2023-02-02T14:44:35.475Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T14:44:33.867Z

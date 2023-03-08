@@ -2,7 +2,7 @@
 title: Ken Thompson (UNIX Developer)
 description: 
 published: true
-date: 2023-02-27T16:32:39.165Z
+date: 2023-02-27T16:32:40.554Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T16:32:39.165Z

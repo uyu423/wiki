@@ -2,7 +2,7 @@
 title: Optimización del proceso de desarrollo para aplicaciones back-end
 description: 
 published: true
-date: 2023-02-09T16:17:33.106Z
+date: 2023-02-09T16:17:34.743Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T16:17:33.106Z

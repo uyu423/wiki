@@ -2,7 +2,7 @@
 title: Case Study: Developing and Launching a Simple Chat Application on Azure
 description: 
 published: true
-date: 2023-02-19T07:06:26.671Z
+date: 2023-02-19T07:06:28.138Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T07:06:26.671Z

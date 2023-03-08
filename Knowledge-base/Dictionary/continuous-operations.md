@@ -2,7 +2,7 @@
 title: Continuous Operations
 description: 
 published: true
-date: 2023-02-13T04:17:55.555Z
+date: 2023-02-13T04:17:57.791Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T04:17:55.555Z

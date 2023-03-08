@@ -2,7 +2,7 @@
 title: Java의 시스템 클래스 로더에 대해 자세히 알아보기
 description: 
 published: true
-date: 2023-02-26T16:32:19.232Z
+date: 2023-02-26T16:32:20.661Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T16:32:19.232Z

@@ -2,7 +2,7 @@
 title: 067: Understanding the Spring Boot DevTools for Faster Development
 description: 
 published: true
-date: 2023-02-03T18:55:28.087Z
+date: 2023-02-03T18:55:29.751Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T18:55:28.087Z

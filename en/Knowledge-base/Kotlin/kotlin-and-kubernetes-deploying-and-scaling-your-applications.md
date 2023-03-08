@@ -2,7 +2,7 @@
 title: Kotlin and Kubernetes: Deploying and Scaling Your Applications
 description: 
 published: true
-date: 2023-02-12T16:18:01.493Z
+date: 2023-02-12T16:18:03.203Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T16:18:01.493Z

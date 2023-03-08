@@ -2,7 +2,7 @@
 title: 이벤트 루프 (Event Loop)
 description: 
 published: true
-date: 2022-12-26T14:30:17.422Z
+date: 2023-02-17T18:00:38.736Z
 tags: nodejs, v8
 editor: markdown
 dateCreated: 2022-12-26T12:35:42.101Z

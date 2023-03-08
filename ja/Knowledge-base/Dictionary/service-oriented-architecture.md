@@ -2,7 +2,7 @@
 title: Service-Oriented Architecture
 description: 
 published: true
-date: 2023-01-31T05:43:38.575Z
+date: 2023-01-31T05:43:41.898Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T05:43:38.575Z

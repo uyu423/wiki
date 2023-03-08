@@ -2,7 +2,7 @@
 title: 使用持久卷在 Kubernetes 上部署有状态应用程序
 description: 
 published: true
-date: 2023-01-31T14:43:51.919Z
+date: 2023-01-31T14:43:53.471Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T14:43:51.919Z

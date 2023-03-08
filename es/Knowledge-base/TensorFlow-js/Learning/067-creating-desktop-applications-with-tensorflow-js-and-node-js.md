@@ -2,7 +2,7 @@
 title: 067: Creación de aplicaciones de escritorio con TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-02T22:36:26.667Z
+date: 2023-02-02T22:36:28.419Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T22:36:26.667Z

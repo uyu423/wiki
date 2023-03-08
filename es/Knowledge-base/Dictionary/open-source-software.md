@@ -2,7 +2,7 @@
 title: Open-Source Software
 description: 
 published: true
-date: 2023-02-07T12:18:12.531Z
+date: 2023-02-07T12:18:13.828Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T18:37:09.460Z

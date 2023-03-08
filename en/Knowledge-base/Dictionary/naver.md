@@ -2,7 +2,7 @@
 title: NAVER
 description: 
 published: true
-date: 2023-02-28T12:32:41.952Z
+date: 2023-02-28T12:32:43.323Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T12:32:41.952Z

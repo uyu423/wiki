@@ -2,7 +2,7 @@
 title: Max Levchin (PayPal Co-founder)
 description: 
 published: true
-date: 2023-02-16T18:17:33.118Z
+date: 2023-02-16T18:17:35.928Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T18:17:33.118Z

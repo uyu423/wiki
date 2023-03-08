@@ -2,7 +2,7 @@
 title: Spring Boot 中的依赖注入
 description: 
 published: true
-date: 2023-01-31T14:57:23.775Z
+date: 2023-01-31T14:57:25.307Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T14:57:23.775Z

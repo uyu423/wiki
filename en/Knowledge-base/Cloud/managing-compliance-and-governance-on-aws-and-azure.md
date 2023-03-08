@@ -2,7 +2,7 @@
 title: Managing Compliance and Governance on AWS and Azure
 description: 
 published: true
-date: 2023-03-05T08:32:37.265Z
+date: 2023-03-05T08:32:46.845Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T08:32:37.265Z

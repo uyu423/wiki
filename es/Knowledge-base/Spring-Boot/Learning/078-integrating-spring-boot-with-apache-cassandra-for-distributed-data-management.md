@@ -2,7 +2,7 @@
 title: 078: Integración de Spring Boot con Apache Cassandra para la gestión de datos distribuidos
 description: 
 published: true
-date: 2023-02-05T09:32:39.733Z
+date: 2023-02-05T09:32:41.473Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T09:32:39.733Z

@@ -2,7 +2,7 @@
 title: Kotlin 및 XML: 데이터 파싱 및 직렬화
 description: 
 published: true
-date: 2023-02-18T01:32:15.272Z
+date: 2023-02-18T01:32:16.610Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T01:32:15.272Z

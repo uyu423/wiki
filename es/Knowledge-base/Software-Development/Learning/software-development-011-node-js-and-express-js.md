@@ -2,7 +2,7 @@
 title: Desarrollo de software 011: Node.js y Express.js
 description: 
 published: true
-date: 2023-02-16T11:55:34.913Z
+date: 2023-02-16T11:55:36.491Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T11:55:34.913Z

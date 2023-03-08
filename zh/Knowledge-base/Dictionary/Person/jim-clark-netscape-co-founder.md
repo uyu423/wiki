@@ -2,7 +2,7 @@
 title: Jim Clark (Netscape Co-founder)
 description: 
 published: true
-date: 2023-02-11T05:55:42.144Z
+date: 2023-02-11T05:55:44.222Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T05:55:42.144Z

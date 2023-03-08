@@ -2,7 +2,7 @@
 title: 실시간 데이터 처리를 위해 Redis Streams를 사용하는 방법
 description: 
 published: true
-date: 2023-03-05T21:32:33.955Z
+date: 2023-03-05T21:32:35.328Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T21:32:33.955Z

@@ -2,7 +2,7 @@
 title: 고성능 백엔드 통신을 위한 gRPC
 description: 
 published: true
-date: 2023-01-30T20:43:33.201Z
+date: 2023-02-17T18:13:24.700Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T20:43:33.201Z

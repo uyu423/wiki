@@ -2,7 +2,7 @@
 title: [Lenguaje C] 001: Análisis asintótico
 description: 
 published: true
-date: 2023-02-12T13:32:21.620Z
+date: 2023-02-12T13:32:23.273Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T13:32:21.620Z

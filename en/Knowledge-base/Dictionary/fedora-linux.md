@@ -2,7 +2,7 @@
 title: Fedora Linux
 description: 
 published: true
-date: 2023-01-31T18:58:20.209Z
+date: 2023-01-31T18:58:21.813Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T18:58:20.209Z

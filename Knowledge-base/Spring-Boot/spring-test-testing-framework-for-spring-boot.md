@@ -2,7 +2,7 @@
 title: Spring 테스트: Spring Boot용 테스트 프레임워크
 description: 
 published: true
-date: 2023-01-31T01:57:36.262Z
+date: 2023-02-17T18:16:55.674Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T01:57:36.262Z

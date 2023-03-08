@@ -2,7 +2,7 @@
 title: 036: Kotlin의 연산자 오버로딩: 사용자 지정 유형에 대한 일반 연산자 오버로딩
 description: 
 published: true
-date: 2023-02-14T10:18:39.252Z
+date: 2023-02-14T10:18:41.023Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T10:18:39.252Z

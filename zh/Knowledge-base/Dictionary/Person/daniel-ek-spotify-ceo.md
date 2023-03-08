@@ -2,7 +2,7 @@
 title: Daniel Ek (Spotify CEO)
 description: 
 published: true
-date: 2023-02-02T05:18:38.571Z
+date: 2023-02-02T05:18:40.341Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T05:18:38.571Z

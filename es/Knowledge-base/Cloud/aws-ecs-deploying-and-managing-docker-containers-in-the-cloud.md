@@ -2,7 +2,7 @@
 title: AWS ECS: implementación y administración de contenedores Docker en la nube
 description: 
 published: true
-date: 2023-02-16T00:17:51.797Z
+date: 2023-02-16T00:17:54.328Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T00:17:51.797Z

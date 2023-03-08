@@ -2,7 +2,7 @@
 title: 워크플로 관리 개선을 위한 작업 오케스트레이션
 description: 
 published: true
-date: 2023-02-16T10:17:27.777Z
+date: 2023-02-16T10:17:29.842Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T10:17:27.777Z

@@ -2,7 +2,7 @@
 title: 016: Type Assertions in TypeScript: How to Override TypeScript's Type System
 description: 
 published: true
-date: 2023-03-02T11:32:15.426Z
+date: 2023-03-02T11:32:16.860Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T11:32:15.426Z

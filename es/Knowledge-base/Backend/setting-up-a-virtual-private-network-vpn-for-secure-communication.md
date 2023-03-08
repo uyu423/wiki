@@ -2,7 +2,7 @@
 title: Configuración de una red privada virtual (VPN) para una comunicación segura
 description: 
 published: true
-date: 2023-02-04T22:55:31.247Z
+date: 2023-02-04T22:55:32.925Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T22:55:31.247Z

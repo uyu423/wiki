@@ -2,7 +2,7 @@
 title: 073: 검색 및 분석을 위해 Elasticsearch와 Spring Boot 통합
 description: 
 published: true
-date: 2023-02-02T04:43:39.050Z
+date: 2023-02-02T04:43:40.776Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T04:43:39.050Z

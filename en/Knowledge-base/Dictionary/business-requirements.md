@@ -2,7 +2,7 @@
 title: Business Requirements
 description: 
 published: true
-date: 2023-02-16T09:55:42.970Z
+date: 2023-02-16T09:55:44.915Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T09:55:42.970Z

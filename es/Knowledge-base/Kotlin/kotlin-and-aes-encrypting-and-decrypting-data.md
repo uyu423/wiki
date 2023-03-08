@@ -2,7 +2,7 @@
 title: Kotlin y AES: Cifrado y descifrado de datos
 description: 
 published: true
-date: 2023-02-08T00:17:33.536Z
+date: 2023-02-08T00:17:35.150Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T00:17:33.536Z

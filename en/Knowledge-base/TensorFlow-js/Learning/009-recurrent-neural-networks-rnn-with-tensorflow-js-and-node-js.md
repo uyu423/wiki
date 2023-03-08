@@ -2,7 +2,7 @@
 title: 009: Recurrent Neural Networks (RNN) with TensorFlow.js and Node.js
 description: 
 published: true
-date: 2023-02-02T08:43:58.506Z
+date: 2023-02-02T08:44:00.133Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T08:43:58.506Z

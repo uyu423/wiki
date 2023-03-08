@@ -2,7 +2,7 @@
 title: 040: TensorFlow.js 및 Node.js를 사용한 데이터 셔플링 및 일괄 처리
 description: 
 published: true
-date: 2023-02-02T16:17:33.107Z
+date: 2023-02-02T16:17:34.752Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T16:17:33.107Z

@@ -2,7 +2,7 @@
 title: 스프링 부트 로깅
 description: 
 published: true
-date: 2023-02-01T02:17:20.837Z
+date: 2023-02-01T02:17:22.500Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T02:17:20.837Z

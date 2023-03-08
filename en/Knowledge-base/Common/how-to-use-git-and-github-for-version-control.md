@@ -2,7 +2,7 @@
 title: How to Use Git and GitHub for Version Control
 description: 
 published: true
-date: 2023-02-02T06:29:28.301Z
+date: 2023-02-02T06:29:29.660Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T06:23:35.071Z

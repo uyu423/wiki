@@ -2,7 +2,7 @@
 title: DNS
 description: 
 published: true
-date: 2023-02-25T19:32:30.060Z
+date: 2023-02-25T19:32:31.419Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-25T19:32:30.060Z

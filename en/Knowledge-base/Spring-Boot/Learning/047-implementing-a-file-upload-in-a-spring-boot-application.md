@@ -2,7 +2,7 @@
 title: 047: Implementing a file upload in a Spring Boot application
 description: 
 published: true
-date: 2023-02-04T13:32:26.506Z
+date: 2023-02-04T13:32:28.292Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T13:32:26.506Z

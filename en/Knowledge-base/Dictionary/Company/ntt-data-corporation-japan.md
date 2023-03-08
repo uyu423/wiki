@@ -2,7 +2,7 @@
 title: NTT Data Corporation (Japan)
 description: 
 published: true
-date: 2023-02-05T14:55:56.768Z
+date: 2023-02-05T14:55:58.750Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T14:55:56.768Z

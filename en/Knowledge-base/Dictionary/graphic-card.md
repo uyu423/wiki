@@ -2,7 +2,7 @@
 title: Graphic Card
 description: 
 published: true
-date: 2023-02-25T23:33:03.848Z
+date: 2023-02-25T23:33:05.229Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-25T23:33:03.848Z

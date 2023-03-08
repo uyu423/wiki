@@ -2,7 +2,7 @@
 title: Microservices Architecture with Spring Boot
 description: 
 published: true
-date: 2023-01-30T02:54:59.142Z
+date: 2023-02-17T18:01:30.669Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T02:54:59.142Z

@@ -2,7 +2,7 @@
 title: 008: TypeScript의 제네릭: 유형 매개변수로 재사용 가능한 코드를 작성하는 방법
 description: 
 published: true
-date: 2023-03-07T20:32:38.020Z
+date: 2023-03-07T20:32:39.400Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T20:32:38.020Z

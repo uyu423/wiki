@@ -2,7 +2,7 @@
 title: 025: TensorFlow.js 및 Node.js를 사용한 추천 시스템
 description: 
 published: true
-date: 2023-02-02T12:44:00.916Z
+date: 2023-02-02T12:44:02.486Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T12:44:00.916Z

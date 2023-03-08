@@ -2,7 +2,7 @@
 title: 004: Understanding the architecture of a Nest.js application
 description: 
 published: true
-date: 2023-02-14T01:56:36.156Z
+date: 2023-02-14T01:56:38.106Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T01:56:36.156Z

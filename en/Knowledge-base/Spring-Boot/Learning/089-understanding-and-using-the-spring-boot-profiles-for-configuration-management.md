@@ -2,7 +2,7 @@
 title: 089: Understanding and Using the Spring Boot Profiles for Configuration Management
 description: 
 published: true
-date: 2023-02-05T19:32:16.282Z
+date: 2023-02-05T19:32:17.931Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T19:32:16.282Z

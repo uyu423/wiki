@@ -2,7 +2,7 @@
 title: Validación de entrada con Spring Boot
 description: 
 published: true
-date: 2023-02-07T04:32:27.466Z
+date: 2023-02-07T04:32:29.101Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T04:32:27.466Z

@@ -2,7 +2,7 @@
 title: 071: Spring Boot 애플리케이션에서 국제화(i18n) 구현
 description: 
 published: true
-date: 2023-02-01T22:36:35.788Z
+date: 2023-02-01T22:36:37.345Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T22:36:35.788Z

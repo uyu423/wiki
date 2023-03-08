@@ -2,7 +2,7 @@
 title: 038: Building and deploying serverless applications with Nest.js
 description: 
 published: true
-date: 2023-02-12T14:17:55.776Z
+date: 2023-02-12T14:17:57.534Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T14:17:55.776Z

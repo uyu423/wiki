@@ -2,7 +2,7 @@
 title: 백엔드 애플리케이션을 위한 A/B 테스트 구현
 description: 
 published: true
-date: 2023-02-08T22:55:55.488Z
+date: 2023-02-08T22:55:57.136Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T22:55:55.488Z

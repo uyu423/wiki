@@ -2,7 +2,7 @@
 title: PyOpenGL
 description: 
 published: true
-date: 2023-02-11T13:55:59.522Z
+date: 2023-02-11T13:56:01.568Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T13:55:59.522Z

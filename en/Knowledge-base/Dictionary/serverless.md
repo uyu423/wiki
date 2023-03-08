@@ -2,7 +2,7 @@
 title: Serverless
 description: 
 published: true
-date: 2023-02-05T19:55:46.799Z
+date: 2023-02-05T19:55:48.932Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T19:55:46.799Z

@@ -2,7 +2,7 @@
 title: Firewall
 description: 
 published: true
-date: 2023-01-31T04:17:31.530Z
+date: 2023-01-31T04:17:33.147Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T04:17:31.530Z

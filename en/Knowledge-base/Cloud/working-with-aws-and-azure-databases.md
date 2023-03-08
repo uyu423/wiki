@@ -2,7 +2,7 @@
 title: Working with AWS and Azure Databases
 description: 
 published: true
-date: 2023-02-17T04:17:31.093Z
+date: 2023-02-17T04:18:22.173Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T04:17:31.093Z

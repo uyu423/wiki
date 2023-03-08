@@ -2,7 +2,7 @@
 title: David Heinemeier Hansson (Ruby on Rails Creator)
 description: 
 published: true
-date: 2023-02-23T23:32:39.497Z
+date: 2023-02-23T23:32:40.841Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-23T23:32:39.497Z

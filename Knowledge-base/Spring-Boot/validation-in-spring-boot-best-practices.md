@@ -2,7 +2,7 @@
 title: Spring Boot의 유효성 검사: 모범 사례
 description: 
 published: true
-date: 2023-02-01T17:11:34.768Z
+date: 2023-02-01T17:11:36.425Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T17:11:34.768Z

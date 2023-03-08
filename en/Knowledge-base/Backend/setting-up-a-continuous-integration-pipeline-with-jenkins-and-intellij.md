@@ -2,7 +2,7 @@
 title: Setting up a Continuous Integration Pipeline with Jenkins and IntelliJ
 description: 
 published: true
-date: 2023-02-13T13:18:08.217Z
+date: 2023-02-13T13:18:10.011Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T13:18:08.217Z

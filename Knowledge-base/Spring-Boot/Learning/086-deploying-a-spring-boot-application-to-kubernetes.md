@@ -2,7 +2,7 @@
 title: 086: Kubernetes에 Spring Boot 애플리케이션 배포
 description: 
 published: true
-date: 2023-02-05T16:32:16.104Z
+date: 2023-02-05T16:32:17.769Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T16:32:16.104Z

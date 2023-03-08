@@ -2,7 +2,7 @@
 title: Spring Boot开发中的接口隔离原则
 description: 
 published: true
-date: 2023-02-04T02:17:20.760Z
+date: 2023-02-04T02:17:22.379Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T02:17:20.760Z

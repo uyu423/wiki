@@ -2,7 +2,7 @@
 title: Web Assembly
 description: 
 published: true
-date: 2023-02-12T04:56:15.923Z
+date: 2023-02-12T04:56:18.421Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T04:56:15.923Z

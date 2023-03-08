@@ -2,7 +2,7 @@
 title: MySQL 06：SQL 中的数据操作：INSERT、UPDATE、DELETE 和 ALTER
 description: 
 published: true
-date: 2023-02-06T12:32:53.731Z
+date: 2023-02-06T12:32:55.410Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T12:32:53.731Z

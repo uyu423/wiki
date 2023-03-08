@@ -2,7 +2,7 @@
 title: 소프트웨어 개발에 애자일 프로젝트 관리 적용
 description: 
 published: true
-date: 2023-02-03T08:57:16.959Z
+date: 2023-02-03T08:57:18.471Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T08:57:16.959Z

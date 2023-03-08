@@ -2,7 +2,7 @@
 title: Change Management
 description: 
 published: true
-date: 2023-01-31T22:58:01.839Z
+date: 2023-01-31T22:58:03.476Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T22:58:01.839Z

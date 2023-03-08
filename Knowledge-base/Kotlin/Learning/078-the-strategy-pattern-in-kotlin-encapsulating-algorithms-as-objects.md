@@ -2,7 +2,7 @@
 title: 078: Kotlin의 전략 패턴: 알고리즘을 객체로 캡슐화
 description: 
 published: true
-date: 2023-02-14T17:55:26.996Z
+date: 2023-02-14T17:55:28.640Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T17:55:26.996Z

@@ -2,7 +2,7 @@
 title: 020: Uso de canalizaciones para la transformación de datos en Nest.js
 description: 
 published: true
-date: 2023-02-09T15:17:21.912Z
+date: 2023-02-09T15:17:23.593Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T15:17:21.912Z

@@ -2,7 +2,7 @@
 title: Cloud Migration
 description: 
 published: true
-date: 2023-02-16T17:18:14.213Z
+date: 2023-02-16T17:18:16.771Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T17:18:14.213Z

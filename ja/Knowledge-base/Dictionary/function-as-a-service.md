@@ -2,7 +2,7 @@
 title: Function as a Service
 description: 
 published: true
-date: 2023-02-04T18:55:38.648Z
+date: 2023-02-04T18:55:40.837Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T18:55:38.648Z

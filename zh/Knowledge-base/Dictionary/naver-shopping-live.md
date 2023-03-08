@@ -2,7 +2,7 @@
 title: NAVER Shopping Live
 description: 
 published: true
-date: 2023-02-01T06:51:44.170Z
+date: 2023-02-01T06:51:46.032Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T06:51:44.170Z

@@ -2,7 +2,7 @@
 title: Kubernetes 사용자 지정 리소스 정의: Kubernetes API 확장
 description: 
 published: true
-date: 2023-02-01T08:24:12.122Z
+date: 2023-02-01T08:24:13.578Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T08:24:12.122Z

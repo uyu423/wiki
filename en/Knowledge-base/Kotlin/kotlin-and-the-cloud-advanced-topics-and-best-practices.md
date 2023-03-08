@@ -2,7 +2,7 @@
 title: Kotlin and the Cloud: Advanced Topics and Best Practices
 description: 
 published: true
-date: 2023-02-18T04:32:15.625Z
+date: 2023-02-18T04:32:16.967Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T04:32:15.625Z

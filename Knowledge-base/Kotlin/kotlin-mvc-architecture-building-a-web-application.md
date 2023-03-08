@@ -2,7 +2,7 @@
 title: Kotlin MVC 아키텍처: 웹 애플리케이션 구축
 description: 
 published: true
-date: 2023-02-18T01:06:28.000Z
+date: 2023-02-18T01:06:29.375Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T01:06:28.000Z

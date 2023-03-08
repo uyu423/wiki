@@ -2,7 +2,7 @@
 title: Capgemini SE
 description: 
 published: true
-date: 2023-02-28T18:32:56.581Z
+date: 2023-02-28T18:32:57.998Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T18:32:56.581Z

@@ -2,7 +2,7 @@
 title: 095：在 TensorFlow.js 和 Node.js 中构建长短期记忆 (LSTM) 网络
 description: 
 published: true
-date: 2023-02-03T05:17:53.921Z
+date: 2023-02-03T05:17:55.550Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T05:17:53.921Z

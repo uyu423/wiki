@@ -2,7 +2,7 @@
 title: 006: Introduction to functional design patterns in JavaScript
 description: 
 published: true
-date: 2023-02-17T09:32:42.514Z
+date: 2023-02-17T09:32:43.869Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T09:32:42.514Z

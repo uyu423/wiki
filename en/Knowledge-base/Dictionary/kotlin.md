@@ -2,7 +2,7 @@
 title: Kotlin
 description: 
 published: true
-date: 2023-02-08T21:56:12.008Z
+date: 2023-02-08T21:56:14.091Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T21:56:12.007Z

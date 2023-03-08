@@ -2,7 +2,7 @@
 title: Palantir Technologies Inc.
 description: 
 published: true
-date: 2023-02-28T05:33:03.233Z
+date: 2023-02-28T05:33:04.613Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T05:33:03.233Z

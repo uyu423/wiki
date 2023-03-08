@@ -2,7 +2,7 @@
 title: Spring Boot and Spring Batch for Large-Scale Data Processing
 description: 
 published: true
-date: 2023-02-08T07:32:18.292Z
+date: 2023-02-08T07:32:19.922Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T07:32:18.292Z

@@ -2,7 +2,7 @@
 title: Artificial Intelligence
 description: 
 published: true
-date: 2023-01-31T10:44:46.282Z
+date: 2023-01-31T10:44:47.849Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T10:44:46.282Z

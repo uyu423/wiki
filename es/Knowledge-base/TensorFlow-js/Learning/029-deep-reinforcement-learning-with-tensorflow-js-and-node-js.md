@@ -2,7 +2,7 @@
 title: 029: aprendizaje de refuerzo profundo con TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-02T13:44:23.978Z
+date: 2023-02-02T13:44:25.663Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T13:44:23.978Z

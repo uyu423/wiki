@@ -2,7 +2,7 @@
 title: MySQL 04: Técnicas avanzadas de SQL: JOIN, UNION y subconsultas
 description: 
 published: true
-date: 2023-02-06T10:32:14.010Z
+date: 2023-02-06T10:32:15.572Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T10:32:14.010Z

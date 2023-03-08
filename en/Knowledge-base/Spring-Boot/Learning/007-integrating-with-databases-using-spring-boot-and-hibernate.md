@@ -2,7 +2,7 @@
 title: 007: Integrating with databases using Spring Boot and Hibernate
 description: 
 published: true
-date: 2023-02-03T08:04:17.495Z
+date: 2023-02-03T08:04:19.102Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T08:04:17.495Z

@@ -2,7 +2,7 @@
 title: Software Development 028: Neural Networks
 description: 
 published: true
-date: 2023-02-16T14:55:31.848Z
+date: 2023-02-16T14:55:34.063Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T14:55:31.848Z

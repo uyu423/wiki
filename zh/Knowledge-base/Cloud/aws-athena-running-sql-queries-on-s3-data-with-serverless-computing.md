@@ -2,7 +2,7 @@
 title: AWS Athena：使用无服务器计算对 S3 数据运行 SQL 查询
 description: 
 published: true
-date: 2023-01-31T08:57:36.971Z
+date: 2023-01-31T08:57:38.601Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T08:57:36.971Z

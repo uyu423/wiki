@@ -2,7 +2,7 @@
 title: User Interface Design
 description: 
 published: true
-date: 2023-02-15T07:19:38.647Z
+date: 2023-02-15T07:19:41.156Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T07:19:38.647Z

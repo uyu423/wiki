@@ -2,7 +2,7 @@
 title: 051: uso de devoluciones de llamada con TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-02T18:43:27.810Z
+date: 2023-02-02T18:43:29.401Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T18:43:27.810Z

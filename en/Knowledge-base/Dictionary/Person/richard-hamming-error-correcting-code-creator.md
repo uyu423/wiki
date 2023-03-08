@@ -2,7 +2,7 @@
 title: Richard Hamming (Error-Correcting Code Creator)
 description: 
 published: true
-date: 2023-02-11T13:20:52.256Z
+date: 2023-02-11T13:20:54.588Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T13:20:52.256Z

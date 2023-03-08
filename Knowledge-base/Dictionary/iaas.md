@@ -2,7 +2,7 @@
 title: IaaS
 description: 
 published: true
-date: 2023-02-16T08:17:47.613Z
+date: 2023-02-16T08:17:50.455Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T08:17:47.613Z

@@ -2,7 +2,7 @@
 title: 017: Genéricos en Kotlin: escribir código reutilizable con parámetros de tipo
 description: 
 published: true
-date: 2023-02-02T02:57:43.262Z
+date: 2023-02-02T02:57:44.940Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T02:57:43.262Z

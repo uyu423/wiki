@@ -2,7 +2,7 @@
 title: 070: Optimización del rendimiento con TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-02T23:17:15.875Z
+date: 2023-02-02T23:17:17.397Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T23:17:15.875Z

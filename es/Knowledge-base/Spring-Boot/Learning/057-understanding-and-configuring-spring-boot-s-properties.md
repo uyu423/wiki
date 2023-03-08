@@ -2,7 +2,7 @@
 title: 057: comprensión y configuración de las propiedades de Spring Boot
 description: 
 published: true
-date: 2023-02-04T20:32:17.137Z
+date: 2023-02-04T20:32:18.720Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T20:32:17.137Z

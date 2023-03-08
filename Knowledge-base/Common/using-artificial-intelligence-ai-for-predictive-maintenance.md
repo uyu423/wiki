@@ -2,7 +2,7 @@
 title: 예측 유지 관리에 인공 지능(AI) 사용
 description: 
 published: true
-date: 2023-01-30T06:16:12.485Z
+date: 2023-02-17T18:01:56.726Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T06:16:12.485Z

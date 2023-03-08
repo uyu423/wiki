@@ -2,7 +2,7 @@
 title: Best Practices for Cloud DevOps on AWS and Azure
 description: 
 published: true
-date: 2023-02-05T09:55:15.908Z
+date: 2023-02-05T09:55:17.546Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T09:55:15.908Z

@@ -2,7 +2,7 @@
 title: Kubernetes con CSI: administración de almacenamiento para sus clústeres
 description: 
 published: true
-date: 2023-02-14T12:32:38.592Z
+date: 2023-02-14T12:32:40.244Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T12:32:38.592Z

@@ -2,7 +2,7 @@
 title: El principio de Hollywood en el desarrollo de Spring Boot
 description: 
 published: true
-date: 2023-02-08T09:57:30.207Z
+date: 2023-02-08T09:57:31.949Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T09:57:30.207Z

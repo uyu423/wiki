@@ -2,7 +2,7 @@
 title: バックエンド開発のための Kotlin 入門
 description: 
 published: true
-date: 2023-01-31T06:23:16.142Z
+date: 2023-01-31T06:23:17.685Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T06:23:16.142Z

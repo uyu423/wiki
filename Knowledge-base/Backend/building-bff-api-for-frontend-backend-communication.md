@@ -2,7 +2,7 @@
 title: 프런트엔드-백엔드 통신을 위한 BFF API 구축
 description: 
 published: true
-date: 2023-02-18T13:32:38.196Z
+date: 2023-02-18T13:32:39.605Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T13:32:38.195Z

@@ -2,7 +2,7 @@
 title: Routing
 description: 
 published: true
-date: 2023-02-15T01:56:29.025Z
+date: 2023-02-15T01:56:31.439Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T01:56:29.025Z

@@ -2,7 +2,7 @@
 title: 034: Using Spring Boot with Spring Cloud Config
 description: 
 published: true
-date: 2023-02-04T02:32:31.608Z
+date: 2023-02-04T02:32:33.243Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T02:32:31.608Z

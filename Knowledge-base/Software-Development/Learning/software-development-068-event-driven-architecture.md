@@ -2,7 +2,7 @@
 title: 소프트웨어 개발 068: 이벤트 기반 아키텍처
 description: 
 published: true
-date: 2023-02-10T18:17:25.059Z
+date: 2023-02-10T18:17:26.664Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T18:17:25.059Z

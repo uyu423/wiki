@@ -2,7 +2,7 @@
 title: 059: Implementación de una aplicación Spring Boot en la nube
 description: 
 published: true
-date: 2023-02-04T22:32:13.957Z
+date: 2023-02-04T22:32:15.610Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T22:32:13.957Z

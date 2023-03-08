@@ -2,7 +2,7 @@
 title: 093: Creación de redes antagónicas generativas convolucionales profundas (DC-GAN) en TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-03T04:44:35.188Z
+date: 2023-02-03T04:44:37.018Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T04:44:35.188Z

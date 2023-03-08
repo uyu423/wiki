@@ -2,7 +2,7 @@
 title: 059: The Builder Pattern in Kotlin: Creating Complex Objects with a Clear Syntax
 description: 
 published: true
-date: 2023-02-16T20:32:26.453Z
+date: 2023-02-16T20:32:28.656Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T20:32:26.453Z

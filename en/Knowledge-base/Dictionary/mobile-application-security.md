@@ -2,7 +2,7 @@
 title: Mobile Application Security
 description: 
 published: true
-date: 2023-03-07T06:32:38.377Z
+date: 2023-03-07T06:32:39.744Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T06:32:38.377Z

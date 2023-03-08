@@ -2,7 +2,7 @@
 title: 029: Apache Camel에서 Spring Boot 사용
 description: 
 published: true
-date: 2023-02-03T21:32:15.345Z
+date: 2023-02-03T21:32:17.182Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T21:32:15.345Z

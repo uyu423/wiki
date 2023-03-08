@@ -1,0 +1,295 @@
+---
+title: [JavaScript] 039: 힙 기반 우선순위 큐
+description: 
+published: true
+date: 2023-02-10T17:32:52.328Z
+tags: 
+editor: markdown
+dateCreated: 2023-02-10T17:32:50.667Z
+---
+
+> 이 문서는 **Google Cloud Translation API를 사용해 자동 번역**되었습니다.
+어떤 문서는 원문을 읽는게 나을 수도 있습니다.{.is-info}
+
+
+
+- [[JavaScript] 039: Heap-Based Priority Queue***English** document is available*](/en/Knowledge-base/Algorithm/javascript-039-heap-based-priority-queue)
+{.links-list}
+
+
+# JavaScript 039: 힙 기반 우선순위 큐
+
+우선 순위 큐는 관련 우선 순위가 있는 요소를 저장할 수 있는 데이터 구조입니다. 우선 순위가 가장 높은 요소가 항상 먼저 제거됩니다.
+
+우선순위 큐를 구현하는 방법에는 여러 가지가 있습니다. 이 게시물에서는 한 가지 방법인 힙을 사용하는 방법에 대해 설명합니다.
+
+## 힙이란?
+
+힙은 각 노드에 우선 순위가 있는 트리와 같은 데이터 구조입니다. 루트 노드는 항상 우선 순위가 가장 높은 노드입니다.
+
+![힙 예](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Max-Heap.svg/280px-Max-Heap.svg.png)
+
+힙에는 최대 힙과 최소 힙의 두 가지 유형이 있습니다. 최대 힙에서 루트 노드는 항상 최대 우선순위를 가진 노드입니다. 최소 힙에서 루트 노드는 항상 최소 우선순위를 가진 노드입니다.
+
+## 구현
+
+최대 힙을 사용하여 우선순위 큐를 구현할 수 있습니다. 이를 위해 배열을 사용하여 힙을 저장합니다. 루트 노드는 인덱스 0에, 루트 노드의 왼쪽 자식은 인덱스 1에, 루트 노드의 오른쪽 자식은 인덱스 2에 있게 됩니다.
+
+다음은 최대 힙의 간단한 구현입니다.
+
+```javascript
+class MaxHeap {
+  constructor() {
+    this.heap = [];
+  }
+
+  insert(element) {
+    // Add the new element to the end of the array
+    this.heap.push(element);
+
+    // Find the index of the new element
+    let index = this.heap.length - 1;
+
+    // Get the parent index
+    let parentIndex = Math.floor((index - 1) / 2);
+
+    // Keep swapping the element with its parent until it is at the correct position
+    while (index > 0 && this.heap[parentIndex] < this.heap[index]) {
+      // Swap the element with its parent
+      let temp = this.heap[parentIndex];
+      this.heap[parentIndex] = this.heap[index];
+      this.heap[index] = temp;
+
+      // Update the index and parentIndex variables
+      index = parentIndex;
+      parentIndex = Math.floor((index - 1) / 2);
+    }
+  }
+
+  remove() {
+    // If the heap is empty, return undefined
+    if (this.heap.length === 0) return undefined;
+
+    // Remove the root element from the heap
+    let removed = this.heap.shift();
+
+    // If there are no more elements in the heap, return the removed element
+    if (this.heap.length === 0) return removed;
+
+    // Add the last element in the heap to the root position
+    this.heap.unshift(this.heap.pop());
+
+    // Get the index of the new root element
+    let index = 0;
+
+    // Get the indices of the child elements
+    let leftChildIndex = 2 * index + 1;
+    let rightChildIndex = 2 * index + 2;
+
+    // Keep swapping the element with its children until it is at the correct position
+    while (
+      (leftChildIndex < this.heap.length && this.heap[index] < this.heap[leftChildIndex]) ||
+      (rightChildIndex < this.heap.length && this.heap[index] < this.heap[rightChildIndex])
+    ) {
+      // If the left child is larger than the right child, swap with the left child
+      if (
+        rightChildIndex >= this.heap.length ||
+        this.heap[leftChildIndex] > this.heap[rightChildIndex]
+      ) {
+        // Swap the element with its left child
+        let temp = this.heap[leftChildIndex];
+        this.heap[leftChildIndex] = this.heap[index];
+        this.heap[index] = temp;
+
+        // Update the index and childIndex variables
+        index = leftChildIndex;
+        leftChildIndex = 2 * index + 1;
+        rightChildIndex = 2 * index + 2;
+      }
+      // Otherwise, swap with the right child
+      else {
+        // Swap the element with its right child
+        let temp = this.heap[rightChildIndex];
+        this.heap[rightChildIndex] = this.heap[index];
+        this.heap[index] = temp;
+
+        // Update the index and childIndex variables
+        index = rightChildIndex;
+        leftChildIndex = 2 * index + 1;
+        rightChildIndex = 2 * index + 2;
+      }
+    }
+
+    // Return the removed element
+    return removed;
+  }
+}
+
+let heap = new MaxHeap();
+heap.insert(10);
+heap.insert(5);
+heap.insert(3);
+heap.insert(4);
+heap.insert(1);
+console.log(heap.remove()); // 10
+console.log(heap.remove()); // 5
+console.log(heap.remove()); // 4
+console.log(heap.remove()); // 3
+console.log(heap.remove()); // 1
+console.log(heap.remove()); // undefined
+```
+
+## 복잡성
+
+요소를 힙에 삽입하는 것은 **O(log n)**의 복잡도를 가집니다. 힙에서 요소를 제거하는 것은 **O(log n)**의 복잡도를 가집니다.
+
+## 운동
+
+1. 최대 힙과 동일한 기술을 사용하여 최소 힙을 구현합니다.
+
+2. 힙을 사용하여 우선 순위 대기열을 구현합니다.
+
+## 답변
+
+1.
+
+```javascript
+class MinHeap {
+  constructor() {
+    this.heap = [];
+  }
+
+  insert(element) {
+    // Add the new element to the end of the array
+    this.heap.push(element);
+
+    // Find the index of the new element
+    let index = this.heap.length - 1;
+
+    // Get the parent index
+    let parentIndex = Math.floor((index - 1) / 2);
+
+    // Keep swapping the element with its parent until it is at the correct position
+    while (index > 0 && this.heap[parentIndex] > this.heap[index]) {
+      // Swap the element with its parent
+      let temp = this.heap[parentIndex];
+      this.heap[parentIndex] = this.heap[index];
+      this.heap[index] = temp;
+
+      // Update the index and parentIndex variables
+      index = parentIndex;
+      parentIndex = Math.floor((index - 1) / 2);
+    }
+  }
+
+  remove() {
+    // If the heap is empty, return undefined
+    if (this.heap.length === 0) return undefined;
+
+    // Remove the root element from the heap
+    let removed = this.heap.shift();
+
+    // If there are no more elements in the heap, return the removed element
+    if (this.heap.length === 0) return removed;
+
+    // Add the last element in the heap to the root position
+    this.heap.unshift(this.heap.pop());
+
+    // Get the index of the new root element
+    let index = 0;
+
+    // Get the indices of the child elements
+    let leftChildIndex = 2 * index + 1;
+    let rightChildIndex = 2 * index + 2;
+
+    // Keep swapping the element with its children until it is at the correct position
+    while (
+      (leftChildIndex < this.heap.length && this.heap[index] > this.heap[leftChildIndex]) ||
+      (rightChildIndex < this.heap.length && this.heap[index] > this.heap[rightChildIndex])
+    ) {
+      // If the left child is smaller than the right child, swap with the left child
+      if (
+        rightChildIndex >= this.heap.length ||
+        this.heap[leftChildIndex] < this.heap[rightChildIndex]
+      ) {
+        // Swap the element with its left child
+        let temp = this.heap[leftChildIndex];
+        this.heap[leftChildIndex] = this.heap[index];
+        this.heap[index] = temp;
+
+        // Update the index and childIndex variables
+        index = leftChildIndex;
+        leftChildIndex = 2 * index + 1;
+        rightChildIndex = 2 * index + 2;
+      }
+      // Otherwise, swap with the right child
+      else {
+        // Swap the element with its right child
+        let temp = this.heap[rightChildIndex];
+        this.heap[rightChildIndex] = this.heap[index];
+        this.heap[index] = temp;
+
+        // Update the index and childIndex variables
+        index = rightChildIndex;
+        leftChildIndex = 2 * index + 1;
+        rightChildIndex = 2 * index + 2;
+      }
+    }
+
+    // Return the removed element
+    return removed;
+  }
+}
+
+let heap = new MinHeap();
+heap.insert(10);
+heap.insert(5);
+heap.insert(3);
+heap.insert(4);
+heap.insert(1);
+console.log(heap.remove()); // 1
+console.log(heap.remove()); // 3
+console.log(heap.remove()); // 4
+console.log(heap.remove()); // 5
+console.log(heap.remove()); // 10
+console.log(heap.remove()); // undefined
+```
+
+2.
+
+```javascript
+class PriorityQueue {
+  constructor() {
+    this.heap = new MaxHeap();
+  }
+
+  insert(element, priority) {
+    let node = new Node(element, priority);
+    this.heap.insert(node);
+  }
+
+  remove() {
+    return this.heap.remove().element;
+  }
+}
+
+class Node {
+  constructor(element, priority) {
+    this.element = element;
+    this.priority = priority;
+  }
+}
+
+let queue = new PriorityQueue();
+queue.insert("A", 1);
+queue.insert("B", 2);
+queue.insert("C", 3);
+queue.insert("D", 4);
+queue.insert("E", 5);
+console.log(queue.remove()); // E
+console.log(queue.remove()); // D
+console.log(queue.remove()); // C
+console.log(queue.remove()); // B
+console.log(queue.remove()); // A
+console.log(queue.remove()); // undefined
+```

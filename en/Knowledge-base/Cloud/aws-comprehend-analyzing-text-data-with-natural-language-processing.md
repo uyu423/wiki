@@ -2,7 +2,7 @@
 title: AWS Comprehend: Analyzing Text Data with Natural Language Processing
 description: 
 published: true
-date: 2023-02-14T21:17:18.359Z
+date: 2023-02-14T21:17:20.185Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T21:17:18.359Z

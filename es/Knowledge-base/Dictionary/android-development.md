@@ -2,7 +2,7 @@
 title: Android Development
 description: 
 published: true
-date: 2023-02-12T12:17:40.842Z
+date: 2023-02-12T12:17:42.629Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T12:17:40.842Z

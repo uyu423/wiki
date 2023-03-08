@@ -2,7 +2,7 @@
 title: Software Development 069: Event Sourcing and CQRS
 description: 
 published: true
-date: 2023-02-02T21:57:21.120Z
+date: 2023-02-02T21:57:22.722Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T21:57:21.120Z

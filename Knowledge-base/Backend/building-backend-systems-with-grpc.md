@@ -2,7 +2,7 @@
 title: gRPC로 백엔드 시스템 구축
 description: 
 published: true
-date: 2023-01-29T20:52:09.320Z
+date: 2023-02-17T18:00:52.570Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T20:52:09.320Z

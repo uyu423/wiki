@@ -2,7 +2,7 @@
 title: 038: Creación de una aplicación de chat con Spring Boot y WebSockets
 description: 
 published: true
-date: 2023-02-04T06:32:21.670Z
+date: 2023-02-04T06:32:23.482Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T06:32:21.670Z

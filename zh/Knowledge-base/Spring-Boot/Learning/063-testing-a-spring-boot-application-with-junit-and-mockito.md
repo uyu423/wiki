@@ -2,7 +2,7 @@
 title: 063：使用 JUnit 和 Mockito 测试 Spring Boot 应用程序
 description: 
 published: true
-date: 2023-02-05T01:32:25.523Z
+date: 2023-02-05T01:32:27.948Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T01:32:25.523Z

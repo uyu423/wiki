@@ -2,7 +2,7 @@
 title: John Warnock (PostScript Creator)
 description: 
 published: true
-date: 2023-02-03T17:55:59.464Z
+date: 2023-02-03T17:56:01.226Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:55:59.464Z

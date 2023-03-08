@@ -2,7 +2,7 @@
 title: [JavaScript] 038: Técnicas de resolución de colisiones (encadenamiento, direccionamiento abierto, etc.)
 description: 
 published: true
-date: 2023-02-10T16:32:30.723Z
+date: 2023-02-10T16:32:32.347Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T16:32:30.723Z

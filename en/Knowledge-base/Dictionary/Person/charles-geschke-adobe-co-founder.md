@@ -2,7 +2,7 @@
 title: Charles Geschke (Adobe Co-founder)
 description: 
 published: true
-date: 2023-02-23T02:30:34.878Z
+date: 2023-02-23T02:31:25.223Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-23T02:30:34.878Z

@@ -2,7 +2,7 @@
 title: 005: Spring Boot 및 Spring Data JPA 작업
 description: 
 published: true
-date: 2023-02-03T07:43:43.284Z
+date: 2023-02-03T07:43:44.916Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T07:43:43.284Z

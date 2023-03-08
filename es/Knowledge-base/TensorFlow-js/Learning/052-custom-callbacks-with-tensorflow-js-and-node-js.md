@@ -2,7 +2,7 @@
 title: 052: Devoluciones de llamadas personalizadas con TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-02T19:04:47.423Z
+date: 2023-02-02T19:04:49.223Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T19:04:47.423Z

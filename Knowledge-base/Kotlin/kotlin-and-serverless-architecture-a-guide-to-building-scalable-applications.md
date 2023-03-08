@@ -2,7 +2,7 @@
 title: Kotlin 및 서버리스 아키텍처: 확장 가능한 애플리케이션 구축 가이드
 description: 
 published: true
-date: 2023-02-18T11:06:33.464Z
+date: 2023-02-18T11:06:34.883Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T11:06:33.464Z

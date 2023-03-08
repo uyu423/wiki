@@ -2,7 +2,7 @@
 title: 042: Implementación de notificaciones en tiempo real con Nest.js y Firebase
 description: 
 published: true
-date: 2023-02-12T03:17:52.267Z
+date: 2023-02-12T03:17:53.986Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T03:17:52.267Z

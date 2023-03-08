@@ -2,7 +2,7 @@
 title: Bandai Namco Holdings (Japan)
 description: 
 published: true
-date: 2023-02-06T05:18:07.356Z
+date: 2023-02-06T05:18:09.347Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T05:18:07.356Z

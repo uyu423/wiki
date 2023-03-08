@@ -2,7 +2,7 @@
 title: DXC Technology Company
 description: 
 published: true
-date: 2023-02-12T04:17:47.032Z
+date: 2023-02-12T04:17:49.710Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T04:17:47.032Z

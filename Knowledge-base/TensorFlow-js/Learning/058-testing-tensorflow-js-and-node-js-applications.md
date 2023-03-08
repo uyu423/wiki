@@ -2,7 +2,7 @@
 title: 058: TensorFlow.js 및 Node.js 애플리케이션 테스트
 description: 
 published: true
-date: 2023-02-02T20:36:33.574Z
+date: 2023-02-02T20:36:35.181Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T20:36:33.574Z

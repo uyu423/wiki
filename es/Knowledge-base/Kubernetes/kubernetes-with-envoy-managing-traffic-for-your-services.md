@@ -2,7 +2,7 @@
 title: Kubernetes con Envoy: administración del tráfico para sus servicios
 description: 
 published: true
-date: 2023-02-12T23:17:34.227Z
+date: 2023-02-12T23:17:35.874Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T23:17:34.227Z

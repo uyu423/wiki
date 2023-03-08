@@ -2,7 +2,7 @@
 title: 006: Implementando seguridad con Spring Security
 description: 
 published: true
-date: 2023-02-03T07:45:36.284Z
+date: 2023-02-03T07:45:38.194Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T07:45:36.284Z

@@ -2,7 +2,7 @@
 title: Python 프로그래밍: 초보자 가이드
 description: 
 published: true
-date: 2023-02-01T14:25:07.049Z
+date: 2023-02-01T14:25:08.602Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T14:25:07.049Z

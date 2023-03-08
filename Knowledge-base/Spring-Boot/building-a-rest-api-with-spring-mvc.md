@@ -2,7 +2,7 @@
 title: Spring MVC로 REST API 구축
 description: 
 published: true
-date: 2023-01-30T01:02:49.008Z
+date: 2023-02-17T18:01:16.826Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T01:02:49.008Z

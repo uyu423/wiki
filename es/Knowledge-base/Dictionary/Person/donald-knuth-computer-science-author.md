@@ -2,7 +2,7 @@
 title: Donald Knuth (Computer Science Author)
 description: 
 published: true
-date: 2023-02-12T10:57:04.230Z
+date: 2023-02-12T10:57:06.526Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T10:57:04.230Z

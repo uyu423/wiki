@@ -2,7 +2,7 @@
 title: Tesla
 description: 
 published: true
-date: 2023-02-01T21:04:58.592Z
+date: 2023-02-01T21:05:00.791Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T21:04:58.592Z

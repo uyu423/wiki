@@ -2,7 +2,7 @@
 title: AWS Redshift: 완전관리형 서비스로 데이터 웨어하우징 확장
 description: 
 published: true
-date: 2023-02-01T08:57:17.561Z
+date: 2023-02-01T08:57:18.975Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T08:57:17.561Z

@@ -2,7 +2,7 @@
 title: 098: Creación de redes antagónicas generativas (GAN) en TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-03T06:04:51.005Z
+date: 2023-02-03T06:04:52.608Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T06:04:51.005Z

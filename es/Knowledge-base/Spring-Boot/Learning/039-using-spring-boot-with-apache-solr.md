@@ -2,7 +2,7 @@
 title: 039: Uso de Spring Boot con Apache Solr
 description: 
 published: true
-date: 2023-02-04T05:17:24.711Z
+date: 2023-02-04T05:17:26.326Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T05:17:24.711Z

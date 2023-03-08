@@ -2,7 +2,7 @@
 title: 안전한 백엔드 통신을 위한 가상 사설망(VPN)
 description: 
 published: true
-date: 2023-02-18T18:32:20.715Z
+date: 2023-02-18T18:32:22.065Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T18:32:20.715Z

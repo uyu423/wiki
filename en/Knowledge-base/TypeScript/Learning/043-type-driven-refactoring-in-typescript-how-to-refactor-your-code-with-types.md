@@ -2,7 +2,7 @@
 title: 043: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types
 description: 
 published: true
-date: 2023-03-06T00:32:45.856Z
+date: 2023-03-06T00:32:47.205Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-06T00:32:45.856Z

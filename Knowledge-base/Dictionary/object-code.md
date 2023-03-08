@@ -2,7 +2,7 @@
 title: Object Code
 description: 
 published: true
-date: 2023-01-31T00:36:23.468Z
+date: 2023-02-17T18:16:10.769Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T00:36:23.468Z

@@ -2,7 +2,7 @@
 title: AWS Lambda: Building Serverless Functions for Event-Driven Applications
 description: 
 published: true
-date: 2023-02-19T00:33:32.053Z
+date: 2023-02-19T00:33:33.571Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T00:33:32.053Z

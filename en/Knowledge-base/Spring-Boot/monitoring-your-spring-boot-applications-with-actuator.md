@@ -2,7 +2,7 @@
 title: Monitoring Your Spring Boot Applications with Actuator
 description: 
 published: true
-date: 2023-01-30T10:16:13.717Z
+date: 2023-02-17T18:02:47.784Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T10:16:13.717Z

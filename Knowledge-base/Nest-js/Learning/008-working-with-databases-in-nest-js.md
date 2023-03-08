@@ -2,7 +2,7 @@
 title: 008: Nest.js에서 데이터베이스 작업
 description: 
 published: true
-date: 2023-02-14T19:32:37.814Z
+date: 2023-02-14T19:32:39.660Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T19:32:37.814Z

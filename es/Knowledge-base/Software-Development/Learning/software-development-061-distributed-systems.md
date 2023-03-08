@@ -2,7 +2,7 @@
 title: Desarrollo de Software 061: Sistemas Distribuidos
 description: 
 published: true
-date: 2023-02-02T05:55:34.489Z
+date: 2023-02-02T05:55:35.792Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T22:17:58.494Z

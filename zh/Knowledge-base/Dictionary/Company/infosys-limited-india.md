@@ -2,7 +2,7 @@
 title: Infosys Limited (India)
 description: 
 published: true
-date: 2023-02-04T00:55:55.008Z
+date: 2023-02-04T00:55:56.876Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T00:55:55.007Z

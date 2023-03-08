@@ -2,7 +2,7 @@
 title: Spring Boot의 캐싱 전략
 description: 
 published: true
-date: 2023-01-31T08:11:48.718Z
+date: 2023-01-31T08:11:49.982Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T08:07:36.073Z

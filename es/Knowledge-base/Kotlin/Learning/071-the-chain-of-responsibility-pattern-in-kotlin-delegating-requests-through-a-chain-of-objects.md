@@ -2,7 +2,7 @@
 title: 071: El patrón de cadena de responsabilidad en Kotlin: Delegar solicitudes a través de una cadena de objetos
 description: 
 published: true
-date: 2023-02-17T04:32:36.351Z
+date: 2023-02-17T04:33:28.458Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T04:32:36.351Z

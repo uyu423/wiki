@@ -2,7 +2,7 @@
 title: El patrón de puente en el desarrollo de Spring Boot
 description: 
 published: true
-date: 2023-02-06T09:17:14.247Z
+date: 2023-02-06T09:17:15.836Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T09:17:14.247Z

@@ -2,7 +2,7 @@
 title: Detección de servicios para aplicaciones back-end basadas en microservicios
 description: 
 published: true
-date: 2023-02-01T17:36:32.643Z
+date: 2023-02-01T17:36:36.577Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T17:36:32.643Z

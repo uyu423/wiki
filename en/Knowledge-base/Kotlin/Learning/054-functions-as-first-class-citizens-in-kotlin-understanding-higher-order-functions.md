@@ -2,7 +2,7 @@
 title: 054: Functions as First-Class Citizens in Kotlin: Understanding Higher-Order Functions
 description: 
 published: true
-date: 2023-02-16T18:32:55.843Z
+date: 2023-02-16T18:32:58.485Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T18:32:55.843Z

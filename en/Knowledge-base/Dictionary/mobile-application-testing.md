@@ -2,7 +2,7 @@
 title: Mobile Application Testing
 description: 
 published: true
-date: 2023-03-01T21:32:30.051Z
+date: 2023-03-01T21:32:31.393Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-01T21:32:30.051Z

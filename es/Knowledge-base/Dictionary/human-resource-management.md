@@ -2,7 +2,7 @@
 title: Human Resource Management
 description: 
 published: true
-date: 2023-02-07T12:18:54.134Z
+date: 2023-02-07T12:18:55.892Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T12:18:54.134Z

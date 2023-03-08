@@ -2,7 +2,7 @@
 title: 028: Nest.js의 마이크로서비스 간 통신
 description: 
 published: true
-date: 2023-02-15T08:32:21.793Z
+date: 2023-02-15T08:32:23.777Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T08:32:21.793Z

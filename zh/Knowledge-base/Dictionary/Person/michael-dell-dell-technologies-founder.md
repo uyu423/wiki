@@ -2,7 +2,7 @@
 title: Michael Dell (Dell Technologies Founder)
 description: 
 published: true
-date: 2023-02-02T12:24:00.936Z
+date: 2023-02-02T12:24:02.990Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T12:24:00.936Z

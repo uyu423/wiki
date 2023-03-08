@@ -2,7 +2,7 @@
 title: 068: El patrón de fachada en Kotlin: proporcionando una interfaz simple para sistemas complejos
 description: 
 published: true
-date: 2023-02-17T02:32:21.378Z
+date: 2023-02-17T02:32:23.415Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T02:32:21.378Z

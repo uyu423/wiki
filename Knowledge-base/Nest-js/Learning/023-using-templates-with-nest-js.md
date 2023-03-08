@@ -2,7 +2,7 @@
 title: 023: Nest.js에서 템플릿 사용하기
 description: 
 published: true
-date: 2023-02-15T04:32:31.160Z
+date: 2023-02-15T04:32:33.147Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T04:32:31.160Z

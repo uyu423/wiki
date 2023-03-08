@@ -2,7 +2,7 @@
 title: macOS
 description: 
 published: true
-date: 2023-01-31T09:36:56.713Z
+date: 2023-01-31T09:36:58.314Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T09:36:56.713Z

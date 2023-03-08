@@ -2,7 +2,7 @@
 title: MySQL 01: SQL 소개 및 기획자와 마케터를 위한 SQL의 중요성
 description: 
 published: true
-date: 2023-02-06T09:14:28.236Z
+date: 2023-02-06T09:14:29.869Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T09:14:28.236Z

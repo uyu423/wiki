@@ -2,7 +2,7 @@
 title: Wide Area Network
 description: 
 published: true
-date: 2023-02-08T23:17:37.046Z
+date: 2023-02-08T23:17:39.324Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T23:17:37.046Z

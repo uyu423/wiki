@@ -2,7 +2,7 @@
 title: Laravel: A PHP Framework for Backend Development
 description: 
 published: true
-date: 2023-02-04T13:17:23.558Z
+date: 2023-02-04T13:17:25.180Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T13:17:23.558Z

@@ -2,7 +2,7 @@
 title: 객체 지향 프로그래밍: 개념 및 모범 사례
 description: 
 published: true
-date: 2023-01-30T00:10:47.976Z
+date: 2023-02-17T18:01:08.574Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:10:47.976Z

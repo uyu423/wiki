@@ -2,7 +2,7 @@
 title: 048: Adadelta Optimization with TensorFlow.js and Node.js
 description: 
 published: true
-date: 2023-02-02T18:17:47.725Z
+date: 2023-02-02T18:17:49.406Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T18:17:47.725Z

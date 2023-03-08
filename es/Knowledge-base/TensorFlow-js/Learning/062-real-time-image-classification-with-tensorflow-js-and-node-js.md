@@ -2,7 +2,7 @@
 title: 062: Clasificación de imágenes en tiempo real con TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-02T21:36:43.517Z
+date: 2023-02-02T21:36:45.222Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T21:36:43.517Z

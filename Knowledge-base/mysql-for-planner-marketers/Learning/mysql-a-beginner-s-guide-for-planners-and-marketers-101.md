@@ -2,7 +2,7 @@
 title: MySQL 플래너 및 마케터를 위한 초보자 가이드: 101
 description: 
 published: true
-date: 2023-02-06T16:34:07.566Z
+date: 2023-02-06T16:34:09.365Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T16:34:07.566Z

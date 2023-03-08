@@ -2,7 +2,7 @@
 title: 소프트웨어 개발 060: 에지 컴퓨팅
 description: 
 published: true
-date: 2023-02-12T21:17:21.887Z
+date: 2023-02-12T21:17:23.523Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T21:17:21.887Z

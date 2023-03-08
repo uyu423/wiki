@@ -2,7 +2,7 @@
 title: RBAC de Kubernetes: protección del acceso a los recursos del clúster
 description: 
 published: true
-date: 2023-02-09T00:32:27.330Z
+date: 2023-02-09T00:32:28.962Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T00:32:27.330Z

@@ -2,7 +2,7 @@
 title: Kubernetes 资源管理：为您的 Pod 设置限制和请求
 description: 
 published: true
-date: 2023-02-05T20:17:20.631Z
+date: 2023-02-05T20:17:22.162Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T20:17:20.631Z

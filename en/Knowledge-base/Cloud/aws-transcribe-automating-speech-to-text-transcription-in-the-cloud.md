@@ -2,7 +2,7 @@
 title: AWS Transcribe: Automating Speech-to-Text Transcription in the Cloud
 description: 
 published: true
-date: 2023-02-19T03:32:22.715Z
+date: 2023-02-19T03:32:24.075Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T03:32:22.715Z

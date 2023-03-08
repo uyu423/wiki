@@ -2,7 +2,7 @@
 title: Limor Fried (Adafruit Industries Founder)
 description: 
 published: true
-date: 2023-02-11T12:17:56.319Z
+date: 2023-02-11T12:17:58.399Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T12:17:56.319Z

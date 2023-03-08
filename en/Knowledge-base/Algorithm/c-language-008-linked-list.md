@@ -2,7 +2,7 @@
 title: [C Language] 008: Linked List
 description: 
 published: true
-date: 2023-02-12T19:32:40.204Z
+date: 2023-02-12T19:32:41.891Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T19:32:40.204Z

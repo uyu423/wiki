@@ -2,7 +2,7 @@
 title: DNS Anycast: How to Improve DNS Performance and Resilience
 description: 
 published: true
-date: 2023-03-08T03:32:42.513Z
+date: 2023-03-08T03:32:43.890Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-08T03:32:42.513Z

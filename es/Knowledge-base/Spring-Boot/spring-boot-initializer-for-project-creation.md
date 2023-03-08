@@ -2,7 +2,7 @@
 title: Spring Boot Initializer para la creación de proyectos
 description: 
 published: true
-date: 2023-02-07T21:32:31.782Z
+date: 2023-02-07T21:32:33.417Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T21:32:31.782Z

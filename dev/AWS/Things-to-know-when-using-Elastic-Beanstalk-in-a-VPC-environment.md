@@ -2,8 +2,8 @@
 title: VPC 환경에서 Elastic Beanstalk 을 사용해야할 때 알아둬야할 것들
 description: Public Subnet 이라고 해서 무조건 외부 인터넷과 통신이 가능한 것이 아니다.
 published: true
-date: 2022-12-24T20:52:50.337Z
-tags: aws, elasticbeanstalk, elasticip, vpc
+date: 2023-02-17T17:59:47.623Z
+tags: aws, elasticbeanstalk, vpc, elasticip
 editor: markdown
 dateCreated: 2022-11-25T20:37:51.253Z
 ---

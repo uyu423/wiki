@@ -2,7 +2,7 @@
 title: Redis AI: Redis를 사용한 기계 학습 및 딥 러닝
 description: 
 published: true
-date: 2023-03-03T21:32:20.108Z
+date: 2023-03-03T21:32:21.503Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-03T21:32:20.108Z

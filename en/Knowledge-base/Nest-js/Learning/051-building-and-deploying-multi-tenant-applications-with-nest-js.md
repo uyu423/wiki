@@ -2,7 +2,7 @@
 title: 051: Building and deploying multi-tenant applications with Nest.js
 description: 
 published: true
-date: 2023-02-02T01:17:40.783Z
+date: 2023-02-02T01:17:42.383Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T01:17:40.783Z

@@ -2,7 +2,7 @@
 title: Gantt Chart
 description: 
 published: true
-date: 2023-02-24T05:32:32.484Z
+date: 2023-02-24T05:32:33.822Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-24T05:32:32.484Z

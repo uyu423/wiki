@@ -2,7 +2,7 @@
 title: 024: Implementación de paginación en una aplicación Spring Boot
 description: 
 published: true
-date: 2023-02-03T16:32:18.620Z
+date: 2023-02-03T16:32:20.210Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T16:32:18.619Z

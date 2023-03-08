@@ -2,7 +2,7 @@
 title: Servicios RESTful de Spring Boot
 description: 
 published: true
-date: 2023-02-07T09:32:31.814Z
+date: 2023-02-07T09:32:33.469Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T09:32:31.814Z

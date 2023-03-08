@@ -2,7 +2,7 @@
 title: Estudio de caso: desarrollo y lanzamiento de un servicio de comercio electrónico simple en AWS
 description: 
 published: true
-date: 2023-02-04T11:18:07.048Z
+date: 2023-02-04T11:18:08.701Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T11:18:07.048Z

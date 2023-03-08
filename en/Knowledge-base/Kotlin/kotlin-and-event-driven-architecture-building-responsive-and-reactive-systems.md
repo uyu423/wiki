@@ -2,7 +2,7 @@
 title: Kotlin and Event-driven Architecture: Building Responsive and Reactive Systems
 description: 
 published: true
-date: 2023-02-05T03:55:31.757Z
+date: 2023-02-05T03:55:33.404Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T03:55:31.757Z

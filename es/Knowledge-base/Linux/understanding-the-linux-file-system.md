@@ -2,7 +2,7 @@
 title: Comprender el sistema de archivos de Linux
 description: 
 published: true
-date: 2023-02-11T05:32:23.626Z
+date: 2023-02-11T05:32:25.166Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T05:32:23.626Z

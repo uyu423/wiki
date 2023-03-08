@@ -2,7 +2,7 @@
 title: AWS と Azure でのマルチリージョン アプリケーションの開発
 description: 
 published: true
-date: 2023-01-31T03:43:30.443Z
+date: 2023-01-31T03:43:32.016Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T03:43:30.443Z

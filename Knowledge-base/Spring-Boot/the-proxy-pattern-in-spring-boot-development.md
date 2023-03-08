@@ -2,7 +2,7 @@
 title: Spring Boot 개발의 프록시 패턴
 description: 
 published: true
-date: 2023-01-30T22:57:26.204Z
+date: 2023-02-17T18:15:17.756Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T22:57:26.204Z

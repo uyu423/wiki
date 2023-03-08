@@ -2,7 +2,7 @@
 title: SSL로 백엔드 애플리케이션 보호
 description: 
 published: true
-date: 2023-01-31T23:57:22.547Z
+date: 2023-01-31T23:57:24.110Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T23:57:22.547Z

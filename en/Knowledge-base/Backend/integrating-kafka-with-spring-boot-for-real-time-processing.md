@@ -2,7 +2,7 @@
 title: Integrating Kafka with Spring Boot for Real-time Processing
 description: 
 published: true
-date: 2023-01-31T20:17:24.083Z
+date: 2023-01-31T20:17:25.435Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T20:17:24.083Z

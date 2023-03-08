@@ -2,7 +2,7 @@
 title: Continuous Integration and Continuous Deployment on AWS and Azure
 description: 
 published: true
-date: 2023-02-04T16:55:49.813Z
+date: 2023-02-04T16:55:51.598Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T16:55:49.813Z

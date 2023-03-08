@@ -2,7 +2,7 @@
 title: Using Sealed Classes in Kotlin
 description: 
 published: true
-date: 2023-02-15T10:55:40.104Z
+date: 2023-02-15T10:55:42.018Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T10:55:40.104Z

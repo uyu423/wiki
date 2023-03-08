@@ -2,7 +2,7 @@
 title: Aspect-Oriented Programming in Spring Boot
 description: 
 published: true
-date: 2023-02-08T09:33:05.478Z
+date: 2023-02-08T09:33:07.120Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T09:33:05.478Z

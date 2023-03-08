@@ -2,7 +2,7 @@
 title: Trabajar con datos binarios en TypeScript y Node.js
 description: 
 published: true
-date: 2023-02-10T09:17:38.475Z
+date: 2023-02-10T09:17:40.961Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T09:17:38.475Z

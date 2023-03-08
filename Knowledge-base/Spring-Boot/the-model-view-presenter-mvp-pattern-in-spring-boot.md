@@ -2,7 +2,7 @@
 title: Spring Boot의 MVP(Model-View-Presenter) 패턴
 description: 
 published: true
-date: 2023-01-31T11:23:18.891Z
+date: 2023-01-31T11:23:20.490Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T11:23:18.891Z

@@ -2,7 +2,7 @@
 title: Kubernetes CLI：从命令行使用您的集群
 description: 
 published: true
-date: 2023-01-31T01:43:36.182Z
+date: 2023-02-17T18:16:52.808Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T01:43:36.182Z

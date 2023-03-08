@@ -2,7 +2,7 @@
 title: Cómo construir una aplicación web de alto rendimiento
 description: 
 published: true
-date: 2023-02-13T11:55:29.703Z
+date: 2023-02-13T11:55:31.341Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T11:55:29.703Z

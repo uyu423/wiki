@@ -2,7 +2,7 @@
 title: 009: Advanced topics in lazy evaluation in JavaScript
 description: 
 published: true
-date: 2023-02-17T11:06:53.745Z
+date: 2023-02-17T11:06:55.136Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T11:06:53.745Z

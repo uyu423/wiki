@@ -2,7 +2,7 @@
 title: Ginni Rometty (IBM CEO)
 description: 
 published: true
-date: 2023-02-07T01:58:20.229Z
+date: 2023-02-07T01:58:21.987Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T01:58:20.229Z

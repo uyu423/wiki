@@ -2,7 +2,7 @@
 title: 用于数据访问和持久化的 Spring Boot 和 Spring Data
 description: 
 published: true
-date: 2023-02-08T06:32:31.671Z
+date: 2023-02-08T06:32:33.245Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T06:32:31.671Z

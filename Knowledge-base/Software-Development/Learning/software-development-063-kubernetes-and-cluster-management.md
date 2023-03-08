@@ -2,7 +2,7 @@
 title: 소프트웨어 개발 063: Kubernetes 및 클러스터 관리
 description: 
 published: true
-date: 2023-02-04T03:17:18.409Z
+date: 2023-02-04T03:17:19.965Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T03:17:18.409Z

@@ -2,7 +2,7 @@
 title: Building Social Media Applications with TypeScript and Next.js
 description: 
 published: true
-date: 2023-03-05T18:32:37.305Z
+date: 2023-03-05T18:32:38.718Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T18:32:37.305Z

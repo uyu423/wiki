@@ -2,7 +2,7 @@
 title: Utilizing Kotlin's Higher-Order Functions
 description: 
 published: true
-date: 2023-01-31T04:36:20.906Z
+date: 2023-01-31T04:36:22.479Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T04:36:20.906Z

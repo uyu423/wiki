@@ -2,7 +2,7 @@
 title: 070: Spring Boot con Thymeleaf: creación de plantillas dinámicas
 description: 
 published: true
-date: 2023-02-05T04:32:32.931Z
+date: 2023-02-05T04:32:34.610Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T04:32:32.931Z

@@ -2,7 +2,7 @@
 title: Line Corporation (Japan)
 description: 
 published: true
-date: 2023-02-02T05:24:20.054Z
+date: 2023-02-02T05:24:22.069Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T05:24:20.054Z

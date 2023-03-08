@@ -2,7 +2,7 @@
 title: 089: Fine-Tuning Pre-Trained Models in TensorFlow.js and Node.js
 description: 
 published: true
-date: 2023-02-03T03:43:59.396Z
+date: 2023-02-03T03:44:01.054Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T03:43:59.396Z

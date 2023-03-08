@@ -2,7 +2,7 @@
 title: Kotlin y MySQL: conexión a una base de datos relacional
 description: 
 published: true
-date: 2023-02-17T03:17:42.074Z
+date: 2023-02-17T03:17:43.997Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T03:17:42.074Z

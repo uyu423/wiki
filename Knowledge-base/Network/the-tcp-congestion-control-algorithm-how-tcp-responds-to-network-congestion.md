@@ -2,7 +2,7 @@
 title: TCP 정체 제어 알고리즘: TCP가 네트워크 정체에 대응하는 방법
 description: 
 published: true
-date: 2023-03-05T11:32:32.470Z
+date: 2023-03-05T11:32:33.835Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T11:32:32.470Z

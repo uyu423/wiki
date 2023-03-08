@@ -2,7 +2,7 @@
 title: OAuth 및 JWT로 백엔드 애플리케이션 보호
 description: 
 published: true
-date: 2023-02-01T22:43:38.245Z
+date: 2023-02-01T22:43:39.870Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T22:43:38.245Z

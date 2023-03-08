@@ -2,7 +2,7 @@
 title: Kubernetes 및 Docker를 사용하여 백엔드 애플리케이션 배포
 description: 
 published: true
-date: 2023-02-01T04:36:55.107Z
+date: 2023-02-01T04:36:56.751Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T04:36:55.107Z

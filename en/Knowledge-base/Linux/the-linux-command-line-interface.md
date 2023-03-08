@@ -2,7 +2,7 @@
 title: The Linux Command Line Interface
 description: 
 published: true
-date: 2023-02-11T06:32:12.222Z
+date: 2023-02-11T06:32:13.816Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T06:32:12.222Z

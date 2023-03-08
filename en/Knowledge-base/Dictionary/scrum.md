@@ -2,7 +2,7 @@
 title: Scrum
 description: 
 published: true
-date: 2023-02-26T23:32:47.374Z
+date: 2023-02-26T23:32:48.725Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T23:32:47.374Z

@@ -2,7 +2,7 @@
 title: Relational Database
 description: 
 published: true
-date: 2023-02-16T01:17:41.096Z
+date: 2023-02-16T01:17:43.113Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T01:17:41.096Z

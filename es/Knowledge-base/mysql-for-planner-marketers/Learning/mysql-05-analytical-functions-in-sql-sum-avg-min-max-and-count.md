@@ -2,7 +2,7 @@
 title: MySQL 05: Funciones analíticas en SQL: SUM, AVG, MIN, MAX y COUNT
 description: 
 published: true
-date: 2023-02-06T11:32:23.304Z
+date: 2023-02-06T11:32:24.845Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T11:32:23.304Z

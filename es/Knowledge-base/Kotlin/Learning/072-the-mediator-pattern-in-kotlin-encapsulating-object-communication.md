@@ -2,7 +2,7 @@
 title: 072: El patrón mediador en Kotlin: encapsulando la comunicación de objetos
 description: 
 published: true
-date: 2023-02-03T15:17:28.151Z
+date: 2023-02-03T15:17:29.741Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T15:17:28.151Z

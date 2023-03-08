@@ -2,7 +2,7 @@
 title: Computer Vision
 description: 
 published: true
-date: 2023-02-09T07:18:11.889Z
+date: 2023-02-09T07:18:13.562Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T07:18:11.889Z

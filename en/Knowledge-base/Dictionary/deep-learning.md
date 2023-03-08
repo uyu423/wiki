@@ -2,7 +2,7 @@
 title: Deep Learning
 description: 
 published: true
-date: 2023-03-06T23:32:43.339Z
+date: 2023-03-06T23:32:44.688Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-06T23:32:43.339Z

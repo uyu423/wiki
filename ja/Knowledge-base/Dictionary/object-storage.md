@@ -2,7 +2,7 @@
 title: Object Storage
 description: 
 published: true
-date: 2023-02-01T23:17:43.214Z
+date: 2023-02-01T23:17:44.871Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T23:17:43.214Z

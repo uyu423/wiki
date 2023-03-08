@@ -2,7 +2,7 @@
 title: Life Insurance
 description: 
 published: true
-date: 2023-02-05T03:18:32.590Z
+date: 2023-02-05T03:18:34.660Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T03:18:32.590Z

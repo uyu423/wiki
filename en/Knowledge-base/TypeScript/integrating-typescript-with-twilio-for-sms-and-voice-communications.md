@@ -2,7 +2,7 @@
 title: Integrating TypeScript with Twilio for SMS and Voice Communications
 description: 
 published: true
-date: 2023-01-30T16:17:27.610Z
+date: 2023-02-17T18:07:42.624Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T16:17:27.610Z

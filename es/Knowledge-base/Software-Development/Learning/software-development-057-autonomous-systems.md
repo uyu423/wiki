@@ -2,7 +2,7 @@
 title: Desarrollo de Software 057: Sistemas Autónomos
 description: 
 published: true
-date: 2023-02-11T11:55:23.183Z
+date: 2023-02-11T11:55:24.767Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T11:55:23.183Z

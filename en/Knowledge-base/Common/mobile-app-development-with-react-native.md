@@ -2,7 +2,7 @@
 title: Mobile App Development with React Native
 description: 
 published: true
-date: 2023-01-30T17:37:57.717Z
+date: 2023-02-17T18:09:54.974Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T17:37:57.717Z

@@ -2,7 +2,7 @@
 title: How to Build a RESTful API with Node.js
 description: 
 published: true
-date: 2023-03-02T10:32:18.820Z
+date: 2023-03-02T10:32:20.256Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T10:32:18.820Z

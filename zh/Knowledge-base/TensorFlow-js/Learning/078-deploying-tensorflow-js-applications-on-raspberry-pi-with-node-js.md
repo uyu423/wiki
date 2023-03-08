@@ -2,7 +2,7 @@
 title: 078：使用 Node.js 在 Raspberry Pi 上部署 TensorFlow.js 应用程序
 description: 
 published: true
-date: 2023-02-03T01:04:38.863Z
+date: 2023-02-03T01:04:40.419Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T01:04:38.863Z

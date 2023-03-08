@@ -2,7 +2,7 @@
 title: Zoom Video Communications, Inc.
 description: 
 published: true
-date: 2023-02-27T00:32:41.846Z
+date: 2023-02-27T00:32:43.235Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T00:32:41.846Z

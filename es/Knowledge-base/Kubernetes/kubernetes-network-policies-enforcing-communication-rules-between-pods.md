@@ -2,7 +2,7 @@
 title: Políticas de red de Kubernetes: aplicación de reglas de comunicación entre pods
 description: 
 published: true
-date: 2023-02-09T02:32:29.223Z
+date: 2023-02-09T02:32:30.800Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T02:32:29.223Z

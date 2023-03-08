@@ -2,7 +2,7 @@
 title: Database as a Service
 description: 
 published: true
-date: 2023-02-15T16:55:42.304Z
+date: 2023-02-15T16:55:44.553Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T16:55:42.304Z

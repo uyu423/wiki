@@ -2,7 +2,7 @@
 title: Accessibility
 description: 
 published: true
-date: 2023-02-01T00:36:45.631Z
+date: 2023-02-01T00:36:47.310Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T00:36:45.631Z

@@ -2,7 +2,7 @@
 title: Bob Frankston (VisiCalc Creator)
 description: 
 published: true
-date: 2023-02-24T06:32:34.070Z
+date: 2023-02-24T06:32:35.412Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-24T06:32:34.070Z

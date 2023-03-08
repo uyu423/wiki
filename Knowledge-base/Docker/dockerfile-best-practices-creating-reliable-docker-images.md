@@ -2,7 +2,7 @@
 title: Dockerfile 모범 사례: 신뢰할 수 있는 Docker 이미지 생성
 description: 
 published: true
-date: 2023-02-15T23:32:47.213Z
+date: 2023-02-15T23:32:48.933Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T23:32:47.213Z

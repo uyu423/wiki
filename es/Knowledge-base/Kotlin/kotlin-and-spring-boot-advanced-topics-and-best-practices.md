@@ -2,7 +2,7 @@
 title: Kotlin y Spring Boot: temas avanzados y mejores prácticas
 description: 
 published: true
-date: 2023-02-01T18:23:46.779Z
+date: 2023-02-01T18:23:50.838Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T18:23:46.779Z

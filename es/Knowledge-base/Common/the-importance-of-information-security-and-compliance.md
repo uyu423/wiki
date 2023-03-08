@@ -2,7 +2,7 @@
 title: La importancia de la seguridad de la información y el cumplimiento
 description: 
 published: true
-date: 2023-02-05T08:55:21.328Z
+date: 2023-02-05T08:55:22.936Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T08:55:21.328Z

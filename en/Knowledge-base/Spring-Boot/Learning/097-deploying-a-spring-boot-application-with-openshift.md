@@ -2,7 +2,7 @@
 title: 097: Deploying a Spring Boot Application with OpenShift
 description: 
 published: true
-date: 2023-02-04T18:17:18.461Z
+date: 2023-02-04T18:17:20.245Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T18:17:18.461Z

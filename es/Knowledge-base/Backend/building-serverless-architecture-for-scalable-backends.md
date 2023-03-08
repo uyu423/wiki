@@ -2,7 +2,7 @@
 title: Creación de una arquitectura sin servidor para backends escalables
 description: 
 published: true
-date: 2023-02-01T23:23:37.628Z
+date: 2023-02-01T23:23:39.229Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T23:23:37.628Z

@@ -2,7 +2,7 @@
 title: Shopify Inc.
 description: 
 published: true
-date: 2023-02-16T12:18:47.067Z
+date: 2023-02-16T12:18:50.565Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T12:18:47.067Z

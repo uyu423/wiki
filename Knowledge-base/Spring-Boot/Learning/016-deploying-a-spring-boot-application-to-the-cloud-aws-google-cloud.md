@@ -2,7 +2,7 @@
 title: 016: Spring Boot 애플리케이션을 클라우드(AWS, Google Cloud)에 배포
 description: 
 published: true
-date: 2023-02-03T09:43:15.070Z
+date: 2023-02-03T09:43:16.682Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T09:43:15.070Z

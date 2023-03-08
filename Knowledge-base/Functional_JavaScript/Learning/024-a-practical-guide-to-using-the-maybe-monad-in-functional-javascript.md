@@ -2,7 +2,7 @@
 title: 024: 함수형 자바스크립트에서 Maybe 모나드를 사용하는 실용 가이드
 description: 
 published: true
-date: 2023-02-17T18:33:28.563Z
+date: 2023-02-17T18:33:29.991Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T18:33:28.563Z

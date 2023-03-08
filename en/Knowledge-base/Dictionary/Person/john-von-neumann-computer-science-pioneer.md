@@ -2,7 +2,7 @@
 title: John von Neumann (Computer Science Pioneer)
 description: 
 published: true
-date: 2023-02-16T04:18:17.892Z
+date: 2023-02-16T04:19:16.597Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T04:18:17.892Z

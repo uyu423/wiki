@@ -2,7 +2,7 @@
 title: Andy Hertzfeld (Apple Engineer)
 description: 
 published: true
-date: 2023-02-03T04:58:03.270Z
+date: 2023-02-03T04:58:05.349Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T04:58:03.270Z

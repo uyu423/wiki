@@ -2,7 +2,7 @@
 title: Coupang (South Korea)
 description: 
 published: true
-date: 2023-02-02T06:20:55.833Z
+date: 2023-02-02T06:20:57.864Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T06:20:55.833Z

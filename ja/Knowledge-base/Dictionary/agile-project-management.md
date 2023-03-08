@@ -2,7 +2,7 @@
 title: Agile Project Management
 description: 
 published: true
-date: 2023-01-31T15:23:57.241Z
+date: 2023-01-31T15:23:58.831Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T15:23:57.241Z

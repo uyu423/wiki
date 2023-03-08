@@ -2,7 +2,7 @@
 title: 032: Node.js로 TensorFlow.js 모델 배포
 description: 
 published: true
-date: 2023-02-02T14:36:44.819Z
+date: 2023-02-02T14:36:46.681Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T14:36:44.819Z

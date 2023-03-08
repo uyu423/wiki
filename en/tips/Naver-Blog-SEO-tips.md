@@ -2,7 +2,7 @@
 title: Naver Blog SEO Tips for Top Ranking in Searches
 description: 
 published: true
-date: 2023-01-19T07:31:04.725Z
+date: 2023-02-17T18:00:44.267Z
 tags: english, naver, seo, tips
 editor: markdown
 dateCreated: 2023-01-19T07:08:38.250Z

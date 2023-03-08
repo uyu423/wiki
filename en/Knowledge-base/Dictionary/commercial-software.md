@@ -2,7 +2,7 @@
 title: Commercial Software
 description: 
 published: true
-date: 2023-02-05T00:55:36.609Z
+date: 2023-02-05T00:55:38.564Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T00:55:36.609Z

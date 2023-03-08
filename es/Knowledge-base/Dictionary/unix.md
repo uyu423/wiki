@@ -2,7 +2,7 @@
 title: Unix
 description: 
 published: true
-date: 2023-02-09T22:17:55.180Z
+date: 2023-02-09T22:17:57.074Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T22:17:55.180Z

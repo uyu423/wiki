@@ -2,7 +2,7 @@
 title: Node.js 개발을 위해 TypeScript로 마이그레이션
 description: 
 published: true
-date: 2023-01-29T21:25:08.834Z
+date: 2023-02-17T18:01:00.738Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:25:08.834Z

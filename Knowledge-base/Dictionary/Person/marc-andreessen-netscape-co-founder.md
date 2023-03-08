@@ -2,7 +2,7 @@
 title: Marc Andreessen (Netscape Co-founder)
 description: 
 published: true
-date: 2023-02-28T22:32:34.192Z
+date: 2023-02-28T22:32:35.556Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-28T22:32:34.192Z

@@ -2,7 +2,7 @@
 title: John Warnock (Adobe Co-founder)
 description: 
 published: true
-date: 2023-02-02T08:24:28.467Z
+date: 2023-02-02T08:24:30.525Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T08:24:28.467Z

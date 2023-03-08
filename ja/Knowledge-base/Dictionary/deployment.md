@@ -2,7 +2,7 @@
 title: Deployment
 description: 
 published: true
-date: 2023-02-15T04:17:55.144Z
+date: 2023-02-15T04:18:00.011Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T04:17:55.144Z

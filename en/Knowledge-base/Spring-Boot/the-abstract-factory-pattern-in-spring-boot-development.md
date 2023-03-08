@@ -2,7 +2,7 @@
 title: The Abstract Factory Pattern in Spring Boot Development
 description: 
 published: true
-date: 2023-02-08T14:32:37.981Z
+date: 2023-02-08T14:32:39.637Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T14:32:37.981Z

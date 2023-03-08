@@ -2,7 +2,7 @@
 title: [JavaScript] 041: Montón de Fibonacci
 description: 
 published: true
-date: 2023-02-10T19:32:28.111Z
+date: 2023-02-10T19:32:29.879Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T19:32:28.111Z

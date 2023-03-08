@@ -2,7 +2,7 @@
 title: Node.js and Computer Vision: A Hands-On Guide
 description: 
 published: true
-date: 2023-02-09T04:18:29.712Z
+date: 2023-02-09T04:18:31.411Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T04:18:29.712Z

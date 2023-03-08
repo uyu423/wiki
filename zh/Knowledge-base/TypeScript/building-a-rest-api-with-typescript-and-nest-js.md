@@ -2,7 +2,7 @@
 title: 使用 TypeScript 和 Nest.js 构建 REST API
 description: 
 published: true
-date: 2023-01-30T19:44:00.613Z
+date: 2023-02-17T18:12:56.684Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T19:44:00.613Z

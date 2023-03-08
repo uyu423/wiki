@@ -2,7 +2,7 @@
 title: 052: Spring Boot 및 Spring MVC를 사용하여 검색 엔진 최적화(SEO) 친화적인 웹 사이트 구축
 description: 
 published: true
-date: 2023-02-02T18:57:26.475Z
+date: 2023-02-02T18:57:28.123Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T18:57:26.475Z

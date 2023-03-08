@@ -2,7 +2,7 @@
 title: 027: Detección de anomalías con TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-02T13:17:47.456Z
+date: 2023-02-02T13:17:49.078Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T13:17:47.456Z

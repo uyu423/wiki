@@ -2,7 +2,7 @@
 title: 022: Spring Boot 애플리케이션에서 예외 처리 구현
 description: 
 published: true
-date: 2023-02-03T14:32:36.228Z
+date: 2023-02-03T14:32:37.804Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T14:32:36.228Z

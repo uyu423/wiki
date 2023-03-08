@@ -2,7 +2,7 @@
 title: 013: Implementing error handling strategies in functional JavaScript
 description: 
 published: true
-date: 2023-02-17T13:06:28.163Z
+date: 2023-02-17T13:06:29.544Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T13:06:28.163Z

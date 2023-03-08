@@ -2,7 +2,7 @@
 title: Kotlin 和 Django：使用 Python 框架构建 Web 应用程序
 description: 
 published: true
-date: 2023-02-03T13:56:30.200Z
+date: 2023-02-03T13:56:31.878Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T13:56:30.200Z

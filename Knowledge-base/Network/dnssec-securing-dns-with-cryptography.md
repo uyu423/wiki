@@ -2,7 +2,7 @@
 title: DNSSEC: 암호화로 DNS 보호
 description: 
 published: true
-date: 2023-03-04T04:32:27.991Z
+date: 2023-03-04T04:32:29.396Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-04T04:32:27.991Z

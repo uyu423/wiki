@@ -2,7 +2,7 @@
 title: Docker Compose and Kubernetes: Integrating Your Compose Files with Clusters
 description: 
 published: true
-date: 2023-01-30T09:24:42.379Z
+date: 2023-02-17T18:02:27.355Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T09:24:42.379Z

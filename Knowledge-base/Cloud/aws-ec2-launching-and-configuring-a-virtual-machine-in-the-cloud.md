@@ -2,7 +2,7 @@
 title: AWS EC2: 클라우드에서 가상 머신 시작 및 구성
 description: 
 published: true
-date: 2023-02-19T02:06:13.777Z
+date: 2023-02-19T02:06:15.105Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T02:06:13.777Z

@@ -2,7 +2,7 @@
 title: Elon Musk (Tesla CEO)
 description: 
 published: true
-date: 2023-02-10T02:17:45.285Z
+date: 2023-02-10T02:17:47.423Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T02:17:45.285Z

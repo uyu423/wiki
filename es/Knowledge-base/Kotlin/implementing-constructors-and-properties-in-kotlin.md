@@ -2,7 +2,7 @@
 title: Implementación de constructores y propiedades en Kotlin
 description: 
 published: true
-date: 2023-02-02T02:18:19.498Z
+date: 2023-02-02T02:18:21.246Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T02:18:19.498Z

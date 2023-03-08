@@ -2,7 +2,7 @@
 title: Kotlin 및 Ruby on Rails: Ruby 프레임워크로 웹 애플리케이션 구축
 description: 
 published: true
-date: 2023-01-31T08:36:43.211Z
+date: 2023-01-31T08:36:45.069Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T08:15:33.379Z

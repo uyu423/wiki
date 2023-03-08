@@ -2,7 +2,7 @@
 title: 자동화된 테스트 및 지속적인 통합의 중요성
 description: 
 published: true
-date: 2023-02-04T15:17:14.087Z
+date: 2023-02-04T15:17:15.591Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T15:17:14.087Z

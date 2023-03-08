@@ -2,7 +2,7 @@
 title: Integrating Cloud Services with On-Premises Systems
 description: 
 published: true
-date: 2023-02-01T14:36:20.617Z
+date: 2023-02-01T14:36:22.024Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T14:36:20.617Z

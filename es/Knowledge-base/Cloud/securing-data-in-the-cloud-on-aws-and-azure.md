@@ -2,7 +2,7 @@
 title: Protección de datos en la nube en AWS y Azure
 description: 
 published: true
-date: 2023-02-06T12:55:45.169Z
+date: 2023-02-06T12:55:46.800Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T12:55:45.169Z

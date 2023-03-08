@@ -2,7 +2,7 @@
 title: 085: Building a Search Engine with Spring Boot and Solr
 description: 
 published: true
-date: 2023-02-05T15:33:24.904Z
+date: 2023-02-05T15:33:26.678Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T15:33:24.904Z

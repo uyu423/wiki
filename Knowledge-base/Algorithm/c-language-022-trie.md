@@ -2,7 +2,7 @@
 title: [C언어] 022: 트라이
 description: 
 published: true
-date: 2023-02-11T00:17:27.433Z
+date: 2023-02-11T00:17:29.073Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T00:17:27.433Z

@@ -2,7 +2,7 @@
 title: Monitoring and Logging in Kubernetes Clusters
 description: 
 published: true
-date: 2023-02-08T19:32:22.532Z
+date: 2023-02-08T19:32:24.194Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T19:32:22.532Z

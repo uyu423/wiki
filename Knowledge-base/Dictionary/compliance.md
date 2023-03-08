@@ -2,7 +2,7 @@
 title: Compliance
 description: 
 published: true
-date: 2023-02-02T11:57:45.600Z
+date: 2023-02-02T11:57:47.844Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T11:57:45.600Z

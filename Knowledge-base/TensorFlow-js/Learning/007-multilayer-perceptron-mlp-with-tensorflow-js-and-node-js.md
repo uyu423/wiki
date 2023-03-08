@@ -2,7 +2,7 @@
 title: 007: TensorFlow.js 및 Node.js를 사용한 다층 퍼셉트론(MLP)
 description: 
 published: true
-date: 2023-02-02T08:17:30.974Z
+date: 2023-02-02T08:17:32.607Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T08:17:30.974Z

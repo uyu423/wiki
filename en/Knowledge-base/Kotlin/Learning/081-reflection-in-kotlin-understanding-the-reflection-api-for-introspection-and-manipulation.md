@@ -2,7 +2,7 @@
 title: 081: Reflection in Kotlin: Understanding the Reflection API for Introspection and Manipulation
 description: 
 published: true
-date: 2023-02-14T18:17:20.880Z
+date: 2023-02-14T18:17:22.961Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T18:17:20.880Z

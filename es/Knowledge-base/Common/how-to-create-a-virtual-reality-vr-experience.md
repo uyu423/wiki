@@ -2,7 +2,7 @@
 title: Cómo crear una experiencia de realidad virtual (VR)
 description: 
 published: true
-date: 2023-02-16T21:17:57.110Z
+date: 2023-02-16T21:17:59.429Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T21:17:57.110Z

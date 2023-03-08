@@ -2,7 +2,7 @@
 title: How to Build a Scalable Web Application with Microservices
 description: 
 published: true
-date: 2023-02-10T11:55:18.849Z
+date: 2023-02-10T11:55:20.575Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T11:55:18.849Z

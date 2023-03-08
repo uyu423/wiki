@@ -2,7 +2,7 @@
 title: Proprietary Software
 description: 
 published: true
-date: 2023-01-30T19:36:25.746Z
+date: 2023-02-17T18:12:42.651Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T19:36:25.746Z

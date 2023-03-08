@@ -2,7 +2,7 @@
 title: 백엔드 개발을 위한 Ruby on Rails
 description: 
 published: true
-date: 2023-02-18T15:32:34.603Z
+date: 2023-02-18T15:32:35.967Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T15:32:34.603Z

@@ -2,7 +2,7 @@
 title: IT Operations
 description: 
 published: true
-date: 2023-02-14T08:59:06.793Z
+date: 2023-02-14T08:59:09.345Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T08:59:06.793Z

@@ -2,7 +2,7 @@
 title: 023: JavaScript와 TypeScript 혼합: TypeScript를 기존 JavaScript 코드와 함께 사용하는 방법
 description: 
 published: true
-date: 2023-03-07T18:32:38.390Z
+date: 2023-03-07T18:32:39.819Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T18:32:38.390Z

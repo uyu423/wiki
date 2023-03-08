@@ -2,7 +2,7 @@
 title: Spring Boot Testing with JUnit
 description: 
 published: true
-date: 2023-02-07T19:32:25.891Z
+date: 2023-02-07T19:32:27.556Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T19:32:25.891Z

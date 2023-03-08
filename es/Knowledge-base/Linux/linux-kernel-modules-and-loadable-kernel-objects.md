@@ -2,7 +2,7 @@
 title: Módulos del kernel de Linux y objetos del kernel cargables
 description: 
 published: true
-date: 2023-02-11T16:32:18.724Z
+date: 2023-02-11T16:32:20.323Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T16:32:18.724Z

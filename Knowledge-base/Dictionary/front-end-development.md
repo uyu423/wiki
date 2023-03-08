@@ -2,7 +2,7 @@
 title: Front-End Development
 description: 
 published: true
-date: 2023-01-31T00:04:28.512Z
+date: 2023-02-17T18:15:55.929Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T00:04:28.512Z

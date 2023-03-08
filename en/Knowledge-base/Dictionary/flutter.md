@@ -2,7 +2,7 @@
 title: Flutter
 description: 
 published: true
-date: 2023-02-11T16:55:55.415Z
+date: 2023-02-11T16:55:57.609Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T16:55:55.414Z

@@ -2,7 +2,7 @@
 title: 060: Building high-performance applications with Nest.js and IndexedDB
 description: 
 published: true
-date: 2023-02-08T23:55:30.110Z
+date: 2023-02-08T23:55:31.772Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T23:55:30.110Z

@@ -2,7 +2,7 @@
 title: 040: Implementación de compatibilidad con varios idiomas en una aplicación Spring Boot
 description: 
 published: true
-date: 2023-02-02T04:04:25.500Z
+date: 2023-02-02T04:04:27.130Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T04:04:25.500Z

@@ -2,7 +2,7 @@
 title: 008: Using the Observer pattern in functional programming in JavaScript
 description: 
 published: true
-date: 2023-02-17T10:32:33.139Z
+date: 2023-02-17T10:32:34.512Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T10:32:33.139Z

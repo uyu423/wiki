@@ -2,7 +2,7 @@
 title: Guy L. Steele Jr. (Programming Language Designer)
 description: 
 published: true
-date: 2023-02-24T09:32:35.275Z
+date: 2023-02-24T09:32:36.638Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-24T09:32:35.275Z

@@ -2,7 +2,7 @@
 title: Prototype Model
 description: 
 published: true
-date: 2023-02-01T05:17:44.112Z
+date: 2023-02-01T05:17:45.887Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T05:17:44.112Z

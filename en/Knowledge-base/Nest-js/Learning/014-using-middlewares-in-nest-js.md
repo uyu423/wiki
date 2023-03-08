@@ -2,7 +2,7 @@
 title: 014: Using middlewares in Nest.js
 description: 
 published: true
-date: 2023-02-15T00:32:25.395Z
+date: 2023-02-15T00:32:27.168Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T00:32:25.395Z

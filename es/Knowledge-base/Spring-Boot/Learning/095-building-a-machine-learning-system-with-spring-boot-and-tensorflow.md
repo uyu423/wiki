@@ -2,7 +2,7 @@
 title: 095: Creación de un sistema de aprendizaje automático con Spring Boot y TensorFlow
 description: 
 published: true
-date: 2023-02-06T00:32:31.740Z
+date: 2023-02-06T00:32:33.375Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T00:32:31.740Z

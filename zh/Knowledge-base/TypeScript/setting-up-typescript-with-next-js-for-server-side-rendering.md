@@ -2,7 +2,7 @@
 title: 使用 Next.js 设置 TypeScript 以进行服务器端渲染
 description: 
 published: true
-date: 2023-02-14T13:55:30.715Z
+date: 2023-02-14T13:55:32.497Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T13:55:30.715Z

@@ -2,7 +2,7 @@
 title: Java
 description: 
 published: true
-date: 2023-03-04T12:32:33.161Z
+date: 2023-03-04T12:32:34.554Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-04T12:32:33.161Z

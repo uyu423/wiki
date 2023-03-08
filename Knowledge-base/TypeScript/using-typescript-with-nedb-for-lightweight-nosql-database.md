@@ -2,7 +2,7 @@
 title: 가벼운 NoSQL 데이터베이스를 위해 NeDB와 함께 TypeScript 사용
 description: 
 published: true
-date: 2023-02-09T18:56:26.566Z
+date: 2023-02-09T18:56:28.343Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T18:56:26.566Z

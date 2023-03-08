@@ -2,7 +2,7 @@
 title: 095: Desarrollo web en Kotlin: creación de aplicaciones web con Kotlin y Spring
 description: 
 published: true
-date: 2023-02-07T01:17:28.758Z
+date: 2023-02-07T01:17:30.374Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T01:17:28.758Z

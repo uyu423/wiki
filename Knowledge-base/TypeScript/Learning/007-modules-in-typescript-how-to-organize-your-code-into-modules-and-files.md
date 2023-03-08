@@ -2,7 +2,7 @@
 title: 007: TypeScript의 모듈: 코드를 모듈과 파일로 구성하는 방법
 description: 
 published: true
-date: 2023-03-05T05:32:27.982Z
+date: 2023-03-05T05:32:29.417Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T05:32:27.982Z

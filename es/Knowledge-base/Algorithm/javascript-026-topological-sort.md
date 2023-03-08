@@ -2,7 +2,7 @@
 title: [JavaScript] 026: Clasificación topológica
 description: 
 published: true
-date: 2023-02-10T04:32:31.453Z
+date: 2023-02-10T04:32:33.028Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T04:32:31.453Z

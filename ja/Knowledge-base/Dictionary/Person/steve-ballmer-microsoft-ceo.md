@@ -2,7 +2,7 @@
 title: Steve Ballmer (Microsoft CEO)
 description: 
 published: true
-date: 2023-02-02T05:57:57.141Z
+date: 2023-02-02T05:57:58.425Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T05:36:49.398Z

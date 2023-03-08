@@ -2,7 +2,7 @@
 title: 사기 탐지를 위한 인공 지능(AI) 사용
 description: 
 published: true
-date: 2023-01-30T03:16:18.665Z
+date: 2023-02-17T18:01:37.710Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T03:16:18.665Z

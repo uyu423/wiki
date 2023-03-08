@@ -2,7 +2,7 @@
 title: 036: Spring Boot를 사용하여 지불 게이트웨이와 통합
 description: 
 published: true
-date: 2023-02-04T04:32:13.292Z
+date: 2023-02-04T04:32:14.860Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-04T04:32:13.292Z

@@ -2,7 +2,7 @@
 title: [JavaScript] 047: 접미사 트리
 description: 
 published: true
-date: 2023-02-11T01:32:12.618Z
+date: 2023-02-11T01:32:14.178Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T01:32:12.618Z

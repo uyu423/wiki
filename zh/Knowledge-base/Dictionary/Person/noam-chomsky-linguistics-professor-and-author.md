@@ -2,7 +2,7 @@
 title: Noam Chomsky (Linguistics Professor and Author)
 description: 
 published: true
-date: 2023-02-02T15:58:01.958Z
+date: 2023-02-02T15:58:04.028Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T15:58:01.958Z

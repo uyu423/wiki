@@ -2,7 +2,7 @@
 title: Kubernetes Autoscaling: Adapting to Changing Loads
 description: 
 published: true
-date: 2023-02-08T18:32:30.797Z
+date: 2023-02-08T18:32:32.455Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T18:32:30.797Z

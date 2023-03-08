@@ -2,7 +2,7 @@
 title: Agile
 description: 
 published: true
-date: 2023-03-04T10:32:30.472Z
+date: 2023-03-04T10:32:31.820Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-04T10:32:30.472Z

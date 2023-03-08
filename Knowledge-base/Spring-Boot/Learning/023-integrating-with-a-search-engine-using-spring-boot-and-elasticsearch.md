@@ -2,7 +2,7 @@
 title: 023: Spring Boot 및 Elasticsearch를 사용하여 검색 엔진과 통합
 description: 
 published: true
-date: 2023-02-03T15:32:36.505Z
+date: 2023-02-03T15:32:38.228Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T15:32:36.505Z

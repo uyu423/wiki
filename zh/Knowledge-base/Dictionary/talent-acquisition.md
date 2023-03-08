@@ -2,7 +2,7 @@
 title: Talent Acquisition
 description: 
 published: true
-date: 2023-02-08T22:17:33.663Z
+date: 2023-02-08T22:17:35.746Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T22:17:33.663Z

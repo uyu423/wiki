@@ -2,7 +2,7 @@
 title: Data Science
 description: 
 published: true
-date: 2023-02-01T02:43:51.978Z
+date: 2023-02-01T02:43:53.593Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T02:43:51.978Z

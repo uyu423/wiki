@@ -2,7 +2,7 @@
 title: Slack Technologies, Inc.
 description: 
 published: true
-date: 2023-02-02T04:24:04.643Z
+date: 2023-02-02T04:24:06.636Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T04:24:04.643Z

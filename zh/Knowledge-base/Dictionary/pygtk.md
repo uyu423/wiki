@@ -2,7 +2,7 @@
 title: PyGTK
 description: 
 published: true
-date: 2023-02-01T06:05:02.965Z
+date: 2023-02-01T06:05:04.525Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T06:05:02.965Z

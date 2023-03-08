@@ -2,7 +2,7 @@
 title: Spring Boot and Cloud Platforms
 description: 
 published: true
-date: 2023-02-05T10:55:41.138Z
+date: 2023-02-05T10:55:42.812Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T10:55:41.138Z

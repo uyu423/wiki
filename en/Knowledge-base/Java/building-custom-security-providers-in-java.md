@@ -2,7 +2,7 @@
 title: Building Custom Security Providers in Java
 description: 
 published: true
-date: 2023-02-25T03:32:50.267Z
+date: 2023-02-25T03:32:51.713Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-25T03:32:50.267Z

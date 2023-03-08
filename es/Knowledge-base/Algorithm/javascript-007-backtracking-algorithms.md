@@ -2,7 +2,7 @@
 title: [JavaScript] 007: Algoritmos de retroceso
 description: 
 published: true
-date: 2023-02-09T09:32:32.092Z
+date: 2023-02-09T09:32:33.667Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T09:32:32.092Z

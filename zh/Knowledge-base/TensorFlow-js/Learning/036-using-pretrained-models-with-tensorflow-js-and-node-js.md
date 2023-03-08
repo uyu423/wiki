@@ -2,7 +2,7 @@
 title: 036：将预训练模型与 TensorFlow.js 和 Node.js 结合使用
 description: 
 published: true
-date: 2023-02-02T15:36:42.355Z
+date: 2023-02-02T15:36:43.932Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T15:36:42.355Z

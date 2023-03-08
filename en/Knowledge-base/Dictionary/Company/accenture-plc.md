@@ -2,7 +2,7 @@
 title: Accenture plc
 description: 
 published: true
-date: 2023-03-01T09:32:51.108Z
+date: 2023-03-01T09:32:52.493Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-01T09:32:51.108Z

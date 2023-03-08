@@ -2,7 +2,7 @@
 title: Platform as a Service
 description: 
 published: true
-date: 2023-01-31T12:36:58.738Z
+date: 2023-01-31T12:37:00.285Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T12:36:58.738Z

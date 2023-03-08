@@ -2,7 +2,7 @@
 title: Building Custom Class Loaders in Java
 description: 
 published: true
-date: 2023-02-12T17:17:41.622Z
+date: 2023-02-12T17:17:43.277Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T17:17:41.622Z

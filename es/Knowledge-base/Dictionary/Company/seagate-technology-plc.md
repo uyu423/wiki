@@ -2,7 +2,7 @@
 title: Seagate Technology PLC
 description: 
 published: true
-date: 2023-02-07T06:19:00.074Z
+date: 2023-02-07T06:19:02.041Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T06:19:00.074Z

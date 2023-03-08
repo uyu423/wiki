@@ -2,7 +2,7 @@
 title: [JavaScript] 016: 이중 연결 목록
 description: 
 published: true
-date: 2023-02-09T18:32:30.291Z
+date: 2023-02-09T18:32:31.927Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T18:32:30.291Z

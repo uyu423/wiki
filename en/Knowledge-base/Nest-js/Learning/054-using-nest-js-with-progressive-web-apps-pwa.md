@@ -2,7 +2,7 @@
 title: 054: Using Nest.js with Progressive Web Apps (PWA)
 description: 
 published: true
-date: 2023-02-05T15:18:23.094Z
+date: 2023-02-05T15:18:24.783Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T15:18:23.094Z

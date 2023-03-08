@@ -2,7 +2,7 @@
 title: Kotlin y Spring Data: conexión a una base de datos
 description: 
 published: true
-date: 2023-02-08T09:17:29.682Z
+date: 2023-02-08T09:17:31.298Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T09:17:29.682Z

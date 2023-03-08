@@ -2,7 +2,7 @@
 title: 스프링 부트 테스트 모범 사례
 description: 
 published: true
-date: 2023-02-07T08:32:40.827Z
+date: 2023-02-07T08:32:42.584Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T08:32:40.827Z

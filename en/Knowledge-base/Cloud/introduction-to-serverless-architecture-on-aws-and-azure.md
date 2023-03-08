@@ -2,7 +2,7 @@
 title: Introduction to Serverless Architecture on AWS and Azure
 description: 
 published: true
-date: 2023-03-02T08:21:29.326Z
+date: 2023-03-02T08:21:30.691Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T08:21:29.326Z

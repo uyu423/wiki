@@ -2,7 +2,7 @@
 title: PyAutoGUI
 description: 
 published: true
-date: 2023-03-06T03:32:33.629Z
+date: 2023-03-06T03:32:34.995Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-06T03:32:33.629Z

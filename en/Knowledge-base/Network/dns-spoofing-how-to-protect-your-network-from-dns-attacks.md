@@ -2,7 +2,7 @@
 title: DNS Spoofing: How to Protect Your Network from DNS Attacks
 description: 
 published: true
-date: 2023-03-05T14:32:45.701Z
+date: 2023-03-05T14:32:47.062Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-05T14:32:45.701Z

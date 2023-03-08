@@ -2,7 +2,7 @@
 title: 향상된 데이터 관리를 위한 데이터베이스 마이그레이션.
 description: 
 published: true
-date: 2023-02-19T00:06:28.592Z
+date: 2023-02-19T00:06:29.962Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T00:06:28.592Z

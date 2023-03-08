@@ -2,7 +2,7 @@
 title: 046: Interfaces SAM (método abstracto único) en Kotlin: conversión de interfaces Java a interfaces Kotlin
 description: 
 published: true
-date: 2023-02-05T21:55:16.377Z
+date: 2023-02-05T21:55:17.936Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T21:55:16.377Z

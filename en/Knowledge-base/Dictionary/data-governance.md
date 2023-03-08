@@ -2,7 +2,7 @@
 title: Data Governance
 description: 
 published: true
-date: 2023-02-27T15:32:47.675Z
+date: 2023-02-27T15:32:49.038Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T15:32:47.675Z

@@ -2,7 +2,7 @@
 title: 민첩한 프로젝트 관리의 중요성
 description: 
 published: true
-date: 2023-02-10T10:17:24.341Z
+date: 2023-02-10T10:17:25.981Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T10:17:24.341Z

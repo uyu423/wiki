@@ -2,7 +2,7 @@
 title: [ JavaScript ] 048 : 접미사 배열
 description: 
 published: true
-date: 2023-02-11T02:32:11.473Z
+date: 2023-02-11T02:32:13.050Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T02:32:11.473Z

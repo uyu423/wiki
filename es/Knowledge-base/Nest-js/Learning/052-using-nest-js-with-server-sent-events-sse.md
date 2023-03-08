@@ -2,7 +2,7 @@
 title: 052: uso de Nest.js con eventos enviados por el servidor (SSE)
 description: 
 published: true
-date: 2023-02-05T18:55:19.666Z
+date: 2023-02-05T18:55:21.302Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T18:55:19.666Z

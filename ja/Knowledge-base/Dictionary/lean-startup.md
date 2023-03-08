@@ -2,7 +2,7 @@
 title: Lean Startup
 description: 
 published: true
-date: 2023-02-05T23:56:40.559Z
+date: 2023-02-05T23:56:42.898Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T23:56:40.559Z

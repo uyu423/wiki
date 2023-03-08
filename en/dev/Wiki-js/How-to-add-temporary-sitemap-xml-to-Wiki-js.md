@@ -2,7 +2,7 @@
 title: Ad-hoc way to add sitemap.xml to Wiki.js 2.x
 description: 
 published: true
-date: 2022-12-24T21:18:10.476Z
+date: 2023-02-17T18:00:27.057Z
 tags: cron, english, sitemap, wikijs
 editor: markdown
 dateCreated: 2022-12-24T21:09:21.809Z

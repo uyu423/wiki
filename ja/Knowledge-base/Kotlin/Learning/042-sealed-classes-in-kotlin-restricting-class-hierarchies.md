@@ -2,7 +2,7 @@
 title: 042: Kotlin の封印されたクラス: クラス階層の制限
 description: 
 published: true
-date: 2023-01-31T10:36:15.747Z
+date: 2023-01-31T10:36:17.342Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T10:36:15.746Z

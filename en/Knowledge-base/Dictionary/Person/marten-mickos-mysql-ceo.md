@@ -2,7 +2,7 @@
 title: Marten Mickos (MySQL CEO)
 description: 
 published: true
-date: 2023-03-01T19:32:21.868Z
+date: 2023-03-01T19:32:23.223Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-01T19:32:21.868Z

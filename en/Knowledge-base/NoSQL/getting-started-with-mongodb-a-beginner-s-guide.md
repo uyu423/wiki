@@ -2,7 +2,7 @@
 title: Getting Started with MongoDB: A Beginner's Guide
 description: 
 published: true
-date: 2023-03-04T23:32:34.759Z
+date: 2023-03-04T23:32:36.173Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-04T23:32:34.759Z

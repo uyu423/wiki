@@ -2,7 +2,7 @@
 title: NCSoft Corporation (South Korea)
 description: 
 published: true
-date: 2023-02-11T06:18:00.535Z
+date: 2023-02-11T06:18:02.214Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T06:18:00.535Z

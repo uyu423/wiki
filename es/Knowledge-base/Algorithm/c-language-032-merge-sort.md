@@ -2,7 +2,7 @@
 title: [Lenguaje C] 032: Clasificación por combinación
 description: 
 published: true
-date: 2023-02-13T12:33:58.555Z
+date: 2023-02-13T12:34:00.290Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T12:33:58.555Z

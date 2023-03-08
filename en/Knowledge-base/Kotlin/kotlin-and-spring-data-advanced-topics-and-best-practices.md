@@ -2,7 +2,7 @@
 title: Kotlin and Spring Data: Advanced Topics and Best Practices
 description: 
 published: true
-date: 2023-01-30T13:54:44.320Z
+date: 2023-02-17T18:04:57.057Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T13:54:44.320Z

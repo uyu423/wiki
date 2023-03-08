@@ -2,7 +2,7 @@
 title: Beautiful Soup
 description: 
 published: true
-date: 2023-02-23T22:32:30.264Z
+date: 2023-02-23T22:32:31.612Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-23T22:32:30.264Z

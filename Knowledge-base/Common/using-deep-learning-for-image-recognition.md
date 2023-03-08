@@ -2,7 +2,7 @@
 title: 이미지 인식을 위한 딥 러닝 사용
 description: 
 published: true
-date: 2023-02-07T22:17:21.770Z
+date: 2023-02-07T22:17:23.341Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T22:17:21.770Z

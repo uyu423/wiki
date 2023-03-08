@@ -2,7 +2,7 @@
 title: Las ventajas de la arquitectura sin servidor y AWS Lambda
 description: 
 published: true
-date: 2023-02-09T00:55:20.662Z
+date: 2023-02-09T00:55:22.344Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-09T00:55:20.662Z

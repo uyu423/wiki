@@ -2,7 +2,7 @@
 title: 052: TypeScript의 ReadonlyArray 유형: 불변 배열을 만드는 방법
 description: 
 published: true
-date: 2023-03-07T14:32:38.537Z
+date: 2023-03-07T14:32:39.898Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T14:32:38.537Z

@@ -2,7 +2,7 @@
 title: Kubernetes with CNI: Configuring Networking for Your Clusters
 description: 
 published: true
-date: 2023-02-05T14:17:26.767Z
+date: 2023-02-05T14:17:28.678Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T14:17:26.767Z

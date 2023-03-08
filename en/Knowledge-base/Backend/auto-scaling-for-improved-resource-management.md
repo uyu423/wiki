@@ -2,7 +2,7 @@
 title: Auto-scaling for Improved Resource Management
 description: 
 published: true
-date: 2023-02-18T23:32:17.487Z
+date: 2023-02-18T23:32:18.879Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T23:32:17.487Z

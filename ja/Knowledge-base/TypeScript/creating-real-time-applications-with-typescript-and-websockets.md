@@ -2,7 +2,7 @@
 title: TypeScript と WebSocket を使用したリアルタイム アプリケーションの作成
 description: 
 published: true
-date: 2023-01-31T10:57:32.382Z
+date: 2023-01-31T10:57:33.918Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T10:57:32.382Z

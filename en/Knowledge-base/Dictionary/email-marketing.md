@@ -2,7 +2,7 @@
 title: Email Marketing
 description: 
 published: true
-date: 2023-02-10T08:55:51.699Z
+date: 2023-02-10T08:55:53.968Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T08:55:51.699Z

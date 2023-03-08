@@ -2,7 +2,7 @@
 title: Mockito: Mocking for Unit Testing in Spring Boot
 description: 
 published: true
-date: 2023-02-01T17:48:00.844Z
+date: 2023-02-01T17:48:02.485Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T17:48:00.844Z

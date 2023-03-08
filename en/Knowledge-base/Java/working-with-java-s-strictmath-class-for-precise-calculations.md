@@ -2,7 +2,7 @@
 title: Working with Java's StrictMath Class for Precise Calculations
 description: 
 published: true
-date: 2023-03-08T05:32:26.439Z
+date: 2023-03-08T05:32:28.006Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-08T05:32:26.439Z

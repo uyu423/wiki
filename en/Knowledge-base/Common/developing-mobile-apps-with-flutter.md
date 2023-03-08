@@ -2,7 +2,7 @@
 title: Developing Mobile Apps with Flutter
 description: 
 published: true
-date: 2023-02-16T15:55:46.077Z
+date: 2023-02-16T15:55:49.182Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T15:55:46.077Z

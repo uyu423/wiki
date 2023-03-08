@@ -2,7 +2,7 @@
 title: Bill Gates (Microsoft Co-founder)
 description: 
 published: true
-date: 2023-02-23T14:32:57.494Z
+date: 2023-02-23T14:32:58.899Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-23T14:32:57.494Z

@@ -2,7 +2,7 @@
 title: Linux 백업 및 재해 복구
 description: 
 published: true
-date: 2023-02-12T05:32:54.801Z
+date: 2023-02-12T05:32:56.520Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T05:32:54.801Z

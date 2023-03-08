@@ -2,7 +2,7 @@
 title: gRPC for High-Performance Communication in Backend Development
 description: 
 published: true
-date: 2023-02-13T10:55:50.920Z
+date: 2023-02-13T10:55:52.590Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T10:55:50.920Z

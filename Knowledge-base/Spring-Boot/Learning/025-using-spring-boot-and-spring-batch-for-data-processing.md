@@ -2,7 +2,7 @@
 title: 025: 데이터 처리를 위해 Spring Boot와 Spring Batch 사용하기
 description: 
 published: true
-date: 2023-02-03T17:33:26.008Z
+date: 2023-02-03T17:33:27.655Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T17:33:26.008Z

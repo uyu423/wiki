@@ -2,7 +2,7 @@
 title: Docker 卷管理：在容器外持久化数据
 description: 
 published: true
-date: 2023-01-31T11:04:25.701Z
+date: 2023-01-31T11:04:27.242Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T11:04:25.701Z

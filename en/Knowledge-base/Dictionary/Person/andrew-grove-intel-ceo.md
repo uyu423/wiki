@@ -2,7 +2,7 @@
 title: Andrew Grove (Intel CEO)
 description: 
 published: true
-date: 2023-02-03T09:23:44.471Z
+date: 2023-02-03T09:23:46.571Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T09:23:44.470Z

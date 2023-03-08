@@ -2,7 +2,7 @@
 title: Spring Boot with Redis
 description: 
 published: true
-date: 2023-02-07T11:32:53.569Z
+date: 2023-02-07T11:32:55.267Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T11:32:53.569Z

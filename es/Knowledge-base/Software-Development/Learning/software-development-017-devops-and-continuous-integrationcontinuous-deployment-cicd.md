@@ -2,7 +2,7 @@
 title: Desarrollo de software 017: DevOps e integración continua/implementación continua (CI/CD)
 description: 
 published: true
-date: 2023-02-03T16:55:20.876Z
+date: 2023-02-03T16:55:22.461Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T16:55:20.876Z

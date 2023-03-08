@@ -2,7 +2,7 @@
 title: Spring Boot and AOP for Cross-Cutting Concerns
 description: 
 published: true
-date: 2023-01-30T05:17:51.538Z
+date: 2023-02-17T18:01:42.001Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T03:54:43.421Z

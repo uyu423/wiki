@@ -2,7 +2,7 @@
 title: John Backus (FORTRAN Creator)
 description: 
 published: true
-date: 2023-02-26T01:32:34.113Z
+date: 2023-02-26T01:32:35.515Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-26T01:32:34.113Z

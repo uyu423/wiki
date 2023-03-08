@@ -2,7 +2,7 @@
 title: Kotlin and Spring Data: Integrating with a Database
 description: 
 published: true
-date: 2023-02-07T00:55:17.813Z
+date: 2023-02-07T00:55:19.416Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T00:55:17.813Z

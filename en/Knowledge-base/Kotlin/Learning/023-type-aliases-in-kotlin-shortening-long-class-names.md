@@ -2,7 +2,7 @@
 title: 023: Type Aliases in Kotlin: Shortening Long Class Names
 description: 
 published: true
-date: 2023-02-01T20:17:24.108Z
+date: 2023-02-01T20:17:25.701Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T20:17:24.108Z

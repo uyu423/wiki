@@ -2,7 +2,7 @@
 title: 064: TensorFlow.js 및 Node.js를 사용한 실시간 챗봇
 description: 
 published: true
-date: 2023-02-02T22:04:36.503Z
+date: 2023-02-02T22:04:38.155Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T22:04:36.503Z

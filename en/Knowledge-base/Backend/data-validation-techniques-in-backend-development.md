@@ -2,7 +2,7 @@
 title: Data Validation Techniques in Backend Development
 description: 
 published: true
-date: 2023-02-18T22:32:20.642Z
+date: 2023-02-18T22:32:22.171Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T22:32:20.642Z

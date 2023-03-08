@@ -2,7 +2,7 @@
 title: Kubernetes on Oracle Cloud: Deploying Clusters on Oracle Cloud Infrastructure
 description: 
 published: true
-date: 2023-02-01T11:57:46.959Z
+date: 2023-02-01T11:57:48.421Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T11:57:46.959Z

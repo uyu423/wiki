@@ -2,7 +2,7 @@
 title: Resource Allocation and Scheduling in Backend Development
 description: 
 published: true
-date: 2023-02-18T21:06:17.833Z
+date: 2023-02-18T21:06:19.482Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-18T21:06:17.833Z

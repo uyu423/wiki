@@ -2,7 +2,7 @@
 title: 009: Decorators in TypeScript: How to Use Decorators to Add Functionality to Your Code
 description: 
 published: true
-date: 2023-03-07T04:32:38.725Z
+date: 2023-03-07T04:32:40.095Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T04:32:38.725Z

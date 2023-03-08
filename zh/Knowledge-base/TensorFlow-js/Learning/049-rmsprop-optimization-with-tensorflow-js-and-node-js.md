@@ -2,7 +2,7 @@
 title: 049：使用 TensorFlow.js 和 Node.js 优化 RMSprop
 description: 
 published: true
-date: 2023-02-02T12:57:32.796Z
+date: 2023-02-02T12:57:34.393Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T12:57:32.796Z

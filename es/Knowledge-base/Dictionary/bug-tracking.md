@@ -2,7 +2,7 @@
 title: Bug Tracking
 description: 
 published: true
-date: 2023-02-13T05:17:48.368Z
+date: 2023-02-13T05:17:50.972Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T05:17:48.368Z

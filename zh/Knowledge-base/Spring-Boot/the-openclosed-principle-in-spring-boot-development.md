@@ -2,7 +2,7 @@
 title: Spring Boot开发中的开闭原则
 description: 
 published: true
-date: 2023-02-08T11:32:14.654Z
+date: 2023-02-08T11:32:16.207Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T11:32:14.654Z

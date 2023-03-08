@@ -2,7 +2,7 @@
 title: [JavaScript] 030: ordenación por inserción
 description: 
 published: true
-date: 2023-02-10T08:32:37.750Z
+date: 2023-02-10T08:32:39.348Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T08:32:37.750Z

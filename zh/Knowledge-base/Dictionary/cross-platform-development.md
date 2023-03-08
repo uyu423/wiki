@@ -2,7 +2,7 @@
 title: Cross-Platform Development
 description: 
 published: true
-date: 2023-02-11T21:55:37.599Z
+date: 2023-02-11T21:55:39.363Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T21:55:37.599Z

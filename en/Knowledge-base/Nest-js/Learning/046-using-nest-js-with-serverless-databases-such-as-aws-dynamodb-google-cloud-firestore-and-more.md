@@ -2,7 +2,7 @@
 title: 046: Using Nest.js with serverless databases such as AWS DynamoDB, Google Cloud Firestore, and more
 description: 
 published: true
-date: 2023-02-11T22:55:27.846Z
+date: 2023-02-11T22:55:29.693Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T22:55:27.846Z

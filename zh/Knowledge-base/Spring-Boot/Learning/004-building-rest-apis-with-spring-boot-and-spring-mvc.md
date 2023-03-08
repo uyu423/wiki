@@ -2,7 +2,7 @@
 title: 004：使用 Spring Boot 和 Spring MVC 构建 REST API
 description: 
 published: true
-date: 2023-02-03T07:36:46.721Z
+date: 2023-02-03T07:36:48.417Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T07:36:46.721Z

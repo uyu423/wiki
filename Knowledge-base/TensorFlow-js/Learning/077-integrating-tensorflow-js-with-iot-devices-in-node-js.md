@@ -2,7 +2,7 @@
 title: 077: TensorFlow.js를 Node.js에서 IoT 장치와 통합
 description: 
 published: true
-date: 2023-02-03T00:43:18.156Z
+date: 2023-02-03T00:43:19.750Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T00:43:18.156Z

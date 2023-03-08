@@ -2,7 +2,7 @@
 title: 003: Functions in TypeScript: How to Declare and Use Functions in Your Code
 description: 
 published: true
-date: 2023-03-06T10:32:45.316Z
+date: 2023-03-06T10:32:46.710Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-06T10:32:45.316Z

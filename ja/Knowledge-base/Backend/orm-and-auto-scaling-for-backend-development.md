@@ -2,7 +2,7 @@
 title: バックエンド開発のための ORM と自動スケーリング
 description: 
 published: true
-date: 2023-01-30T12:17:11.427Z
+date: 2023-02-17T18:04:23.444Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T12:17:11.427Z

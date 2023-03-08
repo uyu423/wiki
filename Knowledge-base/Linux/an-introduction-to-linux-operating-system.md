@@ -2,7 +2,7 @@
 title: Linux 운영 체제 소개
 description: 
 published: true
-date: 2023-02-11T04:32:16.148Z
+date: 2023-02-11T04:32:17.762Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T04:32:16.148Z

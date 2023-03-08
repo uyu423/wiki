@@ -2,7 +2,7 @@
 title: 033: TypeScript의 This 유형: 클래스와 함수에서 'this' 키워드로 작업하는 방법
 description: 
 published: true
-date: 2023-03-04T02:32:39.550Z
+date: 2023-03-04T02:32:40.937Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-04T02:32:39.550Z

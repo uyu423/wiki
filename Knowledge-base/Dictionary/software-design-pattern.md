@@ -2,7 +2,7 @@
 title: Software Design Pattern
 description: 
 published: true
-date: 2023-02-27T21:32:44.651Z
+date: 2023-02-27T21:32:46.087Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-27T21:32:44.651Z

@@ -2,7 +2,7 @@
 title: Software Development 008: Responsive Web Design
 description: 
 published: true
-date: 2023-02-15T02:55:20.895Z
+date: 2023-02-15T02:55:22.582Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T02:55:20.895Z

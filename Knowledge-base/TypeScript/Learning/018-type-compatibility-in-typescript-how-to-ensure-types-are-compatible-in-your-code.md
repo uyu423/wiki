@@ -2,7 +2,7 @@
 title: 018: TypeScript의 유형 호환성: 코드에서 유형이 호환되는지 확인하는 방법
 description: 
 published: true
-date: 2023-03-02T16:32:17.563Z
+date: 2023-03-02T16:32:19.003Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T16:32:17.563Z

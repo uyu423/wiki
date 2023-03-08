@@ -2,7 +2,7 @@
 title: Django
 description: 
 published: true
-date: 2023-03-02T01:32:29.957Z
+date: 2023-03-02T01:32:31.799Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-02T01:32:29.957Z

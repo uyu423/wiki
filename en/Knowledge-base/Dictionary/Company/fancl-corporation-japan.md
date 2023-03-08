@@ -2,7 +2,7 @@
 title: Fancl Corporation (Japan)
 description: 
 published: true
-date: 2023-02-13T16:59:11.457Z
+date: 2023-02-13T16:59:13.630Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T16:59:11.457Z

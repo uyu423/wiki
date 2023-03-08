@@ -2,7 +2,7 @@
 title: Rootkit
 description: 
 published: true
-date: 2023-01-30T19:23:28.829Z
+date: 2023-02-17T18:12:38.635Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T19:23:28.829Z

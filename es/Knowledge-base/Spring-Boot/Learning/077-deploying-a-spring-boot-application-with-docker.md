@@ -2,7 +2,7 @@
 title: 077: Implementación de una aplicación Spring Boot con Docker
 description: 
 published: true
-date: 2023-02-05T08:32:52.066Z
+date: 2023-02-05T08:32:53.790Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T08:32:52.066Z

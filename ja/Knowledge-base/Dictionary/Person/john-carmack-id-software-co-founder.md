@@ -2,7 +2,7 @@
 title: John Carmack (id Software Co-founder)
 description: 
 published: true
-date: 2023-02-14T10:57:22.418Z
+date: 2023-02-14T10:57:24.264Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T10:57:22.418Z

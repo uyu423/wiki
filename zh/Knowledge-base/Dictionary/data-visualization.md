@@ -2,7 +2,7 @@
 title: Data Visualization
 description: 
 published: true
-date: 2023-02-08T20:55:50.038Z
+date: 2023-02-08T20:55:51.732Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T20:55:50.038Z

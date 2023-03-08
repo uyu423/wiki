@@ -2,7 +2,7 @@
 title: Guido van Rossum (Python Creator)
 description: 
 published: true
-date: 2023-03-07T02:33:00.038Z
+date: 2023-03-07T02:33:01.441Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T02:33:00.038Z

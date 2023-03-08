@@ -2,7 +2,7 @@
 title: Fujitsu Limited (Japan)
 description: 
 published: true
-date: 2023-02-05T08:18:45.500Z
+date: 2023-02-05T08:18:47.314Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T08:18:45.500Z

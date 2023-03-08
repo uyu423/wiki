@@ -2,7 +2,7 @@
 title: How to Migrate from SQL to NoSQL: A Step-by-Step Guide
 description: 
 published: true
-date: 2023-03-07T03:32:39.545Z
+date: 2023-03-07T03:32:40.901Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-07T03:32:39.545Z

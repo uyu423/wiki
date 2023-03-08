@@ -2,7 +2,7 @@
 title: Public Cloud
 description: 
 published: true
-date: 2023-03-06T07:32:44.871Z
+date: 2023-03-06T07:32:46.264Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-06T07:32:44.871Z

@@ -2,7 +2,7 @@
 title: Digital Transformation
 description: 
 published: true
-date: 2023-02-01T13:58:55.236Z
+date: 2023-02-01T13:58:56.696Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T13:58:55.236Z

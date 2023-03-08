@@ -2,7 +2,7 @@
 title: AWS SQS: Building a Distributed Task Queue System in the Cloud
 description: 
 published: true
-date: 2023-01-31T01:05:23.342Z
+date: 2023-02-17T18:16:26.782Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T01:05:23.342Z

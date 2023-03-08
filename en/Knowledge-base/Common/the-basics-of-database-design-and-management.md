@@ -2,7 +2,7 @@
 title: The Basics of Database Design and Management
 description: 
 published: true
-date: 2023-02-16T10:55:30.991Z
+date: 2023-02-16T10:55:32.969Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-16T10:55:30.991Z

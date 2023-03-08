@@ -2,7 +2,7 @@
 title: 객체지향 프로그래밍의 SOLID 원칙
 description: 
 published: true
-date: 2022-12-26T11:35:57.262Z
+date: 2023-02-17T18:00:29.955Z
 tags: java, oop
 editor: markdown
 dateCreated: 2022-12-24T22:39:17.183Z

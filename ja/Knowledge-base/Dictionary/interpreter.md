@@ -2,7 +2,7 @@
 title: Interpreter
 description: 
 published: true
-date: 2023-02-06T02:55:52.986Z
+date: 2023-02-06T02:55:55.074Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T02:55:52.986Z

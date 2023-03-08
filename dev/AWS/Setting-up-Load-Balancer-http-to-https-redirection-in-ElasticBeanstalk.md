@@ -2,7 +2,7 @@
 title: ElasticBeanstalk에서 Load Balancer http to https 리다이렉션 설정하기
 description: 놀랍게도 http(80) -> https(443) 리다이렉트는 EB 구성에서 설정할 수 없다...;
 published: true
-date: 2022-12-24T21:04:48.299Z
+date: 2023-02-17T17:59:50.384Z
 tags: aws, ec2, elasticbeanstalk
 editor: markdown
 dateCreated: 2022-11-26T20:31:42.413Z

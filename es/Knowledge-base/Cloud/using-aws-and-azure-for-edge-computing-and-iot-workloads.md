@@ -2,7 +2,7 @@
 title: Uso de AWS y Azure para Edge Computing y cargas de trabajo de IoT
 description: 
 published: true
-date: 2023-02-13T22:55:13.247Z
+date: 2023-02-13T22:55:14.798Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-13T22:55:13.247Z

@@ -2,7 +2,7 @@
 title: ORM for Better Data Management in Backend Development
 description: 
 published: true
-date: 2023-02-14T14:18:54.352Z
+date: 2023-02-14T14:18:56.034Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T14:18:54.352Z

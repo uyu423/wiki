@@ -2,7 +2,7 @@
 title: 008: Creación y uso de plantillas con Thymeleaf
 description: 
 published: true
-date: 2023-02-03T08:17:33.080Z
+date: 2023-02-03T08:17:34.664Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T08:17:33.080Z

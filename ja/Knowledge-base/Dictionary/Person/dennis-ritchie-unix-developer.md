@@ -2,7 +2,7 @@
 title: Dennis Ritchie (UNIX Developer)
 description: 
 published: true
-date: 2023-02-07T15:18:23.470Z
+date: 2023-02-07T15:18:25.329Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T15:18:23.470Z

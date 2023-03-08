@@ -2,7 +2,7 @@
 title: 使用 TypeScript 和 A-Frame 构建虚拟现实应用程序
 description: 
 published: true
-date: 2023-02-01T10:43:33.599Z
+date: 2023-02-01T10:43:35.027Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T10:43:33.599Z

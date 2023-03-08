@@ -2,7 +2,7 @@
 title: 044: Clases internas anónimas en Kotlin: creación de clases sin nombres
 description: 
 published: true
-date: 2023-02-15T10:17:48.491Z
+date: 2023-02-15T10:17:50.202Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T10:17:48.491Z

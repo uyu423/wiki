@@ -2,7 +2,7 @@
 title: TypeScript 및 Next.js로 프로그레시브 웹 애플리케이션 구축
 description: 
 published: true
-date: 2023-02-02T02:43:45.412Z
+date: 2023-02-02T02:43:47.118Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T02:43:45.412Z

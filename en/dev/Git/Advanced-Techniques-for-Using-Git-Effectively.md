@@ -2,7 +2,7 @@
 title: Advanced Techniques for Using Git Effectively
 description: 
 published: true
-date: 2023-02-17T17:27:42.621Z
+date: 2023-02-17T17:27:43.906Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:13:28.377Z

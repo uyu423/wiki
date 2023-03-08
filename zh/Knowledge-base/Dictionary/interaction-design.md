@@ -2,7 +2,7 @@
 title: Interaction Design
 description: 
 published: true
-date: 2023-02-08T06:18:16.433Z
+date: 2023-02-08T06:18:17.861Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T06:18:16.433Z

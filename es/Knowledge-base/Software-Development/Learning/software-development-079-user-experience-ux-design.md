@@ -2,7 +2,7 @@
 title: Desarrollo de software 079: Diseño de experiencia de usuario (UX)
 description: 
 published: true
-date: 2023-02-15T13:17:22.946Z
+date: 2023-02-15T13:17:24.635Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T13:17:22.946Z

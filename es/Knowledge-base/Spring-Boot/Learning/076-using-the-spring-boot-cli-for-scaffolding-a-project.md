@@ -2,7 +2,7 @@
 title: 076: uso de Spring Boot CLI para andamiaje de un proyecto
 description: 
 published: true
-date: 2023-02-05T07:32:13.235Z
+date: 2023-02-05T07:32:14.818Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-05T07:32:13.235Z

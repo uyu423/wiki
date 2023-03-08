@@ -2,7 +2,7 @@
 title: Apple Inc.
 description: 
 published: true
-date: 2023-02-03T08:24:08.087Z
+date: 2023-02-03T08:24:10.319Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T08:24:08.087Z

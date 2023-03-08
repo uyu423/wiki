@@ -2,7 +2,7 @@
 title: Incremental Development
 description: 
 published: true
-date: 2023-01-31T23:04:36.579Z
+date: 2023-01-31T23:04:38.231Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T23:04:36.579Z

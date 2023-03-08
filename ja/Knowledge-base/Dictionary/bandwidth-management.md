@@ -2,7 +2,7 @@
 title: Bandwidth Management
 description: 
 published: true
-date: 2023-01-31T18:24:30.445Z
+date: 2023-01-31T18:24:32.037Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T18:24:30.445Z

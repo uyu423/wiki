@@ -2,7 +2,7 @@
 title: Kubernetes Web UI: Managing Your Cluster with the Dashboard
 description: 
 published: true
-date: 2023-02-14T02:32:25.901Z
+date: 2023-02-14T02:32:27.867Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T02:32:25.901Z

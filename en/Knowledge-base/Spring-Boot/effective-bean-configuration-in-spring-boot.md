@@ -2,7 +2,7 @@
 title: Effective Bean Configuration in Spring Boot
 description: 
 published: true
-date: 2023-01-30T00:59:28.637Z
+date: 2023-02-17T18:01:14.125Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T00:59:28.637Z

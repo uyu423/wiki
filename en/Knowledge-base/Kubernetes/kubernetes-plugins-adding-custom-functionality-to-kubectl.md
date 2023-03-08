@@ -2,7 +2,7 @@
 title: Kubernetes Plugins: Adding Custom Functionality to kubectl
 description: 
 published: true
-date: 2023-02-06T06:17:25.041Z
+date: 2023-02-06T06:17:26.669Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T06:17:25.041Z

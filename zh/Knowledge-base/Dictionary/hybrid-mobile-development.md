@@ -2,7 +2,7 @@
 title: Hybrid Mobile Development
 description: 
 published: true
-date: 2023-02-08T14:55:54.141Z
+date: 2023-02-08T14:55:55.864Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T14:55:54.141Z

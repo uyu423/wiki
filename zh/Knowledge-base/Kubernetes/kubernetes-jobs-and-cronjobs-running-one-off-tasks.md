@@ -2,7 +2,7 @@
 title: Kubernetes 作业和 CronJobs：运行一次性任务
 description: 
 published: true
-date: 2023-02-08T22:32:40.445Z
+date: 2023-02-08T22:32:42.057Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-08T22:32:40.445Z

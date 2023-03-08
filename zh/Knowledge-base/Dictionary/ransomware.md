@@ -2,7 +2,7 @@
 title: Ransomware
 description: 
 published: true
-date: 2023-01-31T19:58:03.383Z
+date: 2023-01-31T19:58:04.892Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-31T19:58:03.383Z

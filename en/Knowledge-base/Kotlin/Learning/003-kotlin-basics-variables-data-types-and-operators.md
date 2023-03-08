@@ -2,7 +2,7 @@
 title: 003: Kotlin Basics: Variables, Data Types, and Operators
 description: 
 published: true
-date: 2023-02-07T19:55:57.051Z
+date: 2023-02-07T19:55:58.773Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-07T19:55:57.051Z

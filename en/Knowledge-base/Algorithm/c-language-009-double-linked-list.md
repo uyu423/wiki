@@ -2,7 +2,7 @@
 title: [C Language] 009: Double Linked List
 description: 
 published: true
-date: 2023-02-12T20:33:39.909Z
+date: 2023-02-12T20:33:41.703Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T20:33:39.909Z

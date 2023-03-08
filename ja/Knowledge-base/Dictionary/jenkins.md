@@ -2,7 +2,7 @@
 title: Jenkins
 description: 
 published: true
-date: 2023-02-11T15:55:57.296Z
+date: 2023-02-11T15:55:59.328Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T15:55:57.296Z

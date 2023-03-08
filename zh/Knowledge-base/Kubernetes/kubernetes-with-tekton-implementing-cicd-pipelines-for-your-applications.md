@@ -2,7 +2,7 @@
 title: Kubernetes 与 Tekton：为您的应用程序实施 CI/CD 管道
 description: 
 published: true
-date: 2023-02-14T13:33:34.603Z
+date: 2023-02-14T13:33:36.250Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-14T13:33:34.603Z

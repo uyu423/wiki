@@ -2,7 +2,7 @@
 title: 031: Rangos en Kotlin: representación e iteración sobre rangos de valores
 description: 
 published: true
-date: 2023-02-10T17:55:14.343Z
+date: 2023-02-10T17:55:15.924Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-10T17:55:14.343Z

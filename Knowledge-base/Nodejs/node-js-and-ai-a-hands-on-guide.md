@@ -2,7 +2,7 @@
 title: Node.js 및 AI: 실습 가이드
 description: 
 published: true
-date: 2023-02-01T23:57:23.426Z
+date: 2023-02-01T23:57:25.112Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T23:57:23.426Z

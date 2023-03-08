@@ -2,7 +2,7 @@
 title: VPC endpoint settings when running ElasticBeanstalk EC2 instances in a private subnet
 description: 
 published: true
-date: 2022-12-24T20:57:45.520Z
+date: 2023-02-17T18:00:24.285Z
 tags: aws, ec2, elasticbeanstalk, english, vpc
 editor: markdown
 dateCreated: 2022-12-24T20:55:11.583Z

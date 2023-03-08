@@ -2,7 +2,7 @@
 title: 034: TensorBoard 및 Node.js로 모델 교육 시각화하기
 description: 
 published: true
-date: 2023-02-02T15:04:25.007Z
+date: 2023-02-02T15:04:26.622Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T15:04:25.007Z

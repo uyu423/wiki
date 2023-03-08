@@ -2,7 +2,7 @@
 title: MySQL 03: Basic SQL syntax and operations: SELECT, FROM, WHERE, GROUP BY, and HAVING
 description: 
 published: true
-date: 2023-02-06T09:32:20.863Z
+date: 2023-02-06T09:32:22.552Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-06T09:32:20.863Z

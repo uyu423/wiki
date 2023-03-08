@@ -2,7 +2,7 @@
 title: AWS SES: Sending and Receiving Emails with Simple Email Service
 description: 
 published: true
-date: 2023-01-30T21:57:30.664Z
+date: 2023-02-17T18:14:48.823Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T21:57:30.664Z

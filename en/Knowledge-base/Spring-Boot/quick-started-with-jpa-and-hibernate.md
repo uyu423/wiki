@@ -2,7 +2,7 @@
 title: Quick Started with JPA and Hibernate
 description: 
 published: true
-date: 2023-01-30T01:14:08.293Z
+date: 2023-02-17T18:01:22.256Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-30T01:14:08.293Z

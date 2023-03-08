@@ -2,7 +2,7 @@
 title: Kubernetes ConfigMaps and Secrets: administración de datos de configuración
 description: 
 published: true
-date: 2023-02-01T17:43:43.782Z
+date: 2023-02-01T17:43:47.829Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T17:43:43.781Z

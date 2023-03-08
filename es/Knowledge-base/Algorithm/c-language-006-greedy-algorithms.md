@@ -2,7 +2,7 @@
 title: [Lenguaje C] 006: Algoritmos codiciosos
 description: 
 published: true
-date: 2023-02-12T17:32:25.153Z
+date: 2023-02-12T17:32:26.780Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-12T17:32:25.153Z

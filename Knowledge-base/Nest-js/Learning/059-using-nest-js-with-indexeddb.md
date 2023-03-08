@@ -2,7 +2,7 @@
 title: 059: Nest.js를 IndexedDB와 함께 사용하기
 description: 
 published: true
-date: 2023-02-15T22:32:31.003Z
+date: 2023-02-15T22:32:32.746Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-15T22:32:31.003Z

@@ -2,7 +2,7 @@
 title: Spring Boot y arquitectura sin servidor con AWS Lambda
 description: 
 published: true
-date: 2023-02-01T19:23:50.235Z
+date: 2023-02-01T19:23:51.919Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-01T19:23:50.235Z

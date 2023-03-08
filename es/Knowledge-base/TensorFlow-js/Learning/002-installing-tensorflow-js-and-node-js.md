@@ -2,7 +2,7 @@
 title: 002: Instalación de TensorFlow.js y Node.js
 description: 
 published: true
-date: 2023-02-02T07:17:12.924Z
+date: 2023-02-02T07:17:14.521Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T07:17:12.924Z

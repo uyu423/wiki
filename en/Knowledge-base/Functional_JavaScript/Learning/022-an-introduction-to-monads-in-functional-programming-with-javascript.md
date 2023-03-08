@@ -2,7 +2,7 @@
 title: 022: An introduction to monads in functional programming with JavaScript
 description: 
 published: true
-date: 2023-02-17T17:32:21.852Z
+date: 2023-02-17T17:32:23.205Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-17T17:32:21.852Z

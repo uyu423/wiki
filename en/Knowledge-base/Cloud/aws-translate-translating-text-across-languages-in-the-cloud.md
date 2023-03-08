@@ -2,7 +2,7 @@
 title: AWS Translate: Translating Text Across Languages in the Cloud
 description: 
 published: true
-date: 2023-02-19T04:06:24.573Z
+date: 2023-02-19T04:06:27.219Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-19T04:06:24.573Z

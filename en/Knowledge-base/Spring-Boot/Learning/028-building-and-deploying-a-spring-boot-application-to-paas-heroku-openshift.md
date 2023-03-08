@@ -2,7 +2,7 @@
 title: 028: Building and deploying a Spring Boot application to PaaS (Heroku, OpenShift)
 description: 
 published: true
-date: 2023-02-03T20:32:39.166Z
+date: 2023-02-03T20:32:40.854Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-03T20:32:39.166Z
