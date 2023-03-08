@@ -2,11 +2,13 @@
 title: MySQL의 EXPLAIN SELECT를 활용한 쿼리 성능 향상
 description: 
 published: true
-date: 2023-03-08T19:19:33.299Z
+date: 2023-03-08T19:20:24.179Z
 tags: database, mysql
 editor: markdown
 dateCreated: 2023-03-08T19:19:33.299Z
 ---
+
+![mysql-logo.png](/mysql-logo.png){.align-center}
 
 ## EXPLAIN SELECT란?
 
@@ -126,5 +128,3 @@ ORDER BY 절에서는 인덱스를 최대한 활용하도록 인덱스 스캔 �
 > 예를 들어, MySQL Optimizer는 실제 쿼리 실행 전에 EXPLAIN SELECT 결과를 생성하며, 이 결과는 인덱스 통계, 쿼리 캐시, 시스템 부하 등의 요인에 따라 달라질 수 있습니다.
 > 따라서, EXPLAIN SELECT 결과를 완벽하게 이해하고 분석하기 위해서는 쿼리 실행 계획을 다양한 상황에서 확인해보는 것이 좋습니다.
 {.is-warning}
-
-![mysql-logo.png](/mysql-logo.png){.align-center}
