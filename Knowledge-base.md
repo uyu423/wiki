@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-08T22:32:41.270Z
+date: 2023-03-08T23:32:55.346Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -172,7 +172,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] MongoDB Aggregation Framework: Exploring Powerful Querying Capabilities|NoSQL
 - [ ] Redis vs. Memcached: Which Caching System Is Best for You?|NoSQL
 - [ ] The Pros and Cons of Using a Document-Oriented NoSQL Database like MongoDB|NoSQL
-- [ ] Redis Data Persistence: How to Make Sure Your Data Is Always There|NoSQL
+- [x] [Redis Data Persistence: How to Make Sure Your Data Is Always There](/Knowledge-base/NoSQL/redis-data-persistence-how-to-make-sure-your-data-is-always-there)
 - [ ] MongoDB Indexing: Tips and Best Practices for Faster Queries|NoSQL
 - [x] [NoSQL Database Design: How to Model Data in MongoDB and Redis](/Knowledge-base/NoSQL/nosql-database-design-how-to-model-data-in-mongodb-and-redis)
 - [ ] Redis Lua Scripting: Building Custom Redis Commands with Lua|NoSQL
