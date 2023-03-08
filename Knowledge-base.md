@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-08T12:32:38.962Z
+date: 2023-03-08T13:32:52.995Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1697,7 +1697,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Testing|Dictionary
 - [x] [User Research](/Knowledge-base/Dictionary/user-research)
 - [x] [Product Management](/Knowledge-base/Dictionary/product-management)
-- [ ] Marketing Automation|Dictionary
+- [x] [Marketing Automation](/Knowledge-base/Dictionary/marketing-automation)
 - [x] [Digital Transformation](/Knowledge-base/Dictionary/digital-transformation)
 - [x] [Enterprise Architecture](/Knowledge-base/Dictionary/enterprise-architecture)
 - [x] [User Experience](/Knowledge-base/Dictionary/user-experience)
