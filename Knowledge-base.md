@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-08T19:33:01.994Z
+date: 2023-03-08T20:32:54.187Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1878,7 +1878,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Defect Tracking](/Knowledge-base/Dictionary/defect-tracking)
 - [x] [Issue Tracking](/Knowledge-base/Dictionary/issue-tracking)
 - [x] [Agile Project Management](/Knowledge-base/Dictionary/agile-project-management)
-- [ ] Kanban|Dictionary
+- [x] [Kanban](/Knowledge-base/Dictionary/kanban)
 - [x] [Lean Project Management](/Knowledge-base/Dictionary/lean-project-management)
 - [x] [Project Plan](/Knowledge-base/Dictionary/project-plan)
 - [x] [Gantt Chart](/Knowledge-base/Dictionary/gantt-chart)
