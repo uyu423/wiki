@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-08T03:32:50.004Z
+date: 2023-03-08T04:32:47.888Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1409,7 +1409,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Building a Web Scraper with Python](/Knowledge-base/Common/building-a-web-scraper-with-python)
 - [x] [Introducing Serverless Computing and its Benefits](/Knowledge-base/Common/introducing-serverless-computing-and-its-benefits)
 - [x] [Applying Agile Project Management in Software Development](/Knowledge-base/Common/applying-agile-project-management-in-software-development)
-- [ ] Enhancing Cybersecurity with Encryption and Firewalls|Common
+- [x] [Enhancing Cybersecurity with Encryption and Firewalls](/Knowledge-base/Common/enhancing-cybersecurity-with-encryption-and-firewalls)
 - [x] [Using Artificial Intelligence (AI) in Game Development](/Knowledge-base/Common/using-artificial-intelligence-ai-in-game-development)
 - [x] [How to Create a Website with Django](/Knowledge-base/Common/how-to-create-a-website-with-django)
 - [ ] The Role of Artificial Intelligence (AI) in Healthcare|Common
