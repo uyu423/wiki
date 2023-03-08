@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-08T11:32:36.939Z
+date: 2023-03-08T12:32:38.962Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1323,7 +1323,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 083: Usability Testing|Software-Development/Learning
 - [x] [Software Development 084: Conversion Rate Optimization (CRO)](/Knowledge-base/Software-Development/Learning/software-development-084-conversion-rate-optimization-cro)
 - [x] [Software Development 085: Growth Hacking](/Knowledge-base/Software-Development/Learning/software-development-085-growth-hacking)
-- [ ] Software Development 086: Digital Marketing|Software-Development/Learning
+- [x] [Software Development 086: Digital Marketing](/Knowledge-base/Software-Development/Learning/software-development-086-digital-marketing)
 - [x] [Software Development 087: Search Engine Optimization (SEO)](/Knowledge-base/Software-Development/Learning/software-development-087-search-engine-optimization-seo)
 - [x] [Software Development 088: Social Media Marketing](/Knowledge-base/Software-Development/Learning/software-development-088-social-media-marketing)
 - [x] [Software Development 089: Content Marketing](/Knowledge-base/Software-Development/Learning/software-development-089-content-marketing)
