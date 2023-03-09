@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-09T11:32:59.647Z
+date: 2023-03-09T12:32:51.511Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1307,7 +1307,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 067: Streaming Analytics](/Knowledge-base/Software-Development/Learning/software-development-067-streaming-analytics)
 - [x] [Software Development 068: Event-Driven Architecture](/Knowledge-base/Software-Development/Learning/software-development-068-event-driven-architecture)
 - [x] [Software Development 069: Event Sourcing and CQRS](/Knowledge-base/Software-Development/Learning/software-development-069-event-sourcing-and-cqrs)
-- [ ] Software Development 070: Service-Oriented Architecture (SOA)|Software-Development/Learning
+- [x] [Software Development 070: Service-Oriented Architecture (SOA)](/Knowledge-base/Software-Development/Learning/software-development-070-service-oriented-architecture-soa)
 - [x] [Software Development 071: Domain-Driven Design (DDD)](/Knowledge-base/Software-Development/Learning/software-development-071-domain-driven-design-ddd)
 - [x] [Software Development 072: Test-Driven Development (TDD)](/Knowledge-base/Software-Development/Learning/software-development-072-test-driven-development-tdd)
 - [x] [Software Development 073: Behavior-Driven Development (BDD)](/Knowledge-base/Software-Development/Learning/software-development-073-behavior-driven-development-bdd)
