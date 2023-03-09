@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-09T05:32:53.729Z
+date: 2023-03-09T06:32:51.237Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -177,7 +177,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [NoSQL Database Design: How to Model Data in MongoDB and Redis](/Knowledge-base/NoSQL/nosql-database-design-how-to-model-data-in-mongodb-and-redis)
 - [ ] Redis Lua Scripting: Building Custom Redis Commands with Lua|NoSQL
 - [x] [MongoDB Replication: How to Ensure Data Availability and Durability](/Knowledge-base/NoSQL/mongodb-replication-how-to-ensure-data-availability-and-durability)
-- [ ] The Role of NoSQL Databases in Big Data Analytics|NoSQL
+- [x] [The Role of NoSQL Databases in Big Data Analytics](/Knowledge-base/NoSQL/the-role-of-nosql-databases-in-big-data-analytics)
 - [ ] MongoDB Sharding: How to Scale Your MongoDB Cluster|NoSQL
 - [x] [Redis Key-Value Store: Understanding the Basics](/Knowledge-base/NoSQL/redis-key-value-store-understanding-the-basics)
 - [ ] MongoDB GridFS: How to Store and Retrieve Large Files|NoSQL
