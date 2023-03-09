@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-09T09:32:37.832Z
+date: 2023-03-09T10:32:59.154Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -200,7 +200,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Building a Recommendation System with Redis: Collaborative Filtering and Beyond](/Knowledge-base/NoSQL/building-a-recommendation-system-with-redis-collaborative-filtering-and-beyond)
 - [x] [MongoDB Backups and Disaster Recovery: Best Practices and Strategies](/Knowledge-base/NoSQL/mongodb-backups-and-disaster-recovery-best-practices-and-strategies)
 - [x] [Redis Geo: A Guide to Storing and Querying Geospatial Data in Redis](/Knowledge-base/NoSQL/redis-geo-a-guide-to-storing-and-querying-geospatial-data-in-redis)
-- [ ] MongoDB Aggregation Performance: Optimizing Complex Queries for Speed|NoSQL
+- [x] [MongoDB Aggregation Performance: Optimizing Complex Queries for Speed](/Knowledge-base/NoSQL/mongodb-aggregation-performance-optimizing-complex-queries-for-speed)
 - [x] [Redis AI: Machine Learning and Deep Learning with Redis](/Knowledge-base/NoSQL/redis-ai-machine-learning-and-deep-learning-with-redis)
 - [x] [A Guide to MongoDB Index Optimization: Improving Query Performance](/Knowledge-base/NoSQL/a-guide-to-mongodb-index-optimization-improving-query-performance)
 - [ ] Redis Time-Series Data: Storing and Querying Time-Stamped Data in Redis|NoSQL
