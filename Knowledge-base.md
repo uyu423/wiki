@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-09T16:33:04.908Z
+date: 2023-03-09T17:33:03.322Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2055,7 +2055,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Disaster Recovery Plan](/Knowledge-base/Dictionary/disaster-recovery-plan)
 - [x] [Business Continuity Plan](/Knowledge-base/Dictionary/business-continuity-plan)
 - [x] [Waterfall](/Knowledge-base/Dictionary/waterfall)
-- [ ] Hybrid Project Management|Dictionary
+- [x] [Hybrid Project Management](/Knowledge-base/Dictionary/hybrid-project-management)
 - [x] [Project Planning](/Knowledge-base/Dictionary/project-planning)
 - [x] [Project Budgeting](/Knowledge-base/Dictionary/project-budgeting)
 - [x] [Project Scheduling](/Knowledge-base/Dictionary/project-scheduling)
