@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-09T18:32:43.307Z
+date: 2023-03-09T19:32:46.930Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1395,7 +1395,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Creating 3D Games with Unity](/Knowledge-base/Common/creating-3d-games-with-unity)
 - [x] [How to Secure Your Website with HTTPS and SSL Certificates](/Knowledge-base/Common/how-to-secure-your-website-with-https-and-ssl-certificates)
 - [x] [Exploring the Internet of Things (IoT) and its Applications](/Knowledge-base/Common/exploring-the-internet-of-things-iot-and-its-applications)
-- [ ] Using Microservices to Build Scalable Applications|Common
+- [x] [Using Microservices to Build Scalable Applications](/Knowledge-base/Common/using-microservices-to-build-scalable-applications)
 - [x] [Building RESTful APIs with Node.js and Express](/Knowledge-base/Common/building-restful-apis-with-node-js-and-express)
 - [x] [Implementing Advanced Algorithms for Machine Learning](/Knowledge-base/Common/implementing-advanced-algorithms-for-machine-learning)
 - [x] [Big Data Analytics with Apache Spark](/Knowledge-base/Common/big-data-analytics-with-apache-spark)
