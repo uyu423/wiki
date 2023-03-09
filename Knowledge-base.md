@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-08T23:32:55.346Z
+date: 2023-03-09T00:32:42.272Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1255,7 +1255,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Software Development 015: Android Development with Java|Software-Development/Learning
 - [x] [Software Development 016: Cloud Computing and AWS](/Knowledge-base/Software-Development/Learning/software-development-016-cloud-computing-and-aws)
 - [x] [Software Development 017: DevOps and Continuous Integration/Continuous Deployment (CI/CD)](/Knowledge-base/Software-Development/Learning/software-development-017-devops-and-continuous-integrationcontinuous-deployment-cicd)
-- [ ] Software Development 018: Linux Administration|Software-Development/Learning
+- [x] [Software Development 018: Linux Administration](/Knowledge-base/Software-Development/Learning/software-development-018-linux-administration)
 - [x] [Software Development 019: Git and Version Control](/Knowledge-base/Software-Development/Learning/software-development-019-git-and-version-control)
 - [x] [Software Development 020: Agile Methodology](/Knowledge-base/Software-Development/Learning/software-development-020-agile-methodology)
 - [x] [Software Development 021: Software Architecture and Design Patterns](/Knowledge-base/Software-Development/Learning/software-development-021-software-architecture-and-design-patterns)
