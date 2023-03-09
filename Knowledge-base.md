@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-09T22:33:07.678Z
+date: 2023-03-09T23:32:48.540Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2228,7 +2228,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Vinod Dham (Intel Engineer)](/Knowledge-base/Dictionary/Person/vinod-dham-intel-engineer)
 - [x] [Rajeev Suri (Nokia CEO)](/Knowledge-base/Dictionary/Person/rajeev-suri-nokia-ceo)
 - [x] [Pradeep Sindhu (Juniper Networks Co-founder)](/Knowledge-base/Dictionary/Person/pradeep-sindhu-juniper-networks-co-founder)
-- [ ] Andy Bechtolsheim (Sun Microsystems Co-founder)|Dictionary/Person
+- [x] [Andy Bechtolsheim (Sun Microsystems Co-founder)](/Knowledge-base/Dictionary/Person/andy-bechtolsheim-sun-microsystems-co-founder)
 - [x] [Ken Thompson (UNIX Developer)](/Knowledge-base/Dictionary/Person/ken-thompson-unix-developer)
 - [x] [Dennis Ritchie (UNIX Developer)](/Knowledge-base/Dictionary/Person/dennis-ritchie-unix-developer)
 - [x] [Bjarne Stroustrup (C++ Creator)](/Knowledge-base/Dictionary/Person/bjarne-stroustrup-c-creator)
