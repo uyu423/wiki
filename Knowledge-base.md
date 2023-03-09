@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-09T03:32:47.630Z
+date: 2023-03-09T04:32:52.210Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -69,7 +69,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [018: Type Compatibility in TypeScript: How to Ensure Types Are Compatible in Your Code](/Knowledge-base/TypeScript/Learning/018-type-compatibility-in-typescript-how-to-ensure-types-are-compatible-in-your-code)
 - [x] [019: Declaration Merging in TypeScript: How to Merge Multiple Declarations of the Same Entity](/Knowledge-base/TypeScript/Learning/019-declaration-merging-in-typescript-how-to-merge-multiple-declarations-of-the-same-entity)
 - [x] [020: Intersection Types in TypeScript: How to Combine Types for More Complex Types](/Knowledge-base/TypeScript/Learning/020-intersection-types-in-typescript-how-to-combine-types-for-more-complex-types)
-- [ ] 021: Type Reflection in TypeScript: How to Use TypeScript's Reflection Capabilities|TypeScript/Learning
+- [x] [021: Type Reflection in TypeScript: How to Use TypeScript's Reflection Capabilities](/Knowledge-base/TypeScript/Learning/021-type-reflection-in-typescript-how-to-use-typescript-s-reflection-capabilities)
 - [x] [022: Index Signatures in TypeScript: How to Work with Objects with Dynamic Properties](/Knowledge-base/TypeScript/Learning/022-index-signatures-in-typescript-how-to-work-with-objects-with-dynamic-properties)
 - [x] [023: Mixing JavaScript and TypeScript: How to Use TypeScript with Existing JavaScript Code](/Knowledge-base/TypeScript/Learning/023-mixing-javascript-and-typescript-how-to-use-typescript-with-existing-javascript-code)
 - [x] [024: Type Guards with Classes in TypeScript: How to Use Type Guards with Classes and Interfaces](/Knowledge-base/TypeScript/Learning/024-type-guards-with-classes-in-typescript-how-to-use-type-guards-with-classes-and-interfaces)
