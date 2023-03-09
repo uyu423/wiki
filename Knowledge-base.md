@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-09T10:32:59.154Z
+date: 2023-03-09T11:32:59.647Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -63,7 +63,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [012: Type Inference in TypeScript: How TypeScript Infers Types in Your Code](/Knowledge-base/TypeScript/Learning/012-type-inference-in-typescript-how-typescript-infers-types-in-your-code)
 - [ ] 013: Type Guards in TypeScript: How to Narrow Down Types with Conditionals|TypeScript/Learning
 - [x] [014: Enums in TypeScript: How to Define and Use Enumerated Types](/Knowledge-base/TypeScript/Learning/014-enums-in-typescript-how-to-define-and-use-enumerated-types)
-- [ ] 015: Type Aliases in TypeScript: How to Define Custom Types with Aliases|TypeScript/Learning
+- [x] [015: Type Aliases in TypeScript: How to Define Custom Types with Aliases](/Knowledge-base/TypeScript/Learning/015-type-aliases-in-typescript-how-to-define-custom-types-with-aliases)
 - [x] [016: Type Assertions in TypeScript: How to Override TypeScript's Type System](/Knowledge-base/TypeScript/Learning/016-type-assertions-in-typescript-how-to-override-typescript-s-type-system)
 - [ ] 017: Tuples in TypeScript: How to Work with Fixed-Length Arrays with Typed Elements|TypeScript/Learning
 - [x] [018: Type Compatibility in TypeScript: How to Ensure Types Are Compatible in Your Code](/Knowledge-base/TypeScript/Learning/018-type-compatibility-in-typescript-how-to-ensure-types-are-compatible-in-your-code)
