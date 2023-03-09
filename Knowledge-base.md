@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-09T17:33:03.322Z
+date: 2023-03-09T18:32:43.307Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2042,7 +2042,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Remote Access](/Knowledge-base/Dictionary/remote-access)
 - [x] [Remote Work](/Knowledge-base/Dictionary/remote-work)
 - [x] [Telecommuting](/Knowledge-base/Dictionary/telecommuting)
-- [ ] Digital Certificate|Dictionary
+- [x] [Digital Certificate](/Knowledge-base/Dictionary/digital-certificate)
 - [x] [Two-Factor Authentication](/Knowledge-base/Dictionary/two-factor-authentication)
 - [x] [User Management](/Knowledge-base/Dictionary/user-management)
 - [x] [Compliance](/Knowledge-base/Dictionary/compliance)
