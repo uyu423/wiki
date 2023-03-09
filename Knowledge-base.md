@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-09T06:32:51.237Z
+date: 2023-03-09T07:32:40.791Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1715,7 +1715,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [User Testing](/Knowledge-base/Dictionary/user-testing)
 - [x] [User Acceptance Testing](/Knowledge-base/Dictionary/user-acceptance-testing)
 - [x] [Performance Testing](/Knowledge-base/Dictionary/performance-testing)
-- [ ] Stress Testing|Dictionary
+- [x] [Stress Testing](/Knowledge-base/Dictionary/stress-testing)
 - [x] [Load Testing](/Knowledge-base/Dictionary/load-testing)
 - [x] [Scalability Testing](/Knowledge-base/Dictionary/scalability-testing)
 - [x] [Compliance Testing](/Knowledge-base/Dictionary/compliance-testing)
