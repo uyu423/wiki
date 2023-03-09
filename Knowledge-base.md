@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-09T12:32:51.511Z
+date: 2023-03-09T13:32:59.785Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1420,7 +1420,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Applying DevOps to Improve Software Delivery](/Knowledge-base/Common/applying-devops-to-improve-software-delivery)
 - [x] [How to Use Git for Version Control in Software Development](/Knowledge-base/Common/how-to-use-git-for-version-control-in-software-development)
 - [x] [The Ethics of Artificial Intelligence (AI) and Machine Learning](/Knowledge-base/Common/the-ethics-of-artificial-intelligence-ai-and-machine-learning)
-- [ ] Building a Secure Online Payment System|Common
+- [x] [Building a Secure Online Payment System](/Knowledge-base/Common/building-a-secure-online-payment-system)
 - [x] [Using Machine Learning for Predictive Analytics](/Knowledge-base/Common/using-machine-learning-for-predictive-analytics)
 - [x] [The Future of Artificial Intelligence (AI) in Financial Services](/Knowledge-base/Common/the-future-of-artificial-intelligence-ai-in-financial-services)
 - [x] [Developing Chatbots with Microsoft Bot Framework](/Knowledge-base/Common/developing-chatbots-with-microsoft-bot-framework)
