@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-09T08:32:54.528Z
+date: 2023-03-09T09:32:37.832Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2182,7 +2182,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Rakuten, Inc. (Japan)](/Knowledge-base/Dictionary/Company/rakuten-inc-japan)
 - [x] [Bandai Namco Holdings (Japan)](/Knowledge-base/Dictionary/Company/bandai-namco-holdings-japan)
 - [x] [CyberAgent, Inc. (Japan)](/Knowledge-base/Dictionary/Company/cyberagent-inc-japan)
-- [ ] DeNA Co., Ltd. (Japan)|Dictionary/Company
+- [x] [DeNA Co., Ltd. (Japan)](/Knowledge-base/Dictionary/Company/dena-co-ltd-japan)
 - [x] [GREE, Inc. (Japan)](/Knowledge-base/Dictionary/Company/gree-inc-japan)
 - [x] [NHN Entertainment Corporation (South Korea)](/Knowledge-base/Dictionary/Company/nhn-entertainment-corporation-south-korea)
 - [x] [Com2uS Corporation (South Korea)](/Knowledge-base/Dictionary/Company/com2us-corporation-south-korea)
