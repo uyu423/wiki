@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-09T21:32:39.499Z
+date: 2023-03-09T22:33:07.678Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2175,7 +2175,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Alibaba Cloud (China)](/Knowledge-base/Dictionary/Company/alibaba-cloud-china)
 - [x] [JD Cloud & AI (China)](/Knowledge-base/Dictionary/Company/jd-cloud--ai-china)
 - [x] [Bilibili Inc. (China)](/Knowledge-base/Dictionary/Company/bilibili-inc-china)
-- [ ] Kuaishou Technology (China)|Dictionary/Company
+- [x] [Kuaishou Technology (China)](/Knowledge-base/Dictionary/Company/kuaishou-technology-china)
 - [x] [JDE Peet's (Netherlands)](/Knowledge-base/Dictionary/Company/jde-peet-s-netherlands)
 - [x] [Coca-Cola Beverages (Japan)](/Knowledge-base/Dictionary/Company/coca-cola-beverages-japan)
 - [x] [Fancl Corporation (Japan)](/Knowledge-base/Dictionary/Company/fancl-corporation-japan)
