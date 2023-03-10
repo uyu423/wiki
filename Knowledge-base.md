@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-10T09:32:54.371Z
+date: 2023-03-10T10:32:43.555Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -85,7 +85,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [034: Function Overloading in TypeScript: How to Create Functions with Multiple Signatures](/Knowledge-base/TypeScript/Learning/034-function-overloading-in-typescript-how-to-create-functions-with-multiple-signatures)
 - [x] [035: Namespaces vs. Modules in TypeScript: Understanding the Differences and When to Use Each](/Knowledge-base/TypeScript/Learning/035-namespaces-vs-modules-in-typescript-understanding-the-differences-and-when-to-use-each)
 - [x] [036: Mapped Types in TypeScript: How to Transform Types with Mappings](/Knowledge-base/TypeScript/Learning/036-mapped-types-in-typescript-how-to-transform-types-with-mappings)
-- [ ] 037: Nullish Coalescing in TypeScript: How to Use the Nullish Coalescing Operator|TypeScript/Learning
+- [x] [037: Nullish Coalescing in TypeScript: How to Use the Nullish Coalescing Operator](/Knowledge-base/TypeScript/Learning/037-nullish-coalescing-in-typescript-how-to-use-the-nullish-coalescing-operator)
 - [x] [038: Global Declarations in TypeScript: How to Declare Global Variables and Functions](/Knowledge-base/TypeScript/Learning/038-global-declarations-in-typescript-how-to-declare-global-variables-and-functions)
 - [ ] 039: Readonly Properties in TypeScript: How to Create Immutable Objects|TypeScript/Learning
 - [x] [040: Augmenting Types in TypeScript: How to Add Properties and Methods to Existing Types](/Knowledge-base/TypeScript/Learning/040-augmenting-types-in-typescript-how-to-add-properties-and-methods-to-existing-types)
