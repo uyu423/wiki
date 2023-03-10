@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-10T11:33:01.215Z
+date: 2023-03-10T12:33:05.903Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1542,7 +1542,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Developing Microservices with TypeScript and Nest.js](/Knowledge-base/TypeScript/developing-microservices-with-typescript-and-nest-js)
 - [x] [Integrating TypeScript with AWS Services for Serverless Development](/Knowledge-base/TypeScript/integrating-typescript-with-aws-services-for-serverless-development)
 - [x] [Building Real-Time Chat Applications with TypeScript and WebSockets](/Knowledge-base/TypeScript/building-real-time-chat-applications-with-typescript-and-websockets)
-- [ ] Using TypeScript with TypeORM for Object-Relational Mapping|TypeScript
+- [x] [Using TypeScript with TypeORM for Object-Relational Mapping](/Knowledge-base/TypeScript/using-typescript-with-typeorm-for-object-relational-mapping)
 - [x] [Working with WebSockets in TypeScript and Express.js](/Knowledge-base/TypeScript/working-with-websockets-in-typescript-and-express-js)
 - [x] [Implementing Role-Based Access Control in TypeScript Applications](/Knowledge-base/TypeScript/implementing-role-based-access-control-in-typescript-applications)
 - [x] [Using TypeScript with Redis for Data Caching and Management](/Knowledge-base/TypeScript/using-typescript-with-redis-for-data-caching-and-management)
