@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-10T02:32:59.168Z
+date: 2023-03-10T03:33:04.364Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -113,7 +113,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The OSI Model: A Comprehensive Guide to Networking Layers](/Knowledge-base/Network/the-osi-model-a-comprehensive-guide-to-networking-layers)
 - [ ] How to Use cURL: A Command-Line Tool for Working with HTTP|Network
 - [ ] TCP/IP vs. UDP: Understanding the Differences and When to Use Each|Network
-- [ ] DNS Records: A Comprehensive Guide to DNS Resource Records|Network
+- [x] [DNS Records: A Comprehensive Guide to DNS Resource Records](/Knowledge-base/Network/dns-records-a-comprehensive-guide-to-dns-resource-records)
 - [ ] A Beginner's Guide to HTTPS: How to Secure Your Web Traffic|Network
 - [x] [The TCP Three-Way Handshake: How TCP Connections Are Established](/Knowledge-base/Network/the-tcp-three-way-handshake-how-tcp-connections-are-established)
 - [x] [HTTP Headers: Understanding the Metadata of Web Requests and Responses](/Knowledge-base/Network/http-headers-understanding-the-metadata-of-web-requests-and-responses)
