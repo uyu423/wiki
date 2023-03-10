@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-10T15:32:55.557Z
+date: 2023-03-10T16:32:50.300Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -95,7 +95,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 044: The Partial Type in TypeScript: How to Create Types with Optional Properties|TypeScript/Learning
 - [x] [045: String Manipulation in TypeScript: How to Work with Strings in Your Code](/Knowledge-base/TypeScript/Learning/045-string-manipulation-in-typescript-how-to-work-with-strings-in-your-code)
 - [x] [046: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types](/Knowledge-base/TypeScript/Learning/046-type-driven-refactoring-in-typescript-how-to-refactor-your-code-with-types)
-- [ ] 047: The Partial Type in TypeScript: How to Create Types with Optional Properties|TypeScript/Learning
+- [x] [047: The Partial Type in TypeScript: How to Create Types with Optional Properties](/Knowledge-base/TypeScript/Learning/047-the-partial-type-in-typescript-how-to-create-types-with-optional-properties)
 - [x] [048: The Pick Type in TypeScript: How to Create Types by Picking Properties from Other Types](/Knowledge-base/TypeScript/Learning/048-the-pick-type-in-typescript-how-to-create-types-by-picking-properties-from-other-types)
 - [ ] 049: The Omit Type in TypeScript: How to Create Types by Removing Properties from Other Types|TypeScript/Learning
 - [ ] 050: The Record Type in TypeScript: How to Create Types with Key-Value Pairs|TypeScript/Learning
