@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-10T17:32:49.827Z
+date: 2023-03-10T18:32:50.082Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1252,7 +1252,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 012: Single Page Application (SPA) Development](/Knowledge-base/Software-Development/Learning/software-development-012-single-page-application-spa-development)
 - [x] [Software Development 013: Cross-Platform Mobile Development with React Native](/Knowledge-base/Software-Development/Learning/software-development-013-cross-platform-mobile-development-with-react-native)
 - [x] [Software Development 014: iOS and Swift Development](/Knowledge-base/Software-Development/Learning/software-development-014-ios-and-swift-development)
-- [ ] Software Development 015: Android Development with Java|Software-Development/Learning
+- [x] [Software Development 015: Android Development with Java](/Knowledge-base/Software-Development/Learning/software-development-015-android-development-with-java)
 - [x] [Software Development 016: Cloud Computing and AWS](/Knowledge-base/Software-Development/Learning/software-development-016-cloud-computing-and-aws)
 - [x] [Software Development 017: DevOps and Continuous Integration/Continuous Deployment (CI/CD)](/Knowledge-base/Software-Development/Learning/software-development-017-devops-and-continuous-integrationcontinuous-deployment-cicd)
 - [x] [Software Development 018: Linux Administration](/Knowledge-base/Software-Development/Learning/software-development-018-linux-administration)
