@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-10T13:32:50.660Z
+date: 2023-03-10T14:33:08.188Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -79,7 +79,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [028: Optional Chaining in TypeScript: How to Safely Access Nested Properties and Methods](/Knowledge-base/TypeScript/Learning/028-optional-chaining-in-typescript-how-to-safely-access-nested-properties-and-methods)
 - [ ] 029: Type Predicates in TypeScript: How to Write Custom Type Guards|TypeScript/Learning
 - [ ] 030: Type-Driven Development in TypeScript: How to Use Types to Guide Development|TypeScript/Learning
-- [ ] 031: Non-Nullable Types in TypeScript: How to Ensure Types Are Not Null or Undefined|TypeScript/Learning
+- [x] [031: Non-Nullable Types in TypeScript: How to Ensure Types Are Not Null or Undefined](/Knowledge-base/TypeScript/Learning/031-non-nullable-types-in-typescript-how-to-ensure-types-are-not-null-or-undefined)
 - [x] [032: Discriminated Unions in TypeScript: How to Create Types with Discriminators](/Knowledge-base/TypeScript/Learning/032-discriminated-unions-in-typescript-how-to-create-types-with-discriminators)
 - [x] [033: This Types in TypeScript: How to Work with the 'this' Keyword in Classes and Functions](/Knowledge-base/TypeScript/Learning/033-this-types-in-typescript-how-to-work-with-the-this-keyword-in-classes-and-functions)
 - [x] [034: Function Overloading in TypeScript: How to Create Functions with Multiple Signatures](/Knowledge-base/TypeScript/Learning/034-function-overloading-in-typescript-how-to-create-functions-with-multiple-signatures)
