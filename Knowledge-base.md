@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-09T23:32:48.540Z
+date: 2023-03-10T00:32:57.737Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2250,7 +2250,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Marc Benioff (Salesforce CEO)](/Knowledge-base/Dictionary/Person/marc-benioff-salesforce-ceo)
 - [x] [John McAfee (McAfee Anti-Virus Founder)](/Knowledge-base/Dictionary/Person/john-mcafee-mcafee-anti-virus-founder)
 - [x] [Bob Metcalfe (Ethernet Inventor)](/Knowledge-base/Dictionary/Person/bob-metcalfe-ethernet-inventor)
-- [ ] Dave Cutler (Windows NT Architect)|Dictionary/Person
+- [x] [Dave Cutler (Windows NT Architect)](/Knowledge-base/Dictionary/Person/dave-cutler-windows-nt-architect)
 - [x] [Bob Frankston (VisiCalc Creator)](/Knowledge-base/Dictionary/Person/bob-frankston-visicalc-creator)
 - [x] [Douglas Engelbart (Computer Mouse Inventor)](/Knowledge-base/Dictionary/Person/douglas-engelbart-computer-mouse-inventor)
 - [x] [Ted Nelson (Hypertext Pioneer)](/Knowledge-base/Dictionary/Person/ted-nelson-hypertext-pioneer)
