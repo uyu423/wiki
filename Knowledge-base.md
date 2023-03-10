@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-10T18:32:50.082Z
+date: 2023-03-10T19:32:44.895Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -171,7 +171,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [How to Migrate from SQL to NoSQL: A Step-by-Step Guide](/Knowledge-base/NoSQL/how-to-migrate-from-sql-to-nosql-a-step-by-step-guide)
 - [ ] MongoDB Aggregation Framework: Exploring Powerful Querying Capabilities|NoSQL
 - [ ] Redis vs. Memcached: Which Caching System Is Best for You?|NoSQL
-- [ ] The Pros and Cons of Using a Document-Oriented NoSQL Database like MongoDB|NoSQL
+- [x] [The Pros and Cons of Using a Document-Oriented NoSQL Database like MongoDB](/Knowledge-base/NoSQL/the-pros-and-cons-of-using-a-document-oriented-nosql-database-like-mongodb)
 - [x] [Redis Data Persistence: How to Make Sure Your Data Is Always There](/Knowledge-base/NoSQL/redis-data-persistence-how-to-make-sure-your-data-is-always-there)
 - [ ] MongoDB Indexing: Tips and Best Practices for Faster Queries|NoSQL
 - [x] [NoSQL Database Design: How to Model Data in MongoDB and Redis](/Knowledge-base/NoSQL/nosql-database-design-how-to-model-data-in-mongodb-and-redis)
