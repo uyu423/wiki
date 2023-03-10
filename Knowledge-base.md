@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-10T04:32:46.214Z
+date: 2023-03-10T05:32:53.231Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -111,7 +111,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] DNS Fundamentals: How Domain Name Resolution Works|Network
 - [ ] HTTP Status Codes: What They Are and What They Mean|Network
 - [x] [The OSI Model: A Comprehensive Guide to Networking Layers](/Knowledge-base/Network/the-osi-model-a-comprehensive-guide-to-networking-layers)
-- [ ] How to Use cURL: A Command-Line Tool for Working with HTTP|Network
+- [x] [How to Use cURL: A Command-Line Tool for Working with HTTP](/Knowledge-base/Network/how-to-use-curl-a-command-line-tool-for-working-with-http)
 - [ ] TCP/IP vs. UDP: Understanding the Differences and When to Use Each|Network
 - [x] [DNS Records: A Comprehensive Guide to DNS Resource Records](/Knowledge-base/Network/dns-records-a-comprehensive-guide-to-dns-resource-records)
 - [ ] A Beginner's Guide to HTTPS: How to Secure Your Web Traffic|Network
