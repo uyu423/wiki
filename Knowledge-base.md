@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-10T12:33:05.903Z
+date: 2023-03-10T13:32:50.660Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2211,7 +2211,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Larry Ellison (Oracle CEO)](/Knowledge-base/Dictionary/Person/larry-ellison-oracle-ceo)
 - [x] [Michael Dell (Dell Technologies Founder)](/Knowledge-base/Dictionary/Person/michael-dell-dell-technologies-founder)
 - [x] [Steve Ballmer (Microsoft CEO)](/Knowledge-base/Dictionary/Person/steve-ballmer-microsoft-ceo)
-- [ ] Satya Nadella (Microsoft CEO)|Dictionary/Person
+- [x] [Satya Nadella (Microsoft CEO)](/Knowledge-base/Dictionary/Person/satya-nadella-microsoft-ceo)
 - [x] [John Chambers (Cisco Systems CEO)](/Knowledge-base/Dictionary/Person/john-chambers-cisco-systems-ceo)
 - [x] [Meg Whitman (HP CEO)](/Knowledge-base/Dictionary/Person/meg-whitman-hp-ceo)
 - [x] [Brian Krzanich (Intel CEO)](/Knowledge-base/Dictionary/Person/brian-krzanich-intel-ceo)
