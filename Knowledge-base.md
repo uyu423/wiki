@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-10T08:32:58.544Z
+date: 2023-03-10T09:32:54.371Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2046,7 +2046,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Two-Factor Authentication](/Knowledge-base/Dictionary/two-factor-authentication)
 - [x] [User Management](/Knowledge-base/Dictionary/user-management)
 - [x] [Compliance](/Knowledge-base/Dictionary/compliance)
-- [ ] Privacy|Dictionary
+- [x] [Privacy](/Knowledge-base/Dictionary/privacy)
 - [x] [Data Protection](/Knowledge-base/Dictionary/data-protection)
 - [x] [General Data Protection Regulation](/Knowledge-base/Dictionary/general-data-protection-regulation)
 - [x] [California Consumer Privacy Act](/Knowledge-base/Dictionary/california-consumer-privacy-act)
