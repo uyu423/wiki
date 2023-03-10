@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-10T00:32:57.737Z
+date: 2023-03-10T01:32:48.716Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1636,7 +1636,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Backend Programming](/Knowledge-base/Dictionary/backend-programming)
 - [x] [Frontend Programming](/Knowledge-base/Dictionary/frontend-programming)
 - [x] [Lean Startup](/Knowledge-base/Dictionary/lean-startup)
-- [ ] Refactoring|Dictionary
+- [x] [Refactoring](/Knowledge-base/Dictionary/refactoring)
 - [ ] Clean Software|Dictionary
 - [x] [Wooahan Brothers (South Korea Company)](/Knowledge-base/Dictionary/wooahan-brothers-south-korea-company)
 - [x] [NAVER](/Knowledge-base/Dictionary/naver)
