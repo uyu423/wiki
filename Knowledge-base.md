@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-10T07:33:04.090Z
+date: 2023-03-10T08:32:58.544Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1721,7 +1721,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Compliance Testing](/Knowledge-base/Dictionary/compliance-testing)
 - [x] [Automated Testing](/Knowledge-base/Dictionary/automated-testing)
 - [x] [Penetration Testing](/Knowledge-base/Dictionary/penetration-testing)
-- [ ] Vulnerability Assessment|Dictionary
+- [x] [Vulnerability Assessment](/Knowledge-base/Dictionary/vulnerability-assessment)
 - [x] [Security Testing](/Knowledge-base/Dictionary/security-testing)
 - [x] [Risk Assessment](/Knowledge-base/Dictionary/risk-assessment)
 - [x] [Threat Modeling](/Knowledge-base/Dictionary/threat-modeling)
