@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-10T21:32:51.967Z
+date: 2023-03-10T22:32:57.159Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2128,7 +2128,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Corsair Components, Inc.](/Knowledge-base/Dictionary/Company/corsair-components-inc-)
 - [x] [Razer Inc.](/Knowledge-base/Dictionary/Company/razer-inc-)
 - [x] [Samsung Electronics Co., Ltd. (South Korea)](/Knowledge-base/Dictionary/Company/samsung-electronics-co-ltd-south-korea)
-- [ ] Huawei Technologies Co., Ltd. (China)|Dictionary/Company
+- [x] [Huawei Technologies Co., Ltd. (China)](/Knowledge-base/Dictionary/Company/huawei-technologies-co-ltd-china)
 - [x] [WIPRO Limited (India)](/Knowledge-base/Dictionary/Company/wipro-limited-india)
 - [x] [Infosys Limited (India)](/Knowledge-base/Dictionary/Company/infosys-limited-india)
 - [x] [HCL Technologies Limited (India)](/Knowledge-base/Dictionary/Company/hcl-technologies-limited-india)
