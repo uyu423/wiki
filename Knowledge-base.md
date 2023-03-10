@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-10T22:32:57.159Z
+date: 2023-03-10T23:32:56.177Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -123,7 +123,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [DNSSEC: Securing DNS with Cryptography](/Knowledge-base/Network/dnssec-securing-dns-with-cryptography)
 - [x] [HTTP Cookies: Understanding How Websites Track Your Activity](/Knowledge-base/Network/http-cookies-understanding-how-websites-track-your-activity)
 - [ ] The TCP Window Size: How TCP Adapts to Network Conditions|Network
-- [ ] Network Address Translation (NAT): How NAT Translates IP Addresses|Network
+- [x] [Network Address Translation (NAT): How NAT Translates IP Addresses](/Knowledge-base/Network/network-address-translation-nat-how-nat-translates-ip-addresses)
 - [x] [How to Use Wireshark: A Beginner's Guide to Network Protocol Analysis](/Knowledge-base/Network/how-to-use-wireshark-a-beginner-s-guide-to-network-protocol-analysis)
 - [ ] HTTP/2: Understanding the Improvements Over HTTP/1.x|Network
 - [x] [How to Troubleshoot TCP/IP Connectivity Issues](/Knowledge-base/Network/how-to-troubleshoot-tcpip-connectivity-issues)
