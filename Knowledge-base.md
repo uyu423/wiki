@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-10T20:32:42.339Z
+date: 2023-03-10T21:32:51.967Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -170,7 +170,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Redis Pub/Sub: Building a Real-Time Message Queue with Redis|NoSQL
 - [x] [How to Migrate from SQL to NoSQL: A Step-by-Step Guide](/Knowledge-base/NoSQL/how-to-migrate-from-sql-to-nosql-a-step-by-step-guide)
 - [ ] MongoDB Aggregation Framework: Exploring Powerful Querying Capabilities|NoSQL
-- [ ] Redis vs. Memcached: Which Caching System Is Best for You?|NoSQL
+- [x] [Redis vs. Memcached: Which Caching System Is Best for You?](/Knowledge-base/NoSQL/redis-vs-memcached-which-caching-system-is-best-for-you)
 - [x] [The Pros and Cons of Using a Document-Oriented NoSQL Database like MongoDB](/Knowledge-base/NoSQL/the-pros-and-cons-of-using-a-document-oriented-nosql-database-like-mongodb)
 - [x] [Redis Data Persistence: How to Make Sure Your Data Is Always There](/Knowledge-base/NoSQL/redis-data-persistence-how-to-make-sure-your-data-is-always-there)
 - [ ] MongoDB Indexing: Tips and Best Practices for Faster Queries|NoSQL
