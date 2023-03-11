@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-11T22:32:38.764Z
+date: 2023-03-11T23:32:40.951Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1986,7 +1986,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Natural Language Processing](/Knowledge-base/Dictionary/natural-language-processing)
 - [x] [Computer Vision](/Knowledge-base/Dictionary/computer-vision)
 - [x] [Robotics](/Knowledge-base/Dictionary/robotics)
-- [ ] Internet of Things|Dictionary
+- [x] [Internet of Things](/Knowledge-base/Dictionary/internet-of-things)
 - [x] [Embedded Systems](/Knowledge-base/Dictionary/embedded-systems)
 - [x] [Wearable Technology](/Knowledge-base/Dictionary/wearable-technology)
 - [x] [Augmented Reality](/Knowledge-base/Dictionary/augmented-reality)
