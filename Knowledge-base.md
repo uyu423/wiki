@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-11T01:33:07.792Z
+date: 2023-03-11T02:32:51.086Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -130,7 +130,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [DNS Caching: How DNS Resolvers Speed Up Domain Name Resolution](/Knowledge-base/Network/dns-caching-how-dns-resolvers-speed-up-domain-name-resolution)
 - [x] [HTTP Authentication: How to Secure Your Web Services with Passwords and Tokens](/Knowledge-base/Network/http-authentication-how-to-secure-your-web-services-with-passwords-and-tokens)
 - [x] [IPv6: Understanding the Next Generation of IP Addresses](/Knowledge-base/Network/ipv6-understanding-the-next-generation-of-ip-addresses)
-- [ ] The TCP/IP Model: A Comparison to the OSI Model|Network
+- [x] [The TCP/IP Model: A Comparison to the OSI Model](/Knowledge-base/Network/the-tcpip-model-a-comparison-to-the-osi-model)
 - [ ] How to Use Nmap: A Beginner's Guide to Network Scanning|Network
 - [x] [HTTP Proxies: How Proxies Can Improve Web Performance and Security](/Knowledge-base/Network/http-proxies-how-proxies-can-improve-web-performance-and-security)
 - [ ] How to Use Dig: A Command-Line Tool for DNS Queries|Network
