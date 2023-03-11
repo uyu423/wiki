@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-11T15:33:01.178Z
+date: 2023-03-11T16:33:02.933Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1781,7 +1781,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Security Auditing](/Knowledge-base/Dictionary/security-auditing)
 - [x] [Vulnerability Scanning](/Knowledge-base/Dictionary/vulnerability-scanning)
 - [x] [Cybercrime](/Knowledge-base/Dictionary/cybercrime)
-- [ ] Malware|Dictionary
+- [x] [Malware](/Knowledge-base/Dictionary/malware)
 - [x] [Phishing](/Knowledge-base/Dictionary/phishing)
 - [x] [Spoofing](/Knowledge-base/Dictionary/spoofing)
 - [x] [Ransomware](/Knowledge-base/Dictionary/ransomware)
