@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-11T10:33:04.872Z
+date: 2023-03-11T11:33:05.741Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1561,7 +1561,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Using TypeScript with NeDB for Lightweight NoSQL Database](/Knowledge-base/TypeScript/using-typescript-with-nedb-for-lightweight-nosql-database)
 - [x] [Integrating TypeScript with AWS Lambda for Serverless Functions](/Knowledge-base/TypeScript/integrating-typescript-with-aws-lambda-for-serverless-functions)
 - [x] [Building Social Media Applications with TypeScript and Next.js](/Knowledge-base/TypeScript/building-social-media-applications-with-typescript-and-next-js)
-- [ ] Using TypeScript with Knex.js for SQL Database Management|TypeScript
+- [x] [Using TypeScript with Knex.js for SQL Database Management](/Knowledge-base/TypeScript/using-typescript-with-knex-js-for-sql-database-management)
 - [x] [Building Virtual Reality Applications with TypeScript and A-Frame](/Knowledge-base/TypeScript/building-virtual-reality-applications-with-typescript-and-a-frame)
 - [x] [Integrating TypeScript with Google Maps API for Location-Based Services](/Knowledge-base/TypeScript/integrating-typescript-with-google-maps-api-for-location-based-services)
 - [x] [Working with Binary Data in TypeScript and Node.js](/Knowledge-base/TypeScript/working-with-binary-data-in-typescript-and-node-js)
