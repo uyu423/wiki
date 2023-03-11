@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-11T11:33:05.741Z
+date: 2023-03-11T12:32:48.403Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -97,7 +97,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [046: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types](/Knowledge-base/TypeScript/Learning/046-type-driven-refactoring-in-typescript-how-to-refactor-your-code-with-types)
 - [x] [047: The Partial Type in TypeScript: How to Create Types with Optional Properties](/Knowledge-base/TypeScript/Learning/047-the-partial-type-in-typescript-how-to-create-types-with-optional-properties)
 - [x] [048: The Pick Type in TypeScript: How to Create Types by Picking Properties from Other Types](/Knowledge-base/TypeScript/Learning/048-the-pick-type-in-typescript-how-to-create-types-by-picking-properties-from-other-types)
-- [ ] 049: The Omit Type in TypeScript: How to Create Types by Removing Properties from Other Types|TypeScript/Learning
+- [x] [049: The Omit Type in TypeScript: How to Create Types by Removing Properties from Other Types](/Knowledge-base/TypeScript/Learning/049-the-omit-type-in-typescript-how-to-create-types-by-removing-properties-from-other-types)
 - [ ] 050: The Record Type in TypeScript: How to Create Types with Key-Value Pairs|TypeScript/Learning
 - [x] [051: Type-Safe APIs in TypeScript: How to Ensure Type Safety in Your API Design](/Knowledge-base/TypeScript/Learning/051-type-safe-apis-in-typescript-how-to-ensure-type-safety-in-your-api-design)
 - [x] [052: The ReadonlyArray Type in TypeScript: How to Create Immutable Arrays](/Knowledge-base/TypeScript/Learning/052-the-readonlyarray-type-in-typescript-how-to-create-immutable-arrays)
