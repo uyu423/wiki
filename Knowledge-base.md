@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-11T07:32:54.600Z
+date: 2023-03-11T08:32:46.436Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1694,7 +1694,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Project Management](/Knowledge-base/Dictionary/project-management)
 - [x] [Business Analysis](/Knowledge-base/Dictionary/business-analysis)
 - [x] [Business Intelligence](/Knowledge-base/Dictionary/business-intelligence)
-- [ ] Software Testing|Dictionary
+- [x] [Software Testing](/Knowledge-base/Dictionary/software-testing)
 - [x] [User Research](/Knowledge-base/Dictionary/user-research)
 - [x] [Product Management](/Knowledge-base/Dictionary/product-management)
 - [x] [Marketing Automation](/Knowledge-base/Dictionary/marketing-automation)
