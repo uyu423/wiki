@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-11T12:32:48.403Z
+date: 2023-03-11T13:33:00.854Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2216,7 +2216,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Meg Whitman (HP CEO)](/Knowledge-base/Dictionary/Person/meg-whitman-hp-ceo)
 - [x] [Brian Krzanich (Intel CEO)](/Knowledge-base/Dictionary/Person/brian-krzanich-intel-ceo)
 - [x] [Ginni Rometty (IBM CEO)](/Knowledge-base/Dictionary/Person/ginni-rometty-ibm-ceo)
-- [ ] Travis Kalanick (Uber Co-founder)|Dictionary/Person
+- [x] [Travis Kalanick (Uber Co-founder)](/Knowledge-base/Dictionary/Person/travis-kalanick-uber-co-founder)
 - [x] [Evan Spiegel (Snap Inc. CEO)](/Knowledge-base/Dictionary/Person/evan-spiegel-snap-inc-ceo)
 - [x] [Jan Koum (WhatsApp Co-founder)](/Knowledge-base/Dictionary/Person/jan-koum-whatsapp-co-founder)
 - [x] [Daniel Ek (Spotify CEO)](/Knowledge-base/Dictionary/Person/daniel-ek-spotify-ceo)
