@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-11T16:33:02.933Z
+date: 2023-03-11T17:32:53.993Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -148,7 +148,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [IP Subnetting: How to Divide IP Networks into Smaller Subnets](/Knowledge-base/Network/ip-subnetting-how-to-divide-ip-networks-into-smaller-subnets)
 - [ ] DNS Failover: How to Ensure High Availability for Your DNS Servers|Network
 - [ ] How to Use Ping: A Command-Line Tool for Network Troubleshooting|Network
-- [ ] HTTP/1.x vs. HTTP/2: Understanding the Differences and Improvements|Network
+- [x] [HTTP/1.x vs. HTTP/2: Understanding the Differences and Improvements](/Knowledge-base/Network/http1-x-vs-http2-understanding-the-differences-and-improvements)
 - [x] [IP Routing: How Routers Forward IP Packets](/Knowledge-base/Network/ip-routing-how-routers-forward-ip-packets)
 - [x] [DNS Anycast: How to Improve DNS Performance and Resilience](/Knowledge-base/Network/dns-anycast-how-to-improve-dns-performance-and-resilience)
 - [ ] How to Use Tcpdump: A Command-Line Tool for Packet Capturing|Network
