@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-11T13:33:00.854Z
+date: 2023-03-11T14:33:18.938Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -77,7 +77,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [026: String Literal Types in TypeScript: How to Define Types with Literal Values](/Knowledge-base/TypeScript/Learning/026-string-literal-types-in-typescript-how-to-define-types-with-literal-values)
 - [x] [027: Namespace Aliases in TypeScript: How to Use Aliases to Refer to Namespaces](/Knowledge-base/TypeScript/Learning/027-namespace-aliases-in-typescript-how-to-use-aliases-to-refer-to-namespaces)
 - [x] [028: Optional Chaining in TypeScript: How to Safely Access Nested Properties and Methods](/Knowledge-base/TypeScript/Learning/028-optional-chaining-in-typescript-how-to-safely-access-nested-properties-and-methods)
-- [ ] 029: Type Predicates in TypeScript: How to Write Custom Type Guards|TypeScript/Learning
+- [x] [029: Type Predicates in TypeScript: How to Write Custom Type Guards](/Knowledge-base/TypeScript/Learning/029-type-predicates-in-typescript-how-to-write-custom-type-guards)
 - [ ] 030: Type-Driven Development in TypeScript: How to Use Types to Guide Development|TypeScript/Learning
 - [x] [031: Non-Nullable Types in TypeScript: How to Ensure Types Are Not Null or Undefined](/Knowledge-base/TypeScript/Learning/031-non-nullable-types-in-typescript-how-to-ensure-types-are-not-null-or-undefined)
 - [x] [032: Discriminated Unions in TypeScript: How to Create Types with Discriminators](/Knowledge-base/TypeScript/Learning/032-discriminated-unions-in-typescript-how-to-create-types-with-discriminators)
