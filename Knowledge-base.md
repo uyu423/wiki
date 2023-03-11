@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-11T21:32:37.227Z
+date: 2023-03-11T22:32:38.764Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -136,7 +136,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] How to Use Dig: A Command-Line Tool for DNS Queries|Network
 - [ ] The Transmission Control Protocol: A Deep Dive into TCP|Network
 - [x] [DNS Load Balancing: How to Distribute Traffic Across Multiple Servers](/Knowledge-base/Network/dns-load-balancing-how-to-distribute-traffic-across-multiple-servers)
-- [ ] How to Use Netcat: A Command-Line Tool for Network Communications|Network
+- [x] [How to Use Netcat: A Command-Line Tool for Network Communications](/Knowledge-base/Network/how-to-use-netcat-a-command-line-tool-for-network-communications)
 - [x] [HTTP Compression: How to Reduce Web Page Load Times](/Knowledge-base/Network/http-compression-how-to-reduce-web-page-load-times)
 - [x] [ICMP: Understanding the Internet Control Message Protocol](/Knowledge-base/Network/icmp-understanding-the-internet-control-message-protocol)
 - [ ] DNS Hijacking: How Hackers Can Redirect Your Web Traffic|Network
