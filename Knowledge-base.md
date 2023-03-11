@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-11T04:33:12.255Z
+date: 2023-03-11T05:32:45.103Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1318,7 +1318,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 078: Accessibility and Inclusiveness](/Knowledge-base/Software-Development/Learning/software-development-078-accessibility-and-inclusiveness)
 - [x] [Software Development 079: User Experience (UX) Design](/Knowledge-base/Software-Development/Learning/software-development-079-user-experience-ux-design)
 - [x] [Software Development 080: User Interface (UI) Design](/Knowledge-base/Software-Development/Learning/software-development-080-user-interface-ui-design)
-- [ ] Software Development 081: Information Architecture (IA)|Software-Development/Learning
+- [x] [Software Development 081: Information Architecture (IA)](/Knowledge-base/Software-Development/Learning/software-development-081-information-architecture-ia)
 - [x] [Software Development 082: User Research](/Knowledge-base/Software-Development/Learning/software-development-082-user-research)
 - [ ] Software Development 083: Usability Testing|Software-Development/Learning
 - [x] [Software Development 084: Conversion Rate Optimization (CRO)](/Knowledge-base/Software-Development/Learning/software-development-084-conversion-rate-optimization-cro)
