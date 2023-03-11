@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-11T02:32:51.086Z
+date: 2023-03-11T03:32:52.180Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1892,7 +1892,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Subversion](/Knowledge-base/Dictionary/subversion)
 - [x] [Collaboration](/Knowledge-base/Dictionary/collaboration)
 - [x] [Pair Programming](/Knowledge-base/Dictionary/pair-programming)
-- [ ] Knowledge Management|Dictionary
+- [x] [Knowledge Management](/Knowledge-base/Dictionary/knowledge-management)
 - [x] [Configuration Management](/Knowledge-base/Dictionary/configuration-management)
 - [x] [Release Management](/Knowledge-base/Dictionary/release-management)
 - [x] [Deployment](/Knowledge-base/Dictionary/deployment)
