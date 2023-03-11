@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-11T08:32:46.436Z
+date: 2023-03-11T09:32:48.945Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -173,7 +173,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Redis vs. Memcached: Which Caching System Is Best for You?](/Knowledge-base/NoSQL/redis-vs-memcached-which-caching-system-is-best-for-you)
 - [x] [The Pros and Cons of Using a Document-Oriented NoSQL Database like MongoDB](/Knowledge-base/NoSQL/the-pros-and-cons-of-using-a-document-oriented-nosql-database-like-mongodb)
 - [x] [Redis Data Persistence: How to Make Sure Your Data Is Always There](/Knowledge-base/NoSQL/redis-data-persistence-how-to-make-sure-your-data-is-always-there)
-- [ ] MongoDB Indexing: Tips and Best Practices for Faster Queries|NoSQL
+- [x] [MongoDB Indexing: Tips and Best Practices for Faster Queries](/Knowledge-base/NoSQL/mongodb-indexing-tips-and-best-practices-for-faster-queries)
 - [x] [NoSQL Database Design: How to Model Data in MongoDB and Redis](/Knowledge-base/NoSQL/nosql-database-design-how-to-model-data-in-mongodb-and-redis)
 - [ ] Redis Lua Scripting: Building Custom Redis Commands with Lua|NoSQL
 - [x] [MongoDB Replication: How to Ensure Data Availability and Durability](/Knowledge-base/NoSQL/mongodb-replication-how-to-ensure-data-availability-and-durability)
