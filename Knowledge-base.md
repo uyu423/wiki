@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-12T22:33:15.610Z
+date: 2023-03-12T23:33:16.440Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1802,7 +1802,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Operating System](/Knowledge-base/Dictionary/operating-system)
 - [x] [Linux](/Knowledge-base/Dictionary/linux)
 - [x] [Unix](/Knowledge-base/Dictionary/unix)
-- [ ] Windows|Dictionary
+- [x] [Windows](/Knowledge-base/Dictionary/windows)
 - [x] [macOS](/Knowledge-base/Dictionary/macos)
 - [x] [Virtual Machine](/Knowledge-base/Dictionary/virtual-machine)
 - [x] [Hypervisor](/Knowledge-base/Dictionary/hypervisor)
