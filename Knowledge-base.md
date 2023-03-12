@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-11T23:32:40.951Z
+date: 2023-03-12T00:32:34.451Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1243,7 +1243,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Software Development 003: Programming Fundamentals](/Knowledge-base/Software-Development/Learning/software-development-003-programming-fundamentals)
 - [x] [Software Development 004: Object-Oriented Programming](/Knowledge-base/Software-Development/Learning/software-development-004-object-oriented-programming)
 - [x] [Software Development 005: Database Management](/Knowledge-base/Software-Development/Learning/software-development-005-database-management)
-- [ ] Software Development 006: Web Development Basics|Software-Development/Learning
+- [x] [Software Development 006: Web Development Basics](/Knowledge-base/Software-Development/Learning/software-development-006-web-development-basics)
 - [x] [Software Development 007: HTML, CSS and JavaScript](/Knowledge-base/Software-Development/Learning/software-development-007-html-css-and-javascript)
 - [x] [Software Development 008: Responsive Web Design](/Knowledge-base/Software-Development/Learning/software-development-008-responsive-web-design)
 - [x] [Software Development 009: Server-Side Development with PHP](/Knowledge-base/Software-Development/Learning/software-development-009-server-side-development-with-php)
