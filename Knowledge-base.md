@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-12T02:32:46.236Z
+date: 2023-03-12T03:32:32.173Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -114,7 +114,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [How to Use cURL: A Command-Line Tool for Working with HTTP](/Knowledge-base/Network/how-to-use-curl-a-command-line-tool-for-working-with-http)
 - [x] [TCP/IP vs. UDP: Understanding the Differences and When to Use Each](/Knowledge-base/Network/tcpip-vs-udp-understanding-the-differences-and-when-to-use-each)
 - [x] [DNS Records: A Comprehensive Guide to DNS Resource Records](/Knowledge-base/Network/dns-records-a-comprehensive-guide-to-dns-resource-records)
-- [ ] A Beginner's Guide to HTTPS: How to Secure Your Web Traffic|Network
+- [x] [A Beginner's Guide to HTTPS: How to Secure Your Web Traffic](/Knowledge-base/Network/a-beginner-s-guide-to-https-how-to-secure-your-web-traffic)
 - [x] [The TCP Three-Way Handshake: How TCP Connections Are Established](/Knowledge-base/Network/the-tcp-three-way-handshake-how-tcp-connections-are-established)
 - [x] [HTTP Headers: Understanding the Metadata of Web Requests and Responses](/Knowledge-base/Network/http-headers-understanding-the-metadata-of-web-requests-and-responses)
 - [x] [IP Addressing: How IP Addresses Work and How to Manage Them](/Knowledge-base/Network/ip-addressing-how-ip-addresses-work-and-how-to-manage-them)
