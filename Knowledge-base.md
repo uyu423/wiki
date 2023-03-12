@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-12T03:32:32.173Z
+date: 2023-03-12T04:32:35.318Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -108,7 +108,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 ## Network
 - [ ] An Introduction to HTTP: Understanding the Basics of Web Protocols|Network
 - [x] [TCP/IP Explained: Understanding the Building Blocks of the Internet](/Knowledge-base/Network/tcpip-explained-understanding-the-building-blocks-of-the-internet)
-- [ ] DNS Fundamentals: How Domain Name Resolution Works|Network
+- [x] [DNS Fundamentals: How Domain Name Resolution Works](/Knowledge-base/Network/dns-fundamentals-how-domain-name-resolution-works)
 - [ ] HTTP Status Codes: What They Are and What They Mean|Network
 - [x] [The OSI Model: A Comprehensive Guide to Networking Layers](/Knowledge-base/Network/the-osi-model-a-comprehensive-guide-to-networking-layers)
 - [x] [How to Use cURL: A Command-Line Tool for Working with HTTP](/Knowledge-base/Network/how-to-use-curl-a-command-line-tool-for-working-with-http)
