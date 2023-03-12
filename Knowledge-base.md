@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-12T14:33:35.825Z
+date: 2023-03-12T15:33:12.395Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -185,7 +185,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Redis Streams vs. Apache Kafka: Comparing Two Data Streaming Systems](/Knowledge-base/NoSQL/redis-streams-vs-apache-kafka-comparing-two-data-streaming-systems)
 - [x] [MongoDB Transactions: ACID Transactions in a NoSQL Database](/Knowledge-base/NoSQL/mongodb-transactions-acid-transactions-in-a-nosql-database)
 - [ ] Redis Cache Patterns: Best Practices for Designing a High-Performance Cache|NoSQL
-- [ ] A Guide to Scaling MongoDB: Sharding vs. Replica Sets|NoSQL
+- [x] [A Guide to Scaling MongoDB: Sharding vs. Replica Sets](/Knowledge-base/NoSQL/a-guide-to-scaling-mongodb-sharding-vs-replica-sets)
 - [x] [Building a Search Engine with Redis: Implementing a Fast, Scalable Index](/Knowledge-base/NoSQL/building-a-search-engine-with-redis-implementing-a-fast-scalable-index)
 - [ ] MongoDB Time-To-Live (TTL) Collections: Expiring Data Automatically|NoSQL
 - [ ] Using Redis for Rate Limiting: Protecting Your Web Application from Abuse|NoSQL
