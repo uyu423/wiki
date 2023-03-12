@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-12T08:32:47.795Z
+date: 2023-03-12T09:33:00.763Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1527,7 +1527,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Developing CRUD Applications with Express.js and TypeScript](/Knowledge-base/TypeScript/developing-crud-applications-with-express-js-and-typescript)
 - [x] [Creating Real-Time Applications with TypeScript and WebSockets](/Knowledge-base/TypeScript/creating-real-time-applications-with-typescript-and-websockets)
 - [x] [Setting Up TypeScript with Next.js for Server-Side Rendering](/Knowledge-base/TypeScript/setting-up-typescript-with-next-js-for-server-side-rendering)
-- [ ] Integrating TypeScript with MongoDB for Data Persistence|TypeScript
+- [x] [Integrating TypeScript with MongoDB for Data Persistence](/Knowledge-base/TypeScript/integrating-typescript-with-mongodb-for-data-persistence)
 - [x] [Using TypeScript with Passport.js for User Authentication](/Knowledge-base/TypeScript/using-typescript-with-passport-js-for-user-authentication)
 - [x] [Handling File Uploads and Downloads with TypeScript and Multer](/Knowledge-base/TypeScript/handling-file-uploads-and-downloads-with-typescript-and-multer)
 - [x] [Working with Sessions and Cookies in TypeScript and Express.js](/Knowledge-base/TypeScript/working-with-sessions-and-cookies-in-typescript-and-express-js)
