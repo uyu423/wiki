@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-12T16:32:58.481Z
+date: 2023-03-12T17:33:09.083Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -189,7 +189,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Building a Search Engine with Redis: Implementing a Fast, Scalable Index](/Knowledge-base/NoSQL/building-a-search-engine-with-redis-implementing-a-fast-scalable-index)
 - [ ] MongoDB Time-To-Live (TTL) Collections: Expiring Data Automatically|NoSQL
 - [ ] Using Redis for Rate Limiting: Protecting Your Web Application from Abuse|NoSQL
-- [ ] MongoDB Data Modeling Best Practices: Designing for Scalability and Performance|NoSQL
+- [x] [MongoDB Data Modeling Best Practices: Designing for Scalability and Performance](/Knowledge-base/NoSQL/mongodb-data-modeling-best-practices-designing-for-scalability-and-performance)
 - [x] [Redis Lua Scripting: Building More Advanced Redis Commands](/Knowledge-base/NoSQL/redis-lua-scripting-building-more-advanced-redis-commands)
 - [ ] A Guide to MongoDB Query Optimization: Best Practices and Tips|NoSQL
 - [x] [Redis Enterprise: Scaling Redis in the Cloud with High Availability](/Knowledge-base/NoSQL/redis-enterprise-scaling-redis-in-the-cloud-with-high-availability)
