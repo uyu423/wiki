@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-12T00:32:34.451Z
+date: 2023-03-12T01:32:45.919Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -112,7 +112,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] HTTP Status Codes: What They Are and What They Mean|Network
 - [x] [The OSI Model: A Comprehensive Guide to Networking Layers](/Knowledge-base/Network/the-osi-model-a-comprehensive-guide-to-networking-layers)
 - [x] [How to Use cURL: A Command-Line Tool for Working with HTTP](/Knowledge-base/Network/how-to-use-curl-a-command-line-tool-for-working-with-http)
-- [ ] TCP/IP vs. UDP: Understanding the Differences and When to Use Each|Network
+- [x] [TCP/IP vs. UDP: Understanding the Differences and When to Use Each](/Knowledge-base/Network/tcpip-vs-udp-understanding-the-differences-and-when-to-use-each)
 - [x] [DNS Records: A Comprehensive Guide to DNS Resource Records](/Knowledge-base/Network/dns-records-a-comprehensive-guide-to-dns-resource-records)
 - [ ] A Beginner's Guide to HTTPS: How to Secure Your Web Traffic|Network
 - [x] [The TCP Three-Way Handshake: How TCP Connections Are Established](/Knowledge-base/Network/the-tcp-three-way-handshake-how-tcp-connections-are-established)
