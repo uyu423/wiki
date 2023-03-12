@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-12T07:33:14.177Z
+date: 2023-03-12T08:32:47.795Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -58,7 +58,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [007: Modules in TypeScript: How to Organize Your Code into Modules and Files](/Knowledge-base/TypeScript/Learning/007-modules-in-typescript-how-to-organize-your-code-into-modules-and-files)
 - [x] [008: Generics in TypeScript: How to Write Reusable Code with Type Parameters](/Knowledge-base/TypeScript/Learning/008-generics-in-typescript-how-to-write-reusable-code-with-type-parameters)
 - [x] [009: Decorators in TypeScript: How to Use Decorators to Add Functionality to Your Code](/Knowledge-base/TypeScript/Learning/009-decorators-in-typescript-how-to-use-decorators-to-add-functionality-to-your-code)
-- [ ] 010: Namespaces in TypeScript: How to Organize Your Code into Namespaces|TypeScript/Learning
+- [x] [010: Namespaces in TypeScript: How to Organize Your Code into Namespaces](/Knowledge-base/TypeScript/Learning/010-namespaces-in-typescript-how-to-organize-your-code-into-namespaces)
 - [x] [011: Advanced Types in TypeScript: How to Use Union Types, Intersection Types, and More](/Knowledge-base/TypeScript/Learning/011-advanced-types-in-typescript-how-to-use-union-types-intersection-types-and-more)
 - [x] [012: Type Inference in TypeScript: How TypeScript Infers Types in Your Code](/Knowledge-base/TypeScript/Learning/012-type-inference-in-typescript-how-typescript-infers-types-in-your-code)
 - [ ] 013: Type Guards in TypeScript: How to Narrow Down Types with Conditionals|TypeScript/Learning
