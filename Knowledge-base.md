@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-12T11:32:50.151Z
+date: 2023-03-12T12:33:06.576Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -125,7 +125,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] The TCP Window Size: How TCP Adapts to Network Conditions|Network
 - [x] [Network Address Translation (NAT): How NAT Translates IP Addresses](/Knowledge-base/Network/network-address-translation-nat-how-nat-translates-ip-addresses)
 - [x] [How to Use Wireshark: A Beginner's Guide to Network Protocol Analysis](/Knowledge-base/Network/how-to-use-wireshark-a-beginner-s-guide-to-network-protocol-analysis)
-- [ ] HTTP/2: Understanding the Improvements Over HTTP/1.x|Network
+- [x] [HTTP/2: Understanding the Improvements Over HTTP/1.x](/Knowledge-base/Network/http2-understanding-the-improvements-over-http1-x)
 - [x] [How to Troubleshoot TCP/IP Connectivity Issues](/Knowledge-base/Network/how-to-troubleshoot-tcpip-connectivity-issues)
 - [x] [DNS Caching: How DNS Resolvers Speed Up Domain Name Resolution](/Knowledge-base/Network/dns-caching-how-dns-resolvers-speed-up-domain-name-resolution)
 - [x] [HTTP Authentication: How to Secure Your Web Services with Passwords and Tokens](/Knowledge-base/Network/http-authentication-how-to-secure-your-web-services-with-passwords-and-tokens)
