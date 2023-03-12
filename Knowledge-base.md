@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-12T15:33:12.395Z
+date: 2023-03-12T16:32:58.481Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -109,7 +109,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] An Introduction to HTTP: Understanding the Basics of Web Protocols|Network
 - [x] [TCP/IP Explained: Understanding the Building Blocks of the Internet](/Knowledge-base/Network/tcpip-explained-understanding-the-building-blocks-of-the-internet)
 - [x] [DNS Fundamentals: How Domain Name Resolution Works](/Knowledge-base/Network/dns-fundamentals-how-domain-name-resolution-works)
-- [ ] HTTP Status Codes: What They Are and What They Mean|Network
+- [x] [HTTP Status Codes: What They Are and What They Mean](/Knowledge-base/Network/http-status-codes-what-they-are-and-what-they-mean)
 - [x] [The OSI Model: A Comprehensive Guide to Networking Layers](/Knowledge-base/Network/the-osi-model-a-comprehensive-guide-to-networking-layers)
 - [x] [How to Use cURL: A Command-Line Tool for Working with HTTP](/Knowledge-base/Network/how-to-use-curl-a-command-line-tool-for-working-with-http)
 - [x] [TCP/IP vs. UDP: Understanding the Differences and When to Use Each](/Knowledge-base/Network/tcpip-vs-udp-understanding-the-differences-and-when-to-use-each)
