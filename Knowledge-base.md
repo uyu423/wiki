@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-12T06:32:48.017Z
+date: 2023-03-12T07:33:14.177Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1412,7 +1412,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Enhancing Cybersecurity with Encryption and Firewalls](/Knowledge-base/Common/enhancing-cybersecurity-with-encryption-and-firewalls)
 - [x] [Using Artificial Intelligence (AI) in Game Development](/Knowledge-base/Common/using-artificial-intelligence-ai-in-game-development)
 - [x] [How to Create a Website with Django](/Knowledge-base/Common/how-to-create-a-website-with-django)
-- [ ] The Role of Artificial Intelligence (AI) in Healthcare|Common
+- [x] [The Role of Artificial Intelligence (AI) in Healthcare](/Knowledge-base/Common/the-role-of-artificial-intelligence-ai-in-healthcare)
 - [x] [Using Deep Learning for Image Recognition](/Knowledge-base/Common/using-deep-learning-for-image-recognition)
 - [x] [Developing Cross-Platform Mobile Apps with Xamarin](/Knowledge-base/Common/developing-cross-platform-mobile-apps-with-xamarin)
 - [x] [The Future of Automated Testing in Software Development](/Knowledge-base/Common/the-future-of-automated-testing-in-software-development)
