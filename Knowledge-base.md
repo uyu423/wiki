@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-12T17:33:09.083Z
+date: 2023-03-12T18:33:11.904Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -146,7 +146,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [DNS Spoofing: How to Protect Your Network from DNS Attacks](/Knowledge-base/Network/dns-spoofing-how-to-protect-your-network-from-dns-attacks)
 - [x] [HTTP Pipelining: How to Improve Web Performance with Multiple Requests](/Knowledge-base/Network/http-pipelining-how-to-improve-web-performance-with-multiple-requests)
 - [x] [IP Subnetting: How to Divide IP Networks into Smaller Subnets](/Knowledge-base/Network/ip-subnetting-how-to-divide-ip-networks-into-smaller-subnets)
-- [ ] DNS Failover: How to Ensure High Availability for Your DNS Servers|Network
+- [x] [DNS Failover: How to Ensure High Availability for Your DNS Servers](/Knowledge-base/Network/dns-failover-how-to-ensure-high-availability-for-your-dns-servers)
 - [x] [How to Use Ping: A Command-Line Tool for Network Troubleshooting](/Knowledge-base/Network/how-to-use-ping-a-command-line-tool-for-network-troubleshooting)
 - [x] [HTTP/1.x vs. HTTP/2: Understanding the Differences and Improvements](/Knowledge-base/Network/http1-x-vs-http2-understanding-the-differences-and-improvements)
 - [x] [IP Routing: How Routers Forward IP Packets](/Knowledge-base/Network/ip-routing-how-routers-forward-ip-packets)
