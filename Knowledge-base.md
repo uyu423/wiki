@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-12T05:32:58.009Z
+date: 2023-03-12T06:32:48.017Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1486,7 +1486,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Java's Support for Asynchronous Processing with CompletableFuture](/Knowledge-base/Java/java-s-support-for-asynchronous-processing-with-completablefuture)
 - [x] [Understanding Java's Attach API for Dynamic Instrumentation](/Knowledge-base/Java/understanding-java-s-attach-api-for-dynamic-instrumentation)
 - [x] [Java's Dynamic Proxies for Dynamic Object Oriented Programming](/Knowledge-base/Java/java-s-dynamic-proxies-for-dynamic-object-oriented-programming)
-- [ ] Leveraging Java's Method Handles for Dynamic Method Invocation|Java
+- [x] [Leveraging Java's Method Handles for Dynamic Method Invocation](/Knowledge-base/Java/leveraging-java-s-method-handles-for-dynamic-method-invocation)
 - [x] [Using Java's Traceable and Instrumented Classes for Monitoring](/Knowledge-base/Java/using-java-s-traceable-and-instrumented-classes-for-monitoring)
 - [x] [A Deep Dive into Java's Security Manager](/Knowledge-base/Java/a-deep-dive-into-java-s-security-manager)
 - [x] [Building Custom Security Providers in Java](/Knowledge-base/Java/building-custom-security-providers-in-java)
