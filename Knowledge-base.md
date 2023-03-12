@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-12T13:32:59.970Z
+date: 2023-03-12T14:33:35.825Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -180,7 +180,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Role of NoSQL Databases in Big Data Analytics](/Knowledge-base/NoSQL/the-role-of-nosql-databases-in-big-data-analytics)
 - [x] [MongoDB Sharding: How to Scale Your MongoDB Cluster](/Knowledge-base/NoSQL/mongodb-sharding-how-to-scale-your-mongodb-cluster)
 - [x] [Redis Key-Value Store: Understanding the Basics](/Knowledge-base/NoSQL/redis-key-value-store-understanding-the-basics)
-- [ ] MongoDB GridFS: How to Store and Retrieve Large Files|NoSQL
+- [x] [MongoDB GridFS: How to Store and Retrieve Large Files](/Knowledge-base/NoSQL/mongodb-gridfs-how-to-store-and-retrieve-large-files)
 - [x] [How to Use Redis Streams for Real-Time Data Processing](/Knowledge-base/NoSQL/how-to-use-redis-streams-for-real-time-data-processing)
 - [x] [Redis Streams vs. Apache Kafka: Comparing Two Data Streaming Systems](/Knowledge-base/NoSQL/redis-streams-vs-apache-kafka-comparing-two-data-streaming-systems)
 - [x] [MongoDB Transactions: ACID Transactions in a NoSQL Database](/Knowledge-base/NoSQL/mongodb-transactions-acid-transactions-in-a-nosql-database)
