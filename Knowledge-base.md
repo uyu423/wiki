@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-13T18:33:33.684Z
+date: 2023-03-13T19:33:29.005Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2240,7 +2240,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Shigeru Miyamoto (Nintendo Game Designer)](/Knowledge-base/Dictionary/Person/shigeru-miyamoto-nintendo-game-designer)
 - [x] [Hideo Kojima (Metal Gear Creator)](/Knowledge-base/Dictionary/Person/hideo-kojima-metal-gear-creator)
 - [x] [Gabe Newell (Valve Co-founder)](/Knowledge-base/Dictionary/Person/gabe-newell-valve-co-founder)
-- [ ] Palmer Luckey (Oculus VR Co-founder)|Dictionary/Person
+- [x] [Palmer Luckey (Oculus VR Co-founder)](/Knowledge-base/Dictionary/Person/palmer-luckey-oculus-vr-co-founder)
 - [x] [Mark Cuban (Investor and Entrepreneur)](/Knowledge-base/Dictionary/Person/mark-cuban-investor-and-entrepreneur)
 - [x] [Peter Thiel (PayPal Co-founder)](/Knowledge-base/Dictionary/Person/peter-thiel-paypal-co-founder)
 - [x] [Reid Hoffman (LinkedIn Co-founder)](/Knowledge-base/Dictionary/Person/reid-hoffman-linkedin-co-founder)
