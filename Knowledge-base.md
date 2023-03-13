@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-13T21:34:02.985Z
+date: 2023-03-13T22:33:19.520Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -187,7 +187,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Redis Cache Patterns: Best Practices for Designing a High-Performance Cache](/Knowledge-base/NoSQL/redis-cache-patterns-best-practices-for-designing-a-high-performance-cache)
 - [x] [A Guide to Scaling MongoDB: Sharding vs. Replica Sets](/Knowledge-base/NoSQL/a-guide-to-scaling-mongodb-sharding-vs-replica-sets)
 - [x] [Building a Search Engine with Redis: Implementing a Fast, Scalable Index](/Knowledge-base/NoSQL/building-a-search-engine-with-redis-implementing-a-fast-scalable-index)
-- [ ] MongoDB Time-To-Live (TTL) Collections: Expiring Data Automatically|NoSQL
+- [x] [MongoDB Time-To-Live (TTL) Collections: Expiring Data Automatically](/Knowledge-base/NoSQL/mongodb-time-to-live-ttl-collections-expiring-data-automatically)
 - [x] [Using Redis for Rate Limiting: Protecting Your Web Application from Abuse](/Knowledge-base/NoSQL/using-redis-for-rate-limiting-protecting-your-web-application-from-abuse)
 - [x] [MongoDB Data Modeling Best Practices: Designing for Scalability and Performance](/Knowledge-base/NoSQL/mongodb-data-modeling-best-practices-designing-for-scalability-and-performance)
 - [x] [Redis Lua Scripting: Building More Advanced Redis Commands](/Knowledge-base/NoSQL/redis-lua-scripting-building-more-advanced-redis-commands)
