@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-13T12:33:15.014Z
+date: 2023-03-13T13:33:37.817Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -53,7 +53,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [002: Basic Types in TypeScript: Understanding Variables and Data Types](/Knowledge-base/TypeScript/Learning/002-basic-types-in-typescript-understanding-variables-and-data-types)
 - [x] [003: Functions in TypeScript: How to Declare and Use Functions in Your Code](/Knowledge-base/TypeScript/Learning/003-functions-in-typescript-how-to-declare-and-use-functions-in-your-code)
 - [x] [004: Interfaces in TypeScript: How to Define and Use Custom Types](/Knowledge-base/TypeScript/Learning/004-interfaces-in-typescript-how-to-define-and-use-custom-types)
-- [ ] 005: Classes in TypeScript: Object-Oriented Programming in TypeScript|TypeScript/Learning
+- [x] [005: Classes in TypeScript: Object-Oriented Programming in TypeScript](/Knowledge-base/TypeScript/Learning/005-classes-in-typescript-object-oriented-programming-in-typescript)
 - [x] [006: Inheritance and Polymorphism in TypeScript: How to Extend and Override Classes](/Knowledge-base/TypeScript/Learning/006-inheritance-and-polymorphism-in-typescript-how-to-extend-and-override-classes)
 - [x] [007: Modules in TypeScript: How to Organize Your Code into Modules and Files](/Knowledge-base/TypeScript/Learning/007-modules-in-typescript-how-to-organize-your-code-into-modules-and-files)
 - [x] [008: Generics in TypeScript: How to Write Reusable Code with Type Parameters](/Knowledge-base/TypeScript/Learning/008-generics-in-typescript-how-to-write-reusable-code-with-type-parameters)
