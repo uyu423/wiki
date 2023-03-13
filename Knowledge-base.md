@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-12T23:33:16.440Z
+date: 2023-03-13T00:33:02.191Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -106,7 +106,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 
 ## Network
-- [ ] An Introduction to HTTP: Understanding the Basics of Web Protocols|Network
+- [x] [An Introduction to HTTP: Understanding the Basics of Web Protocols](/Knowledge-base/Network/an-introduction-to-http-understanding-the-basics-of-web-protocols)
 - [x] [TCP/IP Explained: Understanding the Building Blocks of the Internet](/Knowledge-base/Network/tcpip-explained-understanding-the-building-blocks-of-the-internet)
 - [x] [DNS Fundamentals: How Domain Name Resolution Works](/Knowledge-base/Network/dns-fundamentals-how-domain-name-resolution-works)
 - [x] [HTTP Status Codes: What They Are and What They Mean](/Knowledge-base/Network/http-status-codes-what-they-are-and-what-they-mean)
