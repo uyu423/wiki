@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-13T04:33:27.640Z
+date: 2023-03-13T05:32:57.078Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -195,7 +195,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Redis Enterprise: Scaling Redis in the Cloud with High Availability](/Knowledge-base/NoSQL/redis-enterprise-scaling-redis-in-the-cloud-with-high-availability)
 - [x] [MongoDB and Node.js: Building a Modern Web Application Stack](/Knowledge-base/NoSQL/mongodb-and-node-js-building-a-modern-web-application-stack)
 - [x] [Redis JSON Data Structures: Storing and Querying JSON Data in Redis](/Knowledge-base/NoSQL/redis-json-data-structures-storing-and-querying-json-data-in-redis)
-- [ ] A Guide to MongoDB Atlas: Fully Managed MongoDB in the Cloud|NoSQL
+- [x] [A Guide to MongoDB Atlas: Fully Managed MongoDB in the Cloud](/Knowledge-base/NoSQL/a-guide-to-mongodb-atlas-fully-managed-mongodb-in-the-cloud)
 - [ ] Redis Sentinel vs. Redis Cluster: Comparing Two High-Availability Solutions|NoSQL
 - [x] [Building a Recommendation System with Redis: Collaborative Filtering and Beyond](/Knowledge-base/NoSQL/building-a-recommendation-system-with-redis-collaborative-filtering-and-beyond)
 - [x] [MongoDB Backups and Disaster Recovery: Best Practices and Strategies](/Knowledge-base/NoSQL/mongodb-backups-and-disaster-recovery-best-practices-and-strategies)
