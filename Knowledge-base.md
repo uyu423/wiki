@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-13T08:34:58.575Z
+date: 2023-03-13T09:33:20.424Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -139,7 +139,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [How to Use Netcat: A Command-Line Tool for Network Communications](/Knowledge-base/Network/how-to-use-netcat-a-command-line-tool-for-network-communications)
 - [x] [HTTP Compression: How to Reduce Web Page Load Times](/Knowledge-base/Network/http-compression-how-to-reduce-web-page-load-times)
 - [x] [ICMP: Understanding the Internet Control Message Protocol](/Knowledge-base/Network/icmp-understanding-the-internet-control-message-protocol)
-- [ ] DNS Hijacking: How Hackers Can Redirect Your Web Traffic|Network
+- [x] [DNS Hijacking: How Hackers Can Redirect Your Web Traffic](/Knowledge-base/Network/dns-hijacking-how-hackers-can-redirect-your-web-traffic)
 - [ ] How to Use Traceroute: A Command-Line Tool for Network Path Analysis|Network
 - [x] [HTTP/3: Understanding the Benefits of QUIC](/Knowledge-base/Network/http3-understanding-the-benefits-of-quic)
 - [x] [The TCP Maximum Segment Size: How to Optimize TCP Performance](/Knowledge-base/Network/the-tcp-maximum-segment-size-how-to-optimize-tcp-performance)
