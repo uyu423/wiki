@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-13T01:32:51.213Z
+date: 2023-03-13T02:32:48.766Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -166,7 +166,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [MongoDB Atlas: How to Get Started with MongoDB in the Cloud](/Knowledge-base/NoSQL/mongodb-atlas-how-to-get-started-with-mongodb-in-the-cloud)
 - [x] [Redis Clustering: How to Build a Highly Available Redis Cluster](/Knowledge-base/NoSQL/redis-clustering-how-to-build-a-highly-available-redis-cluster)
 - [x] [NoSQL vs. SQL: Which Database Type Is Right for You?](/Knowledge-base/NoSQL/nosql-vs-sql-which-database-type-is-right-for-you)
-- [ ] MongoDB Security: Best Practices for Keeping Your Data Safe|NoSQL
+- [x] [MongoDB Security: Best Practices for Keeping Your Data Safe](/Knowledge-base/NoSQL/mongodb-security-best-practices-for-keeping-your-data-safe)
 - [ ] Redis Pub/Sub: Building a Real-Time Message Queue with Redis|NoSQL
 - [x] [How to Migrate from SQL to NoSQL: A Step-by-Step Guide](/Knowledge-base/NoSQL/how-to-migrate-from-sql-to-nosql-a-step-by-step-guide)
 - [ ] MongoDB Aggregation Framework: Exploring Powerful Querying Capabilities|NoSQL
