@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-13T11:33:30.742Z
+date: 2023-03-13T12:33:15.014Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -196,7 +196,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [MongoDB and Node.js: Building a Modern Web Application Stack](/Knowledge-base/NoSQL/mongodb-and-node-js-building-a-modern-web-application-stack)
 - [x] [Redis JSON Data Structures: Storing and Querying JSON Data in Redis](/Knowledge-base/NoSQL/redis-json-data-structures-storing-and-querying-json-data-in-redis)
 - [x] [A Guide to MongoDB Atlas: Fully Managed MongoDB in the Cloud](/Knowledge-base/NoSQL/a-guide-to-mongodb-atlas-fully-managed-mongodb-in-the-cloud)
-- [ ] Redis Sentinel vs. Redis Cluster: Comparing Two High-Availability Solutions|NoSQL
+- [x] [Redis Sentinel vs. Redis Cluster: Comparing Two High-Availability Solutions](/Knowledge-base/NoSQL/redis-sentinel-vs-redis-cluster-comparing-two-high-availability-solutions)
 - [x] [Building a Recommendation System with Redis: Collaborative Filtering and Beyond](/Knowledge-base/NoSQL/building-a-recommendation-system-with-redis-collaborative-filtering-and-beyond)
 - [x] [MongoDB Backups and Disaster Recovery: Best Practices and Strategies](/Knowledge-base/NoSQL/mongodb-backups-and-disaster-recovery-best-practices-and-strategies)
 - [x] [Redis Geo: A Guide to Storing and Querying Geospatial Data in Redis](/Knowledge-base/NoSQL/redis-geo-a-guide-to-storing-and-querying-geospatial-data-in-redis)
