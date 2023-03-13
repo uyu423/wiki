@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-13T13:33:37.817Z
+date: 2023-03-13T14:33:18.930Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -65,7 +65,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [014: Enums in TypeScript: How to Define and Use Enumerated Types](/Knowledge-base/TypeScript/Learning/014-enums-in-typescript-how-to-define-and-use-enumerated-types)
 - [x] [015: Type Aliases in TypeScript: How to Define Custom Types with Aliases](/Knowledge-base/TypeScript/Learning/015-type-aliases-in-typescript-how-to-define-custom-types-with-aliases)
 - [x] [016: Type Assertions in TypeScript: How to Override TypeScript's Type System](/Knowledge-base/TypeScript/Learning/016-type-assertions-in-typescript-how-to-override-typescript-s-type-system)
-- [ ] 017: Tuples in TypeScript: How to Work with Fixed-Length Arrays with Typed Elements|TypeScript/Learning
+- [x] [017: Tuples in TypeScript: How to Work with Fixed-Length Arrays with Typed Elements](/Knowledge-base/TypeScript/Learning/017-tuples-in-typescript-how-to-work-with-fixed-length-arrays-with-typed-elements)
 - [x] [018: Type Compatibility in TypeScript: How to Ensure Types Are Compatible in Your Code](/Knowledge-base/TypeScript/Learning/018-type-compatibility-in-typescript-how-to-ensure-types-are-compatible-in-your-code)
 - [x] [019: Declaration Merging in TypeScript: How to Merge Multiple Declarations of the Same Entity](/Knowledge-base/TypeScript/Learning/019-declaration-merging-in-typescript-how-to-merge-multiple-declarations-of-the-same-entity)
 - [x] [020: Intersection Types in TypeScript: How to Combine Types for More Complex Types](/Knowledge-base/TypeScript/Learning/020-intersection-types-in-typescript-how-to-combine-types-for-more-complex-types)
