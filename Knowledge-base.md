@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-13T06:33:09.149Z
+date: 2023-03-13T07:32:51.681Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -92,7 +92,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] 041: Type-Safe Event Handling in TypeScript: How to Ensure Event Handlers Receive the Correct Arguments|TypeScript/Learning
 - [x] [042: String Manipulation in TypeScript: How to Work with Strings in Your Code](/Knowledge-base/TypeScript/Learning/042-string-manipulation-in-typescript-how-to-work-with-strings-in-your-code)
 - [x] [043: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types](/Knowledge-base/TypeScript/Learning/043-type-driven-refactoring-in-typescript-how-to-refactor-your-code-with-types)
-- [ ] 044: The Partial Type in TypeScript: How to Create Types with Optional Properties|TypeScript/Learning
+- [x] [044: The Partial Type in TypeScript: How to Create Types with Optional Properties](/Knowledge-base/TypeScript/Learning/044-the-partial-type-in-typescript-how-to-create-types-with-optional-properties)
 - [x] [045: String Manipulation in TypeScript: How to Work with Strings in Your Code](/Knowledge-base/TypeScript/Learning/045-string-manipulation-in-typescript-how-to-work-with-strings-in-your-code)
 - [x] [046: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types](/Knowledge-base/TypeScript/Learning/046-type-driven-refactoring-in-typescript-how-to-refactor-your-code-with-types)
 - [x] [047: The Partial Type in TypeScript: How to Create Types with Optional Properties](/Knowledge-base/TypeScript/Learning/047-the-partial-type-in-typescript-how-to-create-types-with-optional-properties)
