@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-13T16:33:42.025Z
+date: 2023-03-13T17:33:36.747Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2187,7 +2187,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [NHN Entertainment Corporation (South Korea)](/Knowledge-base/Dictionary/Company/nhn-entertainment-corporation-south-korea)
 - [x] [Com2uS Corporation (South Korea)](/Knowledge-base/Dictionary/Company/com2us-corporation-south-korea)
 - [x] [Netmarble Corporation (South Korea)](/Knowledge-base/Dictionary/Company/netmarble-corporation-south-korea)
-- [ ] Nexon Co., Ltd. (South Korea)|Dictionary/Company
+- [x] [Nexon Co., Ltd. (South Korea)](/Knowledge-base/Dictionary/Company/nexon-co-ltd-south-korea)
 - [x] [Gamevil (South Korea)](/Knowledge-base/Dictionary/Company/gamevil-south-korea)
 - [x] [PUBG Corporation (South Korea)](/Knowledge-base/Dictionary/Company/pubg-corporation-south-korea)
 - [x] [NCSoft Corporation (South Korea)](/Knowledge-base/Dictionary/Company/ncsoft-corporation-south-korea)
