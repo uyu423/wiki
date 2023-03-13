@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-13T03:32:47.233Z
+date: 2023-03-13T04:33:27.640Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -191,7 +191,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [ ] Using Redis for Rate Limiting: Protecting Your Web Application from Abuse|NoSQL
 - [x] [MongoDB Data Modeling Best Practices: Designing for Scalability and Performance](/Knowledge-base/NoSQL/mongodb-data-modeling-best-practices-designing-for-scalability-and-performance)
 - [x] [Redis Lua Scripting: Building More Advanced Redis Commands](/Knowledge-base/NoSQL/redis-lua-scripting-building-more-advanced-redis-commands)
-- [ ] A Guide to MongoDB Query Optimization: Best Practices and Tips|NoSQL
+- [x] [A Guide to MongoDB Query Optimization: Best Practices and Tips](/Knowledge-base/NoSQL/a-guide-to-mongodb-query-optimization-best-practices-and-tips)
 - [x] [Redis Enterprise: Scaling Redis in the Cloud with High Availability](/Knowledge-base/NoSQL/redis-enterprise-scaling-redis-in-the-cloud-with-high-availability)
 - [x] [MongoDB and Node.js: Building a Modern Web Application Stack](/Knowledge-base/NoSQL/mongodb-and-node-js-building-a-modern-web-application-stack)
 - [x] [Redis JSON Data Structures: Storing and Querying JSON Data in Redis](/Knowledge-base/NoSQL/redis-json-data-structures-storing-and-querying-json-data-in-redis)
