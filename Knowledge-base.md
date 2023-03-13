@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-13T17:33:36.747Z
+date: 2023-03-13T18:33:33.684Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2269,7 +2269,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Claude Shannon (Information Theory Pioneer)](/Knowledge-base/Dictionary/Person/claude-shannon-information-theory-pioneer)
 - [x] [Norbert Wiener (Cybernetics Founder)](/Knowledge-base/Dictionary/Person/norbert-wiener-cybernetics-founder)
 - [x] [John von Neumann (Computer Science Pioneer)](/Knowledge-base/Dictionary/Person/john-von-neumann-computer-science-pioneer)
-- [ ] Edsger W. Dijkstra (Computer Science Pioneer)|Dictionary/Person
+- [x] [Edsger W. Dijkstra (Computer Science Pioneer)](/Knowledge-base/Dictionary/Person/edsger-w-dijkstra-computer-science-pioneer)
 - [x] [John Backus (FORTRAN Creator)](/Knowledge-base/Dictionary/Person/john-backus-fortran-creator)
 - [x] [Grace Hopper (COBOL Creator)](/Knowledge-base/Dictionary/Person/grace-hopper-cobol-creator)
 - [x] [Donald Knuth (Computer Science Author)](/Knowledge-base/Dictionary/Person/donald-knuth-computer-science-author)
