@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-14T14:33:13.908Z
+date: 2023-03-14T15:33:59.573Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -175,7 +175,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Redis Data Persistence: How to Make Sure Your Data Is Always There](/Knowledge-base/NoSQL/redis-data-persistence-how-to-make-sure-your-data-is-always-there)
 - [x] [MongoDB Indexing: Tips and Best Practices for Faster Queries](/Knowledge-base/NoSQL/mongodb-indexing-tips-and-best-practices-for-faster-queries)
 - [x] [NoSQL Database Design: How to Model Data in MongoDB and Redis](/Knowledge-base/NoSQL/nosql-database-design-how-to-model-data-in-mongodb-and-redis)
-- [ ] Redis Lua Scripting: Building Custom Redis Commands with Lua|NoSQL
+- [x] [Redis Lua Scripting: Building Custom Redis Commands with Lua](/Knowledge-base/NoSQL/redis-lua-scripting-building-custom-redis-commands-with-lua)
 - [x] [MongoDB Replication: How to Ensure Data Availability and Durability](/Knowledge-base/NoSQL/mongodb-replication-how-to-ensure-data-availability-and-durability)
 - [x] [The Role of NoSQL Databases in Big Data Analytics](/Knowledge-base/NoSQL/the-role-of-nosql-databases-in-big-data-analytics)
 - [x] [MongoDB Sharding: How to Scale Your MongoDB Cluster](/Knowledge-base/NoSQL/mongodb-sharding-how-to-scale-your-mongodb-cluster)
