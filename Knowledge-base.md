@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-14T11:33:29.095Z
+date: 2023-03-14T12:33:34.245Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2112,7 +2112,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Salesforce.com, Inc.](/Knowledge-base/Dictionary/Company/salesforce-com-inc-)
 - [x] [Shopify Inc.](/Knowledge-base/Dictionary/Company/shopify-inc-)
 - [x] [Dropbox, Inc.](/Knowledge-base/Dictionary/Company/dropbox-inc-)
-- [ ] AirBnB, Inc.|Dictionary/Company
+- [x] [AirBnB, Inc.](/Knowledge-base/Dictionary/Company/airbnb-inc-)
 - [x] [Uber Technologies, Inc.](/Knowledge-base/Dictionary/Company/uber-technologies-inc-)
 - [x] [Tesla, Inc.](/Knowledge-base/Dictionary/Company/tesla-inc-)
 - [x] [Palantir Technologies Inc.](/Knowledge-base/Dictionary/Company/palantir-technologies-inc-)
