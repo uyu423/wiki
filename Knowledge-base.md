@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-14T18:33:18.991Z
+date: 2023-03-14T19:33:14.260Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -140,7 +140,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [HTTP Compression: How to Reduce Web Page Load Times](/Knowledge-base/Network/http-compression-how-to-reduce-web-page-load-times)
 - [x] [ICMP: Understanding the Internet Control Message Protocol](/Knowledge-base/Network/icmp-understanding-the-internet-control-message-protocol)
 - [x] [DNS Hijacking: How Hackers Can Redirect Your Web Traffic](/Knowledge-base/Network/dns-hijacking-how-hackers-can-redirect-your-web-traffic)
-- [ ] How to Use Traceroute: A Command-Line Tool for Network Path Analysis|Network
+- [x] [How to Use Traceroute: A Command-Line Tool for Network Path Analysis](/Knowledge-base/Network/how-to-use-traceroute-a-command-line-tool-for-network-path-analysis)
 - [x] [HTTP/3: Understanding the Benefits of QUIC](/Knowledge-base/Network/http3-understanding-the-benefits-of-quic)
 - [x] [The TCP Maximum Segment Size: How to Optimize TCP Performance](/Knowledge-base/Network/the-tcp-maximum-segment-size-how-to-optimize-tcp-performance)
 - [x] [DNS Spoofing: How to Protect Your Network from DNS Attacks](/Knowledge-base/Network/dns-spoofing-how-to-protect-your-network-from-dns-attacks)
