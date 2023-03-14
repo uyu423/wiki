@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-14T07:34:05.769Z
+date: 2023-03-14T08:33:27.896Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1873,7 +1873,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Regression Testing](/Knowledge-base/Dictionary/regression-testing)
 - [x] [Usability Testing](/Knowledge-base/Dictionary/usability-testing)
 - [x] [Accessibility Testing](/Knowledge-base/Dictionary/accessibility-testing)
-- [ ] Ethical Hacking|Dictionary
+- [x] [Ethical Hacking](/Knowledge-base/Dictionary/ethical-hacking)
 - [x] [Bug Tracking](/Knowledge-base/Dictionary/bug-tracking)
 - [x] [Defect Tracking](/Knowledge-base/Dictionary/defect-tracking)
 - [x] [Issue Tracking](/Knowledge-base/Dictionary/issue-tracking)
