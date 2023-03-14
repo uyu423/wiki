@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-14T00:33:14.791Z
+date: 2023-03-14T01:33:40.022Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -89,7 +89,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [038: Global Declarations in TypeScript: How to Declare Global Variables and Functions](/Knowledge-base/TypeScript/Learning/038-global-declarations-in-typescript-how-to-declare-global-variables-and-functions)
 - [x] [039: Readonly Properties in TypeScript: How to Create Immutable Objects](/Knowledge-base/TypeScript/Learning/039-readonly-properties-in-typescript-how-to-create-immutable-objects)
 - [x] [040: Augmenting Types in TypeScript: How to Add Properties and Methods to Existing Types](/Knowledge-base/TypeScript/Learning/040-augmenting-types-in-typescript-how-to-add-properties-and-methods-to-existing-types)
-- [ ] 041: Type-Safe Event Handling in TypeScript: How to Ensure Event Handlers Receive the Correct Arguments|TypeScript/Learning
+- [x] [041: Type-Safe Event Handling in TypeScript: How to Ensure Event Handlers Receive the Correct Arguments](/Knowledge-base/TypeScript/Learning/041-type-safe-event-handling-in-typescript-how-to-ensure-event-handlers-receive-the-correct-arguments)
 - [x] [042: String Manipulation in TypeScript: How to Work with Strings in Your Code](/Knowledge-base/TypeScript/Learning/042-string-manipulation-in-typescript-how-to-work-with-strings-in-your-code)
 - [x] [043: Type-Driven Refactoring in TypeScript: How to Refactor Your Code with Types](/Knowledge-base/TypeScript/Learning/043-type-driven-refactoring-in-typescript-how-to-refactor-your-code-with-types)
 - [x] [044: The Partial Type in TypeScript: How to Create Types with Optional Properties](/Knowledge-base/TypeScript/Learning/044-the-partial-type-in-typescript-how-to-create-types-with-optional-properties)
