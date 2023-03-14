@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-14T01:33:40.022Z
+date: 2023-03-14T02:32:58.432Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -167,7 +167,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Redis Clustering: How to Build a Highly Available Redis Cluster](/Knowledge-base/NoSQL/redis-clustering-how-to-build-a-highly-available-redis-cluster)
 - [x] [NoSQL vs. SQL: Which Database Type Is Right for You?](/Knowledge-base/NoSQL/nosql-vs-sql-which-database-type-is-right-for-you)
 - [x] [MongoDB Security: Best Practices for Keeping Your Data Safe](/Knowledge-base/NoSQL/mongodb-security-best-practices-for-keeping-your-data-safe)
-- [ ] Redis Pub/Sub: Building a Real-Time Message Queue with Redis|NoSQL
+- [x] [Redis Pub/Sub: Building a Real-Time Message Queue with Redis](/Knowledge-base/NoSQL/redis-pubsub-building-a-real-time-message-queue-with-redis)
 - [x] [How to Migrate from SQL to NoSQL: A Step-by-Step Guide](/Knowledge-base/NoSQL/how-to-migrate-from-sql-to-nosql-a-step-by-step-guide)
 - [ ] MongoDB Aggregation Framework: Exploring Powerful Querying Capabilities|NoSQL
 - [x] [Redis vs. Memcached: Which Caching System Is Best for You?](/Knowledge-base/NoSQL/redis-vs-memcached-which-caching-system-is-best-for-you)
