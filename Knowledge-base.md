@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-14T16:33:37.555Z
+date: 2023-03-14T17:33:06.551Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1905,7 +1905,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [COBIT](/Knowledge-base/Dictionary/cobit)
 - [x] [Business Continuity](/Knowledge-base/Dictionary/business-continuity)
 - [x] [Backup](/Knowledge-base/Dictionary/backup)
-- [ ] Recovery|Dictionary
+- [x] [Recovery](/Knowledge-base/Dictionary/recovery)
 - [x] [Data Loss Prevention](/Knowledge-base/Dictionary/data-loss-prevention)
 - [x] [Identity Management](/Knowledge-base/Dictionary/identity-management)
 - [x] [Identity and Access Management](/Knowledge-base/Dictionary/identity-and-access-management)
