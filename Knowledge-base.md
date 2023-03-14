@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-14T09:33:41.977Z
+date: 2023-03-14T10:33:16.660Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1354,7 +1354,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [The Future of Virtual Reality and Augmented Reality](/Knowledge-base/Common/the-future-of-virtual-reality-and-augmented-reality)
 - [x] [Data Visualization with D3.js and Tableau](/Knowledge-base/Common/data-visualization-with-d3-js-and-tableau)
 - [x] [The Benefits of Docker and Containerization](/Knowledge-base/Common/the-benefits-of-docker-and-containerization)
-- [ ] The Evolution of Big Data and Hadoop|Common
+- [x] [The Evolution of Big Data and Hadoop](/Knowledge-base/Common/the-evolution-of-big-data-and-hadoop)
 - [x] [How to Implement a DevOps Workflow](/Knowledge-base/Common/how-to-implement-a-devops-workflow)
 - [x] [The Power of Parallel Processing and GPU Computing](/Knowledge-base/Common/the-power-of-parallel-processing-and-gpu-computing)
 - [x] [Introduction to Network Programming and Socket Programming](/Knowledge-base/Common/introduction-to-network-programming-and-socket-programming)
