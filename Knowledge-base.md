@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-14T17:33:06.551Z
+date: 2023-03-14T18:33:18.991Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2147,7 +2147,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [ByteDance (China)](/Knowledge-base/Dictionary/Company/bytedance-china)
 - [x] [Meituan (China)](/Knowledge-base/Dictionary/Company/meituan-china)
 - [x] [SoftBank Group Corp. (Japan)](/Knowledge-base/Dictionary/Company/softbank-group-corp-japan)
-- [ ] Huawei Technologies Co., Ltd. (China)|Dictionary/Company
+- [x] [Huawei Technologies Co., Ltd. (China)](/Knowledge-base/Dictionary/Company/huawei-technologies-co-ltd-china)
 - [x] [WIPRO Limited (India)](/Knowledge-base/Dictionary/Company/wipro-limited-india)
 - [x] [Infosys Limited (India)](/Knowledge-base/Dictionary/Company/infosys-limited-india)
 - [x] [HCL Technologies Limited (India)](/Knowledge-base/Dictionary/Company/hcl-technologies-limited-india)
