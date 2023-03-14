@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-14T04:33:43.199Z
+date: 2023-03-14T05:33:18.147Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -61,7 +61,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [010: Namespaces in TypeScript: How to Organize Your Code into Namespaces](/Knowledge-base/TypeScript/Learning/010-namespaces-in-typescript-how-to-organize-your-code-into-namespaces)
 - [x] [011: Advanced Types in TypeScript: How to Use Union Types, Intersection Types, and More](/Knowledge-base/TypeScript/Learning/011-advanced-types-in-typescript-how-to-use-union-types-intersection-types-and-more)
 - [x] [012: Type Inference in TypeScript: How TypeScript Infers Types in Your Code](/Knowledge-base/TypeScript/Learning/012-type-inference-in-typescript-how-typescript-infers-types-in-your-code)
-- [ ] 013: Type Guards in TypeScript: How to Narrow Down Types with Conditionals|TypeScript/Learning
+- [x] [013: Type Guards in TypeScript: How to Narrow Down Types with Conditionals](/Knowledge-base/TypeScript/Learning/013-type-guards-in-typescript-how-to-narrow-down-types-with-conditionals)
 - [x] [014: Enums in TypeScript: How to Define and Use Enumerated Types](/Knowledge-base/TypeScript/Learning/014-enums-in-typescript-how-to-define-and-use-enumerated-types)
 - [x] [015: Type Aliases in TypeScript: How to Define Custom Types with Aliases](/Knowledge-base/TypeScript/Learning/015-type-aliases-in-typescript-how-to-define-custom-types-with-aliases)
 - [x] [016: Type Assertions in TypeScript: How to Override TypeScript's Type System](/Knowledge-base/TypeScript/Learning/016-type-assertions-in-typescript-how-to-override-typescript-s-type-system)
