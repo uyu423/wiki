@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-14T15:33:59.573Z
+date: 2023-03-14T16:33:37.555Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2119,7 +2119,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [NVIDIA Corporation](/Knowledge-base/Dictionary/Company/nvidia-corporation)
 - [x] [AMD, Inc.](/Knowledge-base/Dictionary/Company/amd-inc-)
 - [x] [Intel Corporation](/Knowledge-base/Dictionary/Company/intel-corporation)
-- [ ] Micron Technology, Inc.|Dictionary/Company
+- [x] [Micron Technology, Inc.](/Knowledge-base/Dictionary/Company/micron-technology-inc-)
 - [x] [Western Digital Corporation](/Knowledge-base/Dictionary/Company/western-digital-corporation)
 - [x] [Seagate Technology PLC](/Knowledge-base/Dictionary/Company/seagate-technology-plc)
 - [x] [Toshiba Corporation](/Knowledge-base/Dictionary/Company/toshiba-corporation)
