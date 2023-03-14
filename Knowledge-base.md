@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-14T12:33:34.245Z
+date: 2023-03-14T13:33:36.455Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1401,7 +1401,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Big Data Analytics with Apache Spark](/Knowledge-base/Common/big-data-analytics-with-apache-spark)
 - [x] [The Future of Virtual Reality (VR) and Augmented Reality (AR) in Gaming](/Knowledge-base/Common/the-future-of-virtual-reality-vr-and-augmented-reality-ar-in-gaming)
 - [x] [Using Blockchain for Decentralized Applications](/Knowledge-base/Common/using-blockchain-for-decentralized-applications)
-- [ ] The Role of Cloud Computing in Enterprise Solutions|Common
+- [x] [The Role of Cloud Computing in Enterprise Solutions](/Knowledge-base/Common/the-role-of-cloud-computing-in-enterprise-solutions)
 - [x] [Debugging and Troubleshooting in Software Development](/Knowledge-base/Common/debugging-and-troubleshooting-in-software-development)
 - [x] [The Importance of User Experience (UX) Design in Software Development](/Knowledge-base/Common/the-importance-of-user-experience-ux-design-in-software-development)
 - [x] [How to Create a Virtual Private Network (VPN)](/Knowledge-base/Common/how-to-create-a-virtual-private-network-vpn)
