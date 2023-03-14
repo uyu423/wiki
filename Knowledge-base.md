@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-14T21:33:05.700Z
+date: 2023-03-14T22:33:22.805Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2089,7 +2089,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 ## Company
 
 - [x] [Apple Inc.](/Knowledge-base/Dictionary/Company/apple-inc-)
-- [ ] Microsoft Corporation|Dictionary/Company
+- [x] [Microsoft Corporation](/Knowledge-base/Dictionary/Company/microsoft-corporation)
 - [x] [Amazon.com Inc.](/Knowledge-base/Dictionary/Company/amazon-com-inc-)
 - [x] [Alphabet Inc. (Google)](/Knowledge-base/Dictionary/Company/alphabet-inc-google)
 - [x] [Facebook Inc.](/Knowledge-base/Dictionary/Company/facebook-inc-)
