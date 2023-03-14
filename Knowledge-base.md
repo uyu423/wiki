@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-14T08:33:27.896Z
+date: 2023-03-14T09:33:41.977Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -2161,7 +2161,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Tencent Holdings Limited (China)](/Knowledge-base/Dictionary/Company/tencent-holdings-limited-china)
 - [x] [Alibaba Group Holding Limited (China)](/Knowledge-base/Dictionary/Company/alibaba-group-holding-limited-china)
 - [x] [Xiaomi Corporation (China)](/Knowledge-base/Dictionary/Company/xiaomi-corporation-china)
-- [ ] ByteDance (China)|Dictionary/Company
+- [x] [ByteDance (China)](/Knowledge-base/Dictionary/Company/bytedance-china)
 - [x] [Meituan (China)](/Knowledge-base/Dictionary/Company/meituan-china)
 - [x] [SoftBank Group Corp. (Japan)](/Knowledge-base/Dictionary/Company/softbank-group-corp-japan)
 - [x] [JD.com, Inc. (China)](/Knowledge-base/Dictionary/Company/jd-com-inc-china)
