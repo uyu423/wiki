@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-14T06:33:15.379Z
+date: 2023-03-14T07:34:05.769Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -1477,7 +1477,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [Exploring the Java Native Interface (JNI) for Interoperability](/Knowledge-base/Java/exploring-the-java-native-interface-jni-for-interoperability)
 - [x] [Deep Dive into Java's System Class Loader](/Knowledge-base/Java/deep-dive-into-java-s-system-class-loader)
 - [x] [Using Java's Service Provider Interface for Dynamic Configuration](/Knowledge-base/Java/using-java-s-service-provider-interface-for-dynamic-configuration)
-- [ ] A Guide to Java's Non-Blocking I/O API|Java
+- [x] [A Guide to Java's Non-Blocking I/O API](/Knowledge-base/Java/a-guide-to-java-s-non-blocking-io-api)
 - [x] [Leveraging Java's Reflection API for Dynamic Programming](/Knowledge-base/Java/leveraging-java-s-reflection-api-for-dynamic-programming)
 - [x] [Working with Java's StrictMath Class for Precise Calculations](/Knowledge-base/Java/working-with-java-s-strictmath-class-for-precise-calculations)
 - [x] [Java's java.util.concurrent Package for Parallel Programming](/Knowledge-base/Java/java-s-java-util-concurrent-package-for-parallel-programming)
