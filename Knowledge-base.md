@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-14T03:33:14.336Z
+date: 2023-03-14T04:33:43.199Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -169,7 +169,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 - [x] [MongoDB Security: Best Practices for Keeping Your Data Safe](/Knowledge-base/NoSQL/mongodb-security-best-practices-for-keeping-your-data-safe)
 - [x] [Redis Pub/Sub: Building a Real-Time Message Queue with Redis](/Knowledge-base/NoSQL/redis-pubsub-building-a-real-time-message-queue-with-redis)
 - [x] [How to Migrate from SQL to NoSQL: A Step-by-Step Guide](/Knowledge-base/NoSQL/how-to-migrate-from-sql-to-nosql-a-step-by-step-guide)
-- [ ] MongoDB Aggregation Framework: Exploring Powerful Querying Capabilities|NoSQL
+- [x] [MongoDB Aggregation Framework: Exploring Powerful Querying Capabilities](/Knowledge-base/NoSQL/mongodb-aggregation-framework-exploring-powerful-querying-capabilities)
 - [x] [Redis vs. Memcached: Which Caching System Is Best for You?](/Knowledge-base/NoSQL/redis-vs-memcached-which-caching-system-is-best-for-you)
 - [x] [The Pros and Cons of Using a Document-Oriented NoSQL Database like MongoDB](/Knowledge-base/NoSQL/the-pros-and-cons-of-using-a-document-oriented-nosql-database-like-mongodb)
 - [x] [Redis Data Persistence: How to Make Sure Your Data Is Always There](/Knowledge-base/NoSQL/redis-data-persistence-how-to-make-sure-your-data-is-always-there)
