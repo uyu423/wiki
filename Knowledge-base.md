@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-17T19:15:59.024Z
+date: 2023-03-17T19:19:48.083Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -780,68 +780,56 @@ dateCreated: 2023-01-29T21:39:43.512Z
 
 ## Nest.js Learning
 
-- [x] [001: Introduction to Nest.js and its benefits as a web framework](/Knowledge-base/Nest-js/Learning/001-introduction-to-nest-js-and-its-benefits-as-a-web-framework)
-- [x] [002: Setting up a development environment for Nest.js](/Knowledge-base/Nest-js/Learning/002-setting-up-a-development-environment-for-nest-js)
-- [x] [003: Creating your first Nest.js application](/Knowledge-base/Nest-js/Learning/003-creating-your-first-nest-js-application)
-- [x] [004: Understanding the architecture of a Nest.js application](/Knowledge-base/Nest-js/Learning/004-understanding-the-architecture-of-a-nest-js-application)
-- [x] [005: Routing and controllers in Nest.js](/Knowledge-base/Nest-js/Learning/005-routing-and-controllers-in-nest-js)
-- [x] [006: Handling requests and responses in Nest.js](/Knowledge-base/Nest-js/Learning/006-handling-requests-and-responses-in-nest-js)
-- [x] [007: Creating services in Nest.js](/Knowledge-base/Nest-js/Learning/007-creating-services-in-nest-js)
-- [x] [008: Working with databases in Nest.js](/Knowledge-base/Nest-js/Learning/008-working-with-databases-in-nest-js)
-- [x] [009: Integrating with MongoDB in Nest.js](/Knowledge-base/Nest-js/Learning/009-integrating-with-mongodb-in-nest-js)
-- [x] [010: Integrating with TypeORM in Nest.js](/Knowledge-base/Nest-js/Learning/010-integrating-with-typeorm-in-nest-js)
-- [x] [011: Implementing authentication in Nest.js](/Knowledge-base/Nest-js/Learning/011-implementing-authentication-in-nest-js)
-- [x] [012: Using guards for route protection in Nest.js](/Knowledge-base/Nest-js/Learning/012-using-guards-for-route-protection-in-nest-js)
-- [x] [013: Implementing authorization in Nest.js](/Knowledge-base/Nest-js/Learning/013-implementing-authorization-in-nest-js)
-- [x] [014: Using middlewares in Nest.js](/Knowledge-base/Nest-js/Learning/014-using-middlewares-in-nest-js)
-- [x] [015: Error handling in Nest.js](/Knowledge-base/Nest-js/Learning/015-error-handling-in-nest-js)
-- [x] [016: Debugging Nest.js applications](/Knowledge-base/Nest-js/Learning/016-debugging-nest-js-applications)
-- [x] [017: Testing Nest.js applications](/Knowledge-base/Nest-js/Learning/017-testing-nest-js-applications)
-- [x] [018: Creating reusable components in Nest.js](/Knowledge-base/Nest-js/Learning/018-creating-reusable-components-in-nest-js)
-- [x] [019: Modules and module organization in Nest.js](/Knowledge-base/Nest-js/Learning/019-modules-and-module-organization-in-nest-js)
-- [x] [020: Using pipes for data transformation in Nest.js](/Knowledge-base/Nest-js/Learning/020-using-pipes-for-data-transformation-in-nest-js)
-- [x] [021: Creating custom pipes in Nest.js](/Knowledge-base/Nest-js/Learning/021-creating-custom-pipes-in-nest-js)
-- [x] [022: Implementing internationalization in Nest.js](/Knowledge-base/Nest-js/Learning/022-implementing-internationalization-in-nest-js)
-- [x] [023: Using templates with Nest.js](/Knowledge-base/Nest-js/Learning/023-using-templates-with-nest-js)
-- [x] [024: Creating and consuming REST APIs in Nest.js](/Knowledge-base/Nest-js/Learning/024-creating-and-consuming-rest-apis-in-nest-js)
-- [x] [025: Creating and consuming GraphQL APIs in Nest.js](/Knowledge-base/Nest-js/Learning/025-creating-and-consuming-graphql-apis-in-nest-js)
-- [x] [026: Understanding Nest.js microservices](/Knowledge-base/Nest-js/Learning/026-understanding-nest-js-microservices)
-- [x] [027: Implementing microservices with Nest.js](/Knowledge-base/Nest-js/Learning/027-implementing-microservices-with-nest-js)
-- [x] [028: Communication between microservices in Nest.js](/Knowledge-base/Nest-js/Learning/028-communication-between-microservices-in-nest-js)
-- [x] [029: Deploying Nest.js applications to production](/Knowledge-base/Nest-js/Learning/029-deploying-nest-js-applications-to-production)
-- [x] [030: Scaling Nest.js applications](/Knowledge-base/Nest-js/Learning/030-scaling-nest-js-applications)
-- [x] [031: Integrating with other technologies such as Redis, RabbitMQ, and more](/Knowledge-base/Nest-js/Learning/031-integrating-with-other-technologies-such-as-redis-rabbitmq-and-more)
-- [x] [032: Using Nest.js with TypeScript](/Knowledge-base/Nest-js/Learning/032-using-nest-js-with-typescript)
-- [x] [033: Using Nest.js with JavaScript](/Knowledge-base/Nest-js/Learning/033-using-nest-js-with-javascript)
-- [x] [034: Using Nest.js with Angular](/Knowledge-base/Nest-js/Learning/034-using-nest-js-with-angular)
-- [x] [035: Using Nest.js with React](/Knowledge-base/Nest-js/Learning/035-using-nest-js-with-react)
-- [x] [036: Real-time communication with WebSockets in Nest.js](/Knowledge-base/Nest-js/Learning/036-real-time-communication-with-websockets-in-nest-js)
-- [x] [037: Implementing real-time chat with Nest.js and WebSockets](/Knowledge-base/Nest-js/Learning/037-implementing-real-time-chat-with-nest-js-and-websockets)
-- [x] [038: Building and deploying serverless applications with Nest.js](/Knowledge-base/Nest-js/Learning/038-building-and-deploying-serverless-applications-with-nest-js)
-- [x] [039: Using Nest.js with AWS Lambda](/Knowledge-base/Nest-js/Learning/039-using-nest-js-with-aws-lambda)
-- [x] [040: Using Nest.js with Google Cloud Functions](/Knowledge-base/Nest-js/Learning/040-using-nest-js-with-google-cloud-functions)
-- [x] [041: Using Nest.js with Firebase Functions](/Knowledge-base/Nest-js/Learning/041-using-nest-js-with-firebase-functions)
-- [x] [042: Implementing real-time notifications with Nest.js and Firebase](/Knowledge-base/Nest-js/Learning/042-implementing-real-time-notifications-with-nest-js-and-firebase)
-- [x] [043: Using Nest.js with Docker](/Knowledge-base/Nest-js/Learning/043-using-nest-js-with-docker)
-- [x] [044: Using Nest.js with Kubernetes](/Knowledge-base/Nest-js/Learning/044-using-nest-js-with-kubernetes)
-- [x] [045: Using Nest.js with cloud-based solutions such as Heroku, DigitalOcean, and more](/Knowledge-base/Nest-js/Learning/045-using-nest-js-with-cloud-based-solutions-such-as-heroku-digitalocean-and-more)
-- [x] [046: Using Nest.js with serverless databases such as AWS DynamoDB, Google Cloud Firestore, and more](/Knowledge-base/Nest-js/Learning/046-using-nest-js-with-serverless-databases-such-as-aws-dynamodb-google-cloud-firestore-and-more)
-- [x] [047: Building and deploying scalable and performant applications with Nest.js](/Knowledge-base/Nest-js/Learning/047-building-and-deploying-scalable-and-performant-applications-with-nest-js)
-- [x] [048: Best practices for writing Nest.js code](/Knowledge-base/Nest-js/Learning/048-best-practices-for-writing-nest-js-code)
-- [x] [049: Common pitfalls to avoid when using Nest.js](/Knowledge-base/Nest-js/Learning/049-common-pitfalls-to-avoid-when-using-nest-js)
-- [x] [050: Advanced Nest.js features and techniques](/Knowledge-base/Nest-js/Learning/050-advanced-nest-js-features-and-techniques)
-- [x] [051: Building and deploying multi-tenant applications with Nest.js](/Knowledge-base/Nest-js/Learning/051-building-and-deploying-multi-tenant-applications-with-nest-js)
-- [x] [052: Using Nest.js with Server-Sent Events (SSE)](/Knowledge-base/Nest-js/Learning/052-using-nest-js-with-server-sent-events-sse)
-- [x] [053: Using Nest.js with WebRTC for real-time communication](/Knowledge-base/Nest-js/Learning/053-using-nest-js-with-webrtc-for-real-time-communication)
-- [x] [054: Using Nest.js with Progressive Web Apps (PWA)](/Knowledge-base/Nest-js/Learning/054-using-nest-js-with-progressive-web-apps-pwa)
-- [x] [055: Implementing real-time updates with Nest.js and PWA](/Knowledge-base/Nest-js/Learning/055-implementing-real-time-updates-with-nest-js-and-pwa)
-- [x] [056: Using Nest.js with progressive enhancement](/Knowledge-base/Nest-js/Learning/056-using-nest-js-with-progressive-enhancement)
-- [x] [057: Using Nest.js with Service Workers](/Knowledge-base/Nest-js/Learning/057-using-nest-js-with-service-workers)
-- [x] [058: Implementing offline-first applications with Nest.js and Service Workers](/Knowledge-base/Nest-js/Learning/058-implementing-offline-first-applications-with-nest-js-and-service-workers)
-- [x] [059: Using Nest.js with IndexedDB](/Knowledge-base/Nest-js/Learning/059-using-nest-js-with-indexeddb)
-- [x] [060: Building high-performance applications with Nest.js and IndexedDB](/Knowledge-base/Nest-js/Learning/060-building-high-performance-applications-with-nest-js-and-indexeddb)
-- [x] [061: Using Nest.js with the Filesystem API](/Knowledge-base/Nest-js/Learning/061-using-nest-js-with-the-filesystem-api)
-- [x] [062: Implementing file uploads and downloads in Nest.js](/Knowledge-base/Nest-js/Learning/062-implementing-file-uploads-and-downloads-in-nest-js)
+- [ ] 001: Getting Started with Nest.js: An Introduction for Beginners|Nest-js/Learning
+- [ ] 002: Nest.js Fundamentals: Understanding Modules, Controllers, and Providers|Nest-js/Learning
+- [ ] 003: Setting Up Your First Nest.js Project: A Step-by-Step Guide|Nest-js/Learning
+- [ ] 004: Exploring Nest.js CLI: Streamline Your Development Workflow|Nest-js/Learning
+- [ ] 005: Understanding Nest.js Middleware and Its Role in Your Application|Nest-js/Learning
+- [ ] 006: Nest.js and TypeScript: A Powerful Combination for Backend Development|Nest-js/Learning
+- [ ] 007: Creating RESTful APIs with Nest.js: Best Practices and Techniques|Nest-js/Learning
+- [ ] 008: Deep Dive into Nest.js Dependency Injection: Concepts and Applications|Nest-js/Learning
+- [ ] 009: Implementing Authentication in Nest.js with Passport.js|Nest-js/Learning
+- [ ] 010: Nest.js and GraphQL: Building Flexible, Scalable APIs|Nest-js/Learning
+- [ ] 011: Exception Handling in Nest.js: Strategies and Best Practices|Nest-js/Learning
+- [ ] 012: Nest.js Interceptors: Enhancing and Transforming Responses|Nest-js/Learning
+- [ ] 013: Exploring Nest.js Pipes: Validation and Transformation Made Easy|Nest-js/Learning
+- [ ] 014: Nest.js Guards: Securing Your Application's Routes|Nest-js/Learning
+- [ ] 015: Real-time Communication with Nest.js: Exploring WebSockets and Socket.IO|Nest-js/Learning
+- [ ] 016: Nest.js and MongoDB: Building Data-Driven Applications|Nest-js/Learning
+- [ ] 017: Using Nest.js with PostgreSQL and TypeORM: A Comprehensive Guide|Nest-js/Learning
+- [ ] 018: Nest.js and Microservices: An Introduction to Distributed Systems|Nest-js/Learning
+- [ ] 019: Building Scalable Applications with Nest.js and Redis|Nest-js/Learning
+- [ ] 020: Testing Your Nest.js Application: Unit, Integration, and E2E Tests|Nest-js/Learning
+- [ ] 021: Continuous Integration and Deployment for Nest.js Projects|Nest-js/Learning
+- [ ] 022: Nest.js and Docker: Containerizing Your Application for Better Portability|Nest-js/Learning
+- [ ] 023: Nest.js and Serverless: Deploying to AWS Lambda and Azure Functions|Nest-js/Learning
+- [ ] 024: Nest.js Performance Optimization: Tips and Techniques|Nest-js/Learning
+- [ ] 025: Nest.js and Elasticsearch: Building Fast, Search-Driven Applications|Nest-js/Learning
+- [ ] 026: Creating Custom Decorators in Nest.js: Advanced Techniques|Nest-js/Learning
+- [ ] 027: Nest.js and RabbitMQ: Asynchronous Messaging for Microservices|Nest-js/Learning
+- [ ] 028: Implementing Caching in Nest.js: Strategies and Best Practices|Nest-js/Learning
+- [ ] 029: Nest.js and gRPC: Building High-Performance APIs|Nest-js/Learning
+- [ ] 030: Advanced Error Handling in Nest.js: Global Filters and Custom Exceptions|Nest-js/Learning
+- [ ] 031: Nest.js and Kubernetes: Orchestrating Your Microservices|Nest-js/Learning
+- [ ] 032: Building a Nest.js CLI Plugin: Extend and Customize Your Development Experience|Nest-js/Learning
+- [ ] 033: Nest.js and CI/CD Pipelines: Automating Your Workflow with GitHub Actions|Nest-js/Learning
+- [ ] 034: Nest.js and Swagger: Documenting Your APIs for Better Collaboration|Nest-js/Learning
+- [ ] 035: Advanced Nest.js Middleware: Implementing Custom Middleware Solutions|Nest-js/Learning
+- [ ] 036: Nest.js and Multitenancy: Building Scalable SaaS Applications|Nest-js/Learning
+- [ ] 037: Advanced Nest.js Patterns: Modular Architecture and Separation of Concerns|Nest-js/Learning
+- [ ] 038: Nest.js and the CQRS Pattern: Command Query Responsibility Segregation|Nest-js/Learning
+- [ ] 039: Nest.js Security Best Practices: Protecting Your Application from Common Threats|Nest-js/Learning
+- [ ] 040: Monitoring and Logging in Nest.js: Tools and Techniques for Maintaining Healthy Applications|Nest-js/Learning
+- [ ] 041: Nest.js and Event-Driven Architecture: Patterns and Best Practices|Nest-js/Learning
+- [ ] 042: Internationalization (i18n) in Nest.js: Building Multilingual Applications|Nest-js/Learning
+- [ ] 043: Nest.js and Server-Sent Events (SSE): Real-time Updates in Your Application|Nest-js/Learning
+- [ ] 044: Migrating from Express.js to Nest.js: A Comprehensive Guide|Nest-js/Learning
+- [ ] 045: Advanced GraphQL in Nest.js: Subscriptions, Directives, and Federation|Nest-js/Learning
+- [ ] 046: Nest.js and Domain-Driven Design (DDD): Building Maintainable, Scalable Applications|Nest-js/Learning
+- [ ] 047: Nest.js Performance Profiling: Identifying and Resolving Bottlenecks|Nest-js/Learning
+- [ ] 048: Advanced Nest.js Testing: Mocking, Spies, and Stubs|Nest-js/Learning
+- [ ] 049: Nest.js and the Clean Architecture: Structuring Your Application for Long-term Success|Nest-js/Learning
+- [ ] 050: Mastering Nest.js: Tips, Tricks, and Best Practices from the Experts|Nest-js/Learning
 
 ## Docker
 
