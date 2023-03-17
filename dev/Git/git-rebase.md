@@ -2,7 +2,7 @@
 title: Git Rebase
 description: 
 published: true
-date: 2023-02-17T17:43:16.688Z
+date: 2023-03-17T06:47:24.564Z
 tags: git
 editor: markdown
 dateCreated: 2023-02-17T17:43:15.405Z
@@ -39,6 +39,30 @@ git rebase main
 ```
 
 이렇게 하면 Feature 브랜치가 Main 브랜치의 헤드로 이동하고 브랜치 기록이 다시 작성됩니다. Feature 브랜치에서 변경한 사항은 Main 브랜치의 변경 사항 위에 적용됩니다.
+
+
+```mermaid
+graph BT
+
+M1[Main: A - B]
+F1[Feature: C - D]
+M2[Master: A - B - E]
+F2[Main: A - B - E - C' - D']
+
+Rebase["Rebase 실행"]
+
+M1-->|git checkout feature|F1
+F1-->|git rebase master|Rebase
+Rebase-->F2
+M1-->|새로운 커밋 E 추가| M2
+M2-->|git checkout feature|F2
+
+style M1 fill:#f9d0c4
+style F1 fill:#f9d0c4
+style M2 fill:#f9d0c4
+style F2 fill:#f9d0c4
+style Rebase fill:#82c91e
+```
 
 Rebase가 성공하면 Feature 분기를 Main 분기로 다시 병합할 수 있습니다. 그러나 리베이스 중에 충돌이 있으면 병합하기 전에 해결해야 합니다.
 
