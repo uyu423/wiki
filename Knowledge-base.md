@@ -2,7 +2,7 @@
 title: Knowledge Base
 description: 
 published: true
-date: 2023-03-17T19:24:08.367Z
+date: 2023-03-17T19:27:32.619Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-29T21:39:43.512Z
@@ -781,7 +781,7 @@ dateCreated: 2023-01-29T21:39:43.512Z
 ## Nest.js Learning
 
 - [x] [001: Getting Started with Nest.js: An Introduction for Beginners](/Knowledge-base/Nest-js/Learning/001-getting-started-with-nest-js-an-introduction-for-beginners)
-- [ ] 002: Nest.js Fundamentals: Understanding Modules, Controllers, and Providers|Nest-js/Learning
+- [x] [002: Nest.js Fundamentals: Understanding Modules, Controllers, and Providers](/Knowledge-base/Nest-js/Learning/002-nest-js-fundamentals-understanding-modules-controllers-and-providers)
 - [ ] 003: Setting Up Your First Nest.js Project: A Step-by-Step Guide|Nest-js/Learning
 - [ ] 004: Exploring Nest.js CLI: Streamline Your Development Workflow|Nest-js/Learning
 - [ ] 005: Understanding Nest.js Middleware and Its Role in Your Application|Nest-js/Learning
