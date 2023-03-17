@@ -2,13 +2,14 @@
 title: Git Flow, GitHub Flow, GitLab Flow 비교와 예제
 description: 
 published: true
-date: 2023-03-16T03:25:19.784Z
+date: 2023-03-17T06:50:14.080Z
 tags: git, gitflow, github, gitlab
 editor: markdown
 dateCreated: 2023-03-16T02:50:43.656Z
 ---
 
-# Git Flow, GitHub Flow, GitLab Flow 비교와 예제
+
+![git-logo.png](/git-logo.png){.align-center}
 
 버전 관리 시스템인 Git을 사용하는 프로젝트에서 개발, 협업, 배포를 돕는 세 가지 작업 흐름, Git Flow, GitHub Flow, 그리고 GitLab Flow에 대해 알아보고 예시를 통해 각각의 흐름을 설명합니다.
 
