@@ -2,7 +2,7 @@
 title: Kafka 컨슈머 그룹에서 "Offset commit cannot be completed" 에러 발생 원인과 해결 방법
 description: 
 published: true
-date: 2023-04-04T08:50:22.932Z
+date: 2023-04-04T08:54:06.817Z
 tags: kafka
 editor: markdown
 dateCreated: 2023-04-04T08:50:22.932Z
@@ -16,7 +16,7 @@ Kafka 컨슈머 그룹에서 파티션 할당은 컨슈머 그룹 내에서 균�
 
 ### 문제 상황 예시
 
-A 작업이 처리되는 동안에 Kafka 컨슈머, 브로커 등의 동작을 좀 더 자세히 살펴보겠습니다. A 작업 처리에는 10분이 소요되지만, 컨슈머의 max.poll.interval.ms 설정 값이 5분으로 설정되어 있습니다. 이로 인해 다음과 같은 상황이 발생합니다.
+A 작업이 처리되는 동안에 Kafka 컨슈머, 브로커 등의 동작을 좀 더 자세히 살펴보겠습니다. A 작업 처리에는 10분이 소요되지만, 컨슈머의 `max.poll.interval.ms` 설정 값이 5분으로 설정되어 있습니다. 이로 인해 다음과 같은 상황이 발생합니다.
 
 ```mermaid
 sequenceDiagram
@@ -38,9 +38,9 @@ sequenceDiagram
 
 
 - 컨슈머가 작업을 시작하면서 poll() 메서드를 호출합니다. 이때, Kafka 브로커로부터 메시지를 가져오고 처리를 시작합니다.
-- A 작업 처리에는 10분이 걸리므로, 컨슈머는 다음 poll() 메서드 호출까지 max.poll.interval.ms 값을 5분 초과하는 시간 동안 작업을 수행합니다.
+- A 작업 처리에는 10분이 걸리므로, 컨슈머는 다음 poll() 메서드 호출까지 `max.poll.interval.ms` 값을 5분 초과하는 시간 동안 작업을 수행합니다.
 - 이 시간 동안, 컨슈머는 Kafka 브로커에게 heartbeat를 보내지 않습니다. 그러면 Kafka 브로커는 해당 컨슈머가 죽은 것으로 판단하고, 해당 컨슈머의 파티션을 다른 컨슈머에게 재할당하게 됩니다.
-- 컨슈머가 A 작업을 완료한 후, 다시 poll() 메서드를 호출하려고 시도하지만, 이미 파티션을 잃어버렸기 때문에 "Offset commit cannot be completed since the consumer is not part of an active group for auto partition assignment; it is likely that the consumer was kicked out of the group." 에러가 발생하게 됩니다.
+- 컨슈머가 A 작업을 완료한 후, 다시 poll() 메서드를 호출하려고 시도하지만, 이미 파티션을 잃어버렸기 때문에 "**Offset commit cannot be completed since the consumer is not part of an active group for auto partition assignment; it is likely that the consumer was kicked out of the group.**" 에러가 발생하게 됩니다.
 
 ## 해결 방안
 
