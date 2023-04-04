@@ -2,7 +2,7 @@
 title: Java에서 null 체크하는 방법: variable == null vs Objects.isNull()
 description: 
 published: true
-date: 2023-04-04T02:44:38.925Z
+date: 2023-04-04T02:45:33.761Z
 tags: java
 editor: markdown
 dateCreated: 2023-04-04T02:44:38.925Z
@@ -13,7 +13,28 @@ dateCreated: 2023-04-04T02:44:38.925Z
 
 Java 언어에서 null 체크를 수행하는 방법 중 하나는 `variable == null`과 같이 변수와 `null`을 직접 비교하는 것입니다. 그러나 Java 7 이후에 도입된 `Objects.isNull()` 메소드를 사용하여 null 체크를 수행하는 것도 가능합니다.
 
-## Objects.isNull() 메소드 소개
+## Objects.isNull() 메소드
+
+```java
+    /**
+     * Returns {@code true} if the provided reference is {@code null} otherwise
+     * returns {@code false}.
+     *
+     * @apiNote This method exists to be used as a
+     * {@link java.util.function.Predicate}, {@code filter(Objects::isNull)}
+     *
+     * @param obj a reference to be checked against {@code null}
+     * @return {@code true} if the provided reference is {@code null} otherwise
+     * {@code false}
+     *
+     * @see java.util.function.Predicate
+     * @since 1.8
+     */
+    public static boolean isNull(Object obj) {
+        return obj == null;
+    }
+
+```
 
 `Objects.isNull()` 메소드는 주어진 객체가 null인지 아닌지를 검사하여 `boolean` 값을 반환하는 일반적인 유틸리티 메소드입니다. 이 메소드는 Java 함수형 프로그래밍의 핵심 개념 중 하나인 함수형 인터페이스에 적합하다는 것을 의미하여, `java.util.function.Predicate`에서도 사용될 수 있습니다.
 
