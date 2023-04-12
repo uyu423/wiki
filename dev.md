@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2023-02-19T11:47:01.482Z
+date: 2023-04-12T07:39:54.809Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -87,6 +87,7 @@ dateCreated: 2022-11-24T03:26:46.738Z
 - [about-solid-principles-oop](/ko/dev/Java/about-solid-principles-oop)
 - [about-jdk-license](/ko/dev/Java/about-jdk-license)
 - [ffmpeg-optimization-with-java](/ko/dev/Java/ffmpeg-optimization-with-java)
+- [if-statement-null-check-variable-null-vs-objects-isnull](/ko/dev/Java/if-statement-null-check-variable-null-vs-objects-isnull)
 
 #### Spring
 - [Developing-Spring-Boot-in-vscode](/dev/Java/Spring/Developing-Spring-Boot-in-vscode)
@@ -139,3 +140,9 @@ dateCreated: 2022-11-24T03:26:46.738Z
 
 ### Nest.js
 - [Nest-js](/dev/Nest-js)
+
+### Kafka
+- [kafka-consumer-group-offset-commit-error-reasons-and-solutions](/ko/dev/Kafka/kafka-consumer-group-offset-commit-error-reasons-and-solutions)
+
+### Etc
+- [hls-streaming-and-m3u8-file](/ko/dev/Etc/hls-streaming-and-m3u8-file)
