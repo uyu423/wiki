@@ -2,11 +2,13 @@
 title: HTTP 3.0 with QUIC (HTTP 1.x / 2.0 과 비교)
 description: 
 published: true
-date: 2023-04-19T05:35:30.498Z
+date: 2023-04-19T05:37:03.510Z
 tags: http, quic
 editor: markdown
 dateCreated: 2023-04-19T05:35:30.498Z
 ---
+
+![http3.jpg](/http3.jpg){.align-center}
 
 HTTP/3.0은 인터넷에서 데이터를 전송하는 프로토콜 중 가장 최신 기술 중 하나입니다. HTTP/3.0은 QUIC (Quick UDP Internet Connections) 프로토콜을 기반으로 하며, 이전 버전의 HTTP/1.x 및 HTTP/2.0과는 차별화된 기술적 특징을 가지고 있습니다.
 
