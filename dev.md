@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2023-04-12T07:41:25.963Z
+date: 2023-04-19T06:17:50.097Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -68,6 +68,10 @@ dateCreated: 2022-11-24T03:26:46.738Z
 
 ### Maven
 - [overview-maven-pom-xml](/dev/Maven/overview-maven-pom-xml)
+
+### Network
+
+- [comparing-http-3-0-with-quic-to-http-1-x-2-0](/ko/dev/Network/comparing-http-3-0-with-quic-to-http-1-x-2-0)
 
 ### Node.js
 - [Dependency-Injection-with-Express](/dev/Nodejs/Dependency-Injection-with-Express)
