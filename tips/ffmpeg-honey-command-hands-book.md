@@ -2,7 +2,7 @@
 title: ffmpeg (내가) 자주 사용하는 명령어 모음집
 description: 
 published: true
-date: 2023-07-07T08:37:55.719Z
+date: 2023-08-21T07:22:51.058Z
 tags: ffmpeg, tips
 editor: markdown
 dateCreated: 2023-07-07T08:37:55.719Z
@@ -37,9 +37,13 @@ ffmpeg -loop 1 -i image.jpeg -i "input.mp3" -c:v libx264 -tune stillimage -c:a c
 위 명령어는 image.jpeg 파일과 input.mp3 파일을 결합하여 H.264 비디오 코덱으로 압축된 MP4 동영상 파일인 output.mp4을 생성합니다. 이미지는 반복 재생되며, 오디오는 원본 파일을 그대로 사용합니다. 최종적으로 생성된 동영상은 이미지를 보여주는 동안 배경음악이 재생됩니다.
 
 
+## 동영상을 반복 재생 시켜서 긴 동영상 만들기
 
+```bash
+ffmpeg -stream_loop -1 -i input.mp4 -c:v copy -c:a copy -t 7200 input-2hours.mp4
+```
 
-
+- `-t`: 추출 길이 (seconds, 여기서는 반복 재생으로 생성될 영상의 길이)
 
 ## 동영상의 일부분 추출하기
 
