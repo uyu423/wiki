@@ -2,7 +2,7 @@
 title: Cooking
 description: 자취 1x년차 요우의 비밀 레시피 👨‍🍳
 published: true
-date: 2023-02-17T17:59:28.775Z
+date: 2023-08-21T07:55:54.442Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T07:47:51.115Z
@@ -20,3 +20,4 @@ dateCreated: 2022-11-24T07:47:51.115Z
 - [Perilla-oil-noodles](/cooking/Perilla-oil-noodles)
 - [bibim-memil-noodle](/cooking/bibim-memil-noodle)
 - [steak-dictionary](/cooking/steak-dictionary)
+- [Perilla-oil-cool-pasta](/ko/cooking/Perilla-oil-cool-pasta)
