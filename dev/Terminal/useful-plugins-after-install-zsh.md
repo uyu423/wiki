@@ -2,8 +2,8 @@
 title: zsh 설치 후 유용한 플러그인
 description: 
 published: true
-date: 2023-02-17T17:58:28.454Z
-tags: zsh, dev
+date: 2023-09-08T05:30:49.644Z
+tags: dev, zsh
 editor: markdown
 dateCreated: 2022-11-24T04:01:35.651Z
 ---
@@ -23,7 +23,7 @@ ZSH_THEME="agnoster"
 ```bash
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 ```
-## Plugins
+## Plugins / Themes
 ### zsh-autosuggestions
 - 명령어 자동완성 추천
 ```bash
@@ -44,9 +44,26 @@ git clone https://github.com/lukechilds/zsh-better-npm-completion ~/.oh-my-zsh/c
 # ./zshrc plugins=( [...plugins] zsh-better-npm-completion )
 ```
 
-### bullet-train
+### powerlevel10k/powerlevel10k
 
-- 좀 더 유용한 zsh 테마
+- 아래의 bullet-train 보다 나은 듯함
+- https://github.com/romkatv/powerlevel10k#oh-my-zsh
+
+#### Installation
+
+```bash
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+```
+
+```bash
+# update .zshrc
+Set ZSH_THEME="powerlevel10k/powerlevel10k" in ~/.zshrc.
+```
+
+### ~~bullet-train~~
+
+- ~~좀 더 유용한 zsh 테마~~
+- 언제가부터 지원과 신규 기능이 안올라온다.
 ```bash
 wget http://raw.github.com/caiogondim/bullet-train-oh-my-zsh-theme/master/bullet-train.zsh-theme && mkdir $ZSH_CUSTOM/themes && mv bullet-train.zsh-theme $ZSH_CUSTOM/themes/
 # .zshrc ZSH_THEME="bullet-train"
