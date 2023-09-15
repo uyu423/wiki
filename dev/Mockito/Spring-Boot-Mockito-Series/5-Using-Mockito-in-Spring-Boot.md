@@ -2,7 +2,7 @@
 title: [Spring Boot + Mockito] 5. Spring Boot에서 Mockito 활용하기
 description: 
 published: true
-date: 2023-09-15T09:25:20.255Z
+date: 2023-09-15T09:37:15.611Z
 tags: java, mockito, springboot, test
 editor: markdown
 dateCreated: 2023-09-15T09:24:48.136Z
@@ -58,7 +58,83 @@ Spring Boot 테스트에서는 `@MockBean`으로 생성된 Mock 객체와 `@Auto
 
 > `@MockBean`은 Spring Boot 테스트에서 Mock 객체를 손쉽게 사용할 수 있도록 도와주는 강력한 도구입니다. @Autowired와의 조합을 통해, 실제 객체와 Mock 객체 간의 상호작용을 쉽게 테스트할 수 있습니다. 이를 활용하면, 서비스 레이어나 컨트롤러 레이어에서의 복잡한 상호작용을 효과적으로 테스트할 수 있습니다. 다음 섹션에서는 Service Layer의 테스트 방법에 대해 자세히 알아보겠습니다.
 
-# 5.2. Service Layer 테스트
+# 5.2. Mockito와 JUnit 결합
+
+Spring Boot 환경에서는 주로 JUnit을 사용하여 테스트를 작성합니다. JUnit은 Java에서 가장 널리 사용되는 테스팅 프레임워크 중 하나입니다. Mockito와 JUnit을 결합하면 더욱 효과적인 단위 테스트를 작성할 수 있습니다. 이번 섹션에서는 Mockito와 JUnit을 어떻게 결합하여 사용하는지 알아보겠습니다.
+
+## Mockito와 JUnit의 기본적인 결합
+
+Mockito는 JUnit과 자연스럽게 통합됩니다. 기본적인 `@Mock`와 `@InjectMocks` 어노테이션은 JUnit 테스트에서 객체를 생성하고 주입하는 데 사용됩니다.
+
+```java
+@RunWith(MockitoJUnitRunner.class)
+public class MyServiceTest {
+
+    @Mock
+    private DependencyClass dependency;
+
+    @InjectMocks
+    private MyService myService;
+
+    @Test
+    public void testMethod() {
+        when(dependency.someMethod()).thenReturn("Mocked Value");
+        String result = myService.performTask();
+        assertEquals("Expected Result", result);
+    }
+}
+```
+
+여기에서 `@RunWith(MockitoJUnitRunner.class)`는 JUnit에게 Mockito 어노테이션을 활용할 것임을 알려줍니다.
+
+## JUnit 5와 Mockito의 결합
+
+JUnit 5에서는 `@ExtendWith` 어노테이션을 사용하여 Mockito의 확장을 지원받을 수 있습니다. `MockitoExtension.class`를 사용하면 JUnit 5와 Mockito를 결합할 수 있습니다.
+
+```java
+@ExtendWith(MockitoExtension.class)
+public class MyServiceTestJunit5 {
+
+    @Mock
+    private DependencyClass dependency;
+
+    @InjectMocks
+    private MyService myService;
+
+    @Test
+    public void testMethod() {
+        when(dependency.someMethod()).thenReturn("Mocked Value");
+        String result = myService.performTask();
+        assertEquals("Expected Result", result);
+    }
+}
+```
+
+## Mockito의 Rule 활용
+
+JUnit 4에서는 Mockito의 Rule을 사용하여 Mockito 초기화를 단순화할 수 있습니다.
+
+```java
+public class MyServiceTestWithRule {
+
+    @Rule
+    public MockitoRule rule = MockitoJUnit.rule();
+
+    @Mock
+    private DependencyClass dependency;
+
+    @InjectMocks
+    private MyService myService;
+    
+    // ... (테스트 메소드)
+}
+```
+
+`MockitoJUnit.rule()`을 사용하면 `@RunWith`를 사용하지 않아도 Mockito를 초기화할 수 있습니다.
+
+> Mockito와 JUnit은 서로 잘 통합되어, 둘을 결합하여 사용하면 Java Spring Boot 환경에서 강력하고 효과적인 테스트 스위트를 구축할 수 있습니다. JUnit의 다양한 기능과 Mockito의 Mocking 기능을 조합하여 코드의 다양한 시나리오와 경로를 테스트할 수 있습니다. 이를 통해 코드의 안정성과 품질을 높일 수 있습니다.
+
+# 5.3. Service Layer 테스트
 
 Service Layer는 어플리케이션의 핵심 비즈니스 로직을 담당하는 계층입니다. 따라서 이 계층의 테스트는 매우 중요하며, Mockito는 이 과정을 간편하게 도와줍니다.
 
@@ -143,7 +219,7 @@ public void testSomeBusinessLogic() {
 
 > Service Layer 테스트는 어플리케이션의 핵심 로직을 검증하는 중요한 과정입니다. Mockito를 활용하면 외부 의존성을 간편하게 Mock 객체로 대체하고, 다양한 시나리오와 예외 상황을 효과적으로 테스트할 수 있습니다. 다음 섹션에서는 Repository Layer의 테스트 방법에 대해 알아보겠습니다.
 
-# 5.3. Repository Layer 테스트
+# 5.4. Repository Layer 테스트
 
 Repository Layer는 데이터베이스와의 상호작용을 관리하는 계층으로, 이 계층의 테스트는 데이터의 CRUD(Create, Read, Update, Delete) 작업이 올바르게 수행되는지 확인하는 것을 목적으로 합니다. Mockito는 이 과정에서 실제 데이터베이스와의 상호작용 없이도 이를 효과적으로 테스트할 수 있게 도와줍니다.
 
@@ -221,7 +297,7 @@ public void testCustomQuery() {
 
 > Repository Layer는 데이터베이스와의 상호작용을 관리하는 중요한 계층입니다. Mockito를 활용하면 실제 데이터베이스와의 상호작용을 모킹하여, 다양한 시나리오와 예외 상황에 대해 효과적으로 테스트할 수 있습니다. 다음 섹션에서는 Controller Layer의 테스트 방법에 대해 알아보겠습니다.
 
-# 5.4. Controller Layer 테스트
+# 5.5. Controller Layer 테스트
 Controller Layer는 사용자의 요청을 받아 처리하고, 적절한 응답을 반환하는 계층입니다. 이 계층의 테스트는 사용자의 요청 처리와 관련된 로직, 예외 처리, 반환되는 응답의 형태 및 내용을 중점적으로 검증합니다. Mockito는 이 과정에서 Service Layer나 Repository Layer의 로직을 Mocking하여, Controller만의 독립된 테스트를 가능하게 해줍니다.
 
 ## Controller Layer의 테스트 목표
