@@ -1,8 +1,8 @@
 ---
-title: [Spring Boot + Mockito] 1. 서론
+title: [Spring Boot + Mockito] 1. 소개
 description: 
 published: true
-date: 2023-09-15T08:49:00.967Z
+date: 2023-09-15T08:51:04.105Z
 tags: java, mockito, springboot
 editor: markdown
 dateCreated: 2023-09-15T08:24:20.819Z
