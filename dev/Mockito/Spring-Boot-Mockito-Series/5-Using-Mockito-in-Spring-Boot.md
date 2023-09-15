@@ -1,8 +1,8 @@
 ---
-title: [Spring Boot + Mockito] 5. Spring Boot에서 Mockito 활용하기
+title: [Spring Boot + Mockito] 05. Spring Boot에서 Mockito 활용하기
 description: 
 published: true
-date: 2023-09-15T09:37:15.611Z
+date: 2023-09-15T10:14:01.107Z
 tags: java, mockito, springboot, test
 editor: markdown
 dateCreated: 2023-09-15T09:24:48.136Z
