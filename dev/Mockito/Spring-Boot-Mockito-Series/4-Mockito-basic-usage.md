@@ -1,8 +1,8 @@
 ---
-title: [Spring Boot + Mockito] 4. Mockito 기본 사용 방법
+title: [Spring Boot + Mockito] 04. Mockito 기본 사용 방법
 description: 
 published: true
-date: 2023-09-15T09:15:08.299Z
+date: 2023-09-15T10:13:43.316Z
 tags: java, mockito, springboot, test
 editor: markdown
 dateCreated: 2023-09-15T09:15:08.299Z
@@ -53,7 +53,7 @@ SampleService sampleService = Mockito.mock(SampleService.class, Mockito.RETURNS_
 
 Mock 객체의 행동을 정의하려면 `when()` 메서드와 함께 `thenReturn()`, `thenThrow()`, `thenAnswer()` 등의 메서드를 사용할 수 있습니다. 이에 대한 자세한 내용은 4.2. Stubbing 방법에서 다루겠습니다.
 
-Mock 객체는 단위 테스트에서 실제 객체의 동작을 대체하는 중요한 역할을 합니다. Mockito를 사용하면 Mock 객체를 쉽게 생성하고 관리할 수 있습니다. Spring Boot 환경에서는 Mockito와 함께 다양한 테스트 유틸리티를 활용하여 더욱 효과적인 테스트 코드를 작성할 수 있습니다.
+> Mock 객체는 단위 테스트에서 실제 객체의 동작을 대체하는 중요한 역할을 합니다. Mockito를 사용하면 Mock 객체를 쉽게 생성하고 관리할 수 있습니다. Spring Boot 환경에서는 Mockito와 함께 다양한 테스트 유틸리티를 활용하여 더욱 효과적인 테스트 코드를 작성할 수 있습니다.
 
 # 4.2. Stubbing 방법
 Stubbing이란 Mock 객체가 특정 메소드 호출에 대하여 원하는 동작 또는 결과를 반환하도록 설정하는 과정을 말합니다. Mockito에서는 `when()` 함수를 사용하여 Mock 객체의 메소드 호출을 Stub하게 됩니다.
@@ -153,7 +153,7 @@ public void realMethodStubbing() {
 }
 ```
 
-Mockito에서 Stubbing은 Mock 객체의 동작을 커스터마이징하는 핵심 기능 중 하나입니다. 다양한 Stubbing 방법을 이해하고 적절히 활용하면, 단위 테스트의 퀄리티와 유용성을 크게 높일 수 있습니다. 다음 섹션에서는 메소드 호출의 확인 방법에 대해 다룰 예정입니다.
+> Mockito에서 Stubbing은 Mock 객체의 동작을 커스터마이징하는 핵심 기능 중 하나입니다. 다양한 Stubbing 방법을 이해하고 적절히 활용하면, 단위 테스트의 퀄리티와 유용성을 크게 높일 수 있습니다. 다음 섹션에서는 메소드 호출의 확인 방법에 대해 다룰 예정입니다.
   
 # 4.3. 메소드 호출 확인하기
 메소드의 호출을 확인하는 것은 단위 테스트의 중요한 부분입니다. Mockito에서는 `verify()` 메소드를 사용하여 Mock 객체의 특정 메소드가 어떻게 호출되었는지를 검증할 수 있습니다.
@@ -252,7 +252,7 @@ public void verificationWithArgumentMatchers() {
 }
 ```
 
-Mockito에서 `verify()` 메소드는 Mock 객체의 메소드 호출 패턴과 횟수를 검증하는데 매우 유용합니다. 이를 통해 우리는 기대한 바와 다르게 메소드가 호출되었거나, 예상한 횟수만큼 호출되지 않았을 때 그것을 캐치하고 오류를 반환할 수 있습니다. 이러한 검증 과정은 코드의 안정성을 높이고, 코드가 예상대로 동작하는지 확신할 수 있게 도와줍니다. 다음 섹션에서는 Mockito에서 예외를 처리하는 방법에 대해 다룰 예정입니다.
+> Mockito에서 `verify()` 메소드는 Mock 객체의 메소드 호출 패턴과 횟수를 검증하는데 매우 유용합니다. 이를 통해 우리는 기대한 바와 다르게 메소드가 호출되었거나, 예상한 횟수만큼 호출되지 않았을 때 그것을 캐치하고 오류를 반환할 수 있습니다. 이러한 검증 과정은 코드의 안정성을 높이고, 코드가 예상대로 동작하는지 확신할 수 있게 도와줍니다. 다음 섹션에서는 Mockito에서 예외를 처리하는 방법에 대해 다룰 예정입니다.
   
 # 4.4. 예외 처리하기
 Mock 객체에서 예외를 발생시키는 것은 Mockito의 강력한 기능 중 하나입니다. 이를 통해, 예외 상황에서 시스템의 동작을 검증할 수 있습니다. Spring Boot 환경에서도 Mockito를 활용하여 예외 처리 테스트를 손쉽게 구성할 수 있습니다.
@@ -336,4 +336,4 @@ public void shouldPerformAdditionalActionsOnException() {
 }
 ```
 
-Mockito는 다양한 예외 처리 테스트를 지원합니다. 이 기능을 활용하면, 다양한 예외 상황에서의 애플리케이션 동작을 손쉽게 검증할 수 있습니다. 예외 처리는 애플리케이션의 안정성과 견고성을 높이는 중요한 요소이므로, Mockito를 통해 이러한 테스트를 충실히 수행하는 것이 중요합니다. 다음 섹션에서는 Spring Boot 환경에서 Mockito를 어떻게 활용하는지에 대해 자세히 알아보겠습니다. 
+> Mockito는 다양한 예외 처리 테스트를 지원합니다. 이 기능을 활용하면, 다양한 예외 상황에서의 애플리케이션 동작을 손쉽게 검증할 수 있습니다. 예외 처리는 애플리케이션의 안정성과 견고성을 높이는 중요한 요소이므로, Mockito를 통해 이러한 테스트를 충실히 수행하는 것이 중요합니다. 다음 섹션에서는 Spring Boot 환경에서 Mockito를 어떻게 활용하는지에 대해 자세히 알아보겠습니다. 
