@@ -1,8 +1,8 @@
 ---
-title: [Spring Boot + Mockito] 3. 환경 설정
+title: [Spring Boot + Mockito] 03. 환경 설정
 description: 
 published: true
-date: 2023-09-15T09:04:12.357Z
+date: 2023-09-15T10:12:58.901Z
 tags: java, mockito, springboot
 editor: markdown
 dateCreated: 2023-09-15T09:04:12.357Z
@@ -36,7 +36,6 @@ Maven을 사용하는 경우, `pom.xml` 파일에 아래의 의존성을 추가�
 > 주의: 3.X.X 부분은 Mockito의 최신 버전 번호로 교체해야 합니다. Maven Central Repository에서 최신 버전을 확인하실 수 있습니다.
 {.is-warning}
 
-
 ## 2. Gradle 의존성 추가
 
 Gradle을 사용하는 경우, `build.gradle` 파일에 아래의 의존성을 추가합니다.
@@ -51,7 +50,6 @@ testImplementation 'org.springframework.boot:spring-boot-starter-test'
 
 > 주의: 여기서도 3.X.X 부분은 Mockito의 최신 버전 번호로 교체해야 합니다.
 {.is-warning}
-
 
 Mockito는 Spring Boot 테스트 환경과 통합이 잘 되어 있습니다. 위의 의존성 추가만으로 Spring Boot에서 Mockito를 활용하여 유닛 테스트를 작성할 준비가 완료됩니다. 추가적인 설정 없이 바로 테스트 코드 작성을 시작할 수 있습니다.
 
@@ -121,9 +119,7 @@ public class MyServiceTest {
 
 이를 통해 불필요한 빈들의 로딩을 줄이고, 테스트 속도를 향상시킬 수 있습니다.
 
----
-
-Spring Boot의 테스트 환경 설정은 매우 유연하며, Mockito와의 통합도 쉽습니다. 본 섹션에서는 기본적인 설정 방법만을 소개하였으나, Spring Boot의 다양한 테스트 기능들을 활용하면 더욱 효율적이고 다양한 테스트 케이스를 작성할 수 있습니다.
+> Spring Boot의 테스트 환경 설정은 매우 유연하며, Mockito와의 통합도 쉽습니다. 본 섹션에서는 기본적인 설정 방법만을 소개하였으나, Spring Boot의 다양한 테스트 기능들을 활용하면 더욱 효율적이고 다양한 테스트 케이스를 작성할 수 있습니다.
 
 # 3.3. Mockito 초기 설정
 
