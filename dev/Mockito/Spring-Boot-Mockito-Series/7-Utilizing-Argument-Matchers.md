@@ -1,8 +1,8 @@
 ---
-title: [Spring Boot + Mockito] 7. Argument Matchers 활용
+title: [Spring Boot + Mockito] 07. Argument Matchers 활용
 description: 
 published: true
-date: 2023-09-15T09:46:47.857Z
+date: 2023-09-15T10:14:20.065Z
 tags: java, mockito, springboot, test
 editor: markdown
 dateCreated: 2023-09-15T09:46:47.857Z
