@@ -1,8 +1,8 @@
 ---
-title: [Spring Boot + Mockito] 9. BDD (Behavior Driven Development) 스타일로 Mockito 활용하기
+title: [Spring Boot + Mockito] 09. BDD (Behavior Driven Development) 스타일로 Mockito 활용하기
 description: 
 published: true
-date: 2023-09-15T10:03:47.333Z
+date: 2023-09-15T10:14:39.830Z
 tags: java, mockito, springboot, test
 editor: markdown
 dateCreated: 2023-09-15T10:03:47.333Z
