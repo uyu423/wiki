@@ -1,8 +1,8 @@
 ---
-title: [Spring Boot + Mockito] 1. 소개
+title: [Spring Boot + Mockito] 01. 소개
 description: 
 published: true
-date: 2023-09-15T08:51:04.105Z
+date: 2023-09-15T10:11:43.571Z
 tags: java, mockito, springboot
 editor: markdown
 dateCreated: 2023-09-15T08:24:20.819Z
@@ -52,8 +52,6 @@ Mockito의 사용은 Spring Boot 환경에서 특히 중요합니다. Spring Boo
 물론, Mockito만이 유일한 mocking 도구는 아닙니다. EasyMock, PowerMock 등과 같은 다른 프레임워크도 있습니다. 그러나 Mockito는 그 사용법의 간결성과 유연성 때문에 많은 개발자들에게 사랑받고 있습니다.
 
 이 Handbook에서는 Mockito의 기본적인 사용 방법뿐만 아니라 Spring Boot와의 통합 방법, 고급 기능, 그리고 자주 발생하는 문제점과 그 해결책에 대해 깊게 다룰 것입니다. 특히 Spring Boot 환경에서 Mockito를 사용한 테스트 코드 작성에 어려움을 겪는 개발자들을 위해, 단계별 실용적인 가이드와 팁을 제공합니다.
-
-결론적으로, Mockito는 Java 기반의 애플리케이션 테스트를 위한 필수 도구로, Spring Boot 환경에서의 테스트를 더욱 효과적이고 효율적으로 만들어 줍니다. 다음 장에서는 Mockito와 Spring Boot의 조합에 대해 더 깊게 알아보겠습니다.
 
 # 1.3 Spring Boot와 Mockito의 조합
 
