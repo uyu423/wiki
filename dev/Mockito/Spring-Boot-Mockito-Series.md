@@ -2,8 +2,8 @@
 title: Java Spring Boot + Mockito Handbook
 description: 
 published: true
-date: 2023-09-15T10:23:07.795Z
-tags: 
+date: 2023-09-15T10:26:44.261Z
+tags: java, mockito, springboot, test
 editor: markdown
 dateCreated: 2023-09-15T10:15:21.438Z
 ---
