@@ -1,8 +1,8 @@
 ---
-title: [Spring Boot + Mockito] 6. Mocking의 Best Practices
+title: [Spring Boot + Mockito] 06. Mocking의 Best Practices
 description: 
 published: true
-date: 2023-09-15T09:33:03.488Z
+date: 2023-09-15T10:14:11.491Z
 tags: java, mockito, springboot, test
 editor: markdown
 dateCreated: 2023-09-15T09:33:03.488Z
