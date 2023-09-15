@@ -1,8 +1,8 @@
 ---
-title: [Spring Boot + Mockito] 8. Mocking 외부 서비스와 인터페이스
+title: [Spring Boot + Mockito] 08. Mocking 외부 서비스와 인터페이스
 description: 
 published: true
-date: 2023-09-15T09:57:55.323Z
+date: 2023-09-15T10:14:30.106Z
 tags: java, mockito, springboot, test
 editor: markdown
 dateCreated: 2023-09-15T09:57:55.323Z
