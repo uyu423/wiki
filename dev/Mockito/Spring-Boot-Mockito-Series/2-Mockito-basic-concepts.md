@@ -1,8 +1,8 @@
 ---
-title: [Spring Boot + Mockito] 2. Mockito 기본 개념
+title: [Spring Boot + Mockito] 02. Mockito 기본 개념
 description: 
 published: true
-date: 2023-09-15T08:57:56.887Z
+date: 2023-09-15T10:12:15.354Z
 tags: java, mockito, springboot
 editor: markdown
 dateCreated: 2023-09-15T08:57:56.887Z
@@ -61,7 +61,7 @@ Mockito를 이해하고 효과적으로 활용하기 위해서는 기본 개념�
 
 - **Spring Boot에서의 활용**: 실제 DB 연동과 같은 일부 동작을 유지하면서, 특정 메서드만 Stubbing하여 테스트의 복잡성을 줄일 수 있습니다.
 
-Stubbing, Mocking, 그리고 Spying은 Mockito를 활용한 테스트 작성의 핵심이며, 각 기법은 테스트 케이스의 요구 사항과 복잡성에 따라 선택하게 됩니다. Spring Boot 환경에서는 이러한 기법들을 적절히 조합하여, 더욱 견고하고 효율적인 테스트 케이스를 작성할 수 있습니다.
+> Stubbing, Mocking, 그리고 Spying은 Mockito를 활용한 테스트 작성의 핵심이며, 각 기법은 테스트 케이스의 요구 사항과 복잡성에 따라 선택하게 됩니다. Spring Boot 환경에서는 이러한 기법들을 적절히 조합하여, 더욱 견고하고 효율적인 테스트 케이스를 작성할 수 있습니다.
 
 # 2.3. Mockito 핵심 API 소개
 Mockito는 풍부한 API 집합을 제공하여 다양한 상황에서의 테스트 구성을 지원합니다. 이 섹션에서는 Spring Boot 환경에서 Mockito를 활용할 때 자주 사용되는 핵심 API들에 대해 소개하겠습니다.
@@ -145,6 +145,6 @@ doNothing().when(sampleService).performTask();
 doThrow(new RuntimeException()).when(sampleService).performTask();
 ```
 
-Mockito의 핵심 API는 간결하면서도 강력합니다. 위의 API들을 익혀두면 대부분의 테스트 시나리오에서 원하는 행동을 Mock 객체에 적용할 수 있습니다. 그러나 Mockito의 기능은 이것보다 훨씬 더 다양하므로, 본 핸드북에서는 가장 자주 사용되는 핵심 기능들만 간략하게 소개하였습니다.
+> Mockito의 핵심 API는 간결하면서도 강력합니다. 위의 API들을 익혀두면 대부분의 테스트 시나리오에서 원하는 행동을 Mock 객체에 적용할 수 있습니다. 그러나 Mockito의 기능은 이것보다 훨씬 더 다양하므로, 본 핸드북에서는 가장 자주 사용되는 핵심 기능들만 간략하게 소개하였습니다.
 
 다음 섹션에서는 이러한 Mockito의 기본 기능들을 활용하여 실제로 Spring Boot 프로젝트에서 어떻게 테스트 코드를 작성하는지에 대해 살펴보겠습니다.
