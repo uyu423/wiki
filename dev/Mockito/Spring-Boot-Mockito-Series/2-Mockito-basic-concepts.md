@@ -2,7 +2,7 @@
 title: [Spring Boot + Mockito] 02. Mockito 기본 개념
 description: 
 published: true
-date: 2023-09-22T05:07:55.686Z
+date: 2023-09-22T05:10:05.030Z
 tags: java, mockito, springboot
 editor: markdown
 dateCreated: 2023-09-15T08:57:56.887Z
@@ -68,14 +68,14 @@ Mockito는 풍부한 API 집합을 제공하여 다양한 상황에서의 테스
 
 ## 1. Mock 객체 생성
 
-- `@Mock`: 클래스나 인터페이스의 Mock 객체를 생성합니다. 이렇게 하면 실제 객체의 구현 없이 테스트 환경에서 객체의 동작을 흉내낼 수 있습니다.
+- **@Mock**: 클래스나 인터페이스의 Mock 객체를 생성합니다. 이렇게 하면 실제 객체의 구현 없이 테스트 환경에서 객체의 동작을 흉내낼 수 있습니다.
 
 ```java
 @Mock
 private SampleService sampleService;
 ```
 
-- `mock(Class<T> classToMock)`: 주어진 클래스의 Mock 객체를 생성합니다. 이 메소드를 사용하면, 직접적으로 코드 내에서 Mock 객체를 생성할 수 있습니다.
+- **mock(Class\<T> classToMock)**: 주어진 클래스의 Mock 객체를 생성합니다. 이 메소드를 사용하면, 직접적으로 코드 내에서 Mock 객체를 생성할 수 있습니다.
 
 ```java
 SampleService sampleService = mock(SampleService.class);
@@ -83,13 +83,13 @@ SampleService sampleService = mock(SampleService.class);
 
 ## 2.Stubbing 메소드
 
-- when(...).thenReturn(...): Mock 메소드가 호출될 때 반환할 값을 지정합니다. 이를 통해 예상되는 결과를 정확히 설정할 수 있습니다.
+- **when(...).thenReturn(...)**: Mock 메소드가 호출될 때 반환할 값을 지정합니다. 이를 통해 예상되는 결과를 정확히 설정할 수 있습니다.
 
 ```java
 when(sampleService.getSample()).thenReturn("Hello Mockito!");
 ```
 
-- when(...).thenThrow(...): Mock 메소드가 호출될 때 예외를 발생시킵니다. 이를 사용하여 예외 상황을 테스트할 수 있습니다.
+- **when(...).thenThrow(...)**: Mock 메소드가 호출될 때 예외를 발생시킵니다. 이를 사용하여 예외 상황을 테스트할 수 있습니다.
 
 
 ```java
@@ -98,13 +98,13 @@ when(sampleService.getSample()).thenThrow(new RuntimeException());
 
 ## 3. 메소드 호출 검증
 
-- `verify(...)`: Mock 객체의 특정 메소드가 호출되었는지 검증합니다. 테스트 시나리오에서 예상된 호출이 실제로 발생했는지 확인할 때 유용합니다.
+- **verify(...)**: Mock 객체의 특정 메소드가 호출되었는지 검증합니다. 테스트 시나리오에서 예상된 호출이 실제로 발생했는지 확인할 때 유용합니다.
 
 ```java
 verify(sampleService).getSample();
 ```
 
-- `verify(..., times(N))`: 메소드가 N번 호출되었는지 검증합니다. 메소드 호출 횟수에 따른 다른 동작을 테스트하려 할 때 사용됩니다.
+- **verify(..., times(N))**: 메소드가 N번 호출되었는지 검증합니다. 메소드 호출 횟수에 따른 다른 동작을 테스트하려 할 때 사용됩니다.
 
 ```java
 verify(sampleService, times(2)).getSample();
@@ -112,14 +112,14 @@ verify(sampleService, times(2)).getSample();
 
 ## 4. Spying
 
-- `@Spy`: 실제 객체를 기반으로 Spy 객체를 생성합니다. Spy는 실제 객체의 일부 메소드만 오버라이드하여 동작을 변경할 때 유용합니다.
+- **@Spy**: 실제 객체를 기반으로 Spy 객체를 생성합니다. Spy는 실제 객체의 일부 메소드만 오버라이드하여 동작을 변경할 때 유용합니다.
 
 ```java
 @Spy
 private SampleService realSampleService = new SampleServiceImpl();
 ```
 
-- `spy(Object object)`: 주어진 객체를 기반으로 Spy 객체를 생성합니다. 이 메소드를 사용하면 코드 내에서 직접적으로 Spy 객체를 생성할 수 있습니다.
+- **spy(Object object)**: 주어진 객체를 기반으로 Spy 객체를 생성합니다. 이 메소드를 사용하면 코드 내에서 직접적으로 Spy 객체를 생성할 수 있습니다.
 
 ```java
 SampleService spyService = spy(new SampleServiceImpl());
@@ -127,13 +127,13 @@ SampleService spyService = spy(new SampleServiceImpl());
 
 ## 5. Argument Matchers
 
-- `any()`: 어떠한 값도 허용하는 Argument Matcher입니다. 특정 값을 기대하지 않는 경우에 유용합니다.
+- **any()**: 어떠한 값도 허용하는 Argument Matcher입니다. 특정 값을 기대하지 않는 경우에 유용합니다.
 
 ```java
 when(sampleService.getDetail(any())).thenReturn("Detail Info");
 ```
 
-- `eq(...)`: 특정 값과 동일한 Argument를 허용합니다. 명확한 값을 기대할 때 사용합니다.
+- **eq(...)**: 특정 값과 동일한 Argument를 허용합니다. 명확한 값을 기대할 때 사용합니다.
 
 ```java
 when(sampleService.getDetail(eq("Specific"))).thenReturn("Specific Detail Info");
