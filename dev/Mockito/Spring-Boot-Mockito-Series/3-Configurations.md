@@ -2,7 +2,7 @@
 title: [Spring Boot + Mockito] 03. 환경 설정
 description: 
 published: true
-date: 2023-09-15T10:12:58.901Z
+date: 2023-09-22T05:42:41.249Z
 tags: java, mockito, springboot
 editor: markdown
 dateCreated: 2023-09-15T09:04:12.357Z
@@ -117,7 +117,23 @@ public class MyServiceTest {
 }
 ```
 
-이를 통해 불필요한 빈들의 로딩을 줄이고, 테스트 속도를 향상시킬 수 있습니다.
+
+> 아래는 Spring Boot에서 자주 사용되는 테스트 슬라이스의 종류입니다:
+> 
+> - **@WebMvcTest**: 웹 레이어와 관련된 부분만을 테스트합니다. Controller 및 RestController가 대상입니다. Service, Repository는 포함되지 않습니다.
+> - **@DataJpaTest**: JPA와 관련된 테스트를 위한 설정만 로드합니다. 주로 Repository 레이어의 테스트에 사용됩니다.
+> - **@JdbcTest**: JDBC에 대한 테스트를 위한 설정만 로드합니다.
+> - **@DataMongoTest**: MongoDB와 관련된 테스트를 위한 설정만 로드합니다.
+> - **@WebFluxTest**: Reactive 웹 애플리케이션의 컨트롤러를 테스트합니다.
+> - **@RestClientTest**: REST 클라이언트(RestTemplate 및 WebClient)를 테스트합니다.
+> - **@JsonTest**: JSON 직렬화 및 역직렬화를 테스트합니다. 주로 Jackson 또는 Gson과 같은 라이브러리에 대한 테스트에 사용됩니다.
+> - **@DataLdapTest**: LDAP와 관련된 테스트를 위한 설정만 로드합니다.
+> - **@DataRedisTest**: Redis와 관련된 테스트를 위한 설정만 로드합니다.
+> - **@JooqTest**: JOOQ와 관련된 테스트를 위한 설정만 로드합니다.
+> 
+> 이를 통해 불필요한 빈들의 로딩을 줄이고, 테스트 속도를 향상시킬 수 있습니다.
+{.is-info}
+
 
 > Spring Boot의 테스트 환경 설정은 매우 유연하며, Mockito와의 통합도 쉽습니다. 본 섹션에서는 기본적인 설정 방법만을 소개하였으나, Spring Boot의 다양한 테스트 기능들을 활용하면 더욱 효율적이고 다양한 테스트 케이스를 작성할 수 있습니다.
 
@@ -192,3 +208,7 @@ public class MyServiceTest {
 ```
 
 Mockito의 초기 설정은 비교적 간단하지만, 프로젝트의 요구 사항과 개발 스타일에 따라 다양한 설정 옵션을 제공합니다. 위에서 소개한 설정은 Mockito를 Spring Boot와 효과적으로 통합하는 데 필요한 기본적인 절차를 담고 있습니다. 앞으로의 핸드북에서는 이러한 설정을 바탕으로 Mockito의 다양한 기능과 활용 방법을 소개하겠습니다.
+
+- [[Spring Boot + Mockito] 04. Mockito 기본 사용 방법
+](/ko/dev/Mockito/Spring-Boot-Mockito-Series/4-Mockito-basic-usage)
+{.links-list}
