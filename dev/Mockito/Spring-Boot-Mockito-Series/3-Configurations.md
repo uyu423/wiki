@@ -2,7 +2,7 @@
 title: [Spring Boot + Mockito] 03. 환경 설정
 description: 
 published: true
-date: 2023-09-22T05:42:41.249Z
+date: 2023-09-22T05:47:34.619Z
 tags: java, mockito, springboot
 editor: markdown
 dateCreated: 2023-09-15T09:04:12.357Z
@@ -165,6 +165,32 @@ public class MyServiceTest {
 
 `@InjectMocks` 애너테이션은 mock 객체와 함께 사용되는 실제 객체에 mock 객체를 주입하는 데 사용됩니다.
 
+> **Q. @InjectMocks 과 @Mock 은 무슨 차이가 있습니까?**
+> 
+> `@InjectMocks`와 `@Mock`은 Mockito에서 제공하는 애너테이션으로, 객체 모킹과 관련된 두 가지 주요 기능을 수행합니다. 그렇지만 각각의 목적과 사용 방법은 다릅니다.
+> 
+> **@Mock**
+> 
+> `@Mock` 애너테이션은 특정 클래스나 인터페이스의 Mock 객체를 생성합니다.
+> Mock 객체는 실제 객체의 동작을 수행하지 않지만, 해당 객체가 어떻게 사용되는지를 확인하고 그에 따른 결과나 동작을 시뮬레이션할 수 있습니다.
+> 
+> ```java
+> @Mock
+> private SampleRepository sampleRepository;
+> ```
+> 위 예제에서 `SampleRepository`의 Mock 객체가 생성되며, 이를 통해 해당 Repository의 메서드 호출을 모킹하거나 검증할 수 있습니다.
+> 
+> **@InjectMocks**
+> 
+> `@InjectMocks` 애너테이션은 주입해야 할 실제 객체의 인스턴스를 생성하며, 이 객체에 `@Mock` (또는 `@Spy`)로 생성된 객체를 자동으로 주입(inject)합니다.
+> 주로 테스트하려는 서비스 또는 컨트롤러와 같은 클래스에 사용되며, 해당 클래스가 의존하는 다른 객체들을 Mock으로 주입받을 필요가 있을 때 사용합니다.
+> 
+> ```java
+> @InjectMocks
+> private SampleService sampleService;
+> ```
+> 위 예제에서 `SampleService`의 실제 인스턴스가 생성되고, 해당 서비스가 의존하는 모든 Mock 객체 (`@Mock`로 표시된 객체들)가 자동으로 주입됩니다.
+
 ## Mockito 설정 (MockitoSettings)
 
 Mockito의 동작 방식을 더 세밀하게 제어하려면 `@MockitoSettings` 애너테이션을 사용할 수 있습니다. 예를 들어, strict stubbing 모드를 활성화하려면 다음과 같이 설정할 수 있습니다.
@@ -178,6 +204,7 @@ public class MyServiceTest {
 ```
 
 strict stubbing 모드는 불필요한 stubbing을 감지하고 이에 대해 경고 메시지를 출력하도록 도와줍니다.
+
 
 ## BDD 스타일 초기 설정
 
