@@ -2,7 +2,7 @@
 title: [Spring Boot + Mockito] 02. Mockito 기본 개념
 description: 
 published: true
-date: 2023-09-15T10:12:15.354Z
+date: 2023-09-22T05:07:55.686Z
 tags: java, mockito, springboot
 editor: markdown
 dateCreated: 2023-09-15T08:57:56.887Z
@@ -68,13 +68,14 @@ Mockito는 풍부한 API 집합을 제공하여 다양한 상황에서의 테스
 
 ## 1. Mock 객체 생성
 
-- `@Mock`: 클래스나 인터페이스의 Mock 객체를 생성합니다.
+- `@Mock`: 클래스나 인터페이스의 Mock 객체를 생성합니다. 이렇게 하면 실제 객체의 구현 없이 테스트 환경에서 객체의 동작을 흉내낼 수 있습니다.
 
 ```java
 @Mock
 private SampleService sampleService;
-mock(Class<T> classToMock): 주어진 클래스의 Mock 객체를 생성합니다.
 ```
+
+- `mock(Class<T> classToMock)`: 주어진 클래스의 Mock 객체를 생성합니다. 이 메소드를 사용하면, 직접적으로 코드 내에서 Mock 객체를 생성할 수 있습니다.
 
 ```java
 SampleService sampleService = mock(SampleService.class);
@@ -82,13 +83,14 @@ SampleService sampleService = mock(SampleService.class);
 
 ## 2.Stubbing 메소드
 
-- when(...).thenReturn(...): Mock 메소드가 호출될 때 반환할 값을 지정합니다.
+- when(...).thenReturn(...): Mock 메소드가 호출될 때 반환할 값을 지정합니다. 이를 통해 예상되는 결과를 정확히 설정할 수 있습니다.
 
 ```java
 when(sampleService.getSample()).thenReturn("Hello Mockito!");
 ```
 
-- when(...).thenThrow(...): Mock 메소드가 호출될 때 예외를 발생시킵니다.
+- when(...).thenThrow(...): Mock 메소드가 호출될 때 예외를 발생시킵니다. 이를 사용하여 예외 상황을 테스트할 수 있습니다.
+
 
 ```java
 when(sampleService.getSample()).thenThrow(new RuntimeException());
@@ -96,12 +98,13 @@ when(sampleService.getSample()).thenThrow(new RuntimeException());
 
 ## 3. 메소드 호출 검증
 
-- verify(...): Mock 객체의 특정 메소드가 호출되었는지 검증합니다.
+- `verify(...)`: Mock 객체의 특정 메소드가 호출되었는지 검증합니다. 테스트 시나리오에서 예상된 호출이 실제로 발생했는지 확인할 때 유용합니다.
 
 ```java
 verify(sampleService).getSample();
-verify(..., times(N)): 메소드가 N번 호출되었는지 검증합니다.
 ```
+
+- `verify(..., times(N))`: 메소드가 N번 호출되었는지 검증합니다. 메소드 호출 횟수에 따른 다른 동작을 테스트하려 할 때 사용됩니다.
 
 ```java
 verify(sampleService, times(2)).getSample();
@@ -109,14 +112,14 @@ verify(sampleService, times(2)).getSample();
 
 ## 4. Spying
 
-- `@Spy`: 실제 객체를 기반으로 Spy 객체를 생성합니다.
+- `@Spy`: 실제 객체를 기반으로 Spy 객체를 생성합니다. Spy는 실제 객체의 일부 메소드만 오버라이드하여 동작을 변경할 때 유용합니다.
 
 ```java
 @Spy
 private SampleService realSampleService = new SampleServiceImpl();
 ```
 
-- spy(Object object): 주어진 객체를 기반으로 Spy 객체를 생성합니다.
+- `spy(Object object)`: 주어진 객체를 기반으로 Spy 객체를 생성합니다. 이 메소드를 사용하면 코드 내에서 직접적으로 Spy 객체를 생성할 수 있습니다.
 
 ```java
 SampleService spyService = spy(new SampleServiceImpl());
@@ -124,21 +127,29 @@ SampleService spyService = spy(new SampleServiceImpl());
 
 ## 5. Argument Matchers
 
-- `any()`: 어떠한 값도 허용하는 Argument Matcher입니다.
+- `any()`: 어떠한 값도 허용하는 Argument Matcher입니다. 특정 값을 기대하지 않는 경우에 유용합니다.
 
 ```java
 when(sampleService.getDetail(any())).thenReturn("Detail Info");
 ```
 
-- eq(...): 특정 값과 동일한 Argument를 허용합니다.
+- `eq(...)`: 특정 값과 동일한 Argument를 허용합니다. 명확한 값을 기대할 때 사용합니다.
 
 ```java
 when(sampleService.getDetail(eq("Specific"))).thenReturn("Specific Detail Info");
 ```
 
+> Argument Matchers는 Mockito에서 메소드 호출의 인자값을 검증하거나 스텁(stub) 설정 시 사용하는 도구입니다. 실제 값 대신 사용하여 특정 조건에 맞는 값이 인자로 전달되었는지를 검증하거나, 특정 조건에 맞는 인자에 대한 동작을 설정할 수 있습니다.
+{.is-info}
+
+
+> Argument Matchers를 사용할 때는 모든 인자에 대해 Matcher를 사용해야 합니다. 일부 인자만 사용하면 오류가 발생할 수 있습니다.
+{.is-warning}
+
+
 ## 6. Mocking Void 메소드
 
-- `doNothing()`, `doThrow(...)`, `doAnswer(...)`: void 메소드를 Stubbing할 때 사용합니다.
+- `doNothing()`, `doThrow(...)`, `doAnswer(...)`: void 메소드를 Stubbing할 때 사용합니다. void 메소드의 경우 반환 값이 없으므로 이러한 메소드들을 활용하여 동작을 변경할 수 있습니다.
 
 ```java
 doNothing().when(sampleService).performTask();
@@ -148,3 +159,7 @@ doThrow(new RuntimeException()).when(sampleService).performTask();
 > Mockito의 핵심 API는 간결하면서도 강력합니다. 위의 API들을 익혀두면 대부분의 테스트 시나리오에서 원하는 행동을 Mock 객체에 적용할 수 있습니다. 그러나 Mockito의 기능은 이것보다 훨씬 더 다양하므로, 본 핸드북에서는 가장 자주 사용되는 핵심 기능들만 간략하게 소개하였습니다.
 
 다음 섹션에서는 이러한 Mockito의 기본 기능들을 활용하여 실제로 Spring Boot 프로젝트에서 어떻게 테스트 코드를 작성하는지에 대해 살펴보겠습니다.
+
+- [[Spring Boot + Mockito] 03. 환경 설정
+](/ko/dev/Mockito/Spring-Boot-Mockito-Series/3-Configurations)
+{.links-list}
