@@ -2,7 +2,7 @@
 title: [Spring Boot + Mockito] 01. 소개
 description: 
 published: true
-date: 2023-09-15T10:21:22.236Z
+date: 2023-09-22T04:57:17.300Z
 tags: java, mockito, springboot
 editor: markdown
 dateCreated: 2023-09-15T08:24:20.819Z
@@ -80,3 +80,6 @@ Spring Boot는 현대의 마이크로서비스 아키텍처에서 가장 인기 
 Spring Boot와 Mockito의 조합은 현대 Java 애플리케이션 개발에서 놀라운 생산성과 효율성을 제공합니다. 이 조합을 통해 개발자는 코드의 품질을 향상시키면서도 빠른 피드백 주기를 유지할 수 있습니다.
 
 다음 장에서는 Mockito의 기본 개념과 함께 주요 API와 기능에 대해 자세히 알아보겠습니다. 이를 통해 Spring Boot 환경에서 테스트 코드 작성의 복잡성을 크게 줄일 수 있을 것입니다.
+
+- [[Spring Boot + Mockito] 02. Mockito 기본 개념](/ko/dev/Mockito/Spring-Boot-Mockito-Series/2-Mockito-basic-concepts)
+{.links-list}
