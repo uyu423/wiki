@@ -2,7 +2,7 @@
 title: ffmpeg (내가) 자주 사용하는 명령어 모음집
 description: 
 published: true
-date: 2023-08-21T07:22:51.058Z
+date: 2023-10-04T14:15:23.078Z
 tags: ffmpeg, tips
 editor: markdown
 dateCreated: 2023-07-07T08:37:55.719Z
@@ -58,6 +58,17 @@ ffmpeg -ss 889 \
 - `ss`: 시작점 (seconds)
 - `-t`: 추출 길이 (seconds)
 - `-c copy`: 비디오/오디오 코덱 유지
+
+## 동영상 회전
+
+```bash
+ffmpeg -i input.mp4 \
+-vf "transpose=1" \
+-c:a copy \
+output.mp4
+```
+
+- `-vf "transpose=1"`은 값 `1`과 함께 transpose 필터를 적용하여 동영상을 시계 방향으로 90도 회전합니다. 180도 회전을 위해서는 `2`, 270도 회전을 위해서는 `3`을 사용할 수 있으며, 원래 방향을 유지하려면 `0`을 사용할 수 있습니다.
 
 ## 가로 동영상을 세로로 변경하고, 여백을 검은색으로 채움
 
