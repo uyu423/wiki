@@ -2,7 +2,7 @@
 title: Java Spring Boot + Mockito Handbook
 description: 
 published: true
-date: 2023-09-15T10:26:44.261Z
+date: 2023-10-06T07:18:39.116Z
 tags: java, mockito, springboot, test
 editor: markdown
 dateCreated: 2023-09-15T10:15:21.438Z
@@ -20,4 +20,5 @@ dateCreated: 2023-09-15T10:15:21.438Z
 - [08. Mocking 외부 서비스와 인터페이스](/ko/dev/Mockito/Spring-Boot-Mockito-Series/8-Mocking-external-services-and-interfaces)
 - [09. BDD (Behavior Driven Development) 스타일로 Mockito 활용하기](/ko/dev/Mockito/Spring-Boot-Mockito-Series/9-Using-Mockito-in-BDD-style)
 - [10. 자주 만나는 문제점 및 해결 방안](/ko/dev/Mockito/Spring-Boot-Mockito-Series/10-Frequently-encountered-problems-and-solutions)
+- [11. 부록 (TextureMonkey)](/ko/dev/Mockito/Spring-Boot-Mockito-Series/11-appendix)
 {.links-list}
