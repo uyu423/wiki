@@ -2,7 +2,7 @@
 title: jenv (Java 버전 관리 도구)
 description: 여러 버전의 Java를 관리하고 프로젝트별로 Java 환경을 설정할 수 있는 Java 버전 관리 도구
 published: true
-date: 2023-10-06T07:02:41.996Z
+date: 2023-10-06T07:03:04.830Z
 tags: java, jenv
 editor: markdown
 dateCreated: 2023-10-06T07:02:41.996Z
@@ -27,7 +27,7 @@ brew install jenv
 
 - TBU
 
-## 
+## Windows
 
 - TBU
 
