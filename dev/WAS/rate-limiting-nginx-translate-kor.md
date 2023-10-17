@@ -2,7 +2,7 @@
 title: NGINX Rate Limiting (번역)
 description: 
 published: true
-date: 2023-10-17T09:07:50.515Z
+date: 2023-10-17T09:16:20.748Z
 tags: nginx
 editor: markdown
 dateCreated: 2023-10-17T08:56:03.676Z
@@ -65,6 +65,21 @@ server {
 ## Key
 
 제한이 적용되는 요청 특성을 정의합니다. 예시에서는 클라이언트 IP 주소의 이진 표현을 갖는 NGINX 변수 `$binary_remote_addr`을 사용하였습니다. 이는 우리가 각 고유 IP 주소에 대해 세 번째 매개변수에 의해 정의된 요청 속도로 제한한다는 것을 의미합니다. (이 변수는 클라이언트 IP 주소의 문자열 표현인 `$remote_addr`보다 공간을 적게 차지하기 때문에 사용됩니다).
+
+> **limit_req_zone 에서 사용 가능한 Key 변수**
+> 
+> - `$binary_remote_addr`: 클라이언트의 IP 주소를 바이너리 형태로 표현한 값입니다.
+> - `$remote_addr`: 클라이언트의 IP 주소를 텍스트 형태로 표현한 값입니다.
+> - `$http_user_agent`: 클라이언트의 User-Agent 헤더를 나타냅니다.
+> - `$http_referer`: 클라이언트의 Referer 헤더를 나타냅니다.
+> - `$server_addr`: 현재 서버의 IP 주소를 나타냅니다.
+> - `$uri`: 요청된 URI를 나타냅니다.
+> - `$request_uri`: 클라이언트가 실제로 보낸 요청 URI를 나타냅니다.
+> - `$args`: 요청의 쿼리 스트링을 나타냅니다.
+> - `$query_string`: $args와 같은 역할을 합니다.
+> - `$request_method`: 클라이언트의 요청 메서드를 나타냅니다.
+> - `$server_name`: 현재 서버의 이름을 나타냅니다.
+> - `$host`: 클라이언트의 요청 헤더의 Host 값을 나타냅니다.
 
 ## Zone
 각 IP 주소의 상태와 Rate Limiting URL에 얼마나 자주 액세스 되었는지를 저장하는 공유 메모리 영역을 정의합니다. 공유 메모리에서 정보를 유지하면 NGINX 작업 프로세스 간에 정보를 공유할 수 있습니다. 정의는 두 부분으로 이루어집니다: zone= 키워드로 식별되는 영역 이름과 콜론 뒤의 크기. 대략 16,000개의 IP 주소에 대한 상태 정보는 1메가바이트를 차지하므로, 우리의 영역은 대략 160,000개의 주소를 저장할 수 있습니다.
