@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2023-10-06T07:05:05.366Z
+date: 2023-10-17T08:57:42.160Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -146,6 +146,7 @@ dateCreated: 2022-11-24T03:26:46.738Z
 - [Configuring-nginx-VirtualHost-and-Proxy](/dev/WAS/Configuring-nginx-VirtualHost-and-Proxy)
 - [setting-certbot-ssl-on-apache2-nginx](/dev/WAS/setting-certbot-ssl-on-apache2-nginx)
 - [From-generating-a-private-key-to-applying-ssl-to-nginx](/dev/WAS/From-generating-a-private-key-to-applying-ssl-to-nginx)
+- [rate-limiting-nginx-translate-kor](/ko/dev/WAS/rate-limiting-nginx-translate-kor)
 
 ### Wiki.js
 - [Using-AWS-S3-Save-Storage-for-Wiki](/dev/Wiki-js/Using-AWS-S3-Save-Storage-for-Wiki)
