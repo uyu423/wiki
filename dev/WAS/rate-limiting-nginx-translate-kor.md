@@ -2,7 +2,7 @@
 title: NGINX Rate Limiting (번역)
 description: 
 published: true
-date: 2023-10-17T09:06:32.193Z
+date: 2023-10-17T09:07:50.515Z
 tags: nginx
 editor: markdown
 dateCreated: 2023-10-17T08:56:03.676Z
@@ -11,13 +11,13 @@ dateCreated: 2023-10-17T08:56:03.676Z
 > - 원문 포스트는 [Rate Limiting with NGINX and NGINX Plus](https://www.nginx.com/blog/rate-limiting-nginx/) 입니다.
 > - 해당 포스트는 원문을 번역했으며, 개인 적인 추가 주석이 첨부되어 있습니다.
 
-가장 유용하지만 종종 오해되거나 잘못 설정되는 NGINX의 기능 중 하나는 속도 제한(Rate Limiting)입니다. 이 기능을 사용하면 사용자가 주어진 기간 동안 수행할 수 있는 HTTP 요청의 양을 제한할 수 있습니다. 요청은 웹사이트 홈페이지에 대한 GET 요청이나 로그인 양식에 대한 POST 요청과 같이 간단할 수 있습니다.
+가장 유용하지만 종종 오해되거나 잘못 설정되는 NGINX의 기능 중 하나는 요청 제한(Rate Limiting)입니다. 이 기능을 사용하면 사용자가 주어진 기간 동안 수행할 수 있는 HTTP 요청의 양을 제한할 수 있습니다. 요청은 웹사이트 홈페이지에 대한 GET 요청이나 로그인 양식에 대한 POST 요청과 같이 간단할 수 있습니다.
 
-속도 제한은 무차별 암호 대입 공격 속도를 늦추는 등 보안 목적으로 사용할 수 있습니다. 들어오는 요청 속도를 실제 사용자에게 일반적인 값으로 제한하여 [DDoS 공격으로부터 보호](https://www.nginx.com/blog/mitigating-ddos-attacks-with-nginx-and-nginx-plus/)하고 (로깅을 통해) 표적 URL을 식별하는 데 도움이 될 수 있습니다. 보다 일반적으로는 동시에 너무 많은 사용자 요청으로 인해 업스트림 애플리케이션 서버가 과부하되지 않도록 보호하는 데 사용됩니다.
+Rate Limiting은 무차별 암호 대입 공격 속도를 늦추는 등 보안 목적으로 사용할 수 있습니다. 들어오는 요청 속도를 실제 사용자에게 일반적인 값으로 제한하여 [DDoS 공격으로부터 보호](https://www.nginx.com/blog/mitigating-ddos-attacks-with-nginx-and-nginx-plus/)하고 (로깅을 통해) 표적 URL을 식별하는 데 도움이 될 수 있습니다. 보다 일반적으로는 동시에 너무 많은 사용자 요청으로 인해 업스트림 애플리케이션 서버가 과부하되지 않도록 보호하는 데 사용됩니다.
 
-이 블로그에서는 NGINX를 사용한 전송률 제한의 기본 사항과 고급 구성에 대해 다룹니다. 속도 제한은 NGINX Plus에서도 동일한 방식으로 작동합니다.
+이 블로그에서는 NGINX를 사용한 전송률 제한의 기본 사항과 고급 구성에 대해 다룹니다. Rate Limiting는 NGINX Plus에서도 동일한 방식으로 작동합니다.
 
-NGINX Plus R16 이상은 "글로벌 속도 제한(global rate limiting)"을 지원합니다. 즉, 클러스터의 NGINX Plus 인스턴스는 요청이 클러스터의 어느 인스턴스에 도착하는지에 관계없이 들어오는 요청에 일관된 속도 제한을 적용합니다. (클러스터의 상태 공유는 다른 NGINX Plus 기능에도 사용할 수 있습니다.) 자세한 내용은 [블로그](https://www.nginx.com/blog/nginx-plus-r16-released/#r16-cluster-rate-limiting)와 [NGINX Plus 관리자 가이드](https://docs.nginx.com/nginx/admin-guide/high-availability/zone_sync/)를 참조하세요.
+NGINX Plus R16 이상은 "글로벌 요청 제한(global rate limiting)"을 지원합니다. 즉, 클러스터의 NGINX Plus 인스턴스는 요청이 클러스터의 어느 인스턴스에 도착하는지에 관계없이 들어오는 요청에 일관된 Rate Limiting을 적용합니다. (클러스터의 상태 공유는 다른 NGINX Plus 기능에도 사용할 수 있습니다.) 자세한 내용은 [블로그](https://www.nginx.com/blog/nginx-plus-r16-released/#r16-cluster-rate-limiting)와 [NGINX Plus 관리자 가이드](https://docs.nginx.com/nginx/admin-guide/high-availability/zone_sync/)를 참조하세요.
 
 # NGINX의 Rate Limiting 방식
 
