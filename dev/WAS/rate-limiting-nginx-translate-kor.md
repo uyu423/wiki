@@ -2,7 +2,7 @@
 title: NGINX Rate Limiting (번역)
 description: 
 published: true
-date: 2023-10-17T08:56:03.676Z
+date: 2023-10-17T08:56:49.512Z
 tags: nginx
 editor: markdown
 dateCreated: 2023-10-17T08:56:03.676Z
@@ -14,6 +14,8 @@ dateCreated: 2023-10-17T08:56:03.676Z
 # NGINX의 요청 제한 방식
 
 NGINX의 rate limiting은 전기통신과 패킷 스위치 컴퓨터 네트워크에서 대역폭이 제한될 때 발생하는 버스트성을 처리하기 위해 널리 사용되는 Leaky Bucket 알고리즘을 사용합니다. 이것은 물이 위에서 부어지고 아래쪽에서 누출되는 양동이에 비유됩니다; 물이 부어지는 속도가 누출되는 속도를 초과하면 양동이는 넘쳐 흐릅니다. 요청 처리 측면에서 봤을 때, 물은 클라이언트로부터의 요청을 나타내고, 양동이는 요청이 선입선출 (FIFO) 스케줄링 알고리즘에 따라 처리를 기다리는 대기열을 나타냅니다. 누출되는 물은 서버에 의해 처리를 위해 버퍼에서 나가는 요청을 나타내며, 넘치는 것은 버려지고 서비스되지 않는 요청을 나타냅니다.
+
+![leaky-bucket-featured-image-300x180.jpg](/leaky-bucket-featured-image-300x180.jpg){.align-center}
 
 > **Leaky Bucket 알고리즘**
 > 
@@ -129,7 +131,7 @@ server {
 
 ## rate=5r/s, burst=12, delay=8 설정으로 인한 Rate Limit 동작 예시
 
-![two-stage-rate-limiting-example.png](/two-stage-rate-limiting-example.png)
+![two-stage-rate-limiting-example.png](/two-stage-rate-limiting-example.png){.align-center}
 
 첫 8개의 요청(delay의 값)은 NGINX Plus에서 지연 없이 프록시됩니다. 다음 4개의 요청(`burst` - `delay`)은 정의된 5r/s 을 초과하지 않도록 지연됩니다. 다음 3개의 요청은 총 burst 크기가 초과되었기 때문에 거절됩니다. 이후의 요청들은 지연됩니다.
 
