@@ -2,14 +2,22 @@
 title: NGINX Rate Limiting (번역)
 description: 
 published: true
-date: 2023-10-17T08:56:49.512Z
+date: 2023-10-17T09:05:08.922Z
 tags: nginx
 editor: markdown
 dateCreated: 2023-10-17T08:56:03.676Z
 ---
 
 > - 원문 포스트는 [Rate Limiting with NGINX and NGINX Plus](https://www.nginx.com/blog/rate-limiting-nginx/) 입니다.
-> - 해당 포스트는 원문을 번역했으며, 추가 주석을 첨부합니다.
+> - 해당 포스트는 원문을 번역했으며, 개인 적인 추가 주석이 첨부되어 있습니다.
+
+가장 유용하지만 종종 오해되거나 잘못 설정되는 NGINX의 기능 중 하나는 속도 제한(Rate Limiting)입니다. 이 기능을 사용하면 사용자가 주어진 기간 동안 수행할 수 있는 HTTP 요청의 양을 제한할 수 있습니다. 요청은 웹사이트 홈페이지에 대한 GET 요청이나 로그인 양식에 대한 POST 요청과 같이 간단할 수 있습니다.
+
+속도 제한은 무차별 암호 대입 공격 속도를 늦추는 등 보안 목적으로 사용할 수 있습니다. 들어오는 요청 속도를 실제 사용자에게 일반적인 값으로 제한하여 [DDoS 공격으로부터 보호](https://www.nginx.com/blog/mitigating-ddos-attacks-with-nginx-and-nginx-plus/)하고 (로깅을 통해) 표적 URL을 식별하는 데 도움이 될 수 있습니다. 보다 일반적으로는 동시에 너무 많은 사용자 요청으로 인해 업스트림 애플리케이션 서버가 과부하되지 않도록 보호하는 데 사용됩니다.
+
+이 블로그에서는 NGINX를 사용한 전송률 제한의 기본 사항과 고급 구성에 대해 다룹니다. 속도 제한은 NGINX Plus에서도 동일한 방식으로 작동합니다.
+
+NGINX Plus R16 이상은 "글로벌 속도 제한(global rate limiting)"을 지원합니다. 즉, 클러스터의 NGINX Plus 인스턴스는 요청이 클러스터의 어느 인스턴스에 도착하는지에 관계없이 들어오는 요청에 일관된 속도 제한을 적용합니다. (클러스터의 상태 공유는 다른 NGINX Plus 기능에도 사용할 수 있습니다.) 자세한 내용은 [블로그](https://www.nginx.com/blog/nginx-plus-r16-released/#r16-cluster-rate-limiting)와 [NGINX Plus 관리자 가이드](https://docs.nginx.com/nginx/admin-guide/high-availability/zone_sync/)를 참조하세요.
 
 # NGINX의 요청 제한 방식
 
@@ -73,6 +81,10 @@ server {
 
 따라서 이제 각 고유 IP 주소는 `/login/`에 대해 초당 10회의 요청으로 제한되며 – 더 정확하게는 이전 요청 후 100ms 이내에 해당 URL에 대한 요청을 만들 수 없습니다
 
+- [limit_req_zone*nginx.org*](http://nginx.org/en/docs/http/ngx_http_limit_req_module.html#limit_req_zone)
+{.links-list}
+- [limit_req*nginx.org*](http://nginx.org/en/docs/http/ngx_http_limit_req_module.html#limit_req)
+
 # 대량의 요청 처리하기
 
 100ms 내에 2개의 요청이 도착하면 어떻게 될까요? 두 번째 요청에 대해서 NGINX는 클라이언트에게 503 상태 코드를 반환합니다. 이것은 우리가 원하는 결과가 아닐 것입니다. 왜냐하면 애플리케이션은 자연스럽게 요청이 대량으로 집중될 수 있기 때문입니다. 대신 우리는 초과된 요청을 버퍼에 저장하고 적절한 시간 안에 처리하길 원합니다. 이런 상황에서 `burst` 매개변수를 `limit_req`에 사용합니다. 아래의 업데이트된 설정에서 확인할 수 있습니다:
@@ -129,6 +141,10 @@ server {
 
 `delay` 매개변수는 지정된 Rate Limit을 준수하기 위해, 허용된 burst 크기 내에서 언제 과도한 요청이 제한(지연)되는지를 정의합니다. 이 설정을 사용하면, 초당 8회의 요청을 지속적으로 수행하는 클라이언트는 다음과 같은 동작을 경험하게 됩니다.
 
+- [delay*nginx.org*](https://nginx.org/en/docs/http/ngx_http_limit_req_module.html#limit_req_delay)
+{.links-list}
+
+
 ## rate=5r/s, burst=12, delay=8 설정으로 인한 Rate Limit 동작 예시
 
 ![two-stage-rate-limiting-example.png](/two-stage-rate-limiting-example.png){.align-center}
@@ -173,6 +189,10 @@ server {
 따라서, 허용된 IP 주소는 빈 문자열로, 그 외의 IP 주소는 클라이언트의 IP 주소로 `$limit_key`가 설정됩니다. `limit_req_zone` 디렉토리의 첫 번째 매개변수(키)가 빈 문자열인 경우, 제한이 적용되지 않으므로 허용 목록에 있는 IP 주소(10.0.0.0/8 및 192.168.0.0/24 서브넷)는 제한되지 않습니다. 다른 모든 IP 주소는 초당 5회의 요청으로 제한됩니다.
 
 `limit_req` 지시어는 / 위치에 제한을 적용하고, 설정된 제한을 초과하여 최대 10개의 패킷을 허용하며 전달 시 지연이 발생하지 않습니다.
+
+- [geo*nginx.org*](http://nginx.org/en/docs/http/ngx_http_geo_module.html#geo)
+- [map*nginx.org*](http://nginx.org/en/docs/http/ngx_http_map_module.html#map)
+{.links-list}
 
 ## 위치(Location)에서 여러 limit_req 지시어 포함하기
 
@@ -235,6 +255,9 @@ location /login/ {
 }
 ```
 
+- [limit_req_log_level*nginx.org*](http://nginx.org/en/docs/http/ngx_http_limit_req_module.html#limit_req_log_level)
+{.links-list}
+
 ## 클라이언트에게 전송되는 오류 코드
 
 기본적으로 클라이언트가 Rate Limit을 초과할 때 NGINX는 상태 코드 503(Service Temporarily Unavailable)으로 응답합니다. 다른 상태 코드를 설정하려면 `limit_req_status` 지시어를 사용하십시오(이 예제에서는 444):
@@ -246,15 +269,22 @@ location /login/ {
 }
 ```
 
+- [limit_req_status*nginx.org*](http://nginx.org/en/docs/http/ngx_http_limit_req_module.html#limit_req_status)
+{.links-list}
+
 ## 특정 위치에 대한 모든 요청 거부
 
-특정 URL에 대한 모든 요청을 거절하려면(제한하는 대신) 위치 블록을 구성하고 거부 모두(`deny all`) 지시어를 포함하십시오:
+특정 URL에 대한 모든 요청을 거절하려면(제한하는 대신) `location` 블록을 구성하고 거부 모두(`deny all`) 지시어를 포함하십시오:
 
 ```nginx
 location /foo.php {
     deny all;
 }
 ```
+
+- [location*nginx.org*](http://nginx.org/en/docs/http/ngx_http_core_module.html#location)
+- [deny*nginx.org*](http://nginx.org/en/docs/http/ngx_http_access_module.html#deny)
+{.links-list}
 
 # 결론
 
