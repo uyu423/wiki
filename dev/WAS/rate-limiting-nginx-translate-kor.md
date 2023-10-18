@@ -2,7 +2,7 @@
 title: NGINX Rate Limiting (번역)
 description: 
 published: true
-date: 2023-10-17T09:22:15.681Z
+date: 2023-10-18T05:52:27.097Z
 tags: nginx
 editor: markdown
 dateCreated: 2023-10-17T08:56:03.676Z
@@ -80,6 +80,8 @@ server {
 > - `$request_method`: 클라이언트의 요청 메서드를 나타냅니다.
 > - `$server_name`: 현재 서버의 이름을 나타냅니다.
 > - `$host`: 클라이언트의 요청 헤더의 Host 값을 나타냅니다.
+> - `$cookie_COOKIE`: 지정된 이름의 쿠키 값을 가져옵니다. 여기서 COOKIE는 원하는 쿠키 이름으로 대체됩니다. 예를 들어, user_id라는 쿠키를 가져오려면 $cookie_user_id를 사용합니다.
+> - `$http_HEADER`: 지정된 HTTP 헤더의 값을 가져옵니다. 여기서 HEADER는 원하는 HTTP 헤더 이름으로 대체됩니다. 예를 들어, User-Agent 헤더의 값을 얻으려면 $http_user_agent를 사용합니다.
 
 ## Zone
 각 IP 주소의 상태와 Rate Limiting URL에 얼마나 자주 액세스 되었는지를 저장하는 공유 메모리 영역을 정의합니다. 공유 메모리에서 정보를 유지하면 NGINX 작업 프로세스 간에 정보를 공유할 수 있습니다. 정의는 두 부분으로 이루어집니다. `zone=` 키워드로 식별되는 영역 이름과 콜론(:) 뒤의 `m` 단위의 크기로 구성됩니다. (대략 16,000개의 IP 주소에 대한 상태 정보는 1메가바이트를 차지하므로, 우리의 영역은 대략 160,000개의 주소를 저장할 수 있습니다.)
