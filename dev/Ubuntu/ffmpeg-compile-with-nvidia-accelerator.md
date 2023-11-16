@@ -2,8 +2,8 @@
 title: WSL2 Ubuntu에서 ffmpeg 컴파일 (with Nvidia Accelerator)
 description: 
 published: true
-date: 2023-02-19T11:14:06.246Z
-tags: ffmpeg, nvidia, cuda
+date: 2023-11-16T16:15:21.292Z
+tags: cuda, ffmpeg, nvidia
 editor: markdown
 dateCreated: 2023-02-19T11:04:04.971Z
 ---
@@ -96,6 +96,14 @@ sudo make install
 
 ```bash
 ffmpeg -y -hwaccel cuda -i input.file output.file
+```
+
+- cuda의 성능을 극대화해서 사용하려면 디코더/인코더 역시 nvidia 리소스를 사용하는 코덱으로 지정해주는 것이 좋다.
+  - (결과물의 상태가 천차만별인데, CRF 옵션 테스트가 필요함)
+
+```
+# ex) h264 코덱을 cuvid 로 디코딩하여, h265(hvec) nvenc 로 인코딩
+ffmpeg -hwaccel cuda -c:v h264_cuvid -i input.mp4 -c:v hevc_nvenc -c:a copy -crf 28 output.mp4
 ```
 
 
