@@ -2,7 +2,7 @@
 title: ffmpeg (내가) 자주 사용하는 명령어 모음집
 description: 
 published: true
-date: 2023-10-04T14:15:23.078Z
+date: 2023-11-16T16:17:18.120Z
 tags: ffmpeg, tips
 editor: markdown
 dateCreated: 2023-07-07T08:37:55.719Z
@@ -36,6 +36,15 @@ ffmpeg -loop 1 -i image.jpeg -i "input.mp3" -c:v libx264 -tune stillimage -c:a c
 
 위 명령어는 image.jpeg 파일과 input.mp3 파일을 결합하여 H.264 비디오 코덱으로 압축된 MP4 동영상 파일인 output.mp4을 생성합니다. 이미지는 반복 재생되며, 오디오는 원본 파일을 그대로 사용합니다. 최종적으로 생성된 동영상은 이미지를 보여주는 동안 배경음악이 재생됩니다.
 
+## nvidia 하드웨어 가속 극대화
+
+- ex) h264 코덱을 cuvid 로 디코딩하여, h265(hvec) nvenc 로 인코딩
+- 상황에 따라 ffmpeg를 재컴파일 해야할 수도 있음. 
+  - 우분투의 경우 [WSL2 Ubuntu에서 ffmpeg 컴파일](/ko/dev/Ubuntu/ffmpeg-compile-with-nvidia-accelerator) 참고
+
+```bash
+ffmpeg -hwaccel cuda -c:v h264_cuvid -i input.mp4 -c:v hevc_nvenc -c:a copy -crf 28 output.mp4
+```
 
 ## 동영상을 반복 재생 시켜서 긴 동영상 만들기
 
