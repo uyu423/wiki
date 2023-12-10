@@ -2,7 +2,7 @@
 title: ffmpeg (내가) 자주 사용하는 명령어 모음집
 description: 
 published: true
-date: 2023-12-10T21:03:03.107Z
+date: 2023-12-10T21:09:22.931Z
 tags: ffmpeg, tips
 editor: markdown
 dateCreated: 2023-07-07T08:37:55.719Z
@@ -46,7 +46,7 @@ ffmpeg -loop 1 -i image.jpeg -i "input.mp3" -c:v libx264 -tune stillimage -c:a c
 
 ```bash
 ffmpeg -hwaccel auto -c:v h264_cuvid -i "input.mp4" \
--c:v hevc_nvenc -preset:v p7 -tune:v hq -rc:v vbr -cq:v 19 -b:v 0 -c:a copy \
+-c:v hevc_nvenc -preset:v p7 -tune:v hq -rc:v vbr -cq:v 24 -b:v 0 -c:a copy \
 "output.mp4"
 # av1의 경우 hevc_nvenc가 아닌 av1_nvenc를 사용 
 ```
