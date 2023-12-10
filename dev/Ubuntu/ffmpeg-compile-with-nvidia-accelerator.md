@@ -2,7 +2,7 @@
 title: WSL2 Ubuntu에서 ffmpeg 컴파일 (with Nvidia Accelerator)
 description: 
 published: true
-date: 2023-11-16T16:15:21.292Z
+date: 2023-12-10T20:58:05.588Z
 tags: cuda, ffmpeg, nvidia
 editor: markdown
 dateCreated: 2023-02-19T11:04:04.971Z
@@ -51,6 +51,9 @@ sudo apt install build-essential yasm cmake libtool libc6 libc6-dev unzip wget l
 git clone https://git.videolan.org/git/ffmpeg/nv-codec-headers.git && cd nv-codec-headers && sudo make install
 ```
 
+> - `nvidia-driver-525` 우분투 패키지를 설치한 경우 `nv-codec-header`의 버전을 하향설치 해야함
+> - `n12.0.16.1` tag를 체크아웃하여 빌드하니 525 version 드라이버에서 ffmepg 정상 빌드됨
+
 ### ffmpeg
 
 ```bash
@@ -80,7 +83,8 @@ git clone https://git.ffmpeg.org/ffmpeg.git --depth=1 && cd ffmpeg
 --enable-libvpx \
 --enable-libx264 \
 --enable-libx265 \
---enable-nonfree
+--enable-nonfree \
+--enable-libaom
 ```
 
 - cuda 옵션 + ffmpeg에서 일반적으로 많이 사용하는 옵션들이 포함됨
@@ -89,6 +93,7 @@ git clone https://git.ffmpeg.org/ffmpeg.git --depth=1 && cd ffmpeg
 
 ```bash
 sudo make install
+# 재설치, 재컴파일 할 떄는 make clean, sudo make를 꼭 해주자
 ```
 
 - `make install`이 완료되면 ffmpeg 디렉토리 하위에서 ffmpeg 바이너리 파일이 컴파일되었다.
