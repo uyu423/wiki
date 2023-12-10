@@ -2,7 +2,7 @@
 title: ffmpeg (내가) 자주 사용하는 명령어 모음집
 description: 
 published: true
-date: 2023-12-10T20:54:10.199Z
+date: 2023-12-10T21:03:03.107Z
 tags: ffmpeg, tips
 editor: markdown
 dateCreated: 2023-07-07T08:37:55.719Z
@@ -41,7 +41,8 @@ ffmpeg -loop 1 -i image.jpeg -i "input.mp3" -c:v libx264 -tune stillimage -c:a c
 - ex) h264 코덱을 cuvid 로 디코딩하여, h265(hvec) nvenc 혹은 av1 nvenc로 인코딩
 - 상황에 따라 ffmpeg를 재컴파일 해야할 수도 있음. 
   - 우분투의 경우 [WSL2 Ubuntu에서 ffmpeg 컴파일](/ko/dev/Ubuntu/ffmpeg-compile-with-nvidia-accelerator) 참고
-  - av1 인코더를 사용하기 위해서는 우분투 `libaom-dev` 패키지가 필요할 수 있음. 그리고 ffmpeg에서 `--enable-libaom` configure 설정을 포함하여 다시 컴파일 해야함
+  - av1 관련 인코더를 사용하기 위해서는 우분투 `libaom-dev` 패키지가 필요할 수 있음. 그리고 ffmpeg에서 `--enable-libaom` configure 설정을 포함하여 다시 컴파일 해야함
+  - av1_nvenc 인코더를 사용하기 위해서는 ffmpeg 6.0 부터 가능
 
 ```bash
 ffmpeg -hwaccel auto -c:v h264_cuvid -i "input.mp4" \
