@@ -2,7 +2,7 @@
 title: ffmpeg (내가) 자주 사용하는 명령어 모음집
 description: 
 published: true
-date: 2023-12-03T13:54:25.840Z
+date: 2023-12-10T20:54:10.199Z
 tags: ffmpeg, tips
 editor: markdown
 dateCreated: 2023-07-07T08:37:55.719Z
@@ -38,14 +38,16 @@ ffmpeg -loop 1 -i image.jpeg -i "input.mp3" -c:v libx264 -tune stillimage -c:a c
 
 ## nvidia 하드웨어 가속 극대화
 
-- ex) h264 코덱을 cuvid 로 디코딩하여, h265(hvec) nvenc 로 인코딩
+- ex) h264 코덱을 cuvid 로 디코딩하여, h265(hvec) nvenc 혹은 av1 nvenc로 인코딩
 - 상황에 따라 ffmpeg를 재컴파일 해야할 수도 있음. 
   - 우분투의 경우 [WSL2 Ubuntu에서 ffmpeg 컴파일](/ko/dev/Ubuntu/ffmpeg-compile-with-nvidia-accelerator) 참고
+  - av1 인코더를 사용하기 위해서는 우분투 `libaom-dev` 패키지가 필요할 수 있음. 그리고 ffmpeg에서 `--enable-libaom` configure 설정을 포함하여 다시 컴파일 해야함
 
 ```bash
 ffmpeg -hwaccel auto -c:v h264_cuvid -i "input.mp4" \
 -c:v hevc_nvenc -preset:v p7 -tune:v hq -rc:v vbr -cq:v 19 -b:v 0 -c:a copy \
 "output.mp4"
+# av1의 경우 hevc_nvenc가 아닌 av1_nvenc를 사용 
 ```
 
 - `-c:v h264_nvenc`: 이 옵션은 비디오 코덱을 선택하는데 사용됩니다. 여기서 h264_nvenc는 NVIDIA 그래픽 카드의 NVENC 하드웨어 가속을 사용하여 H.264 비디오 코덱을 선택합니다. 이렇게 하면 비디오 인코딩 작업이 GPU를 활용하여 더 빠르게 수행됩니다.
