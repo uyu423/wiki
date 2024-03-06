@@ -2,7 +2,7 @@
 title: 😎 Home 
 description: 요우의 사설 개발 위키 입니다. 온갖 잡다한 문서들이 생성됩니다.
 published: true
-date: 2023-02-02T05:46:05.836Z
+date: 2024-03-06T09:08:12.792Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-02T05:27:47.250Z
@@ -13,7 +13,8 @@ dateCreated: 2023-02-02T05:27:47.250Z
 <p><img class="align-center" alt="yowu-white-trans.png" src="/yowu-white-trans.png"></p>
 <p><img class="align-center" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=uyu423&amp;show_icons=true&amp;count_private=true"></p>
 <blockquote>
-<p><strong>NAVER</strong> Forest CIC 쇼핑라이브 플랫폼팀 백엔드 개발자<br>
+<p><strong>NAVER</strong> Forest CIC NSPA TF 백엔드 개발자<br>
+<span style="color:silver;">NAVER</strong> Forest CIC 쇼핑라이브 플랫폼팀 백엔드 개발자<br>
 <span style="color:silver;"><strong>야놀자</strong> R&amp;D 그룹 CX 개발실 백엔드 개발자</span><br>
 <span style="color:silver;"><strong>PLATING</strong> 소프트웨어 엔지니어</span><br>
 <span style="color:silver;"><strong>Ecube Labs</strong> 서버 개발자</span><br>
