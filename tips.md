@@ -2,7 +2,7 @@
 title: Tips
 description: 요우의 생활 꿀팁 위키
 published: true
-date: 2023-07-07T08:38:50.107Z
+date: 2024-03-24T13:45:49.724Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T07:45:45.574Z
@@ -15,3 +15,4 @@ dateCreated: 2022-11-24T07:45:45.574Z
 - [Naver-Blog-SEO-tips](/ko/tips/Naver-Blog-SEO-tips)
 - [USB-specification-and-speed](/ko/tips/USB-specification-and-speed)
 - [ffmpeg-honey-command-hands-book](/ko/tips/ffmpeg-honey-command-hands-book)
+- [tips-of-shotcut-audio-filters-for-live-rock-performance](/ko/tips/tips-of-shotcut-audio-filters-for-live-rock-performance)
