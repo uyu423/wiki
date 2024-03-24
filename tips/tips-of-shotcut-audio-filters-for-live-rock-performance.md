@@ -2,7 +2,7 @@
 title: Shotcut 라이브 락 공연 Audio Filter 조절 수치 (개인적)
 description: 단일 마이크로 촬영된 락 공연의 노이즈와 음향 최적화를 위한 개인적은 Audio Filters 설정
 published: true
-date: 2024-03-24T13:45:15.839Z
+date: 2024-03-24T16:53:05.740Z
 tags: shotcut
 editor: markdown
 dateCreated: 2024-03-24T13:45:15.839Z
@@ -18,9 +18,9 @@ dateCreated: 2024-03-24T13:45:15.839Z
 - High Pass
 - Low Pass
 - Equalizer: 15-Band
-- Limiter
-- Compressor
 - Normalize: One Pass
+- Compressor
+- Limiter
 - Gain / Volume
 
 ## Noise Gate
@@ -100,20 +100,31 @@ dateCreated: 2024-03-24T13:45:15.839Z
 - 10000 Hz (과도한 심벌, 하이햇 소음 감소)
 - 20000 Hz (고주파 잡음)
 
-## Limiter
+## Normalize: One Pass
 
-### Input gain: 0 dB
+### Target Loudness: 16.0 LUFS
 
-- 신호의 초기 볼륨을 조정
-- 0 부터 시작해서 너무 작으면 증가
+- -23 LUFS (EBU R128 권장 값) 또는 -16 LUFS (스트리밍 플랫폼에 더 적합한 레벨) 중 선택
 
-### Limit: -0.1 dB
+### Analysis Window: 5 s
 
-- 신호의 최대 레벨 (-1 dB ~ -0.1 dB 사이)
+- 3 sec ~ 5 sec
 
-### Release: 0.05 s
+### Maximum Gain: 15.0 dB
 
-- 리미터가 한번 작동한 후 다시 원래 대로 돌아오는데 걸리는 시간 (0.05 ~ 0.2)
+- 너무 낮은 부분을 적절한 볼륨으로 끌어올릴 수 있게함
+
+### Minimum Gain: -5.0 dB
+
+- 이는 필요 이상으로 소리가 줄어드는 것을 방지
+
+### Maximum Rate: 2.0 dB/s
+
+- 이는 볼륨 변화가 너무 급격하게 발생하는 것을 방지
+
+### Reset on discontinuity: off
+
+- 일관된 오디오 스트림이면 체크 해제
 
 ## Compressor
 
@@ -155,31 +166,20 @@ dateCreated: 2024-03-24T13:45:15.839Z
 - 컴프레셔로 인해 감소된 볼륨을 보상
 - 3 dB ~ 6 dB
 
-## Normalize: One Pass
+## Limiter
 
-### Target Loudness: 16.0 LUFS
+### Input gain: 0 dB
 
-- -23 LUFS (EBU R128 권장 값) 또는 -16 LUFS (스트리밍 플랫폼에 더 적합한 레벨) 중 선택
+- 신호의 초기 볼륨을 조정
+- 0 부터 시작해서 너무 작으면 증가
 
-### Analysis Window: 5 s
+### Limit: -0.1 dB
 
-- 3 sec ~ 5 sec
+- 신호의 최대 레벨 (-1 dB ~ -0.1 dB 사이)
 
-### Maximum Gain: 15.0 dB
+### Release: 0.05 s
 
-- 너무 낮은 부분을 적절한 볼륨으로 끌어올릴 수 있게함
-
-### Minimum Gain: -5.0 dB
-
-- 이는 필요 이상으로 소리가 줄어드는 것을 방지
-
-### Maximum Rate: 2.0 dB/s
-
-- 이는 볼륨 변화가 너무 급격하게 발생하는 것을 방지
-
-### Reset on discontinuity: off
-
-- 일관된 오디오 스트림이면 체크 해제
+- 리미터가 한번 작동한 후 다시 원래 대로 돌아오는데 걸리는 시간 (0.05 ~ 0.2)
 
 ## Gain / Volume
 
