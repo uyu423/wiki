@@ -2,7 +2,7 @@
 title: 팩트풀니스 (한스로슬링, 2019, 김영사)
 description: 
 published: true
-date: 2024-04-16T10:05:21.787Z
+date: 2024-04-16T10:08:00.271Z
 tags: book
 editor: markdown
 dateCreated: 2024-04-16T10:05:03.719Z
