@@ -2,7 +2,7 @@
 title: Dev
 description: 
 published: true
-date: 2023-10-17T08:57:42.160Z
+date: 2024-06-13T09:47:08.188Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-24T03:26:46.738Z
@@ -108,6 +108,7 @@ dateCreated: 2022-11-24T03:26:46.738Z
 #### Spring
 - [Developing-Spring-Boot-in-vscode](/dev/Java/Spring/Developing-Spring-Boot-in-vscode)
 - [Get-LocalDateTime-from-spring-boot-RequestParam](/dev/Java/Spring/Get-LocalDateTime-from-spring-boot-RequestParam)
+- [Correct-SpringBoot-WebClient-URI-assembly-usage](/ko/dev/Java/Spring/Correct-SpringBoot-WebClient-URI-assembly-usage)
 
 ### Summary
 - [OSS-Developers-Forum-2016-AWS-Seminar-Content](/dev/Summary/OSS-Developers-Forum-2016-AWS-Seminar-Content)
