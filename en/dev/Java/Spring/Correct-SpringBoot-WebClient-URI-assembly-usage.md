@@ -2,7 +2,7 @@
 title: Correct SpringBoot WebClient URI assembly usage
 description: 
 published: true
-date: 2024-06-13T09:45:39.129Z
+date: 2024-06-13T09:49:52.872Z
 tags: java, kotlin, springboot, webclient
 editor: markdown
 dateCreated: 2024-06-13T09:45:39.129Z
@@ -20,10 +20,10 @@ webClient.get()
 // ...
 ```
 
-- In this case, the `uri()` method parameter passes the fully constructed URI through the uriBuilder.
+- In this case, the `uri()` method parameter passes the fully constructed URI through the `uriBuilder`.
 - This can lead to excessive metric collection and potentially high memory usage.
   - Example: `/v1/api/user/1234`, `/v1/api/user/2345` ...
-- To collect metrics correctly, the URI should be collected in the template form `/v1/api/user/{idNo}`.
+- To collect metrics correctly, the URI should be collected in the template form `/v1/api/user/{id}`.
 - To achieve this, pass the URI template and its arguments directly to the `uri()` method as shown below:
 
 ```java
@@ -42,9 +42,9 @@ webClient.get()
 
 # Spring Boot 3.x
 
-- From Boot 3.x onwards, this issue has been acknowledged, and metrics collection is not performed if the URI is determined to be dynamically generated.
+- From Boot 3.x onwards, this issue has been acknowledged. If the URI is determined to be dynamically generated, metrics collection does not occur.
 - When calling WebClient with the code that was problematic in 2.x, you will see that the `uri` tag value of the `http.client.requests` metric remains "none".
-- To avoid potential side effects in future metric or log collection, avoid generating URL strings through `uriBuilder` and passing them to `uri()` as you would in 2.x.
+- To avoid potential side effects in future metric or log collection, avoid generating URL strings through `uriBuilder` and passing them to `uri()` as you would in 2.x. Instead, pass the URI template and parameters directly.
 
 ## Related Links
 
